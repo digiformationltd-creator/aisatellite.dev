@@ -1,0 +1,93 @@
+---
+import { ExternalLink, ShieldCheck, Sparkles } from 'lucide-react';
+import Badge from '@/components/ui/Badge.astro';
+
+interface Props {
+  partner: 'digiformation' | 'digibizos';
+  context?: string;
+  title?: string;
+  description?: string;
+  disclosure?: string;
+  class?: string;
+}
+
+const {
+  partner,
+  context,
+  title,
+  description,
+  disclosure = 'Commercially associated partner resource.',
+  class: className = '',
+} = Astro.props;
+
+const partnerData = {
+  digiformation: {
+    name: 'DigiFormation',
+    defaultTitle: 'Need Professional UK LTD Incorporation & Global Compliance?',
+    defaultDesc:
+      'For remote engineers and agency founders needing official UK Companies House incorporation, statutory registered office address, and assistance with international banking prerequisites.',
+    cta: 'Explore Formation Services',
+    url: 'https://www.digiformation.co.uk/',
+    badge: 'Verified Legal Partner',
+    accent: 'cyan',
+  },
+  digibizos: {
+    name: 'Digi Biz OS',
+    defaultTitle: 'Consolidate Agency Operations into One Unified OS',
+    defaultDesc:
+      'Replace multiple disjointed SaaS subscriptions with an all-in-one business operating system featuring integrated CRM, invoicing, client scheduling, and workflow automation.',
+    cta: 'View Platform Details',
+    url: 'https://digibizos.co.uk/',
+    badge: 'Featured Business OS',
+    accent: 'emerald',
+  },
+};
+
+const current = partnerData[partner];
+const displayTitle = title || current.defaultTitle;
+const displayDesc = description || current.defaultDesc;
+---
+
+<aside
+  class:list={[
+    'my-8 p-6 rounded-card bg-gradient-to-br from-space-900 to-space-850 border border-border-subtle relative overflow-hidden group hover:border-border-hover transition-all duration-200',
+    className,
+  ]}
+  aria-label={`Partner recommendation for ${current.name}`}
+>
+  <div class="absolute -right-8 -bottom-8 w-40 h-40 bg-cosmic-cyan/5 rounded-full blur-2xl group-hover:bg-cosmic-cyan/10 transition-colors pointer-events-none"></div>
+
+  <div class="flex items-center justify-between gap-4 mb-3">
+    <div class="flex items-center gap-2">
+      <Badge variant={current.accent === 'cyan' ? 'cyan' : 'emerald'} size="sm">
+        <ShieldCheck className="w-3 h-3 mr-1 inline" />
+        {current.badge}
+      </Badge>
+      {context && <span class="text-xs font-mono text-text-muted">/ {context}</span>}
+    </div>
+    <span class="text-[11px] font-mono text-text-muted italic">
+      {disclosure}
+    </span>
+  </div>
+
+  <h3 class="text-lg sm:text-xl font-heading font-bold text-text-primary mb-2 flex items-center gap-2">
+    <span>{displayTitle}</span>
+  </h3>
+
+  <p class="text-sm text-text-secondary leading-relaxed mb-5 max-w-2xl">
+    {displayDesc}
+  </p>
+
+  <div class="flex items-center gap-4">
+    <a
+      href={current.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="inline-flex items-center gap-2 px-4 py-2 rounded-button bg-space-800 hover:bg-space-700 text-text-primary text-sm font-semibold border border-border-subtle hover:border-cosmic-cyan transition-all duration-150 group-hover:shadow-glow-cyan"
+    >
+      <span>{current.cta}</span>
+      <ExternalLink className="w-3.5 h-3.5 text-cosmic-cyan" />
+    </a>
+    <span class="text-xs text-text-muted">Official Website &bull; External Link</span>
+  </div>
+</aside>

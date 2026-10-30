@@ -1,0 +1,33 @@
+---
+interface Props {
+  variant?: 'cyan' | 'violet' | 'emerald' | 'subtle' | 'outline';
+  size?: 'sm' | 'md';
+  class?: string;
+}
+
+const { variant = 'subtle', size = 'sm', class: className = '' } = Astro.props;
+
+const variantStyles = {
+  cyan: 'bg-cosmic-cyan/10 text-cosmic-cyan border-cosmic-cyan/30',
+  violet: 'bg-cosmic-violet/10 text-cosmic-violet border-cosmic-violet/30',
+  emerald: 'bg-cosmic-emerald/10 text-cosmic-emerald border-cosmic-emerald/30',
+  subtle: 'bg-space-850 text-text-secondary border-border-subtle',
+  outline: 'bg-transparent text-text-muted border-border-subtle hover:border-text-secondary',
+};
+
+const sizeStyles = {
+  sm: 'text-xs px-2.5 py-0.5',
+  md: 'text-sm px-3 py-1',
+};
+---
+
+<span
+  class:list={[
+    'inline-flex items-center font-mono font-medium rounded-full border transition-colors',
+    variantStyles[variant],
+    sizeStyles[size],
+    className,
+  ]}
+>
+  <slot />
+</span>

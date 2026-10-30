@@ -1,0 +1,62 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import WorkflowCard from '@/components/cards/WorkflowCard.astro';
+import Badge from '@/components/ui/Badge.astro';
+import Button from '@/components/ui/Button.astro';
+import { Cpu, Terminal, Sparkles, ShieldAlert, ArrowRight } from 'lucide-react';
+
+const workflows = await getCollection('workflows', ({ data }) => data.published);
+---
+
+<BaseLayout
+  title="Autonomous AI Agents & Agentic Workflows"
+  description="Production blueprints for autonomous agent swarms, Model Context Protocol integration, and deterministic tool-calling pipelines."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'AI Agents' }]} />
+
+    <SectionHeading
+      badge="Agentic Architecture"
+      title="Autonomous AI Agents & Workflows"
+      description="Step beyond single-prompt interactions. Discover multi-agent orchestration architectures, local execution pipelines, and standardized MCP tools."
+    />
+
+    <!-- Quick Navigation Hub -->
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12">
+      <a href="/workflows" class="cosmic-glass p-5 hover:border-cosmic-cyan transition-colors group">
+        <Cpu className="w-6 h-6 text-cosmic-cyan mb-2" />
+        <h2 class="text-base font-heading font-bold text-text-primary group-hover:text-cosmic-cyan">Pipeline Workflows</h2>
+        <p class="text-xs text-text-muted mt-1">Multi-step deterministic automation for code, tests, and research.</p>
+      </a>
+
+      <a href="/mcp-servers" class="cosmic-glass p-5 hover:border-cosmic-violet transition-colors group">
+        <Terminal className="w-6 h-6 text-cosmic-violet mb-2" />
+        <h2 class="text-base font-heading font-bold text-text-primary group-hover:text-cosmic-violet">MCP Servers Catalog</h2>
+        <p class="text-xs text-text-muted mt-1">Standardized Model Context Protocol servers to give agents tool access.</p>
+      </a>
+
+      <a href="/prompts" class="cosmic-glass p-5 hover:border-cosmic-emerald transition-colors group">
+        <Sparkles className="w-6 h-6 text-cosmic-emerald mb-2" />
+        <h2 class="text-base font-heading font-bold text-text-primary group-hover:text-cosmic-emerald">System Prompts</h2>
+        <p class="text-xs text-text-muted mt-1">Tested system directives to prevent hallucinations in autonomous agents.</p>
+      </a>
+    </div>
+
+    <!-- Active Workflows Grid -->
+    <h3 class="text-xl font-heading font-bold text-text-primary mb-6">
+      Featured Agentic Workflows
+    </h3>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {
+        workflows.map((wf) => (
+          <WorkflowCard workflow={wf} />
+        ))
+      }
+    </div>
+  </PageContainer>
+</BaseLayout>

@@ -1,0 +1,76 @@
+---
+import { Cpu, ArrowRight, ShieldAlert } from 'lucide-react';
+import Badge from '@/components/ui/Badge.astro';
+
+interface Props {
+  workflow: {
+    id: string;
+    data: {
+      title: string;
+      objective: string;
+      difficulty: string;
+      requiredTools: string[];
+      agentRoles: string[];
+      freeClassification: string;
+    };
+  };
+  class?: string;
+}
+
+const { workflow, class: className = '' } = Astro.props;
+const { title, objective, difficulty, requiredTools, agentRoles, freeClassification } = workflow.data;
+
+const diffVariants = {
+  Beginner: 'emerald',
+  Intermediate: 'cyan',
+  Advanced: 'violet',
+} as const;
+---
+
+<article class:list={['cosmic-glass p-5 flex flex-col justify-between group h-full', className]}>
+  <div>
+    <div class="flex items-center justify-between gap-2 mb-3">
+      <Badge variant={diffVariants[difficulty as keyof typeof diffVariants] || 'subtle'} size="sm">
+        {difficulty}
+      </Badge>
+      <span class="text-[11px] font-mono text-text-muted truncate max-w-[150px]">
+        {freeClassification}
+      </span>
+    </div>
+
+    <h3 class="text-lg font-heading font-bold text-text-primary group-hover:text-cosmic-cyan transition-colors mb-2">
+      <a href={`/workflows#${workflow.id}`} class="focus:outline-none focus:underline">
+        {title}
+      </a>
+    </h3>
+
+    <p class="text-xs sm:text-sm text-text-secondary leading-relaxed mb-4 line-clamp-2">
+      {objective}
+    </p>
+
+    <!-- Roles & Tools -->
+    <div class="space-y-2 mb-4 text-xs font-mono">
+      <div class="flex items-center gap-1.5 text-text-muted">
+        <Cpu className="w-3.5 h-3.5 text-cosmic-violet flex-shrink-0" />
+        <span class="truncate">Roles: {agentRoles.join(' • ')}</span>
+      </div>
+      <div class="flex flex-wrap gap-1">
+        {requiredTools.slice(0, 3).map((tool) => (
+          <span class="px-2 py-0.5 rounded bg-space-950 text-text-muted border border-border-subtle">
+            {tool}
+          </span>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <div class="pt-3 border-t border-border-subtle flex items-center justify-between mt-auto">
+    <a
+      href={`/workflows#${workflow.id}`}
+      class="text-xs font-medium text-cosmic-cyan hover:underline inline-flex items-center gap-1"
+    >
+      <span>View Pipeline Blueprint</span>
+      <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-1" />
+    </a>
+  </div>
+</article>

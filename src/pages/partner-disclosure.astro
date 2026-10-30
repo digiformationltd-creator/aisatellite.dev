@@ -1,0 +1,58 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { Info, ShieldAlert, CheckCircle2 } from 'lucide-react';
+---
+
+<BaseLayout
+  title="Commercial Partner & Affiliate Disclosure — AI Satellite"
+  description="Full transparency regarding commercial relationships, contextual recommendations, and affiliate partnerships."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs items={[{ label: 'Partner Disclosure' }]} />
+
+    <SectionHeading
+      badge="Transparency"
+      title="Commercial Partner & Affiliate Disclosure"
+      description="Our clear policy regarding partner links, commercial affiliations, and editorial integrity."
+    />
+
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary text-base space-y-6">
+      <div class="not-prose p-5 rounded-card bg-space-900 border border-cosmic-cyan/30 text-sm text-text-primary leading-relaxed my-6">
+        <strong class="text-cosmic-cyan block font-mono mb-1">Guiding Principle:</strong>
+        AI Satellite is primarily a free, open-source educational knowledge station. To fund ongoing operations and server infrastructure, we selectively reference commercial services that directly solve problems for our readers.
+      </div>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary">Associated Commercial Partners</h2>
+      <p>
+        AI Satellite maintains formal commercial associations with the following platforms:
+      </p>
+
+      <div class="not-prose space-y-4 my-6">
+        <div class="p-5 rounded-card bg-space-900/80 border border-border-subtle">
+          <h3 class="text-base font-heading font-bold text-cosmic-cyan mb-1">1. DigiFormation (<a href="https://www.digiformation.co.uk/" target="_blank" rel="noopener noreferrer" class="underline">digiformation.co.uk</a>)</h3>
+          <p class="text-xs sm:text-sm text-text-secondary leading-relaxed mt-1">
+            <strong>Nature of Relationship:</strong> Commercial affiliation. We contextually recommend DigiFormation in articles concerning UK corporate entity incorporation, Companies House compliance filings, and registered office addresses. We receive compensation if you engage their services through our links.
+          </p>
+        </div>
+
+        <div class="p-5 rounded-card bg-space-900/80 border border-border-subtle">
+          <h3 class="text-base font-heading font-bold text-cosmic-emerald mb-1">2. Digi Biz OS (<a href="https://digibizos.co.uk/" target="_blank" rel="noopener noreferrer" class="underline">digibizos.co.uk</a>)</h3>
+          <p class="text-xs sm:text-sm text-text-secondary leading-relaxed mt-1">
+            <strong>Nature of Relationship:</strong> Commercial affiliation. We contextually recommend Digi Biz OS in software reviews evaluating integrated business operating systems (CRM, invoicing, automation). We receive compensation if you subscribe to their platform through our links.
+          </p>
+        </div>
+      </div>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">Legal Disclaimers & Non-Guarantees</h2>
+      <ul class="space-y-2 list-disc pl-5">
+        <li><strong>No Approval Guarantees:</strong> We never guarantee that an application for a bank account (such as Wise Business) or merchant gateway (such as Stripe) will be approved. All underwriting decisions are solely at the discretion of the respective financial institutions.</li>
+        <li><strong>No Legal or Tax Advice:</strong> Content published on AI Satellite is educational. Consult a licensed solicitor or chartered accountant for specific legal and tax planning.</li>
+        <li><strong>Clear Disclosures:</strong> Every recommendation card features an explicit commercial disclosure label so you always know when a commercial relationship exists.</li>
+      </ul>
+    </article>
+  </PageContainer>
+</BaseLayout>

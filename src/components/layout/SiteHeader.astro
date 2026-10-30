@@ -1,0 +1,112 @@
+---
+import { Search, PlusCircle } from 'lucide-react';
+import GithubIcon from '@/components/icons/GithubIcon.astro';
+import DesktopMegaMenu from '@/components/navigation/DesktopMegaMenu.tsx';
+import MobileNavigation from '@/components/navigation/MobileNavigation.tsx';
+import PageContainer from '@/components/layout/PageContainer.astro';
+
+interface Props {
+  currentPath?: string;
+}
+
+const { currentPath = '/' } = Astro.props;
+
+const navLinks = [
+  { href: '/open-source', label: 'Free Tools' },
+  { href: '/ai-agents', label: 'AI Agents' },
+  { href: '/3d-lab', label: '3D Web Lab' },
+  { href: '/prompts', label: 'Prompt Vault' },
+  { href: '/playbooks', label: 'Playbooks' },
+];
+---
+
+<header class="sticky top-0 z-40 w-full border-b border-border-subtle bg-space-950/80 backdrop-blur-xl transition-all duration-200">
+  <PageContainer>
+    <div class="flex items-center justify-between h-16 sm:h-20">
+      <!-- Brand Logo -->
+      <a href="/" class="flex items-center gap-3 group focus:outline-none focus:ring-2 focus:ring-cosmic-cyan rounded-lg p-1">
+        <div class="relative w-9 h-9 sm:w-10 sm:h-10 rounded-xl bg-space-900 border border-border-hover flex items-center justify-center overflow-hidden shadow-glow-cyan/20 group-hover:border-cosmic-cyan transition-colors">
+          <!-- Orbital Satellite Vector Mark -->
+          <svg class="w-6 h-6 text-cosmic-cyan transition-transform duration-500 group-hover:rotate-45" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" opacity="0.3"/>
+            <circle cx="12" cy="12" r="3" fill="#00f0ff" stroke="none" />
+            <ellipse cx="12" cy="12" rx="9" ry="3.5" transform="rotate(-30 12 12)" stroke="#8b5cf6" stroke-dasharray="2 2" />
+          </svg>
+        </div>
+        <div>
+          <span class="font-heading font-bold text-lg sm:text-xl text-text-primary tracking-tight group-hover:text-cosmic-cyan transition-colors">
+            AI Satellite
+          </span>
+          <span class="hidden sm:block text-[10px] font-mono text-text-muted tracking-wider uppercase">
+            Knowledge Station
+          </span>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation Menu -->
+      <nav class="hidden md:flex items-center gap-6" aria-label="Main Navigation">
+        <DesktopMegaMenu client:load />
+
+        {
+          navLinks.map((link) => {
+            const isActive = currentPath.startsWith(link.href);
+            return (
+              <a
+                href={link.href}
+                class:list={[
+                  'text-sm font-medium transition-colors py-1',
+                  isActive
+                    ? 'text-cosmic-cyan border-b-2 border-cosmic-cyan'
+                    : 'text-text-secondary hover:text-text-primary',
+                ]}
+              >
+                {link.label}
+              </a>
+            );
+          })
+        }
+      </nav>
+
+      <!-- Right Header Actions -->
+      <div class="flex items-center gap-2.5 sm:gap-3">
+        <!-- Search Trigger Button -->
+        <button
+          type="button"
+          id="global-search-trigger"
+          class="flex items-center gap-2 px-3 py-1.5 rounded-button bg-space-900 hover:bg-space-850 text-text-muted hover:text-cosmic-cyan border border-border-subtle hover:border-cosmic-cyan/40 transition-all text-xs font-mono"
+          aria-label="Open search dialog"
+          onclick="window.dispatchEvent(new CustomEvent('open-search'))"
+        >
+          <Search className="w-3.5 h-3.5" />
+          <span class="hidden lg:inline text-text-secondary">Search...</span>
+          <kbd class="hidden sm:inline-block px-1.5 py-0.5 text-[10px] bg-space-950 text-text-muted rounded border border-border-subtle">
+            ⌘K
+          </kbd>
+        </button>
+
+        <!-- GitHub Repo Shortcut -->
+        <a
+          href="https://github.com/ripienaar/free-for-dev"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="p-2 rounded-button bg-space-900 hover:bg-space-850 text-text-secondary hover:text-text-primary border border-border-subtle transition-colors"
+          aria-label="View Open-Source Data on GitHub"
+        >
+          <GithubIcon class="w-4 h-4" />
+        </a>
+
+        <!-- Submit Tool / Contribute Link -->
+        <a
+          href="/contribute"
+          class="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-button bg-cosmic-cyan/10 hover:bg-cosmic-cyan/20 text-cosmic-cyan border border-cosmic-cyan/30 text-xs font-semibold transition-all hover:shadow-glow-cyan/20"
+        >
+          <PlusCircle className="w-3.5 h-3.5" />
+          <span>Contribute</span>
+        </a>
+
+        <!-- Mobile Navigation Menu Toggle Island -->
+        <MobileNavigation client:media="(max-width: 768px)" />
+      </div>
+    </div>
+  </PageContainer>
+</header>

@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --space-950: #0a0f1d;
+  --space-900: #121826;
+  --space-850: #172033;
+  --space-800: #1d2940;
+
+  --cosmic-cyan: #00f0ff;
+  --cosmic-violet: #8b5cf6;
+  --cosmic-emerald: #10b981;
+
+  --text-primary: #f4f8ff;
+  --text-secondary: #a8b8d0;
+  --text-muted: #788ba8;
+
+  --border-subtle: rgba(160, 190, 230, 0.12);
+  --border-hover: rgba(0, 240, 255, 0.35);
+
+  --glass-background: rgba(18, 24, 38, 0.72);
+  --glass-blur: 16px;
+
+  --radius-card: 18px;
+  --radius-button: 12px;
+  --radius-modal: 24px;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: var(--space-950);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  background: radial-gradient(circle at 50% 0%, #151e36 0%, #0a0f1d 75%);
+}
+
+/* Custom Cosmic Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0f1d;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+  border: 1px solid rgba(160, 190, 230, 0.1);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+  border-color: #00f0ff;
+}
+
+/* Cosmic Glass Cards */
+.cosmic-glass {
+  background: rgba(18, 24, 38, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(160, 190, 230, 0.12);
+  border-radius: 18px;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.cosmic-glass:hover {
+  border-color: rgba(0, 240, 255, 0.4);
+  box-shadow: 0 10px 30px -10px rgba(0, 240, 255, 0.15);
+  transform: translateY(-2px);
+}
+
+/* Glow Text */
+.glow-text-cyan {
+  text-shadow: 0 0 20px rgba(0, 240, 255, 0.5);
+}
+
+.glow-text-violet {
+  text-shadow: 0 0 20px rgba(139, 92, 246, 0.5);
+}
+
+/* Pagefind search styling */
+.pagefind-ui {
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: #00f0ff;
+  --pagefind-ui-text: #f4f8ff;
+  --pagefind-ui-background: #121826;
+  --pagefind-ui-border: rgba(160, 190, 230, 0.15);
+  --pagefind-ui-tag: #172033;
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 12px;
+  --pagefind-ui-image-border-radius: 8px;
+  --pagefind-ui-font: 'Inter', sans-serif;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

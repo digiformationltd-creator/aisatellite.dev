@@ -1,0 +1,88 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import WorkflowCard from '@/components/cards/WorkflowCard.astro';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+import Badge from '@/components/ui/Badge.astro';
+import { Terminal, ShieldAlert, Cpu } from 'lucide-react';
+
+const workflows = await getCollection('workflows', ({ data }) => data.published);
+---
+
+<BaseLayout
+  title="Autonomous AI Agent Pipeline Workflows"
+  description="Tested multi-step AI engineering workflows with copyable configurations, tool bindings, and security guardrails."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'AI Workflows' }]} />
+
+    <SectionHeading
+      badge="Autonomous Blueprints"
+      title="Production AI Workflows"
+      description="Deterministic, multi-agent workflows designed to execute real engineering tasks without unpredictable token loops."
+    />
+
+    <!-- Workflows Full Breakdown -->
+    <div class="space-y-12 mt-10">
+      {
+        workflows.map((wf) => (
+          <article id={wf.id} class="cosmic-glass p-6 sm:p-8 rounded-card border-border-subtle scroll-mt-24">
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pb-4 border-b border-border-subtle mb-6">
+              <div>
+                <div class="flex items-center gap-2 mb-2">
+                  <Badge variant={wf.data.difficulty === 'Beginner' ? 'emerald' : wf.data.difficulty === 'Intermediate' ? 'cyan' : 'violet'}>
+                    {wf.data.difficulty}
+                  </Badge>
+                  <span class="text-xs font-mono text-text-muted">{wf.data.freeClassification}</span>
+                </div>
+                <h2 class="text-2xl font-heading font-bold text-text-primary">{wf.data.title}</h2>
+              </div>
+              <a href={`/agents/${wf.id}`} class="text-xs font-mono text-cosmic-cyan hover:underline self-start sm:self-auto">
+                Detailed Agent Spec &rarr;
+              </a>
+            </div>
+
+            <p class="text-base text-text-secondary leading-relaxed mb-6">
+              {wf.data.objective}
+            </p>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+              <div class="p-4 rounded-lg bg-space-950 border border-border-subtle">
+                <span class="text-xs font-mono font-bold text-cosmic-violet block mb-2 uppercase">Agent Roles</span>
+                <ul class="text-xs font-mono text-text-secondary space-y-1">
+                  {wf.data.agentRoles.map((role) => <li>&bull; {role}</li>)}
+                </ul>
+              </div>
+
+              <div class="p-4 rounded-lg bg-space-950 border border-border-subtle">
+                <span class="text-xs font-mono font-bold text-cosmic-cyan block mb-2 uppercase">Required Stack & Tools</span>
+                <div class="flex flex-wrap gap-1.5 mt-1">
+                  {wf.data.requiredTools.map((t) => (
+                    <span class="px-2 py-0.5 text-xs font-mono rounded bg-space-900 text-text-muted border border-border-subtle">
+                      {t}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
+
+            <!-- Configuration / Prompt -->
+            <div class="my-6">
+              <div class="flex items-center justify-between mb-2">
+                <span class="text-xs font-mono font-bold text-text-primary uppercase flex items-center gap-1.5">
+                  <Terminal className="w-3.5 h-3.5 text-cosmic-cyan" />
+                  <span>Pipeline Blueprint Configuration</span>
+                </span>
+                <CopyButton client:visible text={wf.data.configurationSnippet} label="Copy Snippet" />
+              </div>
+              <pre class="p-4 rounded-xl bg-space-950 font-mono text-xs text-cosmic-cyan overflow-x-auto leading-relaxed border border-border-subtle"><code>{wf.data.configurationSnippet}</code></pre>
+            </div>
+          </article>
+        ))
+      }
+    </div>
+  </PageContainer>
+</BaseLayout>

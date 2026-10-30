@@ -1,0 +1,28 @@
+# Build output
+dist/
+.astro/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.production
+.env.local
+*.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test & Coverage
+coverage/
+
+# Cloudflare Pages / Wrangler
+.wrangler/

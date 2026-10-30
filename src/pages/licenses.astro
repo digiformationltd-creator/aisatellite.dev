@@ -1,0 +1,33 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+---
+
+<BaseLayout
+  title="Licenses & Open-Source Attributions — AI Satellite"
+  description="Open-source licenses, software attributions, and copyright notices for AI Satellite."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs items={[{ label: 'Licenses' }]} />
+
+    <SectionHeading
+      badge="Open Source"
+      title="Licenses & Attributions"
+      description="Respecting open-source creators, permissive licenses, and third-party software copyrights."
+    />
+
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary text-base space-y-6">
+      <h2 class="text-2xl font-heading font-bold text-text-primary">Platform Source Code</h2>
+      <p>
+        AI Satellite Phase 1 is built using open-source technologies including Astro, React, Tailwind CSS, Lucide Icons, Pagefind, and Three.js.
+      </p>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">Data Attributions</h2>
+      <p>
+        Directory entries for free developer tools draw inspiration from the open-source community catalog <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreferrer" class="text-cosmic-cyan underline">free-for-dev</a> maintained by R.I. Pienaar under the MIT License.
+      </p>
+    </article>
+  </PageContainer>
+</BaseLayout>

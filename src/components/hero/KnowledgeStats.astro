@@ -1,0 +1,86 @@
+---
+import { getCollection } from 'astro:content';
+import { Database, FolderGit2, Cpu, BookOpen, Clock } from 'lucide-react';
+import PageContainer from '@/components/layout/PageContainer.astro';
+
+// Fetch real published counts dynamically
+const tools = await getCollection('tools', ({ data }) => data.published);
+const projects = await getCollection('projects', ({ data }) => data.published);
+const workflows = await getCollection('workflows', ({ data }) => data.published);
+const articles = await getCollection('blog', ({ data }) => data.published);
+
+const stats = [
+  {
+    label: 'Verified Free Tools',
+    value: tools.length,
+    icon: Database,
+    accent: 'cyan',
+    href: '/open-source',
+  },
+  {
+    label: 'Open-Source Projects',
+    value: projects.length,
+    icon: FolderGit2,
+    accent: 'violet',
+    href: '/projects',
+  },
+  {
+    label: 'AI Workflows',
+    value: workflows.length,
+    icon: Cpu,
+    accent: 'emerald',
+    href: '/workflows',
+  },
+  {
+    label: 'Technical Guides',
+    value: articles.length,
+    icon: BookOpen,
+    accent: 'amber',
+    href: '/playbooks',
+  },
+];
+
+const lastUpdated = '2026-10-31';
+---
+
+<section class="py-8 border-y border-border-subtle bg-space-900/40 backdrop-blur-md">
+  <PageContainer>
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
+      {
+        stats.map((stat) => {
+          const Icon = stat.icon;
+          return (
+            <a
+              href={stat.href}
+              class="flex items-center gap-4 p-4 rounded-card bg-space-900/60 border border-border-subtle hover:border-border-hover transition-all duration-200 group"
+            >
+              <div class="p-3 rounded-xl bg-space-950 border border-border-subtle text-cosmic-cyan group-hover:scale-110 transition-transform">
+                <Icon className="w-5 h-5" />
+              </div>
+              <div>
+                <div class="text-2xl sm:text-3xl font-heading font-extrabold text-text-primary tracking-tight">
+                  {stat.value}
+                </div>
+                <div class="text-xs font-mono text-text-muted mt-0.5 group-hover:text-text-secondary transition-colors">
+                  {stat.label}
+                </div>
+              </div>
+            </a>
+          );
+        })
+      }
+    </div>
+
+    <!-- Live Data Notice -->
+    <div class="mt-4 pt-3 flex items-center justify-between text-[11px] font-mono text-text-muted px-2">
+      <span class="flex items-center gap-1.5">
+        <span class="w-1.5 h-1.5 rounded-full bg-cosmic-emerald"></span>
+        Zero Fabricated Metrics &bull; Dynamically Counted from Knowledge Base
+      </span>
+      <span class="flex items-center gap-1">
+        <Clock className="w-3 h-3 text-text-muted" />
+        Synced: {lastUpdated}
+      </span>
+    </div>
+  </PageContainer>
+</section>

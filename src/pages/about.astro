@@ -1,0 +1,43 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { ShieldCheck, Heart, Sparkles, Terminal, Globe } from 'lucide-react';
+---
+
+<BaseLayout
+  title="About AI Satellite — Open Knowledge Mission"
+  description="Discover the core architectural mission, editorial principles, and vision behind AI Satellite."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs items={[{ label: 'About' }]} />
+
+    <SectionHeading
+      badge="Mission Brief"
+      title="About AI Satellite"
+      description="The Global Open-Source & Autonomous AI Knowledge Station."
+    />
+
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary text-base space-y-6">
+      <h2 class="text-2xl font-heading font-bold text-text-primary">Our Core Mandate</h2>
+      <p>
+        The software landscape is rapidly fragmenting into walled gardens, artificial token paywalls, and unverified AI hype. <strong>AI Satellite</strong> was founded with a straightforward mandate: build an authoritative, zero-paywall knowledge station for software developers, autonomous AI engineers, and technical founders.
+      </p>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">Non-Negotiable Principles</h2>
+      <ul class="space-y-2 list-disc pl-5">
+        <li><strong>Zero Fabricated Data:</strong> We never generate fake star counts, artificial urgency counters, or paid review fluff. Every resource is audited against official sources.</li>
+        <li><strong>Open Source Priority:</strong> Wherever possible, we prioritize software that can be self-hosted, modified, and inspected without vendor lock-in.</li>
+        <li><strong>Static-First Architecture:</strong> AI Satellite runs entirely on static HTML generated at the edge, guaranteeing sub-second response times worldwide and zero database downtime.</li>
+        <li><strong>Transparent Commercial Affiliations:</strong> Commercial partners like DigiFormation and Digi Biz OS are disclosed clearly and contextually.</li>
+      </ul>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">Global Edge Deployment</h2>
+      <p>
+        AI Satellite is compiled directly to static HTML and served globally across Cloudflare's 300+ city Anycast CDN network.
+      </p>
+    </article>
+  </PageContainer>
+</BaseLayout>

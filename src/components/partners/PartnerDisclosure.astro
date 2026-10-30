@@ -1,0 +1,17 @@
+---
+import { Info } from 'lucide-react';
+
+interface Props {
+  class?: string;
+}
+
+const { class: className = '' } = Astro.props;
+---
+
+<div class:list={['p-4 rounded-card bg-space-900 border border-border-subtle text-xs text-text-muted flex items-start gap-3 my-6', className]}>
+  <Info className="w-4 h-4 text-cosmic-cyan flex-shrink-0 mt-0.5" />
+  <div class="leading-relaxed">
+    <strong class="text-text-secondary font-medium">Editorial & Partner Disclosure:</strong>
+    AI Satellite is primarily a free, open-source developer knowledge station. When relevant to the reader's task, we contextually reference vetted commercial partner platforms (such as DigiFormation and Digi Biz OS) with whom we maintain commercial affiliations. We never guarantee third-party account approvals or compliance exemptions.
+  </div>
+</div>

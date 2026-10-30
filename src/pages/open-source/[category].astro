@@ -1,0 +1,60 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import ToolCard from '@/components/cards/ToolCard.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+
+export async function getStaticPaths() {
+  const allTools = await getCollection('tools', ({ data }) => data.published);
+  const categories = Array.from(new Set(allTools.map((t) => t.data.category)));
+
+  return categories.map((cat) => {
+    const slug = cat.toLowerCase().replace(/\s+/g, '-');
+    return {
+      params: { category: slug },
+      props: {
+        categoryName: cat,
+        tools: allTools.filter((t) => t.data.category === cat),
+      },
+    };
+  });
+}
+
+const { categoryName, tools } = Astro.props;
+---
+
+<BaseLayout
+  title={`${categoryName} — Free Developer Tools`}
+  description={`Browse verified open-source and free ${categoryName} software for developers and founders.`}
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Open-Source Vault', href: '/open-source' },
+        { label: categoryName },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Category"
+      title={`Free ${categoryName}`}
+      description={`Verified, production-ready ${categoryName.toLowerCase()} solutions with clear licensing and free-tier documentation.`}
+    />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+      {
+        tools.map((tool) => (
+          <ToolCard tool={tool} />
+        ))
+      }
+    </div>
+
+    <div class="mt-12 text-center pt-8 border-t border-border-subtle">
+      <a href="/open-source" class="text-sm font-mono text-cosmic-cyan hover:underline">
+        &larr; Return to All Developer Tools
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

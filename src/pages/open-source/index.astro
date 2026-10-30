@@ -1,0 +1,61 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import ToolCard from '@/components/cards/ToolCard.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+
+const allTools = await getCollection('tools', ({ data }) => data.published);
+
+// Extract unique categories
+const categories = Array.from(new Set(allTools.map((t) => t.data.category))).sort();
+---
+
+<BaseLayout
+  title="Open-Source & Free Developer Tools Vault"
+  description="Explore verified free developer tools, databases, object storage, and self-hosted cloud alternatives."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'Open-Source Vault' }]} />
+
+    <SectionHeading
+      badge="Free Universe"
+      title="Open-Source & Free Developer Tools"
+      description="Hand-curated, verified developer utilities, open-source databases, and infrastructure tiers with zero deceptive paywalls."
+    />
+
+    <!-- Category Pills -->
+    <div class="flex flex-wrap gap-2 mb-10 pb-4 border-b border-border-subtle">
+      <a
+        href="/open-source"
+        class="px-3.5 py-1.5 rounded-button text-xs font-mono font-bold bg-cosmic-cyan text-space-950 shadow-glow-cyan/20"
+      >
+        All Tools ({allTools.length})
+      </a>
+      {
+        categories.map((cat) => {
+          const count = allTools.filter((t) => t.data.category === cat).length;
+          const slug = cat.toLowerCase().replace(/\s+/g, '-');
+          return (
+            <a
+              href={`/open-source/${slug}`}
+              class="px-3.5 py-1.5 rounded-button text-xs font-mono bg-space-900 text-text-secondary hover:text-cosmic-cyan hover:bg-space-850 border border-border-subtle transition-colors"
+            >
+              {cat} ({count})
+            </a>
+          );
+        })
+      }
+    </div>
+
+    <!-- Tools Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {
+        allTools.map((tool) => (
+          <ToolCard tool={tool} />
+        ))
+      }
+    </div>
+  </PageContainer>
+</BaseLayout>

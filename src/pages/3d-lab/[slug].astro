@@ -1,0 +1,85 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+import { Sparkles, Terminal } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const demos = await getCollection('lab', ({ data }) => data.published);
+  return demos.map((demo) => ({
+    params: { slug: demo.id },
+    props: { demo },
+  }));
+}
+
+const { demo } = Astro.props;
+const { Content } = await render(demo);
+const { title, category, description, tech, demoType, status, codeSnippet } = demo.data;
+---
+
+<BaseLayout
+  title={`${title} — 3D Web Lab`}
+  description={description}
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: '3D Web Lab', href: '/3d-lab' },
+        { label: title },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="cyan">{category}</Badge>
+        <span class="text-xs font-mono text-cosmic-emerald px-2 py-0.5 rounded bg-space-900 border border-border-subtle">
+          {status}
+        </span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
+        {title}
+      </h1>
+
+      <p class="mt-4 text-base sm:text-lg text-text-secondary leading-relaxed">
+        {description}
+      </p>
+
+      <div class="mt-4 flex flex-wrap gap-2">
+        {tech.map((t) => (
+          <span class="px-2.5 py-1 text-xs font-mono rounded bg-space-900 text-text-muted border border-border-subtle">
+            {t}
+          </span>
+        ))}
+      </div>
+    </header>
+
+    <!-- Code Block with Copy Island -->
+    <section class="my-8">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider flex items-center gap-2">
+          <Terminal className="w-4 h-4 text-cosmic-cyan" />
+          <span>Implementation Blueprint</span>
+        </h2>
+        <CopyButton client:visible text={codeSnippet} label="Copy Snippet" />
+      </div>
+
+      <div class="p-4 rounded-card bg-space-950 border border-border-subtle overflow-x-auto">
+        <pre class="text-xs font-mono text-cosmic-cyan leading-relaxed"><code>{codeSnippet}</code></pre>
+      </div>
+    </section>
+
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary">
+      <Content />
+    </article>
+
+    <div class="mt-12 pt-8 border-t border-border-subtle text-center">
+      <a href="/3d-lab" class="text-sm font-mono text-cosmic-cyan hover:underline">
+        &larr; Return to 3D Web Lab Directory
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

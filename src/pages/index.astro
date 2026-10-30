@@ -1,0 +1,237 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import CosmicHero from '@/components/hero/CosmicHero.astro';
+import KnowledgeStats from '@/components/hero/KnowledgeStats.astro';
+import ToolCard from '@/components/cards/ToolCard.astro';
+import WorkflowCard from '@/components/cards/WorkflowCard.astro';
+import ProjectCard from '@/components/cards/ProjectCard.astro';
+import ArticleCard from '@/components/cards/ArticleCard.astro';
+import DemoViewer from '@/components/lab/DemoViewer.tsx';
+import Button from '@/components/ui/Button.astro';
+import GithubIcon from '@/components/icons/GithubIcon.astro';
+import { Sparkles, ArrowRight, PlusCircle } from 'lucide-react';
+
+// Fetch published collections dynamically
+const allTools = await getCollection('tools', ({ data }) => data.published);
+const featuredTools = allTools.filter((t) => t.data.featured).slice(0, 6);
+
+const allWorkflows = await getCollection('workflows', ({ data }) => data.published);
+const trendingWorkflows = allWorkflows.slice(0, 3);
+
+const allProjects = await getCollection('projects', ({ data }) => data.published);
+const originalProjects = allProjects.slice(0, 3);
+
+const allArticles = await getCollection('blog', ({ data }) => data.published);
+const founderArticles = allArticles.slice(0, 3);
+
+const discoveryFilters = [
+  { label: 'Free Forever', query: 'free-forever' },
+  { label: 'Open Source', query: 'open-source' },
+  { label: 'Self-Hosted', query: 'self-hosted' },
+  { label: 'No Credit Card', query: 'no-card' },
+  { label: 'Databases', query: 'databases' },
+  { label: 'Free Hosting', query: 'free-hosting' },
+  { label: 'Storage', query: 'storage' },
+  { label: 'Authentication', query: 'authentication' },
+  { label: 'DevOps', query: 'devops' },
+  { label: 'AI Development', query: 'ai-development' },
+  { label: 'Productivity', query: 'productivity' },
+];
+---
+
+<BaseLayout>
+  <!-- Section 02: Cosmic Hero -->
+  <CosmicHero />
+
+  <!-- Section 03: Live Knowledge Statistics -->
+  <KnowledgeStats />
+
+  <!-- Section 04: Quick Discovery Filters -->
+  <section class="py-12 border-b border-border-subtle bg-space-950">
+    <PageContainer>
+      <div class="flex items-center justify-between gap-4 mb-6">
+        <div>
+          <h2 class="text-xs font-mono font-bold text-cosmic-cyan uppercase tracking-wider">
+            Quick Discovery Radar
+          </h2>
+          <p class="text-sm text-text-secondary mt-1">
+            Filter the knowledge station by software freedom, self-hosting capability, or architectural layer.
+          </p>
+        </div>
+        <a href="/open-source" class="text-xs font-mono text-cosmic-cyan hover:underline hidden sm:inline">
+          View All Categories &rarr;
+        </a>
+      </div>
+
+      <div class="flex flex-wrap gap-2">
+        {
+          discoveryFilters.map((filter) => (
+            <a
+              href={`/open-source?filter=${filter.query}`}
+              class="px-3.5 py-1.5 rounded-button text-xs font-mono bg-space-900 text-text-secondary hover:text-cosmic-cyan hover:bg-space-850 border border-border-subtle hover:border-cosmic-cyan/40 transition-all duration-150"
+            >
+              #{filter.label}
+            </a>
+          ))
+        }
+      </div>
+    </PageContainer>
+  </section>
+
+  <!-- Section 05: Featured Open-Source Tools -->
+  <section class="py-20 bg-space-950 relative">
+    <PageContainer>
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-12">
+        <SectionHeading
+          badge="Curated Vault"
+          title="Featured Open-Source Software"
+          description="Hand-verified developer tools, free databases, object storage, and self-hosted cloud alternatives."
+          class="mb-0"
+        />
+        <Button href="/open-source" variant="outline" size="sm" class="self-start md:self-auto">
+          <span>View Full Vault ({allTools.length} Tools)</span>
+          <ArrowRight className="w-4 h-4" />
+        </Button>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {
+          featuredTools.map((tool) => (
+            <ToolCard tool={tool} />
+          ))
+        }
+      </div>
+    </PageContainer>
+  </section>
+
+  <!-- Section 06: 3D Web Lab Showcase -->
+  <section class="py-20 border-y border-border-subtle bg-space-900/50 backdrop-blur-md">
+    <PageContainer>
+      <SectionHeading
+        badge="Interactive Lab"
+        title="3D Web & Three.js Shader Lab"
+        description="Hardware-accelerated visual experiments, cosmic canvas shaders, and interactive 3D UI components ready for production."
+        align="center"
+      />
+
+      <div class="mt-10 max-w-4xl mx-auto">
+        <DemoViewer client:visible />
+      </div>
+    </PageContainer>
+  </section>
+
+  <!-- Section 07: Trending AI Workflows -->
+  <section class="py-20 bg-space-950">
+    <PageContainer>
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-12">
+        <SectionHeading
+          badge="Autonomous Systems"
+          title="Trending AI Agent Workflows"
+          description="Tested blueprints and production-ready pipelines for code audits, offline RAG, and multi-agent coordination."
+          class="mb-0"
+        />
+        <Button href="/workflows" variant="outline" size="sm" class="self-start md:self-auto">
+          <span>Explore All Workflows</span>
+          <ArrowRight className="w-4 h-4" />
+        </Button>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {
+          trendingWorkflows.map((workflow) => (
+            <WorkflowCard workflow={workflow} />
+          ))
+        }
+      </div>
+    </PageContainer>
+  </section>
+
+  <!-- Section 08: Original Open-Source Projects -->
+  <section class="py-20 border-t border-border-subtle bg-space-900/30">
+    <PageContainer>
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-12">
+        <SectionHeading
+          badge="Original Software"
+          title="Original Open-Source Projects"
+          description="In-house developed agent frameworks, offline office tools, and micro-business automation engines."
+          class="mb-0"
+        />
+        <Button href="/projects" variant="outline" size="sm" class="self-start md:self-auto">
+          <span>Explore All Projects</span>
+          <ArrowRight className="w-4 h-4" />
+        </Button>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {
+          originalProjects.map((project) => (
+            <ProjectCard project={project} />
+          ))
+        }
+      </div>
+    </PageContainer>
+  </section>
+
+  <!-- Section 09: Founder Playbooks -->
+  <section class="py-20 bg-space-950">
+    <PageContainer>
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-12">
+        <SectionHeading
+          badge="Technical Editorial"
+          title="Founder & Architecture Playbooks"
+          description="Actionable engineering tutorials, global company formation guides, payment rails, and agency operations."
+          class="mb-0"
+        />
+        <Button href="/playbooks" variant="outline" size="sm" class="self-start md:self-auto">
+          <span>View All Playbooks</span>
+          <ArrowRight className="w-4 h-4" />
+        </Button>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {
+          founderArticles.map((article) => (
+            <ArticleCard article={article} />
+          ))
+        }
+      </div>
+    </PageContainer>
+  </section>
+
+  <!-- Section 10: Community Contribution -->
+  <section class="py-16 border-t border-border-subtle bg-space-900/40">
+    <PageContainer>
+      <div class="cosmic-glass p-8 sm:p-12 text-center max-w-4xl mx-auto border-border-subtle relative overflow-hidden">
+        <div class="absolute -top-12 -right-12 w-48 h-48 bg-cosmic-cyan/10 rounded-full blur-3xl pointer-events-none"></div>
+
+        <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-mono bg-space-850 text-cosmic-emerald border border-cosmic-emerald/30 mb-4">
+          <Sparkles className="w-3.5 h-3.5" />
+          <span>Open Knowledge Network</span>
+        </div>
+
+        <h2 class="text-2xl sm:text-3xl font-heading font-bold text-text-primary mb-4">
+          Contribute a Tool, Prompt, or Playbook
+        </h2>
+
+        <p class="text-sm sm:text-base text-text-secondary max-w-xl mx-auto leading-relaxed mb-8">
+          AI Satellite is community-curated. Found a game-changing open-source database, written a battle-tested Claude prompt, or discovered an unlisted free tier? Submit it for peer review.
+        </p>
+
+        <div class="flex flex-wrap items-center justify-center gap-4">
+          <Button href="/submit-tool" variant="primary" size="md">
+            <PlusCircle className="w-4 h-4" />
+            <span>Submit a Free Tool</span>
+          </Button>
+
+          <Button href="https://github.com/ripienaar/free-for-dev" target="_blank" variant="secondary" size="md">
+            <GithubIcon class="w-4 h-4" />
+            <span>Fork on GitHub</span>
+          </Button>
+        </div>
+      </div>
+    </PageContainer>
+  </section>
+</BaseLayout>

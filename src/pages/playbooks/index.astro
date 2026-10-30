@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ArticleCard from '@/components/cards/ArticleCard.astro';
+
+const articles = await getCollection('blog', ({ data }) => data.published);
+---
+
+<BaseLayout
+  title="Founder Playbooks & Technical Editorial Guides"
+  description="Actionable engineering playbooks, international company formation guides, multi-currency payment rails, and agency operations."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'Founder Playbooks' }]} />
+
+    <SectionHeading
+      badge="Technical Editorial"
+      title="Founder & Architecture Playbooks"
+      description="Field-tested blueprints written by engineers for engineers. Covering cross-border entity formation, compliance, self-hosted databases, and AI agent architectures."
+    />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+      {
+        articles.map((article) => (
+          <ArticleCard article={article} />
+        ))
+      }
+    </div>
+  </PageContainer>
+</BaseLayout>

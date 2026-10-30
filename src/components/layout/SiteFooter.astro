@@ -1,0 +1,101 @@
+---
+import GithubIcon from '@/components/icons/GithubIcon.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+
+const currentYear = 2026;
+---
+
+<footer class="border-t border-border-subtle bg-space-950 pt-16 pb-12 mt-20 relative overflow-hidden">
+  <!-- Subtle cosmic background glow -->
+  <div class="absolute -top-24 left-1/2 -translate-x-1/2 w-[600px] h-32 bg-cosmic-cyan/5 rounded-full blur-3xl pointer-events-none"></div>
+
+  <PageContainer>
+    <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 mb-12">
+      <!-- Column 1 & 2: Brand Identity -->
+      <div class="col-span-2">
+        <div class="flex items-center gap-2.5 mb-4">
+          <div class="w-7 h-7 rounded-lg bg-space-900 border border-border-hover flex items-center justify-center">
+            <span class="w-2 h-2 rounded-full bg-cosmic-cyan animate-pulse"></span>
+          </div>
+          <span class="font-heading font-bold text-xl text-text-primary">AI Satellite</span>
+        </div>
+        <p class="text-sm text-text-secondary leading-relaxed mb-4 max-w-sm">
+          The Global Open-Source & Autonomous AI Knowledge Station. Curating verified free developer tools, production AI prompts, Three.js 3D web labs, and founder playbooks.
+        </p>
+        <div class="text-xs font-mono text-text-muted flex items-center gap-2">
+          <span class="inline-block w-2 h-2 rounded-full bg-cosmic-emerald"></span>
+          <span>Zero Corporate Paywalls &bull; 100% Free Knowledge</span>
+        </div>
+      </div>
+
+      <!-- Column 3: Free Tools & Vault -->
+      <div>
+        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4">Free Tools</h4>
+        <ul class="space-y-2 text-sm text-text-secondary">
+          <li><a href="/open-source" class="hover:text-cosmic-cyan transition-colors">All Developer Tools</a></li>
+          <li><a href="/open-source/databases" class="hover:text-cosmic-cyan transition-colors">Free Databases</a></li>
+          <li><a href="/open-source/free-hosting" class="hover:text-cosmic-cyan transition-colors">Free Hosting</a></li>
+          <li><a href="/open-source/storage" class="hover:text-cosmic-cyan transition-colors">Object Storage</a></li>
+          <li><a href="/alternatives" class="hover:text-cosmic-cyan transition-colors">Free Alternatives</a></li>
+          <li><a href="/free-apis" class="hover:text-cosmic-cyan transition-colors">Public APIs</a></li>
+        </ul>
+      </div>
+
+      <!-- Column 4: AI & 3D Web -->
+      <div>
+        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4">AI & 3D Lab</h4>
+        <ul class="space-y-2 text-sm text-text-secondary">
+          <li><a href="/ai-agents" class="hover:text-cosmic-cyan transition-colors">Autonomous Agents</a></li>
+          <li><a href="/mcp-servers" class="hover:text-cosmic-cyan transition-colors">MCP Servers</a></li>
+          <li><a href="/workflows" class="hover:text-cosmic-cyan transition-colors">Pipeline Blueprints</a></li>
+          <li><a href="/prompts" class="hover:text-cosmic-cyan transition-colors">Prompt Vault</a></li>
+          <li><a href="/3d-lab" class="hover:text-cosmic-cyan transition-colors">Three.js Showcase</a></li>
+          <li><a href="/projects" class="hover:text-cosmic-cyan transition-colors">Original Software</a></li>
+        </ul>
+      </div>
+
+      <!-- Column 5: Founder Hub -->
+      <div>
+        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4">Founder Hub</h4>
+        <ul class="space-y-2 text-sm text-text-secondary">
+          <li><a href="/playbooks" class="hover:text-cosmic-cyan transition-colors">All Playbooks</a></li>
+          <li><a href="/founder-hub" class="hover:text-cosmic-cyan transition-colors">Founder Knowledge</a></li>
+          <li><a href="/company-formation" class="hover:text-cosmic-cyan transition-colors">UK LTD Formation</a></li>
+          <li><a href="/global-payments" class="hover:text-cosmic-cyan transition-colors">Global Payments & Stripe</a></li>
+          <li><a href="/trending" class="hover:text-cosmic-cyan transition-colors">Trending Topics</a></li>
+          <li><a href="/contribute" class="hover:text-cosmic-cyan transition-colors">Submit a Resource</a></li>
+        </ul>
+      </div>
+
+      <!-- Column 6: Policies & Legal -->
+      <div>
+        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4">Governance</h4>
+        <ul class="space-y-2 text-sm text-text-secondary">
+          <li><a href="/about" class="hover:text-cosmic-cyan transition-colors">About Mission</a></li>
+          <li><a href="/editorial-policy" class="hover:text-cosmic-cyan transition-colors">Editorial Standards</a></li>
+          <li><a href="/partner-disclosure" class="hover:text-cosmic-cyan transition-colors">Partner Disclosure</a></li>
+          <li><a href="/privacy" class="hover:text-cosmic-cyan transition-colors">Privacy Policy</a></li>
+          <li><a href="/terms" class="hover:text-cosmic-cyan transition-colors">Terms of Service</a></li>
+          <li><a href="/licenses" class="hover:text-cosmic-cyan transition-colors">Licenses & IP</a></li>
+          <li><a href="/changelog" class="hover:text-cosmic-cyan transition-colors">System Changelog</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Bottom Bar -->
+    <div class="pt-8 border-t border-border-subtle flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-text-muted">
+      <div>
+        &copy; {currentYear} AI Satellite &bull; Open-source software and knowledge platform.
+      </div>
+      <div class="flex items-center gap-6">
+        <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreferrer" class="hover:text-text-primary transition-colors flex items-center gap-1">
+          <GithubIcon class="w-3.5 h-3.5" />
+          <span>GitHub Seed Source</span>
+        </a>
+        <a href="/sitemap-index.xml" class="hover:text-cosmic-cyan transition-colors">
+          XML Sitemap
+        </a>
+      </div>
+    </div>
+  </PageContainer>
+</footer>

@@ -1,0 +1,67 @@
+---
+import { ArrowRight, Layers } from 'lucide-react';
+import Badge from '@/components/ui/Badge.astro';
+
+interface Props {
+  alternative: {
+    id: string;
+    data: {
+      title: string;
+      proprietaryTool: string;
+      openSourceReplacements: string[];
+      category: string;
+      summary: string;
+    };
+  };
+  class?: string;
+}
+
+const { alternative, class: className = '' } = Astro.props;
+const { title, proprietaryTool, openSourceReplacements, category, summary } = alternative.data;
+---
+
+<article class:list={['cosmic-glass p-6 flex flex-col justify-between group h-full', className]}>
+  <div>
+    <div class="flex items-center justify-between gap-2 mb-3">
+      <Badge variant="subtle" size="sm">{category}</Badge>
+      <span class="text-xs font-mono text-cosmic-rose line-through opacity-80">
+        {proprietaryTool}
+      </span>
+    </div>
+
+    <h3 class="text-lg font-heading font-bold text-text-primary group-hover:text-cosmic-cyan transition-colors mb-2">
+      <a href={`/alternatives/${alternative.id}`}>
+        {title}
+      </a>
+    </h3>
+
+    <p class="text-sm text-text-secondary leading-relaxed mb-4 line-clamp-2">
+      {summary}
+    </p>
+
+    <!-- Open Source Replacements -->
+    <div class="mb-4">
+      <div class="text-xs font-mono text-text-muted mb-2 flex items-center gap-1.5">
+        <Layers className="w-3.5 h-3.5 text-cosmic-emerald" />
+        <span>Verified Open-Source Replacements:</span>
+      </div>
+      <div class="flex flex-wrap gap-1.5">
+        {openSourceReplacements.map((tool) => (
+          <span class="px-2.5 py-1 text-xs font-mono rounded bg-space-950 text-cosmic-emerald border border-cosmic-emerald/20 font-semibold">
+            {tool}
+          </span>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <div class="pt-4 border-t border-border-subtle flex items-center justify-between mt-auto">
+    <a
+      href={`/alternatives/${alternative.id}`}
+      class="text-xs font-semibold text-cosmic-cyan hover:underline inline-flex items-center gap-1"
+    >
+      <span>Read Migration Guide</span>
+      <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-1" />
+    </a>
+  </div>
+</article>

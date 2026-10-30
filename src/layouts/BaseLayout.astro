@@ -1,0 +1,98 @@
+---
+import '@/styles/global.css';
+import SiteHeader from '@/components/layout/SiteHeader.astro';
+import SiteFooter from '@/components/layout/SiteFooter.astro';
+import SearchDialog from '@/components/search/SearchDialog.tsx';
+
+interface Props {
+  title?: string;
+  description?: string;
+  canonical?: string;
+  type?: 'website' | 'article';
+  image?: string;
+  jsonLd?: Record<string, any>;
+}
+
+const {
+  title = 'AI Satellite — The Global Open-Source & Autonomous AI Knowledge Station',
+  description = 'Discover free developer tools, open-source software, production-ready AI prompts, autonomous workflows, interactive 3D web experiences, and practical founder knowledge.',
+  canonical = Astro.url.href,
+  type = 'website',
+  image = 'https://aisatellite.pages.dev/og-default.png',
+  jsonLd,
+} = Astro.props;
+
+const siteTitle = title.includes('AI Satellite') ? title : `${title} | AI Satellite`;
+const currentPath = Astro.url.pathname;
+
+const defaultJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'AI Satellite',
+  url: 'https://aisatellite.pages.dev',
+  description: description,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: 'https://aisatellite.pages.dev/search?q={search_term_string}',
+    'query-input': 'required name=search_term_string',
+  },
+};
+---
+
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href={canonical} />
+
+    <!-- Primary Meta Tags -->
+    <title>{siteTitle}</title>
+    <meta name="title" content={siteTitle} />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#0a0f1d" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:title" content={siteTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={image} />
+    <meta property="og:site_name" content="AI Satellite" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={canonical} />
+    <meta property="twitter:title" content={siteTitle} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content={image} />
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd || defaultJsonLd)} />
+  </head>
+  <body class="bg-space-950 text-text-primary min-h-screen flex flex-col font-sans antialiased selection:bg-cosmic-cyan/20 selection:text-cosmic-cyan">
+    <!-- Skip to Content for Accessibility -->
+    <a
+      href="#main-content"
+      class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 px-4 py-2 bg-cosmic-cyan text-space-950 font-bold rounded-button"
+    >
+      Skip to main content
+    </a>
+
+    <!-- Global Header -->
+    <SiteHeader currentPath={currentPath} />
+
+    <!-- Main Content Area -->
+    <main id="main-content" class="flex-1 w-full" data-pagefind-body={type === 'article' ? true : undefined}>
+      <slot />
+    </main>
+
+    <!-- Global Footer -->
+    <SiteFooter />
+
+    <!-- Command Palette / Global Search Dialog Island -->
+    <SearchDialog client:idle />
+  </body>
+</html>

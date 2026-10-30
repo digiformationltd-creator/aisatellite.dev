@@ -1,0 +1,72 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ToolCard from '@/components/cards/ToolCard.astro';
+import ArticleCard from '@/components/cards/ArticleCard.astro';
+
+export async function getStaticPaths() {
+  const topics = [
+    { slug: 'databases', name: 'Databases & Storage', tag: 'database', desc: 'Relational, embedded, and distributed open-source databases.' },
+    { slug: 'ai-development', name: 'AI & Machine Learning', tag: 'ai', desc: 'Local inference runtimes, agent tools, and prompt directives.' },
+    { slug: 'devops', name: 'DevOps & Cloud Hosting', tag: 'hosting', desc: 'Edge hosting, self-hosted PaaS, and deployment automation.' },
+    { slug: 'security', name: 'Security & Authentication', tag: 'auth', desc: 'Identity providers, single sign-on, and credential management.' },
+  ];
+
+  const tools = await getCollection('tools', ({ data }) => data.published);
+  const articles = await getCollection('blog', ({ data }) => data.published);
+
+  return topics.map((top) => ({
+    params: { slug: top.slug },
+    props: {
+      topic: top,
+      relatedTools: tools.filter((t) => t.data.tags.includes(top.tag) || t.data.category.toLowerCase().includes(top.slug)),
+      relatedArticles: articles.filter((a) => a.data.tags.some((tg) => tg.includes(top.tag))),
+    },
+  }));
+}
+
+const { topic, relatedTools, relatedArticles } = Astro.props;
+---
+
+<BaseLayout
+  title={`${topic.name} — Topic Hub`}
+  description={topic.desc}
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Topics' },
+        { label: topic.name },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Topic Hub"
+      title={topic.name}
+      description={topic.desc}
+    />
+
+    <!-- Tools in this topic -->
+    {relatedTools.length > 0 && (
+      <section class="my-10">
+        <h2 class="text-xl font-heading font-bold text-text-primary mb-6">Verified Tools in {topic.name}</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {relatedTools.map((t) => <ToolCard tool={t} />)}
+        </div>
+      </section>
+    )}
+
+    <!-- Articles in this topic -->
+    {relatedArticles.length > 0 && (
+      <section class="my-10">
+        <h2 class="text-xl font-heading font-bold text-text-primary mb-6">Playbooks & Guides</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {relatedArticles.map((a) => <ArticleCard article={a} />)}
+        </div>
+      </section>
+    )}
+  </PageContainer>
+</BaseLayout>

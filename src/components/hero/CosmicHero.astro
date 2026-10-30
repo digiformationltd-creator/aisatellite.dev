@@ -1,0 +1,111 @@
+---
+import { Search, Sparkles, Terminal, ArrowRight, ShieldCheck } from 'lucide-react';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Button from '@/components/ui/Button.astro';
+
+const suggestedSearches = [
+  { label: 'Free AI Coding', query: 'Ollama' },
+  { label: 'Open-Source CRM', query: 'CRM' },
+  { label: 'Free Hosting', query: 'Cloudflare Pages' },
+  { label: 'Three.js', query: 'Three.js' },
+  { label: 'MCP Servers', query: 'MCP' },
+  { label: 'AI Automation', query: 'Workflows' },
+];
+---
+
+<section class="relative pt-12 pb-20 md:pt-20 md:pb-28 overflow-hidden">
+  <!-- Three.js Canvas Container (Background) -->
+  <div
+    id="cosmic-hero-canvas-container"
+    class="absolute inset-0 z-0 pointer-events-none opacity-60"
+    aria-hidden="true"
+  >
+    <!-- CSS Fallback Background -->
+    <div class="absolute inset-0 bg-radial-gradient from-cosmic-violet/10 via-space-950 to-space-950"></div>
+  </div>
+
+  <PageContainer class="relative z-10 text-center">
+    <!-- Top Knowledge Station Badge -->
+    <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-mono font-medium bg-space-900/80 border border-border-hover text-cosmic-cyan mb-8 backdrop-blur-md shadow-glow-cyan/10">
+      <span class="w-2 h-2 rounded-full bg-cosmic-cyan animate-pulse"></span>
+      <span>Autonomous Knowledge Station &bull; Cloudflare Edge Ready</span>
+    </div>
+
+    <!-- Main Heading -->
+    <h1 class="text-3xl sm:text-5xl lg:text-6xl font-heading font-extrabold text-text-primary tracking-tight max-w-4xl mx-auto leading-[1.15]">
+      Discover the <span class="text-transparent bg-clip-text bg-gradient-to-r from-cosmic-cyan via-text-primary to-cosmic-violet">Free Universe</span> of AI, Open Source & Development.
+    </h1>
+
+    <!-- Supporting Text -->
+    <p class="mt-6 text-base sm:text-xl text-text-secondary max-w-2xl mx-auto leading-relaxed font-sans font-normal">
+      Your global knowledge station for free developer tools, AI agents, open-source software, production-ready prompts, 3D web experiences, and founder intelligence.
+    </p>
+
+    <!-- Prominent Working Search Bar -->
+    <div class="mt-10 max-w-2xl mx-auto">
+      <div
+        class="relative flex items-center p-2 rounded-2xl bg-space-900/90 border border-border-subtle hover:border-cosmic-cyan/50 focus-within:border-cosmic-cyan transition-all duration-200 shadow-2xl backdrop-blur-xl group cursor-pointer"
+        onclick="window.dispatchEvent(new CustomEvent('open-search'))"
+      >
+        <div class="pl-3 pr-2 text-cosmic-cyan">
+          <Search className="w-5 h-5 group-hover:scale-110 transition-transform" />
+        </div>
+        <input
+          type="text"
+          readonly
+          placeholder="Search 1,000s of tools, prompts, workflows & free alternatives..."
+          class="w-full bg-transparent text-sm sm:text-base text-text-primary placeholder:text-text-muted focus:outline-none cursor-pointer py-1.5"
+          aria-label="Click to search across tools, prompts, and playbooks"
+        />
+        <div class="pr-2 flex items-center gap-1.5">
+          <kbd class="hidden sm:inline-block px-2.5 py-1 text-xs font-mono font-semibold text-text-muted bg-space-950 rounded-lg border border-border-subtle">
+            ⌘K / Ctrl+K
+          </kbd>
+        </div>
+      </div>
+
+      <!-- Suggested Searches -->
+      <div class="mt-4 flex items-center justify-center gap-2 flex-wrap text-xs font-mono text-text-muted">
+        <span class="text-text-muted/70">Popular:</span>
+        {
+          suggestedSearches.map((item) => (
+            <button
+              type="button"
+              class="hover:text-cosmic-cyan hover:underline transition-colors px-1.5 py-0.5"
+              onclick="window.dispatchEvent(new CustomEvent('open-search'))"
+            >
+              {item.label}
+            </button>
+          ))
+        }
+      </div>
+    </div>
+
+    <!-- Primary Action Buttons -->
+    <div class="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
+      <Button href="/open-source" variant="primary" size="lg">
+        <span>Explore Free Tools</span>
+        <ArrowRight className="w-4 h-4" />
+      </Button>
+
+      <Button href="/ai-agents" variant="secondary" size="lg">
+        <Sparkles className="w-4 h-4 text-cosmic-violet" />
+        <span>Discover AI Workflows</span>
+      </Button>
+    </div>
+  </PageContainer>
+</section>
+
+<!-- Client script to dynamically initialize Three.js canvas safely -->
+<script>
+  if (typeof window !== 'undefined') {
+    const isMobile = window.innerWidth < 768;
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    if (!prefersReducedMotion) {
+      import('./CosmicCanvas.client').then(({ initCosmicCanvas }) => {
+        initCosmicCanvas('cosmic-hero-canvas-container');
+      });
+    }
+  }
+</script>

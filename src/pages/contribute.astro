@@ -1,0 +1,60 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import GithubIcon from '@/components/icons/GithubIcon.astro';
+import { PlusCircle, Lightbulb } from 'lucide-react';
+---
+
+<BaseLayout
+  title="Contribute to AI Satellite Knowledge Station"
+  description="How to contribute open-source tools, system prompts, 3D web shaders, and founder guides."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs items={[{ label: 'Contribute' }]} />
+
+    <SectionHeading
+      badge="Community Driven"
+      title="Contribute to AI Satellite"
+      description="AI Satellite thrives on developer peer contributions. Learn how to submit new software records, fix outdated documentation, or share AI prompts."
+    />
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 my-8">
+      <a href="/submit-tool" class="cosmic-glass p-6 group hover:border-cosmic-cyan transition-colors">
+        <PlusCircle className="w-8 h-8 text-cosmic-cyan mb-3" />
+        <h2 class="text-xl font-heading font-bold text-text-primary group-hover:text-cosmic-cyan mb-2">
+          Submit a Free Tool
+        </h2>
+        <p class="text-xs sm:text-sm text-text-secondary leading-relaxed">
+          Add an open-source database, free hosting tier, or developer utility to our global catalog.
+        </p>
+      </a>
+
+      <a href="/suggest-topic" class="cosmic-glass p-6 group hover:border-cosmic-amber transition-colors">
+        <Lightbulb className="w-8 h-8 text-cosmic-amber mb-3" />
+        <h2 class="text-xl font-heading font-bold text-text-primary group-hover:text-cosmic-amber mb-2">
+          Suggest a Playbook
+        </h2>
+        <p class="text-xs sm:text-sm text-text-secondary leading-relaxed">
+          Request deep-dive engineering comparisons, legal entity guidelines, or payment architectures.
+        </p>
+      </a>
+    </div>
+
+    <!-- GitHub Direct Contribution Guide -->
+    <div class="cosmic-glass p-8 my-8 border-border-subtle">
+      <h3 class="text-lg font-heading font-bold text-text-primary mb-4 flex items-center gap-2">
+        <GithubIcon class="w-5 h-5 text-cosmic-cyan" />
+        <span>Submitting Changes via Git Pull Requests</span>
+      </h3>
+      <ol class="space-y-3 text-sm text-text-secondary list-decimal pl-5 leading-relaxed font-sans">
+        <li>Fork the repository on GitHub.</li>
+        <li>Create a branch: <code class="text-xs font-mono text-cosmic-cyan bg-space-950 px-2 py-0.5 rounded">git checkout -b feature/add-new-tool</code></li>
+        <li>Add your Markdown record into <code class="text-xs font-mono text-cosmic-cyan bg-space-950 px-2 py-0.5 rounded">src/content/tools/my-tool.md</code> conforming to Zod schema rules.</li>
+        <li>Run <code class="text-xs font-mono text-cosmic-cyan bg-space-950 px-2 py-0.5 rounded">npm run test</code> to ensure schema validation passes.</li>
+        <li>Submit a Pull Request with a clear description and official documentation links.</li>
+      </ol>
+    </div>
+  </PageContainer>
+</BaseLayout>

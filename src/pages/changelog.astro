@@ -1,0 +1,64 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { GitCommit, Calendar } from 'lucide-react';
+
+const releases = [
+  {
+    version: 'v1.0.0 — Production Release',
+    date: '2026-10-31',
+    badge: 'Production Launch',
+    changes: [
+      'Initial release of AI Satellite deployed globally to Cloudflare Pages edge network.',
+      'Astro + React Islands static-first architecture with Pagefind full-text search.',
+      'Launch of the Open-Source Vault with verified developer tools across databases, hosting, and storage.',
+      'Launch of 3D Web Lab featuring interactive Three.js Cosmic Canvas with WebGL context fallback.',
+      'Prompt Vault and AI Agent workflow directory with copyable system directives.',
+      'Comprehensive Founder Hub covering UK LTD incorporation and Stripe payment rails.',
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title="System Changelog — AI Satellite"
+  description="Historical release notes and technical milestone updates for AI Satellite."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs items={[{ label: 'Changelog' }]} />
+
+    <SectionHeading
+      badge="Release History"
+      title="System Changelog"
+      description="Transparent, immutable record of every architectural milestone, catalog expansion, and feature deployment."
+    />
+
+    <div class="space-y-8 my-8">
+      {
+        releases.map((rel) => (
+          <div class="cosmic-glass p-8 border-border-subtle">
+            <div class="flex items-center justify-between pb-4 border-b border-border-subtle mb-4">
+              <div class="flex items-center gap-2.5">
+                <GitCommit className="w-5 h-5 text-cosmic-cyan" />
+                <h2 class="text-xl font-heading font-bold text-text-primary">{rel.version}</h2>
+              </div>
+              <Badge variant="cyan">{rel.badge}</Badge>
+            </div>
+
+            <div class="text-xs font-mono text-text-muted mb-4 flex items-center gap-1.5">
+              <Calendar className="w-3.5 h-3.5" />
+              <span>Released on {rel.date}</span>
+            </div>
+
+            <ul class="space-y-2 text-sm text-text-secondary list-disc pl-5">
+              {rel.changes.map((ch) => <li>{ch}</li>)}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+  </PageContainer>
+</BaseLayout>

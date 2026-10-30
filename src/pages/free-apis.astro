@@ -1,0 +1,121 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { ExternalLink, Globe, Key, ShieldCheck } from 'lucide-react';
+
+const freeApis = [
+  {
+    name: 'Open-Meteo',
+    category: 'Weather & Climate',
+    description: 'Free weather forecast API for commercial and non-commercial use with no API key required.',
+    url: 'https://open-meteo.com/',
+    auth: 'No Key Required',
+    https: true,
+    cors: true,
+  },
+  {
+    name: 'REST Countries',
+    category: 'Geodata',
+    description: 'Get information about world countries via a RESTful API with currency, language, and border data.',
+    url: 'https://restcountries.com/',
+    auth: 'No Key Required',
+    https: true,
+    cors: true,
+  },
+  {
+    name: 'JSONPlaceholder',
+    category: 'Development Mocking',
+    description: 'Free fake REST API for prototyping, automated frontend tests, and code demonstrations.',
+    url: 'https://jsonplaceholder.typicode.com/',
+    auth: 'No Key Required',
+    https: true,
+    cors: true,
+  },
+  {
+    name: 'Hugging Face Inference API',
+    category: 'Machine Learning',
+    description: 'Generous free tier to query thousands of open-source models (Llama, Whisper, Stable Diffusion) via simple HTTP endpoints.',
+    url: 'https://huggingface.co/docs/api-inference/index',
+    auth: 'Free API Token',
+    https: true,
+    cors: true,
+  },
+  {
+    name: 'CoinGecko Free API',
+    category: 'Financial Markets',
+    description: 'Cryptocurrency market data, historical charts, exchange volume, and price feeds with no credit card required.',
+    url: 'https://www.coingecko.com/en/api',
+    auth: 'Free Demo Key',
+    https: true,
+    cors: true,
+  },
+  {
+    name: 'Open Food Facts',
+    category: 'Food & Health',
+    description: 'Collaborative, free, open database of food products from around the world with barcode lookups.',
+    url: 'https://world.openfoodfacts.org/data',
+    auth: 'No Key Required',
+    https: true,
+    cors: true,
+  },
+];
+---
+
+<BaseLayout
+  title="Public & Free APIs for Developers"
+  description="Curated collection of public APIs with generous free tiers, zero credit card requirements, and open documentation."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'Free APIs' }]} />
+
+    <SectionHeading
+      badge="Public Endpoints"
+      title="Verified Free & Public APIs"
+      description="Ready-to-use APIs for your applications, prototypes, and automated agent workflows without immediate payment gating."
+    />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+      {
+        freeApis.map((api) => (
+          <div class="cosmic-glass p-6 flex flex-col justify-between group">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-3">
+                <Badge variant="subtle" size="sm">{api.category}</Badge>
+                <span class="text-[11px] font-mono text-cosmic-emerald bg-space-950 px-2 py-0.5 rounded border border-border-subtle">
+                  {api.auth}
+                </span>
+              </div>
+
+              <h2 class="text-xl font-heading font-bold text-text-primary group-hover:text-cosmic-cyan transition-colors mb-2">
+                {api.name}
+              </h2>
+
+              <p class="text-sm text-text-secondary leading-relaxed mb-4">
+                {api.description}
+              </p>
+            </div>
+
+            <div class="pt-4 border-t border-border-subtle flex items-center justify-between mt-auto">
+              <span class="text-xs font-mono text-text-muted flex items-center gap-1">
+                <ShieldCheck className="w-3.5 h-3.5 text-cosmic-cyan" />
+                HTTPS &bull; CORS Ready
+              </span>
+              <a
+                href={api.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-xs font-mono text-cosmic-cyan hover:underline inline-flex items-center gap-1"
+              >
+                <span>Docs</span>
+                <ExternalLink className="w-3 h-3" />
+              </a>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </PageContainer>
+</BaseLayout>

@@ -1,0 +1,51 @@
+---
+interface Props {
+  variant?: 'primary' | 'secondary' | 'outline' | 'ghost';
+  size?: 'sm' | 'md' | 'lg';
+  href?: string;
+  target?: string;
+  rel?: string;
+  class?: string;
+  [key: string]: any;
+}
+
+const {
+  variant = 'primary',
+  size = 'md',
+  href,
+  target,
+  rel,
+  class: className = '',
+  ...rest
+} = Astro.props;
+
+const variantStyles = {
+  primary: 'bg-cosmic-cyan text-space-950 font-bold hover:shadow-glow-cyan hover:bg-white',
+  secondary: 'bg-space-850 text-text-primary border border-border-subtle hover:border-cosmic-cyan/40 hover:bg-space-800',
+  outline: 'bg-transparent text-text-primary border border-border-subtle hover:border-cosmic-cyan hover:text-cosmic-cyan',
+  ghost: 'bg-transparent text-text-secondary hover:text-cosmic-cyan hover:bg-space-850/50',
+};
+
+const sizeStyles = {
+  sm: 'text-xs px-3 py-1.5 rounded-button',
+  md: 'text-sm px-4 py-2 rounded-button',
+  lg: 'text-base px-6 py-3 rounded-button',
+};
+
+const Element = href ? 'a' : 'button';
+---
+
+<Element
+  href={href}
+  target={target}
+  rel={target === '_blank' && !rel ? 'noopener noreferrer' : rel}
+  class:list={[
+    'inline-flex items-center justify-center gap-2 font-medium transition-all duration-200 cursor-pointer active:scale-95 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:ring-2 focus:ring-cosmic-cyan focus:ring-offset-2 focus:ring-offset-space-950',
+    variantStyles[variant],
+    sizeStyles[size],
+    className,
+  ]}
+  {...rest}
+>
+  <slot />
+</Element>

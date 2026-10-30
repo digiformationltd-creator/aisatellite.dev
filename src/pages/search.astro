@@ -1,0 +1,54 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import { Search } from 'lucide-react';
+---
+
+<BaseLayout
+  title="Search Knowledge Station — AI Satellite"
+  description="Search across thousands of verified free developer tools, production AI prompts, Three.js shaders, and founder playbooks."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs items={[{ label: 'Search' }]} />
+
+    <SectionHeading
+      badge="Full-Text Index"
+      title="Search Knowledge Station"
+      description="Static client-side full-text search powered by Pagefind. Zero third-party telemetry, sub-millisecond execution."
+    />
+
+    <!-- Pagefind Container -->
+    <div class="my-8">
+      <div id="pagefind-search" class="min-h-[300px]">
+        <!-- Pagefind UI mounts here client-side -->
+        <div class="p-6 rounded-card bg-space-900 border border-border-subtle text-center text-text-muted">
+          <Search className="w-8 h-8 text-cosmic-cyan mx-auto mb-3 animate-pulse" />
+          <p class="text-sm font-mono text-text-secondary">Initializing static search index...</p>
+        </div>
+      </div>
+    </div>
+  </PageContainer>
+</BaseLayout>
+
+<link href="/_pagefind/pagefind-ui.css" rel="stylesheet" />
+<script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    // @ts-ignore
+    if (typeof PagefindUI !== 'undefined') {
+      const container = document.getElementById('pagefind-search');
+      if (container) {
+        container.innerHTML = '';
+        // @ts-ignore
+        new PagefindUI({
+          element: '#pagefind-search',
+          showSubResults: true,
+          showImages: false,
+        });
+      }
+    }
+  });
+</script>

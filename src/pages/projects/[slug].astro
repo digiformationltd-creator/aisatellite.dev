@@ -1,0 +1,107 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { ExternalLink, ShieldCheck, Terminal, CheckCircle } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const projects = await getCollection('projects', ({ data }) => data.published);
+  return projects.map((p) => ({
+    params: { slug: p.id },
+    props: { project: p },
+  }));
+}
+
+const { project } = Astro.props;
+const { Content } = await render(project);
+const { title, tagline, family, description, techStack, openSourceLicense, repositoryUrl, verificationStatus, features } = project.data;
+---
+
+<BaseLayout
+  title={`${title} — Open Source Project`}
+  description={description}
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Original Projects', href: '/projects' },
+        { label: title },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="violet">{family}</Badge>
+        <span class="text-xs font-mono text-cosmic-emerald flex items-center gap-1">
+          <ShieldCheck className="w-3.5 h-3.5" />
+          {verificationStatus}
+        </span>
+      </div>
+
+      <h1 class="text-3xl sm:text-5xl font-heading font-extrabold text-text-primary tracking-tight">
+        {title}
+      </h1>
+
+      <p class="mt-2 text-sm font-mono text-cosmic-cyan">{tagline}</p>
+
+      <p class="mt-4 text-base sm:text-lg text-text-secondary leading-relaxed">
+        {description}
+      </p>
+
+      <div class="mt-6 flex flex-wrap items-center gap-3">
+        {repositoryUrl && (
+          <a
+            href={repositoryUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-button bg-cosmic-violet text-text-primary font-bold hover:shadow-glow-violet transition-all text-sm"
+          >
+            <span>GitHub Repository</span>
+            <ExternalLink className="w-4 h-4" />
+          </a>
+        )}
+        <span class="text-xs font-mono text-text-muted px-3 py-1.5 rounded bg-space-900 border border-border-subtle">
+          License: {openSourceLicense}
+        </span>
+      </div>
+    </header>
+
+    <!-- Key Features -->
+    <div class="my-8 p-6 rounded-card bg-space-900 border border-border-subtle">
+      <h2 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider mb-4">Core Capabilities</h2>
+      <ul class="space-y-2 text-sm text-text-secondary">
+        {features.map((feat) => (
+          <li class="flex items-center gap-2.5">
+            <CheckCircle className="w-4 h-4 text-cosmic-emerald flex-shrink-0" />
+            <span>{feat}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <!-- Tech Stack -->
+    <div class="my-6">
+      <h3 class="text-xs font-mono font-bold text-text-muted uppercase tracking-wider mb-2">Technology Stack</h3>
+      <div class="flex flex-wrap gap-2">
+        {techStack.map((t) => (
+          <span class="px-3 py-1 text-xs font-mono rounded bg-space-950 text-cosmic-cyan border border-border-subtle">
+            {t}
+          </span>
+        ))}
+      </div>
+    </div>
+
+    <!-- Markdown Content -->
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary">
+      <Content />
+    </article>
+
+    <div class="mt-12 pt-8 border-t border-border-subtle text-center">
+      <a href="/projects" class="text-sm font-mono text-cosmic-cyan hover:underline">
+        &larr; Return to All Original Projects
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

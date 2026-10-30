@@ -1,0 +1,64 @@
+---
+import { Terminal, Cpu } from 'lucide-react';
+import Badge from '@/components/ui/Badge.astro';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+
+interface Props {
+  prompt: {
+    id: string;
+    data: {
+      title: string;
+      description: string;
+      category: string;
+      targetModel: string;
+      systemPrompt: string;
+      variables: string[];
+      lastVerified: string;
+    };
+  };
+  class?: string;
+}
+
+const { prompt, class: className = '' } = Astro.props;
+const { title, description, category, targetModel, systemPrompt, variables } = prompt.data;
+---
+
+<article class:list={['cosmic-glass p-6 flex flex-col justify-between group h-full', className]}>
+  <div>
+    <div class="flex items-center justify-between gap-2 mb-3">
+      <Badge variant="violet" size="sm">{category}</Badge>
+      <span class="text-xs font-mono text-text-muted flex items-center gap-1">
+        <Cpu className="w-3 h-3 text-cosmic-cyan" />
+        {targetModel}
+      </span>
+    </div>
+
+    <h3 class="text-lg font-heading font-bold text-text-primary group-hover:text-cosmic-violet transition-colors mb-2">
+      <a href={`/prompts/${prompt.id}`}>
+        {title}
+      </a>
+    </h3>
+
+    <p class="text-sm text-text-secondary leading-relaxed mb-4 line-clamp-2">
+      {description}
+    </p>
+
+    <!-- Code Block Preview -->
+    <div class="relative rounded-lg bg-space-950 p-3 border border-border-subtle mb-4">
+      <div class="flex items-center justify-between pb-2 mb-2 border-b border-border-subtle/50 text-[11px] font-mono text-text-muted">
+        <span>System Directive</span>
+        <CopyButton client:visible text={systemPrompt} label="Copy Prompt" />
+      </div>
+      <pre class="text-xs font-mono text-text-secondary overflow-x-auto max-h-24 whitespace-pre-wrap">{systemPrompt.slice(0, 150)}...</pre>
+    </div>
+  </div>
+
+  <div class="pt-3 border-t border-border-subtle flex items-center justify-between mt-auto">
+    <a
+      href={`/prompts/${prompt.id}`}
+      class="text-xs font-medium text-cosmic-violet hover:underline"
+    >
+      View Full Template & Variables &rarr;
+    </a>
+  </div>
+</article>

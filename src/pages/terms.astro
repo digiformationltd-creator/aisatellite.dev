@@ -1,0 +1,38 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+---
+
+<BaseLayout
+  title="Terms of Service — AI Satellite"
+  description="AI Satellite terms of service governing usage of our knowledge base, code snippets, and playbooks."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs items={[{ label: 'Terms of Service' }]} />
+
+    <SectionHeading
+      badge="Terms of Use"
+      title="Terms of Service"
+      description="Last updated: October 31, 2026. Standard usage terms for the AI Satellite platform."
+    />
+
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary text-base space-y-6">
+      <h2 class="text-2xl font-heading font-bold text-text-primary">1. Acceptance of Terms</h2>
+      <p>
+        By accessing AI Satellite (https://aisatellite.pages.dev), you agree to use the educational resources, code snippets, and directory listings in good faith and in compliance with all applicable local and international laws.
+      </p>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">2. Code Snippet License & Usage</h2>
+      <p>
+        Code snippets, Three.js shaders, and configuration templates published on AI Satellite are provided under permissive MIT licenses unless specifically marked otherwise. You are free to integrate them into your personal or commercial applications.
+      </p>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">3. Limitation of Liability</h2>
+      <p>
+        Software configurations, prompts, and tutorials are provided "as is" without warranty of any kind. You are responsible for auditing third-party code before deploying to production environments.
+      </p>
+    </article>
+  </PageContainer>
+</BaseLayout>

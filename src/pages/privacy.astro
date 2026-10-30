@@ -1,0 +1,38 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+---
+
+<BaseLayout
+  title="Privacy Policy — AI Satellite"
+  description="AI Satellite privacy policy: zero invasive tracking, no third-party cookies, and static edge architecture."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs items={[{ label: 'Privacy Policy' }]} />
+
+    <SectionHeading
+      badge="Privacy & Data"
+      title="Privacy Policy"
+      description="Last updated: October 31, 2026. How we respect and protect visitor privacy."
+    />
+
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary text-base space-y-6">
+      <h2 class="text-2xl font-heading font-bold text-text-primary">1. Information We Do Not Collect</h2>
+      <p>
+        AI Satellite is designed as a static website. We do not require account registration, do not use invasive tracking pixels, do not run third-party advertising cookies, and do not sell visitor data.
+      </p>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">2. Client-Side Search Privacy</h2>
+      <p>
+        Our global search is powered by <strong>Pagefind</strong>, which executes 100% locally in your web browser using static pre-computed WebAssembly indices. Your search queries are never transmitted to external logging servers.
+      </p>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">3. Cloudflare Edge Telemetry</h2>
+      <p>
+        As AI Satellite is hosted on Cloudflare Pages, standard edge server request logs (IP address, user-agent, timestamp) may be temporarily processed by Cloudflare for DDoS protection and network performance metrics in accordance with Cloudflare's global privacy standards.
+      </p>
+    </article>
+  </PageContainer>
+</BaseLayout>

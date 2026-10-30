@@ -1,0 +1,40 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { ShieldCheck, CheckCircle2 } from 'lucide-react';
+---
+
+<BaseLayout
+  title="Editorial Standards & Verification Policy — AI Satellite"
+  description="How AI Satellite researches, verifies, and audits open-source software, free tiers, and technical tutorials."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs items={[{ label: 'Editorial Policy' }]} />
+
+    <SectionHeading
+      badge="Editorial Governance"
+      title="Editorial Policy & Verification Standards"
+      description="Our commitment to technical rigor, independent software evaluations, and transparent disclosures."
+    />
+
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary text-base space-y-6">
+      <h2 class="text-2xl font-heading font-bold text-text-primary">1. Verification Standard</h2>
+      <p>
+        Every tool, database, API, and workflow listed on AI Satellite undergoes verification against official documentation. If a free tier has been discontinued, modified, or placed behind a credit card wall, our editors update or flag the record accordingly.
+      </p>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">2. Zero Fake Reviews or Paid Placements</h2>
+      <p>
+        We do not accept payment to rank one open-source tool above another. Featured tools are selected on engineering merits: active maintainer velocity, security posture, and utility to the developer community.
+      </p>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">3. Correction & Outdated Data Reporting</h2>
+      <p>
+        Found an inaccuracy, broken link, or changed pricing tier? We encourage community members to open a GitHub issue or submit a pull request for immediate correction.
+      </p>
+    </article>
+  </PageContainer>
+</BaseLayout>

@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ProjectCard from '@/components/cards/ProjectCard.astro';
+
+const projects = await getCollection('projects', ({ data }) => data.published);
+---
+
+<BaseLayout
+  title="Original Open-Source Software Projects"
+  description="Explore our in-house open-source releases: autonomous agent tooling, offline office suites, and WhatsApp micro-business engines."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'Original Projects' }]} />
+
+    <SectionHeading
+      badge="Original Engineering"
+      title="Original Open-Source Software Projects"
+      description="Independent, privacy-first software suites and agent architectures engineered for self-hosting and zero vendor lock-in."
+    />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+      {
+        projects.map((project) => (
+          <ProjectCard project={project} />
+        ))
+      }
+    </div>
+  </PageContainer>
+</BaseLayout>

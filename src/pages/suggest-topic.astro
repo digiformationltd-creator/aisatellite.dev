@@ -1,0 +1,43 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Button from '@/components/ui/Button.astro';
+import GithubIcon from '@/components/icons/GithubIcon.astro';
+import { Lightbulb } from 'lucide-react';
+---
+
+<BaseLayout
+  title="Suggest a Technical Topic or Guide — AI Satellite"
+  description="Request deep-dive engineering tutorials, tool comparisons, or founder infrastructure playbooks."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Contribute', href: '/contribute' },
+        { label: 'Suggest Topic' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Topic Requests"
+      title="Suggest a Technical Topic or Guide"
+      description="Tell us what engineering questions, agent orchestration patterns, or founder topics you want our technical lab to research."
+    />
+
+    <div class="cosmic-glass p-8 my-8 border-border-subtle">
+      <div class="p-6 rounded-card bg-space-900 border border-border-subtle text-center">
+        <Lightbulb className="w-10 h-10 text-cosmic-amber mx-auto mb-3" />
+        <h2 class="text-xl font-heading font-bold text-text-primary mb-2">Request an In-Depth Playbook</h2>
+        <p class="text-xs sm:text-sm text-text-secondary max-w-md mx-auto mb-6">
+          Submit topic requests directly to our public GitHub discussions or open a documentation request issue.
+        </p>
+        <Button href="https://github.com/ripienaar/free-for-dev/discussions" target="_blank" variant="secondary">
+          <GithubIcon class="w-4 h-4" />
+          <span>Open Community Discussion</span>
+        </Button>
+      </div>
+    </div>
+  </PageContainer>
+</BaseLayout>

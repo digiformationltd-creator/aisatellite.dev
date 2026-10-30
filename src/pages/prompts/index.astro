@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import PromptCard from '@/components/cards/PromptCard.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+
+const allPrompts = await getCollection('prompts', ({ data }) => data.published);
+const categories = Array.from(new Set(allPrompts.map((p) => p.data.category))).sort();
+---
+
+<BaseLayout
+  title="Autonomous AI Prompt Vault"
+  description="Production-tested system directives, Claude Code rules, and agent prompts for senior software engineers."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'Prompt Vault' }]} />
+
+    <SectionHeading
+      badge="Prompt Vault"
+      title="Production-Ready AI Prompts"
+      description="Engineered system prompts, Cursor rule files, and agent orchestration directives tested for deterministic tool calling and zero hallucination."
+    />
+
+    <!-- Category Filter Tabs -->
+    <div class="flex flex-wrap gap-2 mb-10 pb-4 border-b border-border-subtle">
+      <a
+        href="/prompts"
+        class="px-3.5 py-1.5 rounded-button text-xs font-mono font-bold bg-cosmic-violet text-text-primary shadow-glow-violet/20"
+      >
+        All Prompts ({allPrompts.length})
+      </a>
+      {
+        categories.map((cat) => {
+          const count = allPrompts.filter((p) => p.data.category === cat).length;
+          const slug = cat.toLowerCase().replace(/\s+/g, '-');
+          return (
+            <a
+              href={`/prompts/${slug}`}
+              class="px-3.5 py-1.5 rounded-button text-xs font-mono bg-space-900 text-text-secondary hover:text-cosmic-violet hover:bg-space-850 border border-border-subtle transition-colors"
+            >
+              {cat} ({count})
+            </a>
+          );
+        })
+      }
+    </div>
+
+    <!-- Prompts Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {
+        allPrompts.map((prompt) => (
+          <PromptCard prompt={prompt} />
+        ))
+      }
+    </div>
+  </PageContainer>
+</BaseLayout>

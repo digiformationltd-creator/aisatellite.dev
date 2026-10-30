@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ToolCard from '@/components/cards/ToolCard.astro';
+import WorkflowCard from '@/components/cards/WorkflowCard.astro';
+import { Flame } from 'lucide-react';
+
+const tools = await getCollection('tools', ({ data }) => data.featured);
+const workflows = await getCollection('workflows', ({ data }) => data.published);
+---
+
+<BaseLayout
+  title="Trending Open-Source Tools & AI Workflows"
+  description="Discover the most active, highly recommended developer tools and autonomous AI pipelines this month."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'Trending' }]} />
+
+    <SectionHeading
+      badge="Trending Now"
+      title="Trending in the Knowledge Station"
+      description="The fastest-adopted open-source tools, agentic workflows, and system prompts curated by our editorial lab."
+    />
+
+    <section class="my-10">
+      <h2 class="text-xl font-heading font-bold text-text-primary mb-6 flex items-center gap-2">
+        <Flame className="w-5 h-5 text-cosmic-rose" />
+        <span>Trending Tools</span>
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {tools.slice(0, 6).map((t) => <ToolCard tool={t} />)}
+      </div>
+    </section>
+
+    <section class="my-12">
+      <h2 class="text-xl font-heading font-bold text-text-primary mb-6 flex items-center gap-2">
+        <Flame className="w-5 h-5 text-cosmic-cyan" />
+        <span>Trending AI Workflows</span>
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {workflows.slice(0, 3).map((w) => <WorkflowCard workflow={w} />)}
+      </div>
+    </section>
+  </PageContainer>
+</BaseLayout>

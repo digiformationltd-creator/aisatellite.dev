@@ -1,0 +1,83 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import PartnerRecommendation from '@/components/partners/PartnerRecommendation.astro';
+import PartnerDisclosure from '@/components/partners/PartnerDisclosure.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { Building2, ShieldCheck, CheckCircle, AlertTriangle, FileText } from 'lucide-react';
+---
+
+<BaseLayout
+  title="UK Company Formation for Non-Resident Developers & Founders"
+  description="Step-by-step educational guide on UK Companies House registration, director requirements, registered office addresses, and tax compliance."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Founder Hub', href: '/founder-hub' },
+        { label: 'Company Formation' },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <Badge variant="cyan" class="mb-3">Entity Formation</Badge>
+      <h1 class="text-3xl sm:text-5xl font-heading font-extrabold text-text-primary tracking-tight">
+        UK LTD Company Formation for Non-Residents
+      </h1>
+      <p class="mt-4 text-lg text-text-secondary leading-relaxed">
+        Everything remote software engineers, agencies, and SaaS founders need to know about setting up and maintaining a legitimate UK Private Limited Company.
+      </p>
+    </header>
+
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary text-base space-y-6">
+      <h2 class="text-2xl font-heading font-bold text-text-primary">Why Non-Residents Choose a UK LTD</h2>
+      <p>
+        The United Kingdom remains one of the world's most transparent and business-friendly jurisdictions for software creators. A UK Limited Company (LTD) provides:
+      </p>
+      <ul class="space-y-1 list-disc pl-5">
+        <li><strong>Global Credibility:</strong> Instant international trust with enterprise SaaS clients and payment networks.</li>
+        <li><strong>No Local Director Required:</strong> Non-UK citizens can serve as 100% owners and sole directors of a UK LTD.</li>
+        <li><strong>Public Registry Verification:</strong> Transparent verification via the official UK Companies House public registry.</li>
+      </ul>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">Mandatory Statutory Requirements</h2>
+      <div class="not-prose grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+        <div class="p-5 rounded-card bg-space-900 border border-border-subtle">
+          <FileText className="w-5 h-5 text-cosmic-cyan mb-2" />
+          <h3 class="text-sm font-heading font-bold text-text-primary">Registered Office Address</h3>
+          <p class="text-xs text-text-muted mt-1 leading-relaxed">
+            Must be a physical UK street address to receive statutory communications from Companies House and HMRC.
+          </p>
+        </div>
+
+        <div class="p-5 rounded-card bg-space-900 border border-border-subtle">
+          <ShieldCheck className="w-5 h-5 text-cosmic-emerald mb-2" />
+          <h3 class="text-sm font-heading font-bold text-text-primary">Director ID Verification</h3>
+          <p class="text-xs text-text-muted mt-1 leading-relaxed">
+            All directors must satisfy modern identity verification standards (valid passport, proof of residential address).
+          </p>
+        </div>
+      </div>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">Ongoing Annual Filings</h2>
+      <p>
+        To avoid fines or company strike-off, your company must file two annual returns:
+      </p>
+      <ol class="space-y-2 list-decimal pl-5">
+        <li><strong>Confirmation Statement:</strong> Filed every 12 months with Companies House to confirm current share structure and officer details.</li>
+        <li><strong>Company Tax Return & Annual Accounts:</strong> Prepared annually and submitted to HMRC and Companies House.</li>
+      </ol>
+    </article>
+
+    <PartnerRecommendation
+      partner="digiformation"
+      context="UK LTD Incorporation"
+      title="Incorporate Your UK LTD Directly with DigiFormation"
+      description="Looking for an expedited, compliant incorporation process? DigiFormation provides full Companies House registration, London registered office address, and annual filing support."
+    />
+
+    <PartnerDisclosure />
+  </PageContainer>
+</BaseLayout>

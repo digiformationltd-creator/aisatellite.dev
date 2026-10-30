@@ -1,0 +1,222 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+import { ExternalLink, ShieldCheck, Terminal, AlertTriangle, Layers, Calendar } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const tools = await getCollection('tools', ({ data }) => data.published);
+  return tools.map((tool) => ({
+    params: { slug: tool.id },
+    props: { tool },
+  }));
+}
+
+const { tool } = Astro.props;
+const { Content } = await render(tool);
+const {
+  name,
+  description,
+  category,
+  tags,
+  officialUrl,
+  repositoryUrl,
+  documentationUrl,
+  license,
+  pricingModel,
+  selfHosted,
+  freeTierLimitations,
+  alternativesTo,
+  verificationStatus,
+  lastVerified,
+  securityNotes,
+  installationInstructions,
+} = tool.data;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'SoftwareApplication',
+  name: name,
+  description: description,
+  applicationCategory: category,
+  operatingSystem: 'Cross-platform',
+  offers: {
+    '@type': 'Offer',
+    price: '0.00',
+    priceCurrency: 'USD',
+  },
+};
+---
+
+<BaseLayout
+  title={`${name} — Free ${category} Specs & Documentation`}
+  description={description}
+  jsonLd={jsonLd}
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Open-Source Vault', href: '/open-source' },
+        { label: name },
+      ]}
+    />
+
+    <!-- Header Specs -->
+    <header class="mt-6 pb-8 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="cyan">{category}</Badge>
+        {selfHosted && <Badge variant="emerald">Self-Hosted</Badge>}
+        <span class="text-xs font-mono uppercase text-text-muted px-2 py-0.5 rounded bg-space-900 border border-border-subtle">
+          {pricingModel}
+        </span>
+      </div>
+
+      <h1 class="text-3xl sm:text-5xl font-heading font-extrabold text-text-primary tracking-tight">
+        {name}
+      </h1>
+
+      <p class="mt-4 text-lg text-text-secondary leading-relaxed">
+        {description}
+      </p>
+
+      <!-- Action Links -->
+      <div class="mt-6 flex flex-wrap items-center gap-3">
+        <a
+          href={officialUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 px-4 py-2 rounded-button bg-cosmic-cyan text-space-950 font-bold hover:shadow-glow-cyan transition-all text-sm"
+        >
+          <span>Official Website</span>
+          <ExternalLink className="w-4 h-4" />
+        </a>
+
+        {repositoryUrl && (
+          <a
+            href={repositoryUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-button bg-space-850 hover:bg-space-800 text-text-primary border border-border-subtle text-sm font-medium transition-colors"
+          >
+            <span>Source Code Repository</span>
+            <ExternalLink className="w-4 h-4 text-text-muted" />
+          </a>
+        )}
+
+        {documentationUrl && (
+          <a
+            href={documentationUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-button bg-space-900 hover:bg-space-850 text-text-secondary hover:text-text-primary border border-border-subtle text-sm font-medium transition-colors"
+          >
+            <span>Documentation</span>
+            <ExternalLink className="w-4 h-4 text-text-muted" />
+          </a>
+        )}
+      </div>
+    </header>
+
+    <!-- Quick Specifications Table -->
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 py-6 border-b border-border-subtle text-xs font-mono">
+      <div class="p-3 rounded-lg bg-space-900 border border-border-subtle">
+        <span class="text-text-muted block mb-1">Software License</span>
+        <span class="text-text-primary font-semibold">{license || 'Open-Source'}</span>
+      </div>
+      <div class="p-3 rounded-lg bg-space-900 border border-border-subtle">
+        <span class="text-text-muted block mb-1">Pricing Tier</span>
+        <span class="text-cosmic-cyan font-semibold uppercase">{pricingModel}</span>
+      </div>
+      <div class="p-3 rounded-lg bg-space-900 border border-border-subtle">
+        <span class="text-text-muted block mb-1">Verification</span>
+        <span class="text-cosmic-emerald font-semibold flex items-center gap-1">
+          <ShieldCheck className="w-3.5 h-3.5" />
+          {verificationStatus}
+        </span>
+      </div>
+      <div class="p-3 rounded-lg bg-space-900 border border-border-subtle">
+        <span class="text-text-muted block mb-1">Last Audited</span>
+        <span class="text-text-secondary flex items-center gap-1">
+          <Calendar className="w-3.5 h-3.5" />
+          {lastVerified}
+        </span>
+      </div>
+    </div>
+
+    <!-- Installation Command -->
+    {installationInstructions && (
+      <section class="my-8">
+        <h2 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider mb-2 flex items-center gap-2">
+          <Terminal className="w-4 h-4 text-cosmic-cyan" />
+          <span>Quick Launch Command</span>
+        </h2>
+        <div class="relative rounded-card bg-space-900 p-4 border border-border-subtle font-mono text-xs text-cosmic-cyan overflow-x-auto flex items-center justify-between">
+          <code>{installationInstructions}</code>
+          <CopyButton client:visible text={installationInstructions} label="Copy" />
+        </div>
+      </section>
+    )}
+
+    <!-- Markdown Overview Content -->
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary">
+      <Content />
+    </article>
+
+    <!-- Free-Tier Limitations -->
+    {freeTierLimitations.length > 0 && (
+      <section class="my-8 p-5 rounded-card bg-space-900/60 border border-border-subtle">
+        <h3 class="text-base font-heading font-bold text-text-primary mb-3 flex items-center gap-2">
+          <AlertTriangle className="w-4 h-4 text-cosmic-amber" />
+          <span>Free-Tier Limitations & Hosting Nuances</span>
+        </h3>
+        <ul class="space-y-1.5 text-xs sm:text-sm text-text-secondary list-disc pl-5">
+          {freeTierLimitations.map((item) => (
+            <li>{item}</li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <!-- Security & Hardening Notes -->
+    {securityNotes.length > 0 && (
+      <section class="my-8 p-5 rounded-card bg-space-900/60 border border-border-subtle">
+        <h3 class="text-base font-heading font-bold text-text-primary mb-3 flex items-center gap-2">
+          <ShieldCheck className="w-4 h-4 text-cosmic-cyan" />
+          <span>Security & Deployment Best Practices</span>
+        </h3>
+        <ul class="space-y-1.5 text-xs sm:text-sm text-text-secondary list-disc pl-5">
+          {securityNotes.map((note) => (
+            <li>{note}</li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <!-- Proprietary Alternatives Replaced -->
+    {alternativesTo.length > 0 && (
+      <section class="my-8 p-5 rounded-card bg-space-900/60 border border-border-subtle">
+        <h3 class="text-base font-heading font-bold text-text-primary mb-3 flex items-center gap-2">
+          <Layers className="w-4 h-4 text-cosmic-violet" />
+          <span>Replaces Commercial Services</span>
+        </h3>
+        <div class="flex flex-wrap gap-2">
+          {alternativesTo.map((alt) => (
+            <span class="px-3 py-1 text-xs font-mono rounded bg-space-950 text-cosmic-rose line-through border border-border-subtle">
+              {alt}
+            </span>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Return Link -->
+    <div class="mt-12 pt-8 border-t border-border-subtle text-center">
+      <a href="/open-source" class="text-sm font-mono text-cosmic-cyan hover:underline">
+        &larr; Back to Open-Source Directory
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

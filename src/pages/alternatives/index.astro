@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import AlternativeCard from '@/components/cards/AlternativeCard.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+
+const alternatives = await getCollection('alternatives', ({ data }) => data.published);
+---
+
+<BaseLayout
+  title="Free & Open-Source Alternatives to Proprietary SaaS"
+  description="Break free from runaway SaaS subscriptions with vetted open-source software replacements."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'Free Alternatives' }]} />
+
+    <SectionHeading
+      badge="Software Freedom"
+      title="Free & Open-Source Alternatives"
+      description="Replace expensive cloud subscriptions and proprietary lock-in with verified, self-hosted open-source stacks."
+    />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+      {
+        alternatives.map((item) => (
+          <AlternativeCard alternative={item} />
+        ))
+      }
+    </div>
+  </PageContainer>
+</BaseLayout>

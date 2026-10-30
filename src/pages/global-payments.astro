@@ -1,0 +1,80 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import PartnerRecommendation from '@/components/partners/PartnerRecommendation.astro';
+import PartnerDisclosure from '@/components/partners/PartnerDisclosure.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { CreditCard, ShieldCheck, CheckCircle, AlertTriangle, DollarSign } from 'lucide-react';
+---
+
+<BaseLayout
+  title="Global Payments & Stripe Eligibility for International Developers"
+  description="How remote software creators set up multi-currency business accounts, integrate merchant gateways, and comply with underwriting guidelines."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Founder Hub', href: '/founder-hub' },
+        { label: 'Global Payments' },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <Badge variant="emerald" class="mb-3">FinTech Infrastructure</Badge>
+      <h1 class="text-3xl sm:text-5xl font-heading font-extrabold text-text-primary tracking-tight">
+        Global Payments & Merchant Gateway Infrastructure
+      </h1>
+      <p class="mt-4 text-lg text-text-secondary leading-relaxed">
+        A technical breakdown of payment gateways, merchant underwriting, international business banking, and multi-currency payouts.
+      </p>
+    </header>
+
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary text-base space-y-6">
+      <h2 class="text-2xl font-heading font-bold text-text-primary">The Modern Global Payment Rail Stack</h2>
+      <p>
+        For developers billing international clients or running SaaS platforms, the standard payment processing pipeline consists of three distinct layers:
+      </p>
+
+      <div class="not-prose grid grid-cols-1 sm:grid-cols-3 gap-4 my-6 text-xs font-mono">
+        <div class="p-4 rounded-card bg-space-900 border border-border-subtle">
+          <span class="text-cosmic-cyan block font-bold mb-1">Layer 1: Merchant Gateway</span>
+          <span class="text-text-secondary">Stripe, Paddle, Lemon Squeezy</span>
+          <p class="text-text-muted mt-2 text-[11px]">Handles checkout UI, credit card tokenization, and recurring subscriptions.</p>
+        </div>
+
+        <div class="p-4 rounded-card bg-space-900 border border-border-subtle">
+          <span class="text-cosmic-emerald block font-bold mb-1">Layer 2: Corporate Bank</span>
+          <span class="text-text-secondary">Wise Business, Payoneer, Revolut</span>
+          <p class="text-text-muted mt-2 text-[11px]">Receives payouts in local settlement currencies (GBP, USD, EUR) with dedicated IBANs.</p>
+        </div>
+
+        <div class="p-4 rounded-card bg-space-900 border border-border-subtle">
+          <span class="text-cosmic-violet block font-bold mb-1">Layer 3: Local Repatriation</span>
+          <span class="text-text-secondary">Domestic Bank Transfer</span>
+          <p class="text-text-muted mt-2 text-[11px]">Transfers funds into your local operating bank account as foreign inward remittance.</p>
+        </div>
+      </div>
+
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">Underwriting Requirements & Avoiding Account Holds</h2>
+      <p>
+        Merchant processors like Stripe use automated risk algorithms. To ensure smooth account activation:
+      </p>
+      <ul class="space-y-1.5 list-disc pl-5">
+        <li><strong>Functional Operating Website:</strong> Your website must feature clear terms of service, refund policy, privacy policy, and working contact details.</li>
+        <li><strong>Transparent Pricing:</strong> Clear subscription tiers or service pricing visible to customers.</li>
+        <li><strong>Matching Entity Details:</strong> Bank account name must match your registered corporate entity name exactly.</li>
+      </ul>
+    </article>
+
+    <PartnerRecommendation
+      partner="digiformation"
+      context="UK LTD & Banking Setup"
+      title="Form Your Company with Verified Banking Prerequisites"
+      description="DigiFormation assists international founders with complete UK company incorporation and provides the official documents required to apply for Wise Business and Stripe."
+    />
+
+    <PartnerDisclosure />
+  </PageContainer>
+</BaseLayout>

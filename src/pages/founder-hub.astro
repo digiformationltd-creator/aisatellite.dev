@@ -1,0 +1,63 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import PartnerRecommendation from '@/components/partners/PartnerRecommendation.astro';
+import PartnerDisclosure from '@/components/partners/PartnerDisclosure.astro';
+import { Globe, Building2, CreditCard, ShieldCheck, ArrowRight } from 'lucide-react';
+---
+
+<BaseLayout
+  title="Founder Hub — Global Incorporation & Banking Infrastructure"
+  description="Educational resources for technical founders and remote agency owners navigating cross-border entity formation, compliance, and international payment gateways."
+>
+  <PageContainer class="py-10">
+    <Breadcrumbs items={[{ label: 'Founder Hub' }]} />
+
+    <SectionHeading
+      badge="Founder Knowledge"
+      title="Global Founder Infrastructure"
+      description="Practical educational guides for remote software engineers and technical agencies scaling internationally."
+    />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
+      <a href="/company-formation" class="cosmic-glass p-8 group hover:border-cosmic-cyan transition-all">
+        <Building2 className="w-8 h-8 text-cosmic-cyan mb-4" />
+        <h2 class="text-2xl font-heading font-bold text-text-primary group-hover:text-cosmic-cyan mb-2">
+          UK Company Formation Guide
+        </h2>
+        <p class="text-sm text-text-secondary leading-relaxed mb-4">
+          Statutory requirements, registered office addresses, annual Confirmation Statements, and corporate tax fundamentals for non-resident directors.
+        </p>
+        <span class="text-xs font-mono text-cosmic-cyan flex items-center gap-1 group-hover:underline">
+          <span>Read Incorporation Guide</span>
+          <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
+        </span>
+      </a>
+
+      <a href="/global-payments" class="cosmic-glass p-8 group hover:border-cosmic-emerald transition-all">
+        <CreditCard className="w-8 h-8 text-cosmic-emerald mb-4" />
+        <h2 class="text-2xl font-heading font-bold text-text-primary group-hover:text-cosmic-emerald mb-2">
+          Global Payments & Stripe Rails
+        </h2>
+        <p class="text-sm text-text-secondary leading-relaxed mb-4">
+          How overseas tech businesses establish multi-currency banking (Wise, Payoneer) and qualify for merchant payment processors.
+        </p>
+        <span class="text-xs font-mono text-cosmic-emerald flex items-center gap-1 group-hover:underline">
+          <span>Read Payment Infrastructure Guide</span>
+          <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
+        </span>
+      </a>
+    </div>
+
+    <PartnerRecommendation
+      partner="digiformation"
+      context="Legal Entity Setup"
+      title="Incorporate Your UK LTD with DigiFormation"
+      description="Need a trusted formation partner? DigiFormation provides direct registration with UK Companies House, professional London registered office address, and statutory filing assistance."
+    />
+
+    <PartnerDisclosure />
+  </PageContainer>
+</BaseLayout>

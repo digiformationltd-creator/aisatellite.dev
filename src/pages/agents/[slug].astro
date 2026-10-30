@@ -1,0 +1,131 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+import { Cpu, Terminal, ShieldAlert, CheckCircle2, ArrowRight } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const workflows = await getCollection('workflows', ({ data }) => data.published);
+  return workflows.map((wf) => ({
+    params: { slug: wf.id },
+    props: { agent: wf },
+  }));
+}
+
+const { agent } = Astro.props;
+const { title, objective, difficulty, requiredTools, agentRoles, inputs, outputs, securityWarnings, configurationSnippet, freeClassification } = agent.data;
+---
+
+<BaseLayout
+  title={`${title} — Autonomous AI Agent`}
+  description={objective}
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'AI Agents', href: '/ai-agents' },
+        { label: title },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="cyan">{difficulty}</Badge>
+        <span class="text-xs font-mono text-cosmic-emerald px-2 py-0.5 rounded bg-space-900 border border-border-subtle">
+          {freeClassification}
+        </span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
+        {title}
+      </h1>
+
+      <p class="mt-4 text-base sm:text-lg text-text-secondary leading-relaxed">
+        {objective}
+      </p>
+    </header>
+
+    <!-- Architecture Roles & Tools -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-8">
+      <div class="p-5 rounded-card bg-space-900 border border-border-subtle">
+        <h2 class="text-xs font-mono font-bold text-cosmic-violet uppercase tracking-wider mb-3">Agent Roles</h2>
+        <ul class="space-y-1.5 text-xs font-mono text-text-secondary">
+          {agentRoles.map((role) => (
+            <li class="flex items-center gap-2">
+              <span class="w-1.5 h-1.5 rounded-full bg-cosmic-violet"></span>
+              <span>{role}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div class="p-5 rounded-card bg-space-900 border border-border-subtle">
+        <h2 class="text-xs font-mono font-bold text-cosmic-cyan uppercase tracking-wider mb-3">Required Stack & Tools</h2>
+        <ul class="space-y-1.5 text-xs font-mono text-text-secondary">
+          {requiredTools.map((t) => (
+            <li class="flex items-center gap-2">
+              <span class="w-1.5 h-1.5 rounded-full bg-cosmic-cyan"></span>
+              <span>{t}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Inputs & Outputs -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-8">
+      <div class="p-5 rounded-card bg-space-900/60 border border-border-subtle text-xs font-mono">
+        <h3 class="text-text-muted uppercase tracking-wider mb-2">Input Streams:</h3>
+        <ul class="space-y-1 text-text-secondary">
+          {inputs.map((inp) => <li>&bull; {inp}</li>)}
+        </ul>
+      </div>
+
+      <div class="p-5 rounded-card bg-space-900/60 border border-border-subtle text-xs font-mono">
+        <h3 class="text-text-muted uppercase tracking-wider mb-2">Generated Artifacts:</h3>
+        <ul class="space-y-1 text-cosmic-emerald">
+          {outputs.map((out) => <li>&bull; {out}</li>)}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Configuration Blueprint -->
+    <section class="my-8">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider flex items-center gap-2">
+          <Terminal className="w-4 h-4 text-cosmic-cyan" />
+          <span>Execution Configuration</span>
+        </h2>
+        <CopyButton client:visible text={configurationSnippet} label="Copy Snippet" />
+      </div>
+
+      <div class="p-4 rounded-card bg-space-950 border border-border-subtle overflow-x-auto">
+        <pre class="text-xs font-mono text-cosmic-cyan leading-relaxed"><code>{configurationSnippet}</code></pre>
+      </div>
+    </section>
+
+    <!-- Security Warnings -->
+    {securityWarnings.length > 0 && (
+      <div class="p-5 rounded-card bg-space-900/80 border border-cosmic-rose/30 my-8">
+        <h3 class="text-sm font-mono font-bold text-cosmic-rose uppercase tracking-wider mb-2 flex items-center gap-2">
+          <ShieldAlert className="w-4 h-4" />
+          <span>Security & Blast-Radius Warnings</span>
+        </h3>
+        <ul class="space-y-1.5 text-xs text-text-secondary list-disc pl-5">
+          {securityWarnings.map((warn) => (
+            <li>{warn}</li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <div class="mt-12 pt-8 border-t border-border-subtle text-center">
+      <a href="/ai-agents" class="text-sm font-mono text-cosmic-cyan hover:underline">
+        &larr; Return to AI Agents Directory
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

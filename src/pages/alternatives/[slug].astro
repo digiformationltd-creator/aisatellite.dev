@@ -1,0 +1,87 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { Layers, ArrowRight, ShieldCheck } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const alternatives = await getCollection('alternatives', ({ data }) => data.published);
+  return alternatives.map((alt) => ({
+    params: { slug: alt.id },
+    props: { alternative: alt },
+  }));
+}
+
+const { alternative } = Astro.props;
+const { Content } = await render(alternative);
+const { title, proprietaryTool, openSourceReplacements, category, summary, migrationGuidance } = alternative.data;
+---
+
+<BaseLayout
+  title={`${title} — AI Satellite`}
+  description={summary}
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Free Alternatives', href: '/alternatives' },
+        { label: title },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="subtle">{category}</Badge>
+        <span class="text-xs font-mono text-cosmic-rose line-through">
+          {proprietaryTool}
+        </span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
+        {title}
+      </h1>
+
+      <p class="mt-4 text-base sm:text-lg text-text-secondary leading-relaxed">
+        {summary}
+      </p>
+    </header>
+
+    <!-- Replacements Grid -->
+    <div class="my-8 p-6 rounded-card bg-space-900 border border-border-subtle">
+      <h2 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider mb-4 flex items-center gap-2">
+        <Layers className="w-4 h-4 text-cosmic-emerald" />
+        <span>Verified Open-Source Options</span>
+      </h2>
+      <div class="flex flex-wrap gap-2">
+        {openSourceReplacements.map((tool) => (
+          <span class="px-3.5 py-1.5 rounded-button bg-space-950 text-cosmic-emerald font-mono font-bold text-sm border border-cosmic-emerald/30 shadow-glow-emerald/10">
+            {tool}
+          </span>
+        ))}
+      </div>
+    </div>
+
+    <!-- Migration Guidance Box -->
+    <div class="my-8 p-6 rounded-card bg-space-900/60 border border-border-subtle">
+      <h3 class="text-sm font-mono font-bold text-cosmic-cyan uppercase tracking-wider mb-2">
+        Zero-Downtime Migration Blueprint
+      </h3>
+      <p class="text-sm text-text-secondary leading-relaxed">
+        {migrationGuidance}
+      </p>
+    </div>
+
+    <!-- Main Content -->
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary">
+      <Content />
+    </article>
+
+    <div class="mt-12 pt-8 border-t border-border-subtle text-center">
+      <a href="/alternatives" class="text-sm font-mono text-cosmic-cyan hover:underline">
+        &larr; Back to Alternatives Catalog
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

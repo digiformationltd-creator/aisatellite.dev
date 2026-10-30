@@ -1,0 +1,59 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Button from '@/components/ui/Button.astro';
+import GithubIcon from '@/components/icons/GithubIcon.astro';
+import { PlusCircle, CheckCircle2 } from 'lucide-react';
+---
+
+<BaseLayout
+  title="Submit a Free Developer Tool — AI Satellite"
+  description="Submit a verified free developer tool or open-source software project for inclusion in the AI Satellite catalog."
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Contribute', href: '/contribute' },
+        { label: 'Submit Tool' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Open Submission"
+      title="Submit a Developer Tool"
+      description="Help expand the global knowledge station. All submissions are verified against official documentation, open licenses, and free-tier permanence."
+    />
+
+    <div class="cosmic-glass p-8 my-8 border-border-subtle">
+      <h2 class="text-xl font-heading font-bold text-text-primary mb-4">Submission Criteria</h2>
+      <ul class="space-y-3 text-sm text-text-secondary mb-8">
+        <li class="flex items-start gap-2.5">
+          <CheckCircle2 className="w-4 h-4 text-cosmic-emerald mt-0.5 flex-shrink-0" />
+          <span><strong>Free or Open-Source:</strong> Must offer a permanent free tier or complete OSI-approved open-source license. (No trial-only services).</span>
+        </li>
+        <li class="flex items-start gap-2.5">
+          <CheckCircle2 className="w-4 h-4 text-cosmic-emerald mt-0.5 flex-shrink-0" />
+          <span><strong>No Credit Card Required:</strong> Free tiers requiring a credit card for sign-up are placed in a flagged tier and disclaimed explicitly.</span>
+        </li>
+        <li class="flex items-start gap-2.5">
+          <CheckCircle2 className="w-4 h-4 text-cosmic-emerald mt-0.5 flex-shrink-0" />
+          <span><strong>Production Viable:</strong> Must be actively maintained with public documentation or repository commits within the last 12 months.</span>
+        </li>
+      </ul>
+
+      <div class="p-6 rounded-card bg-space-900 border border-cosmic-cyan/30 text-center">
+        <GithubIcon class="w-10 h-10 text-cosmic-cyan mx-auto mb-3" />
+        <h3 class="text-lg font-heading font-bold text-text-primary mb-2">GitHub Pull Request / Issue Submission</h3>
+        <p class="text-xs sm:text-sm text-text-secondary max-w-md mx-auto mb-6">
+          To maintain transparency and auditability, tool submissions are submitted directly via GitHub Markdown files or structured issue tickets.
+        </p>
+        <Button href="https://github.com/ripienaar/free-for-dev/issues/new" target="_blank" variant="primary">
+          <PlusCircle className="w-4 h-4" />
+          <span>Open GitHub Submission Ticket</span>
+        </Button>
+      </div>
+    </div>
+  </PageContainer>
+</BaseLayout>

@@ -1,0 +1,42 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Button from '@/components/ui/Button.astro';
+import { Compass, Home, Search } from 'lucide-react';
+---
+
+<BaseLayout
+  title="404 — Orbital Trajectory Not Found"
+  description="The requested page could not be located in the AI Satellite knowledge station."
+>
+  <PageContainer size="narrow" class="py-24 text-center">
+    <div class="inline-flex items-center justify-center w-20 h-20 rounded-full bg-space-900 border border-border-hover shadow-glow-cyan/20 mb-6 [animation-duration:12s]">
+      <Compass className="w-10 h-10 text-cosmic-cyan animate-spin" />
+    </div>
+
+    <span class="text-xs font-mono text-cosmic-cyan block uppercase tracking-widest mb-2">Error 404 &bull; Signal Lost</span>
+    <h1 class="text-4xl sm:text-6xl font-heading font-extrabold text-text-primary tracking-tight">
+      Orbital Trajectory Not Found
+    </h1>
+
+    <p class="mt-4 text-base sm:text-lg text-text-secondary max-w-md mx-auto leading-relaxed">
+      The coordinates you navigated to do not exist or have decayed from the AI Satellite index.
+    </p>
+
+    <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
+      <Button href="/" variant="primary" size="md">
+        <Home className="w-4 h-4" />
+        <span>Return to Knowledge Base</span>
+      </Button>
+
+      <button
+        type="button"
+        onclick="window.dispatchEvent(new CustomEvent('open-search'))"
+        class="inline-flex items-center gap-2 px-4 py-2 rounded-button bg-space-850 hover:bg-space-800 text-text-primary border border-border-subtle text-sm font-medium transition-colors"
+      >
+        <Search className="w-4 h-4 text-cosmic-cyan" />
+        <span>Open Global Search</span>
+      </button>
+    </div>
+  </PageContainer>
+</BaseLayout>
