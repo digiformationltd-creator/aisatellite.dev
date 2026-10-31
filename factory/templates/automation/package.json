@@ -1,0 +1,10 @@
+{
+  "name": "factory-automation-starter",
+  "version": "1.0.0",
+  "description": "Headless workflow & browser automation starter template for AI Satellite Factory",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

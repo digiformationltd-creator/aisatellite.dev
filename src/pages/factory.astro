@@ -1,0 +1,20 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import FactoryControlCenter from '@/components/factory/FactoryControlCenter.tsx';
+
+const title = 'Autonomous Software Factory — Operations Control Center | AI Satellite';
+const description = 'AI-assisted multi-agent engineering operations, isolated sandboxes, cryptographic SHA-256 release verification, and human approval control center.';
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical="https://aisatellite.pages.dev/factory"
+>
+  <div class="relative min-h-screen py-10">
+    <PageContainer>
+      <FactoryControlCenter client:load />
+    </PageContainer>
+  </div>
+</BaseLayout>

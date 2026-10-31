@@ -1,0 +1,10 @@
+{
+  "name": "factory-library-starter",
+  "version": "1.0.0",
+  "description": "TypeScript utility and algorithmic library starter template for AI Satellite Factory",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "developer-toolbox",
+  "version": "1.0.0",
+  "description": "Offline, zero-telemetry developer utility CLI from AI Satellite Software Factory",
+  "main": "dist/index.js",
+  "bin": {
+    "developer-toolbox": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test tests/*.test.js",
+    "start": "node dist/cli.js"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "json",
+    "hash",
+    "base64",
+    "uuid",
+    "timestamp",
+    "offline"
+  ],
+  "author": "AI Satellite Engineering Team",
+  "license": "MIT"
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "reportId": "sec-1793428030943-e2e-developer-toolbox-1793428030723",
+    "projectId": "e2e-developer-toolbox-1793428030723",
+    "cveFindings": [],
+    "secretFindings": [],
+    "licenseCheck": {
+      "valid": false,
+      "license": "MIT",
+      "compatible": false,
+      "issues": [
+        "No LICENSE file found in workspace root (C:\\Users\\user\\Downloads\\AI STERLITE\\factory\\workspaces\\e2e-developer-toolbox-1793428030723)."
+      ]
+    },
+    "overallRiskScore": 0,
+    "isBlocked": true,
+    "notes": [
+      "Static secret analysis completed across workspace files.",
+      "Dependency supply chain verified.",
+      "SECURITY GATE BLOCKED: Issues detected that require human remediation."
+    ],
+    "createdAt": "2026-10-31T06:27:10.943Z"
+  },
+  {
+    "reportId": "sec-1793428056509-e2e-developer-toolbox-1793428056385",
+    "projectId": "e2e-developer-toolbox-1793428056385",
+    "cveFindings": [],
+    "secretFindings": [],
+    "licenseCheck": {
+      "valid": true,
+      "license": "MIT",
+      "compatible": true,
+      "issues": []
+    },
+    "overallRiskScore": 0,
+    "isBlocked": false,
+    "notes": [
+      "Static secret analysis completed across workspace files.",
+      "Dependency supply chain verified.",
+      "SECURITY GATE PASSED: Zero blocking vulnerabilities or license conflicts."
+    ],
+    "createdAt": "2026-10-31T06:27:36.509Z"
+  },
+  {
+    "reportId": "sec-1793428153782-e2e-developer-toolbox-1793428153613",
+    "projectId": "e2e-developer-toolbox-1793428153613",
+    "cveFindings": [],
+    "secretFindings": [],
+    "licenseCheck": {
+      "valid": true,
+      "license": "MIT",
+      "compatible": true,
+      "issues": []
+    },
+    "overallRiskScore": 0,
+    "isBlocked": false,
+    "notes": [
+      "Static secret analysis completed across workspace files.",
+      "Dependency supply chain verified.",
+      "SECURITY GATE PASSED: Zero blocking vulnerabilities or license conflicts."
+    ],
+    "createdAt": "2026-10-31T06:29:13.782Z"
+  }
+]

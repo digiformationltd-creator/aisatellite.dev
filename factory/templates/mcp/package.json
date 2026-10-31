@@ -1,0 +1,10 @@
+{
+  "name": "factory-mcp-starter",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) server starter template for AI Satellite Factory",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

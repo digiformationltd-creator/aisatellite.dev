@@ -24,5 +24,8 @@ Thumbs.db
 # Test & Coverage
 coverage/
 
+# Factory Ephemeral Workspaces
+factory/workspaces/
+
 # Cloudflare Pages / Wrangler
 .wrangler/

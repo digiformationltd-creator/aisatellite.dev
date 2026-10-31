@@ -1,0 +1,527 @@
+[
+  {
+    "proposalId": "prop_test-audit-pipeline-proj_b444876e",
+    "projectId": "test-audit-pipeline-proj",
+    "name": "Test CLI Tool",
+    "problemStatement": "Developers need fast local CLI transformations.",
+    "targetUsers": [
+      "Engineers",
+      "DevOps"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "Zero telemetry and sub-second startup.",
+    "mvpFeatures": [
+      "JSON formatting",
+      "Base64 conversion"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 88,
+      "feasibility": 90,
+      "ecosystemGap": 85,
+      "sustainability": 82,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 86
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:17:11.276Z"
+  },
+  {
+    "proposalId": "prop_test-audit-pipeline-proj_37bfe211",
+    "projectId": "test-audit-pipeline-proj",
+    "name": "Test CLI Tool",
+    "problemStatement": "Developers need fast local CLI transformations.",
+    "targetUsers": [
+      "Engineers",
+      "DevOps"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "Zero telemetry and sub-second startup.",
+    "mvpFeatures": [
+      "JSON formatting",
+      "Base64 conversion"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 88,
+      "feasibility": 90,
+      "ecosystemGap": 85,
+      "sustainability": 82,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 86
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:17:38.841Z"
+  },
+  {
+    "proposalId": "prop_test-audit-pipeline-proj_a3a6deed",
+    "projectId": "test-audit-pipeline-proj",
+    "name": "Test CLI Tool",
+    "problemStatement": "Developers need fast local CLI transformations.",
+    "targetUsers": [
+      "Engineers",
+      "DevOps"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "Zero telemetry and sub-second startup.",
+    "mvpFeatures": [
+      "JSON formatting",
+      "Base64 conversion"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 88,
+      "feasibility": 90,
+      "ecosystemGap": 85,
+      "sustainability": 82,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 86
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:18:08.486Z"
+  },
+  {
+    "proposalId": "prop_e2e-developer-toolbox-1793427928198_d1a32515",
+    "projectId": "e2e-developer-toolbox-1793427928198",
+    "name": "AI Satellite Developer Toolbox CLI",
+    "problemStatement": "Engineers switch to untrusted third-party web apps to format JSON, hash strings, and convert timestamps, exposing private tokens.",
+    "targetUsers": [
+      "Full-stack Developers",
+      "DevOps Engineers",
+      "Security Researchers"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "100% offline, zero-telemetry local execution with deterministic test vectors.",
+    "mvpFeatures": [
+      "Local JSON formatting & minification",
+      "Base64 encode / decode",
+      "UUID v4 generation",
+      "SHA-256 and MD5 hashing",
+      "Unix epoch timestamp parsing",
+      "Text metrics and case conversions"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js LTS (Native APIs)"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 92,
+      "feasibility": 95,
+      "ecosystemGap": 88,
+      "sustainability": 85,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 89
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:25:28.229Z"
+  },
+  {
+    "proposalId": "prop_e2e-developer-toolbox-1793428030723_4e497367",
+    "projectId": "e2e-developer-toolbox-1793428030723",
+    "name": "AI Satellite Developer Toolbox CLI",
+    "problemStatement": "Engineers switch to untrusted third-party web apps to format JSON, hash strings, and convert timestamps, exposing private tokens.",
+    "targetUsers": [
+      "Full-stack Developers",
+      "DevOps Engineers",
+      "Security Researchers"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "100% offline, zero-telemetry local execution with deterministic test vectors.",
+    "mvpFeatures": [
+      "Local JSON formatting & minification",
+      "Base64 encode / decode",
+      "UUID v4 generation",
+      "SHA-256 and MD5 hashing",
+      "Unix epoch timestamp parsing",
+      "Text metrics and case conversions"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js LTS (Native APIs)"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 92,
+      "feasibility": 95,
+      "ecosystemGap": 88,
+      "sustainability": 85,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 89
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:27:10.775Z"
+  },
+  {
+    "proposalId": "prop_e2e-developer-toolbox-1793428056385_718dee27",
+    "projectId": "e2e-developer-toolbox-1793428056385",
+    "name": "AI Satellite Developer Toolbox CLI",
+    "problemStatement": "Engineers switch to untrusted third-party web apps to format JSON, hash strings, and convert timestamps, exposing private tokens.",
+    "targetUsers": [
+      "Full-stack Developers",
+      "DevOps Engineers",
+      "Security Researchers"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "100% offline, zero-telemetry local execution with deterministic test vectors.",
+    "mvpFeatures": [
+      "Local JSON formatting & minification",
+      "Base64 encode / decode",
+      "UUID v4 generation",
+      "SHA-256 and MD5 hashing",
+      "Unix epoch timestamp parsing",
+      "Text metrics and case conversions"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js LTS (Native APIs)"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 92,
+      "feasibility": 95,
+      "ecosystemGap": 88,
+      "sustainability": 85,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 89
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:27:36.415Z"
+  },
+  {
+    "proposalId": "prop_e2e-developer-toolbox-1793428070909_e1a9a3cc",
+    "projectId": "e2e-developer-toolbox-1793428070909",
+    "name": "AI Satellite Developer Toolbox CLI",
+    "problemStatement": "Engineers switch to untrusted third-party web apps to format JSON, hash strings, and convert timestamps, exposing private tokens.",
+    "targetUsers": [
+      "Full-stack Developers",
+      "DevOps Engineers",
+      "Security Researchers"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "100% offline, zero-telemetry local execution with deterministic test vectors.",
+    "mvpFeatures": [
+      "Local JSON formatting & minification",
+      "Base64 encode / decode",
+      "UUID v4 generation",
+      "SHA-256 and MD5 hashing",
+      "Unix epoch timestamp parsing",
+      "Text metrics and case conversions"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js LTS (Native APIs)"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 92,
+      "feasibility": 95,
+      "ecosystemGap": 88,
+      "sustainability": 85,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 89
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:27:50.939Z"
+  },
+  {
+    "proposalId": "prop_test-audit-pipeline-proj_f9f01d6e",
+    "projectId": "test-audit-pipeline-proj",
+    "name": "Test CLI Tool",
+    "problemStatement": "Developers need fast local CLI transformations.",
+    "targetUsers": [
+      "Engineers",
+      "DevOps"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "Zero telemetry and sub-second startup.",
+    "mvpFeatures": [
+      "JSON formatting",
+      "Base64 conversion"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 88,
+      "feasibility": 90,
+      "ecosystemGap": 85,
+      "sustainability": 82,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 86
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:27:50.943Z"
+  },
+  {
+    "proposalId": "prop_e2e-developer-toolbox-1793428153613_e0ca96af",
+    "projectId": "e2e-developer-toolbox-1793428153613",
+    "name": "AI Satellite Developer Toolbox CLI",
+    "problemStatement": "Engineers switch to untrusted third-party web apps to format JSON, hash strings, and convert timestamps, exposing private tokens.",
+    "targetUsers": [
+      "Full-stack Developers",
+      "DevOps Engineers",
+      "Security Researchers"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "100% offline, zero-telemetry local execution with deterministic test vectors.",
+    "mvpFeatures": [
+      "Local JSON formatting & minification",
+      "Base64 encode / decode",
+      "UUID v4 generation",
+      "SHA-256 and MD5 hashing",
+      "Unix epoch timestamp parsing",
+      "Text metrics and case conversions"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js LTS (Native APIs)"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 92,
+      "feasibility": 95,
+      "ecosystemGap": 88,
+      "sustainability": 85,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 89
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:29:13.644Z"
+  },
+  {
+    "proposalId": "prop_test-audit-pipeline-proj_20395555",
+    "projectId": "test-audit-pipeline-proj",
+    "name": "Test CLI Tool",
+    "problemStatement": "Developers need fast local CLI transformations.",
+    "targetUsers": [
+      "Engineers",
+      "DevOps"
+    ],
+    "existingAlternatives": [
+      "Heavy bloated web apps",
+      "Unmaintained CLI scripts"
+    ],
+    "proposedDifferentiation": "Zero telemetry and sub-second startup.",
+    "mvpFeatures": [
+      "JSON formatting",
+      "Base64 conversion"
+    ],
+    "excludedFeatures": [
+      "Cloud vendor lock-in",
+      "Telemetry tracking",
+      "Paid tier restrictions"
+    ],
+    "suggestedStack": [
+      "TypeScript",
+      "Node.js"
+    ],
+    "securityConsiderations": [
+      "Pure client/local execution without transmitting user data",
+      "Zero telemetry and zero external network calls by default",
+      "Strict input sanitization for CLI arguments"
+    ],
+    "licenseRecommendation": "MIT",
+    "estimatedComplexity": "low",
+    "evidenceReferences": [
+      "Developer Community Survey: High demand for fast offline utility tools",
+      "GitHub trending CLI utilities and ecosystem gaps"
+    ],
+    "scores": {
+      "usefulness": 88,
+      "feasibility": 90,
+      "ecosystemGap": 85,
+      "sustainability": 82,
+      "distribution": 80,
+      "originality": 78,
+      "weightedTotal": 86
+    },
+    "status": "pending_review",
+    "createdAt": "2026-10-31T06:29:13.646Z"
+  }
+]

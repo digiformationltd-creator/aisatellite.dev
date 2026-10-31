@@ -1,0 +1,10 @@
+{
+  "name": "factory-web-starter",
+  "version": "1.0.0",
+  "description": "Clean, lightweight TypeScript Web Application template for AI Satellite Factory",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
