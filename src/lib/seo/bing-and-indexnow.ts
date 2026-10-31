@@ -87,6 +87,25 @@ export class BingAndIndexNowClient {
       statusMessage: `Successfully dispatched ${eligibleUrls.length} verified canonical URLs to IndexNow (Bing/Yandex).`,
     };
   }
+
+  /**
+   * Generates standard IndexNow protocol JSON payload for search engine submission.
+   */
+  public generateSubmissionPayload(urls: string[]): {
+    host: string;
+    key: string;
+    keyLocation: string;
+    urlList: string[];
+  } {
+    const host = new URL(siteConfig.canonicalOrigin).hostname;
+    const key = this.indexNowKey || 'indexnow-transitional-key';
+    return {
+      host,
+      key,
+      keyLocation: `https://${host}/${key}.txt`,
+      urlList: urls,
+    };
+  }
 }
 
 export const bingAndIndexNowClient = new BingAndIndexNowClient();

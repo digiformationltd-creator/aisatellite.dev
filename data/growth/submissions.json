@@ -296,5 +296,117 @@
     "createdAt": "2026-10-31T09:14:55.358Z",
     "moderationNotes": "Verified MIT license and working documentation",
     "reviewedAt": "2026-10-31T09:14:55.361Z"
+  },
+  {
+    "id": "SUB-MVW8C354-VYS",
+    "type": "tool",
+    "title": "Phase 9 Open Source Tool",
+    "description": "Verified developer utility",
+    "resourcePayload": {
+      "repo": "https://github.com/test/tool"
+    },
+    "isSecurityConcern": false,
+    "status": "pending",
+    "submitterHash": "f32815e3766f",
+    "createdAt": "2026-10-31T09:59:41.032Z"
+  },
+  {
+    "id": "SUB-MVW8C3LS-BCE",
+    "type": "tool",
+    "title": "Valid Open Source Resource",
+    "description": "Useful tool",
+    "resourcePayload": {
+      "url": "https://example.org"
+    },
+    "isSecurityConcern": false,
+    "status": "pending",
+    "submitterHash": "431d39d0cbcc",
+    "createdAt": "2026-10-31T09:59:41.632Z"
+  },
+  {
+    "id": "SUB-MVW8C4EH-9CV",
+    "type": "tool",
+    "title": "Journey Test Open Source Tool",
+    "description": "A completely verified open source database alternative.",
+    "resourcePayload": {
+      "license": "MIT",
+      "repoUrl": "https://github.com/example/tool"
+    },
+    "isSecurityConcern": false,
+    "status": "pending",
+    "submitterHash": "04579b1be36f",
+    "createdAt": "2026-10-31T09:59:42.665Z"
+  },
+  {
+    "id": "SUB-MVW8C5DV-HAL",
+    "type": "tool",
+    "title": "PocketBase Local Backend",
+    "description": "Single-file open-source SQLite backend with realtime subscriptions.",
+    "resourcePayload": {
+      "githubUrl": "https://github.com/pocketbase/pocketbase",
+      "license": "MIT"
+    },
+    "isSecurityConcern": false,
+    "status": "approved",
+    "submitterHash": "ac0a4fd1e063",
+    "createdAt": "2026-10-31T09:59:43.939Z",
+    "moderationNotes": "Verified MIT license and working documentation",
+    "reviewedAt": "2026-10-31T09:59:43.949Z"
+  },
+  {
+    "id": "SUB-MVW8MDNV-XHO",
+    "type": "tool",
+    "title": "Phase 9 Open Source Tool",
+    "description": "Verified developer utility",
+    "resourcePayload": {
+      "repo": "https://github.com/test/tool"
+    },
+    "isSecurityConcern": false,
+    "status": "pending",
+    "submitterHash": "84cacf403108",
+    "createdAt": "2026-10-31T10:07:41.227Z"
+  },
+  {
+    "id": "SUB-MVW8MDZ1-7M4",
+    "type": "tool",
+    "title": "Journey Test Open Source Tool",
+    "description": "A completely verified open source database alternative.",
+    "resourcePayload": {
+      "license": "MIT",
+      "repoUrl": "https://github.com/example/tool"
+    },
+    "isSecurityConcern": false,
+    "status": "pending",
+    "submitterHash": "0dbf975a7d4a",
+    "createdAt": "2026-10-31T10:07:41.629Z"
+  },
+  {
+    "id": "SUB-MVW8MEGH-WRE",
+    "type": "tool",
+    "title": "Valid Open Source Resource",
+    "description": "Useful tool",
+    "resourcePayload": {
+      "url": "https://example.org"
+    },
+    "isSecurityConcern": false,
+    "status": "pending",
+    "submitterHash": "13d0af01eeff",
+    "createdAt": "2026-10-31T10:07:42.257Z"
+  },
+  {
+    "id": "SUB-MVW8MFY6-366",
+    "type": "tool",
+    "title": "PocketBase Local Backend",
+    "description": "Single-file open-source SQLite backend with realtime subscriptions.",
+    "resourcePayload": {
+      "githubUrl": "https://github.com/pocketbase/pocketbase",
+      "license": "MIT"
+    },
+    "isSecurityConcern": false,
+    "status": "approved",
+    "submitterHash": "5e1b318ef1f8",
+    "createdAt": "2026-10-31T10:07:44.190Z",
+    "moderationNotes": "Verified MIT license and working documentation",
+    "reviewedAt": "2026-10-31T10:07:44.206Z"
   }
 ]

@@ -138,5 +138,75 @@
     "summary": "Heroku discontinued free dynos and free Postgres plans",
     "requiresReview": true,
     "isResolved": false
+  },
+  {
+    "id": "CHG-MVW8C3QN-J1ZK",
+    "resourceId": "minio",
+    "resourceName": "MinIO",
+    "changeType": "documentation_update",
+    "sourceUrl": "https://github.com/minio/minio/releases",
+    "detectedAt": "2026-10-31T09:59:41.807Z",
+    "summary": "Updated S3 multipart upload API documentation",
+    "requiresReview": false,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW8C3QP-BTID",
+    "resourceId": "redis",
+    "resourceName": "Redis",
+    "changeType": "license_change",
+    "sourceUrl": "https://redis.io/legal/licenses",
+    "detectedAt": "2026-10-31T09:59:41.809Z",
+    "summary": "Redis announced transition from BSD-3 to RSALv2/SSPL dual license",
+    "previousValue": "BSD-3-Clause",
+    "newValue": "RSALv2",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW8C3QQ-VWCM",
+    "resourceId": "heroku",
+    "resourceName": "Heroku",
+    "changeType": "free_tier_change",
+    "sourceUrl": "https://blog.heroku.com/next-chapter",
+    "detectedAt": "2026-10-31T09:59:41.810Z",
+    "summary": "Heroku discontinued free dynos and free Postgres plans",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW8MDI8-T8WB",
+    "resourceId": "minio",
+    "resourceName": "MinIO",
+    "changeType": "documentation_update",
+    "sourceUrl": "https://github.com/minio/minio/releases",
+    "detectedAt": "2026-10-31T10:07:41.024Z",
+    "summary": "Updated S3 multipart upload API documentation",
+    "requiresReview": false,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW8MDI9-NYVN",
+    "resourceId": "redis",
+    "resourceName": "Redis",
+    "changeType": "license_change",
+    "sourceUrl": "https://redis.io/legal/licenses",
+    "detectedAt": "2026-10-31T10:07:41.025Z",
+    "summary": "Redis announced transition from BSD-3 to RSALv2/SSPL dual license",
+    "previousValue": "BSD-3-Clause",
+    "newValue": "RSALv2",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW8MDIB-SF2K",
+    "resourceId": "heroku",
+    "resourceName": "Heroku",
+    "changeType": "free_tier_change",
+    "sourceUrl": "https://blog.heroku.com/next-chapter",
+    "detectedAt": "2026-10-31T10:07:41.027Z",
+    "summary": "Heroku discontinued free dynos and free Postgres plans",
+    "requiresReview": true,
+    "isResolved": false
   }
 ]

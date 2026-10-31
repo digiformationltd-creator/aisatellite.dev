@@ -92,6 +92,22 @@ export default function MobileNavigation() {
                 </a>
 
                 <a
+                  href="/knowledge"
+                  className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-cyan font-medium transition-colors"
+                >
+                  <BookOpen className="w-4 h-4 text-cosmic-cyan" />
+                  <span>Knowledge Universe</span>
+                </a>
+
+                <a
+                  href="/troubleshooting"
+                  className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-amber font-medium transition-colors"
+                >
+                  <Terminal className="w-4 h-4 text-cosmic-amber" />
+                  <span>Troubleshooting</span>
+                </a>
+
+                <a
                   href="/solutions"
                   className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-cyan font-medium transition-colors"
                 >

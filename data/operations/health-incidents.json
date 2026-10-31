@@ -86,5 +86,49 @@
     "assignedAction": "Review rate limiter",
     "retryCount": 2,
     "resolutionTimestamp": "2026-10-31T09:46:07.871Z"
+  },
+  {
+    "id": "INC-MVW8C3QF-IRAP",
+    "service": "search_system",
+    "timestamp": "2026-10-31T09:59:41.799Z",
+    "severity": "medium",
+    "evidence": "Simulated search latency spike on mock endpoint [Resolved Note: Resolved simulated test spike]",
+    "status": "resolved",
+    "assignedAction": "Inspect hybrid search inverted index and memory cache",
+    "retryCount": 1,
+    "resolutionTimestamp": "2026-10-31T09:59:41.801Z"
+  },
+  {
+    "id": "INC-MVW8C3QI-N7HU",
+    "service": "newsletter_form",
+    "timestamp": "2026-10-31T09:59:41.802Z",
+    "severity": "low",
+    "evidence": "Test alert occurrence 1 | Re-observed at 2026-10-31T09:59:41.803Z: Test alert occurrence 2",
+    "status": "resolved",
+    "assignedAction": "Review rate limiter",
+    "retryCount": 2,
+    "resolutionTimestamp": "2026-10-31T09:59:41.804Z"
+  },
+  {
+    "id": "INC-MVW8MDI0-J9GD",
+    "service": "search_system",
+    "timestamp": "2026-10-31T10:07:41.016Z",
+    "severity": "medium",
+    "evidence": "Simulated search latency spike on mock endpoint [Resolved Note: Resolved simulated test spike]",
+    "status": "resolved",
+    "assignedAction": "Inspect hybrid search inverted index and memory cache",
+    "retryCount": 1,
+    "resolutionTimestamp": "2026-10-31T10:07:41.017Z"
+  },
+  {
+    "id": "INC-MVW8MDI3-29PF",
+    "service": "newsletter_form",
+    "timestamp": "2026-10-31T10:07:41.019Z",
+    "severity": "low",
+    "evidence": "Test alert occurrence 1 | Re-observed at 2026-10-31T10:07:41.020Z: Test alert occurrence 2",
+    "status": "resolved",
+    "assignedAction": "Review rate limiter",
+    "retryCount": 2,
+    "resolutionTimestamp": "2026-10-31T10:07:41.021Z"
   }
 ]

@@ -165,11 +165,11 @@ export class FreeAlternativesVerificationEngine {
       featureCompatibilityScore: 0,
       platformCompatibility: [],
       maintenanceStatus: 'active',
-      officialDocumentationUrl: '',
+      officialDocumentationUrl: 'https://aisatellite.dev/radar',
       lastVerifiedAt: new Date().toISOString(),
       nextRecheckDue: new Date(Date.now() + 14 * 24 * 60 * 60 * 1000).toISOString(),
       limitationsExplanation: reason,
-      evidenceUrls: [],
+      evidenceUrls: ['https://aisatellite.dev/radar'],
     };
 
     this.records.set(slug, rec);

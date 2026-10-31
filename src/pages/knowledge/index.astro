@@ -1,0 +1,56 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import UniversalKnowledgeSearch from '@/components/knowledge/UniversalKnowledgeSearch.tsx';
+import PromptBuilderGalaxy from '@/components/knowledge/PromptBuilderGalaxy.tsx';
+import InteractiveCssComponentGalaxy from '@/components/knowledge/InteractiveCssComponentGalaxy.tsx';
+---
+
+<BaseLayout
+  title="Developer Knowledge Universe — AI Satellite"
+  description="Explore the interconnected developer knowledge universe: verified free alternatives, open-source projects, AI prompts, tutorials, MCP servers, and troubleshooting."
+>
+  <PageContainer size="wide" class="py-10 space-y-12">
+    <Breadcrumbs items={[{ label: 'Knowledge Universe', href: '/knowledge' }]} />
+
+    <SectionHeading
+      badge="Global Knowledge Universe"
+      title="One Satellite. The Entire World of Technology."
+      description="Discover verified free alternatives, open-source projects, prompt composition tools, interactive CSS components, and developer troubleshooting guides."
+    />
+
+    <!-- Universal Search Section -->
+    <section class="space-y-4">
+      <div class="flex items-center gap-2 text-cyan-400 font-mono text-xs uppercase tracking-wider">
+        <span>[01 / Universal Search]</span>
+      </div>
+      <UniversalKnowledgeSearch client:load />
+    </section>
+
+    <!-- Master Prompt Builder Section -->
+    <section class="space-y-4 pt-8 border-t border-white/10">
+      <div class="flex items-center justify-between">
+        <div>
+          <span class="text-cyan-400 font-mono text-xs uppercase tracking-wider block mb-1">[02 / Prompt Galaxy]</span>
+          <h2 class="text-xl md:text-2xl font-bold text-white tracking-tight">Interactive Master Prompt Builder</h2>
+          <p class="text-xs text-slate-400 mt-1">Compose production-grade system prompts for coding agents and system architecture.</p>
+        </div>
+      </div>
+      <PromptBuilderGalaxy client:load />
+    </section>
+
+    <!-- CSS Component Galaxy Section -->
+    <section class="space-y-4 pt-8 border-t border-white/10">
+      <div class="flex items-center justify-between">
+        <div>
+          <span class="text-cyan-400 font-mono text-xs uppercase tracking-wider block mb-1">[03 / Web UI Lab]</span>
+          <h2 class="text-xl md:text-2xl font-bold text-white tracking-tight">Interactive CSS Component Galaxy</h2>
+          <p class="text-xs text-slate-400 mt-1">Live preview, customizable blur parameters, and accessible Tailwind CSS snippets.</p>
+        </div>
+      </div>
+      <InteractiveCssComponentGalaxy client:load />
+    </section>
+  </PageContainer>
+</BaseLayout>

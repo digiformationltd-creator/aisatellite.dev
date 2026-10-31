@@ -1,0 +1,146 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import { troubleshootingEngine } from '@/lib/knowledge/troubleshooting-engine';
+import { Terminal, CheckCircle2, AlertTriangle, ExternalLink, ShieldCheck, Wrench } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const solutions = troubleshootingEngine.getAllSolutions();
+  return solutions.map((sol) => ({
+    params: { slug: sol.slug },
+    props: { solution: sol },
+  }));
+}
+
+const { solution } = Astro.props;
+---
+
+<BaseLayout
+  title={`${solution.title} — Developer Troubleshooting Universe`}
+  description={solution.summary}
+>
+  <PageContainer size="narrow" class="py-10 space-y-8">
+    <Breadcrumbs
+      items={[
+        { label: 'Troubleshooting', href: '/troubleshooting' },
+        { label: solution.title },
+      ]}
+    />
+
+    <!-- Header -->
+    <header class="space-y-4 pb-6 border-b border-white/10">
+      <div class="flex items-center gap-3">
+        <span class="px-3 py-1 rounded-full text-xs font-mono bg-cyan-500/15 text-cyan-300 border border-cyan-500/30 uppercase">
+          {solution.tags[0]}
+        </span>
+        <span class="text-xs font-mono text-emerald-400 flex items-center gap-1">
+          <ShieldCheck className="w-3.5 h-3.5" />
+          Verified: {solution.lastVerifiedDate}
+        </span>
+      </div>
+
+      <h1 class="text-2xl md:text-3xl font-bold text-white tracking-tight leading-snug">
+        {solution.title}
+      </h1>
+
+      <p class="text-sm text-slate-300 leading-relaxed">
+        {solution.summary}
+      </p>
+
+      <div class="flex flex-wrap gap-2 pt-2">
+        {solution.applicableVersions.map((v) => (
+          <span class="text-[11px] font-mono px-2 py-0.5 rounded bg-slate-900 text-slate-300 border border-white/10">
+            {v}
+          </span>
+        ))}
+      </div>
+    </header>
+
+    <!-- Symptoms Section -->
+    <section class="p-6 rounded-2xl bg-amber-950/20 border border-amber-500/30 space-y-3">
+      <h2 class="text-base font-bold text-amber-300 flex items-center gap-2">
+        <AlertTriangle className="w-4 h-4 text-amber-400" />
+        Observed Symptoms & Error Messages
+      </h2>
+      <ul class="space-y-2 text-xs text-slate-300 list-disc list-inside">
+        {solution.symptoms.map((sym) => (
+          <li class="font-mono">{sym}</li>
+        ))}
+      </ul>
+    </section>
+
+    <!-- Likely Causes Section -->
+    <section class="space-y-3">
+      <h2 class="text-lg font-bold text-white">Root Cause Analysis</h2>
+      <ul class="space-y-2 text-xs text-slate-300 list-disc list-inside">
+        {solution.likelyCauses.map((cause) => (
+          <li class="leading-relaxed">{cause}</li>
+        ))}
+      </ul>
+    </section>
+
+    <!-- Diagnostic Steps -->
+    <section class="p-6 rounded-2xl bg-slate-900/60 border border-white/10 space-y-3">
+      <h2 class="text-base font-bold text-white flex items-center gap-2">
+        <Terminal className="w-4 h-4 text-cyan-400" />
+        Diagnostic Steps
+      </h2>
+      <ol class="space-y-2 text-xs text-slate-300 list-decimal list-inside">
+        {solution.diagnosticSteps.map((step) => (
+          <li class="leading-relaxed">{step}</li>
+        ))}
+      </ol>
+    </section>
+
+    <!-- Verified Fixes Section -->
+    <section class="space-y-6">
+      <h2 class="text-lg font-bold text-white flex items-center gap-2">
+        <Wrench className="w-5 h-5 text-emerald-400" />
+        Verified Code Fixes & Remediation
+      </h2>
+
+      {solution.verifiedFixes.map((fix, idx) => (
+        <div class="p-6 rounded-2xl bg-slate-900/80 border border-white/10 space-y-4">
+          <div class="flex items-center justify-between">
+            <h3 class="text-base font-semibold text-white">
+              {idx + 1}. {fix.title}
+            </h3>
+            <span class={`px-2.5 py-0.5 rounded text-[10px] font-mono uppercase ${
+              fix.risk === 'low' ? 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/30' : 'bg-amber-500/20 text-amber-300 border border-amber-500/30'
+            }`}>
+              Risk: {fix.risk}
+            </span>
+          </div>
+
+          <p class="text-xs text-slate-300 leading-relaxed">
+            {fix.explanation}
+          </p>
+
+          {fix.codeSnippet && (
+            <pre class="p-4 rounded-xl bg-slate-950 border border-white/5 text-xs font-mono text-cyan-300 overflow-x-auto leading-relaxed whitespace-pre">
+              {fix.codeSnippet}
+            </pre>
+          )}
+        </div>
+      ))}
+    </section>
+
+    <!-- References & External Links -->
+    <footer class="pt-6 border-t border-white/10 space-y-3">
+      <h4 class="text-xs font-mono text-slate-400 uppercase tracking-wider">Primary Technical References:</h4>
+      <div class="flex flex-wrap gap-4">
+        {solution.sourceReferences.map((ref) => (
+          <a
+            href={ref.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-1.5 text-xs text-cyan-400 hover:text-white transition-colors"
+          >
+            {ref.title} <ExternalLink className="w-3.5 h-3.5" />
+          </a>
+        ))}
+      </div>
+    </footer>
+  </PageContainer>
+</BaseLayout>

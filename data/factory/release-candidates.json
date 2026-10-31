@@ -251,5 +251,51 @@
       "comments": "Cryptographic checksums verified against sandbox build."
     },
     "createdAt": "2026-10-31T09:14:46.689Z"
+  },
+  {
+    "releaseId": "rel_e2e-developer-toolbox-1793440780848_v1_0_0",
+    "projectId": "e2e-developer-toolbox-1793440780848",
+    "version": "1.0.0",
+    "gitTag": "v1.0.0",
+    "changelog": "## [1.0.0] - 2026-10-31\n\n### Added\n- Local JSON formatting\n- Cryptographic hashing\n- Zero network calls\n\n### Changed\n- Production build assets verified with SHA-256 integrity checksums.\n- Automated security, vulnerability, and license audits completed with 0 blocking findings.\n",
+    "artifacts": [
+      {
+        "platform": "source",
+        "filename": "toolbox-v1.0.0.tar.gz",
+        "url": "https://github.com/aisatellite-org/e2e-developer-toolbox-1793440780848/releases/download/v1.0.0/toolbox-v1.0.0.tar.gz",
+        "sizeBytes": 86,
+        "sha256": "e1b4bdb973c533dfbff081117825687a4660a89f2e7c8cca75ac90c8041acead"
+      }
+    ],
+    "status": "approved",
+    "approvalRecord": {
+      "approvedBy": "Sarah Chen (Lead Systems Architect)",
+      "approvedAt": "2026-10-31T09:59:41.081Z",
+      "comments": "Cryptographic checksums verified against sandbox build."
+    },
+    "createdAt": "2026-10-31T09:59:41.059Z"
+  },
+  {
+    "releaseId": "rel_e2e-developer-toolbox-1793441261026_v1_0_0",
+    "projectId": "e2e-developer-toolbox-1793441261026",
+    "version": "1.0.0",
+    "gitTag": "v1.0.0",
+    "changelog": "## [1.0.0] - 2026-10-31\n\n### Added\n- Local JSON formatting\n- Cryptographic hashing\n- Zero network calls\n\n### Changed\n- Production build assets verified with SHA-256 integrity checksums.\n- Automated security, vulnerability, and license audits completed with 0 blocking findings.\n",
+    "artifacts": [
+      {
+        "platform": "source",
+        "filename": "toolbox-v1.0.0.tar.gz",
+        "url": "https://github.com/aisatellite-org/e2e-developer-toolbox-1793441261026/releases/download/v1.0.0/toolbox-v1.0.0.tar.gz",
+        "sizeBytes": 86,
+        "sha256": "e1b4bdb973c533dfbff081117825687a4660a89f2e7c8cca75ac90c8041acead"
+      }
+    ],
+    "status": "approved",
+    "approvalRecord": {
+      "approvedBy": "Sarah Chen (Lead Systems Architect)",
+      "approvedAt": "2026-10-31T10:07:41.232Z",
+      "comments": "Cryptographic checksums verified against sandbox build."
+    },
+    "createdAt": "2026-10-31T10:07:41.218Z"
   }
 ]

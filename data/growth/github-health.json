@@ -8,19 +8,17 @@
     "hasLicense": true,
     "hasContributingGuide": true,
     "hasSecurityPolicy": true,
-    "hasIssueTemplates": false,
-    "hasPrTemplates": false,
+    "hasIssueTemplates": true,
+    "hasPrTemplates": true,
     "topicsCount": 8,
     "hasReleaseNotes": false,
     "hasRoadmap": false,
     "hasDocumentationLinks": false,
     "goodFirstIssuesCount": 3,
-    "healthScore": 65,
+    "healthScore": 90,
     "recommendations": [
-      "Add preview screenshots or GIFs to README.md to boost developer discovery",
-      "Create .github/ISSUE_TEMPLATE for structured bug reports and feature requests",
-      "Add .github/PULL_REQUEST_TEMPLATE.md for contributor consistency"
+      "Add preview screenshots or GIFs to README.md to boost developer discovery"
     ],
-    "auditedAt": "2026-10-31T09:14:57.819Z"
+    "auditedAt": "2026-10-31T10:07:45.045Z"
   }
 ]
