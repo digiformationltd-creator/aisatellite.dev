@@ -12,6 +12,10 @@
 /_astro/*
   Cache-Control: public, max-age=31536000, immutable
 
+# Cache-Control for search indexes
+/pagefind/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
 # Cache-Control for images and fonts
 /*.woff2
   Cache-Control: public, max-age=31536000, immutable
@@ -21,3 +25,28 @@
 
 /*.png
   Cache-Control: public, max-age=86400
+
+# Private & Authenticated Routes - NEVER cache in shared public caches
+/workspace*
+  Cache-Control: private, no-cache, no-store, must-revalidate
+  Pragma: no-cache
+
+/api/*
+  Cache-Control: private, no-cache, no-store, must-revalidate
+  Pragma: no-cache
+
+/operations-admin*
+  Cache-Control: private, no-cache, no-store, must-revalidate
+  Pragma: no-cache
+
+/growth-admin*
+  Cache-Control: private, no-cache, no-store, must-revalidate
+  Pragma: no-cache
+
+/research-admin*
+  Cache-Control: private, no-cache, no-store, must-revalidate
+  Pragma: no-cache
+
+/reliability-admin*
+  Cache-Control: private, no-cache, no-store, must-revalidate
+  Pragma: no-cache

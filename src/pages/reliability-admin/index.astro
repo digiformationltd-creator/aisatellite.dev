@@ -1,0 +1,33 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ReliabilityCommandCenter from '@/components/reliability/ReliabilityCommandCenter.tsx';
+---
+
+<BaseLayout
+  title="Reliability Command Center — AI Satellite Admin"
+  description="Private administrative command center for site reliability engineering, SLO monitoring, disaster recovery runbooks, and global scale controls."
+  noIndex={true}
+>
+  <PageContainer>
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Operations Console', href: '/operations-admin' },
+        { label: 'Reliability & Scale', href: '/reliability-admin' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Private Reliability Command Center"
+      title="Global Scale & Production Reliability"
+      description="Monitor Service Level Objectives (SLOs), regional edge latencies, Cloudflare D1 migrations, background job idempotency, disaster recovery runbooks, and cost circuit breakers."
+    />
+
+    <div class="mt-8">
+      <ReliabilityCommandCenter client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>

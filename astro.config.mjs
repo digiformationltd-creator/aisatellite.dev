@@ -22,7 +22,8 @@ export default defineConfig({
         !page.includes('/community/moderation') &&
         !page.includes('/operations-admin') &&
         !page.includes('/growth-admin') &&
-        !page.includes('/research-admin'),
+        !page.includes('/research-admin') &&
+        !page.includes('/reliability-admin'),
     }),
   ],
   vite: {

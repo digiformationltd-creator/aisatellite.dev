@@ -1,0 +1,178 @@
+{
+  "slos": [
+    {
+      "sliName": "public_page_availability",
+      "label": "Public Page Availability",
+      "targetValue": 99.5,
+      "observedValue": 99.92,
+      "unit": "%",
+      "status": "COMPLIANT",
+      "errorBudgetRemainingPercent": 84,
+      "description": "Uptime percentage of public static and server-rendered content routes."
+    },
+    {
+      "sliName": "api_request_success_rate",
+      "label": "API Request Success Rate",
+      "targetValue": 99.9,
+      "observedValue": 99.95,
+      "unit": "%",
+      "status": "COMPLIANT",
+      "errorBudgetRemainingPercent": 50,
+      "description": "Non-5xx HTTP response percentage for internal edge APIs."
+    },
+    {
+      "sliName": "response_latency_p95",
+      "label": "Response Latency (P95)",
+      "targetValue": 250,
+      "observedValue": 142,
+      "unit": "ms",
+      "status": "COMPLIANT",
+      "errorBudgetRemainingPercent": 100,
+      "description": "95th percentile response latency for edge-delivered static HTML and assets."
+    },
+    {
+      "sliName": "search_availability",
+      "label": "Search Index Availability",
+      "targetValue": 99.9,
+      "observedValue": 100,
+      "unit": "%",
+      "status": "COMPLIANT",
+      "errorBudgetRemainingPercent": 100,
+      "description": "Availability of client-side and server-assisted Pagefind index queries."
+    },
+    {
+      "sliName": "auth_session_reliability",
+      "label": "Authentication Reliability",
+      "targetValue": 99.9,
+      "observedValue": 99.98,
+      "unit": "%",
+      "status": "COMPLIANT",
+      "errorBudgetRemainingPercent": 80,
+      "description": "Successful session verification without cryptographic corruption or race conditions."
+    },
+    {
+      "sliName": "background_job_success_rate",
+      "label": "Background Job Success Rate",
+      "targetValue": 98,
+      "observedValue": 98.8,
+      "unit": "%",
+      "status": "COMPLIANT",
+      "errorBudgetRemainingPercent": 40,
+      "description": "Percentage of scheduled automation runs completing without terminal failure."
+    },
+    {
+      "sliName": "data_freshness_sla",
+      "label": "Data Freshness SLA",
+      "targetValue": 24,
+      "observedValue": 12.4,
+      "unit": "hours",
+      "status": "COMPLIANT",
+      "errorBudgetRemainingPercent": 48.3,
+      "description": "Maximum elapsed time before upstream repository freshness checks are refreshed."
+    },
+    {
+      "sliName": "deployment_failure_rate",
+      "label": "Deployment Failure Rate",
+      "targetValue": 2,
+      "observedValue": 0,
+      "unit": "%",
+      "status": "COMPLIANT",
+      "errorBudgetRemainingPercent": 100,
+      "description": "Percentage of CI/CD deployment workflows triggering an automatic rollback."
+    }
+  ],
+  "incidents": [
+    {
+      "id": "inc-2026-10-01",
+      "title": "Transitory Pagefind Build Lock Collision in CI Runner",
+      "severity": "P3-MEDIUM",
+      "category": "SEARCH",
+      "status": "RESOLVED",
+      "impactSummary": "Pagefind indexing process collided on temporary file lock during parallel test execution.",
+      "detectedAt": "2026-10-25T14:10:00Z",
+      "mitigatedAt": "2026-10-25T14:18:00Z",
+      "resolvedAt": "2026-10-25T14:30:00Z",
+      "rootCause": "Vitest parallel file workers attempting to write to same dist directory simultaneously.",
+      "actionItems": [
+        "Configured vitest.config.ts with fileParallelism: false for deterministic sequential test execution.",
+        "Added atomic temp file renaming to all database persistence writes."
+      ]
+    }
+  ],
+  "alerts": [],
+  "backups": [
+    {
+      "id": "bkp-d1-latest",
+      "targetComponent": "d1-relational-cluster",
+      "backupType": "SNAPSHOT",
+      "storageLocation": "r2://aisatellite-backups/d1/2026-10-31.sql.gz",
+      "checksumSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "byteSize": 1482048,
+      "retentionDays": 30,
+      "status": "VERIFIED",
+      "createdAt": "2026-10-31T11:48:37.496Z",
+      "expiresAt": "2026-11-30T11:48:37.496Z"
+    }
+  ],
+  "jobs": [],
+  "deadLetterQueue": [],
+  "deployments": [
+    {
+      "id": "dep-phase-15",
+      "commitSha": "627f405",
+      "environment": "production",
+      "branch": "master",
+      "migrationVersion": 4,
+      "buildDurationMs": 43334,
+      "status": "DEPLOYED",
+      "deployedBy": "CI/GitHub Actions",
+      "verifiedAt": "2026-10-31T11:48:37.496Z",
+      "createdAt": "2026-10-31T11:48:37.496Z"
+    }
+  ],
+  "benchmarks": [
+    {
+      "scenarioName": "Peak Search & Alternative Directory Traversal",
+      "virtualUsers": 50,
+      "durationSeconds": 30,
+      "totalRequests": 4500,
+      "requestsPerSecond": 150,
+      "latencyP50Ms": 18.2,
+      "latencyP95Ms": 64.5,
+      "latencyP99Ms": 112,
+      "errorRatePercent": 0,
+      "bottleneckDetected": null,
+      "testedAt": "2026-10-31T11:48:37.496Z"
+    }
+  ],
+  "costQuotas": [
+    {
+      "service": "Cloudflare Pages / Workers",
+      "quotaUnit": "Monthly Requests",
+      "monthlyLimit": 10000000,
+      "observedMonthlyUsage": 124890,
+      "circuitBreakerThresholdPercent": 85
+    },
+    {
+      "service": "Cloudflare D1 SQL Operations",
+      "quotaUnit": "Rows Read / Day",
+      "monthlyLimit": 5000000,
+      "observedMonthlyUsage": 89400,
+      "circuitBreakerThresholdPercent": 85
+    },
+    {
+      "service": "Cloudflare R2 Object Storage",
+      "quotaUnit": "GB Storage",
+      "monthlyLimit": 10,
+      "observedMonthlyUsage": 1.4,
+      "circuitBreakerThresholdPercent": 80
+    },
+    {
+      "service": "AI Provider Inference Tokens",
+      "quotaUnit": "Tokens / Month",
+      "monthlyLimit": 5000000,
+      "observedMonthlyUsage": 450000,
+      "circuitBreakerThresholdPercent": 80
+    }
+  ]
+}

@@ -108,5 +108,15 @@
     "description": "Zero verified alternatives matched user query",
     "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
     "isResolved": true
+  },
+  {
+    "id": "DEVEX-MVWC8B85-SOUZ",
+    "signalType": "zero_result_search",
+    "queryOrPath": "unsupported-obscure-commercial-software",
+    "occurrenceCount": 1,
+    "lastOccurredAt": "2026-10-31T11:48:43.349Z",
+    "description": "Zero verified alternatives matched user query",
+    "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
+    "isResolved": true
   }
 ]

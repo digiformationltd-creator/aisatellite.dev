@@ -5,6 +5,7 @@ Allow: /
 Disallow: /research-admin
 Disallow: /growth-admin
 Disallow: /operations-admin
+Disallow: /reliability-admin
 Disallow: /factory
 Disallow: /workspace
 Disallow: /community/moderation

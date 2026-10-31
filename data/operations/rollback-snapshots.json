@@ -185,5 +185,22 @@
     "createdAt": "2026-10-31T11:33:39.512Z",
     "reason": "Unit test snapshot capture",
     "restoredAt": "2026-10-31T11:33:39.513Z"
+  },
+  {
+    "id": "SNAP-MVWC8B7Z-4H63",
+    "ticketId": "TKT-MVWC8B7X-PH5X",
+    "targetFileOrResource": "data/operations/metadata-cache.json",
+    "snapshotData": "{\"id\":\"TKT-MVWC8B7X-PH5X\",\"title\":\"Re-cache Tool Metadata Schema\",\"description\":\"Refresh cached non-sensitive schema indices for offline search.\",\"severity\":\"low\",\"status\":\"proposed\",\"priorityTier\":8,\"evidenceUrls\":[\"https://aisatellite.dev/tools\"],\"affectedResources\":[\"data/operations/metadata-cache.json\"],\"proposedSolution\":\"Regenerate schema index.\",\"estimatedComplexity\":\"low\",\"riskLevel\":\"low\",\"requiredApproval\":\"none\",\"validationPlan\":\"Verify schema parsing.\",\"rollbackPlan\":\"Revert cache file.\",\"executionLogs\":[\"[2026-10-31T11:48:43.341Z] Ticket created via AutonomousImprovementPlanner\"],\"createdAt\":\"2026-10-31T11:48:43.341Z\",\"updatedAt\":\"2026-10-31T11:48:43.341Z\"}",
+    "createdAt": "2026-10-31T11:48:43.343Z",
+    "reason": "Pre-execution state for ticket TKT-MVWC8B7X-PH5X: Re-cache Tool Metadata Schema"
+  },
+  {
+    "id": "SNAP-MVWC8B81-5MII",
+    "ticketId": "TKT-TEST-99",
+    "targetFileOrResource": "src/lib/test-resource.ts",
+    "snapshotData": "export const test = true;",
+    "createdAt": "2026-10-31T11:48:43.345Z",
+    "reason": "Unit test snapshot capture",
+    "restoredAt": "2026-10-31T11:48:43.346Z"
   }
 ]
