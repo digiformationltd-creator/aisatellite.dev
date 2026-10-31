@@ -1,0 +1,41 @@
+version: 1
+editorialPolicy:
+  maxDailyPublishedArticles: 1
+  requireHumanApproval: true
+  minEvidenceCountPerDraft: 2
+  requireSpdxLicense: true
+  preventUnverifiedClaims: true
+  allowDraftStagingWithoutApiKeys: true
+
+scoringWeights:
+  developerUsefulness: 0.25
+  documentationQuality: 0.20
+  freeAccessibility: 0.20
+  maintenanceConfidence: 0.15
+  installationUsability: 0.10
+  communitySignals: 0.10
+
+minimumScores:
+  candidateVerificationThreshold: 50
+  editorialPublicationThreshold: 65
+
+freeClassifications:
+  open_source:
+    requiresLicense: true
+    requiresPublicRepo: true
+  free_forever:
+    requiresClearFreeTier: true
+    requiresNoCreditCardNotice: true
+  freemium:
+    requiresLimitsDocumentation: true
+  free_trial:
+    allowedInMainCatalog: false
+    flagged: true
+
+prohibitedPatterns:
+  - "arbitrary code execution without isolation"
+  - "unverified star metric inflation"
+  - "fabricated testimonials or reviews"
+  - "unlicensed article redistribution"
+  - "guaranteed bank approval claims"
+  - "prompt injection compliance"

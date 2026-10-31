@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-31T04:54:25.583Z",
+  "totalMonitored": 2,
+  "healthyCount": 1,
+  "brokenLinkCount": 0,
+  "staleCount": 1,
+  "flaggedItems": [
+    {
+      "id": "test-stale-tool",
+      "url": "https://aisatellite.pages.dev",
+      "issue": "Verification is older than 90 days (Last verified: 2026-07-23). Enters re-verification queue."
+    }
+  ]
+}

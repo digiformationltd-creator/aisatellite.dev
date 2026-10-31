@@ -1,0 +1,51 @@
+version: 1
+partners:
+  digiformation:
+    id: "digiformation"
+    name: "DigiFormation"
+    officialUrl: "https://www.digiformation.co.uk/"
+    topics:
+      - "uk-ltd"
+      - "us-llc"
+      - "company-formation"
+      - "registered-office"
+      - "corporate-compliance"
+      - "stripe-activation"
+      - "international-banking"
+      - "confirmation-statement"
+      - "annual-accounts"
+    commercialRelationship: "Affiliated Ecosystem Partner"
+    disclosureBadge: "⭐ Recommended Partner Service • Commercial Relationship Disclosed"
+    mandatoryDisclaimer: "Disclaimer: AI Satellite maintains commercial partnerships with DigiFormation. Service recommendations are strictly contextual and fact-checked against UK Companies House statutory guidelines. No banking approval is ever guaranteed."
+    privacyEvents:
+      viewEvent: "partner_cta_view"
+      clickEvent: "partner_cta_click"
+
+  digibizos:
+    id: "digibizos"
+    name: "Digi Biz OS"
+    officialUrl: "https://digibizos.co.uk/"
+    topics:
+      - "crm"
+      - "erp"
+      - "agency-operations"
+      - "client-portal"
+      - "invoicing-automation"
+      - "workflow-automation"
+      - "business-productivity"
+      - "saas-consolidation"
+    commercialRelationship: "Affiliated Ecosystem Partner"
+    disclosureBadge: "⭐ Recommended Partner Service • Commercial Relationship Disclosed"
+    mandatoryDisclaimer: "Disclaimer: AI Satellite maintains commercial partnerships with Digi Biz OS. Recommendations are based on evaluated feature workflows for remote service agencies and freelancers."
+    privacyEvents:
+      viewEvent: "partner_cta_view"
+      clickEvent: "partner_cta_click"
+
+trackingEvents:
+  - "partner_cta_view"
+  - "partner_cta_click"
+  - "article_view"
+  - "tool_click"
+  - "github_click"
+  - "workflow_copy"
+  - "search_performed"

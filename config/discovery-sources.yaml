@@ -1,0 +1,61 @@
+version: 1
+sources:
+  github:
+    enabled: true
+    rateLimitReserve: 100
+    searchPerPage: 30
+    maxPagesPerRun: 3
+    apiBaseUrl: "https://api.github.com"
+    topics:
+      - "open-source"
+      - "self-hosted"
+      - "free-for-dev"
+      - "mcp-server"
+      - "autonomous-agents"
+      - "threejs"
+      - "local-ai"
+      - "ollama"
+
+  curatedLists:
+    - id: "free-for-dev"
+      name: "Free For Developers"
+      url: "https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md"
+      type: "markdown-list"
+      categoryMapping:
+        "Major Cloud Providers": "free-hosting"
+        "APIs, Data and ML": "free-ai-tools"
+        "Storage and Media": "object-storage"
+        "Authentication, OAuth and User Management": "authentication"
+        "Database": "databases"
+      enabled: true
+
+    - id: "awesome-selfhosted"
+      name: "Awesome Self-Hosted"
+      url: "https://raw.githubusercontent.com/awesome-selfhosted/awesome-selfhosted/master/README.md"
+      type: "markdown-list"
+      categoryMapping:
+        "Communication - Customer Relationship Management": "open-source-crm"
+        "Enterprise Resource Planning": "open-source-erp"
+        "Database Management": "databases"
+        "Automation": "workflow-automation"
+      enabled: true
+
+    - id: "mcp-servers-registry"
+      name: "Official Model Context Protocol Directory"
+      url: "https://raw.githubusercontent.com/modelcontextprotocol/servers/main/README.md"
+      type: "markdown-table"
+      defaultCategory: "mcp-servers"
+      enabled: true
+
+  officialDocs:
+    - id: "companies-house-uk"
+      name: "UK Companies House Documentation"
+      url: "https://www.gov.uk/limited-company-formation"
+      category: "founder-infrastructure"
+      trustedEvidenceDomain: true
+
+    - id: "stripe-docs-atlas"
+      name: "Stripe Global Payments & Atlas"
+      url: "https://stripe.com/docs"
+      category: "founder-infrastructure"
+      trustedEvidenceDomain: true

@@ -1,0 +1,32 @@
+{
+  "draftId": "draft-test-approval-1",
+  "topicId": "topic-1",
+  "title": "Self-Hosting Postgres with pgvector for Local AI Workloads",
+  "slug": "test-self-hosting-postgres-pgvector",
+  "description": "Complete architecture playbook for running vector databases locally.",
+  "category": "databases",
+  "tags": [
+    "postgresql",
+    "pgvector",
+    "ai"
+  ],
+  "author": "AI Satellite Lab",
+  "readingTime": "6 min read",
+  "partnerContext": "none",
+  "evidenceLedger": [
+    {
+      "claimId": "c1",
+      "claim": "pgvector supports exact and approximate nearest neighbor search.",
+      "sourceUrl": "https://github.com/pgvector/pgvector",
+      "sourceType": "official_documentation",
+      "verifiedAt": "2026-10-31",
+      "confidence": "high"
+    }
+  ],
+  "mdxContent": "\n### Architectural Overview\nPostgreSQL combined with the `pgvector` extension provides ACID-compliant vector storage.\n\n```sql\nCREATE EXTENSION vector;\nCREATE TABLE items (id bigserial PRIMARY KEY, embedding vector(3));\n```\n\n### Architectural Overview\nPostgreSQL combined with the `pgvector` extension provides ACID-compliant vector storage.\n\n```sql\nCREATE EXTENSION vector;\nCREATE TABLE items (id bigserial PRIMARY KEY, embedding vector(3));\n```\n\n### Architectural Overview\nPostgreSQL combined with the `pgvector` extension provides ACID-compliant vector storage.\n\n```sql\nCREATE EXTENSION vector;\nCREATE TABLE items (id bigserial PRIMARY KEY, embedding vector(3));\n```\n",
+  "status": "published",
+  "validationErrors": [],
+  "createdAt": "2026-10-31T00:00:00Z",
+  "updatedAt": "2026-10-31T04:54:25.693Z",
+  "editorialReviewNotes": "Approved by editor: SeniorEditor-Aisha. Verified technical accuracy"
+}

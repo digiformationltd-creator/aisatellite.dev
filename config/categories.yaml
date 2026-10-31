@@ -1,0 +1,347 @@
+categories:
+  - id: "free-ai-tools"
+    name: "Free AI Developer Tools"
+    queries:
+      - "topic:ai-tools free developer"
+      - "ai developer productivity open source"
+    inclusionCriteria:
+      - "Offers developer API, CLI, or library"
+      - "Has perpetual free tier or OSI open source"
+    exclusionCriteria:
+      - "Credit card required trials"
+      - "Proprietary without free access"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+      - "AGPL-3.0"
+      - "BSD-3-Clause"
+      - "GPL-3.0"
+    updateFrequencyDays: 3
+    priority: "high"
+
+  - id: "local-llm"
+    name: "Local LLM & Inference Engines"
+    queries:
+      - "topic:llm-inference local"
+      - "topic:llama-cpp"
+      - "topic:local-ai"
+    inclusionCriteria:
+      - "Runs offline on consumer hardware (CPU or GPU)"
+      - "Open source or clear royalty-free license"
+    exclusionCriteria:
+      - "Cloud-only proxies"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+      - "GPL-3.0"
+    updateFrequencyDays: 2
+    priority: "critical"
+
+  - id: "ai-coding"
+    name: "AI Coding & Pair Programmers"
+    queries:
+      - "topic:ai-coding assistant"
+      - "topic:code-generation local"
+    inclusionCriteria:
+      - "Assists software engineering workflows"
+      - "Self-hostable or zero-cost tier"
+    exclusionCriteria:
+      - "Unverified marketing forks"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+    updateFrequencyDays: 3
+    priority: "high"
+
+  - id: "autonomous-agents"
+    name: "Autonomous Agents & Frameworks"
+    queries:
+      - "topic:autonomous-agents framework"
+      - "topic:ai-agent multi-agent"
+    inclusionCriteria:
+      - "Executable agent runtime or SDK"
+      - "Permissive or copyleft open-source license"
+    exclusionCriteria:
+      - "Concept-only papers without code"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+    updateFrequencyDays: 3
+    priority: "critical"
+
+  - id: "mcp-servers"
+    name: "Model Context Protocol (MCP) Servers"
+    queries:
+      - "topic:mcp-server"
+      - "modelcontextprotocol server"
+    inclusionCriteria:
+      - "Implements official Model Context Protocol"
+      - "Functional tools, prompts, or resources"
+    exclusionCriteria:
+      - "Stub repositories"
+    minEvidenceCount: 1
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+    updateFrequencyDays: 2
+    priority: "critical"
+
+  - id: "workflow-automation"
+    name: "Workflow & Pipeline Automation"
+    queries:
+      - "topic:workflow-automation open-source"
+      - "topic:n8n self-hosted"
+    inclusionCriteria:
+      - "Self-hostable automation engine"
+    exclusionCriteria:
+      - "Cloud-only SaaS"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "Sustainable-Use"
+      - "MIT"
+      - "Apache-2.0"
+      - "AGPL-3.0"
+    updateFrequencyDays: 4
+    priority: "high"
+
+  - id: "open-source-crm"
+    name: "Open-Source CRM Software"
+    queries:
+      - "topic:crm open-source"
+      - "topic:customer-relationship-management"
+    inclusionCriteria:
+      - "Production-ready client or lead management"
+      - "Complete self-hosting instructions"
+    exclusionCriteria:
+      - "Trialware"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "AGPL-3.0"
+      - "GPL-3.0"
+      - "MIT"
+      - "Apache-2.0"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "open-source-erp"
+    name: "Open-Source ERP & Operations"
+    queries:
+      - "topic:erp open-source"
+      - "topic:enterprise-resource-planning"
+    inclusionCriteria:
+      - "Invoicing, inventory, or operational ledger"
+    exclusionCriteria:
+      - "Enterprise license behind paywall"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "GPL-3.0"
+      - "AGPL-3.0"
+      - "Apache-2.0"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "free-hosting"
+    name: "Developer Free Hosting & Serverless"
+    queries:
+      - "topic:static-hosting free"
+      - "topic:paas open-source self-hosted"
+    inclusionCriteria:
+      - "Verifiable permanent free tier or self-hosted PaaS"
+    exclusionCriteria:
+      - "Time-limited free trials"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+      - "AGPL-3.0"
+    updateFrequencyDays: 5
+    priority: "high"
+
+  - id: "databases"
+    name: "Databases & Vector Storage"
+    queries:
+      - "topic:database open-source"
+      - "topic:vector-database"
+    inclusionCriteria:
+      - "Relational, document, or vector engine"
+      - "Production self-hosting capability"
+    exclusionCriteria:
+      - "Managed-only proprietary DBs"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "PostgreSQL"
+      - "MIT"
+      - "Apache-2.0"
+      - "AGPL-3.0"
+      - "BSL-1.1"
+    updateFrequencyDays: 5
+    priority: "high"
+
+  - id: "authentication"
+    name: "Auth & Identity Management"
+    queries:
+      - "topic:authentication open-source"
+      - "topic:oauth2 self-hosted"
+    inclusionCriteria:
+      - "SSO, OAuth2, or OIDC provider"
+    exclusionCriteria:
+      - "Closed proprietary SDK"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+      - "AGPL-3.0"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "object-storage"
+    name: "Object Storage & S3 Alternatives"
+    queries:
+      - "topic:s3-compatible storage"
+      - "topic:object-storage open-source"
+    inclusionCriteria:
+      - "S3-compatible API"
+      - "Self-hostable binary or container"
+    exclusionCriteria:
+      - "Closed cloud storage"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "AGPL-3.0"
+      - "Apache-2.0"
+      - "MIT"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "threejs"
+    name: "Three.js & 3D Web Graphics"
+    queries:
+      - "topic:threejs shaders"
+      - "topic:webgl three.js interactive"
+    inclusionCriteria:
+      - "Three.js library, component, or shader tool"
+      - "Reproducible browser demo"
+    exclusionCriteria:
+      - "Outdated Three.js r90 or older"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+    updateFrequencyDays: 7
+    priority: "high"
+
+  - id: "webgl"
+    name: "WebGL & WebGPU Tools"
+    queries:
+      - "topic:webgpu"
+      - "topic:glsl shaders"
+    inclusionCriteria:
+      - "Modern shader pipeline or WebGPU engine"
+    exclusionCriteria:
+      - "Broken canvas demos"
+    minEvidenceCount: 1
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "astro"
+    name: "Astro Ecosystem & Integrations"
+    queries:
+      - "topic:astro-component"
+      - "topic:astro-integration"
+    inclusionCriteria:
+      - "Compatible with Astro 5+"
+    exclusionCriteria:
+      - "Abandoned Astro v1 packages"
+    minEvidenceCount: 1
+    allowedLicenses:
+      - "MIT"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "react"
+    name: "React Islands & Modern UI"
+    queries:
+      - "topic:react-component headless"
+      - "topic:tailwind-components accessible"
+    inclusionCriteria:
+      - "Accessible, zero-dependency or lightweight"
+    exclusionCriteria:
+      - "Vulnerable deprecated libraries"
+    minEvidenceCount: 1
+    allowedLicenses:
+      - "MIT"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "developer-productivity"
+    name: "Developer Productivity Utilities"
+    queries:
+      - "topic:cli developer-tool"
+      - "topic:devtools terminal"
+    inclusionCriteria:
+      - "Speeds up software engineering"
+    exclusionCriteria:
+      - "Malware or keyloggers"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+      - "GPL-3.0"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "open-source-office"
+    name: "Open-Source Office & Collaboration"
+    queries:
+      - "topic:office-suite open-source"
+      - "topic:collaborative-editor"
+    inclusionCriteria:
+      - "Document, spreadsheet, or workspace collaboration"
+    exclusionCriteria:
+      - "Unlicensed clones"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "AGPL-3.0"
+      - "GPL-3.0"
+      - "Apache-2.0"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "lead-generation"
+    name: "Ethical Lead Generation & Enrichment"
+    queries:
+      - "topic:scraper ethical developer"
+      - "topic:lead-enrichment"
+    inclusionCriteria:
+      - "Respects robots.txt and public API constraints"
+    exclusionCriteria:
+      - "Aggressive spam bots or dark-pattern tools"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+    updateFrequencyDays: 7
+    priority: "medium"
+
+  - id: "privacy-tools"
+    name: "Developer Privacy & Security"
+    queries:
+      - "topic:privacy open-source"
+      - "topic:security-scanner sast"
+    inclusionCriteria:
+      - "Code analysis, credential leakage scanner, or privacy auditing"
+    exclusionCriteria:
+      - "Exploit kits or offensive malware"
+    minEvidenceCount: 2
+    allowedLicenses:
+      - "MIT"
+      - "Apache-2.0"
+      - "GPL-3.0"
+    updateFrequencyDays: 7
+    priority: "high"

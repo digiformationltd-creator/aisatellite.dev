@@ -1,0 +1,49 @@
+name: 03 - Daily Editorial Topic Planning & Drafting
+
+# Scheduled at 04:00 UTC (09:00 PKT / Pakistan Standard Time)
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  draft:
+    name: Plan Topics & Generate Grounded Drafts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Plan Editorial Topics
+        run: npm run plan:content
+
+      - name: Generate Grounded Technical Draft
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AI_MODEL: ${{ vars.AI_MODEL || 'gpt-4o-mini' }}
+        run: npm run draft
+
+      - name: Validate Technical Quality & Disclosures
+        run: npm run validate:draft
+
+      - name: Commit Topics and Drafts to Review Branch
+        run: |
+          git config --local user.email "bot@aisatellite.pages.dev"
+          git config --local user.name "AI Satellite Editorial Engine"
+          git checkout -b "editorial/draft-$(date +%Y-%m-%d)"
+          git add data/topics/ data/evidence/ data/drafts/
+          git diff --quiet && git diff --staged --quiet || git commit -m "feat(editorial): stage daily grounded technical draft for human review"
+          git push -u origin "editorial/draft-$(date +%Y-%m-%d)" || echo "No changes to branch"

@@ -1,0 +1,18 @@
+{
+  "id": "tool-idempotency-test",
+  "canonicalUrl": "https://github.com/org/test-tool",
+  "name": "IdempotencyTestTool",
+  "description": "Test tool verifying idempotency invariants in publishing.",
+  "category": "databases",
+  "tags": [
+    "test"
+  ],
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "status": "published",
+  "evidenceUrls": [
+    "https://github.com/org/test-tool"
+  ],
+  "discoveredAt": "2026-10-31T00:00:00Z",
+  "updatedAt": "2026-10-31T04:53:53.531Z"
+}

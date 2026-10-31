@@ -12,6 +12,13 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:e2e": "playwright test",
+    "discover": "tsx scripts/discover.ts",
+    "verify": "tsx scripts/verify.ts",
+    "plan:content": "tsx scripts/plan-content.ts",
+    "draft": "tsx scripts/generate-draft.ts",
+    "validate:draft": "tsx scripts/validate-draft.ts",
+    "publish:approved": "tsx scripts/publish-approved.ts",
+    "monitor": "tsx scripts/monitor-freshness.ts",
     "deploy": "wrangler pages deploy dist --project-name aisatellite --branch main"
   },
   "dependencies": {
@@ -37,9 +44,11 @@
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "@types/three": "^0.174.0",
+    "tsx": "^4.23.15",
     "typescript": "^5.7.3",
     "vitest": "^3.0.7",
-    "wrangler": "^3.111.0"
+    "wrangler": "^3.111.0",
+    "yaml": "^2.9.1"
   },
   "overrides": {
     "tslib": "2.8.1"
