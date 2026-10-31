@@ -1,0 +1,88 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import PublicProfileView from '@/components/community/PublicProfileView';
+import { communityDatabase } from '@/lib/community/database';
+import { getCanonicalUrl } from '@/config/site';
+
+export async function getStaticPaths() {
+  const publicProfiles = communityDatabase.getProfiles().filter((p) => p.isPublicProfile);
+
+  // If no public profiles exist at build time, provide a default official community steward profile
+  if (publicProfiles.length === 0) {
+    const defaultProfile = {
+      userId: 'usr-steward',
+      username: 'satellite-steward',
+      displayName: 'Orbital Steward',
+      bio: 'Open-source researcher and knowledge curator at AI Satellite.',
+      technicalInterests: ['Open-Source', 'AI Agents', 'Distributed Systems'],
+      publicWebsite: 'https://aisatellite.dev',
+      githubUsername: 'aisatellite-official',
+      isPublicProfile: true,
+      reputationScore: 120,
+      badges: ['early_contributor', 'verified_curator', 'code_steward'] as any,
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString(),
+    };
+    return [
+      {
+        params: { username: defaultProfile.username },
+        props: { profile: defaultProfile },
+      },
+    ];
+  }
+
+  return publicProfiles.map((profile) => ({
+    params: { username: profile.username },
+    props: { profile },
+  }));
+}
+
+const { username } = Astro.params;
+const { profile } = Astro.props;
+
+// Recalculate dynamic contributions and collections for this user
+const contributions = profile ? communityDatabase.getContributionRecords(profile.userId) : [];
+const collections = profile
+  ? communityDatabase.getCollaborativeCollections().filter((c) => c.ownerId === profile.userId && c.isPublic)
+  : [];
+
+const canonicalUrl = getCanonicalUrl(`/u/${username}`);
+
+const jsonLd = profile?.isPublicProfile
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'ProfilePage',
+      mainEntity: {
+        '@type': 'Person',
+        name: profile.displayName,
+        alternateName: profile.username,
+        description: profile.bio || 'AI Satellite Community Developer',
+        url: canonicalUrl,
+        sameAs: [
+          profile.githubUsername ? `https://github.com/${profile.githubUsername}` : undefined,
+          profile.publicWebsite || undefined,
+        ].filter(Boolean),
+      },
+    }
+  : undefined;
+---
+
+<BaseLayout
+  title={profile ? `${profile.displayName} (@${profile.username}) | Developer Profile` : 'Developer Profile'}
+  description={profile?.bio || `View public technical contributions by @${username} on AI Satellite.`}
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+  noIndex={!profile?.isPublicProfile}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <PublicProfileView
+        client:load
+        profile={profile}
+        contributions={contributions}
+        publicCollections={collections}
+      />
+    </PageContainer>
+  </div>
+</BaseLayout>

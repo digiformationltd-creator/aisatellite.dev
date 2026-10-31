@@ -1,0 +1,36 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import ModerationCenterHub from '@/components/community/ModerationCenterHub';
+import { communityDatabase } from '@/lib/community/database';
+import { getCanonicalUrl } from '@/config/site';
+
+const canonicalUrl = getCanonicalUrl('/community/moderation');
+
+// Fetch moderation queues
+const openReports = communityDatabase.getReports().filter((r) => r.status === 'open');
+const moderationLog = communityDatabase.getModerationActions();
+const pendingAppeals = communityDatabase.getAppeals().filter((a) => a.status === 'pending');
+const pendingProjects = communityDatabase.getProjects().filter((p) => p.status === 'pending');
+const pendingSubmissions = communityDatabase.getSubmissions().filter((s) => s.status === 'pending');
+---
+
+<BaseLayout
+  title="Moderation Center | AI Satellite"
+  description="AI Satellite community moderation center and review queue."
+  canonical={canonicalUrl}
+  noIndex={true}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <ModerationCenterHub
+        client:load
+        initialReports={openReports}
+        initialActions={moderationLog}
+        initialAppeals={pendingAppeals}
+        pendingProjects={pendingProjects}
+        pendingSubmissions={pendingSubmissions}
+      />
+    </PageContainer>
+  </div>
+</BaseLayout>

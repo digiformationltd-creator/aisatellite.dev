@@ -1,0 +1,31 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import CollaborativeCollectionsHub from '@/components/community/CollaborativeCollectionsHub';
+import { communityDatabase } from '@/lib/community/database';
+import { getCanonicalUrl } from '@/config/site';
+
+const canonicalUrl = getCanonicalUrl('/community/collections');
+const publicCollections = communityDatabase.getCollaborativeCollections().filter((c) => c.isPublic);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Collaborative Technology Collections | AI Satellite',
+  description: 'Curated developer toolkits, multi-agent frameworks, and open-source stacks curated by community developers.',
+  url: canonicalUrl,
+};
+---
+
+<BaseLayout
+  title="Collaborative Technology Collections & Stacks"
+  description="Explore public collaborative technology collections curated by developers worldwide. Verified developer stacks and open-source toolkits."
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <CollaborativeCollectionsHub client:load initialCollections={publicCollections} />
+    </PageContainer>
+  </div>
+</BaseLayout>

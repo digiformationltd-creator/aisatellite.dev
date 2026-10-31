@@ -1,0 +1,29 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import CommunityGuidelinesView from '@/components/community/CommunityGuidelinesView';
+import { getCanonicalUrl } from '@/config/site';
+
+const canonicalUrl = getCanonicalUrl('/community/guidelines');
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'AI Satellite Community Guidelines & Moderation Charter',
+  description: 'Standards for verified developer contributions, license compliance, authentic engagement, and appeal procedures.',
+  url: canonicalUrl,
+};
+---
+
+<BaseLayout
+  title="Community Guidelines & Moderation Charter"
+  description="Our written standards for technical integrity, verified open-source licensing, zero synthetic engagement, and transparent moderation appeals."
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <CommunityGuidelinesView />
+    </PageContainer>
+  </div>
+</BaseLayout>

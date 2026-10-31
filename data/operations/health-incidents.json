@@ -174,5 +174,27 @@
     "assignedAction": "Review rate limiter",
     "retryCount": 2,
     "resolutionTimestamp": "2026-10-31T10:26:29.552Z"
+  },
+  {
+    "id": "INC-MVWABFU1-ROGU",
+    "service": "search_system",
+    "timestamp": "2026-10-31T10:55:10.057Z",
+    "severity": "medium",
+    "evidence": "Simulated search latency spike on mock endpoint [Resolved Note: Resolved simulated test spike]",
+    "status": "resolved",
+    "assignedAction": "Inspect hybrid search inverted index and memory cache",
+    "retryCount": 1,
+    "resolutionTimestamp": "2026-10-31T10:55:10.059Z"
+  },
+  {
+    "id": "INC-MVWABFU5-NIKW",
+    "service": "newsletter_form",
+    "timestamp": "2026-10-31T10:55:10.061Z",
+    "severity": "low",
+    "evidence": "Test alert occurrence 1 | Re-observed at 2026-10-31T10:55:10.062Z: Test alert occurrence 2",
+    "status": "resolved",
+    "assignedAction": "Review rate limiter",
+    "retryCount": 2,
+    "resolutionTimestamp": "2026-10-31T10:55:10.063Z"
   }
 ]

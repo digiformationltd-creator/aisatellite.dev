@@ -1,0 +1,58 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import QaHub from '@/components/community/QaHub';
+import { communityDatabase } from '@/lib/community/database';
+import { getCanonicalUrl } from '@/config/site';
+
+const canonicalUrl = getCanonicalUrl('/community/qa');
+const questions = communityDatabase.getQuestions();
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'QAPage',
+  name: 'Developer Questions & Answers | AI Satellite',
+  description: 'Technical troubleshooting, edge architecture queries, and verified solutions.',
+  url: canonicalUrl,
+  mainEntity: questions.slice(0, 5).map((q) => {
+    const answers = communityDatabase.getAnswersForQuestion(q.id);
+    const accepted = answers.find((a) => a.isAccepted);
+    return {
+      '@type': 'Question',
+      name: q.title,
+      text: q.technicalContext,
+      answerCount: answers.length,
+      dateCreated: q.createdAt,
+      author: {
+        '@type': 'Person',
+        name: q.authorUsername,
+      },
+      acceptedAnswer: accepted
+        ? {
+            '@type': 'Answer',
+            text: accepted.content,
+            dateCreated: accepted.createdAt,
+            upvoteCount: accepted.upvoteCount,
+            author: {
+              '@type': 'Person',
+              name: accepted.authorUsername,
+            },
+          }
+        : undefined,
+    };
+  }),
+};
+---
+
+<BaseLayout
+  title="Developer Questions & Answers | Peer Solutions"
+  description="Get peer-reviewed, technically grounded solutions to development challenges, runtime errors, and architecture questions."
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <QaHub client:load initialQuestions={questions} />
+    </PageContainer>
+  </div>
+</BaseLayout>

@@ -96,6 +96,10 @@ export class WorkspaceDatabase {
   }
 
   // --- Users & Sessions ---
+  public getUsers(): User[] {
+    return [...this.data.users];
+  }
+
   public findUserById(id: string): User | undefined {
     return this.data.users.find((u) => u.id === id);
   }

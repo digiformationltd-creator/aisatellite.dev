@@ -837,5 +837,74 @@
     "approvedBy": "SeniorEditor-Test",
     "publishedAt": "2026-10-31T10:26:34.826Z",
     "publishedUrl": "https://github.com/aisatellite/community/discussions/1793442394825"
+  },
+  {
+    "id": "dist-1793444106030-csb2",
+    "sourceContentId": "tut-test-1793444106026",
+    "platform": "x",
+    "text": "📡 New tutorial published on AI Satellite: Explore high performance orbital radar with Three.js\nhttps://aisatellite.pages.dev/tutorials",
+    "targetUrl": "https://aisatellite.pages.dev/tutorials",
+    "status": "draft",
+    "retryCount": 0,
+    "createdAt": "2026-10-31T10:55:06.030Z",
+    "updatedAt": "2026-10-31T10:55:06.030Z"
+  },
+  {
+    "id": "dist-1793444106039-sfri",
+    "sourceContentId": "unique-src-1793444106035",
+    "platform": "linkedin",
+    "text": "Unique announcement title\n\nUnique announcement summary\n\nRead the full technical breakdown on AI Satellite:\nhttps://aisatellite.pages.dev/projects\n\n#OpenSource #DeveloperTools #AI",
+    "targetUrl": "https://aisatellite.pages.dev/projects",
+    "status": "draft",
+    "retryCount": 0,
+    "createdAt": "2026-10-31T10:55:06.039Z",
+    "updatedAt": "2026-10-31T10:55:06.039Z"
+  },
+  {
+    "id": "dist-1793444119094-rbsd",
+    "sourceContentId": "test-content-1793444119090",
+    "platform": "x",
+    "text": "📡 Self-Hosting Postgres Vector Guide: Practical guide to postgres vector embeddings\nhttps://aisatellite.pages.dev/blog/test-self-hosting-postgres-pgvector",
+    "targetUrl": "https://aisatellite.pages.dev/blog/test-self-hosting-postgres-pgvector",
+    "status": "draft",
+    "retryCount": 0,
+    "createdAt": "2026-10-31T10:55:19.094Z",
+    "updatedAt": "2026-10-31T10:55:19.095Z"
+  },
+  {
+    "id": "dist-1793444119107-8ae2",
+    "sourceContentId": "test-unapproved-1793444119104",
+    "platform": "bluesky",
+    "text": "Unapproved Draft Test — Summary text for draft\n\nhttps://aisatellite.pages.dev/tools/supabase",
+    "targetUrl": "https://aisatellite.pages.dev/tools/supabase",
+    "status": "draft",
+    "retryCount": 0,
+    "createdAt": "2026-10-31T10:55:19.107Z",
+    "updatedAt": "2026-10-31T10:55:19.107Z"
+  },
+  {
+    "id": "dist-1793444119123-ip7o",
+    "sourceContentId": "duplicate-test-1793444119120",
+    "platform": "linkedin",
+    "text": "First Job\n\nSummary 1\n\nRead the full technical breakdown on AI Satellite:\nhttps://aisatellite.pages.dev/projects\n\n#OpenSource #DeveloperTools #AI",
+    "targetUrl": "https://aisatellite.pages.dev/projects",
+    "status": "draft",
+    "retryCount": 0,
+    "createdAt": "2026-10-31T10:55:19.123Z",
+    "updatedAt": "2026-10-31T10:55:19.123Z"
+  },
+  {
+    "id": "dist-1793444119135-2vm6",
+    "sourceContentId": "test-retry-1793444119132",
+    "platform": "github",
+    "text": "### 🚀 Retry Test\n\nTesting retry backoff\n\n🔗 **Explore on AI Satellite:** https://aisatellite.pages.dev/tools/ollama",
+    "targetUrl": "https://aisatellite.pages.dev/tools/ollama",
+    "status": "published",
+    "retryCount": 0,
+    "createdAt": "2026-10-31T10:55:19.135Z",
+    "updatedAt": "2026-10-31T10:55:19.150Z",
+    "approvedBy": "SeniorEditor-Test",
+    "publishedAt": "2026-10-31T10:55:19.150Z",
+    "publishedUrl": "https://github.com/aisatellite/community/discussions/1793444119148"
   }
 ]

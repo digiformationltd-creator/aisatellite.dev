@@ -1,0 +1,48 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import CommunityHomeHub from '@/components/community/CommunityHomeHub';
+import { communityDatabase } from '@/lib/community/database';
+import { reputationEngine } from '@/lib/community/reputation-engine';
+import { getCanonicalUrl } from '@/config/site';
+
+const canonicalUrl = getCanonicalUrl('/community');
+
+// Fetch genuine initial data
+const initialDiscussions = communityDatabase.getDiscussions().filter((d) => !d.isHidden);
+const initialQuestions = communityDatabase.getQuestions();
+const initialProjects = communityDatabase.getProjects().filter((p) => p.status === 'approved');
+const topContributors = reputationEngine.getTopContributors(5);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'AI Satellite Global Developer Community',
+  description: 'Verified technical collaboration, open-source project showcases, developer Q&A, and free alternative discoveries.',
+  url: canonicalUrl,
+  publisher: {
+    '@type': 'Organization',
+    name: 'AI Satellite',
+    url: 'https://aisatellite.dev',
+  },
+};
+---
+
+<BaseLayout
+  title="Global Developer Community & Collaboration Ecosystem"
+  description="Join the AI Satellite developer community. Discover verified open-source software, collaborate on technology toolkits, solve engineering challenges, and share free alternatives."
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <CommunityHomeHub
+        client:load
+        initialDiscussions={initialDiscussions}
+        initialQuestions={initialQuestions}
+        initialProjects={initialProjects}
+        topContributors={topContributors}
+      />
+    </PageContainer>
+  </div>
+</BaseLayout>

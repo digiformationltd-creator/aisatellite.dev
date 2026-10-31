@@ -19,6 +19,7 @@ export default defineConfig({
       filter: (page) =>
         !page.includes('/404') &&
         !page.includes('/workspace') &&
+        !page.includes('/community/moderation') &&
         !page.includes('/operations-admin') &&
         !page.includes('/growth-admin') &&
         !page.includes('/research-admin'),

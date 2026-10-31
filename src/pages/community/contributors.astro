@@ -1,0 +1,41 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import ContributorsHub from '@/components/community/ContributorsHub';
+import { reputationEngine } from '@/lib/community/reputation-engine';
+import { getCanonicalUrl } from '@/config/site';
+
+const canonicalUrl = getCanonicalUrl('/community/contributors');
+const topContributors = reputationEngine.getTopContributors(50);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'AI Satellite Verified Community Contributors',
+  description: 'Evidence-backed contributor recognition for open-source showcases, verified free alternatives, and accepted technical answers.',
+  url: canonicalUrl,
+  itemListElement: topContributors.map((c, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    item: {
+      '@type': 'Person',
+      name: c.displayName,
+      alternateName: c.username,
+      url: `https://aisatellite.dev/u/${c.username}`,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title="Verified Community Contributors & Leaderboard"
+  description="Meet the top open-source contributors, tool curators, and technical problem solvers across the AI Satellite developer ecosystem."
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <ContributorsHub client:load contributors={topContributors} />
+    </PageContainer>
+  </div>
+</BaseLayout>

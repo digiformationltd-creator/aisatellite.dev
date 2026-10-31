@@ -1,0 +1,29 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SubmitResourceForm from '@/components/community/SubmitResourceForm';
+import { getCanonicalUrl } from '@/config/site';
+
+const canonicalUrl = getCanonicalUrl('/community/submit-resource');
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'Submit Technology Resource | AI Satellite',
+  description: 'Submit free software alternatives, open-source repositories, and developer tools for community verification.',
+  url: canonicalUrl,
+};
+---
+
+<BaseLayout
+  title="Submit Technology Resource | Community Verification"
+  description="Submit a free alternative, open-source software repository, AI tool, or developer workflow for editorial review."
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <SubmitResourceForm client:load />
+    </PageContainer>
+  </div>
+</BaseLayout>

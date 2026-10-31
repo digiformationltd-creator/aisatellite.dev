@@ -1,0 +1,46 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import DiscussionsHub from '@/components/community/DiscussionsHub';
+import { communityDatabase } from '@/lib/community/database';
+import { getCanonicalUrl } from '@/config/site';
+
+const canonicalUrl = getCanonicalUrl('/community/discussions');
+const discussions = communityDatabase.getDiscussions().filter((d) => !d.isHidden);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Technical Discussions & Architecture Solutions | AI Satellite',
+  description: 'Structured developer discussions across AI development, open-source tooling, free alternatives, and edge infrastructure.',
+  url: canonicalUrl,
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: discussions.slice(0, 10).map((d, index) => ({
+      '@type': 'DiscussionForumPosting',
+      position: index + 1,
+      headline: d.title,
+      articleBody: d.content.slice(0, 200),
+      url: `${canonicalUrl}#${d.id}`,
+      datePublished: d.createdAt,
+      author: {
+        '@type': 'Person',
+        name: d.authorUsername,
+      },
+    })),
+  },
+};
+---
+
+<BaseLayout
+  title="Technical Discussions & Developer Solutions"
+  description="Explore 12 structured technical discussion categories across AI development, open-source software, free SaaS alternatives, and cloud infrastructure."
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <DiscussionsHub client:load initialDiscussions={discussions} />
+    </PageContainer>
+  </div>
+</BaseLayout>

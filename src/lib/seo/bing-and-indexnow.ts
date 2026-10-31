@@ -54,6 +54,7 @@ export class BingAndIndexNowClient {
           parsed.pathname.startsWith('/growth-admin') ||
           parsed.pathname.startsWith('/research-admin') ||
           parsed.pathname.startsWith('/workspace') ||
+          parsed.pathname.startsWith('/community/moderation') ||
           parsed.pathname.startsWith('/api/')
         ) {
           rejectionReasons.push(`URL ${url} is a private or non-indexed endpoint.`);

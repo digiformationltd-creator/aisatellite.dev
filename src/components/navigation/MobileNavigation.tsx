@@ -140,6 +140,14 @@ export default function MobileNavigation() {
                 </a>
 
                 <a
+                  href="/community"
+                  className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-cosmic-cyan hover:bg-space-850 font-medium transition-colors"
+                >
+                  <Sparkles className="w-4 h-4 text-cosmic-cyan" />
+                  <span>Developer Community</span>
+                </a>
+
+                <a
                   href="/workspace"
                   className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-cosmic-cyan hover:bg-space-850 font-medium transition-colors"
                 >

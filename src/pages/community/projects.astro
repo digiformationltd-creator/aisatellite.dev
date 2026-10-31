@@ -1,0 +1,48 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import ProjectShowcaseHub from '@/components/community/ProjectShowcaseHub';
+import { communityDatabase } from '@/lib/community/database';
+import { getCanonicalUrl } from '@/config/site';
+
+const canonicalUrl = getCanonicalUrl('/community/projects');
+const approvedProjects = communityDatabase.getProjects().filter((p) => p.status === 'approved');
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Open-Source Project Showcase | AI Satellite',
+  description: 'Verified open-source developer tooling, databases, libraries, and frameworks with compliant OSI licensing.',
+  url: canonicalUrl,
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: approvedProjects.slice(0, 10).map((p, index) => ({
+      '@type': 'SoftwareApplication',
+      position: index + 1,
+      name: p.name,
+      description: p.description,
+      url: p.repoUrl,
+      applicationCategory: 'DeveloperApplication',
+      operatingSystem: p.supportedPlatforms.join(', '),
+      license: p.license,
+      author: {
+        '@type': 'Person',
+        name: p.maintainerAttribution,
+      },
+    })),
+  },
+};
+---
+
+<BaseLayout
+  title="Open-Source Project Showcase & Verified Tools"
+  description="Showcase and discover legitimate open-source software, developer tools, libraries, and frameworks with verified OSI licensing."
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+>
+  <div class="py-8 sm:py-12">
+    <PageContainer>
+      <ProjectShowcaseHub client:load initialProjects={approvedProjects} />
+    </PageContainer>
+  </div>
+</BaseLayout>

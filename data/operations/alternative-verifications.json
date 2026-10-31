@@ -111,8 +111,8 @@
     "platformCompatibility": [],
     "maintenanceStatus": "active",
     "officialDocumentationUrl": "https://aisatellite.dev/radar",
-    "lastVerifiedAt": "2026-10-31T10:26:29.560Z",
-    "nextRecheckDue": "2026-11-14T10:26:29.560Z",
+    "lastVerifiedAt": "2026-10-31T10:55:10.072Z",
+    "nextRecheckDue": "2026-11-14T10:55:10.072Z",
     "limitationsExplanation": "No 1:1 free or open-source equivalent exists matching high-frequency hardware synthesis.",
     "evidenceUrls": [
       "https://aisatellite.dev/radar"
