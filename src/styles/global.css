@@ -158,6 +158,17 @@ body {
   --pagefind-ui-font: 'Inter', sans-serif;
 }
 
+/* Mobile Performance: Limit backdrop blur on smaller devices to conserve GPU/battery */
+@media (max-width: 640px) {
+  .cosmic-glass,
+  .orbital-glass,
+  .glass-search,
+  .glass-pill {
+    backdrop-filter: blur(8px) !important;
+    -webkit-backdrop-filter: blur(8px) !important;
+  }
+}
+
 /* Reduced motion preference */
 @media (prefers-reduced-motion: reduce) {
   * {

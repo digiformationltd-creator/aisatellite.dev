@@ -1,6 +1,6 @@
 [
   {
-    "id": "opp-dist-1793433836385-0",
+    "id": "opp-dist-1793438089145-0",
     "type": "striking_distance",
     "targetUrl": "https://aisatellite.pages.dev/alternatives/airtable-alternatives",
     "query": "open source airtable alternative",
@@ -8,10 +8,10 @@
     "metricSummary": "Ranking at position 8.4 with 420 impressions",
     "recommendation": "Add detailed code examples or comparative benchmarks for \"open source airtable alternative\" to push ranking into top 3.",
     "status": "proposed",
-    "detectedAt": "2026-10-31T08:03:56.385Z"
+    "detectedAt": "2026-10-31T09:14:49.145Z"
   },
   {
-    "id": "opp-ctr-1793433836385-1",
+    "id": "opp-ctr-1793438089145-1",
     "type": "high_imp_low_ctr",
     "targetUrl": "https://aisatellite.pages.dev/alternatives/zapier-alternatives",
     "query": "free zapier alternatives self hosted",
@@ -19,10 +19,10 @@
     "metricSummary": "1250 impressions, but only 1.8% CTR (Position 6.2)",
     "recommendation": "Refine title tag and meta description for query \"free zapier alternatives self hosted\" to improve click-through rate from SERPs.",
     "status": "proposed",
-    "detectedAt": "2026-10-31T08:03:56.385Z"
+    "detectedAt": "2026-10-31T09:14:49.145Z"
   },
   {
-    "id": "opp-dist-1793433836385-2",
+    "id": "opp-dist-1793438089145-2",
     "type": "striking_distance",
     "targetUrl": "https://aisatellite.pages.dev/alternatives/zapier-alternatives",
     "query": "free zapier alternatives self hosted",
@@ -30,10 +30,10 @@
     "metricSummary": "Ranking at position 6.2 with 1250 impressions",
     "recommendation": "Add detailed code examples or comparative benchmarks for \"free zapier alternatives self hosted\" to push ranking into top 3.",
     "status": "proposed",
-    "detectedAt": "2026-10-31T08:03:56.385Z"
+    "detectedAt": "2026-10-31T09:14:49.145Z"
   },
   {
-    "id": "opp-dist-1793433836385-3",
+    "id": "opp-dist-1793438089145-3",
     "type": "striking_distance",
     "targetUrl": "https://aisatellite.pages.dev/3d-lab/shaders",
     "query": "best threejs shader demos for web developers",
@@ -41,10 +41,10 @@
     "metricSummary": "Ranking at position 4.1 with 310 impressions",
     "recommendation": "Add detailed code examples or comparative benchmarks for \"best threejs shader demos for web developers\" to push ranking into top 3.",
     "status": "proposed",
-    "detectedAt": "2026-10-31T08:03:56.385Z"
+    "detectedAt": "2026-10-31T09:14:49.145Z"
   },
   {
-    "id": "opp-dist-1793433836385-4",
+    "id": "opp-dist-1793438089145-4",
     "type": "striking_distance",
     "targetUrl": "https://aisatellite.pages.dev/tools/ollama",
     "query": "self host ollama deepseek v3 guide",
@@ -52,6 +52,6 @@
     "metricSummary": "Ranking at position 5.3 with 890 impressions",
     "recommendation": "Add detailed code examples or comparative benchmarks for \"self host ollama deepseek v3 guide\" to push ranking into top 3.",
     "status": "proposed",
-    "detectedAt": "2026-10-31T08:03:56.385Z"
+    "detectedAt": "2026-10-31T09:14:49.145Z"
   }
 ]

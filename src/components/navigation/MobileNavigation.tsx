@@ -92,6 +92,38 @@ export default function MobileNavigation() {
                 </a>
 
                 <a
+                  href="/solutions"
+                  className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-cyan font-medium transition-colors"
+                >
+                  <BookOpen className="w-4 h-4 text-cosmic-cyan" />
+                  <span>Solutions Center</span>
+                </a>
+
+                <a
+                  href="/tutorials"
+                  className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-cyan font-medium transition-colors"
+                >
+                  <Terminal className="w-4 h-4 text-cosmic-cyan" />
+                  <span>Tutorials</span>
+                </a>
+
+                <a
+                  href="/components"
+                  className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-emerald font-medium transition-colors"
+                >
+                  <Layers className="w-4 h-4 text-cosmic-emerald" />
+                  <span>CSS Components</span>
+                </a>
+
+                <a
+                  href="/radar"
+                  className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-cyan font-medium transition-colors"
+                >
+                  <Sparkles className="w-4 h-4 text-cosmic-cyan" />
+                  <span>3D Tech Radar</span>
+                </a>
+
+                <a
                   href="/playbooks"
                   className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-cyan font-medium transition-colors"
                 >

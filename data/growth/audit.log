@@ -333,3 +333,202 @@
 [2026-10-31T08:03:56.387Z] [INFO] [SearchConsoleClient] Identified 5 content growth opportunities
 [2026-10-31T08:03:57.916Z] [INFO] [RepositoryOptimizer] Auditing repository health for ai-satellite at C:\Users\user\Downloads\AI STERLITE
 [2026-10-31T08:03:57.926Z] [INFO] [RepositoryOptimizer] Repository audit completed for ai-satellite: Score 65/100
+[2026-10-31T08:11:06.419Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:11:06.425Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 2 findings across 1 routes {"critical":1,"high":0,"medium":0,"low":1,"info":0}
+[2026-10-31T08:11:06.430Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:11:06.433Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 3 findings across 2 routes {"critical":0,"high":1,"medium":0,"low":2,"info":0}
+[2026-10-31T08:11:06.435Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:11:06.438Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 2 findings across 1 routes {"critical":1,"high":0,"medium":0,"low":1,"info":0}
+[2026-10-31T08:11:06.440Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:11:06.569Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 84 findings across 174 routes {"critical":0,"high":0,"medium":59,"low":25,"info":0}
+[2026-10-31T08:11:08.968Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793434268966-99d2a3"}
+[2026-10-31T08:11:08.974Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793434268966-99d2a3"}
+[2026-10-31T08:11:08.981Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793434268979-56dddc"}
+[2026-10-31T08:11:08.985Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793434268979-56dddc"}
+[2026-10-31T08:11:08.993Z] [INFO] [SubscriberManager] Unsubscribed and permanently suppressed: unsub-1793434268975@example.org
+[2026-10-31T08:11:09.002Z] [WARN] [SubscriberManager] Email bounced and added to suppression list: bounced-1793434268998@example.com
+[2026-10-31T08:11:09.011Z] [INFO] [NewsletterDigestGenerator] Generated newsletter digest draft: camp-orbit-101
+[2026-10-31T08:11:09.018Z] [INFO] [NewsletterDigestGenerator] [AUDIT] APPROVE_NEWSLETTER_CAMPAIGN by Editor-Aisha {"campaignId":"camp-orbit-101"}
+[2026-10-31T08:11:09.025Z] [INFO] [NewsletterDigestGenerator] Dispatched campaign camp-orbit-101 to 9 verified active subscribers
+[2026-10-31T08:11:09.717Z] [INFO] [PrivacyAnalytics] Generated privacy analytics report (135 total recorded events)
+[2026-10-31T08:11:10.337Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793434270334-5bjz for x (Status: draft)
+[2026-10-31T08:11:10.346Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793434270344-w80p for bluesky (Status: draft)
+[2026-10-31T08:11:10.349Z] [WARN] [DistributionQueue] Blocked publication attempt of unapproved job dist-1793434270344-w80p (Current status: draft)
+[2026-10-31T08:11:10.357Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793434270355-n5wh for linkedin (Status: draft)
+[2026-10-31T08:11:10.360Z] [WARN] [DistributionQueue] Rejected duplicate distribution job for duplicate-test-1793434270353 on linkedin
+[2026-10-31T08:11:10.366Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793434270364-8b04 for github (Status: draft)
+[2026-10-31T08:11:10.370Z] [INFO] [DistributionQueue] [AUDIT] APPROVE_DISTRIBUTION_JOB by SeniorEditor-Test {"jobId":"dist-1793434270364-8b04","platform":"github"}
+[2026-10-31T08:11:10.373Z] [INFO] [GitHubAdapter] Successfully distributed job dist-1793434270364-8b04 to github {"publishedUrl":"https://github.com/aisatellite/community/discussions/1793434270373"}
+[2026-10-31T08:11:13.275Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T08:11:13.289Z] [INFO] [PrivacyAnalytics] Generated privacy analytics report (135 total recorded events)
+[2026-10-31T08:11:14.632Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:11:14.637Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:11:14.643Z] [INFO] [ContentClusterPlanner] Generated 1 semantic internal linking suggestions
+[2026-10-31T08:11:15.945Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:11:15.950Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:11:15.954Z] [ERROR] [TestSubsystem] Test automated job simulated failure {"code":"ERR_TIMEOUT"}
+[2026-10-31T08:11:16.659Z] [INFO] [RepositoryOptimizer] Auditing repository health for ai-satellite at C:\Users\user\Downloads\AI STERLITE
+[2026-10-31T08:11:16.666Z] [INFO] [RepositoryOptimizer] Repository audit completed for ai-satellite: Score 65/100
+[2026-10-31T08:11:17.711Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW4GP59-LG0 (tool)
+[2026-10-31T08:11:17.716Z] [INFO] [CommunitySubmissionManager] [AUDIT] MODERATE_SUBMISSION by Moderator-Aisha {"submissionId":"SUB-MVW4GP59-LG0","action":"approved","notes":"Verified MIT license and working documentation"}
+[2026-10-31T08:11:17.719Z] [WARN] [CommunitySubmissionManager] Automated bot trapped by honey pot field. Dropping silently.
+[2026-10-31T08:11:20.351Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T08:11:20.355Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T08:11:20.358Z] [INFO] [SearchConsoleClient] Identified 5 content growth opportunities
+[2026-10-31T08:15:03.871Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:15:03.989Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 84 findings across 174 routes {"critical":0,"high":0,"medium":59,"low":25,"info":0}
+[2026-10-31T08:23:54.128Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW4WWSU-WMX (tool)
+[2026-10-31T08:23:54.135Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435034133-bab4a3"}
+[2026-10-31T08:23:55.261Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435035258-1fb34d"}
+[2026-10-31T08:23:55.269Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW4WXOJ-806 (tool)
+[2026-10-31T08:23:59.404Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:23:59.410Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 2 findings across 1 routes {"critical":1,"high":0,"medium":0,"low":1,"info":0}
+[2026-10-31T08:23:59.414Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:23:59.417Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 3 findings across 2 routes {"critical":0,"high":1,"medium":0,"low":2,"info":0}
+[2026-10-31T08:23:59.419Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:23:59.423Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 2 findings across 1 routes {"critical":1,"high":0,"medium":0,"low":1,"info":0}
+[2026-10-31T08:23:59.424Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:23:59.575Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 84 findings across 174 routes {"critical":0,"high":0,"medium":59,"low":25,"info":0}
+[2026-10-31T08:24:01.229Z] [INFO] [PrivacyAnalytics] Generated privacy analytics report (150 total recorded events)
+[2026-10-31T08:24:01.881Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435041878-5b53aa"}
+[2026-10-31T08:24:01.886Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793435041878-5b53aa"}
+[2026-10-31T08:24:01.893Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435041891-8e36c1"}
+[2026-10-31T08:24:01.898Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793435041891-8e36c1"}
+[2026-10-31T08:24:01.905Z] [INFO] [SubscriberManager] Unsubscribed and permanently suppressed: unsub-1793435041888@example.org
+[2026-10-31T08:24:01.915Z] [WARN] [SubscriberManager] Email bounced and added to suppression list: bounced-1793435041910@example.com
+[2026-10-31T08:24:01.924Z] [INFO] [NewsletterDigestGenerator] Generated newsletter digest draft: camp-orbit-101
+[2026-10-31T08:24:01.931Z] [INFO] [NewsletterDigestGenerator] [AUDIT] APPROVE_NEWSLETTER_CAMPAIGN by Editor-Aisha {"campaignId":"camp-orbit-101"}
+[2026-10-31T08:24:01.939Z] [INFO] [NewsletterDigestGenerator] Dispatched campaign camp-orbit-101 to 10 verified active subscribers
+[2026-10-31T08:24:02.662Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793435042656-8eyg for x (Status: draft)
+[2026-10-31T08:24:02.672Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793435042669-fmrl for bluesky (Status: draft)
+[2026-10-31T08:24:02.675Z] [WARN] [DistributionQueue] Blocked publication attempt of unapproved job dist-1793435042669-fmrl (Current status: draft)
+[2026-10-31T08:24:02.685Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793435042683-576w for linkedin (Status: draft)
+[2026-10-31T08:24:02.688Z] [WARN] [DistributionQueue] Rejected duplicate distribution job for duplicate-test-1793435042680 on linkedin
+[2026-10-31T08:24:02.694Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793435042692-20lq for github (Status: draft)
+[2026-10-31T08:24:02.699Z] [INFO] [DistributionQueue] [AUDIT] APPROVE_DISTRIBUTION_JOB by SeniorEditor-Test {"jobId":"dist-1793435042692-20lq","platform":"github"}
+[2026-10-31T08:24:02.702Z] [INFO] [GitHubAdapter] Successfully distributed job dist-1793435042692-20lq to github {"publishedUrl":"https://github.com/aisatellite/community/discussions/1793435042702"}
+[2026-10-31T08:24:06.972Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T08:24:06.985Z] [INFO] [PrivacyAnalytics] Generated privacy analytics report (150 total recorded events)
+[2026-10-31T08:24:08.685Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:24:08.693Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:24:08.698Z] [ERROR] [TestSubsystem] Test automated job simulated failure {"code":"ERR_TIMEOUT"}
+[2026-10-31T08:24:09.408Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:24:09.416Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:24:09.423Z] [INFO] [ContentClusterPlanner] Generated 1 semantic internal linking suggestions
+[2026-10-31T08:24:12.202Z] [WARN] [CommunitySubmissionManager] Automated bot trapped by honey pot field. Dropping silently.
+[2026-10-31T08:24:13.818Z] [INFO] [RepositoryOptimizer] Auditing repository health for ai-satellite at C:\Users\user\Downloads\AI STERLITE
+[2026-10-31T08:24:13.829Z] [INFO] [RepositoryOptimizer] Repository audit completed for ai-satellite: Score 65/100
+[2026-10-31T08:24:17.604Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T08:24:17.614Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T08:24:17.621Z] [INFO] [SearchConsoleClient] Identified 5 content growth opportunities
+[2026-10-31T08:27:02.048Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435222045-2947a7"}
+[2026-10-31T08:27:02.054Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793435222045-2947a7"}
+[2026-10-31T08:27:02.063Z] [INFO] [SubscriberManager] Unsubscribed and permanently suppressed: journey-test-1793435222039@example.org
+[2026-10-31T08:27:02.076Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW50XTL-EPF (tool)
+[2026-10-31T08:27:02.075Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435222072-128e79"}
+[2026-10-31T08:28:04.204Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435284202-9c8804"}
+[2026-10-31T08:28:04.211Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793435284202-9c8804"}
+[2026-10-31T08:28:04.216Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW529RQ-MGD (tool)
+[2026-10-31T08:28:04.220Z] [INFO] [SubscriberManager] Unsubscribed and permanently suppressed: journey-test-1793435284139@example.org
+[2026-10-31T08:28:04.228Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435284225-af4c56"}
+[2026-10-31T08:28:04.231Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW529S5-ZCF (tool)
+[2026-10-31T08:28:04.234Z] [WARN] [CommunitySubmissionManager] Automated bot trapped by honey pot field. Dropping silently.
+[2026-10-31T08:28:18.617Z] [WARN] [CommunitySubmissionManager] Automated bot trapped by honey pot field. Dropping silently.
+[2026-10-31T08:28:22.118Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:28:22.125Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 2 findings across 1 routes {"critical":1,"high":0,"medium":0,"low":1,"info":0}
+[2026-10-31T08:28:22.130Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:28:22.140Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 3 findings across 2 routes {"critical":0,"high":1,"medium":0,"low":2,"info":0}
+[2026-10-31T08:28:22.142Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:28:22.145Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 2 findings across 1 routes {"critical":1,"high":0,"medium":0,"low":1,"info":0}
+[2026-10-31T08:28:22.147Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T08:28:22.277Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 84 findings across 174 routes {"critical":0,"high":0,"medium":59,"low":25,"info":0}
+[2026-10-31T08:28:23.804Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435303801-d0e469"}
+[2026-10-31T08:28:23.811Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793435303801-d0e469"}
+[2026-10-31T08:28:23.820Z] [INFO] [SubscriberManager] Unsubscribed and permanently suppressed: journey-test-1793435303797@example.org
+[2026-10-31T08:28:23.831Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW52OWL-TRU (tool)
+[2026-10-31T08:28:23.834Z] [WARN] [CommunitySubmissionManager] Automated bot trapped by honey pot field. Dropping silently.
+[2026-10-31T08:28:26.929Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW52RAM-4JA (tool)
+[2026-10-31T08:28:26.941Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435306938-dbfada"}
+[2026-10-31T08:28:31.688Z] [INFO] [PrivacyAnalytics] Generated privacy analytics report (165 total recorded events)
+[2026-10-31T08:28:32.462Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435312459-49f8ed"}
+[2026-10-31T08:28:32.469Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793435312459-49f8ed"}
+[2026-10-31T08:28:32.480Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793435312478-b54cef"}
+[2026-10-31T08:28:32.486Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793435312478-b54cef"}
+[2026-10-31T08:28:32.496Z] [INFO] [SubscriberManager] Unsubscribed and permanently suppressed: unsub-1793435312473@example.org
+[2026-10-31T08:28:32.508Z] [WARN] [SubscriberManager] Email bounced and added to suppression list: bounced-1793435312502@example.com
+[2026-10-31T08:28:32.519Z] [INFO] [NewsletterDigestGenerator] Generated newsletter digest draft: camp-orbit-101
+[2026-10-31T08:28:32.528Z] [INFO] [NewsletterDigestGenerator] [AUDIT] APPROVE_NEWSLETTER_CAMPAIGN by Editor-Aisha {"campaignId":"camp-orbit-101"}
+[2026-10-31T08:28:32.537Z] [INFO] [NewsletterDigestGenerator] Dispatched campaign camp-orbit-101 to 11 verified active subscribers
+[2026-10-31T08:28:34.388Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793435314384-ap6w for x (Status: draft)
+[2026-10-31T08:28:34.400Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793435314398-b5zj for bluesky (Status: draft)
+[2026-10-31T08:28:34.404Z] [WARN] [DistributionQueue] Blocked publication attempt of unapproved job dist-1793435314398-b5zj (Current status: draft)
+[2026-10-31T08:28:34.416Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793435314413-1bu5 for linkedin (Status: draft)
+[2026-10-31T08:28:34.420Z] [WARN] [DistributionQueue] Rejected duplicate distribution job for duplicate-test-1793435314410 on linkedin
+[2026-10-31T08:28:34.427Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793435314424-2esl for github (Status: draft)
+[2026-10-31T08:28:34.433Z] [INFO] [DistributionQueue] [AUDIT] APPROVE_DISTRIBUTION_JOB by SeniorEditor-Test {"jobId":"dist-1793435314424-2esl","platform":"github"}
+[2026-10-31T08:28:34.437Z] [INFO] [GitHubAdapter] Successfully distributed job dist-1793435314424-2esl to github {"publishedUrl":"https://github.com/aisatellite/community/discussions/1793435314437"}
+[2026-10-31T08:28:53.890Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T08:28:53.946Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T08:28:53.967Z] [INFO] [SearchConsoleClient] Identified 5 content growth opportunities
+[2026-10-31T08:28:56.232Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T08:28:56.262Z] [INFO] [PrivacyAnalytics] Generated privacy analytics report (165 total recorded events)
+[2026-10-31T08:28:57.529Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:28:57.541Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:28:57.550Z] [INFO] [ContentClusterPlanner] Generated 1 semantic internal linking suggestions
+[2026-10-31T08:28:58.746Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:28:58.759Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T08:28:58.768Z] [ERROR] [TestSubsystem] Test automated job simulated failure {"code":"ERR_TIMEOUT"}
+[2026-10-31T08:29:02.436Z] [INFO] [RepositoryOptimizer] Auditing repository health for ai-satellite at C:\Users\user\Downloads\AI STERLITE
+[2026-10-31T08:29:02.445Z] [INFO] [RepositoryOptimizer] Repository audit completed for ai-satellite: Score 65/100
+[2026-10-31T08:29:50.648Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW54JW4-3NJ (tool)
+[2026-10-31T08:29:50.659Z] [INFO] [CommunitySubmissionManager] [AUDIT] MODERATE_SUBMISSION by Moderator-Aisha {"submissionId":"SUB-MVW54JW4-3NJ","action":"approved","notes":"Verified MIT license and working documentation"}
+[2026-10-31T08:29:50.667Z] [WARN] [CommunitySubmissionManager] Automated bot trapped by honey pot field. Dropping silently.
+[2026-10-31T09:14:47.091Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T09:14:47.096Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 2 findings across 1 routes {"critical":1,"high":0,"medium":0,"low":1,"info":0}
+[2026-10-31T09:14:47.098Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T09:14:47.100Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 3 findings across 2 routes {"critical":0,"high":1,"medium":0,"low":2,"info":0}
+[2026-10-31T09:14:47.101Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T09:14:47.102Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 2 findings across 1 routes {"critical":1,"high":0,"medium":0,"low":1,"info":0}
+[2026-10-31T09:14:47.103Z] [INFO] [TechnicalSEOAuditor] Starting Technical SEO Audit
+[2026-10-31T09:14:47.422Z] [INFO] [TechnicalSEOAuditor] Technical SEO Audit complete: 84 findings across 174 routes {"critical":0,"high":0,"medium":59,"low":25,"info":0}
+[2026-10-31T09:14:49.139Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T09:14:49.144Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T09:14:49.147Z] [INFO] [SearchConsoleClient] Identified 5 content growth opportunities
+[2026-10-31T09:14:49.546Z] [INFO] [PrivacyAnalytics] Generated privacy analytics report (180 total recorded events)
+[2026-10-31T09:14:49.948Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793438089947-eb69ef"}
+[2026-10-31T09:14:49.952Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793438089947-eb69ef"}
+[2026-10-31T09:14:49.956Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793438089955-aa96c7"}
+[2026-10-31T09:14:49.958Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793438089955-aa96c7"}
+[2026-10-31T09:14:49.963Z] [INFO] [SubscriberManager] Unsubscribed and permanently suppressed: unsub-1793438089953@example.org
+[2026-10-31T09:14:49.968Z] [WARN] [SubscriberManager] Email bounced and added to suppression list: bounced-1793438089965@example.com
+[2026-10-31T09:14:49.974Z] [INFO] [NewsletterDigestGenerator] Generated newsletter digest draft: camp-orbit-101
+[2026-10-31T09:14:49.978Z] [INFO] [NewsletterDigestGenerator] [AUDIT] APPROVE_NEWSLETTER_CAMPAIGN by Editor-Aisha {"campaignId":"camp-orbit-101"}
+[2026-10-31T09:14:49.982Z] [INFO] [NewsletterDigestGenerator] Dispatched campaign camp-orbit-101 to 12 verified active subscribers
+[2026-10-31T09:14:50.852Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793438090849-211780"}
+[2026-10-31T09:14:50.855Z] [INFO] [SubscriberManager] Subscriber confirmed double opt-in {"id":"sub-1793438090849-211780"}
+[2026-10-31T09:14:50.859Z] [INFO] [SubscriberManager] Unsubscribed and permanently suppressed: journey-test-1793438090846@example.org
+[2026-10-31T09:14:50.864Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW6QFE7-1WH (tool)
+[2026-10-31T09:14:50.865Z] [WARN] [CommunitySubmissionManager] Automated bot trapped by honey pot field. Dropping silently.
+[2026-10-31T09:14:51.581Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW6QFY3-J32 (tool)
+[2026-10-31T09:14:51.586Z] [INFO] [SubscriberManager] Double opt-in initiated for new subscriber {"id":"sub-1793438091585-2847b6"}
+[2026-10-31T09:14:52.389Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793438092387-h3nv for x (Status: draft)
+[2026-10-31T09:14:52.394Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793438092393-2ii4 for bluesky (Status: draft)
+[2026-10-31T09:14:52.396Z] [WARN] [DistributionQueue] Blocked publication attempt of unapproved job dist-1793438092393-2ii4 (Current status: draft)
+[2026-10-31T09:14:52.402Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793438092400-ih6h for linkedin (Status: draft)
+[2026-10-31T09:14:52.403Z] [WARN] [DistributionQueue] Rejected duplicate distribution job for duplicate-test-1793438092399 on linkedin
+[2026-10-31T09:14:52.407Z] [INFO] [DistributionQueue] Enqueued distribution draft dist-1793438092406-rbeb for github (Status: draft)
+[2026-10-31T09:14:52.410Z] [INFO] [DistributionQueue] [AUDIT] APPROVE_DISTRIBUTION_JOB by SeniorEditor-Test {"jobId":"dist-1793438092406-rbeb","platform":"github"}
+[2026-10-31T09:14:52.412Z] [INFO] [GitHubAdapter] Successfully distributed job dist-1793438092406-rbeb to github {"publishedUrl":"https://github.com/aisatellite/community/discussions/1793438092412"}
+[2026-10-31T09:14:53.917Z] [WARN] [SearchConsoleClient] Search Console API is unconfigured. Returning stored records without fabricating data.
+[2026-10-31T09:14:53.927Z] [INFO] [PrivacyAnalytics] Generated privacy analytics report (180 total recorded events)
+[2026-10-31T09:14:54.250Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T09:14:54.253Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T09:14:54.255Z] [ERROR] [TestSubsystem] Test automated job simulated failure {"code":"ERR_TIMEOUT"}
+[2026-10-31T09:14:54.620Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T09:14:54.625Z] [INFO] [ContentClusterPlanner] Initialized 15 content clusters with zero duplicates
+[2026-10-31T09:14:54.627Z] [INFO] [ContentClusterPlanner] Generated 1 semantic internal linking suggestions
+[2026-10-31T09:14:55.359Z] [INFO] [CommunitySubmissionManager] New community contribution submitted: SUB-MVW6QIV2-AM2 (tool)
+[2026-10-31T09:14:55.362Z] [INFO] [CommunitySubmissionManager] [AUDIT] MODERATE_SUBMISSION by Moderator-Aisha {"submissionId":"SUB-MVW6QIV2-AM2","action":"approved","notes":"Verified MIT license and working documentation"}
+[2026-10-31T09:14:55.365Z] [WARN] [CommunitySubmissionManager] Automated bot trapped by honey pot field. Dropping silently.
+[2026-10-31T09:14:57.813Z] [INFO] [RepositoryOptimizer] Auditing repository health for ai-satellite at C:\Users\user\Downloads\AI STERLITE
+[2026-10-31T09:14:57.822Z] [INFO] [RepositoryOptimizer] Repository audit completed for ai-satellite: Score 65/100

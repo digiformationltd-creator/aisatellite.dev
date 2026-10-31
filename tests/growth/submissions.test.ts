@@ -13,6 +13,7 @@ describe('Acceptance Test 24: Community Contribution & Moderation System', () =>
         githubUrl: 'https://github.com/pocketbase/pocketbase',
         license: 'MIT',
       },
+      rawIp: `10.42.${Math.floor(Math.random() * 200)}.${Math.floor(Math.random() * 200)}`,
     });
 
     expect(submission.id).toMatch(/^SUB-/);

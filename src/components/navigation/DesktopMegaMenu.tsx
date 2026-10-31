@@ -89,11 +89,17 @@ export default function DesktopMegaMenu() {
             </a>
           </div>
 
-          <div className="mt-3 pt-3 border-t border-border-subtle flex items-center justify-between text-xs font-mono text-text-muted px-2">
+          <div className="mt-3 pt-3 border-t border-border-subtle flex items-center justify-between text-xs font-mono text-text-muted px-2 flex-wrap gap-2">
             <a href="/solutions" className="text-text-secondary hover:text-cosmic-cyan">
-              &bull; Solutions Center
+              &bull; Solutions
             </a>
-            <a href="/radar" className="text-cosmic-cyan hover:underline">
+            <a href="/tutorials" className="text-text-secondary hover:text-cosmic-cyan">
+              &bull; Tutorials
+            </a>
+            <a href="/components" className="text-text-secondary hover:text-cosmic-cyan">
+              &bull; Components
+            </a>
+            <a href="/radar" className="text-cosmic-cyan hover:underline font-semibold">
               Open 3D Radar &rarr;
             </a>
           </div>
