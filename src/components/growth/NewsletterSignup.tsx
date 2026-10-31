@@ -28,8 +28,8 @@ export default function NewsletterSignup() {
   };
 
   return (
-    <div className="w-full bg-gradient-to-br from-space-800/90 to-space-900/90 border border-cosmic-border rounded-2xl p-6 md:p-8 backdrop-blur-md shadow-2xl relative overflow-hidden">
-      <div className="absolute top-0 right-0 -mt-8 -mr-8 w-40 h-40 bg-cosmic-cyan/10 rounded-full blur-3xl pointer-events-none" />
+    <div className="w-full orbital-glass border border-cosmic-cyan/25 rounded-2xl p-6 md:p-8 backdrop-blur-2xl shadow-orbital-glass relative overflow-hidden">
+      <div className="absolute top-0 right-0 -mt-8 -mr-8 w-44 h-44 bg-cosmic-cyan/15 rounded-full blur-3xl pointer-events-none" />
 
       <div className="max-w-2xl mx-auto text-center">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cosmic-cyan/10 border border-cosmic-cyan/30 text-cosmic-cyan text-xs font-semibold mb-4">

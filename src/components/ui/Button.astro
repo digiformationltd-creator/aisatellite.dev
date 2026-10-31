@@ -20,15 +20,15 @@ const {
 } = Astro.props;
 
 const variantStyles = {
-  primary: 'bg-cosmic-cyan text-space-950 font-bold hover:shadow-glow-cyan hover:bg-white',
-  secondary: 'bg-space-850 text-text-primary border border-border-subtle hover:border-cosmic-cyan/40 hover:bg-space-800',
-  outline: 'bg-transparent text-text-primary border border-border-subtle hover:border-cosmic-cyan hover:text-cosmic-cyan',
-  ghost: 'bg-transparent text-text-secondary hover:text-cosmic-cyan hover:bg-space-850/50',
+  primary: 'bg-gradient-to-r from-cosmic-cyan via-cosmic-blue to-cosmic-purple text-space-950 font-black shadow-lg shadow-cosmic-cyan/25 hover:opacity-95 hover:scale-[1.02] border border-white/20',
+  secondary: 'orbital-glass text-text-primary border border-cosmic-cyan/25 hover:border-cosmic-cyan/60 hover:text-cosmic-cyan hover:scale-[1.02]',
+  outline: 'bg-transparent text-text-primary border border-cosmic-cyan/30 hover:border-cosmic-cyan hover:text-cosmic-cyan hover:shadow-glow-cyan/20 hover:scale-[1.02]',
+  ghost: 'bg-transparent text-text-secondary hover:text-cosmic-cyan hover:bg-space-850/60',
 };
 
 const sizeStyles = {
-  sm: 'text-xs px-3 py-1.5 rounded-button',
-  md: 'text-sm px-4 py-2 rounded-button',
+  sm: 'text-xs px-3.5 py-1.5 rounded-button',
+  md: 'text-sm px-4.5 py-2.5 rounded-button',
   lg: 'text-base px-6 py-3 rounded-button',
 };
 
@@ -40,7 +40,7 @@ const Element = href ? 'a' : 'button';
   target={target}
   rel={target === '_blank' && !rel ? 'noopener noreferrer' : rel}
   class:list={[
-    'inline-flex items-center justify-center gap-2 font-medium transition-all duration-200 cursor-pointer active:scale-95 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:ring-2 focus:ring-cosmic-cyan focus:ring-offset-2 focus:ring-offset-space-950',
+    'inline-flex items-center justify-center gap-2 font-medium transition-all duration-300 cursor-pointer active:scale-95 disabled:opacity-50 disabled:pointer-events-none focus:outline-none focus:ring-2 focus:ring-cosmic-cyan focus:ring-offset-2 focus:ring-offset-space-950',
     variantStyles[variant],
     sizeStyles[size],
     className,

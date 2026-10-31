@@ -93,14 +93,14 @@ export default function SearchDialog() {
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-start justify-center pt-16 sm:pt-24 px-4 bg-space-950/80 backdrop-blur-md"
+      className="fixed inset-0 z-50 flex items-start justify-center pt-16 sm:pt-24 px-4 bg-space-950/85 backdrop-blur-2xl"
       role="dialog"
       aria-modal="true"
       aria-label="Global search dialog"
       onClick={() => setIsOpen(false)}
     >
       <div
-        className="w-full max-w-2xl bg-space-900 border border-border-hover rounded-modal shadow-2xl overflow-hidden animate-in fade-in zoom-in-95 duration-150"
+        className="w-full max-w-2xl orbital-glass rounded-modal shadow-2xl overflow-hidden animate-in fade-in zoom-in-95 duration-150 border border-cosmic-cyan/35"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Search Input Bar */}

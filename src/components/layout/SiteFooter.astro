@@ -5,32 +5,32 @@ import PageContainer from '@/components/layout/PageContainer.astro';
 const currentYear = 2026;
 ---
 
-<footer class="border-t border-border-subtle bg-space-950 pt-16 pb-12 mt-20 relative overflow-hidden">
-  <!-- Subtle cosmic background glow -->
-  <div class="absolute -top-24 left-1/2 -translate-x-1/2 w-[600px] h-32 bg-cosmic-cyan/5 rounded-full blur-3xl pointer-events-none"></div>
+<footer class="border-t border-cosmic-cyan/15 bg-space-950 pt-16 pb-12 mt-20 relative overflow-hidden">
+  <!-- Subtle cosmic atmospheric background glow -->
+  <div class="absolute -top-24 left-1/2 -translate-x-1/2 w-[700px] h-36 bg-gradient-to-r from-cosmic-cyan/10 via-cosmic-blue/10 to-cosmic-purple/10 rounded-full blur-3xl pointer-events-none"></div>
 
   <PageContainer>
     <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 mb-12">
       <!-- Column 1 & 2: Brand Identity -->
       <div class="col-span-2">
         <div class="flex items-center gap-2.5 mb-4">
-          <div class="w-7 h-7 rounded-lg bg-space-900 border border-border-hover flex items-center justify-center">
-            <span class="w-2 h-2 rounded-full bg-cosmic-cyan animate-pulse"></span>
+          <div class="w-8 h-8 rounded-xl bg-space-900 border border-cosmic-cyan/30 flex items-center justify-center shadow-glow-cyan/20">
+            <span class="w-2.5 h-2.5 rounded-full bg-cosmic-cyan animate-pulse"></span>
           </div>
-          <span class="font-heading font-bold text-xl text-text-primary">AI Satellite</span>
+          <span class="font-heading font-black text-xl text-text-primary tracking-tight">AI Satellite</span>
         </div>
         <p class="text-sm text-text-secondary leading-relaxed mb-4 max-w-sm">
           The Global Open-Source & Autonomous AI Knowledge Station. Curating verified free developer tools, production AI prompts, Three.js 3D web labs, and founder playbooks.
         </p>
-        <div class="text-xs font-mono text-text-muted flex items-center gap-2">
-          <span class="inline-block w-2 h-2 rounded-full bg-cosmic-emerald"></span>
-          <span>Zero Corporate Paywalls &bull; 100% Free Knowledge</span>
+        <div class="text-xs font-mono text-cosmic-cyan/80 flex items-center gap-2">
+          <span class="inline-block w-2 h-2 rounded-full bg-cosmic-teal animate-pulse"></span>
+          <span>Zero Corporate Paywalls &bull; 100% Free Knowledge &bull; Cloudflare Edge</span>
         </div>
       </div>
 
       <!-- Column 3: Free Tools & Vault -->
       <div>
-        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4">Free Tools</h4>
+        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4 text-cosmic-cyan">Free Tools</h4>
         <ul class="space-y-2 text-sm text-text-secondary">
           <li><a href="/open-source" class="hover:text-cosmic-cyan transition-colors">All Developer Tools</a></li>
           <li><a href="/open-source/databases" class="hover:text-cosmic-cyan transition-colors">Free Databases</a></li>
@@ -41,60 +41,58 @@ const currentYear = 2026;
         </ul>
       </div>
 
-      <!-- Column 4: AI & 3D Web -->
+      <!-- Column 4: 3D Lab & AI Prompts -->
       <div>
-        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4">AI & 3D Lab</h4>
+        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4 text-cosmic-purple">3D &amp; Prompts</h4>
         <ul class="space-y-2 text-sm text-text-secondary">
-          <li><a href="/ai-agents" class="hover:text-cosmic-cyan transition-colors">Autonomous Agents</a></li>
-          <li><a href="/mcp-servers" class="hover:text-cosmic-cyan transition-colors">MCP Servers</a></li>
-          <li><a href="/workflows" class="hover:text-cosmic-cyan transition-colors">Pipeline Blueprints</a></li>
-          <li><a href="/prompts" class="hover:text-cosmic-cyan transition-colors">Prompt Vault</a></li>
-          <li><a href="/3d-lab" class="hover:text-cosmic-cyan transition-colors">Three.js Showcase</a></li>
+          <li><a href="/3d-lab" class="hover:text-cosmic-cyan transition-colors">3D Web Lab</a></li>
+          <li><a href="/3d-lab/threejs" class="hover:text-cosmic-cyan transition-colors">Three.js Components</a></li>
+          <li><a href="/3d-lab/shaders" class="hover:text-cosmic-cyan transition-colors">GLSL Shaders</a></li>
+          <li><a href="/prompts" class="hover:text-cosmic-cyan transition-colors">AI Prompt Vault</a></li>
+          <li><a href="/prompts/coding" class="hover:text-cosmic-cyan transition-colors">Coding Agents</a></li>
+          <li><a href="/ai-agents" class="hover:text-cosmic-cyan transition-colors">Autonomous Workflows</a></li>
+        </ul>
+      </div>
+
+      <!-- Column 5: Software Hub & Factory -->
+      <div>
+        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4 text-cosmic-teal">Software Hub</h4>
+        <ul class="space-y-2 text-sm text-text-secondary">
           <li><a href="/projects" class="hover:text-cosmic-cyan transition-colors">Original Software</a></li>
+          <li><a href="/factory" class="hover:text-cosmic-cyan transition-colors">Software Factory</a></li>
+          <li><a href="/downloads" class="hover:text-cosmic-cyan transition-colors">Verified Binaries</a></li>
+          <li><a href="/mcp-servers" class="hover:text-cosmic-cyan transition-colors">MCP Server Catalog</a></li>
+          <li><a href="/playbooks" class="hover:text-cosmic-cyan transition-colors">Engineering Guides</a></li>
+          <li><a href="/changelog" class="hover:text-cosmic-cyan transition-colors">Platform Releases</a></li>
         </ul>
       </div>
 
-      <!-- Column 5: Founder Hub -->
+      <!-- Column 6: Governance & Statutory -->
       <div>
-        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4">Founder Hub</h4>
+        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4 text-text-muted">Governance</h4>
         <ul class="space-y-2 text-sm text-text-secondary">
-          <li><a href="/playbooks" class="hover:text-cosmic-cyan transition-colors">All Playbooks</a></li>
-          <li><a href="/founder-hub" class="hover:text-cosmic-cyan transition-colors">Founder Knowledge</a></li>
-          <li><a href="/company-formation" class="hover:text-cosmic-cyan transition-colors">UK LTD Formation</a></li>
-          <li><a href="/global-payments" class="hover:text-cosmic-cyan transition-colors">Global Payments & Stripe</a></li>
-          <li><a href="/trending" class="hover:text-cosmic-cyan transition-colors">Trending Topics</a></li>
-          <li><a href="/contribute" class="hover:text-cosmic-cyan transition-colors">Submit a Resource</a></li>
-        </ul>
-      </div>
-
-      <!-- Column 6: Policies & Legal -->
-      <div>
-        <h4 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4">Governance</h4>
-        <ul class="space-y-2 text-sm text-text-secondary">
-          <li><a href="/about" class="hover:text-cosmic-cyan transition-colors">About Mission</a></li>
-          <li><a href="/editorial-policy" class="hover:text-cosmic-cyan transition-colors">Editorial Standards</a></li>
-          <li><a href="/partner-disclosure" class="hover:text-cosmic-cyan transition-colors">Partner Disclosure</a></li>
-          <li><a href="/privacy" class="hover:text-cosmic-cyan transition-colors">Privacy Policy</a></li>
+          <li><a href="/about" class="hover:text-cosmic-cyan transition-colors">About AI Satellite</a></li>
+          <li><a href="/editorial-policy" class="hover:text-cosmic-cyan transition-colors">Editorial Integrity</a></li>
+          <li><a href="/partner-disclosure" class="hover:text-cosmic-cyan transition-colors">Statutory Disclosure</a></li>
+          <li><a href="/privacy" class="hover:text-cosmic-cyan transition-colors">Privacy Notice</a></li>
           <li><a href="/terms" class="hover:text-cosmic-cyan transition-colors">Terms of Service</a></li>
-          <li><a href="/licenses" class="hover:text-cosmic-cyan transition-colors">Licenses & IP</a></li>
-          <li><a href="/changelog" class="hover:text-cosmic-cyan transition-colors">System Changelog</a></li>
+          <li><a href="/growth-admin" class="hover:text-cosmic-cyan transition-colors text-xs font-mono text-cosmic-cyan/70">Growth Console</a></li>
         </ul>
       </div>
     </div>
 
-    <!-- Bottom Bar -->
-    <div class="pt-8 border-t border-border-subtle flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-text-muted">
+    <!-- Bottom Metadata Bar -->
+    <div class="pt-8 border-t border-cosmic-cyan/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-text-muted">
       <div>
-        &copy; {currentYear} AI Satellite &bull; Open-source software and knowledge platform.
+        &copy; {currentYear} AI Satellite. Independent Developer Knowledge Station. All source code MIT / Apache-2.0.
       </div>
-      <div class="flex items-center gap-6">
-        <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreferrer" class="hover:text-text-primary transition-colors flex items-center gap-1">
+      <div class="flex items-center gap-4">
+        <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreferrer" class="hover:text-cosmic-cyan transition-colors flex items-center gap-1.5">
           <GithubIcon class="w-3.5 h-3.5" />
-          <span>GitHub Seed Source</span>
+          <span>GitHub</span>
         </a>
-        <a href="/sitemap-index.xml" class="hover:text-cosmic-cyan transition-colors">
-          XML Sitemap
-        </a>
+        <span>&bull;</span>
+        <span class="text-cosmic-cyan">Station Altitude: 418 KM</span>
       </div>
     </div>
   </PageContainer>

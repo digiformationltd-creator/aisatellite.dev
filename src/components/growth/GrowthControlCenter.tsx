@@ -95,7 +95,7 @@ export default function GrowthControlCenter({ initialToken = '' }: GrowthControl
 
   if (!isAuthenticated) {
     return (
-      <div className="max-w-md mx-auto my-12 p-8 bg-space-800/80 border border-cosmic-border rounded-xl shadow-2xl backdrop-blur-md">
+      <div className="max-w-md mx-auto my-12 p-8 orbital-glass border border-cosmic-cyan/30 rounded-2xl shadow-orbital-glass backdrop-blur-2xl">
         <div className="flex items-center gap-3 mb-6">
           <div className="p-3 bg-cosmic-cyan/10 border border-cosmic-cyan/30 rounded-lg text-cosmic-cyan">
             <Lock className="w-6 h-6" />
@@ -144,7 +144,7 @@ export default function GrowthControlCenter({ initialToken = '' }: GrowthControl
   ];
 
   return (
-    <div className="w-full bg-space-900/60 border border-cosmic-border rounded-2xl overflow-hidden backdrop-blur-md shadow-2xl">
+    <div className="w-full orbital-glass border border-cosmic-cyan/20 rounded-2xl overflow-hidden backdrop-blur-2xl shadow-orbital-glass">
       {/* Header */}
       <div className="flex flex-col md:flex-row md:items-center justify-between p-6 border-b border-cosmic-border bg-space-800/40 gap-4">
         <div className="flex items-center gap-3">
