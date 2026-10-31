@@ -651,5 +651,215 @@
     ],
     "createdAt": "2026-10-31T10:07:41.069Z",
     "updatedAt": "2026-10-31T10:07:41.069Z"
+  },
+  {
+    "id": "TKT-MVW97YJP-1ELG",
+    "title": "Update SQLite WAL Mode Performance Guidance",
+    "description": "SQLite 3.45 documentation introduced improved WAL checkpointing parameters.",
+    "severity": "low",
+    "status": "proposed",
+    "priorityTier": 8,
+    "evidenceUrls": [
+      "https://sqlite.org/wal.html"
+    ],
+    "affectedResources": [
+      "src/pages/tools/sqlite.astro"
+    ],
+    "proposedSolution": "Add pragma synchronous = NORMAL recommendation.",
+    "estimatedComplexity": "low",
+    "riskLevel": "low",
+    "requiredApproval": "editorial_lead",
+    "validationPlan": "Verify markdown rendering.",
+    "rollbackPlan": "Git restore file.",
+    "executionLogs": [
+      "[2026-10-31T10:24:28.069Z] Ticket created via AutonomousImprovementPlanner"
+    ],
+    "createdAt": "2026-10-31T10:24:28.070Z",
+    "updatedAt": "2026-10-31T10:24:28.070Z"
+  },
+  {
+    "id": "TKT-MVW97YJU-QLZO",
+    "title": "Upgrade Cloudflare Worker Edge Authentication Middleware",
+    "description": "Security patch modifying authentication session token checks.",
+    "severity": "critical",
+    "status": "approved",
+    "priorityTier": 1,
+    "evidenceUrls": [
+      "https://developers.cloudflare.com/workers/"
+    ],
+    "affectedResources": [
+      "src/lib/operations/operations-service.ts"
+    ],
+    "proposedSolution": "Rotate and salt session tokens.",
+    "estimatedComplexity": "high",
+    "riskLevel": "high",
+    "requiredApproval": "security_officer",
+    "validationPlan": "Run auth acceptance test suite.",
+    "rollbackPlan": "Restore previous middleware snapshot.",
+    "executionLogs": [
+      "[2026-10-31T10:24:28.074Z] Ticket created via AutonomousImprovementPlanner",
+      "[2026-10-31T10:24:28.077Z] Approved by SecurityOfficer-Marcus"
+    ],
+    "createdAt": "2026-10-31T10:24:28.074Z",
+    "updatedAt": "2026-10-31T10:24:28.077Z",
+    "approvalSignature": "SecurityOfficer-Marcus",
+    "approvedAt": "2026-10-31T10:24:28.077Z"
+  },
+  {
+    "id": "TKT-MVW97YK5-J7KM",
+    "title": "Re-cache Tool Metadata Schema",
+    "description": "Refresh cached non-sensitive schema indices for offline search.",
+    "severity": "low",
+    "status": "completed",
+    "priorityTier": 8,
+    "evidenceUrls": [
+      "https://aisatellite.dev/tools"
+    ],
+    "affectedResources": [
+      "data/operations/metadata-cache.json"
+    ],
+    "proposedSolution": "Regenerate schema index.",
+    "estimatedComplexity": "low",
+    "riskLevel": "low",
+    "requiredApproval": "none",
+    "validationPlan": "Verify schema parsing.",
+    "rollbackPlan": "Revert cache file.",
+    "executionLogs": [
+      "[2026-10-31T10:24:28.085Z] Ticket created via AutonomousImprovementPlanner",
+      "[2026-10-31T10:24:28.090Z] Fix execution started with snapshot SNAP-MVW97YK8-8PNU",
+      "[2026-10-31T10:24:28.090Z] Automated tests passed. Repair verified."
+    ],
+    "createdAt": "2026-10-31T10:24:28.085Z",
+    "updatedAt": "2026-10-31T10:24:28.090Z"
+  },
+  {
+    "id": "TKT-MVW97YKS-26OT",
+    "title": "Test Unauthorized Security Mutation",
+    "description": "Test attempt to approve without authorized signer prefix.",
+    "severity": "medium",
+    "status": "proposed",
+    "priorityTier": 5,
+    "evidenceUrls": [
+      "https://example.com/test"
+    ],
+    "affectedResources": [
+      "config.json"
+    ],
+    "proposedSolution": "Verify and reject unauthorized signer attempts.",
+    "estimatedComplexity": "low",
+    "riskLevel": "medium",
+    "requiredApproval": "lead_architect",
+    "validationPlan": "Run authorization check.",
+    "rollbackPlan": "No state change occurred.",
+    "executionLogs": [
+      "[2026-10-31T10:24:28.108Z] Ticket created via AutonomousImprovementPlanner"
+    ],
+    "createdAt": "2026-10-31T10:24:28.108Z",
+    "updatedAt": "2026-10-31T10:24:28.108Z"
+  },
+  {
+    "id": "TKT-MVW9AKAW-9QNT",
+    "title": "Update SQLite WAL Mode Performance Guidance",
+    "description": "SQLite 3.45 documentation introduced improved WAL checkpointing parameters.",
+    "severity": "low",
+    "status": "proposed",
+    "priorityTier": 8,
+    "evidenceUrls": [
+      "https://sqlite.org/wal.html"
+    ],
+    "affectedResources": [
+      "src/pages/tools/sqlite.astro"
+    ],
+    "proposedSolution": "Add pragma synchronous = NORMAL recommendation.",
+    "estimatedComplexity": "low",
+    "riskLevel": "low",
+    "requiredApproval": "editorial_lead",
+    "validationPlan": "Verify markdown rendering.",
+    "rollbackPlan": "Git restore file.",
+    "executionLogs": [
+      "[2026-10-31T10:26:29.576Z] Ticket created via AutonomousImprovementPlanner"
+    ],
+    "createdAt": "2026-10-31T10:26:29.576Z",
+    "updatedAt": "2026-10-31T10:26:29.576Z"
+  },
+  {
+    "id": "TKT-MVW9AKB0-2M02",
+    "title": "Upgrade Cloudflare Worker Edge Authentication Middleware",
+    "description": "Security patch modifying authentication session token checks.",
+    "severity": "critical",
+    "status": "approved",
+    "priorityTier": 1,
+    "evidenceUrls": [
+      "https://developers.cloudflare.com/workers/"
+    ],
+    "affectedResources": [
+      "src/lib/operations/operations-service.ts"
+    ],
+    "proposedSolution": "Rotate and salt session tokens.",
+    "estimatedComplexity": "high",
+    "riskLevel": "high",
+    "requiredApproval": "security_officer",
+    "validationPlan": "Run auth acceptance test suite.",
+    "rollbackPlan": "Restore previous middleware snapshot.",
+    "executionLogs": [
+      "[2026-10-31T10:26:29.580Z] Ticket created via AutonomousImprovementPlanner",
+      "[2026-10-31T10:26:29.583Z] Approved by SecurityOfficer-Marcus"
+    ],
+    "createdAt": "2026-10-31T10:26:29.580Z",
+    "updatedAt": "2026-10-31T10:26:29.583Z",
+    "approvalSignature": "SecurityOfficer-Marcus",
+    "approvedAt": "2026-10-31T10:26:29.583Z"
+  },
+  {
+    "id": "TKT-MVW9AKB4-76U8",
+    "title": "Re-cache Tool Metadata Schema",
+    "description": "Refresh cached non-sensitive schema indices for offline search.",
+    "severity": "low",
+    "status": "completed",
+    "priorityTier": 8,
+    "evidenceUrls": [
+      "https://aisatellite.dev/tools"
+    ],
+    "affectedResources": [
+      "data/operations/metadata-cache.json"
+    ],
+    "proposedSolution": "Regenerate schema index.",
+    "estimatedComplexity": "low",
+    "riskLevel": "low",
+    "requiredApproval": "none",
+    "validationPlan": "Verify schema parsing.",
+    "rollbackPlan": "Revert cache file.",
+    "executionLogs": [
+      "[2026-10-31T10:26:29.584Z] Ticket created via AutonomousImprovementPlanner",
+      "[2026-10-31T10:26:29.587Z] Fix execution started with snapshot SNAP-MVW9AKB6-VRDD",
+      "[2026-10-31T10:26:29.587Z] Automated tests passed. Repair verified."
+    ],
+    "createdAt": "2026-10-31T10:26:29.584Z",
+    "updatedAt": "2026-10-31T10:26:29.587Z"
+  },
+  {
+    "id": "TKT-MVW9AKBP-VY35",
+    "title": "Test Unauthorized Security Mutation",
+    "description": "Test attempt to approve without authorized signer prefix.",
+    "severity": "medium",
+    "status": "proposed",
+    "priorityTier": 5,
+    "evidenceUrls": [
+      "https://example.com/test"
+    ],
+    "affectedResources": [
+      "config.json"
+    ],
+    "proposedSolution": "Verify and reject unauthorized signer attempts.",
+    "estimatedComplexity": "low",
+    "riskLevel": "medium",
+    "requiredApproval": "lead_architect",
+    "validationPlan": "Run authorization check.",
+    "rollbackPlan": "No state change occurred.",
+    "executionLogs": [
+      "[2026-10-31T10:26:29.605Z] Ticket created via AutonomousImprovementPlanner"
+    ],
+    "createdAt": "2026-10-31T10:26:29.605Z",
+    "updatedAt": "2026-10-31T10:26:29.605Z"
   }
 ]

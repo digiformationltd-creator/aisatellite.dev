@@ -16,7 +16,12 @@ export default defineConfig({
     }),
     mdx(),
     sitemap({
-      filter: (page) => !page.includes('/404'),
+      filter: (page) =>
+        !page.includes('/404') &&
+        !page.includes('/workspace') &&
+        !page.includes('/operations-admin') &&
+        !page.includes('/growth-admin') &&
+        !page.includes('/research-admin'),
     }),
   ],
   vite: {

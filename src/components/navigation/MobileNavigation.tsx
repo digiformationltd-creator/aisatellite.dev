@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, Search, Sparkles, Database, Cpu, Terminal, BookOpen, Layers } from 'lucide-react';
+import { Menu, X, Search, Sparkles, Database, Cpu, Terminal, BookOpen, Layers, Orbit } from 'lucide-react';
 
 export default function MobileNavigation() {
   const [isOpen, setIsOpen] = useState(false);
@@ -137,6 +137,14 @@ export default function MobileNavigation() {
                 >
                   <Sparkles className="w-4 h-4 text-cosmic-cyan" />
                   <span>3D Tech Radar</span>
+                </a>
+
+                <a
+                  href="/workspace"
+                  className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-cosmic-cyan hover:bg-space-850 font-medium transition-colors"
+                >
+                  <Orbit className="w-4 h-4 text-cosmic-cyan" />
+                  <span>My Orbit Workspace</span>
                 </a>
 
                 <a

@@ -664,5 +664,179 @@
       "securityAdvisories": false,
       "productReleases": true
     }
+  },
+  {
+    "id": "sub-1793442266934-cddb74",
+    "email": "phase9-consent-1793442266927@example.org",
+    "status": "unconfirmed",
+    "consentTimestamp": "2026-10-31T10:24:26.934Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "optInToken": "6c8d99ad09c164e12103c1254286ecc7d2ac3e4768e5739a",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    }
+  },
+  {
+    "id": "sub-1793442266944-63ae21",
+    "email": "phase9-unsub-1793442266940@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-10-31T10:24:26.944Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T10:24:26.952Z",
+    "unsubscribedAt": "2026-10-31T10:24:26.956Z"
+  },
+  {
+    "id": "sub-1793442267619-35b924",
+    "email": "dev-1793442267613@testcompany.org",
+    "status": "active",
+    "consentTimestamp": "2026-10-31T10:24:27.619Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T10:24:27.626Z"
+  },
+  {
+    "id": "sub-1793442267633-124441",
+    "email": "unsub-1793442267630@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-10-31T10:24:27.634Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T10:24:27.641Z",
+    "unsubscribedAt": "2026-10-31T10:24:27.646Z"
+  },
+  {
+    "id": "sub-1793442268274-02326e",
+    "email": "check27-1793442268264@test.org",
+    "status": "unconfirmed",
+    "consentTimestamp": "2026-10-31T10:24:28.274Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "optInToken": "88ba59e63a37c87cc2d317c2387830db8ffb53474992ba0b",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    }
+  },
+  {
+    "id": "sub-1793442268647-00c1cd",
+    "email": "journey-test-1793442268625@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-10-31T10:24:28.647Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T10:24:28.662Z",
+    "unsubscribedAt": "2026-10-31T10:24:28.671Z"
+  },
+  {
+    "id": "sub-1793442386414-2bf5b4",
+    "email": "check27-1793442386408@test.org",
+    "status": "unconfirmed",
+    "consentTimestamp": "2026-10-31T10:26:26.414Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "optInToken": "383925660f93db492c22277c7028eeae9e0160dce34900cc",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    }
+  },
+  {
+    "id": "sub-1793442388458-bd9306",
+    "email": "phase9-consent-1793442388453@example.org",
+    "status": "unconfirmed",
+    "consentTimestamp": "2026-10-31T10:26:28.458Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "optInToken": "eccf984e22da81b139ac341b0d93f2e0376b9ea9fe7fdfa6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    }
+  },
+  {
+    "id": "sub-1793442388468-e34e7a",
+    "email": "phase9-unsub-1793442388463@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-10-31T10:26:28.468Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T10:26:28.474Z",
+    "unsubscribedAt": "2026-10-31T10:26:28.480Z"
+  },
+  {
+    "id": "sub-1793442391533-4bf535",
+    "email": "journey-test-1793442391526@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-10-31T10:26:31.533Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T10:26:31.540Z",
+    "unsubscribedAt": "2026-10-31T10:26:31.544Z"
+  },
+  {
+    "id": "sub-1793442393942-77ce42",
+    "email": "dev-1793442393936@testcompany.org",
+    "status": "active",
+    "consentTimestamp": "2026-10-31T10:26:33.942Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T10:26:33.950Z"
+  },
+  {
+    "id": "sub-1793442393959-548542",
+    "email": "unsub-1793442393955@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-10-31T10:26:33.959Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T10:26:33.963Z",
+    "unsubscribedAt": "2026-10-31T10:26:33.968Z"
   }
 ]

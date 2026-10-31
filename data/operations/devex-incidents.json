@@ -58,5 +58,25 @@
     "description": "Zero verified alternatives matched user query",
     "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
     "isResolved": true
+  },
+  {
+    "id": "DEVEX-MVW97YKF-UMA0",
+    "signalType": "zero_result_search",
+    "queryOrPath": "unsupported-obscure-commercial-software",
+    "occurrenceCount": 1,
+    "lastOccurredAt": "2026-10-31T10:24:28.096Z",
+    "description": "Zero verified alternatives matched user query",
+    "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
+    "isResolved": true
+  },
+  {
+    "id": "DEVEX-MVW9AKBC-S3WU",
+    "signalType": "zero_result_search",
+    "queryOrPath": "unsupported-obscure-commercial-software",
+    "occurrenceCount": 1,
+    "lastOccurredAt": "2026-10-31T10:26:29.592Z",
+    "description": "Zero verified alternatives matched user query",
+    "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
+    "isResolved": true
   }
 ]

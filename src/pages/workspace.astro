@@ -3,25 +3,25 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageContainer from '@/components/layout/PageContainer.astro';
 import SectionHeading from '@/components/layout/SectionHeading.astro';
 import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
-import DeveloperWorkspace from '@/components/workspace/DeveloperWorkspace';
+import MyOrbitWorkspace from '@/components/workspace/MyOrbitWorkspace';
 ---
 
 <BaseLayout
-  title="Personalized Developer Workspace — AI Satellite"
-  description="Client-side private developer workspace. Manage saved master prompts, bookmarks, and technology stacks with 100% zero-telemetry local storage."
+  title="My Orbit — Intelligent Personal Workspace | AI Satellite"
+  description="Personal developer workspace for AI Satellite. Save verified tools, manage private prompts with versioning, store reusable code snippets, and track projects."
   noIndex={true}
 >
   <PageContainer size="wide" class="py-10">
-    <Breadcrumbs items={[{ label: 'Developer Workspace' }]} />
+    <Breadcrumbs items={[{ label: 'My Orbit Workspace' }]} />
 
     <SectionHeading
-      badge="Private Sandbox"
-      title="Personalized Developer Workspace"
-      description="Zero telemetry. Zero account required. Your saved blueprints, preferences, and prompt collections reside exclusively within your local browser storage."
+      badge="Personal Orbit"
+      title="My Orbit Workspace"
+      description="Your personal, encrypted developer workstation. Save verified tools, craft versioned system prompts, store snippets, track projects, and master modern tech stacks."
     />
 
     <div class="my-8">
-      <DeveloperWorkspace client:load />
+      <MyOrbitWorkspace client:load />
     </div>
   </PageContainer>
 </BaseLayout>

@@ -105,6 +105,9 @@ export default function DesktopMegaMenu() {
             <a href="/components" className="text-text-secondary hover:text-cosmic-cyan">
               &bull; Components
             </a>
+            <a href="/workspace" className="text-cosmic-cyan hover:underline font-semibold">
+              &bull; My Orbit &rarr;
+            </a>
             <a href="/radar" className="text-cosmic-cyan hover:underline font-semibold">
               Open 3D Radar &rarr;
             </a>
