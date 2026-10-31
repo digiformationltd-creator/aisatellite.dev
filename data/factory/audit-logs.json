@@ -2205,5 +2205,504 @@
       "approvedBy": "Lead Release Engineer"
     },
     "signature": "0b38033d77630f2abaab7a9a7a18e28fc6eaa5331fedc7b3921f6b03e7da92db"
+  },
+  {
+    "logId": "audit-1793446414774-15753bc9",
+    "timestamp": "2026-10-31T11:33:34.775Z",
+    "actor": "System",
+    "action": "CREATE_PROJECT",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "projectId": "e2e-developer-toolbox-1793446414748",
+      "name": "AI Satellite Developer Toolbox CLI"
+    },
+    "signature": "253b4a2a981865715d94f7c849abc4fb8f2403d7cbcda849ec5c26a495853a89"
+  },
+  {
+    "logId": "audit-1793446414782-492d86fe",
+    "timestamp": "2026-10-31T11:33:34.783Z",
+    "actor": "research-agent",
+    "action": "produce_proposal",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "proposalId": "prop_e2e-developer-toolbox-1793446414748_4847b397",
+      "weightedScore": 89,
+      "name": "AI Satellite Developer Toolbox CLI"
+    },
+    "signature": "b8547c5f5fe42c8d2769de9492ce9a5fbe4f78b56e85778b5a73bf4d82242e14"
+  },
+  {
+    "logId": "audit-1793446414801-0c4d0db2",
+    "timestamp": "2026-10-31T11:33:34.801Z",
+    "actor": "Sarah Chen (Lead Systems Architect)",
+    "action": "approve_proposal_for_planning",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "approvedAt": "2026-10-31T11:33:34.801Z"
+    },
+    "signature": "7d82a67ca575f1aa420e751aee4ed728013545011af01a517d4cd8fb25d6a5ad"
+  },
+  {
+    "logId": "audit-1793446414812-f8671e2c",
+    "timestamp": "2026-10-31T11:33:34.812Z",
+    "actor": "product-agent",
+    "action": "generate_prd",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "prdId": "prd_e2e-developer-toolbox-1793446414748_446d8479",
+      "version": "1.0.0"
+    },
+    "signature": "9d14804b9f4a4628ee88f487fd4c8395e0fde53add3744fda557ee94b79b4a93"
+  },
+  {
+    "logId": "audit-1793446414822-3b563049",
+    "timestamp": "2026-10-31T11:33:34.822Z",
+    "actor": "architecture-agent",
+    "action": "design_architecture",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "planId": "arch_e2e-developer-toolbox-1793446414748_3d84f6c5",
+      "tasksCount": 5
+    },
+    "signature": "77587a255d74245babac0b17a203f07571e9c0721cadca69f99616cf229cbd42"
+  },
+  {
+    "logId": "audit-1793446414843-cdee8262",
+    "timestamp": "2026-10-31T11:33:34.843Z",
+    "actor": "SandboxEngine",
+    "action": "WORKSPACE_CREATED",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "projectId": "e2e-developer-toolbox-1793446414748",
+      "workspacePath": "C:\\Users\\user\\Downloads\\AI STERLITE\\factory\\workspaces\\e2e-developer-toolbox-1793446414748"
+    },
+    "signature": "9bce027a7a1ea59b69393b44772dc74b7923241ec6295026ed21a68c70f49f15"
+  },
+  {
+    "logId": "audit-1793446414853-695d094e",
+    "timestamp": "2026-10-31T11:33:34.853Z",
+    "actor": "coding-agent",
+    "action": "complete_coding_task",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "taskId": "task_task-1_1793446414849",
+      "taskItemId": "task-1",
+      "filesGenerated": 2
+    },
+    "signature": "be35df27750b8a451bd3b78bf7ceaf3696ae7f2a173db487e85006f8c6c912e3"
+  },
+  {
+    "logId": "audit-1793446414863-373bd39d",
+    "timestamp": "2026-10-31T11:33:34.863Z",
+    "actor": "coding-agent",
+    "action": "complete_coding_task",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "taskId": "task_task-2_1793446414861",
+      "taskItemId": "task-2",
+      "filesGenerated": 1
+    },
+    "signature": "8e343fe0e4a45eb266a51d5306dca59444387b5e8cf338be0117c4e4c64a8e4d"
+  },
+  {
+    "logId": "audit-1793446414882-ae3bb8a1",
+    "timestamp": "2026-10-31T11:33:34.882Z",
+    "actor": "testing-agent",
+    "action": "complete_test_run",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "testId": "test_e2e-developer-toolbox-1793446414748_1793446414881",
+      "status": "passed",
+      "passed": 3,
+      "failed": 0
+    },
+    "signature": "964763c4a488af71e30fcac6e3034a8664ab5f03e1a95f0d8cd3c86047254298"
+  },
+  {
+    "logId": "audit-1793446414900-26931e33",
+    "timestamp": "2026-10-31T11:33:34.900Z",
+    "actor": "SecurityScanner",
+    "action": "SECURITY_SCAN_COMPLETED",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "projectId": "e2e-developer-toolbox-1793446414748",
+      "riskScore": 0,
+      "isBlocked": false,
+      "secretsCount": 0,
+      "cveCount": 0
+    },
+    "signature": "28e8721d281dea65dbf06d384cc79bc145a200477489edf999a39a984b0d9f6d"
+  },
+  {
+    "logId": "audit-1793446414907-bfb4ceb2",
+    "timestamp": "2026-10-31T11:33:34.907Z",
+    "actor": "security-agent",
+    "action": "complete_security_audit",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "reportId": "sec-1793446414899-e2e-developer-toolbox-1793446414748",
+      "isBlocked": false,
+      "riskScore": 0,
+      "secretFindingsCount": 0,
+      "cveFindingsCount": 0
+    },
+    "signature": "69bd6abe8ff9fadc8b6f6d371487d7394b6b0f53411643625226b8c248638fe2"
+  },
+  {
+    "logId": "audit-1793446414932-a4e8b7c9",
+    "timestamp": "2026-10-31T11:33:34.933Z",
+    "actor": "documentation-agent",
+    "action": "generate_docs",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "filesGenerated": [
+        "README.md",
+        "CONTRIBUTING.md",
+        "SECURITY.md",
+        "LICENSE",
+        "CHANGELOG.md"
+      ],
+      "version": "1.0.0"
+    },
+    "signature": "b2e07e4c45660e8a494178168fd1cafc3e8b682952f1291544c00558dc4d7967"
+  },
+  {
+    "logId": "audit-1793446414940-bbc8f8f6",
+    "timestamp": "2026-10-31T11:33:34.940Z",
+    "actor": "release-manager",
+    "action": "prepare_release_candidate",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "releaseId": "rel_e2e-developer-toolbox-1793446414748_v1_0_0",
+      "version": "1.0.0",
+      "assetsCount": 1
+    },
+    "signature": "3b9265014dc548d4a9fa239fae5a4cb2f7cd328503e9facec6a2daa5ee15681f"
+  },
+  {
+    "logId": "audit-1793446414944-152e30ec",
+    "timestamp": "2026-10-31T11:33:34.944Z",
+    "actor": "release-agent",
+    "action": "stage_release_candidate",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "releaseId": "rel_e2e-developer-toolbox-1793446414748_v1_0_0",
+      "version": "1.0.0",
+      "artifactsCount": 1
+    },
+    "signature": "48811b8a90ccbe4e40457551d12245d76a96ee70e8d91dfd279034aa2cc8e525"
+  },
+  {
+    "logId": "audit-1793446414972-23ad8690",
+    "timestamp": "2026-10-31T11:33:34.973Z",
+    "actor": "publishing-agent",
+    "action": "publish_to_astro",
+    "projectId": "e2e-developer-toolbox-1793446414748",
+    "details": {
+      "slug": "e2e-developer-toolbox-1793446414748",
+      "filePath": "C:\\Users\\user\\Downloads\\AI STERLITE\\data\\factory\\test-e2e-content\\e2e-developer-toolbox-1793446414748.md",
+      "version": "1.0.0",
+      "approvedBy": "Sarah Chen (Lead Systems Architect)"
+    },
+    "signature": "8b8bbe9911cfa71c417846fd985d7a3dccde29cc4c329c691feee0302e9d740b"
+  },
+  {
+    "logId": "audit-1793446418205-eef1aa5f",
+    "timestamp": "2026-10-31T11:33:38.206Z",
+    "actor": "admin",
+    "action": "emergency_stop_reset",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.204Z"
+    },
+    "signature": "dc666b1b91c8979745a145fffdc72f8932cca6b6535a804ac098cceb7099edcf"
+  },
+  {
+    "logId": "audit-1793446418216-24215dc9",
+    "timestamp": "2026-10-31T11:33:38.217Z",
+    "actor": "admin",
+    "action": "emergency_stop_reset",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.216Z"
+    },
+    "signature": "70acb0668d61bdd3e874f782c5a6e38a8867c444c1672a7847a1380a50cf1e43"
+  },
+  {
+    "logId": "audit-1793446418226-1a822c21",
+    "timestamp": "2026-10-31T11:33:38.226Z",
+    "actor": "research-agent",
+    "action": "produce_proposal",
+    "projectId": "test-audit-pipeline-proj",
+    "details": {
+      "proposalId": "prop_test-audit-pipeline-proj_9aae5f9e",
+      "weightedScore": 86,
+      "name": "Test CLI Tool"
+    },
+    "signature": "736fb3dabbe7c367a86d88e19cad8850007a16eefd964668fa2f79f852207027"
+  },
+  {
+    "logId": "audit-1793446418238-e4b4d50b",
+    "timestamp": "2026-10-31T11:33:38.238Z",
+    "actor": "admin",
+    "action": "emergency_stop_reset",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.238Z"
+    },
+    "signature": "93300ecb12cbf69df8b40dedaee2f49fa507d6d4aaf82f145e96ee17d5626d2b"
+  },
+  {
+    "logId": "audit-1793446418246-d87229eb",
+    "timestamp": "2026-10-31T11:33:38.246Z",
+    "actor": "System",
+    "action": "CREATE_PROJECT",
+    "projectId": "unapproved-plan-1793446418242",
+    "details": {
+      "projectId": "unapproved-plan-1793446418242",
+      "name": "Unapproved Proj"
+    },
+    "signature": "f6518e3a32f24b936e247815c43dd3867bd61496cab3dc821010a5a02d95924f"
+  },
+  {
+    "logId": "audit-1793446418263-f47d2038",
+    "timestamp": "2026-10-31T11:33:38.263Z",
+    "actor": "Senior Lead Engineer",
+    "action": "approve_proposal_for_planning",
+    "projectId": "unapproved-plan-1793446418242",
+    "details": {
+      "approvedAt": "2026-10-31T11:33:38.263Z"
+    },
+    "signature": "a40d6804c0e271dcabfd62d245a6d7d6ae5e426e975c88d3e63c65f5b60414ff"
+  },
+  {
+    "logId": "audit-1793446418268-b5fe53ac",
+    "timestamp": "2026-10-31T11:33:38.268Z",
+    "actor": "admin",
+    "action": "emergency_stop_reset",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.268Z"
+    },
+    "signature": "47bb6cce7deb09facd3a4b46d5e02286119fed989e9f047e807306ed37471ace"
+  },
+  {
+    "logId": "audit-1793446418273-c4e76020",
+    "timestamp": "2026-10-31T11:33:38.273Z",
+    "actor": "research-agent",
+    "action": "produce_proposal",
+    "projectId": "prd-test-proj",
+    "details": {
+      "proposalId": "prop_prd-test-proj_131ae095",
+      "weightedScore": 86,
+      "name": "PRD Test Project"
+    },
+    "signature": "d5265ca44e88059bf0ffebbb572030afe760852796f8c7504864180ad954fd34"
+  },
+  {
+    "logId": "audit-1793446418278-868822c4",
+    "timestamp": "2026-10-31T11:33:38.279Z",
+    "actor": "product-agent",
+    "action": "generate_prd",
+    "projectId": "prd-test-proj",
+    "details": {
+      "prdId": "prd_prd-test-proj_d36fab7c",
+      "version": "1.0.0"
+    },
+    "signature": "96dd257fbd8250dd121ee6ff3618165208a9579263675c94e7d08457676399bd"
+  },
+  {
+    "logId": "audit-1793446418284-9c756a4e",
+    "timestamp": "2026-10-31T11:33:38.284Z",
+    "actor": "admin",
+    "action": "emergency_stop_reset",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.284Z"
+    },
+    "signature": "bc58812235a0d7ee5b0ca786259b1c596afcbe39fb12b94bc089298fc6b630cc"
+  },
+  {
+    "logId": "audit-1793446418290-b58a85a9",
+    "timestamp": "2026-10-31T11:33:38.290Z",
+    "actor": "research-agent",
+    "action": "produce_proposal",
+    "projectId": "arch-test-proj",
+    "details": {
+      "proposalId": "prop_arch-test-proj_3896c098",
+      "weightedScore": 86,
+      "name": "Arch Test Project"
+    },
+    "signature": "2bcb2e951d5c9da3927eabb458b9828af7587660f710f030ac7e4cab89606eae"
+  },
+  {
+    "logId": "audit-1793446418294-86b7f5f2",
+    "timestamp": "2026-10-31T11:33:38.294Z",
+    "actor": "product-agent",
+    "action": "generate_prd",
+    "projectId": "arch-test-proj",
+    "details": {
+      "prdId": "prd_arch-test-proj_e0e1ef44",
+      "version": "1.0.0"
+    },
+    "signature": "861ed1740be4a9bb0d15cbc9b75f2ba7963925244db9cc254c696f27c29084b7"
+  },
+  {
+    "logId": "audit-1793446418300-6dc2224a",
+    "timestamp": "2026-10-31T11:33:38.300Z",
+    "actor": "architecture-agent",
+    "action": "design_architecture",
+    "projectId": "arch-test-proj",
+    "details": {
+      "planId": "arch_arch-test-proj_3c425c7d",
+      "tasksCount": 5
+    },
+    "signature": "d0ec594c9ef9abefd619eb30de5fa42db7e82bd93c6a24bc44f0cfd807260bac"
+  },
+  {
+    "logId": "audit-1793446418305-1be6be9f",
+    "timestamp": "2026-10-31T11:33:38.305Z",
+    "actor": "admin",
+    "action": "emergency_stop_reset",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.305Z"
+    },
+    "signature": "5529cdb84861ec7561df4f7b1c0d281b66c76a963045886209ade1c2bf3e9780"
+  },
+  {
+    "logId": "audit-1793446418310-cc3cdbbe",
+    "timestamp": "2026-10-31T11:33:38.310Z",
+    "actor": "admin",
+    "action": "emergency_stop_triggered",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.310Z"
+    },
+    "signature": "389beb35112edeb3d6c8431943fbef41f906b123f15371e69451075eec13c17c"
+  },
+  {
+    "logId": "audit-1793446418315-981a175c",
+    "timestamp": "2026-10-31T11:33:38.315Z",
+    "actor": "admin",
+    "action": "emergency_stop_reset",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.315Z"
+    },
+    "signature": "dcac09a740a23ab91202d51a159e843f3085da4bfe1187f88fbc1b3d452aa37b"
+  },
+  {
+    "logId": "audit-1793446418320-154274b5",
+    "timestamp": "2026-10-31T11:33:38.320Z",
+    "actor": "admin",
+    "action": "emergency_stop_reset",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.320Z"
+    },
+    "signature": "f4d6b94075d5a1766dc4711257aedc990732a8ddaf9d107300eef1f057ba62d4"
+  },
+  {
+    "logId": "audit-1793446418326-f15af8f7",
+    "timestamp": "2026-10-31T11:33:38.326Z",
+    "actor": "qa-tester",
+    "action": "verification_benchmark",
+    "projectId": "audit-proj-test",
+    "details": {
+      "benchmarkScore": 99.4
+    },
+    "signature": "1e660b8bf200edace61b8526b72006bca71eb057a8626f0a774e8db9d12702c7"
+  },
+  {
+    "logId": "audit-1793446418339-ea241cac",
+    "timestamp": "2026-10-31T11:33:38.339Z",
+    "actor": "admin",
+    "action": "emergency_stop_reset",
+    "details": {
+      "timestamp": "2026-10-31T11:33:38.339Z"
+    },
+    "signature": "7d94434039f362652ccf6bfd87d0fdb5c561b1c979fb4488f10c175fb66ff203"
+  },
+  {
+    "logId": "audit-1793446418344-f23bb9f4",
+    "timestamp": "2026-10-31T11:33:38.344Z",
+    "actor": "maintenance-agent",
+    "action": "complete_maintenance_scan",
+    "projectId": "maintenance-test-proj",
+    "details": {
+      "tasksFound": 2
+    },
+    "signature": "6267bcfab0f0575f8c15133ea4466d13b521da4a1c09fc7fe80745f4baa9f014"
+  },
+  {
+    "logId": "audit-1793446427004-c25e1ee2",
+    "timestamp": "2026-10-31T11:33:47.004Z",
+    "actor": "release-manager",
+    "action": "prepare_release_candidate",
+    "projectId": "test-release-pkg",
+    "details": {
+      "releaseId": "rel_test-release-pkg_v1_2_0",
+      "version": "1.2.0",
+      "assetsCount": 1
+    },
+    "signature": "593da7b4f71dd1ce8c6236c0ecd65a005603eb22fb74cdc844bb5775247a912b"
+  },
+  {
+    "logId": "audit-1793446427017-70d5dccc",
+    "timestamp": "2026-10-31T11:33:47.017Z",
+    "actor": "Principal Lead Architect",
+    "action": "approve_release_candidate",
+    "projectId": "test-project",
+    "details": {
+      "releaseId": "rel_test_v1_0_0",
+      "version": "1.0.0"
+    },
+    "signature": "03db09e47c8f6efcf06ef9c0af44f1ce8cba577f70c69a6d300af75f9c1f678c"
+  },
+  {
+    "logId": "audit-1793446427023-00f29797",
+    "timestamp": "2026-10-31T11:33:47.023Z",
+    "actor": "github-manager",
+    "action": "create_repository",
+    "details": {
+      "repoFullName": "aisatellite-org/autonomous-test-repo",
+      "isPrivate": false,
+      "mockMode": true
+    },
+    "signature": "c0cd969fefea25325cbbe2a5ae8677e5212af636a7fa60460aa39605616066da"
+  },
+  {
+    "logId": "audit-1793446427028-c46f1947",
+    "timestamp": "2026-10-31T11:33:47.028Z",
+    "actor": "github-manager",
+    "action": "create_pull_request",
+    "details": {
+      "repoFullName": "aisatellite-org/autonomous-test-repo",
+      "title": "feat: initial architecture",
+      "head": "factory-branch",
+      "base": "main",
+      "mockMode": true
+    },
+    "signature": "1e9463ec228e4de62620aae5e231433b53fa8dfe6d1aeeb2000da459ed6c504c"
+  },
+  {
+    "logId": "audit-1793446427033-5b30c6e9",
+    "timestamp": "2026-10-31T11:33:47.034Z",
+    "actor": "github-manager",
+    "action": "create_release",
+    "details": {
+      "repoFullName": "aisatellite-org/autonomous-test-repo",
+      "tagName": "v1.0.0",
+      "releaseName": "Release v1.0.0",
+      "assetCount": 1,
+      "mockMode": true
+    },
+    "signature": "05bd78dcb90a49a73bd711f888d7e0c3c2241af89707c9338247dc4b5895e534"
+  },
+  {
+    "logId": "audit-1793446433742-c36a040f",
+    "timestamp": "2026-10-31T11:33:53.743Z",
+    "actor": "publishing-agent",
+    "action": "publish_to_astro",
+    "projectId": "bridge-project",
+    "details": {
+      "slug": "bridge-project",
+      "filePath": "C:\\Users\\user\\Downloads\\AI STERLITE\\data\\factory\\test-astro-content\\bridge-project.md",
+      "version": "1.0.0",
+      "approvedBy": "Lead Release Engineer"
+    },
+    "signature": "f251f08216a71872d1af981f0c669c973951cc3dfe8b08643f0362fa974e66b1"
   }
 ]

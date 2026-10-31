@@ -3,30 +3,30 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageContainer from '@/components/layout/PageContainer.astro';
 import SectionHeading from '@/components/layout/SectionHeading.astro';
 import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
-import GrowthControlCenter from '@/components/growth/GrowthControlCenter.tsx';
+import GlobalGrowthDashboard from '@/components/growth/GlobalGrowthDashboard';
 ---
 
 <BaseLayout
-  title="Growth Control Center — AI Satellite Admin"
-  description="Secured administration console for organic search intelligence, distribution queues, and community moderation."
+  title="Global Growth & Search Authority Command Center — AI Satellite Admin"
+  description="Secured administrative console for international search performance, technical SEO monitoring, topical authority, and developer adoption."
   noIndex={true}
 >
-  <PageContainer>
+  <PageContainer size="wide" class="py-10">
     <Breadcrumbs
       items={[
         { label: 'Home', href: '/' },
-        { label: 'Growth Control Center', href: '/growth-admin' },
+        { label: 'Growth Admin' },
       ]}
     />
 
     <SectionHeading
-      badge="Private Console"
-      title="Growth & Community Control Center"
-      description="Manage technical SEO audits, human-in-the-loop social distribution, consent-based subscriber digests, and community submissions."
+      badge="Global Growth & Authority Console"
+      title="International Search & Developer Adoption Engine"
+      description="Real-time telemetry and management across Google Search Console, Bing Webmaster, technical SEO health, topical clusters, original research, referring domains, AEO/GEO, and developer conversion analytics."
     />
 
     <div class="mt-8">
-      <GrowthControlCenter client:load />
+      <GlobalGrowthDashboard client:load />
     </div>
   </PageContainer>
 </BaseLayout>

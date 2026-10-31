@@ -4,7 +4,7 @@
     "contentSlug": "zapier-alternatives",
     "contentType": "free_alternative",
     "title": "Best Free and Open-Source Alternatives to Zapier",
-    "lastAuditedAt": "2026-10-31T11:17:35.864Z",
+    "lastAuditedAt": "2026-10-31T11:33:39.497Z",
     "daysStale": 0,
     "isOutdated": false,
     "evidenceUrls": [
@@ -13,6 +13,11 @@
     ],
     "proposedChanges": [],
     "changeHistory": [
+      {
+        "timestamp": "2026-10-31T11:33:39.497Z",
+        "editor": "LeadTechnicalEditor-Aisha",
+        "summary": "Verified activepieces and n8n community edition limitations against official docs."
+      },
       {
         "timestamp": "2026-10-31T11:17:35.864Z",
         "editor": "LeadTechnicalEditor-Aisha",
