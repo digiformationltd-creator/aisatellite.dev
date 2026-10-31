@@ -1,0 +1,48 @@
+{
+  "exportedAt": "2026-10-31T13:28:05.493Z",
+  "stats": {
+    "totalJobs": 0,
+    "completedJobs": 0,
+    "pausedAwaitingApproval": 0,
+    "runningJobs": 0,
+    "failedJobs": 0,
+    "evidenceItemsRecorded": 5,
+    "claimsVerified": 4,
+    "humanApprovalsGranted": 1,
+    "tokensConsumedTotal": 0,
+    "totalCostUsd": 0,
+    "monthlyBudgetUsd": 150,
+    "budgetUsedPercent": 0,
+    "capacityThroughputTarget": 11.1
+  },
+  "capacity": {
+    "totalTargetArticles": 1000,
+    "horizonDays": 90,
+    "requiredDailyThroughput": 11.1,
+    "estimatedTokenCostTotalUsd": 8.8,
+    "estimatedReviewHoursDaily": 2.8,
+    "potentialBottlenecks": [
+      "Human Editorial Review Queue: Reviewing 11.1 articles/day requires ~2.8 hours of daily dedicated editor time.",
+      "API Rate Limits: Batching research calls without backoff queues risks HTTP 429 throttling on GitHub / external APIs.",
+      "Regulated Content Audit: 100 UK/US legal and tax articles require specialized statutory verification.",
+      "Token Concurrency Spikes: Simultaneous drafting jobs could exceed Cloudflare Workers runtime memory limits."
+    ],
+    "mitigationStrategies": [
+      "Staggered Publishing Stages: Stage 1 starts at 11 articles/day allowing review queues to maintain steady velocity.",
+      "Automated Pre-Validation: TechnicalValidator and FactCheckingEngine pre-audit syntax and sources before human review.",
+      "Deterministic Fallback Provider: High-throughput local generation prevents external model downtime and runaway costs.",
+      "Circuit Breakers: CostGovernanceManager halts non-essential jobs if spend approaches the monthly budget."
+    ],
+    "feasibilityAssessment": "Fully Feasible with Governance"
+  },
+  "governance": {
+    "monthlyBudgetUsd": 150,
+    "currentSpendUsd": 0,
+    "tokensUsedTotal": 0,
+    "maxCostPerArticleUsd": 0.5,
+    "isBudgetExceeded": false,
+    "isPaused": false,
+    "alertThresholdPercent": 80,
+    "alertsSent": []
+  }
+}

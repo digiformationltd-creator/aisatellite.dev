@@ -1,0 +1,33 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import EditorialProductionDashboard from '@/components/admin/EditorialProductionDashboard.tsx';
+---
+
+<BaseLayout
+  title="Autonomous Editorial Production & Fact-Checking — AI Satellite Admin"
+  description="Private command center for multi-agent editorial production, evidence ledger, fact-checking, code validation, and human approval governance."
+  noIndex={true}
+>
+  <PageContainer>
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Unified Admin', href: '/admin' },
+        { label: 'Editorial Production', href: '/admin/editorial-production' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Phase 23 Autonomous Production Engine"
+      title="Editorial Production, Fact-Checking & Human Approval Command Center"
+      description="Autonomous multi-agent research, writing, technical validation, and strict human editorial gating across the 22-stage production lifecycle."
+    />
+
+    <div class="mt-8">
+      <EditorialProductionDashboard client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>
