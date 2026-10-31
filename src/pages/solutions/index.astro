@@ -1,0 +1,72 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import { solutionEngine } from '@/lib/solutions/solution-engine';
+import { ArrowRight, CheckCircle2 } from 'lucide-react';
+
+const solutions = solutionEngine.getAllSolutions();
+---
+
+<BaseLayout
+  title="Developer Solution Center — AI Satellite"
+  description="Verified technical solutions, deployment playbooks, and problem blueprints. Turn complex engineering tasks into actionable, source-grounded guides."
+>
+  <PageContainer size="wide" class="py-10">
+    <Breadcrumbs items={[{ label: 'Developer Solutions' }]} />
+
+    <SectionHeading
+      badge="Problem Blueprints"
+      title="Developer Solution Center"
+      description="Every development challenge deserves a smarter solution. Step-by-step engineering blueprints with verified open-source tooling, verification checklists, and source evidence."
+    />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
+      {solutions.map((sol) => (
+        <div class="p-6 rounded-2xl bg-space-900/60 backdrop-blur-xl border border-white/5 hover:border-cosmic-cyan/30 hover:shadow-orbital-glass transition-all duration-300 flex flex-col justify-between">
+          <div class="space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-mono bg-cosmic-cyan/15 text-cosmic-cyan border border-cosmic-cyan/20 uppercase">
+                {sol.difficulty}
+              </span>
+              <span class="text-xs text-text-muted font-mono flex items-center gap-1">
+                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" />
+                Verified {sol.lastVerified}
+              </span>
+            </div>
+
+            <h3 class="text-lg font-bold text-cosmic-white tracking-wide">
+              {sol.problem}
+            </h3>
+
+            <p class="text-xs text-text-secondary leading-relaxed">
+              {sol.recommendedApproach}
+            </p>
+
+            <div class="flex flex-wrap gap-2 pt-2">
+              {sol.requiredTools.map((tool) => (
+                <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-space-950 text-text-muted border border-white/5">
+                  {tool.name}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          <div class="mt-6 pt-4 border-t border-white/5 flex items-center justify-between">
+            <span class="text-xs text-text-muted font-mono">
+              {sol.implementationSteps.length} Implementation Steps
+            </span>
+            <a
+              href={`/solutions/${sol.slug}`}
+              class="inline-flex items-center gap-1 text-xs font-semibold text-cosmic-cyan hover:underline"
+            >
+              <span>View Blueprint</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </a>
+          </div>
+        </div>
+      ))}
+    </div>
+  </PageContainer>
+</BaseLayout>

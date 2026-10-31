@@ -1,0 +1,82 @@
+[
+  {
+    "id": "prompt-fullstack-architect",
+    "slug": "fullstack-architect-master",
+    "title": "Principal Full-Stack Systems Architect",
+    "category": "AI Coding",
+    "format": "master",
+    "description": "Autonomous system architect instructions for surgical, production-ready full-stack implementations with zero fluff.",
+    "targetModel": "Claude 3.5 Sonnet / Claude 3.7 / GPT-4o",
+    "systemPrompt": "You are a Principal Software Architect. Prioritize reliability, explicit typing, security best practices, and surgical code updates.",
+    "templateText": "Project: [PROJECT_NAME]\nFramework: [FRAMEWORK]\nLanguage: [PROGRAMMING_LANGUAGE]\nTarget Platform: [TARGET_PLATFORM]\nDesign Style: [DESIGN_STYLE]\nSecurity Tier: [SECURITY_LEVEL]\nPerformance Target: [PERFORMANCE_TARGET]\n\nTask: Architect and implement the core engine for [FEATURE_REQUIREMENTS].\nEnsure the final output is formatted as [OUTPUT_FORMAT] with comprehensive typing and unit test coverage.",
+    "variables": [
+      { "name": "[PROJECT_NAME]", "label": "Project Name", "defaultValue": "AI Satellite Engine", "description": "Name of the application or service" },
+      { "name": "[FRAMEWORK]", "label": "Framework", "defaultValue": "Astro + React Islands", "description": "Target framework" },
+      { "name": "[PROGRAMMING_LANGUAGE]", "label": "Language", "defaultValue": "TypeScript", "description": "Primary programming language" },
+      { "name": "[TARGET_PLATFORM]", "label": "Platform", "defaultValue": "Cloudflare Pages Edge", "description": "Target deployment environment" },
+      { "name": "[DESIGN_STYLE]", "label": "Design Style", "defaultValue": "Orbital Liquid Glass", "description": "Visual and UI aesthetic" },
+      { "name": "[FEATURE_REQUIREMENTS]", "label": "Requirements", "defaultValue": "Hybrid search with deterministic intent classification", "description": "Key capabilities to build" },
+      { "name": "[SECURITY_LEVEL]", "label": "Security Level", "defaultValue": "Strict Enterprise with Rate Limiting", "description": "Security posture" },
+      { "name": "[PERFORMANCE_TARGET]", "label": "Performance", "defaultValue": "Sub-50ms search latency, 60fps WebGL", "description": "SLA or latency target" },
+      { "name": "[OUTPUT_FORMAT]", "label": "Output Format", "defaultValue": "Production TypeScript with Vitest tests", "description": "Requested code structure" }
+    ],
+    "exampleUsage": "Use this master prompt to guide AI terminal agents like Claude Code or Cursor through building production features.",
+    "expectedOutput": "End-to-end typed modules with clean error handling, schema validations, and regression unit tests.",
+    "limitations": ["Requires modern LLM capable of complex multi-file reasoning", "May vary based on context window size"],
+    "compatibleEnvironments": ["Claude Code", "Cursor", "Windsurf", "Gemini CLI", "VS Code Copilot"],
+    "version": "2.4.0",
+    "lastVerified": "2026-10-31"
+  },
+  {
+    "id": "prompt-mcp-server-builder",
+    "slug": "mcp-server-builder",
+    "title": "Model Context Protocol (MCP) Server Engineer",
+    "category": "MCP Servers",
+    "format": "agent",
+    "description": "Specialized prompt to build robust, schema-compliant MCP tools, resources, and prompts over stdio or SSE transports.",
+    "targetModel": "Universal LLM",
+    "systemPrompt": "You are an MCP protocol specialist. Implement type-safe JSON-RPC 2.0 endpoints adhering to the official Model Context Protocol specification.",
+    "templateText": "Build a production-grade MCP server for [PROJECT_NAME] using [PROGRAMMING_LANGUAGE] and [FRAMEWORK].\nFeature Requirements: [FEATURE_REQUIREMENTS]\nSecurity Level: [SECURITY_LEVEL]\nOutput Format: [OUTPUT_FORMAT]",
+    "variables": [
+      { "name": "[PROJECT_NAME]", "label": "Server Name", "defaultValue": "sqlite-mcp-server", "description": "MCP server package name" },
+      { "name": "[PROGRAMMING_LANGUAGE]", "label": "Language", "defaultValue": "TypeScript", "description": "Implementation language" },
+      { "name": "[FRAMEWORK]", "label": "Framework / SDK", "defaultValue": "@modelcontextprotocol/sdk", "description": "MCP SDK version" },
+      { "name": "[FEATURE_REQUIREMENTS]", "label": "Features", "defaultValue": "Safe parameterized SQLite query execution and schema introspection", "description": "Tools and resources provided" },
+      { "name": "[SECURITY_LEVEL]", "label": "Security Level", "defaultValue": "Read-only mode enforcement and path traversal prevention", "description": "Security sandbox restrictions" },
+      { "name": "[OUTPUT_FORMAT]", "label": "Output Format", "defaultValue": "Single executable file with package.json and test suite", "description": "Delivery package structure" }
+    ],
+    "exampleUsage": "Feed this prompt to your coding assistant to scaffold a new MCP server in under 2 minutes.",
+    "expectedOutput": "Complete MCP server implementation with tool schema registrations and error handling.",
+    "limitations": ["Client must support Model Context Protocol (e.g. Claude Desktop, Cursor)"],
+    "compatibleEnvironments": ["Claude Desktop", "Cursor", "Antigravity", "Node.js 20+"],
+    "version": "1.2.0",
+    "lastVerified": "2026-10-31"
+  },
+  {
+    "id": "prompt-threejs-shader-cyber",
+    "slug": "threejs-shader-cyber",
+    "title": "Three.js & GLSL Cosmic Shader Specialist",
+    "category": "Three.js",
+    "format": "template",
+    "description": "Generates 60fps GPU-accelerated GLSL vertex and fragment shaders with responsive aspect ratio and theme bindings.",
+    "targetModel": "Claude 3.5 Sonnet / GPT-4o",
+    "systemPrompt": "You are an elite creative developer and GLSL shader artist. Write clean Three.js code with proper GPU buffer disposal and prefers-reduced-motion fallbacks.",
+    "templateText": "Create a 3D WebGL scene in [PROJECT_NAME] using [FRAMEWORK] and [PROGRAMMING_LANGUAGE].\nVisual Aesthetic: [DESIGN_STYLE]\nTarget Platform: [TARGET_PLATFORM]\nPerformance Target: [PERFORMANCE_TARGET]\nRequirements: [FEATURE_REQUIREMENTS]\nDeliverable: [OUTPUT_FORMAT]",
+    "variables": [
+      { "name": "[PROJECT_NAME]", "label": "Scene Name", "defaultValue": "Orbital Radar Visualizer", "description": "Component or page name" },
+      { "name": "[FRAMEWORK]", "label": "Framework", "defaultValue": "Three.js (Vanilla WebGL)", "description": "3D library" },
+      { "name": "[PROGRAMMING_LANGUAGE]", "label": "Language", "defaultValue": "TypeScript + GLSL", "description": "Code languages" },
+      { "name": "[DESIGN_STYLE]", "label": "Design Style", "defaultValue": "Dark Cosmic Space with Cyan Glow Lines", "description": "Visual theme" },
+      { "name": "[TARGET_PLATFORM]", "label": "Platform", "defaultValue": "Modern Desktop & Mobile Browsers", "description": "Target clients" },
+      { "name": "[PERFORMANCE_TARGET]", "label": "Performance", "defaultValue": "Smooth 60fps with automatic pause when tab is inactive", "description": "Frame rate target" },
+      { "name": "[FEATURE_REQUIREMENTS]", "label": "Requirements", "defaultValue": "Interactive rotating radar sweep with pulsing technology node markers", "description": "Interactive requirements" },
+      { "name": "[OUTPUT_FORMAT]", "label": "Output Format", "defaultValue": "Self-contained Astro client script with clean cleanup hook", "description": "Output deliverable" }
+    ],
+    "exampleUsage": "Create customized 3D background effects or interactive visualizations for high-end web applications.",
+    "expectedOutput": "Full Three.js lifecycle code with requestAnimationFrame loop and resize handlers.",
+    "limitations": ["Requires WebGL 2.0 compatible hardware", "Reduced motion media query must disable active spin"],
+    "compatibleEnvironments": ["Astro", "React Three Fiber", "Vanilla Three.js", "Vite"],
+    "version": "1.8.0",
+    "lastVerified": "2026-10-31"
+  }
+]

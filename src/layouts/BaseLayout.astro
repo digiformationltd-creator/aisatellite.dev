@@ -11,6 +11,7 @@ interface Props {
   type?: 'website' | 'article';
   image?: string;
   jsonLd?: Record<string, any>;
+  noIndex?: boolean;
 }
 
 const {
@@ -20,6 +21,7 @@ const {
   type = 'website',
   image = 'https://aisatellite.pages.dev/og-default.png',
   jsonLd,
+  noIndex = false,
 } = Astro.props;
 
 const siteTitle = title.includes('AI Satellite') ? title : `${title} | AI Satellite`;
@@ -48,6 +50,7 @@ const defaultJsonLd = {
     <link rel="canonical" href={canonical} />
 
     <!-- Primary Meta Tags -->
+    {noIndex && <meta name="robots" content="noindex, nofollow" />}
     <title>{siteTitle}</title>
     <meta name="title" content={siteTitle} />
     <meta name="description" content={description} />

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cat-ai-models",
+    "slug": "ai-models",
+    "title": "AI Models",
+    "description": "Open weights, local foundation models, and specialized inference checkpoints.",
+    "cluster": "ai",
+    "resourceCount": 12,
+    "iconName": "Cpu"
+  },
+  {
+    "id": "cat-ai-coding-assistants",
+    "slug": "ai-coding-assistants",
+    "title": "AI Coding Assistants",
+    "description": "Code generation, terminal pairs, and open-source IDE assistants.",
+    "cluster": "ai",
+    "resourceCount": 8,
+    "iconName": "Code"
+  },
+  {
+    "id": "cat-ai-image-tools",
+    "slug": "ai-image-tools",
+    "title": "AI Image Tools",
+    "description": "Local diffusion runtimes, prompt studios, and canvas generators.",
+    "cluster": "ai",
+    "resourceCount": 6,
+    "iconName": "Image"
+  },
+  {
+    "id": "cat-ai-video-tools",
+    "slug": "ai-video-tools",
+    "title": "AI Video Tools",
+    "description": "Video synthesis models, animation engines, and automated editing.",
+    "cluster": "ai",
+    "resourceCount": 5,
+    "iconName": "Video"
+  },
+  {
+    "id": "cat-ai-audio-tools",
+    "slug": "ai-audio-tools",
+    "title": "AI Audio Tools",
+    "description": "Text-to-speech, whisper transcription, and local voice synthesis.",
+    "cluster": "ai",
+    "resourceCount": 5,
+    "iconName": "Mic"
+  },
+  {
+    "id": "cat-ai-agents",
+    "slug": "ai-agents",
+    "title": "AI Agents",
+    "description": "Autonomous multi-agent swarms, self-directed research, and workflows.",
+    "cluster": "ai",
+    "resourceCount": 9,
+    "iconName": "Bot"
+  },
+  {
+    "id": "cat-mcp-servers",
+    "slug": "mcp-servers",
+    "title": "MCP Servers",
+    "description": "Standardized Model Context Protocol servers connecting LLMs to external systems.",
+    "cluster": "development",
+    "resourceCount": 14,
+    "iconName": "Layers"
+  },
+  {
+    "id": "cat-developer-tools",
+    "slug": "developer-tools",
+    "title": "Developer Tools",
+    "description": "CLI utilities, compiler toolchains, debuggers, and profiling suites.",
+    "cluster": "development",
+    "resourceCount": 18,
+    "iconName": "Terminal"
+  },
+  {
+    "id": "cat-open-source-software",
+    "slug": "open-source-software",
+    "title": "Open-Source Software",
+    "description": "Permissively licensed and copyleft community-maintained software projects.",
+    "cluster": "open_source",
+    "resourceCount": 24,
+    "iconName": "GitBranch"
+  },
+  {
+    "id": "cat-free-saas-alternatives",
+    "slug": "free-saas-alternatives",
+    "title": "Free SaaS Alternatives",
+    "description": "Zero-lock-in replacements for expensive commercial subscription software.",
+    "cluster": "open_source",
+    "resourceCount": 20,
+    "iconName": "Repeat"
+  },
+  {
+    "id": "cat-self-hosted-platforms",
+    "slug": "self-hosted-platforms",
+    "title": "Self-Hosted Platforms",
+    "description": "Deployable on private VPS, home labs, Docker, and bare-metal servers.",
+    "cluster": "infrastructure",
+    "resourceCount": 16,
+    "iconName": "Server"
+  },
+  {
+    "id": "cat-cloud-infrastructure",
+    "slug": "cloud-infrastructure",
+    "title": "Cloud Infrastructure",
+    "description": "Edge compute, static hosting, DNS, and serverless runtime platforms.",
+    "cluster": "infrastructure",
+    "resourceCount": 10,
+    "iconName": "Cloud"
+  },
+  {
+    "id": "cat-databases",
+    "slug": "databases",
+    "title": "Databases",
+    "description": "Relational, document, vector, time-series, and embedded data stores.",
+    "cluster": "infrastructure",
+    "resourceCount": 15,
+    "iconName": "Database"
+  },
+  {
+    "id": "cat-automation",
+    "slug": "automation",
+    "title": "Automation",
+    "description": "Self-hosted event triggers, webhook routers, and workflow orchestrators.",
+    "cluster": "automation",
+    "resourceCount": 11,
+    "iconName": "Zap"
+  },
+  {
+    "id": "cat-cybersecurity-tools",
+    "slug": "cybersecurity-tools",
+    "title": "Cybersecurity Tools",
+    "description": "Vulnerability scanners, static analyzers, and identity providers.",
+    "cluster": "security",
+    "resourceCount": 9,
+    "iconName": "Shield"
+  },
+  {
+    "id": "cat-productivity-software",
+    "slug": "productivity-software",
+    "title": "Productivity Software",
+    "description": "Notes, calendars, collaborative suites, and task management.",
+    "cluster": "business",
+    "resourceCount": 12,
+    "iconName": "CheckSquare"
+  },
+  {
+    "id": "cat-design-tools",
+    "slug": "design-tools",
+    "title": "Design Tools",
+    "description": "Vector illustration, UI prototyping, 3D modeling, and raster editors.",
+    "cluster": "design",
+    "resourceCount": 8,
+    "iconName": "PenTool"
+  },
+  {
+    "id": "cat-business-software",
+    "slug": "business-software",
+    "title": "Business Software",
+    "description": "Invoicing, accounting, CRM, customer support, and ERP systems.",
+    "cluster": "business",
+    "resourceCount": 7,
+    "iconName": "Briefcase"
+  },
+  {
+    "id": "cat-threejs-resources",
+    "slug": "threejs-resources",
+    "title": "Three.js Resources",
+    "description": "WebGL shaders, React Three Fiber components, particle simulations, and 3D scenes.",
+    "cluster": "design",
+    "resourceCount": 10,
+    "iconName": "Box"
+  },
+  {
+    "id": "cat-developer-learning-resources",
+    "slug": "developer-learning-resources",
+    "title": "Developer Learning Resources",
+    "description": "Interactive playbooks, system architecture roadmaps, and tutorials.",
+    "cluster": "development",
+    "resourceCount": 13,
+    "iconName": "BookOpen"
+  }
+]

@@ -1,0 +1,31 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import PromptBuilder from '@/components/prompts/PromptBuilder';
+---
+
+<BaseLayout
+  title="Interactive AI Prompt Builder — AI Satellite"
+  description="Generate production-ready master prompts with dynamic project parameters for Claude Code, Cursor, Windsurf, and autonomous AI coding agents."
+>
+  <PageContainer size="wide" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Prompts', href: '/prompts' },
+        { label: 'Prompt Builder' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Prompt Galaxy"
+      title="Interactive AI Prompt Builder"
+      description="Select verified master templates, configure dynamic parameters, and generate surgical instructions for AI coding assistants and autonomous swarms."
+    />
+
+    <div class="my-8">
+      <PromptBuilder client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>

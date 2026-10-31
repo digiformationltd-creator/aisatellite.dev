@@ -1,0 +1,103 @@
+[
+  {
+    "id": "sol-free-customer-support",
+    "slug": "free-customer-support-system",
+    "problem": "I need to build a free customer support system without monthly SaaS subscriptions.",
+    "recommendedApproach": "Deploy Chatwoot or Papercups connected to self-hosted PostgreSQL, using Cloudflare free edge SSL and Webhooks for email/live chat ticketing.",
+    "difficulty": "Intermediate",
+    "requiredTools": [
+      { "name": "Chatwoot", "url": "https://www.chatwoot.com", "openSource": true },
+      { "name": "PostgreSQL", "url": "https://www.postgresql.org", "openSource": true },
+      { "name": "Docker", "url": "https://www.docker.com", "openSource": true }
+    ],
+    "implementationSteps": [
+      {
+        "step": 1,
+        "title": "Provision VPS & Docker Environment",
+        "description": "Launch a low-cost VPS (e.g. Hetzner Cloud 4GB RAM) with Ubuntu 24.04 and install Docker Engine.",
+        "codeSnippet": "curl -fsSL https://get.docker.com -o get-docker.sh && sh get-docker.sh",
+        "language": "bash"
+      },
+      {
+        "step": 2,
+        "title": "Configure Chatwoot Docker Compose",
+        "description": "Download the official Chatwoot production compose manifest and configure your domain and SMTP credentials.",
+        "codeSnippet": "wget -O docker-compose.yaml https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.production.yaml\ndocker compose up -d",
+        "language": "bash"
+      },
+      {
+        "step": 3,
+        "title": "Embed Live Chat Widget into Web Application",
+        "description": "Add the lightweight async widget script into your website HTML.",
+        "codeSnippet": "<script>\n  (function(d,t) {\n    var BASE_URL=\"https://support.yourdomain.com\";\n    var g=d.createElement(t),s=d.getElementsByTagName(t)[0];\n    g.src=BASE_URL+\"/packs/js/sdk.js\";\n    g.defer = true;\n    g.async = true;\n    s.parentNode.insertBefore(g,s);\n  })(document,\"script\");\n</script>",
+        "language": "html"
+      }
+    ],
+    "verificationSteps": [
+      "Send a test message through the live chat widget and confirm arrival in Chatwoot dashboard.",
+      "Verify inbound SMTP routing or SendGrid free tier webhook delivery.",
+      "Inspect TLS certificate validity over HTTPS."
+    ],
+    "commonErrors": [
+      {
+        "error": "Redis connection timeout",
+        "resolution": "Ensure the Redis container is attached to the same Docker bridge network as the Rails application."
+      },
+      {
+        "error": "Emails failing with 550 Relay Access Denied",
+        "resolution": "Verify DNS SPF and DKIM records for your sending domain."
+      }
+    ],
+    "alternatives": ["Papercups", "FreeScout", "Helpy"],
+    "sources": [
+      { "title": "Chatwoot Official Self-Hosting Guide", "url": "https://www.chatwoot.com/docs/self-hosted" },
+      { "title": "Chatwoot GitHub Repository", "url": "https://github.com/chatwoot/chatwoot" }
+    ],
+    "lastVerified": "2026-10-31"
+  },
+  {
+    "id": "sol-local-rag-ai-search",
+    "slug": "local-rag-ai-search-ollama-chroma",
+    "problem": "I need to build an offline document search and retrieval system without sending data to OpenAI or paid vector clouds.",
+    "recommendedApproach": "Use Ollama for local embeddings (nomic-embed-text) and generation (mistral / llama3) paired with an embedded Chroma vector store.",
+    "difficulty": "Intermediate",
+    "requiredTools": [
+      { "name": "Ollama", "url": "https://ollama.com", "openSource": true },
+      { "name": "ChromaDB", "url": "https://www.trychroma.com", "openSource": true },
+      { "name": "Python 3.11+", "url": "https://www.python.org", "openSource": true }
+    ],
+    "implementationSteps": [
+      {
+        "step": 1,
+        "title": "Install and Run Ollama Models",
+        "description": "Download local embedding and inference models directly to your machine.",
+        "codeSnippet": "ollama pull nomic-embed-text\nollama pull llama3:8b",
+        "language": "bash"
+      },
+      {
+        "step": 2,
+        "title": "Index Documents in Local Chroma",
+        "description": "Chunk markdown and code files, extract embeddings, and persist to local SQLite vector store.",
+        "codeSnippet": "import chromadb\nfrom chromadb.utils import embedding_functions\n\nclient = chromadb.PersistentClient(path='./chroma_db')\ncollection = client.get_or_create_collection('docs')\ncollection.add(documents=['Sample document text'], ids=['doc_1'])",
+        "language": "python"
+      }
+    ],
+    "verificationSteps": [
+      "Perform vector query with local query text.",
+      "Check that zero outbound HTTP calls occur outside localhost.",
+      "Verify query response latency on CPU vs GPU."
+    ],
+    "commonErrors": [
+      {
+        "error": "Out of memory during model inference",
+        "resolution": "Switch from a 70B model to an 8B quantized Q4_K_M model or increase swap space."
+      }
+    ],
+    "alternatives": ["Qdrant Local", "pgvector in PostgreSQL"],
+    "sources": [
+      { "title": "Ollama Documentation", "url": "https://github.com/ollama/ollama/tree/main/docs" },
+      { "title": "ChromaDB Python API Reference", "url": "https://docs.trychroma.com" }
+    ],
+    "lastVerified": "2026-10-31"
+  }
+]

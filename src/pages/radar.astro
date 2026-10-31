@@ -1,0 +1,26 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import TechnologyRadarView from '@/components/radar/TechnologyRadarView';
+---
+
+<BaseLayout
+  title="Global Technology Radar — AI Satellite"
+  description="Explore the global technology universe with our interactive 3D Orbital Radar. Discover verified open-source tools, AI models, and infrastructure alternatives."
+>
+  <PageContainer size="wide" class="py-10">
+    <Breadcrumbs items={[{ label: 'Technology Radar' }]} />
+
+    <SectionHeading
+      badge="Orbital Telemetry"
+      title="Global Technology Radar"
+      description="One Satellite. The Entire World of Technology. Interactive 3D radar scanning verified open-source software, AI capabilities, and developer platforms."
+    />
+
+    <div class="my-8">
+      <TechnologyRadarView client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>

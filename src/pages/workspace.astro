@@ -1,0 +1,27 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import DeveloperWorkspace from '@/components/workspace/DeveloperWorkspace';
+---
+
+<BaseLayout
+  title="Personalized Developer Workspace — AI Satellite"
+  description="Client-side private developer workspace. Manage saved master prompts, bookmarks, and technology stacks with 100% zero-telemetry local storage."
+  noIndex={true}
+>
+  <PageContainer size="wide" class="py-10">
+    <Breadcrumbs items={[{ label: 'Developer Workspace' }]} />
+
+    <SectionHeading
+      badge="Private Sandbox"
+      title="Personalized Developer Workspace"
+      description="Zero telemetry. Zero account required. Your saved blueprints, preferences, and prompt collections reside exclusively within your local browser storage."
+    />
+
+    <div class="my-8">
+      <DeveloperWorkspace client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>
