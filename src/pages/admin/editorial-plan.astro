@@ -1,0 +1,50 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ResearchOperationsDashboard from '@/components/admin/ResearchOperationsDashboard.tsx';
+import { editorialDatabase } from '@/lib/editorial/database';
+
+// Trigger generation and exports
+editorialDatabase.exportAll();
+
+const initialBriefs = editorialDatabase.getBriefs();
+const initialClusters = editorialDatabase.getTopicClusters();
+const initialMappings = editorialDatabase.getCommercialMappings();
+const initialOwnerProjects = editorialDatabase.getOwnerProjects();
+const initialStats = editorialDatabase.getStats();
+---
+
+<BaseLayout
+  title="1,000-Blog Editorial Research & Strategy — AI Satellite Admin"
+  description="Private research operations console for the 1,000-article publishing masterplan, keyword intelligence, topical clusters, and 90-day publishing calendar."
+  noIndex={true}
+>
+  <PageContainer>
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Unified Admin', href: '/admin' },
+        { label: 'Editorial Masterplan', href: '/admin/editorial-plan' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Phase 22 Global Editorial Strategy"
+      title="1,000-Blog Global Keyword Intelligence & Editorial Masterplan"
+      description="Consolidated research console managing 1,000 deduplicated article briefs, 90-day publishing calendar, topic cluster architecture, and verified commercial service relevance matrices."
+    />
+
+    <div class="mt-8">
+      <ResearchOperationsDashboard
+        client:load
+        initialBriefs={initialBriefs}
+        initialClusters={initialClusters}
+        initialMappings={initialMappings}
+        initialOwnerProjects={initialOwnerProjects}
+        initialStats={initialStats}
+      />
+    </div>
+  </PageContainer>
+</BaseLayout>
