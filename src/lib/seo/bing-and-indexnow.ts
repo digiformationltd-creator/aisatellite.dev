@@ -39,8 +39,12 @@ export class BingAndIndexNowClient {
     for (const url of urls) {
       try {
         const parsed = new URL(url);
-        // Only submit canonical production origin URLs
-        if (parsed.origin !== siteConfig.canonicalOrigin) {
+        // Only submit canonical production origin URLs (or accepted transitional aliases)
+        const isCanonical =
+          parsed.origin === siteConfig.canonicalOrigin ||
+          parsed.origin === 'https://aisatellite.dev' ||
+          parsed.origin === 'https://aisatellite.pages.dev';
+        if (!isCanonical) {
           rejectionReasons.push(`URL ${url} does not match canonical origin ${siteConfig.canonicalOrigin}`);
           continue;
         }

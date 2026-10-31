@@ -1,0 +1,42 @@
+[
+  {
+    "id": "SEC-SECRETS-1793439841010-gszv",
+    "scanType": "secret_exposure",
+    "severity": "critical",
+    "target": "Workspace source code",
+    "description": "Potential high-entropy secret detected matching pattern: OpenAI API Key",
+    "remediation": "Immediately revoke credential, purge from git history, and migrate to environment variables.",
+    "status": "open",
+    "detectedAt": "2026-10-31T09:44:01.010Z"
+  },
+  {
+    "id": "SEC-SECRETS-1793439913057-qa3i",
+    "scanType": "secret_exposure",
+    "severity": "critical",
+    "target": "Workspace source code",
+    "description": "Potential high-entropy secret detected matching pattern: OpenAI API Key",
+    "remediation": "Immediately revoke credential, purge from git history, and migrate to environment variables.",
+    "status": "open",
+    "detectedAt": "2026-10-31T09:45:13.057Z"
+  },
+  {
+    "id": "SEC-SECRETS-1793439951797-tpnz",
+    "scanType": "secret_exposure",
+    "severity": "critical",
+    "target": "Workspace source code",
+    "description": "Potential high-entropy secret detected matching pattern: OpenAI API Key",
+    "remediation": "Immediately revoke credential, purge from git history, and migrate to environment variables.",
+    "status": "open",
+    "detectedAt": "2026-10-31T09:45:51.797Z"
+  },
+  {
+    "id": "SEC-SECRETS-1793439967925-hjvs",
+    "scanType": "secret_exposure",
+    "severity": "critical",
+    "target": "Workspace source code",
+    "description": "Potential high-entropy secret detected matching pattern: OpenAI API Key",
+    "remediation": "Immediately revoke credential, purge from git history, and migrate to environment variables.",
+    "status": "open",
+    "detectedAt": "2026-10-31T09:46:07.925Z"
+  }
+]

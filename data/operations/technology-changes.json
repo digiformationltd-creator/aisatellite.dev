@@ -1,0 +1,142 @@
+[
+  {
+    "id": "CHG-MVW7RXR1-QP30",
+    "resourceId": "minio",
+    "resourceName": "MinIO",
+    "changeType": "documentation_update",
+    "sourceUrl": "https://github.com/minio/minio/releases",
+    "detectedAt": "2026-10-31T09:44:00.925Z",
+    "summary": "Updated S3 multipart upload API documentation",
+    "requiresReview": false,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7RXR3-7S47",
+    "resourceId": "redis",
+    "resourceName": "Redis",
+    "changeType": "license_change",
+    "sourceUrl": "https://redis.io/legal/licenses",
+    "detectedAt": "2026-10-31T09:44:00.927Z",
+    "summary": "Redis announced transition from BSD-3 to RSALv2/SSPL dual license",
+    "previousValue": "BSD-3-Clause",
+    "newValue": "RSALv2",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7RXR5-78L9",
+    "resourceId": "heroku",
+    "resourceName": "Heroku",
+    "changeType": "free_tier_change",
+    "sourceUrl": "https://blog.heroku.com/next-chapter",
+    "detectedAt": "2026-10-31T09:44:00.929Z",
+    "summary": "Heroku discontinued free dynos and free Postgres plans",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7THD5-PHKT",
+    "resourceId": "minio",
+    "resourceName": "MinIO",
+    "changeType": "documentation_update",
+    "sourceUrl": "https://github.com/minio/minio/releases",
+    "detectedAt": "2026-10-31T09:45:13.001Z",
+    "summary": "Updated S3 multipart upload API documentation",
+    "requiresReview": false,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7THD7-Z7DJ",
+    "resourceId": "redis",
+    "resourceName": "Redis",
+    "changeType": "license_change",
+    "sourceUrl": "https://redis.io/legal/licenses",
+    "detectedAt": "2026-10-31T09:45:13.003Z",
+    "summary": "Redis announced transition from BSD-3 to RSALv2/SSPL dual license",
+    "previousValue": "BSD-3-Clause",
+    "newValue": "RSALv2",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7THD9-FUXF",
+    "resourceId": "heroku",
+    "resourceName": "Heroku",
+    "changeType": "free_tier_change",
+    "sourceUrl": "https://blog.heroku.com/next-chapter",
+    "detectedAt": "2026-10-31T09:45:13.005Z",
+    "summary": "Heroku discontinued free dynos and free Postgres plans",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7UB9A-GRQZ",
+    "resourceId": "minio",
+    "resourceName": "MinIO",
+    "changeType": "documentation_update",
+    "sourceUrl": "https://github.com/minio/minio/releases",
+    "detectedAt": "2026-10-31T09:45:51.742Z",
+    "summary": "Updated S3 multipart upload API documentation",
+    "requiresReview": false,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7UB9C-ZTR1",
+    "resourceId": "redis",
+    "resourceName": "Redis",
+    "changeType": "license_change",
+    "sourceUrl": "https://redis.io/legal/licenses",
+    "detectedAt": "2026-10-31T09:45:51.744Z",
+    "summary": "Redis announced transition from BSD-3 to RSALv2/SSPL dual license",
+    "previousValue": "BSD-3-Clause",
+    "newValue": "RSALv2",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7UB9E-AGH4",
+    "resourceId": "heroku",
+    "resourceName": "Heroku",
+    "changeType": "free_tier_change",
+    "sourceUrl": "https://blog.heroku.com/next-chapter",
+    "detectedAt": "2026-10-31T09:45:51.746Z",
+    "summary": "Heroku discontinued free dynos and free Postgres plans",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7UNPE-CDHO",
+    "resourceId": "minio",
+    "resourceName": "MinIO",
+    "changeType": "documentation_update",
+    "sourceUrl": "https://github.com/minio/minio/releases",
+    "detectedAt": "2026-10-31T09:46:07.874Z",
+    "summary": "Updated S3 multipart upload API documentation",
+    "requiresReview": false,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7UNPF-22ZN",
+    "resourceId": "redis",
+    "resourceName": "Redis",
+    "changeType": "license_change",
+    "sourceUrl": "https://redis.io/legal/licenses",
+    "detectedAt": "2026-10-31T09:46:07.875Z",
+    "summary": "Redis announced transition from BSD-3 to RSALv2/SSPL dual license",
+    "previousValue": "BSD-3-Clause",
+    "newValue": "RSALv2",
+    "requiresReview": true,
+    "isResolved": false
+  },
+  {
+    "id": "CHG-MVW7UNPH-XFXZ",
+    "resourceId": "heroku",
+    "resourceName": "Heroku",
+    "changeType": "free_tier_change",
+    "sourceUrl": "https://blog.heroku.com/next-chapter",
+    "detectedAt": "2026-10-31T09:46:07.877Z",
+    "summary": "Heroku discontinued free dynos and free Postgres plans",
+    "requiresReview": true,
+    "isResolved": false
+  }
+]

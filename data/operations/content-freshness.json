@@ -1,0 +1,79 @@
+[
+  {
+    "id": "cnt-zapier-alternatives",
+    "contentSlug": "zapier-alternatives",
+    "contentType": "free_alternative",
+    "title": "Best Free and Open-Source Alternatives to Zapier",
+    "lastAuditedAt": "2026-10-31T09:46:07.885Z",
+    "daysStale": 0,
+    "isOutdated": false,
+    "evidenceUrls": [
+      "https://n8n.io/pricing",
+      "https://github.com/activepieces/activepieces"
+    ],
+    "proposedChanges": [],
+    "changeHistory": [
+      {
+        "timestamp": "2026-10-31T09:46:07.885Z",
+        "editor": "LeadTechnicalEditor-Aisha",
+        "summary": "Verified activepieces and n8n community edition limitations against official docs."
+      },
+      {
+        "timestamp": "2026-10-31T09:45:51.754Z",
+        "editor": "LeadTechnicalEditor-Aisha",
+        "summary": "Verified activepieces and n8n community edition limitations against official docs."
+      },
+      {
+        "timestamp": "2026-10-31T09:45:13.013Z",
+        "editor": "LeadTechnicalEditor-Aisha",
+        "summary": "Verified activepieces and n8n community edition limitations against official docs."
+      },
+      {
+        "timestamp": "2026-09-16T09:44:00.467Z",
+        "editor": "LeadTechnicalEditor-Sarah",
+        "summary": "Initial comprehensive comparison matrix verified with primary sources."
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "cnt-threejs-radar-tutorial",
+    "contentSlug": "building-orbital-3d-radar-threejs-astro",
+    "contentType": "coding_tutorial",
+    "title": "Building an Orbital 3D Technology Radar with Three.js and Astro",
+    "lastAuditedAt": "2026-10-21T09:44:00.467Z",
+    "daysStale": 10,
+    "isOutdated": false,
+    "evidenceUrls": [
+      "https://threejs.org/docs/"
+    ],
+    "proposedChanges": [],
+    "changeHistory": [
+      {
+        "timestamp": "2026-10-21T09:44:00.467Z",
+        "editor": "LeadTechnicalEditor-Marcus",
+        "summary": "Verified Three.js r174 WebGL context restoration tests."
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "cnt-local-rag-solution",
+    "contentSlug": "local-rag-ai-search-ollama-chroma",
+    "contentType": "automation_workflow",
+    "title": "Completely Offline Local RAG AI Search Architecture",
+    "lastAuditedAt": "2026-08-27T09:44:00.467Z",
+    "daysStale": 65,
+    "isOutdated": true,
+    "evidenceUrls": [
+      "https://ollama.com/library",
+      "https://docs.trychroma.com/"
+    ],
+    "proposedChanges": [
+      "Verify Ollama 0.5 context window parameters",
+      "Add Python 3.12 compatibility notes"
+    ],
+    "changeHistory": [],
+    "status": "proposal_pending"
+  }
+]

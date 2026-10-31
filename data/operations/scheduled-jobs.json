@@ -1,0 +1,50 @@
+[
+  {
+    "id": "job-health-ping",
+    "name": "Lightweight Health & Route Availability Ping",
+    "cadence": "few_minutes",
+    "description": "Pings critical public endpoints and monitors edge response latencies.",
+    "nextRunDue": "2026-10-31T09:49:00.659Z",
+    "status": "failed",
+    "runCount": 288,
+    "failureCount": 0,
+    "maxRetries": 3,
+    "isIdempotent": true
+  },
+  {
+    "id": "job-daily-seo-check",
+    "name": "Daily Broken Link & Canonical Auditor",
+    "cadence": "daily",
+    "description": "Scans internal route graph to detect 404s, redirect loops, and invalid canonical headers.",
+    "nextRunDue": "2026-11-01T09:44:00.659Z",
+    "status": "idle",
+    "runCount": 14,
+    "failureCount": 0,
+    "maxRetries": 2,
+    "isIdempotent": true
+  },
+  {
+    "id": "job-weekly-freshness",
+    "name": "Weekly Content Freshness & Re-Verification Sweep",
+    "cadence": "weekly",
+    "description": "Checks software release dates, flags claims older than 30 days, queues review tickets.",
+    "nextRunDue": "2026-11-07T09:44:00.659Z",
+    "status": "idle",
+    "runCount": 4,
+    "failureCount": 0,
+    "maxRetries": 2,
+    "isIdempotent": true
+  },
+  {
+    "id": "job-monthly-geo-audit",
+    "name": "Monthly AEO/GEO & Technical Debt Review",
+    "cadence": "monthly",
+    "description": "Performs deep-dive audit of answer clarity, entity descriptions, and dependency vulnerabilities.",
+    "nextRunDue": "2026-11-30T09:44:00.659Z",
+    "status": "idle",
+    "runCount": 1,
+    "failureCount": 0,
+    "maxRetries": 1,
+    "isIdempotent": true
+  }
+]

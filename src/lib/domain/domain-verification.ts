@@ -34,8 +34,10 @@ export class DomainVerificationManager {
    * Evaluates the complete 10-step domain launch verification checklist.
    */
   public evaluateStatus(customDomainEnv?: string): DomainVerificationReport {
-    const activeUrl = customDomainEnv || siteConfig.canonicalOrigin;
-    const isCustomActive = activeUrl.includes(this.proposedDomain);
+    // Only mark custom domain as active when DNS & TLS delegation is verified
+    const isCustomActive =
+      customDomainEnv === 'VERIFIED' ||
+      (typeof process !== 'undefined' && process.env.CUSTOM_DOMAIN_VERIFIED === 'true');
 
     const checks: DomainCheckItem[] = [
       {

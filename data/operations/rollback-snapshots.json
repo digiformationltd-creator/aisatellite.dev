@@ -1,0 +1,70 @@
+[
+  {
+    "id": "SNAP-MVW7RXSK-JOAO",
+    "ticketId": "TKT-MVW7RXSI-E01U",
+    "targetFileOrResource": "data/operations/metadata-cache.json",
+    "snapshotData": "{\"id\":\"TKT-MVW7RXSI-E01U\",\"title\":\"Re-cache Tool Metadata Schema\",\"description\":\"Refresh cached non-sensitive schema indices for offline search.\",\"severity\":\"low\",\"status\":\"proposed\",\"priorityTier\":8,\"evidenceUrls\":[\"https://aisatellite.dev/tools\"],\"affectedResources\":[\"data/operations/metadata-cache.json\"],\"proposedSolution\":\"Regenerate schema index.\",\"estimatedComplexity\":\"low\",\"riskLevel\":\"low\",\"requiredApproval\":\"none\",\"validationPlan\":\"Verify schema parsing.\",\"rollbackPlan\":\"Revert cache file.\",\"executionLogs\":[\"[2026-10-31T09:44:00.978Z] Ticket created via AutonomousImprovementPlanner\"],\"createdAt\":\"2026-10-31T09:44:00.978Z\",\"updatedAt\":\"2026-10-31T09:44:00.978Z\"}",
+    "createdAt": "2026-10-31T09:44:00.980Z",
+    "reason": "Pre-execution state for ticket TKT-MVW7RXSI-E01U: Re-cache Tool Metadata Schema"
+  },
+  {
+    "id": "SNAP-MVW7RXSN-9QPB",
+    "ticketId": "TKT-TEST-99",
+    "targetFileOrResource": "src/lib/test-resource.ts",
+    "snapshotData": "export const test = true;",
+    "createdAt": "2026-10-31T09:44:00.983Z",
+    "reason": "Unit test snapshot capture",
+    "restoredAt": "2026-10-31T09:44:00.984Z"
+  },
+  {
+    "id": "SNAP-MVW7THE1-6LJL",
+    "ticketId": "TKT-MVW7THDZ-HAUJ",
+    "targetFileOrResource": "data/operations/metadata-cache.json",
+    "snapshotData": "{\"id\":\"TKT-MVW7THDZ-HAUJ\",\"title\":\"Re-cache Tool Metadata Schema\",\"description\":\"Refresh cached non-sensitive schema indices for offline search.\",\"severity\":\"low\",\"status\":\"proposed\",\"priorityTier\":8,\"evidenceUrls\":[\"https://aisatellite.dev/tools\"],\"affectedResources\":[\"data/operations/metadata-cache.json\"],\"proposedSolution\":\"Regenerate schema index.\",\"estimatedComplexity\":\"low\",\"riskLevel\":\"low\",\"requiredApproval\":\"none\",\"validationPlan\":\"Verify schema parsing.\",\"rollbackPlan\":\"Revert cache file.\",\"executionLogs\":[\"[2026-10-31T09:45:13.032Z] Ticket created via AutonomousImprovementPlanner\"],\"createdAt\":\"2026-10-31T09:45:13.032Z\",\"updatedAt\":\"2026-10-31T09:45:13.032Z\"}",
+    "createdAt": "2026-10-31T09:45:13.033Z",
+    "reason": "Pre-execution state for ticket TKT-MVW7THDZ-HAUJ: Re-cache Tool Metadata Schema"
+  },
+  {
+    "id": "SNAP-MVW7THE3-MZW9",
+    "ticketId": "TKT-TEST-99",
+    "targetFileOrResource": "src/lib/test-resource.ts",
+    "snapshotData": "export const test = true;",
+    "createdAt": "2026-10-31T09:45:13.035Z",
+    "reason": "Unit test snapshot capture",
+    "restoredAt": "2026-10-31T09:45:13.037Z"
+  },
+  {
+    "id": "SNAP-MVW7UBA6-85LV",
+    "ticketId": "TKT-MVW7UBA4-J2ID",
+    "targetFileOrResource": "data/operations/metadata-cache.json",
+    "snapshotData": "{\"id\":\"TKT-MVW7UBA4-J2ID\",\"title\":\"Re-cache Tool Metadata Schema\",\"description\":\"Refresh cached non-sensitive schema indices for offline search.\",\"severity\":\"low\",\"status\":\"proposed\",\"priorityTier\":8,\"evidenceUrls\":[\"https://aisatellite.dev/tools\"],\"affectedResources\":[\"data/operations/metadata-cache.json\"],\"proposedSolution\":\"Regenerate schema index.\",\"estimatedComplexity\":\"low\",\"riskLevel\":\"low\",\"requiredApproval\":\"none\",\"validationPlan\":\"Verify schema parsing.\",\"rollbackPlan\":\"Revert cache file.\",\"executionLogs\":[\"[2026-10-31T09:45:51.772Z] Ticket created via AutonomousImprovementPlanner\"],\"createdAt\":\"2026-10-31T09:45:51.772Z\",\"updatedAt\":\"2026-10-31T09:45:51.772Z\"}",
+    "createdAt": "2026-10-31T09:45:51.774Z",
+    "reason": "Pre-execution state for ticket TKT-MVW7UBA4-J2ID: Re-cache Tool Metadata Schema"
+  },
+  {
+    "id": "SNAP-MVW7UBA8-2H7G",
+    "ticketId": "TKT-TEST-99",
+    "targetFileOrResource": "src/lib/test-resource.ts",
+    "snapshotData": "export const test = true;",
+    "createdAt": "2026-10-31T09:45:51.776Z",
+    "reason": "Unit test snapshot capture",
+    "restoredAt": "2026-10-31T09:45:51.777Z"
+  },
+  {
+    "id": "SNAP-MVW7UNQ6-MY14",
+    "ticketId": "TKT-MVW7UNQ5-9HEQ",
+    "targetFileOrResource": "data/operations/metadata-cache.json",
+    "snapshotData": "{\"id\":\"TKT-MVW7UNQ5-9HEQ\",\"title\":\"Re-cache Tool Metadata Schema\",\"description\":\"Refresh cached non-sensitive schema indices for offline search.\",\"severity\":\"low\",\"status\":\"proposed\",\"priorityTier\":8,\"evidenceUrls\":[\"https://aisatellite.dev/tools\"],\"affectedResources\":[\"data/operations/metadata-cache.json\"],\"proposedSolution\":\"Regenerate schema index.\",\"estimatedComplexity\":\"low\",\"riskLevel\":\"low\",\"requiredApproval\":\"none\",\"validationPlan\":\"Verify schema parsing.\",\"rollbackPlan\":\"Revert cache file.\",\"executionLogs\":[\"[2026-10-31T09:46:07.901Z] Ticket created via AutonomousImprovementPlanner\"],\"createdAt\":\"2026-10-31T09:46:07.901Z\",\"updatedAt\":\"2026-10-31T09:46:07.901Z\"}",
+    "createdAt": "2026-10-31T09:46:07.902Z",
+    "reason": "Pre-execution state for ticket TKT-MVW7UNQ5-9HEQ: Re-cache Tool Metadata Schema"
+  },
+  {
+    "id": "SNAP-MVW7UNQ8-0BAX",
+    "ticketId": "TKT-TEST-99",
+    "targetFileOrResource": "src/lib/test-resource.ts",
+    "snapshotData": "export const test = true;",
+    "createdAt": "2026-10-31T09:46:07.904Z",
+    "reason": "Unit test snapshot capture",
+    "restoredAt": "2026-10-31T09:46:07.906Z"
+  }
+]

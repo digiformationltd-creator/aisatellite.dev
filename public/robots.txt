@@ -4,8 +4,9 @@ Allow: /
 # Private administration, development sandbox and staging routes
 Disallow: /research-admin
 Disallow: /growth-admin
+Disallow: /operations-admin
 Disallow: /factory
 Disallow: /workspace
 Disallow: /api/
 
-Sitemap: https://aisatellite.pages.dev/sitemap-index.xml
+Sitemap: https://aisatellite.dev/sitemap-index.xml

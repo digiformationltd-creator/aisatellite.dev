@@ -1,0 +1,15 @@
+{
+  "monthlyBudgetUsd": 50,
+  "estimatedSpentUsd": 46.8,
+  "apiCallsThisMonth": 624,
+  "quotaRemainingPercent": 6.400000000000006,
+  "concurrencyLimit": 3,
+  "isNoncriticalThrottled": true,
+  "costEstimates": {
+    "hostingPages": 0,
+    "searchConsoleApi": 0,
+    "dnsAndEdge": 0,
+    "aiResearchTokens": 46.8,
+    "totalEstimatedMonthlyUsd": 46.8
+  }
+}

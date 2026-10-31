@@ -1,0 +1,42 @@
+[
+  {
+    "id": "DEVEX-MVW7RXSR-V1K5",
+    "signalType": "zero_result_search",
+    "queryOrPath": "unsupported-obscure-commercial-software",
+    "occurrenceCount": 1,
+    "lastOccurredAt": "2026-10-31T09:44:00.987Z",
+    "description": "Zero verified alternatives matched user query",
+    "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
+    "isResolved": true
+  },
+  {
+    "id": "DEVEX-MVW7THE7-GI8R",
+    "signalType": "zero_result_search",
+    "queryOrPath": "unsupported-obscure-commercial-software",
+    "occurrenceCount": 1,
+    "lastOccurredAt": "2026-10-31T09:45:13.039Z",
+    "description": "Zero verified alternatives matched user query",
+    "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
+    "isResolved": true
+  },
+  {
+    "id": "DEVEX-MVW7UBAC-X91G",
+    "signalType": "zero_result_search",
+    "queryOrPath": "unsupported-obscure-commercial-software",
+    "occurrenceCount": 1,
+    "lastOccurredAt": "2026-10-31T09:45:51.780Z",
+    "description": "Zero verified alternatives matched user query",
+    "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
+    "isResolved": true
+  },
+  {
+    "id": "DEVEX-MVW7UNQD-M0T9",
+    "signalType": "zero_result_search",
+    "queryOrPath": "unsupported-obscure-commercial-software",
+    "occurrenceCount": 1,
+    "lastOccurredAt": "2026-10-31T09:46:07.910Z",
+    "description": "Zero verified alternatives matched user query",
+    "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
+    "isResolved": true
+  }
+]

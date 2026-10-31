@@ -1,0 +1,32 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import OperationsCommandCenter from '@/components/operations/OperationsCommandCenter.tsx';
+---
+
+<BaseLayout
+  title="Operations Command Center — AI Satellite Admin"
+  description="Secured administrative console for autonomous operations, health telemetry, continuous intelligence, and controlled repairs."
+  noIndex={true}
+>
+  <PageContainer>
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Operations Command Center', href: '/operations-admin' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Private Operations Console"
+      title="Autonomous Operations Command Center"
+      description="Orchestrate website health monitoring, upstream technology change detection, free alternatives re-verification, SEO/AEO/GEO optimization, and human-gated improvements."
+    />
+
+    <div class="mt-8">
+      <OperationsCommandCenter client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>

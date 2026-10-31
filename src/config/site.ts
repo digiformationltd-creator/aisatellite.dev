@@ -12,8 +12,8 @@ export interface SiteConfig {
 
 // Environment detection
 const rawSiteUrl =
-  (typeof process !== 'undefined' && (process.env.PUBLIC_SITE_URL || process.env.SITE_URL)) ||
-  'https://aisatellite.pages.dev';
+  (typeof process !== 'undefined' && (process.env.PUBLIC_SITE_URL || process.env.SITE_URL || process.env.CANONICAL_ORIGIN)) ||
+  'https://aisatellite.dev';
 
 const cleanSiteUrl = rawSiteUrl.replace(/\/+$/, '');
 
@@ -39,7 +39,7 @@ export const siteConfig: SiteConfig = {
     'AI Satellite',
   siteDescription:
     (typeof process !== 'undefined' && process.env.PUBLIC_SITE_DESCRIPTION) ||
-    'The Global Open-Source & Autonomous AI Knowledge Station. One Satellite. The Entire World of Technology.',
+    'Explore free alternatives, AI tools, open-source software, developer prompts and practical technology solutions.',
   canonicalOrigin: cleanSiteUrl,
   deploymentEnvironment,
   isProduction,

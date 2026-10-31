@@ -1,0 +1,119 @@
+[
+  {
+    "resourceId": "n8n",
+    "resourceName": "n8n (Zapier Alternative)",
+    "status": "verified",
+    "license": "Sustainable Use License (Community Edition) / Fair-code",
+    "isFreeAvailable": true,
+    "freeClassification": "free_self_hosted",
+    "hostedFreeTierLimitations": [
+      "Hosted Cloud is paid after trial",
+      "Self-hosted Docker is unlimited and free"
+    ],
+    "selfHostingRequirements": [
+      "Docker",
+      "Node.js",
+      "PostgreSQL or SQLite"
+    ],
+    "infrastructureCostEstimateUsdMonth": 5,
+    "featureCompatibilityScore": 94,
+    "platformCompatibility": [
+      "Linux",
+      "Docker",
+      "macOS",
+      "Windows"
+    ],
+    "maintenanceStatus": "active",
+    "officialDocumentationUrl": "https://docs.n8n.io",
+    "lastVerifiedAt": "2026-10-31T09:44:00.449Z",
+    "nextRecheckDue": "2026-11-30T09:44:00.450Z",
+    "evidenceUrls": [
+      "https://n8n.io/pricing",
+      "https://github.com/n8n-io/n8n"
+    ]
+  },
+  {
+    "resourceId": "supabase",
+    "resourceName": "Supabase (Firebase Alternative)",
+    "status": "verified",
+    "license": "Apache-2.0",
+    "isFreeAvailable": true,
+    "freeClassification": "free_tier_hosted",
+    "hostedFreeTierLimitations": [
+      "Up to 500MB database space",
+      "Pauses after 1 week inactivity on free tier"
+    ],
+    "selfHostingRequirements": [
+      "Docker Compose",
+      "PostgreSQL",
+      "Env configuration"
+    ],
+    "infrastructureCostEstimateUsdMonth": 0,
+    "featureCompatibilityScore": 92,
+    "platformCompatibility": [
+      "Cloud",
+      "Docker",
+      "Self-hosted"
+    ],
+    "maintenanceStatus": "active",
+    "officialDocumentationUrl": "https://supabase.com/docs",
+    "lastVerifiedAt": "2026-10-31T09:44:00.450Z",
+    "nextRecheckDue": "2026-11-30T09:44:00.450Z",
+    "evidenceUrls": [
+      "https://supabase.com/pricing",
+      "https://github.com/supabase/supabase"
+    ]
+  },
+  {
+    "resourceId": "ollama",
+    "resourceName": "Ollama (OpenAI API Alternative)",
+    "status": "verified",
+    "license": "MIT",
+    "isFreeAvailable": true,
+    "freeClassification": "free_open_source",
+    "hostedFreeTierLimitations": [
+      "Zero hosted cost",
+      "Hardware dependent: Requires local GPU/CPU RAM"
+    ],
+    "selfHostingRequirements": [
+      "Local installation",
+      "Local VRAM/RAM for quantized models"
+    ],
+    "infrastructureCostEstimateUsdMonth": 0,
+    "featureCompatibilityScore": 88,
+    "platformCompatibility": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "maintenanceStatus": "active",
+    "officialDocumentationUrl": "https://ollama.com",
+    "lastVerifiedAt": "2026-10-31T09:44:00.450Z",
+    "nextRecheckDue": "2026-11-30T09:44:00.450Z",
+    "evidenceUrls": [
+      "https://ollama.com",
+      "https://github.com/ollama/ollama"
+    ]
+  },
+  {
+    "resourceId": "specialized-proprietary-eda-tool",
+    "resourceName": "Specialized Proprietary EDA Tool",
+    "status": "conflicting_evidence",
+    "license": "Proprietary",
+    "isFreeAvailable": false,
+    "freeClassification": "paid_only",
+    "hostedFreeTierLimitations": [
+      "No verified free alternative matches the complete feature set."
+    ],
+    "selfHostingRequirements": [],
+    "infrastructureCostEstimateUsdMonth": 0,
+    "featureCompatibilityScore": 0,
+    "platformCompatibility": [],
+    "maintenanceStatus": "active",
+    "officialDocumentationUrl": "",
+    "lastVerifiedAt": "2026-10-31T09:46:07.879Z",
+    "nextRecheckDue": "2026-11-14T09:46:07.879Z",
+    "limitationsExplanation": "No 1:1 free or open-source equivalent exists matching high-frequency hardware synthesis.",
+    "evidenceUrls": []
+  }
+]

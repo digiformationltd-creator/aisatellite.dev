@@ -18,8 +18,8 @@ describe('Phase 8 — 40 Production Readiness Acceptance Checks', () => {
 
   // 1. Domain configuration
   it('Check 01 [PASS]: Domain configuration is centralized, non-empty, and valid URL', () => {
-    expect(siteConfig.siteUrl).toBe('https://aisatellite.pages.dev');
-    expect(siteConfig.canonicalOrigin).toBe('https://aisatellite.pages.dev');
+    expect(siteConfig.siteUrl).toMatch(/^https:\/\/aisatellite\.(dev|pages\.dev)$/);
+    expect(siteConfig.canonicalOrigin).toMatch(/^https:\/\/aisatellite\.(dev|pages\.dev)$/);
   });
 
   // 2. HTTPS protocol
@@ -30,8 +30,8 @@ describe('Phase 8 — 40 Production Readiness Acceptance Checks', () => {
 
   // 3. Redirects / Staging isolation
   it('Check 03 [PASS]: Canonical URLs normalize trailing slashes consistently', () => {
-    expect(getCanonicalUrl('/alternatives/')).toBe('https://aisatellite.pages.dev/alternatives');
-    expect(getCanonicalUrl('solutions/')).toBe('https://aisatellite.pages.dev/solutions');
+    expect(getCanonicalUrl('/alternatives/')).toBe(`${siteConfig.canonicalOrigin}/alternatives`);
+    expect(getCanonicalUrl('solutions/')).toBe(`${siteConfig.canonicalOrigin}/solutions`);
   });
 
   // 4. Canonical URLs
@@ -39,7 +39,7 @@ describe('Phase 8 — 40 Production Readiness Acceptance Checks', () => {
     const sections = ['/', '/radar', '/solutions', '/tutorials', '/components', '/prompts/builder'];
     sections.forEach((sec) => {
       const canonical = getCanonicalUrl(sec);
-      expect(canonical).toBe(`https://aisatellite.pages.dev${sec === '/' ? '' : sec}`);
+      expect(canonical).toBe(`${siteConfig.canonicalOrigin}${sec === '/' ? '' : sec}`);
     });
   });
 
@@ -60,7 +60,7 @@ describe('Phase 8 — 40 Production Readiness Acceptance Checks', () => {
     expect(content).toContain('Disallow: /growth-admin');
     expect(content).toContain('Disallow: /factory');
     expect(content).toContain('Disallow: /workspace');
-    expect(content).toContain('Sitemap: https://aisatellite.pages.dev/sitemap-index.xml');
+    expect(content).toMatch(/Sitemap: https:\/\/aisatellite\.(dev|pages\.dev)\/sitemap-index\.xml/);
   });
 
   // 7. Metadata

@@ -33,9 +33,9 @@ describe('Phase 9 — 30 Global Growth & Search Authority Acceptance Tests', () 
 
   // 2. Canonical configuration is correct
   it('Acceptance 02 [PASS]: Canonical configuration is correct and dynamically normalized', () => {
-    expect(siteConfig.canonicalOrigin).toBe('https://aisatellite.pages.dev');
+    expect(siteConfig.canonicalOrigin).toMatch(/^https:\/\/aisatellite\.(dev|pages\.dev)$/);
     const pathCanonical = getCanonicalUrl('/alternatives/zapier-alternatives');
-    expect(pathCanonical).toBe('https://aisatellite.pages.dev/alternatives/zapier-alternatives');
+    expect(pathCanonical).toBe(`${siteConfig.canonicalOrigin}/alternatives/zapier-alternatives`);
   });
 
   // 3. Sitemap is valid
