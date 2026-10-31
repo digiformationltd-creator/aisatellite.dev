@@ -4,6 +4,13 @@ import PageContainer from '@/components/layout/PageContainer.astro';
 import SectionHeading from '@/components/layout/SectionHeading.astro';
 import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
 import TechnologyRadarView from '@/components/radar/TechnologyRadarView';
+import { radarEngine } from '@/lib/discovery/radar-engine';
+
+const telemetryEntries = radarEngine.getTelemetryEntries();
+const aiModelsCount = radarEngine.getEntriesByQuadrant('ai_models').length;
+const openSourceCount = radarEngine.getEntriesByQuadrant('open_source').length;
+const frameworksCount = radarEngine.getEntriesByQuadrant('frameworks').length;
+const alternativesCount = radarEngine.getEntriesByQuadrant('alternatives').length;
 ---
 
 <BaseLayout
@@ -16,8 +23,32 @@ import TechnologyRadarView from '@/components/radar/TechnologyRadarView';
     <SectionHeading
       badge="Orbital Telemetry"
       title="Global Technology Radar"
-      description="One Satellite. The Entire World of Technology. Interactive 3D radar scanning verified open-source software, AI capabilities, and developer platforms."
+      description="One Satellite. The Entire World of Technology. Interactive 3D radar scanning verified open-source software, AI capabilities, and developer platforms across 4 orbital quadrants."
     />
+
+    {/* Orbital Telemetry Quadrant Overview */}
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 my-6">
+      <div class="p-3.5 rounded-2xl bg-space-950/70 backdrop-blur-xl border border-white/5 flex flex-col">
+        <span class="text-[11px] font-mono text-cosmic-cyan uppercase tracking-wider">Quadrant I</span>
+        <span class="text-sm font-bold text-cosmic-white mt-1">AI Models & Runners</span>
+        <span class="text-xs font-mono text-text-muted mt-0.5">{aiModelsCount} Beacons Active</span>
+      </div>
+      <div class="p-3.5 rounded-2xl bg-space-950/70 backdrop-blur-xl border border-white/5 flex flex-col">
+        <span class="text-[11px] font-mono text-emerald-400 uppercase tracking-wider">Quadrant II</span>
+        <span class="text-sm font-bold text-cosmic-white mt-1">Open-Source Core</span>
+        <span class="text-xs font-mono text-text-muted mt-0.5">{openSourceCount} Beacons Active</span>
+      </div>
+      <div class="p-3.5 rounded-2xl bg-space-950/70 backdrop-blur-xl border border-white/5 flex flex-col">
+        <span class="text-[11px] font-mono text-indigo-400 uppercase tracking-wider">Quadrant III</span>
+        <span class="text-sm font-bold text-cosmic-white mt-1">Frameworks & Agents</span>
+        <span class="text-xs font-mono text-text-muted mt-0.5">{frameworksCount} Beacons Active</span>
+      </div>
+      <div class="p-3.5 rounded-2xl bg-space-950/70 backdrop-blur-xl border border-white/5 flex flex-col">
+        <span class="text-[11px] font-mono text-amber-400 uppercase tracking-wider">Quadrant IV</span>
+        <span class="text-sm font-bold text-cosmic-white mt-1">Verified Alternatives</span>
+        <span class="text-xs font-mono text-text-muted mt-0.5">{alternativesCount} Beacons Active</span>
+      </div>
+    </div>
 
     <div class="my-8">
       <TechnologyRadarView client:load />

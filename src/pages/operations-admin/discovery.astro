@@ -1,0 +1,33 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import DiscoveryCommandCenter from '@/components/operations/DiscoveryCommandCenter';
+---
+
+<BaseLayout
+  title="Autonomous Discovery & Intelligence Console — AI Satellite Admin"
+  description="Administrative command center for approved sources, autonomous discovery jobs, evidence ledger, change detection, and editorial approvals."
+  noIndex={true}
+>
+  <PageContainer size="wide" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Operations Admin', href: '/operations-admin' },
+        { label: 'Discovery Intelligence' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Autonomous Research Intelligence"
+      title="Global Discovery & Intelligence Command Center"
+      description="Real-time telemetry and management across approved technology sources, bounded AI research agents, evidence ledgers, technology change detection, and human editorial governance."
+    />
+
+    <div class="mt-8">
+      <DiscoveryCommandCenter client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>

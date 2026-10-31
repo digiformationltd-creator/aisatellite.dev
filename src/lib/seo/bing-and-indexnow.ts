@@ -53,6 +53,7 @@ export class BingAndIndexNowClient {
         if (
           parsed.pathname.startsWith('/growth-admin') ||
           parsed.pathname.startsWith('/research-admin') ||
+          parsed.pathname.startsWith('/operations-admin') ||
           parsed.pathname.startsWith('/workspace') ||
           parsed.pathname.startsWith('/community/moderation') ||
           parsed.pathname.startsWith('/api/')

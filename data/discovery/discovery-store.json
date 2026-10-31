@@ -1,0 +1,933 @@
+{
+  "sources": [
+    {
+      "id": "src-6413a7f6",
+      "sourceUrl": "https://api.github.com/repos/ollama/ollama",
+      "sourceType": "github_repo",
+      "organization": "Ollama",
+      "accessMethod": "rest_api",
+      "verificationLevel": "authoritative",
+      "crawlPermissionsAllowed": true,
+      "rateLimitPerMinute": 60,
+      "status": "active",
+      "createdAt": "2026-10-31T11:21:35.400Z",
+      "updatedAt": "2026-10-31T11:21:35.400Z"
+    },
+    {
+      "id": "src-7203890c",
+      "sourceUrl": "https://api.github.com/repos/supabase/supabase",
+      "sourceType": "github_repo",
+      "organization": "Supabase Inc.",
+      "accessMethod": "rest_api",
+      "verificationLevel": "authoritative",
+      "crawlPermissionsAllowed": true,
+      "rateLimitPerMinute": 60,
+      "status": "active",
+      "createdAt": "2026-10-31T11:21:35.403Z",
+      "updatedAt": "2026-10-31T11:21:35.403Z"
+    },
+    {
+      "id": "src-361bc81c",
+      "sourceUrl": "https://docs.anthropic.com/en/docs",
+      "sourceType": "official_docs",
+      "organization": "Anthropic PBC",
+      "accessMethod": "rest_api",
+      "verificationLevel": "authoritative",
+      "crawlPermissionsAllowed": true,
+      "rateLimitPerMinute": 30,
+      "status": "active",
+      "createdAt": "2026-10-31T11:21:35.404Z",
+      "updatedAt": "2026-10-31T11:21:35.404Z"
+    },
+    {
+      "id": "src-29840d2e",
+      "sourceUrl": "https://platform.openai.com/docs",
+      "sourceType": "official_docs",
+      "organization": "OpenAI",
+      "accessMethod": "rest_api",
+      "verificationLevel": "authoritative",
+      "crawlPermissionsAllowed": true,
+      "rateLimitPerMinute": 30,
+      "status": "active",
+      "createdAt": "2026-10-31T11:21:35.406Z",
+      "updatedAt": "2026-10-31T11:21:35.406Z"
+    },
+    {
+      "id": "src-21afe8a0",
+      "sourceUrl": "https://huggingface.co/api/models",
+      "sourceType": "package_registry",
+      "organization": "Hugging Face",
+      "accessMethod": "rest_api",
+      "verificationLevel": "authoritative",
+      "crawlPermissionsAllowed": true,
+      "rateLimitPerMinute": 45,
+      "status": "active",
+      "createdAt": "2026-10-31T11:21:35.408Z",
+      "updatedAt": "2026-10-31T11:21:35.408Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job-ddd406f1",
+      "category": "discover_ai_tools",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.410Z",
+      "updatedAt": "2026-10-31T11:21:35.410Z"
+    },
+    {
+      "id": "job-f1f622a7",
+      "category": "discover_open_source",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.412Z",
+      "updatedAt": "2026-10-31T11:21:35.412Z"
+    },
+    {
+      "id": "job-e7f08f66",
+      "category": "monitor_github_releases",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.413Z",
+      "updatedAt": "2026-10-31T11:21:35.413Z"
+    },
+    {
+      "id": "job-24f4c5ac",
+      "category": "check_licenses",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.415Z",
+      "updatedAt": "2026-10-31T11:21:35.415Z"
+    },
+    {
+      "id": "job-b6b6c76a",
+      "category": "verify_free_tiers",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.416Z",
+      "updatedAt": "2026-10-31T11:21:35.416Z"
+    },
+    {
+      "id": "job-f6c28e64",
+      "category": "detect_pricing_changes",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.418Z",
+      "updatedAt": "2026-10-31T11:21:35.418Z"
+    },
+    {
+      "id": "job-bc585ce1",
+      "category": "discover_frameworks",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.420Z",
+      "updatedAt": "2026-10-31T11:21:35.420Z"
+    },
+    {
+      "id": "job-d6a9d313",
+      "category": "monitor_mcp",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.421Z",
+      "updatedAt": "2026-10-31T11:21:35.421Z"
+    },
+    {
+      "id": "job-69e20890",
+      "category": "refresh_research",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.423Z",
+      "updatedAt": "2026-10-31T11:21:35.423Z"
+    },
+    {
+      "id": "job-f27b50ae",
+      "category": "emerging_topics",
+      "scheduleCron": "0 */6 * * *",
+      "status": "scheduled",
+      "timeoutMs": 15000,
+      "retryLimit": 3,
+      "currentRetries": 0,
+      "concurrencyLimit": 2,
+      "costBudgetUsd": 5,
+      "createdAt": "2026-10-31T11:21:35.424Z",
+      "updatedAt": "2026-10-31T11:21:35.424Z"
+    }
+  ],
+  "githubRecords": [
+    {
+      "id": "gh-e7c91317",
+      "repoUrl": "https://github.com/ollama/ollama",
+      "owner": "ollama",
+      "repoName": "ollama",
+      "description": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models locally.",
+      "license": "MIT",
+      "isOsiLicense": true,
+      "latestReleaseTag": "v0.5.7",
+      "latestReleaseDate": "2025-01-20T10:00:00Z",
+      "isArchived": false,
+      "supportedLanguages": [
+        "Go",
+        "C++",
+        "Python"
+      ],
+      "hasDocumentation": true,
+      "documentationUrl": "https://ollama.com",
+      "openIssueCount": 240,
+      "securityAdvisoriesCount": 0,
+      "installInstructions": "curl -fsSL https://ollama.com/install.sh | sh",
+      "lastCheckedAt": "2026-10-31T11:21:35.426Z"
+    },
+    {
+      "id": "gh-ff0e5756",
+      "repoUrl": "https://github.com/supabase/supabase",
+      "owner": "supabase",
+      "repoName": "supabase",
+      "description": "The open source Firebase alternative. Supabase provides Postgres database, Auth, APIs, realtime subscriptions and storage.",
+      "license": "Apache-2.0",
+      "isOsiLicense": true,
+      "latestReleaseTag": "v1.189.0",
+      "latestReleaseDate": "2025-01-25T14:30:00Z",
+      "isArchived": false,
+      "supportedLanguages": [
+        "TypeScript",
+        "Elixir",
+        "Go"
+      ],
+      "hasDocumentation": true,
+      "documentationUrl": "https://supabase.com/docs",
+      "openIssueCount": 380,
+      "securityAdvisoriesCount": 0,
+      "installInstructions": "npx supabase init && npx supabase start",
+      "lastCheckedAt": "2026-10-31T11:21:35.428Z"
+    },
+    {
+      "id": "gh-ecb123d8",
+      "repoUrl": "https://github.com/vllm-project/vllm",
+      "owner": "vllm-project",
+      "repoName": "vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs.",
+      "license": "Apache-2.0",
+      "isOsiLicense": true,
+      "latestReleaseTag": "v0.6.6",
+      "latestReleaseDate": "2025-01-18T18:00:00Z",
+      "isArchived": false,
+      "supportedLanguages": [
+        "Python",
+        "C++",
+        "CUDA"
+      ],
+      "hasDocumentation": true,
+      "documentationUrl": "https://docs.vllm.ai",
+      "openIssueCount": 420,
+      "securityAdvisoriesCount": 0,
+      "installInstructions": "pip install vllm",
+      "lastCheckedAt": "2026-10-31T11:21:35.429Z"
+    },
+    {
+      "id": "gh-65659e45",
+      "repoUrl": "https://github.com/n8n-io/n8n",
+      "owner": "n8n-io",
+      "repoName": "n8n",
+      "description": "Free and source-available fair-code workflow automation tool with extensive self-hosting support.",
+      "license": "Sustainable-Use-License",
+      "isOsiLicense": false,
+      "latestReleaseTag": "v1.75.2",
+      "latestReleaseDate": "2025-01-26T12:00:00Z",
+      "isArchived": false,
+      "supportedLanguages": [
+        "TypeScript",
+        "Vue"
+      ],
+      "hasDocumentation": true,
+      "documentationUrl": "https://docs.n8n.io",
+      "openIssueCount": 190,
+      "securityAdvisoriesCount": 0,
+      "installInstructions": "docker run -it --rm --name n8n -p 5678:5678 n8nio/n8n",
+      "lastCheckedAt": "2026-10-31T11:21:35.430Z"
+    }
+  ],
+  "aiToolProfiles": [
+    {
+      "id": "ai-7187f2b4",
+      "name": "Ollama",
+      "slug": "ollama",
+      "websiteUrl": "https://ollama.com",
+      "developerOrg": "Ollama",
+      "primaryPurpose": "Run powerful open-weight LLMs locally on macOS, Linux, and Windows.",
+      "capabilities": [
+        "local_llm_runners",
+        "model_optimization",
+        "code_assistants"
+      ],
+      "pricingModel": "open_source",
+      "freeTierConditions": "100% Free and open source (MIT license). Requires local CPU/GPU RAM.",
+      "apiAvailable": true,
+      "supportedPlatforms": [
+        "macOS",
+        "Linux",
+        "Windows",
+        "Docker"
+      ],
+      "documentationUrl": "https://github.com/ollama/ollama",
+      "confidence": "high",
+      "lastVerifiedAt": "2026-10-31T11:21:35.433Z"
+    },
+    {
+      "id": "ai-1e950cbc",
+      "name": "vLLM",
+      "slug": "vllm",
+      "websiteUrl": "https://vllm.ai",
+      "developerOrg": "vLLM Project",
+      "primaryPurpose": "High-throughput and memory-efficient inference serving engine for LLMs.",
+      "capabilities": [
+        "local_llm_runners",
+        "model_optimization",
+        "rag_search_retrieval"
+      ],
+      "pricingModel": "open_source",
+      "freeTierConditions": "100% Free under Apache-2.0. Requires GPU/TPU infrastructure.",
+      "apiAvailable": true,
+      "supportedPlatforms": [
+        "Linux",
+        "Docker"
+      ],
+      "documentationUrl": "https://docs.vllm.ai",
+      "confidence": "high",
+      "lastVerifiedAt": "2026-10-31T11:21:35.434Z"
+    },
+    {
+      "id": "ai-663c04e0",
+      "name": "Qdrant",
+      "slug": "qdrant",
+      "websiteUrl": "https://qdrant.tech",
+      "developerOrg": "Qdrant Solutions GmbH",
+      "primaryPurpose": "Vector similarity search engine and vector database for production RAG and AI applications.",
+      "capabilities": [
+        "vector_embeddings",
+        "rag_search_retrieval"
+      ],
+      "pricingModel": "open_source",
+      "freeTierConditions": "Open-source Apache-2.0 core free self-hosted; Managed cloud has 1GB free cluster forever.",
+      "apiAvailable": true,
+      "supportedPlatforms": [
+        "Linux",
+        "macOS",
+        "Windows",
+        "Docker",
+        "Kubernetes"
+      ],
+      "documentationUrl": "https://qdrant.tech/documentation",
+      "confidence": "high",
+      "lastVerifiedAt": "2026-10-31T11:21:35.436Z"
+    },
+    {
+      "id": "ai-1f15ec69",
+      "name": "LangGraph",
+      "slug": "langgraph",
+      "websiteUrl": "https://langchain-ai.github.io/langgraph",
+      "developerOrg": "LangChain Inc.",
+      "primaryPurpose": "Framework for building resilient, stateful, multi-actor agentic workflows with LLMs.",
+      "capabilities": [
+        "agent_frameworks",
+        "autonomous_workflows"
+      ],
+      "pricingModel": "open_source",
+      "freeTierConditions": "Free library under MIT license; LangGraph Cloud deployment has free development tier.",
+      "apiAvailable": true,
+      "supportedPlatforms": [
+        "Linux",
+        "macOS",
+        "Windows",
+        "Docker"
+      ],
+      "documentationUrl": "https://langchain-ai.github.io/langgraph",
+      "confidence": "high",
+      "lastVerifiedAt": "2026-10-31T11:21:35.437Z"
+    },
+    {
+      "id": "ai-8a91b7e4",
+      "name": "Whisper.cpp",
+      "slug": "whisper-cpp",
+      "websiteUrl": "https://github.com/ggerganov/whisper.cpp",
+      "developerOrg": "Georgi Gerganov",
+      "primaryPurpose": "High-performance C/C++ port of OpenAI Speech-to-Text Whisper model.",
+      "capabilities": [
+        "speech_voice_ai",
+        "developer_productivity"
+      ],
+      "pricingModel": "open_source",
+      "freeTierConditions": "100% Free under MIT license. Runs on Apple Silicon, AVX, CUDA.",
+      "apiAvailable": true,
+      "supportedPlatforms": [
+        "macOS",
+        "Linux",
+        "Windows",
+        "iOS",
+        "Android",
+        "WebAssembly"
+      ],
+      "documentationUrl": "https://github.com/ggerganov/whisper.cpp",
+      "confidence": "high",
+      "lastVerifiedAt": "2026-10-31T11:21:35.438Z"
+    }
+  ],
+  "freeAlternativeFindings": [
+    {
+      "id": "alt-ed583c32",
+      "paidToolName": "Zapier",
+      "alternativeName": "n8n",
+      "alternativeUrl": "https://n8n.io",
+      "license": "Sustainable-Use-License",
+      "classification": "self_hosted_infra_cost",
+      "capabilityOverlap": [
+        "workflow_automation",
+        "api_development"
+      ],
+      "deploymentOptions": [
+        "docker",
+        "cloud",
+        "kubernetes"
+      ],
+      "limitations": [
+        "Self-hosted requires technical knowledge of Docker and server maintenance.",
+        "Fair-code license limits enterprise multi-tenant commercial resale without license."
+      ],
+      "infrastructureCostEstimated": "$5-$10/month on a 1GB-2GB RAM VPS or free local Docker",
+      "evidenceUrls": [
+        "https://n8n.io/pricing",
+        "https://docs.n8n.io/hosting/"
+      ],
+      "verifiedAt": "2026-10-31T11:21:35.440Z"
+    },
+    {
+      "id": "alt-a80ee4d0",
+      "paidToolName": "Firebase",
+      "alternativeName": "Supabase",
+      "alternativeUrl": "https://supabase.com",
+      "license": "Apache-2.0",
+      "classification": "free_and_open_source",
+      "capabilityOverlap": [
+        "databases",
+        "cloud_hosting",
+        "api_development"
+      ],
+      "deploymentOptions": [
+        "docker",
+        "cloud",
+        "kubernetes"
+      ],
+      "limitations": [
+        "Relational Postgres paradigm differs from Firebase NoSQL document model.",
+        "Cloud free tier has project pause after 1 week of inactivity (unpauses instantly)."
+      ],
+      "infrastructureCostEstimated": "Free tier on Supabase Cloud, or $10-$20/mo self-hosted VPS",
+      "evidenceUrls": [
+        "https://supabase.com/pricing",
+        "https://github.com/supabase/supabase/blob/master/LICENSE"
+      ],
+      "verifiedAt": "2026-10-31T11:21:35.441Z"
+    },
+    {
+      "id": "alt-f2bf6173",
+      "paidToolName": "Pinecone",
+      "alternativeName": "Qdrant",
+      "alternativeUrl": "https://qdrant.tech",
+      "license": "Apache-2.0",
+      "classification": "free_and_open_source",
+      "capabilityOverlap": [
+        "vector_embeddings",
+        "databases",
+        "analytics"
+      ],
+      "deploymentOptions": [
+        "docker",
+        "kubernetes",
+        "cloud",
+        "bare_metal"
+      ],
+      "limitations": [
+        "Requires server memory management for high-dimensional vector indexes at scale."
+      ],
+      "infrastructureCostEstimated": "Free 1GB cluster on Qdrant Cloud or $5/mo VPS self-hosted",
+      "evidenceUrls": [
+        "https://qdrant.tech/pricing/",
+        "https://github.com/qdrant/qdrant/blob/master/LICENSE"
+      ],
+      "verifiedAt": "2026-10-31T11:21:35.442Z"
+    },
+    {
+      "id": "alt-93a30618",
+      "paidToolName": "Postman",
+      "alternativeName": "Bruno",
+      "alternativeUrl": "https://www.usebruno.com",
+      "license": "MIT",
+      "classification": "free_and_open_source",
+      "capabilityOverlap": [
+        "api_development",
+        "developer_testing"
+      ],
+      "deploymentOptions": [
+        "bare_metal",
+        "cloud"
+      ],
+      "limitations": [
+        "Desktop client offline-first; team sync relies on Git repositories rather than Postman proprietary cloud workspaces."
+      ],
+      "infrastructureCostEstimated": "$0 (local execution on developer machine)",
+      "evidenceUrls": [
+        "https://www.usebruno.com/pricing",
+        "https://github.com/usebruno/bruno/blob/main/license.md"
+      ],
+      "verifiedAt": "2026-10-31T11:21:35.444Z"
+    },
+    {
+      "id": "alt-917472d1",
+      "paidToolName": "Airtable",
+      "alternativeName": "Baserow",
+      "alternativeUrl": "https://baserow.io",
+      "license": "MIT",
+      "classification": "free_and_open_source",
+      "capabilityOverlap": [
+        "databases",
+        "office_productivity",
+        "project_management"
+      ],
+      "deploymentOptions": [
+        "docker",
+        "cloud",
+        "kubernetes"
+      ],
+      "limitations": [
+        "Advanced enterprise SSO/audit logs require premium license in self-hosted edition."
+      ],
+      "infrastructureCostEstimated": "Free on Baserow Cloud (up to 3k rows) or $5-$10/mo VPS Docker",
+      "evidenceUrls": [
+        "https://baserow.io/pricing",
+        "https://gitlab.com/baserow/baserow/-/blob/develop/LICENSE"
+      ],
+      "verifiedAt": "2026-10-31T11:21:35.445Z"
+    }
+  ],
+  "changeEvents": [
+    {
+      "id": "chg-bf431e5e",
+      "resourceId": "res-terraform",
+      "resourceName": "Terraform",
+      "changeType": "licensing_change",
+      "previousValue": "Mozilla Public License 2.0 (MPL-2.0)",
+      "newValue": "Business Source License 1.1 (BSL-1.1)",
+      "evidenceUrl": "https://www.hashicorp.com/blog/defaulting-to-business-source-license",
+      "detectionTimestamp": "2026-10-31T11:21:35.446Z",
+      "verificationStatus": "verified",
+      "affectedResourceUrls": [
+        "https://www.hashicorp.com/blog/defaulting-to-business-source-license"
+      ],
+      "proposedAction": "Highlight OpenTofu as the verified open-source MPL-2.0 fork in alternatives radar."
+    },
+    {
+      "id": "chg-beaad1c2",
+      "resourceId": "res-redis",
+      "resourceName": "Redis",
+      "changeType": "licensing_change",
+      "previousValue": "BSD 3-Clause",
+      "newValue": "RSALv2 and SSPLv1 dual license",
+      "evidenceUrl": "https://redis.io/blog/redis-adopts-dual-source-available-licensing/",
+      "detectionTimestamp": "2026-10-31T11:21:35.448Z",
+      "verificationStatus": "verified",
+      "affectedResourceUrls": [
+        "https://redis.io/blog/redis-adopts-dual-source-available-licensing/"
+      ],
+      "proposedAction": "Recommend Valkey (Linux Foundation fork) for open-source BSD-3 workloads."
+    },
+    {
+      "id": "chg-9ec5b057",
+      "resourceId": "res-docker-desktop",
+      "resourceName": "Docker Desktop",
+      "changeType": "pricing_change",
+      "previousValue": "Free for all commercial environments",
+      "newValue": "Paid subscription required for enterprises >250 employees or >$10M revenue",
+      "evidenceUrl": "https://www.docker.com/pricing/faq/",
+      "detectionTimestamp": "2026-10-31T11:21:35.449Z",
+      "verificationStatus": "verified",
+      "affectedResourceUrls": [
+        "https://www.docker.com/pricing/faq/"
+      ],
+      "proposedAction": "Surface Rancher Desktop, Colima, and OrbStack in developer container alternatives."
+    }
+  ],
+  "evidenceRecords": [
+    {
+      "id": "ev-85ce9981",
+      "claimId": "claim-ollama-mit",
+      "sourceUrl": "https://github.com/ollama/ollama/blob/main/LICENSE",
+      "sourceTitle": "Ollama MIT License File",
+      "sourceType": "license_file",
+      "retrievalTimestamp": "2026-10-31T11:21:35.451Z",
+      "verificationTimestamp": "2026-10-31T11:21:35.451Z",
+      "claimSupported": "Ollama is licensed under the MIT License",
+      "relevantExcerpt": "MIT License. Permission is hereby granted, free of charge, to any person obtaining a copy...",
+      "confidence": "high",
+      "isAuthoritative": true,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "ev-1fe0bd4b",
+      "claimId": "claim-supabase-apache",
+      "sourceUrl": "https://github.com/supabase/supabase/blob/master/LICENSE",
+      "sourceTitle": "Supabase Apache 2.0 License File",
+      "sourceType": "license_file",
+      "retrievalTimestamp": "2026-10-31T11:21:35.452Z",
+      "verificationTimestamp": "2026-10-31T11:21:35.452Z",
+      "claimSupported": "Supabase open source core is licensed under Apache 2.0",
+      "relevantExcerpt": "Apache License Version 2.0, January 2004. Licensed under the Apache License, Version 2.0...",
+      "confidence": "high",
+      "isAuthoritative": true,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "ev-97f700d4",
+      "claimId": "claim-baserow-pricing",
+      "sourceUrl": "https://baserow.io/pricing",
+      "sourceTitle": "Baserow Official Pricing Page",
+      "sourceType": "official_website",
+      "retrievalTimestamp": "2026-10-31T11:21:35.454Z",
+      "verificationTimestamp": "2026-10-31T11:21:35.454Z",
+      "claimSupported": "Baserow provides a free community tier with self-hosting support",
+      "relevantExcerpt": "Community Edition: 100% Free self-hosted under MIT License with unlimited rows per database.",
+      "confidence": "high",
+      "isAuthoritative": true,
+      "reviewStatus": "approved"
+    }
+  ],
+  "knowledgeGraphNodes": [
+    {
+      "id": "node-9ae78e64",
+      "type": "product",
+      "name": "Supabase",
+      "slug": "supabase",
+      "attributes": {}
+    },
+    {
+      "id": "node-b3bc41fb",
+      "type": "product",
+      "name": "Firebase",
+      "slug": "firebase",
+      "attributes": {}
+    },
+    {
+      "id": "node-ac4e29d6",
+      "type": "product",
+      "name": "Ollama",
+      "slug": "ollama",
+      "attributes": {}
+    },
+    {
+      "id": "node-77605dea",
+      "type": "product",
+      "name": "n8n",
+      "slug": "n8n",
+      "attributes": {}
+    },
+    {
+      "id": "node-f394ac0c",
+      "type": "product",
+      "name": "Zapier",
+      "slug": "zapier",
+      "attributes": {}
+    },
+    {
+      "id": "node-7e3d81d3",
+      "type": "license",
+      "name": "MIT License",
+      "slug": "mit",
+      "attributes": {}
+    },
+    {
+      "id": "node-b080f943",
+      "type": "license",
+      "name": "Apache 2.0",
+      "slug": "apache-2-0",
+      "attributes": {}
+    },
+    {
+      "id": "node-9c4501d9",
+      "type": "capability",
+      "name": "Databases",
+      "slug": "databases",
+      "attributes": {}
+    },
+    {
+      "id": "node-a54fc643",
+      "type": "capability",
+      "name": "Workflow Automation",
+      "slug": "workflow-automation",
+      "attributes": {}
+    }
+  ],
+  "knowledgeGraphEdges": [
+    {
+      "id": "edge-37d23998",
+      "sourceNodeId": "node-9ae78e64",
+      "targetNodeId": "node-b3bc41fb",
+      "relationship": "replaces",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge-c4bacc09",
+      "sourceNodeId": "node-9ae78e64",
+      "targetNodeId": "node-b080f943",
+      "relationship": "licensed_under",
+      "confidence": 1
+    },
+    {
+      "id": "edge-cfefddb2",
+      "sourceNodeId": "node-9ae78e64",
+      "targetNodeId": "node-9c4501d9",
+      "relationship": "provides_capability",
+      "confidence": 1
+    },
+    {
+      "id": "edge-5f83161e",
+      "sourceNodeId": "node-77605dea",
+      "targetNodeId": "node-f394ac0c",
+      "relationship": "has_alternative",
+      "confidence": 0.92
+    },
+    {
+      "id": "edge-b7749b21",
+      "sourceNodeId": "node-77605dea",
+      "targetNodeId": "node-a54fc643",
+      "relationship": "provides_capability",
+      "confidence": 1
+    },
+    {
+      "id": "edge-bff42d88",
+      "sourceNodeId": "node-ac4e29d6",
+      "targetNodeId": "node-7e3d81d3",
+      "relationship": "licensed_under",
+      "confidence": 1
+    }
+  ],
+  "editorialProposals": [
+    {
+      "id": "prop-3343f6c9",
+      "title": "Supabase vs Firebase: The Definitive Self-Hosting & Cost Comparison",
+      "proposalType": "alternative_comparison",
+      "researchEvidenceIds": [
+        "ev-supabase-apache"
+      ],
+      "targetAudience": "Full-stack engineers and startup architects",
+      "searchIntent": "Free Firebase alternatives for relational data",
+      "uniqueValue": "Direct SQL capabilities, row-level security without vendor lock-in, and self-hosted Docker compose templates.",
+      "status": "approved",
+      "proposedByAgent": "Autonomous Alternatives Agent",
+      "reviewedBy": "Lead Technical Editor",
+      "createdAt": "2026-10-31T11:21:35.481Z",
+      "updatedAt": "2026-10-31T11:21:35.481Z"
+    },
+    {
+      "id": "prop-9f57ac9a",
+      "title": "Deploying Ollama Locally: Zero-Cost LLM Inference on Consumer Hardware",
+      "proposalType": "tutorial_guide",
+      "researchEvidenceIds": [
+        "ev-ollama-mit"
+      ],
+      "targetAudience": "AI developers and privacy-conscious teams",
+      "searchIntent": "How to run local models without OpenAI API costs",
+      "uniqueValue": "Step-by-step benchmark and memory sizing guide across macOS Apple Silicon and Linux NVIDIA rigs.",
+      "status": "approved",
+      "proposedByAgent": "AI Discovery Agent",
+      "reviewedBy": "Lead Technical Editor",
+      "createdAt": "2026-10-31T11:21:35.483Z",
+      "updatedAt": "2026-10-31T11:21:35.483Z"
+    },
+    {
+      "id": "prop-f47f406c",
+      "title": "Redis Licensing Transition: Valkey Migration Analysis",
+      "proposalType": "change_report",
+      "researchEvidenceIds": [
+        "ev-redis-bsd"
+      ],
+      "targetAudience": "DevOps and infrastructure architects",
+      "searchIntent": "Open source alternatives to Redis after license change",
+      "uniqueValue": "In-depth analysis of Linux Foundation Valkey governance, wire protocol compatibility, and operational drop-in stability.",
+      "status": "pending_review",
+      "proposedByAgent": "Change Detection Agent",
+      "createdAt": "2026-10-31T11:21:35.485Z",
+      "updatedAt": "2026-10-31T11:21:35.485Z"
+    }
+  ],
+  "radarEntries": [
+    {
+      "id": "rad-ace90167",
+      "name": "Ollama",
+      "slug": "ollama",
+      "categorySlug": "local-llm",
+      "summary": "Local execution of open-weight LLMs on consumer GPUs & Apple Silicon.",
+      "license": "MIT",
+      "pricingClassification": "Free & Open Source",
+      "isTrending": true,
+      "verifiedAt": "2026-10-31T11:17:25.416Z",
+      "coordinates": {
+        "r": 0.15,
+        "theta": 45,
+        "quadrant": "ai_models"
+      }
+    },
+    {
+      "id": "rad-97013247",
+      "name": "vLLM",
+      "slug": "vllm",
+      "categorySlug": "inference-engine",
+      "summary": "High-throughput PagedAttention inference server for production LLM workloads.",
+      "license": "Apache-2.0",
+      "pricingClassification": "Free & Open Source",
+      "isTrending": true,
+      "verifiedAt": "2026-10-31T11:17:25.417Z",
+      "coordinates": {
+        "r": 0.22,
+        "theta": 65,
+        "quadrant": "ai_models"
+      }
+    },
+    {
+      "id": "rad-0ac90e27",
+      "name": "Supabase",
+      "slug": "supabase",
+      "categorySlug": "database-backend",
+      "summary": "Open source Postgres backend with auth, storage, and realtime subscriptions.",
+      "license": "Apache-2.0",
+      "pricingClassification": "Free Core & Freemium Cloud",
+      "isTrending": true,
+      "replaces": [
+        "Firebase"
+      ],
+      "verifiedAt": "2026-10-31T11:17:25.418Z",
+      "coordinates": {
+        "r": 0.18,
+        "theta": 135,
+        "quadrant": "open_source"
+      }
+    },
+    {
+      "id": "rad-fdf5e70d",
+      "name": "Qdrant",
+      "slug": "qdrant",
+      "categorySlug": "vector-db",
+      "summary": "High-performance Rust vector similarity engine for semantic search and RAG.",
+      "license": "Apache-2.0",
+      "pricingClassification": "Free Core & Freemium Cloud",
+      "isTrending": true,
+      "replaces": [
+        "Pinecone"
+      ],
+      "verifiedAt": "2026-10-31T11:17:25.418Z",
+      "coordinates": {
+        "r": 0.28,
+        "theta": 160,
+        "quadrant": "open_source"
+      }
+    },
+    {
+      "id": "rad-c047661e",
+      "name": "LangGraph",
+      "slug": "langgraph",
+      "categorySlug": "agent-framework",
+      "summary": "Multi-agent orchestration framework with cyclical state graphs and human-in-the-loop controls.",
+      "license": "MIT",
+      "pricingClassification": "Free & Open Source",
+      "isTrending": true,
+      "verifiedAt": "2026-10-31T11:17:25.419Z",
+      "coordinates": {
+        "r": 0.25,
+        "theta": 220,
+        "quadrant": "frameworks"
+      }
+    },
+    {
+      "id": "rad-e58f2613",
+      "name": "n8n",
+      "slug": "n8n",
+      "categorySlug": "automation",
+      "summary": "Self-hosted workflow automation platform with AI node support and 400+ integrations.",
+      "license": "Sustainable-Use-License",
+      "pricingClassification": "Free Self-Hosted",
+      "isTrending": true,
+      "replaces": [
+        "Zapier",
+        "Make.com"
+      ],
+      "verifiedAt": "2026-10-31T11:17:25.420Z",
+      "coordinates": {
+        "r": 0.2,
+        "theta": 315,
+        "quadrant": "alternatives"
+      }
+    },
+    {
+      "id": "rad-f97cb1b4",
+      "name": "Bruno",
+      "slug": "bruno",
+      "categorySlug": "api-testing",
+      "summary": "Git-friendly, fast, offline-first open source desktop API client.",
+      "license": "MIT",
+      "pricingClassification": "Free & Open Source",
+      "isTrending": true,
+      "replaces": [
+        "Postman",
+        "Insomnia"
+      ],
+      "verifiedAt": "2026-10-31T11:17:25.420Z",
+      "coordinates": {
+        "r": 0.16,
+        "theta": 340,
+        "quadrant": "alternatives"
+      }
+    }
+  ]
+}
