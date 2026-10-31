@@ -3,10 +3,8 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageContainer from '@/components/layout/PageContainer.astro';
 import SectionHeading from '@/components/layout/SectionHeading.astro';
 import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
-import PartnerRecommendation from '@/components/partners/PartnerRecommendation.astro';
-import PartnerDisclosure from '@/components/partners/PartnerDisclosure.astro';
 import Badge from '@/components/ui/Badge.astro';
-import { Building2, ShieldCheck, CheckCircle, AlertTriangle, FileText } from 'lucide-react';
+import { Building2, ShieldCheck, CheckCircle, AlertTriangle, FileText, ExternalLink } from 'lucide-react';
 ---
 
 <BaseLayout
@@ -61,23 +59,24 @@ import { Building2, ShieldCheck, CheckCircle, AlertTriangle, FileText } from 'lu
         </div>
       </div>
 
-      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">Ongoing Annual Filings</h2>
+      <h2 class="text-2xl font-heading font-bold text-text-primary pt-4">Official Statutory Guidance & Resources</h2>
       <p>
-        To avoid fines or company strike-off, your company must file two annual returns:
+        Always cross-reference statutory filings against official UK Government guidance portals:
       </p>
-      <ol class="space-y-2 list-decimal pl-5">
-        <li><strong>Confirmation Statement:</strong> Filed every 12 months with Companies House to confirm current share structure and officer details.</li>
-        <li><strong>Company Tax Return & Annual Accounts:</strong> Prepared annually and submitted to HMRC and Companies House.</li>
-      </ol>
+      <ul class="space-y-2 list-disc pl-5">
+        <li>
+          <a href="https://www.gov.uk/limited-company-formation" target="_blank" rel="noopener noreferrer" class="text-cosmic-cyan hover:underline inline-flex items-center gap-1">
+            <span>GOV.UK: Setting Up a Limited Company</span>
+            <ExternalLink className="w-3.5 h-3.5" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.gov.uk/government/organisations/companies-house" target="_blank" rel="noopener noreferrer" class="text-cosmic-cyan hover:underline inline-flex items-center gap-1">
+            <span>Companies House Public Guidance</span>
+            <ExternalLink className="w-3.5 h-3.5" />
+          </a>
+        </li>
+      </ul>
     </article>
-
-    <PartnerRecommendation
-      partner="digiformation"
-      context="UK LTD Incorporation"
-      title="Incorporate Your UK LTD Directly with DigiFormation"
-      description="Looking for an expedited, compliant incorporation process? DigiFormation provides full Companies House registration, London registered office address, and annual filing support."
-    />
-
-    <PartnerDisclosure />
   </PageContainer>
 </BaseLayout>

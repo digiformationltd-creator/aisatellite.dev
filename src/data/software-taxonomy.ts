@@ -115,7 +115,7 @@ export const SOFTWARE_TAXONOMY: SoftwareTaxonomyItem[] = [
     bestAlternatives: ['Twenty (Open Source)', 'ERPNext', 'SuiteCRM'],
     recommendedAlternatives: ['Twenty (Open Source)', 'ERPNext', 'SuiteCRM'],
     tradeoffs: ['ERPNext self-hosting requires Linux sysadmin familiarity', 'Twenty is rapidly evolving with newer API releases'],
-    keyTradeoffs: 'Twenty is a modern GraphQL/TypeScript open-source CRM with zero per-seat fees; remote agencies can also leverage Digi Biz OS.',
+    keyTradeoffs: 'Twenty is a modern GraphQL/TypeScript open-source CRM with zero per-seat fees, while ERPNext provides full enterprise ERP capabilities.',
   },
   {
     paidProduct: 'Figma',

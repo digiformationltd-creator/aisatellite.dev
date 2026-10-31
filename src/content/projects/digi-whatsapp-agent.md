@@ -18,7 +18,7 @@ features:
   - "Multi-device WhatsApp Web QR authentication using Baileys protocol"
   - "Natural language product catalog browsing and automated order intake"
   - "Human-in-the-loop escalation dashboard with instant push alerts"
-  - "Integrates with Digi Biz OS, ERPNext, and custom webhooks"
+  - "Integrates with ERPNext, Twenty CRM, and custom webhooks"
   - "Zero per-message fees — runs 100% on your own VPS or home server"
 version: "3.1.0"
 releaseDate: "2026-10-29"
@@ -70,4 +70,4 @@ Digi WhatsApp Agent enables solo founders, agencies, and small businesses to aut
 ### Standout Capabilities:
 - **Zero Cloud Middlemen**: Operates directly between your server and WhatsApp via web sockets.
 - **Context-Aware Memory**: Remembers past client conversations, ongoing orders, and delivery addresses using embedded SQLite or PostgreSQL.
-- **Enterprise Partner Integration**: Natively bridges into Digi Biz OS and DigiFormation customer CRM records.
+- **Enterprise System Integration**: Natively bridges into standard SQL databases, ERPNext, and custom CRM webhooks.

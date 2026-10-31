@@ -11,7 +11,7 @@
 Unlike traditional affiliate-choked blogs, AI Satellite adheres to uncompromising engineering standards:
 - **Zero Paywalls:** All content, tools, prompts, and code samples are open access.
 - **Zero Fabricated Claims:** Every software entry has verifiable license details, source URLs, and tested limitations.
-- **Transparent Partner Disclosures:** Contextual founder services (such as [DigiFormation](https://www.digiformation.co.uk/) for UK LTD incorporation and banking, and [Digi Biz OS](https://digibizos.co.uk/) for agency operations) are clearly marked with ethical disclaimers.
+- **Transparent Disclosures:** Any commercial affiliations or partner resources within editorial articles are clearly disclosed with statutory disclaimers.
 
 ---
 
@@ -117,7 +117,7 @@ npm run preview
 
 AI Satellite maintains absolute transparency:
 1. **No Paid Inclusions:** Tool listings cannot be bought. Tools are ranked based on developer utility, open-source license status, and self-hostability.
-2. **Contextual Partner Disclosures:** When articles reference UK LTD incorporation or agency CRM operations, [DigiFormation](https://www.digiformation.co.uk/) and [Digi Biz OS](https://digibizos.co.uk/) are noted with clear editorial badges informing the reader of the commercial relationship.
+2. **Contextual Disclosures:** Any commercial affiliations or partner resources referenced within editorial articles are clearly disclosed in accordance with statutory guidelines.
 
 ---
 

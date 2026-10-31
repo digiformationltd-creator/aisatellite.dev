@@ -39,7 +39,7 @@ evidenceUrls:
   - "https://docs.n8n.io/"
   - "https://www.activepieces.com/docs"
 lastVerified: "2026-10-31"
-partnerContext: "digibizos"
+partnerContext: "none"
 published: true
 ---
 
@@ -50,6 +50,3 @@ Zapier's tier limits enforce punitive charges when tasks spike. A modest lead ge
 1. **n8n**: The premier fair-code workflow automation tool with extensive community nodes.
 2. **Activepieces**: Lightweight, open-source automation platform written in TypeScript.
 3. **Windmill**: High-performance developer platform for background jobs and scripts.
-
-### Contextual Agency Automation
-For agencies seeking unified CRM, automated invoicing, and client workflow operations without managing individual server scripts, consider exploring [Digi Biz OS](https://digibizos.co.uk/).

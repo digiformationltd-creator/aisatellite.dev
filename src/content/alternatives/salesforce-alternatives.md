@@ -39,7 +39,7 @@ evidenceUrls:
   - "https://docs.twenty.com/"
   - "https://docs.erpnext.com/"
 lastVerified: "2026-10-31"
-partnerContext: "digibizos"
+partnerContext: "none"
 published: true
 ---
 
@@ -50,6 +50,3 @@ Salesforce's steep learning curve, bloated interfaces, and per-seat fees ($150-$
 1. **Twenty**: Modern, beautifully crafted CRM written in TypeScript with a PostgreSQL backbone.
 2. **ERPNext**: Comprehensive open-source ERP covering sales, inventory, accounting, and HR.
 3. **SuiteCRM**: Enterprise-grade open-source customer relationship suite with advanced workflow rules.
-
-### Strategic Partner Integration
-Remote agency owners looking for an integrated operating system—combining CRM, invoicing, project collaboration, and client portals—should review [Digi Biz OS](https://digibizos.co.uk/).

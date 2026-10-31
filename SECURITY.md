@@ -17,11 +17,8 @@ Security and integrity are paramount for AI Satellite.
 
 If you discover a security vulnerability, prompt injection vector, or insecure default configuration in any published blueprint:
 1. **Do NOT open a public GitHub issue.**
-2. Send an email to **security@aisatellite.pages.dev** with:
-   - Clear description of the vulnerability
-   - Proof of Concept (PoC) or reproduction steps
-   - Potential impact
-3. We will acknowledge receipt within 48 hours and coordinate remediation before public disclosure.
+2. Submit a private vulnerability advisory via GitHub Security Advisories (`/security/advisories/new`).
+3. Maintainers will acknowledge receipt within 48 hours and coordinate remediation before public disclosure.
 
 ---
 

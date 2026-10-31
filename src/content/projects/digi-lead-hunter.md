@@ -18,7 +18,7 @@ features:
   - "Automated discovery of open-source projects seeking commercial support or consulting"
   - "Public GitHub issue triage identifying recurring bug patterns across frameworks"
   - "Ethical, compliant data collection relying exclusively on authorized public APIs"
-  - "Direct webhook sync to Digi Biz OS and popular CRM systems"
+  - "Direct webhook sync to standard REST endpoints and popular open-source CRMs"
   - "Local SQLite storage with full-text search indexing"
 version: "2.0.1"
 releaseDate: "2026-10-27"
@@ -75,4 +75,4 @@ Digi Lead Hunter replaces aggressive scraping and dubious email marketing lists 
 ### Operating Principles:
 1. **Public APIs Only**: Collects only public issue data and explicitly permitted repository information.
 2. **Value-First Targeting**: Identifies founders and teams actively requesting architectural assistance or open-source solutions.
-3. **Seamless CRM Sync**: Feeds verified opportunities directly into Digi Biz OS or exportable formats.
+3. **Seamless CRM Sync**: Feeds verified opportunities directly into PostgreSQL, ERPNext, Twenty, or standard JSON/CSV exports.

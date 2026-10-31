@@ -67,7 +67,7 @@ describe('Product A — Alternatives Search & Matching Engine', () => {
       categorySlug: 'crm-erp',
       replaces: ['Salesforce', 'Salesforce CRM'],
       classification: ['open_source', 'self_hosted'],
-      summary: 'Replace Salesforce with Twenty, ERPNext, and Digi Biz OS.',
+      summary: 'Replace Salesforce with Twenty, ERPNext, and SuiteCRM.',
       monthlySavings: 300,
       popularity: 88,
       selfHosted: true,

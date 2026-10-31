@@ -3,8 +3,6 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageContainer from '@/components/layout/PageContainer.astro';
 import SectionHeading from '@/components/layout/SectionHeading.astro';
 import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
-import PartnerRecommendation from '@/components/partners/PartnerRecommendation.astro';
-import PartnerDisclosure from '@/components/partners/PartnerDisclosure.astro';
 import Badge from '@/components/ui/Badge.astro';
 import { CreditCard, ShieldCheck, CheckCircle, AlertTriangle, DollarSign } from 'lucide-react';
 ---
@@ -67,14 +65,5 @@ import { CreditCard, ShieldCheck, CheckCircle, AlertTriangle, DollarSign } from 
         <li><strong>Matching Entity Details:</strong> Bank account name must match your registered corporate entity name exactly.</li>
       </ul>
     </article>
-
-    <PartnerRecommendation
-      partner="digiformation"
-      context="UK LTD & Banking Setup"
-      title="Form Your Company with Verified Banking Prerequisites"
-      description="DigiFormation assists international founders with complete UK company incorporation and provides the official documents required to apply for Wise Business and Stripe."
-    />
-
-    <PartnerDisclosure />
   </PageContainer>
 </BaseLayout>

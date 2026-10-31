@@ -4,7 +4,6 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageContainer from '@/components/layout/PageContainer.astro';
 import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
 import Badge from '@/components/ui/Badge.astro';
-import PartnerRecommendation from '@/components/partners/PartnerRecommendation.astro';
 import { Layers, ArrowRight, ShieldCheck, CheckCircle2, AlertTriangle, Server, ExternalLink } from 'lucide-react';
 
 export async function getStaticPaths() {
@@ -210,18 +209,6 @@ const structuredData = {
     <div class="prose prose-invert max-w-none text-text-secondary leading-relaxed">
       <Content />
     </div>
-
-    {/* Contextual Partner Recommendation if applicable */}
-    {partnerContext === 'digibizos' && (
-      <div class="mt-12">
-        <PartnerRecommendation partner="digibizos" />
-      </div>
-    )}
-    {partnerContext === 'digiformation' && (
-      <div class="mt-12">
-        <PartnerRecommendation partner="digiformation" />
-      </div>
-    )}
 
     {/* Verification Footer */}
     <footer class="mt-12 pt-6 border-t border-border-subtle flex flex-wrap items-center justify-between text-xs font-mono text-text-muted">

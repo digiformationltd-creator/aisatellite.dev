@@ -141,7 +141,7 @@ Please maintain a respectful and welcoming environment for all contributors.
 ## Reporting a Vulnerability
 
 If you discover a security vulnerability in ${ctx.projectName}, please report it responsibly:
-- **Email**: security@aisatellite.org
+- **Security Reporting**: Submit a private vulnerability report via GitHub Security Advisories or maintainer channels.
 - **Response SLA**: We acknowledge all reports within 48 hours and provide a remediation plan within 7 days.
 - **Please DO NOT** create public GitHub issues for undisclosed security vulnerabilities.
 `;
