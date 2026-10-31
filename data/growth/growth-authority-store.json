@@ -18,7 +18,7 @@
   ],
   "authorityClusters": [
     {
-      "id": "cluster-1793448139077-5xud",
+      "id": "cluster-1793449113279-l0ba",
       "pillarTitle": "Best Free and Open-Source Automation Tools",
       "pillarSlug": "/alternatives/automation",
       "topicFamily": "Self-hosted automation",
@@ -49,10 +49,10 @@
       "internalLinkDepthMax": 2,
       "coverageScore": 60,
       "freshnessStatus": "fresh",
-      "updatedAt": "2026-10-31T12:02:19.077Z"
+      "updatedAt": "2026-10-31T12:18:33.279Z"
     },
     {
-      "id": "cluster-1793448139078-0agt",
+      "id": "cluster-1793449113279-6bsx",
       "pillarTitle": "Local AI Development & Open-Weight LLM Inference",
       "pillarSlug": "/topics/ai-development",
       "topicFamily": "Open-source AI tools",
@@ -76,10 +76,10 @@
       "internalLinkDepthMax": 2,
       "coverageScore": 40,
       "freshnessStatus": "fresh",
-      "updatedAt": "2026-10-31T12:02:19.078Z"
+      "updatedAt": "2026-10-31T12:18:33.279Z"
     },
     {
-      "id": "cluster-1793448139078-n73x",
+      "id": "cluster-1793449113280-g5qu",
       "pillarTitle": "Open-Source Backend & Database Infrastructure",
       "pillarSlug": "/topics/databases",
       "topicFamily": "Free alternatives to paid software",
@@ -103,12 +103,12 @@
       "internalLinkDepthMax": 2,
       "coverageScore": 40,
       "freshnessStatus": "fresh",
-      "updatedAt": "2026-10-31T12:02:19.078Z"
+      "updatedAt": "2026-10-31T12:18:33.280Z"
     }
   ],
   "contentGapProposals": [
     {
-      "id": "gap-1793448139079-h3nh",
+      "id": "gap-1793449113281-08tt",
       "title": "Valkey Migration Guide for Production Redis Deployments",
       "topicFamily": "Free alternatives to paid software",
       "searchIntent": "developer_implementation",
@@ -117,10 +117,10 @@
       "unmetNeedExplanation": "Users searching for open-source BSD Redis replacements lack a step-by-step wire-compatible migration guide.",
       "evidenceRequirement": "Official Valkey Linux Foundation releases and benchmark latency tests against Redis 7.2.",
       "status": "proposed",
-      "proposedAt": "2026-10-31T12:02:19.079Z"
+      "proposedAt": "2026-10-31T12:18:33.281Z"
     },
     {
-      "id": "gap-1793448139080-9wpr",
+      "id": "gap-1793449113282-a5cz",
       "title": "Building Stateful Agent Workflows with LangGraph and Ollama",
       "topicFamily": "AI agents",
       "searchIntent": "tutorial",
@@ -129,10 +129,10 @@
       "unmetNeedExplanation": "Developers query for multi-actor state graph agent tutorials that operate 100% offline without OpenAI API credits.",
       "evidenceRequirement": "Working Python code repo tested on macOS Apple Silicon and Linux Docker.",
       "status": "proposed",
-      "proposedAt": "2026-10-31T12:02:19.080Z"
+      "proposedAt": "2026-10-31T12:18:33.282Z"
     },
     {
-      "id": "gap-1793448139081-f9gl",
+      "id": "gap-1793449113283-u7gy",
       "title": "Self-Hosted Airtable Alternative: Baserow vs NocoDB",
       "topicFamily": "Open-source productivity software",
       "searchIntent": "comparative",
@@ -141,12 +141,12 @@
       "unmetNeedExplanation": "Discussions show confusion around Baserow vs NocoDB performance on large datasets (>50k rows).",
       "evidenceRequirement": "Standardized Postgres indexing benchmarks and docker-compose RAM consumption metrics.",
       "status": "proposed",
-      "proposedAt": "2026-10-31T12:02:19.081Z"
+      "proposedAt": "2026-10-31T12:18:33.283Z"
     }
   ],
   "originalResearchStudies": [
     {
-      "id": "study-1793448139082-xxcc",
+      "id": "study-1793449113284-0hfb",
       "title": "Local LLM Inference Memory Overhead: Ollama vs vLLM on Consumer Hardware",
       "slug": "local-llm-inference-memory-overhead",
       "format": "ai_agent_framework_benchmark",
@@ -171,12 +171,12 @@
         "vllm": "v0.6.6",
         "cuda": "12.4"
       },
-      "publicationDate": "2026-10-31T12:02:19.082Z",
+      "publicationDate": "2026-10-31T12:18:33.284Z",
       "peerReviewStatus": "published",
       "author": "AI Satellite Systems Research Team"
     },
     {
-      "id": "study-1793448139083-84xp",
+      "id": "study-1793449113285-7fnd",
       "title": "Self-Hosting Workflow Automation: Real Infrastructure Cost Analysis Across 4 Cloud Providers",
       "slug": "self-hosting-automation-cost-analysis",
       "format": "self_hosting_cost_comparison",
@@ -202,32 +202,32 @@
         "docker": "27.3.1",
         "postgres": "16.4"
       },
-      "publicationDate": "2026-10-31T12:02:19.083Z",
+      "publicationDate": "2026-10-31T12:18:33.285Z",
       "peerReviewStatus": "published",
       "author": "AI Satellite Infrastructure Team"
     }
   ],
   "referringDomains": [
     {
-      "id": "ref-1793448139084-ctf7",
+      "id": "ref-1793449113286-9q8m",
       "referringDomain": "news.ycombinator.com",
       "referringUrl": "https://news.ycombinator.com/item?id=41892011",
       "targetAiSatelliteUrl": "https://aisatellite.dev/alternatives/zapier-alternatives",
       "citationContext": "Discussing open-source alternatives to commercial workflow SaaS tools.",
       "citationType": "open_source_tool",
       "isObserved": true,
-      "discoveredAt": "2026-10-31T12:02:19.084Z",
+      "discoveredAt": "2026-10-31T12:18:33.286Z",
       "anchorText": "AI Satellite Zapier Alternatives"
     },
     {
-      "id": "ref-1793448139085-kjaw",
+      "id": "ref-1793449113287-cgqg",
       "referringDomain": "github.com",
       "referringUrl": "https://github.com/topics/free-alternatives",
       "targetAiSatelliteUrl": "https://aisatellite.dev/radar",
       "citationContext": "GitHub topic directory linking to verified technology radar.",
       "citationType": "directory",
       "isObserved": true,
-      "discoveredAt": "2026-10-31T12:02:19.085Z",
+      "discoveredAt": "2026-10-31T12:18:33.287Z",
       "anchorText": "Global Technology Radar"
     }
   ],
@@ -247,7 +247,7 @@
       "isApiConfigured": true,
       "trafficViewsWeekly": 4850,
       "uniqueClonesWeekly": 340,
-      "measuredAt": "2026-10-31T12:02:19.086Z"
+      "measuredAt": "2026-10-31T12:18:33.288Z"
     }
   ],
   "aeoEvaluations": [
@@ -319,7 +319,7 @@
   "conversionEvents": [],
   "growthExperiments": [
     {
-      "id": "exp-1793448139090-0ckz",
+      "id": "exp-1793449113293-dnyc",
       "name": "Comparison Matrix Layout: Sticky Headers vs Side Inspector",
       "hypothesis": "Sticky column headers on the free alternatives comparison table increase official repository click-through rate.",
       "targetMetric": "official_repo_click",
@@ -342,7 +342,7 @@
         }
       ],
       "status": "running",
-      "startDate": "2026-10-31T12:02:19.090Z",
+      "startDate": "2026-10-31T12:18:33.293Z",
       "minimumSampleSize": 100,
       "currentSampleSize": 0
     }

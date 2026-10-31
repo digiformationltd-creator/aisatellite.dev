@@ -54,3 +54,7 @@
 /launch-admin*
   Cache-Control: private, no-cache, no-store, must-revalidate
   Pragma: no-cache
+
+/admin*
+  Cache-Control: private, no-cache, no-store, must-revalidate
+  Pragma: no-cache

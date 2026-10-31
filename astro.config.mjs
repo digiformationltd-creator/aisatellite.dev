@@ -24,7 +24,8 @@ export default defineConfig({
         !page.includes('/growth-admin') &&
         !page.includes('/research-admin') &&
         !page.includes('/reliability-admin') &&
-        !page.includes('/launch-admin'),
+        !page.includes('/launch-admin') &&
+        !page.includes('/admin'),
     }),
   ],
   vite: {

@@ -1,0 +1,45 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import UnifiedCommandCenter from '@/components/admin/UnifiedCommandCenter.tsx';
+import { ecosystemDatabase } from '@/lib/ecosystem/database';
+import { ecosystemService } from '@/lib/ecosystem/ecosystem-service';
+
+const initialResources = ecosystemDatabase.getResources();
+const initialJobs = ecosystemDatabase.getScheduledJobs();
+const initialExecutions = ecosystemDatabase.getAgentExecutions();
+const initialHealth = ecosystemService.getSystemHealth();
+---
+
+<BaseLayout
+  title="Unified Command Center — AI Satellite Admin"
+  description="Private operational command center for cross-module ecosystem integration, CRIS registry, knowledge graph, and autonomous multi-agent orchestration."
+  noIndex={true}
+>
+  <PageContainer>
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Unified Admin', href: '/admin' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Private Operational Command Station"
+      title="Unified Platform Command Center"
+      description="Consolidated administration for central resources, knowledge graph topology, multi-agent orchestration, and real-time operational telemetry."
+    />
+
+    <div class="mt-8">
+      <UnifiedCommandCenter
+        client:load
+        initialResources={initialResources}
+        initialJobs={initialJobs}
+        initialExecutions={initialExecutions}
+        initialHealth={initialHealth}
+      />
+    </div>
+  </PageContainer>
+</BaseLayout>

@@ -7,6 +7,7 @@ Disallow: /growth-admin
 Disallow: /operations-admin
 Disallow: /reliability-admin
 Disallow: /launch-admin
+Disallow: /admin
 Disallow: /factory
 Disallow: /workspace
 Disallow: /community/moderation

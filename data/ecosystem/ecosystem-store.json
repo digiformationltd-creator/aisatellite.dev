@@ -1,0 +1,250 @@
+{
+  "resources": [
+    {
+      "id": "res_signoz",
+      "slug": "signoz",
+      "name": "SigNoz",
+      "type": "open_source_project",
+      "officialUrl": "https://signoz.io",
+      "repositoryUrl": "https://github.com/SigNoz/signoz",
+      "license": "Apache-2.0",
+      "pricing": "Free & Open Source (Self-Hosted)",
+      "capabilities": [
+        "APM",
+        "Distributed Tracing",
+        "Metrics",
+        "Logs",
+        "Observability"
+      ],
+      "categories": [
+        "monitoring",
+        "observability",
+        "devops"
+      ],
+      "verificationStatus": "verified",
+      "editorialStatus": "published",
+      "verifiedAt": "2026-10-31T00:00:00.000Z",
+      "lastReviewedAt": "2026-10-31T00:00:00.000Z",
+      "metadata": {
+        "stars": 19500,
+        "githubOwner": "SigNoz",
+        "replacesProduct": "Datadog"
+      }
+    },
+    {
+      "id": "res_datadog",
+      "slug": "datadog",
+      "name": "Datadog",
+      "type": "software_product",
+      "officialUrl": "https://www.datadoghq.com",
+      "pricing": "Commercial SaaS ($15-$23 per host/mo)",
+      "capabilities": [
+        "APM",
+        "Cloud Monitoring",
+        "Log Management",
+        "Network Monitoring"
+      ],
+      "categories": [
+        "monitoring",
+        "observability"
+      ],
+      "verificationStatus": "verified",
+      "editorialStatus": "published",
+      "verifiedAt": "2026-10-31T00:00:00.000Z",
+      "lastReviewedAt": "2026-10-31T00:00:00.000Z",
+      "metadata": {}
+    },
+    {
+      "id": "res_podman",
+      "slug": "podman",
+      "name": "Podman",
+      "type": "open_source_project",
+      "officialUrl": "https://podman.io",
+      "repositoryUrl": "https://github.com/containers/podman",
+      "license": "Apache-2.0",
+      "pricing": "Free & Open Source",
+      "capabilities": [
+        "Rootless Containers",
+        "Pods",
+        "Docker CLI Alias",
+        "OCI Compliant"
+      ],
+      "categories": [
+        "containers",
+        "virtualization",
+        "devops"
+      ],
+      "verificationStatus": "verified",
+      "editorialStatus": "published",
+      "verifiedAt": "2026-10-31T00:00:00.000Z",
+      "lastReviewedAt": "2026-10-31T00:00:00.000Z",
+      "metadata": {
+        "stars": 24000,
+        "githubOwner": "containers",
+        "replacesProduct": "Docker Desktop"
+      }
+    },
+    {
+      "id": "res_docker_desktop",
+      "slug": "docker-desktop",
+      "name": "Docker Desktop",
+      "type": "software_product",
+      "officialUrl": "https://www.docker.com/products/docker-desktop",
+      "pricing": "Commercial Subscription for Enterprise ($5-$24/user/mo)",
+      "capabilities": [
+        "Container Management",
+        "Kubernetes Local",
+        "Extensions"
+      ],
+      "categories": [
+        "containers",
+        "virtualization"
+      ],
+      "verificationStatus": "verified",
+      "editorialStatus": "published",
+      "verifiedAt": "2026-10-31T00:00:00.000Z",
+      "lastReviewedAt": "2026-10-31T00:00:00.000Z",
+      "metadata": {}
+    },
+    {
+      "id": "res_bruno",
+      "slug": "bruno",
+      "name": "Bruno",
+      "type": "open_source_project",
+      "officialUrl": "https://www.usebruno.com",
+      "repositoryUrl": "https://github.com/usebruno/bruno",
+      "license": "MIT",
+      "pricing": "Free & Open Source (Local Git Collections)",
+      "capabilities": [
+        "API Client",
+        "Git Versioned Collections",
+        "Offline First",
+        "Fast"
+      ],
+      "categories": [
+        "api",
+        "developer-tools",
+        "testing"
+      ],
+      "verificationStatus": "verified",
+      "editorialStatus": "published",
+      "verifiedAt": "2026-10-31T00:00:00.000Z",
+      "lastReviewedAt": "2026-10-31T00:00:00.000Z",
+      "metadata": {
+        "stars": 31000,
+        "githubOwner": "usebruno",
+        "replacesProduct": "Postman"
+      }
+    },
+    {
+      "id": "res_postman",
+      "slug": "postman",
+      "name": "Postman",
+      "type": "software_product",
+      "officialUrl": "https://www.postman.com",
+      "pricing": "Freemium with Cloud Paywalls ($14-$49/user/mo)",
+      "capabilities": [
+        "API Client",
+        "Mock Servers",
+        "Documentation",
+        "Workspaces"
+      ],
+      "categories": [
+        "api",
+        "developer-tools"
+      ],
+      "verificationStatus": "verified",
+      "editorialStatus": "published",
+      "verifiedAt": "2026-10-31T00:00:00.000Z",
+      "lastReviewedAt": "2026-10-31T00:00:00.000Z",
+      "metadata": {}
+    }
+  ],
+  "graphEdges": [
+    {
+      "id": "edge_signoz_datadog",
+      "sourceId": "res_signoz",
+      "targetId": "res_datadog",
+      "relationship": "alternative_to",
+      "confidence": 0.98,
+      "verified": true,
+      "createdAt": "2026-10-31T00:00:00.000Z"
+    },
+    {
+      "id": "edge_podman_docker",
+      "sourceId": "res_podman",
+      "targetId": "res_docker_desktop",
+      "relationship": "alternative_to",
+      "confidence": 0.99,
+      "verified": true,
+      "createdAt": "2026-10-31T00:00:00.000Z"
+    },
+    {
+      "id": "edge_bruno_postman",
+      "sourceId": "res_bruno",
+      "targetId": "res_postman",
+      "relationship": "alternative_to",
+      "confidence": 0.99,
+      "verified": true,
+      "createdAt": "2026-10-31T00:00:00.000Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt_init",
+      "eventType": "ResourceVerified",
+      "payload": {
+        "resourceId": "res_signoz",
+        "status": "verified"
+      },
+      "timestamp": "2026-10-31T00:00:00.000Z",
+      "emitter": "system",
+      "traceId": "trc_init_000"
+    }
+  ],
+  "notifications": [],
+  "analyticsEvents": [],
+  "agentExecutions": [],
+  "scheduledJobs": [
+    {
+      "id": "job_discovery",
+      "name": "Autonomous Technology Discovery",
+      "category": "discovery",
+      "cronIntervalMinutes": 60,
+      "nextRun": "2026-10-31T13:17:24.288Z",
+      "status": "idle",
+      "retryCount": 0,
+      "maxRetries": 3
+    },
+    {
+      "id": "job_verification",
+      "name": "GitHub Releases & License Auditing",
+      "category": "verification",
+      "cronIntervalMinutes": 120,
+      "nextRun": "2026-10-31T14:17:24.288Z",
+      "status": "idle",
+      "retryCount": 0,
+      "maxRetries": 3
+    },
+    {
+      "id": "job_search_index",
+      "name": "Pagefind Search Re-indexing",
+      "category": "search",
+      "cronIntervalMinutes": 360,
+      "nextRun": "2026-10-31T18:17:24.288Z",
+      "status": "idle",
+      "retryCount": 0,
+      "maxRetries": 2
+    },
+    {
+      "id": "job_health_check",
+      "name": "Platform Availability & SLI Monitor",
+      "category": "reliability",
+      "cronIntervalMinutes": 15,
+      "nextRun": "2026-10-31T12:32:24.288Z",
+      "status": "idle",
+      "retryCount": 0,
+      "maxRetries": 5
+    }
+  ]
+}

@@ -529,3 +529,22 @@
 [2026-10-31T12:01:01.180Z] [INFO] [EditorialTopicPlanner] Generated 2 deduplicated topic proposals
 [2026-10-31T12:01:01.568Z] [INFO] [ModelProviderFactory] No external LLM credentials configured. Defaulting to Deterministic Fallback Provider.
 [2026-10-31T12:01:01.572Z] [INFO] [TestSubsystem] Test audit event for compliance verification {"operationId":"op-12345"}
+[2026-10-31T12:17:18.155Z] [INFO] [FreshnessMonitor] Starting freshness and link integrity audit
+[2026-10-31T12:17:18.161Z] [INFO] [FreshnessMonitor] Audit complete. Monitored: 2, Broken: 0, Stale: 1
+[2026-10-31T12:17:18.527Z] [INFO] [GitHubDiscovery] Searching GitHub: query="cool-db" category="databases"
+[2026-10-31T12:17:18.530Z] [INFO] [GitHubDiscovery] Discovered 1 candidate resources from GitHub for databases
+[2026-10-31T12:17:18.533Z] [INFO] [GitHubDiscovery] Searching GitHub: query="local-llm" category="local-llm"
+[2026-10-31T12:17:18.534Z] [WARN] [GitHubDiscovery] GitHub API rate limited (remaining=0). Reset at 1730000000.
+[2026-10-31T12:17:19.536Z] [INFO] [GitHubDiscovery] Discovered 0 candidate resources from GitHub for local-llm
+[2026-10-31T12:17:31.216Z] [INFO] [ArticleDraftingEngine] Drafting article for topic: "Self-Hosting Modern Nextcloud for Engineering Teams" (self-hosting-modern-nextcloud)
+[2026-10-31T12:17:31.217Z] [INFO] [ModelProviderFactory] No external LLM credentials configured. Defaulting to Deterministic Fallback Provider.
+[2026-10-31T12:17:31.228Z] [INFO] [ArticleDraftingEngine] Draft created successfully: draft-1793449051228-self-hosting-modern-
+[2026-10-31T12:17:31.761Z] [INFO] [EditorialApproval] Draft draft-test-approval-1 submitted to Editorial Review Queue (Status: READY_FOR_REVIEW)
+[2026-10-31T12:17:31.764Z] [INFO] [EditorialApproval] Draft draft-test-approval-1 APPROVED by SeniorEditor-Aisha
+[2026-10-31T12:17:31.767Z] [INFO] [PublishingEngine] Successfully published article to: C:\Users\user\Downloads\AI STERLITE\src\content\blog\test-self-hosting-postgres-pgvector.md
+[2026-10-31T12:17:31.771Z] [INFO] [PublishingEngine] Promoted verified tool to: C:\Users\user\Downloads\AI STERLITE\src\content\tools\idempotencytesttool.md
+[2026-10-31T12:17:31.771Z] [INFO] [PublishingEngine] Tool "idempotencytesttool" already exists in content collection. Skipping duplicate overwrite.
+[2026-10-31T12:17:37.159Z] [INFO] [ModelProviderFactory] No external LLM credentials configured. Defaulting to Deterministic Fallback Provider.
+[2026-10-31T12:17:37.163Z] [INFO] [TestSubsystem] Test audit event for compliance verification {"operationId":"op-12345"}
+[2026-10-31T12:17:40.435Z] [INFO] [EditorialTopicPlanner] Analyzing 2 verified resources for editorial opportunities
+[2026-10-31T12:17:40.436Z] [INFO] [EditorialTopicPlanner] Generated 2 deduplicated topic proposals
