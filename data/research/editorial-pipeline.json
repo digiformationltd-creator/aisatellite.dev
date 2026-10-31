@@ -1,0 +1,50 @@
+[
+  {
+    "id": "art-zapier-alternatives",
+    "slug": "best-free-zapier-alternatives-self-hosted",
+    "title": "Best Free & Open-Source Zapier Alternatives for Self-Hosted Automation",
+    "articleType": "alternative_guide",
+    "primaryTopic": "Automation",
+    "targetKeywords": ["zapier alternative", "free zapier alternative", "self hosted automation", "n8n vs zapier"],
+    "searchIntent": "find_alternative",
+    "claimIds": ["claim-n8n-fair-code"],
+    "sourceIds": ["https://github.com/n8n-io/n8n"],
+    "status": "approved",
+    "approvedBy": "LeadTechnicalEditor-Aisha",
+    "approvedAt": "2026-10-31T00:00:00Z",
+    "publishedAt": "2026-10-31T00:00:00Z",
+    "createdAt": "2026-10-30T00:00:00Z",
+    "updatedAt": "2026-10-31T00:00:00Z"
+  },
+  {
+    "id": "art-local-rag-ollama",
+    "slug": "how-to-build-offline-local-rag-ollama-chroma",
+    "title": "How to Build an 100% Offline Local RAG Pipeline with Ollama & ChromaDB",
+    "articleType": "developer_tutorial",
+    "primaryTopic": "AI Models",
+    "targetKeywords": ["local rag", "offline ai search", "ollama chroma", "private vector database"],
+    "searchIntent": "solve_problem",
+    "claimIds": ["claim-ollama-mit"],
+    "sourceIds": ["https://github.com/ollama/ollama"],
+    "status": "approved",
+    "approvedBy": "LeadTechnicalEditor-Aisha",
+    "approvedAt": "2026-10-31T00:00:00Z",
+    "publishedAt": "2026-10-31T00:00:00Z",
+    "createdAt": "2026-10-30T00:00:00Z",
+    "updatedAt": "2026-10-31T00:00:00Z"
+  },
+  {
+    "id": "art-pending-draft-sample",
+    "slug": "evaluating-next-gen-mcp-transports",
+    "title": "Evaluating Next-Gen MCP Server Transports (SSE vs Stdio)",
+    "articleType": "mcp_guide",
+    "primaryTopic": "MCP Servers",
+    "targetKeywords": ["mcp servers", "model context protocol", "mcp sse transport"],
+    "searchIntent": "learn",
+    "claimIds": [],
+    "sourceIds": [],
+    "status": "draft",
+    "createdAt": "2026-10-31T00:00:00Z",
+    "updatedAt": "2026-10-31T00:00:00Z"
+  }
+]

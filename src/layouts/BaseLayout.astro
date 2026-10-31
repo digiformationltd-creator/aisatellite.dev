@@ -3,6 +3,7 @@ import '@/styles/global.css';
 import SiteHeader from '@/components/layout/SiteHeader.astro';
 import SiteFooter from '@/components/layout/SiteFooter.astro';
 import SearchDialog from '@/components/search/SearchDialog.tsx';
+import { siteConfig, getCanonicalUrl, getOgImageUrl } from '@/config/site';
 
 interface Props {
   title?: string;
@@ -15,27 +16,30 @@ interface Props {
 }
 
 const {
-  title = 'AI Satellite — The Global Open-Source & Autonomous AI Knowledge Station',
-  description = 'Discover free developer tools, open-source software, production-ready AI prompts, autonomous workflows, interactive 3D web experiences, and practical founder knowledge.',
-  canonical = Astro.url.href,
+  title = `${siteConfig.siteName} — ${siteConfig.siteDescription}`,
+  description = siteConfig.siteDescription,
+  canonical,
   type = 'website',
-  image = 'https://aisatellite.pages.dev/og-default.png',
+  image,
   jsonLd,
   noIndex = false,
 } = Astro.props;
 
-const siteTitle = title.includes('AI Satellite') ? title : `${title} | AI Satellite`;
 const currentPath = Astro.url.pathname;
+const effectiveCanonical = canonical || getCanonicalUrl(currentPath);
+const effectiveImage = getOgImageUrl(image || '/og-default.png');
+const shouldPreventIndex = noIndex || !siteConfig.isIndexingAllowed;
+const siteTitle = title.includes(siteConfig.siteName) ? title : `${title} | ${siteConfig.siteName}`;
 
 const defaultJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: 'AI Satellite',
-  url: 'https://aisatellite.pages.dev',
+  name: siteConfig.siteName,
+  url: siteConfig.siteUrl,
   description: description,
   potentialAction: {
     '@type': 'SearchAction',
-    target: 'https://aisatellite.pages.dev/search?q={search_term_string}',
+    target: `${siteConfig.siteUrl}/search?q={search_term_string}`,
     'query-input': 'required name=search_term_string',
   },
 };
@@ -47,10 +51,10 @@ const defaultJsonLd = {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="canonical" href={canonical} />
+    <link rel="canonical" href={effectiveCanonical} />
 
     <!-- Primary Meta Tags -->
-    {noIndex && <meta name="robots" content="noindex, nofollow" />}
+    {shouldPreventIndex && <meta name="robots" content="noindex, nofollow" />}
     <title>{siteTitle}</title>
     <meta name="title" content={siteTitle} />
     <meta name="description" content={description} />
@@ -59,18 +63,18 @@ const defaultJsonLd = {
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content={type} />
-    <meta property="og:url" content={canonical} />
+    <meta property="og:url" content={effectiveCanonical} />
     <meta property="og:title" content={siteTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={image} />
-    <meta property="og:site_name" content="AI Satellite" />
+    <meta property="og:image" content={effectiveImage} />
+    <meta property="og:site_name" content={siteConfig.siteName} />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={canonical} />
+    <meta property="twitter:url" content={effectiveCanonical} />
     <meta property="twitter:title" content={siteTitle} />
     <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={image} />
+    <meta property="twitter:image" content={effectiveImage} />
 
     <!-- JSON-LD Structured Data -->
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd || defaultJsonLd)} />

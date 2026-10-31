@@ -110,5 +110,21 @@
     "createdAt": "2026-10-31T07:46:59.021Z",
     "moderationNotes": "Verified MIT license and working documentation",
     "reviewedAt": "2026-10-31T07:46:59.028Z"
+  },
+  {
+    "id": "SUB-MVW4787X-MWF",
+    "type": "tool",
+    "title": "PocketBase Local Backend",
+    "description": "Single-file open-source SQLite backend with realtime subscriptions.",
+    "resourcePayload": {
+      "githubUrl": "https://github.com/pocketbase/pocketbase",
+      "license": "MIT"
+    },
+    "isSecurityConcern": false,
+    "status": "approved",
+    "submitterHash": "2b5013656a87",
+    "createdAt": "2026-10-31T08:03:55.869Z",
+    "moderationNotes": "Verified MIT license and working documentation",
+    "reviewedAt": "2026-10-31T08:03:55.876Z"
   }
 ]

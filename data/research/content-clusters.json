@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cluster-open-source-automation",
+    "slug": "open-source-automation",
+    "title": "Open-Source Automation",
+    "pillarPageUrl": "/topics/automation",
+    "supportingUrls": [
+      "/alternatives/zapier-alternatives",
+      "/solutions/free-customer-support-system",
+      "/workflows#autonomous-pr-code-review",
+      "/prompts/coding"
+    ],
+    "category": "Automation Platforms",
+    "description": "Comprehensive knowledge cluster covering self-hosted workflow automation, webhooks, and open-source orchestrators."
+  },
+  {
+    "id": "cluster-local-ai-engineering",
+    "slug": "local-ai-engineering",
+    "title": "Local AI & Private Model Inference",
+    "pillarPageUrl": "/topics/ai-development",
+    "supportingUrls": [
+      "/solutions/local-rag-ai-search-ollama-chroma",
+      "/tools/ollama",
+      "/prompts/agentic-mcp-system-prompt",
+      "/blog/how-to-build-autonomous-ai-agents-with-mcp"
+    ],
+    "category": "AI Models",
+    "description": "Zero-egress private AI workflows, quantized local LLMs, and standardized Model Context Protocol integrations."
+  },
+  {
+    "id": "cluster-production-databases",
+    "slug": "production-databases",
+    "title": "Open-Source Production Databases",
+    "pillarPageUrl": "/topics/databases",
+    "supportingUrls": [
+      "/tools/postgresql",
+      "/tools/sqlite",
+      "/tools/supabase",
+      "/blog/self-hosting-modern-postgres-production-playbook"
+    ],
+    "category": "Databases",
+    "description": "Relational, embedded, vector (pgvector), and self-hosted databases replacing proprietary managed databases."
+  }
+]

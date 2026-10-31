@@ -1,0 +1,141 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import { tutorialEngine } from '@/lib/tutorials/tutorial-engine';
+import { Terminal, Shield, CheckCircle2, AlertTriangle, Layers, Cpu } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const tutorials = tutorialEngine.getAllTutorials();
+  return tutorials.map((tut) => ({
+    params: { slug: tut.slug },
+    props: { tutorial: tut },
+  }));
+}
+
+const { tutorial } = Astro.props;
+---
+
+<BaseLayout
+  title={`${tutorial.title} — AI Satellite Engineering Tutorial`}
+  description={tutorial.whatWillBeBuilt}
+>
+  <PageContainer size="narrow" class="py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'Tutorials', href: '/tutorials' },
+        { label: tutorial.title },
+      ]}
+    />
+
+    <div class="my-6 space-y-4">
+      <div class="flex items-center gap-3">
+        <span class="px-3 py-1 rounded-full text-xs font-mono bg-cosmic-cyan/15 text-cosmic-cyan border border-cosmic-cyan/20">
+          {tutorial.category} &bull; {tutorial.language}
+        </span>
+        <span class="text-xs font-mono text-emerald-400 flex items-center gap-1">
+          <CheckCircle2 className="w-3.5 h-3.5" />
+          Code Verified: {tutorial.lastVerified}
+        </span>
+      </div>
+
+      <h1 class="text-2xl sm:text-3xl font-extrabold text-cosmic-white tracking-tight leading-tight">
+        {tutorial.title}
+      </h1>
+
+      <div class="p-4 rounded-xl bg-space-900/60 border border-white/5 text-sm text-text-secondary leading-relaxed">
+        <strong class="text-cosmic-white block mb-1">Problem Statement:</strong>
+        {tutorial.problemStatement}
+      </div>
+    </div>
+
+    <!-- What Will Be Built & Prerequisites -->
+    <div class="my-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div class="p-5 rounded-2xl bg-space-900/50 border border-white/5 space-y-2">
+        <h3 class="text-xs font-mono uppercase tracking-wider text-cosmic-cyan flex items-center gap-1.5">
+          <Cpu className="w-3.5 h-3.5" />
+          <span>Deliverable</span>
+        </h3>
+        <p class="text-xs text-text-secondary">
+          {tutorial.whatWillBeBuilt}
+        </p>
+      </div>
+
+      <div class="p-5 rounded-2xl bg-space-900/50 border border-white/5 space-y-2">
+        <h3 class="text-xs font-mono uppercase tracking-wider text-cosmic-purple flex items-center gap-1.5">
+          <Layers className="w-3.5 h-3.5" />
+          <span>Prerequisites</span>
+        </h3>
+        <ul class="text-xs text-text-secondary list-disc list-inside space-y-0.5">
+          {tutorial.prerequisites.map((p) => (
+            <li>{p}</li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Complete Implementation -->
+    <div class="my-8 space-y-4">
+      <h2 class="text-lg font-bold text-cosmic-white flex items-center gap-2">
+        <Terminal className="w-5 h-5 text-cosmic-cyan" />
+        <span>Complete Implementation</span>
+      </h2>
+
+      <pre class="p-5 rounded-2xl bg-space-950 border border-cosmic-cyan/25 text-xs font-mono text-cosmic-white/95 overflow-x-auto leading-relaxed shadow-orbital-glass">
+        <code>{tutorial.completeImplementation}</code>
+      </pre>
+
+      <p class="text-xs sm:text-sm text-text-secondary leading-relaxed">
+        {tutorial.explanation}
+      </p>
+    </div>
+
+    <!-- Testing & Verification -->
+    <div class="my-8 p-6 rounded-2xl bg-space-900/50 border border-emerald-500/20 space-y-2">
+      <h3 class="text-sm font-bold text-emerald-400 flex items-center gap-2">
+        <CheckCircle2 className="w-4 h-4" />
+        <span>Automated Verification & Testing</span>
+      </h3>
+      <p class="text-xs text-text-secondary">
+        {tutorial.testing}
+      </p>
+    </div>
+
+    <!-- Troubleshooting Matrix -->
+    {tutorial.troubleshooting.length > 0 && (
+      <div class="my-8 p-6 rounded-2xl bg-space-900/50 border border-amber-500/20 space-y-3">
+        <h3 class="text-sm font-bold text-amber-400 flex items-center gap-2">
+          <AlertTriangle className="w-4 h-4" />
+          <span>Troubleshooting & Failure Modes</span>
+        </h3>
+        <div class="space-y-3 text-xs">
+          {tutorial.troubleshooting.map((item) => (
+            <div class="p-3.5 rounded-xl bg-space-950/80 border border-white/5 space-y-1">
+              <span class="font-mono text-rose-400 block font-semibold">Issue: {item.issue}</span>
+              <span class="text-text-muted block">Resolution: {item.fix}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Security & Performance Cards -->
+    <div class="my-8 grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs">
+      <div class="p-5 rounded-2xl bg-space-900/50 border border-white/5 space-y-2">
+        <h4 class="font-bold text-cosmic-white flex items-center gap-1.5">
+          <Shield className="w-4 h-4 text-cosmic-teal" />
+          <span>Security Considerations</span>
+        </h4>
+        <p class="text-text-secondary">{tutorial.securityConsiderations}</p>
+      </div>
+
+      <div class="p-5 rounded-2xl bg-space-900/50 border border-white/5 space-y-2">
+        <h4 class="font-bold text-cosmic-white flex items-center gap-1.5">
+          <Cpu className="w-4 h-4 text-cosmic-blue" />
+          <span>Performance Optimization</span>
+        </h4>
+        <p class="text-text-secondary">{tutorial.performanceOptimization}</p>
+      </div>
+    </div>
+  </PageContainer>
+</BaseLayout>

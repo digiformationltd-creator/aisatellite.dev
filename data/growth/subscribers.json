@@ -201,5 +201,34 @@
     },
     "confirmedAt": "2026-10-31T07:46:52.571Z",
     "unsubscribedAt": "2026-10-31T07:46:52.575Z"
+  },
+  {
+    "id": "sub-1793433827942-80d597",
+    "email": "dev-1793433827937@testcompany.org",
+    "status": "active",
+    "consentTimestamp": "2026-10-31T08:03:47.942Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T08:03:47.947Z"
+  },
+  {
+    "id": "sub-1793433827954-d9c118",
+    "email": "unsub-1793433827951@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-10-31T08:03:47.954Z",
+    "consentVersion": "v1.0",
+    "ipHash": "5f8d6dd177e463a6",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-10-31T08:03:47.959Z",
+    "unsubscribedAt": "2026-10-31T08:03:47.963Z"
   }
 ]

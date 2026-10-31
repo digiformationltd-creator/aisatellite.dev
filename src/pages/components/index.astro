@@ -1,0 +1,87 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import { uiComponentEngine } from '@/lib/ui-components/component-engine';
+import { Layers, Copy, CheckCircle2, Shield, Eye, Code } from 'lucide-react';
+
+const components = uiComponentEngine.getAllComponents();
+---
+
+<BaseLayout
+  title="CSS & UI Component Knowledge Base — AI Satellite"
+  description="Production-grade, verified CSS & UI components. Liquid glass panels, holographic buttons, and accessible responsive layouts with zero runtime bloat."
+>
+  <PageContainer size="wide" class="py-10">
+    <Breadcrumbs items={[{ label: 'UI Components' }]} />
+
+    <SectionHeading
+      badge="Orbital Design System"
+      title="CSS & UI Component Knowledge Base"
+      description="Production-tested modern UI components. Complete with live rendered previews, CSS source code, accessibility ratios, and verified browser compatibility."
+    />
+
+    <div class="space-y-12 my-10">
+      {components.map((comp) => (
+        <div class="p-8 rounded-3xl bg-space-900/60 backdrop-blur-xl border border-white/5 shadow-orbital-glass space-y-6">
+          <div class="flex flex-wrap items-center justify-between gap-4">
+            <div>
+              <div class="flex items-center gap-2.5">
+                <span class="px-2.5 py-0.5 rounded-full text-[10px] font-mono bg-cosmic-cyan/15 text-cosmic-cyan border border-cosmic-cyan/20">
+                  {comp.category}
+                </span>
+                <h3 class="text-xl font-bold text-cosmic-white tracking-wide">
+                  {comp.title}
+                </h3>
+              </div>
+              <p class="text-xs sm:text-sm text-text-secondary mt-1">
+                {comp.description}
+              </p>
+            </div>
+
+            <span class="text-xs font-mono text-emerald-400 flex items-center gap-1">
+              <CheckCircle2 className="w-3.5 h-3.5" />
+              Verified {comp.lastVerified}
+            </span>
+          </div>
+
+          <!-- Live Visual Preview Container -->
+          <div class="p-8 rounded-2xl bg-space-950/80 border border-white/10 flex items-center justify-center min-h-[160px] relative overflow-hidden">
+            <div set:html={comp.htmlSnippet} />
+          </div>
+
+          <!-- 2-Column: CSS Code & Specifications -->
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 text-xs">
+            <div class="lg:col-span-7 space-y-2">
+              <span class="font-mono text-text-muted flex items-center gap-1">
+                <Code className="w-3.5 h-3.5 text-cosmic-cyan" />
+                <span>CSS Source Code</span>
+              </span>
+              <pre class="p-4 rounded-xl bg-space-950 border border-white/5 font-mono text-cosmic-white/90 overflow-x-auto max-h-56 leading-relaxed">
+                <code>{comp.cssCode}</code>
+              </pre>
+            </div>
+
+            <div class="lg:col-span-5 space-y-3 font-mono">
+              <div class="p-3.5 rounded-xl bg-space-950/60 border border-white/5 space-y-2">
+                <div>
+                  <span class="text-text-muted block text-[11px]">Browser Compatibility:</span>
+                  <span class="text-text-secondary">{comp.browserCompatibility}</span>
+                </div>
+                <div>
+                  <span class="text-text-muted block text-[11px]">Accessibility:</span>
+                  <span class="text-text-secondary">{comp.accessibilityNotes}</span>
+                </div>
+                <div>
+                  <span class="text-text-muted block text-[11px]">Performance:</span>
+                  <span class="text-cosmic-teal">{comp.performanceConsiderations}</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </PageContainer>
+</BaseLayout>

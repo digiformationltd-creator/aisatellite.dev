@@ -1,0 +1,27 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ResearchControlCenter from '@/components/research/ResearchControlCenter';
+---
+
+<BaseLayout
+  title="Research & SEO Control Center — AI Satellite"
+  description="Private administrative intelligence console. Evidence ledger, content freshness re-verifications, human editorial approval gates, and IndexNow Bing integration."
+  noIndex={true}
+>
+  <PageContainer size="wide" class="py-10">
+    <Breadcrumbs items={[{ label: 'Research Console' }]} />
+
+    <SectionHeading
+      badge="Administrative Operations"
+      title="Research & SEO Control Center"
+      description="Private editorial and evidence management console. Enforcing human sign-off gates, primary-source verification ledgers, freshness audits, and IndexNow indexing."
+    />
+
+    <div class="my-8">
+      <ResearchControlCenter client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "claim-n8n-fair-code",
+    "resourceId": "tech-n8n",
+    "statement": "n8n is distributed under the Sustainable Use License and Fair-code terms, allowing self-hosting on private servers.",
+    "evidenceUrls": ["https://github.com/n8n-io/n8n/blob/master/LICENSE.md"],
+    "status": "verified",
+    "sourceType": "license_file",
+    "retrievalTimestamp": "2026-10-31T00:00:00Z",
+    "verifiedAt": "2026-10-31T00:00:00Z",
+    "verificationMethod": "primary_source_inspection",
+    "reviewerStatus": "editor_signed",
+    "volatility": "medium",
+    "recheckIntervalDays": 30
+  },
+  {
+    "id": "claim-ollama-mit",
+    "resourceId": "tech-ollama",
+    "statement": "Ollama is licensed under the permissive MIT license and enables local model inference without cloud subscription fees.",
+    "evidenceUrls": ["https://github.com/ollama/ollama/blob/main/LICENSE"],
+    "status": "verified",
+    "sourceType": "license_file",
+    "retrievalTimestamp": "2026-10-31T00:00:00Z",
+    "verifiedAt": "2026-10-31T00:00:00Z",
+    "verificationMethod": "spdx_license_match",
+    "reviewerStatus": "editor_signed",
+    "volatility": "low",
+    "recheckIntervalDays": 60
+  },
+  {
+    "id": "claim-supabase-free-tier",
+    "resourceId": "tech-supabase",
+    "statement": "Supabase cloud free tier provides up to 500MB database storage and pauses inactive projects after 7 days without traffic.",
+    "evidenceUrls": ["https://supabase.com/docs/guides/platform/free-plan"],
+    "status": "verified",
+    "sourceType": "pricing_page",
+    "retrievalTimestamp": "2026-10-31T00:00:00Z",
+    "verifiedAt": "2026-10-31T00:00:00Z",
+    "verificationMethod": "primary_source_inspection",
+    "reviewerStatus": "editor_signed",
+    "volatility": "high",
+    "recheckIntervalDays": 14
+  },
+  {
+    "id": "claim-gimp-gpl3",
+    "resourceId": "tech-gimp",
+    "statement": "GIMP is free open-source software under GPLv3, providing raster image editing without monthly Adobe Creative Cloud fees.",
+    "evidenceUrls": ["https://gitlab.gnome.org/GNOME/gimp/-/blob/master/COPYING"],
+    "status": "verified",
+    "sourceType": "license_file",
+    "retrievalTimestamp": "2026-10-31T00:00:00Z",
+    "verifiedAt": "2026-10-31T00:00:00Z",
+    "verificationMethod": "spdx_license_match",
+    "reviewerStatus": "editor_signed",
+    "volatility": "low",
+    "recheckIntervalDays": 90
+  },
+  {
+    "id": "claim-unverified-sample",
+    "resourceId": "tech-sample-unverified",
+    "statement": "Unverified claim: Tool X claims 100% free unlimited cloud storage forever with zero ads.",
+    "evidenceUrls": ["https://example.com/unverified-claim"],
+    "status": "unverified",
+    "sourceType": "community_lead",
+    "retrievalTimestamp": "2026-10-31T00:00:00Z",
+    "verificationMethod": "http_status_check",
+    "reviewerStatus": "unreviewed",
+    "volatility": "high",
+    "recheckIntervalDays": 7
+  }
+]
