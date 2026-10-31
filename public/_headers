@@ -50,3 +50,7 @@
 /reliability-admin*
   Cache-Control: private, no-cache, no-store, must-revalidate
   Pragma: no-cache
+
+/launch-admin*
+  Cache-Control: private, no-cache, no-store, must-revalidate
+  Pragma: no-cache

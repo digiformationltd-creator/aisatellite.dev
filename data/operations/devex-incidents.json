@@ -118,5 +118,15 @@
     "description": "Zero verified alternatives matched user query",
     "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
     "isResolved": true
+  },
+  {
+    "id": "DEVEX-MVWCNU4R-GY97",
+    "signalType": "zero_result_search",
+    "queryOrPath": "unsupported-obscure-commercial-software",
+    "occurrenceCount": 1,
+    "lastOccurredAt": "2026-10-31T12:00:47.691Z",
+    "description": "Zero verified alternatives matched user query",
+    "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
+    "isResolved": true
   }
 ]

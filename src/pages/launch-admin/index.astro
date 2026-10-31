@@ -1,0 +1,33 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import LaunchCertificationDashboard from '@/components/audit/LaunchCertificationDashboard.tsx';
+---
+
+<BaseLayout
+  title="Launch Certification — AI Satellite Admin"
+  description="Private administrative console for final global quality audit and official production launch certification."
+  noIndex={true}
+>
+  <PageContainer>
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Operations Console', href: '/operations-admin' },
+        { label: 'Launch Certification', href: '/launch-admin' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Private Launch Certification Console"
+      title="Production Launch Certification"
+      description="Inspect the 15-category launch scorecard, verify the Phase 1–16 completeness matrix, review the physical route inventory, and audit all security, privacy, and performance gates."
+    />
+
+    <div class="mt-8">
+      <LaunchCertificationDashboard client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>
