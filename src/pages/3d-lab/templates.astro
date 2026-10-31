@@ -1,0 +1,58 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { ArrowRight, Layers, Sparkles, Terminal } from 'lucide-react';
+
+const demos = await getCollection('lab', ({ data }) => data.published);
+---
+
+<BaseLayout
+  title="3D Web Templates & Production Scaffolds — 3D Web Lab"
+  description="Pre-configured Astro, React, and Three.js 3D web templates with responsive canvas scaling, particle engines, and GLSL fluid shaders."
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: '3D Web Lab', href: '/3d-lab' },
+        { label: 'Production Templates' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Production Blueprints"
+      title="3D Web Templates & Scaffolds"
+      description="Drop-in, hardware-accelerated templates designed for high conversion SaaS landing pages, AI agency homepages, and creative portfolios."
+    />
+
+    <div class="my-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+      {demos.map((demo) => (
+        <div class="cosmic-glass p-6 rounded-card border border-border-subtle hover:border-cosmic-cyan/40 transition-all flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-3">
+              <Badge variant="cyan" size="sm">{demo.data.category}</Badge>
+              <span class="text-xs font-mono text-cosmic-emerald">{demo.data.status}</span>
+            </div>
+            <h3 class="text-xl font-heading font-bold text-text-primary mb-2">
+              <a href={`/3d-lab/${demo.id}`} class="hover:text-cosmic-cyan transition-colors">{demo.data.title}</a>
+            </h3>
+            <p class="text-xs text-text-secondary leading-relaxed mb-4">{demo.data.description}</p>
+            <div class="bg-space-950 p-2.5 rounded font-mono text-[11px] text-text-muted border border-border-subtle mb-4">
+              <span class="text-cosmic-cyan">$</span> {demo.data.installation}
+            </div>
+          </div>
+          <div class="pt-4 border-t border-border-subtle flex items-center justify-between mt-auto">
+            <span class="text-xs font-mono text-text-muted">{demo.data.license} License</span>
+            <a href={`/3d-lab/${demo.id}`} class="text-xs font-mono text-cosmic-cyan hover:underline flex items-center gap-1 font-bold">
+              <span>View Template &amp; Code</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </a>
+          </div>
+        </div>
+      ))}
+    </div>
+  </PageContainer>
+</BaseLayout>

@@ -1,0 +1,143 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { GitPullRequest, GitBranch, Terminal, ShieldCheck, ArrowLeft, ExternalLink, Heart } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const projects = await getCollection('projects', ({ data }) => data.published);
+  return projects.map((p) => ({
+    params: { slug: p.id },
+    props: { project: p },
+  }));
+}
+
+const { project } = Astro.props;
+const {
+  title,
+  family,
+  version,
+  repositoryUrl,
+  openSourceLicense,
+} = project.data;
+---
+
+<BaseLayout
+  title={`Contributing to ${title} — Open Source Guidelines`}
+  description={`Learn how to contribute code, report bugs, and propose features for ${title}. Guidelines, setup commands, and code of conduct.`}
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: 'Original Projects', href: '/projects' },
+        { label: title, href: `/projects/${project.id}` },
+        { label: 'Contribute' },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="violet">{family}</Badge>
+        <span class="text-xs font-mono text-cosmic-cyan">Open Source Community</span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
+        Contributing to {title}
+      </h1>
+      <p class="mt-2 text-sm text-text-secondary leading-relaxed font-mono">
+        We welcome pull requests, documentation improvements, issue reports, and local LLM evaluation benchmarks.
+      </p>
+    </header>
+
+    <!-- Sub-Nav -->
+    <nav class="flex items-center gap-2 border-b border-border-subtle py-3 text-xs font-mono overflow-x-auto">
+      <a href={`/projects/${project.id}`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Overview
+      </a>
+      <a href={`/projects/${project.id}/releases`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Releases
+      </a>
+      <a href={`/projects/${project.id}/docs`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Documentation
+      </a>
+      <a href={`/projects/${project.id}/installation`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Installation Guide
+      </a>
+      <a href={`/projects/${project.id}/contribute`} class="px-3 py-1.5 rounded bg-space-850 text-cosmic-cyan font-bold border border-cosmic-cyan/30">
+        Contribute
+      </a>
+    </nav>
+
+    <!-- Contribution Workflow Steps -->
+    <div class="my-8 cosmic-glass p-6 md:p-8 rounded-card border border-border-subtle space-y-6">
+      <h2 class="text-base font-heading font-bold text-text-primary flex items-center gap-2">
+        <GitBranch className="w-5 h-5 text-cosmic-cyan" />
+        <span>Development Workflow &amp; Pull Request Process</span>
+      </h2>
+
+      <div class="space-y-4 text-xs font-mono">
+        <div class="p-4 rounded-xl bg-space-950 border border-border-subtle space-y-2">
+          <span class="text-cosmic-cyan font-bold">1. Fork and Clone the Repository</span>
+          <pre class="text-slate-300"><code>git clone {repositoryUrl || 'https://github.com/digi-ai/' + project.id}.git<br />cd {project.id}</code></pre>
+        </div>
+
+        <div class="p-4 rounded-xl bg-space-950 border border-border-subtle space-y-2">
+          <span class="text-cosmic-cyan font-bold">2. Create a Topic Branch</span>
+          <pre class="text-slate-300"><code>git checkout -b feat/my-improvement</code></pre>
+        </div>
+
+        <div class="p-4 rounded-xl bg-space-950 border border-border-subtle space-y-2">
+          <span class="text-cosmic-cyan font-bold">3. Run Automated Tests</span>
+          <pre class="text-slate-300"><code>npm test  # or pytest / cargo test depending on stack</code></pre>
+        </div>
+
+        <div class="p-4 rounded-xl bg-space-950 border border-border-subtle space-y-2">
+          <span class="text-cosmic-cyan font-bold">4. Submit a Pull Request</span>
+          <p class="text-text-muted">Ensure all tests pass and documentation is updated before opening a PR against main.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Code of Conduct & License Notes -->
+    <div class="my-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="cosmic-glass p-6 rounded-card border border-border-subtle">
+        <h3 class="text-sm font-heading font-bold text-text-primary mb-2 flex items-center gap-2">
+          <Heart className="w-4 h-4 text-cosmic-violet" />
+          <span>Code of Conduct</span>
+        </h3>
+        <p class="text-xs text-text-secondary leading-relaxed">
+          We are committed to providing a welcoming, inclusive, and harassment-free environment for all contributors regardless of experience level, identity, or background.
+        </p>
+      </div>
+
+      <div class="cosmic-glass p-6 rounded-card border border-border-subtle">
+        <h3 class="text-sm font-heading font-bold text-text-primary mb-2 flex items-center gap-2">
+          <ShieldCheck className="w-4 h-4 text-cosmic-emerald" />
+          <span>Licensing Clarity</span>
+        </h3>
+        <p class="text-xs text-text-secondary leading-relaxed">
+          All contributions are governed under {openSourceLicense}. By submitting a PR, you agree that your code will be released under this open-source license.
+        </p>
+      </div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="mt-12 pt-8 border-t border-border-subtle flex items-center justify-between text-xs font-mono">
+      <a href={`/projects/${project.id}`} class="text-cosmic-cyan hover:underline flex items-center gap-1">
+        <ArrowLeft className="w-3.5 h-3.5" />
+        <span>Return to {title} Overview</span>
+      </a>
+      <a
+        href={repositoryUrl || '#'}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-text-muted hover:text-cosmic-cyan transition-colors flex items-center gap-1"
+      >
+        <span>Open GitHub Issues</span>
+        <ExternalLink className="w-3 h-3" />
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

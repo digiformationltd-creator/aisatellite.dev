@@ -1,0 +1,155 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+import { Terminal, Download, ArrowLeft, ArrowRight, ShieldCheck, Box } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const projects = await getCollection('projects', ({ data }) => data.published);
+  return projects.map((p) => ({
+    params: { slug: p.id },
+    props: { project: p },
+  }));
+}
+
+const { project } = Astro.props;
+const {
+  title,
+  family,
+  version,
+  repositoryUrl,
+  installationSteps,
+  downloads,
+} = project.data;
+---
+
+<BaseLayout
+  title={`${title} Installation & Setup Guide`}
+  description={`Step-by-step setup and installation instructions for ${title}. Supports Docker, native desktop binaries, and CLI source builds.`}
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: 'Original Projects', href: '/projects' },
+        { label: title, href: `/projects/${project.id}` },
+        { label: 'Installation' },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="violet">{family}</Badge>
+        <span class="text-xs font-mono text-cosmic-emerald">v{version} Setup</span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
+        Installing {title}
+      </h1>
+      <p class="mt-2 text-sm text-text-secondary leading-relaxed font-mono">
+        Official deployment guides for local workstations, private servers, and containerized clusters.
+      </p>
+    </header>
+
+    <!-- Sub-Nav -->
+    <nav class="flex items-center gap-2 border-b border-border-subtle py-3 text-xs font-mono overflow-x-auto">
+      <a href={`/projects/${project.id}`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Overview
+      </a>
+      <a href={`/projects/${project.id}/releases`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Releases
+      </a>
+      <a href={`/projects/${project.id}/docs`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Documentation
+      </a>
+      <a href={`/projects/${project.id}/installation`} class="px-3 py-1.5 rounded bg-space-850 text-cosmic-cyan font-bold border border-cosmic-cyan/30">
+        Installation Guide
+      </a>
+      <a href={`/projects/${project.id}/changelog`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Changelog
+      </a>
+    </nav>
+
+    <!-- Step-by-Step Installation Commands -->
+    <div class="my-8 cosmic-glass p-6 md:p-8 rounded-card border border-border-subtle space-y-6">
+      <div class="flex items-center justify-between pb-4 border-b border-border-subtle">
+        <h2 class="text-base font-heading font-bold text-text-primary flex items-center gap-2">
+          <Terminal className="w-5 h-5 text-cosmic-cyan" />
+          <span>Quickstart Terminal Commands</span>
+        </h2>
+        <span class="text-xs font-mono text-cosmic-emerald">Verified Build Pipeline</span>
+      </div>
+
+      <div class="space-y-4">
+        {installationSteps && installationSteps.length > 0 ? (
+          installationSteps.map((step, idx) => (
+            <div class="space-y-1.5">
+              <span class="text-xs font-mono text-text-secondary">Step {idx + 1}:</span>
+              <div class="flex items-center justify-between p-3 rounded bg-space-950 border border-border-subtle text-xs font-mono">
+                <code class="text-cosmic-cyan overflow-x-auto mr-2">$ {step}</code>
+                <CopyButton client:visible text={step} label="Copy" />
+              </div>
+            </div>
+          ))
+        ) : (
+          <div class="p-3 rounded bg-space-950 border border-border-subtle text-xs font-mono text-slate-300">
+            <code>git clone {repositoryUrl || 'https://github.com/digi-ai/' + project.id}</code>
+          </div>
+        )}
+      </div>
+    </div>
+
+    <!-- Docker vs Native Binary Comparison -->
+    <div class="my-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="cosmic-glass p-6 rounded-card border border-border-subtle flex flex-col justify-between">
+        <div>
+          <div class="flex items-center gap-2 mb-3">
+            <Box className="w-5 h-5 text-cosmic-cyan" />
+            <h3 class="text-base font-heading font-bold text-text-primary">Docker Container Deployment</h3>
+          </div>
+          <p class="text-xs text-text-secondary leading-relaxed mb-4">
+            Isolate runtime dependencies and launch with a single command. Recommended for homelabs, VPS instances, and headless servers.
+          </p>
+          <pre class="p-3 rounded bg-space-950 text-xs font-mono text-cosmic-cyan border border-border-subtle overflow-x-auto mb-4">
+<code>docker run -d -p 8080:8080 \<br />  --name {project.id} \<br />  ghcr.io/digi-ai/{project.id}:v{version}</code>
+          </pre>
+        </div>
+      </div>
+
+      <div class="cosmic-glass p-6 rounded-card border border-border-subtle flex flex-col justify-between">
+        <div>
+          <div class="flex items-center gap-2 mb-3">
+            <Download className="w-5 h-5 text-cosmic-emerald" />
+            <h3 class="text-base font-heading font-bold text-text-primary">Standalone Desktop Binary</h3>
+          </div>
+          <p class="text-xs text-text-secondary leading-relaxed mb-4">
+            Zero dependencies required. Precompiled single executable or installer with native OS integration.
+          </p>
+          <div class="space-y-2 mb-4">
+            {downloads.slice(0, 2).map((item) => (
+              <a
+                href={item.url}
+                class="block p-2.5 rounded bg-space-950 hover:bg-space-900 border border-border-subtle text-xs font-mono text-text-primary transition-colors"
+              >
+                Download for {item.platform} &rarr;
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="mt-12 pt-8 border-t border-border-subtle flex items-center justify-between text-xs font-mono">
+      <a href={`/projects/${project.id}`} class="text-cosmic-cyan hover:underline flex items-center gap-1">
+        <ArrowLeft className="w-3.5 h-3.5" />
+        <span>Return to {title} Overview</span>
+      </a>
+      <a href={`/projects/${project.id}/contribute`} class="text-text-muted hover:text-cosmic-cyan transition-colors">
+        Contribution Guidelines &rarr;
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

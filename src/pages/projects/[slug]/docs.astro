@@ -1,0 +1,124 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { BookOpen, Terminal, Code2, Layers, ArrowLeft, ArrowRight, ExternalLink } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const projects = await getCollection('projects', ({ data }) => data.published);
+  return projects.map((p) => ({
+    params: { slug: p.id },
+    props: { project: p },
+  }));
+}
+
+const { project } = Astro.props;
+const { Content } = await render(project);
+const {
+  title,
+  tagline,
+  family,
+  version,
+  techStack,
+  openSourceLicense,
+  repositoryUrl,
+  docsOverview,
+  features,
+} = project.data;
+---
+
+<BaseLayout
+  title={`${title} Documentation & Architecture Guide`}
+  description={`Official documentation, architecture overview, and API specifications for ${title}.`}
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: 'Original Projects', href: '/projects' },
+        { label: title, href: `/projects/${project.id}` },
+        { label: 'Documentation' },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="violet">{family}</Badge>
+        <span class="text-xs font-mono text-cosmic-cyan">v{version} Documentation</span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
+        {title} Documentation
+      </h1>
+      <p class="mt-2 text-sm text-text-secondary leading-relaxed font-mono">
+        Architectural specifications, configuration parameters, and API integration guides.
+      </p>
+    </header>
+
+    <!-- Sub-Nav -->
+    <nav class="flex items-center gap-2 border-b border-border-subtle py-3 text-xs font-mono overflow-x-auto">
+      <a href={`/projects/${project.id}`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Overview
+      </a>
+      <a href={`/projects/${project.id}/releases`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Releases
+      </a>
+      <a href={`/projects/${project.id}/docs`} class="px-3 py-1.5 rounded bg-space-850 text-cosmic-cyan font-bold border border-cosmic-cyan/30">
+        Documentation
+      </a>
+      <a href={`/projects/${project.id}/installation`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Installation Guide
+      </a>
+      <a href={`/projects/${project.id}/changelog`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Changelog
+      </a>
+    </nav>
+
+    <!-- Documentation Overview Box -->
+    <div class="my-8 cosmic-glass p-6 md:p-8 rounded-card border border-border-subtle space-y-4">
+      <h2 class="text-base font-heading font-bold text-text-primary flex items-center gap-2">
+        <Layers className="w-5 h-5 text-cosmic-cyan" />
+        <span>System Architecture &amp; Design Overview</span>
+      </h2>
+      <p class="text-xs text-text-secondary leading-relaxed font-mono">
+        {docsOverview || 'Comprehensive architectural specifications engineered for self-hosted sovereign deployment.'}
+      </p>
+
+      <div class="pt-4 border-t border-border-subtle grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div>
+          <span class="text-xs font-mono text-text-muted uppercase">License Model</span>
+          <p class="text-xs font-mono text-text-primary mt-1">{openSourceLicense} (Freedom to modify and host)</p>
+        </div>
+        <div>
+          <span class="text-xs font-mono text-text-muted uppercase">Source Repository</span>
+          <a
+            href={repositoryUrl || '#'}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-xs font-mono text-cosmic-cyan hover:underline flex items-center gap-1 mt-1"
+          >
+            <span>{repositoryUrl || 'github.com/digi-ai/' + project.id}</span>
+            <ExternalLink className="w-3.5 h-3.5" />
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Long-form Documentation from Content -->
+    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary">
+      <Content />
+    </article>
+
+    <!-- Navigation -->
+    <div class="mt-12 pt-8 border-t border-border-subtle flex items-center justify-between text-xs font-mono">
+      <a href={`/projects/${project.id}`} class="text-cosmic-cyan hover:underline flex items-center gap-1">
+        <ArrowLeft className="w-3.5 h-3.5" />
+        <span>Return to {title} Overview</span>
+      </a>
+      <a href={`/projects/${project.id}/installation`} class="text-text-muted hover:text-cosmic-cyan transition-colors">
+        Proceed to Installation Guide &rarr;
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

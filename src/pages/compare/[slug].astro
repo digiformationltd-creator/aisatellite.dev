@@ -1,13 +1,58 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageContainer from '@/components/layout/PageContainer.astro';
 import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
-import SectionHeading from '@/components/layout/SectionHeading.astro';
 import Badge from '@/components/ui/Badge.astro';
-import { Check, X, ShieldCheck } from 'lucide-react';
+import ComparisonMatrix from '@/components/comparisons/ComparisonMatrix.astro';
+import { ShieldCheck, ArrowRight, ExternalLink } from 'lucide-react';
 
 export async function getStaticPaths() {
-  const comparisons = [
+  const alternatives = await getCollection('alternatives', ({ data }) => data.published);
+
+  // 1. Direct alternative-driven comparisons
+  const alternativeComparisons = alternatives.map((alt) => {
+    const primaryReplacement = alt.data.openSourceReplacements[0] || 'Open Source Alternative';
+    return {
+      slug: alt.id,
+      title: `${primaryReplacement} vs. ${alt.data.proprietaryTool}: In-Depth Technical Comparison`,
+      description: `Evaluating ${primaryReplacement} as a free, open-source replacement for ${alt.data.proprietaryTool}.`,
+      itemA: {
+        name: primaryReplacement,
+        type: alt.data.classification.includes('open_source') ? 'Open Source' : 'Free Tool',
+        cost: alt.data.selfHosted ? 'Free (Self-Hosted)' : 'Free Tier',
+        bestFor: alt.data.summary,
+      },
+      itemB: {
+        name: alt.data.proprietaryTool,
+        type: 'Proprietary Commercial SaaS',
+        cost: 'Recurring Monthly Subscription',
+        bestFor: `Proprietary vendor ecosystem with managed support.`,
+      },
+      dimensions: [
+        { dimension: '1. Core Features', itemAValue: alt.data.capabilities.slice(0, 2).join(', ') || 'Feature parity on primary workflow', itemBValue: 'Full proprietary feature suite' },
+        { dimension: '2. Free Availability', itemAValue: '100% Free / Open Source license', itemBValue: 'Paid subscription or time-limited trial' },
+        { dimension: '3. Software License', itemAValue: 'OSI Compliant (MIT, Apache, AGPL, GPL)', itemBValue: 'Proprietary Commercial EULA' },
+        { dimension: '4. Self-Hosting', itemAValue: alt.data.selfHosted ? 'Supported (Docker, Linux Binary, Helm)' : 'Cloud hosted only', itemBValue: 'Not supported (Cloud lock-in)' },
+        { dimension: '5. Hosted Free Tier', itemAValue: alt.data.freeHostedTier ? 'Available with community limits' : 'Requires self-hosted VPS ($4-$10/mo)', itemBValue: 'Free tier deprecated or restricted' },
+        { dimension: '6. Installation Complexity', itemAValue: alt.data.deploymentOptions.join(' or '), itemBValue: 'Zero-install cloud account' },
+        { dimension: '7. Supported Platforms', itemAValue: alt.data.operatingSystems.join(', '), itemBValue: 'Web, Windows, macOS' },
+        { dimension: '8. Data Portability', itemAValue: 'Full export (SQL, JSON, standard formats)', itemBValue: 'Proprietary database schemas / vendor lock-in' },
+        { dimension: '9. API Availability', itemAValue: 'Open REST, GraphQL, or CLI interfaces', itemBValue: 'Rate-limited proprietary APIs' },
+        { dimension: '10. Integrations', itemAValue: 'Open ecosystem and community webhook extensions', itemBValue: 'Large commercial integration marketplace' },
+        { dimension: '11. Hosting Cost Considerations', itemAValue: alt.data.paidInfrastructureRequired ? '$5-$15/month VPS' : '$0 local machine hosting', itemBValue: '$20-$100/user/month recurring' },
+        { dimension: '12. Maintenance Responsibilities', itemAValue: 'Self-managed container updates and DB backups', itemBValue: 'Managed entirely by vendor' },
+        { dimension: '13. Documentation', itemAValue: 'Public GitHub wiki, markdown docs, community forums', itemBValue: 'Commercial support portal and tickets' },
+        { dimension: '14. Security Considerations', itemAValue: 'Auditable open-source code with private data boundaries', itemBValue: 'Third-party cloud storage and multi-tenant telemetry' },
+        { dimension: '15. Best-Fit Use Cases', itemAValue: 'Developers, startups, agencies wanting data sovereignty and cost control', itemBValue: 'Enterprises prioritizing vendor SLAs over software freedom' },
+      ],
+      verdict: alt.data.migrationGuidance,
+      detailUrl: `/alternatives/${alt.id}`,
+    };
+  });
+
+  // 2. Specific architectural comparisons
+  const architecturalComparisons = [
     {
       slug: 'postgresql-vs-sqlite',
       title: 'PostgreSQL vs. SQLite: Architectural Deep-Dive',
@@ -15,68 +60,40 @@ export async function getStaticPaths() {
       itemA: {
         name: 'PostgreSQL',
         type: 'Client-Server RDBMS',
-        license: 'PostgreSQL License',
         cost: '100% Free Self-Hosted',
         bestFor: 'High concurrency, multi-user web applications, microservices, complex analytical queries.',
-        features: ['Full ACID MVCC', 'Native JSONB & PostGIS', 'Connection Pooling required', 'Server Process'],
       },
       itemB: {
         name: 'SQLite',
         type: 'Serverless Embedded DB',
-        license: 'Public Domain',
         cost: '100% Free Everywhere',
         bestFor: 'Mobile apps, desktop software, embedded edge workers (D1), local read-heavy caches.',
-        features: ['Zero Configuration', 'Single File storage', 'Single-writer concurrency', 'No Network latency'],
       },
-      verdict: 'Use PostgreSQL when multiple servers write concurrently; choose SQLite for edge runtimes, mobile devices, or read-heavy single-node architectures.',
-    },
-    {
-      slug: 'minio-vs-aws-s3',
-      title: 'MinIO vs. Amazon S3: Cost & Egress Comparison',
-      description: 'Evaluating self-hosted S3-compatible object storage against Amazon AWS S3 public cloud storage.',
-      itemA: {
-        name: 'MinIO Object Store',
-        type: 'Self-Hosted S3 Protocol',
-        license: 'AGPL-3.0',
-        cost: '$0 Egress Fees',
-        bestFor: 'AI model storage, video streaming pipelines, private cloud infrastructure.',
-        features: ['S3 v4 Compatible', 'High NVMe Throughput', 'Runs on your hardware', 'Zero data transfer fees'],
-      },
-      itemB: {
-        name: 'Amazon AWS S3',
-        type: 'Managed Cloud Storage',
-        license: 'Proprietary Cloud',
-        cost: 'Storage + High Egress Fees',
-        bestFor: 'Turnkey enterprise setups with large compliance teams and existing AWS ecosystems.',
-        features: ['99.999999999% Durability', 'Managed infrastructure', 'Per-request pricing', 'Steep egress costs'],
-      },
-      verdict: 'MinIO eliminates the painful egress bandwidth fees of AWS S3 while maintaining 100% API compatibility with existing SDKs.',
-    },
-    {
-      slug: 'supabase-vs-firebase',
-      title: 'Supabase vs. Google Firebase: SQL vs. NoSQL',
-      description: 'Why modern engineering teams are choosing relational Postgres over proprietary NoSQL collections.',
-      itemA: {
-        name: 'Supabase',
-        type: 'Open-Source Relational BaaS',
-        license: 'Apache 2.0',
-        cost: 'Generous Free Tier + Self-Hosted',
-        bestFor: 'Modern full-stack apps needing structured relational data, SQL joins, and self-hosting flexibility.',
-        features: ['Full PostgreSQL Engine', 'Row Level Security', 'Self-hostable via Docker', 'Auto-generated APIs'],
-      },
-      itemB: {
-        name: 'Google Firebase',
-        type: 'Proprietary Cloud BaaS',
-        license: 'Proprietary',
-        cost: 'Pay-per-document-read',
-        bestFor: 'Rapid mobile prototyping with simple key-value structures where vendor lock-in is not a concern.',
-        features: ['Firestore NoSQL', 'Integrated Google Auth', 'Unpredictable scaling fees', 'No self-hosting'],
-      },
-      verdict: 'Supabase provides standard SQL freedom, relational data integrity, and complete self-hosting sovereignty.',
+      dimensions: [
+        { dimension: '1. Core Features', itemAValue: 'Full ACID, MVCC, parallel query execution, foreign keys, PostGIS, JSONB', itemBValue: 'ACID transactions, single-file storage, zero config, full-text search' },
+        { dimension: '2. Free Availability', itemAValue: '100% Free and open source forever', itemBValue: '100% Public domain dedication' },
+        { dimension: '3. Software License', itemAValue: 'PostgreSQL License (Liberal permissive)', itemBValue: 'Public Domain / Blessing' },
+        { dimension: '4. Self-Hosting', itemAValue: 'Native Linux daemon, Docker, Kubernetes', itemBValue: 'Embedded directly into application process' },
+        { dimension: '5. Hosted Free Tier', itemAValue: 'Supabase, Neon, Cloudflare Hyperdrive', itemBValue: 'Cloudflare D1, Turso (libSQL)' },
+        { dimension: '6. Installation Complexity', itemAValue: 'Requires server package setup, user roles, pg_hba.conf', itemBValue: 'Zero installation (library link)' },
+        { dimension: '7. Supported Platforms', itemAValue: 'Linux, macOS, Windows, BSD', itemBValue: 'All OSes, iOS, Android, WebAssembly' },
+        { dimension: '8. Data Portability', itemAValue: 'Standard pg_dump SQL / custom tar formats', itemBValue: 'Copy single .sqlite file directly' },
+        { dimension: '9. API Availability', itemAValue: 'PostgreSQL wire protocol (libpq)', itemBValue: 'C API and native language bindings' },
+        { dimension: '10. Integrations', itemAValue: 'Supported by every ORM, framework, and BI tool', itemBValue: 'Built into Python, iOS, Android, PHP, Node' },
+        { dimension: '11. Hosting Cost Considerations', itemAValue: 'Needs 512MB-2GB RAM VPS ($4-$10/mo)', itemBValue: '$0 extra RAM (shares host process memory)' },
+        { dimension: '12. Maintenance Responsibilities', itemAValue: 'VACUUM maintenance, WAL archiving, connection pooling', itemBValue: 'Occasional VACUUM command on disk' },
+        { dimension: '13. Documentation', itemAValue: 'World-renowned reference manuals', itemBValue: 'Exhaustive test suite and syntax diagrams' },
+        { dimension: '14. Security Considerations', itemAValue: 'Fine-grained Role-Based Access Control and Row Level Security', itemBValue: 'Relies on host filesystem permissions' },
+        { dimension: '15. Best-Fit Use Cases', itemAValue: 'Multi-user SaaS platforms, financial ledgers, transactional systems', itemBValue: 'CLI tools, embedded IoT, edge workers, mobile apps' },
+      ],
+      verdict: 'Use PostgreSQL when multiple servers write concurrently; choose SQLite for edge runtimes, mobile devices, or read-heavy architectures.',
+      detailUrl: '/tools/postgresql',
     },
   ];
 
-  return comparisons.map((comp) => ({
+  const allComps = [...alternativeComparisons, ...architecturalComparisons];
+
+  return allComps.map((comp) => ({
     params: { slug: comp.slug },
     props: { comp },
   }));
@@ -98,7 +115,7 @@ const { comp } = Astro.props;
     />
 
     <header class="mt-6 pb-6 border-b border-border-subtle">
-      <Badge variant="cyan" class="mb-3">Architectural Comparison</Badge>
+      <Badge variant="cyan" class="mb-3">15-Point Comparative Evaluation</Badge>
       <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
         {comp.title}
       </h1>
@@ -107,64 +124,66 @@ const { comp } = Astro.props;
       </p>
     </header>
 
-    <!-- Side-by-Side Comparison Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
-      <!-- Item A -->
+    {/* Side-by-Side Summary Cards */}
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
+      {/* Item A */}
       <div class="cosmic-glass p-6 border-cosmic-cyan/40">
         <div class="flex items-center justify-between mb-2">
-          <h2 class="text-2xl font-heading font-bold text-cosmic-cyan">{comp.itemA.name}</h2>
+          <h2 class="text-xl font-heading font-bold text-cosmic-cyan">{comp.itemA.name}</h2>
           <Badge variant="cyan">{comp.itemA.type}</Badge>
         </div>
         <div class="text-xs font-mono text-cosmic-emerald mb-4 font-semibold">{comp.itemA.cost}</div>
-        <p class="text-sm text-text-secondary mb-6">{comp.itemA.bestFor}</p>
-
-        <h3 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-3">Key Attributes</h3>
-        <ul class="space-y-2 text-xs font-mono text-text-secondary">
-          {comp.itemA.features.map((feat) => (
-            <li class="flex items-center gap-2">
-              <Check className="w-4 h-4 text-cosmic-emerald" />
-              <span>{feat}</span>
-            </li>
-          ))}
-        </ul>
+        <p class="text-sm text-text-secondary leading-relaxed">{comp.itemA.bestFor}</p>
       </div>
 
-      <!-- Item B -->
+      {/* Item B */}
       <div class="cosmic-glass p-6 border-border-subtle">
         <div class="flex items-center justify-between mb-2">
-          <h2 class="text-2xl font-heading font-bold text-text-primary">{comp.itemB.name}</h2>
+          <h2 class="text-xl font-heading font-bold text-text-primary">{comp.itemB.name}</h2>
           <Badge variant="subtle">{comp.itemB.type}</Badge>
         </div>
-        <div class="text-xs font-mono text-text-muted mb-4 font-semibold">{comp.itemB.cost}</div>
-        <p class="text-sm text-text-secondary mb-6">{comp.itemB.bestFor}</p>
-
-        <h3 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-3">Key Attributes</h3>
-        <ul class="space-y-2 text-xs font-mono text-text-secondary">
-          {comp.itemB.features.map((feat) => (
-            <li class="flex items-center gap-2">
-              <span class="w-1.5 h-1.5 rounded-full bg-text-muted"></span>
-              <span>{feat}</span>
-            </li>
-          ))}
-        </ul>
+        <div class="text-xs font-mono text-cosmic-rose mb-4 font-semibold">{comp.itemB.cost}</div>
+        <p class="text-sm text-text-secondary leading-relaxed">{comp.itemB.bestFor}</p>
       </div>
     </div>
 
-    <!-- Editorial Verdict -->
+    {/* The 15-Dimension Comparison Matrix Component */}
+    <div class="my-8">
+      <h2 class="text-xl font-heading font-bold text-text-primary mb-2">
+        Comprehensive 15-Dimension Comparison Matrix
+      </h2>
+      <p class="text-xs sm:text-sm text-text-secondary mb-4">
+        Every row evaluates verified architectural differences, licensing realities, and ongoing maintenance responsibilities.
+      </p>
+
+      <ComparisonMatrix
+        itemAName={comp.itemA.name}
+        itemBName={comp.itemB.name}
+        dimensions={comp.dimensions}
+      />
+    </div>
+
+    {/* Editorial Verdict Box */}
     <div class="p-6 rounded-card bg-space-900 border border-cosmic-cyan/30 my-8">
       <h3 class="text-base font-heading font-bold text-cosmic-cyan mb-2 flex items-center gap-2">
         <ShieldCheck className="w-5 h-5 text-cosmic-cyan" />
-        <span>Technical Verdict & Guidance</span>
+        <span>Technical Verdict & Architecture Guidance</span>
       </h3>
       <p class="text-sm text-text-primary leading-relaxed">
         {comp.verdict}
       </p>
     </div>
 
-    <div class="mt-12 pt-8 border-t border-border-subtle text-center">
-      <a href="/alternatives" class="text-sm font-mono text-cosmic-cyan hover:underline">
+    <div class="mt-12 pt-8 border-t border-border-subtle flex items-center justify-between text-xs font-mono">
+      <a href="/alternatives" class="text-cosmic-cyan hover:underline">
         &larr; Return to All Alternatives
       </a>
+      {comp.detailUrl && (
+        <a href={comp.detailUrl} class="text-cosmic-emerald hover:underline flex items-center gap-1">
+          <span>Read Full Migration Guide</span>
+          <ArrowRight className="w-3.5 h-3.5" />
+        </a>
+      )}
     </div>
   </PageContainer>
 </BaseLayout>

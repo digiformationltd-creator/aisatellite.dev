@@ -1,0 +1,47 @@
+---
+import { Check, X, ShieldCheck, AlertCircle } from 'lucide-react';
+
+interface DimensionItem {
+  dimension: string;
+  itemAValue: string;
+  itemBValue: string;
+  notes?: string;
+}
+
+interface Props {
+  itemAName: string;
+  itemBName: string;
+  dimensions: DimensionItem[];
+}
+
+const { itemAName, itemBName, dimensions } = Astro.props;
+---
+
+<div class="w-full overflow-x-auto my-8">
+  <table class="w-full text-left border-collapse text-xs sm:text-sm font-sans min-w-[600px]">
+    <thead>
+      <tr class="border-b border-border-hover bg-space-900/60 font-mono text-xs uppercase tracking-wider text-text-primary">
+        <th class="py-3 px-4 w-1/3">Evaluation Dimension</th>
+        <th class="py-3 px-4 w-1/3 text-cosmic-cyan font-bold">{itemAName} (Open / Free)</th>
+        <th class="py-3 px-4 w-1/3 text-text-muted">{itemBName} (Proprietary / Baseline)</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-border-subtle">
+      {dimensions.map((row, index) => (
+        <tr class={index % 2 === 0 ? 'bg-space-950/40' : 'bg-space-900/20'}>
+          <td class="py-3 px-4 font-mono font-medium text-text-primary">
+            {row.dimension}
+          </td>
+          <td class="py-3 px-4 text-text-secondary leading-relaxed font-sans">
+            <span class="inline-block text-cosmic-emerald font-semibold mr-1.5">&bull;</span>
+            {row.itemAValue}
+          </td>
+          <td class="py-3 px-4 text-text-muted leading-relaxed font-sans">
+            <span class="inline-block text-text-muted font-semibold mr-1.5">&bull;</span>
+            {row.itemBValue}
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

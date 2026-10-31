@@ -1,0 +1,80 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import AlternativeSearchEngine from '@/components/alternatives/AlternativeSearchEngine.tsx';
+import { ALTERNATIVE_CATEGORIES } from '@/data/alternative-categories.ts';
+import type { AlternativeItem } from '@/lib/alternative-matching.ts';
+
+export async function getStaticPaths() {
+  const rawAlternatives = await getCollection('alternatives', ({ data }) => data.published);
+
+  return ALTERNATIVE_CATEGORIES.map((cat) => ({
+    params: { category: cat.slug },
+    props: {
+      categoryMeta: cat,
+      allAlternatives: rawAlternatives.map((entry) => ({
+        id: entry.id,
+        slug: entry.id,
+        title: entry.data.title,
+        proprietaryTool: entry.data.proprietaryTool,
+        openSourceReplacements: entry.data.openSourceReplacements,
+        category: entry.data.category,
+        summary: entry.data.summary,
+        migrationGuidance: entry.data.migrationGuidance,
+        replaces: entry.data.replaces || [entry.data.proprietaryTool],
+        classification: entry.data.classification || ['open_source', 'self_hosted'],
+        capabilities: entry.data.capabilities || [],
+        limitations: entry.data.limitations || [],
+        deploymentOptions: entry.data.deploymentOptions || ['Docker'],
+        operatingSystems: entry.data.operatingSystems || ['Linux', 'macOS', 'Windows'],
+        selfHosted: entry.data.selfHosted ?? true,
+        freeHostedTier: entry.data.freeHostedTier ?? false,
+        paidInfrastructureRequired: entry.data.paidInfrastructureRequired ?? false,
+        verificationStatus: entry.data.verificationStatus || 'verified',
+        evidenceUrls: entry.data.evidenceUrls || [],
+        lastVerified: entry.data.lastVerified || '2026-10-31',
+        partnerContext: entry.data.partnerContext || 'none',
+      })),
+    },
+  }));
+}
+
+const { categoryMeta, allAlternatives } = Astro.props;
+---
+
+<BaseLayout
+  title={`Free & Open-Source ${categoryMeta.name} Alternatives — AI Satellite`}
+  description={categoryMeta.description}
+>
+  <PageContainer class="py-12">
+    <Breadcrumbs
+      items={[
+        { label: 'Free Alternatives', href: '/alternatives' },
+        { label: categoryMeta.name },
+      ]}
+    />
+
+    <div class="text-center max-w-3xl mx-auto my-10">
+      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-mono bg-cosmic-cyan/10 text-cosmic-cyan border border-cosmic-cyan/30 mb-4">
+        <span>Category Spotlight &bull; {categoryMeta.name}</span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-heading font-extrabold text-text-primary tracking-tight mb-4">
+        Free Alternatives in <span class="text-transparent bg-clip-text bg-gradient-to-r from-cosmic-cyan to-cosmic-emerald">{categoryMeta.name}</span>
+      </h1>
+
+      <p class="text-base text-text-secondary leading-relaxed max-w-xl mx-auto">
+        {categoryMeta.description}
+      </p>
+    </div>
+
+    {/* Pre-filtered search engine */}
+    <AlternativeSearchEngine
+      client:load
+      initialItems={allAlternatives}
+      defaultCategory={categoryMeta.name}
+    />
+  </PageContainer>
+</BaseLayout>

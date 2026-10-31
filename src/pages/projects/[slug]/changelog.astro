@@ -1,0 +1,123 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { History, ArrowLeft, GitCommit, Check } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const projects = await getCollection('projects', ({ data }) => data.published);
+  return projects.map((p) => ({
+    params: { slug: p.id },
+    props: { project: p },
+  }));
+}
+
+const { project } = Astro.props;
+const {
+  title,
+  family,
+  version,
+  changelogItems,
+} = project.data;
+---
+
+<BaseLayout
+  title={`${title} Changelog & Version History`}
+  description={`Version history and release notes for ${title}. Discover what is new, fixed, and improved across every version release.`}
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: 'Original Projects', href: '/projects' },
+        { label: title, href: `/projects/${project.id}` },
+        { label: 'Changelog' },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="violet">{family}</Badge>
+        <span class="text-xs font-mono text-cosmic-cyan">Current: v{version}</span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
+        {title} Changelog
+      </h1>
+      <p class="mt-2 text-sm text-text-secondary leading-relaxed font-mono">
+        Chronological record of releases, performance optimizations, bug fixes, and security patches.
+      </p>
+    </header>
+
+    <!-- Sub-Nav -->
+    <nav class="flex items-center gap-2 border-b border-border-subtle py-3 text-xs font-mono overflow-x-auto">
+      <a href={`/projects/${project.id}`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Overview
+      </a>
+      <a href={`/projects/${project.id}/releases`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Releases
+      </a>
+      <a href={`/projects/${project.id}/docs`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Documentation
+      </a>
+      <a href={`/projects/${project.id}/installation`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Installation Guide
+      </a>
+      <a href={`/projects/${project.id}/changelog`} class="px-3 py-1.5 rounded bg-space-850 text-cosmic-cyan font-bold border border-cosmic-cyan/30">
+        Changelog
+      </a>
+    </nav>
+
+    <!-- Changelog Timeline -->
+    <div class="my-10 space-y-8">
+      {changelogItems && changelogItems.length > 0 ? (
+        changelogItems.map((item, idx) => (
+          <div class="relative pl-6 sm:pl-8 border-l-2 border-border-subtle hover:border-cosmic-cyan transition-colors">
+            <div class="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-space-950 border-2 border-cosmic-cyan flex items-center justify-center">
+              <span class="w-1.5 h-1.5 rounded-full bg-cosmic-cyan"></span>
+            </div>
+
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-1 mb-3">
+              <div class="flex items-center gap-2">
+                <h3 class="text-xl font-heading font-bold text-text-primary">v{item.version}</h3>
+                {idx === 0 && (
+                  <span class="px-2 py-0.5 rounded text-[10px] font-mono bg-cosmic-emerald/10 text-cosmic-emerald border border-cosmic-emerald/20">
+                    Latest Release
+                  </span>
+                )}
+              </div>
+              <time class="text-xs font-mono text-text-muted">{item.date}</time>
+            </div>
+
+            <div class="cosmic-glass p-5 rounded-xl border border-border-subtle">
+              <ul class="space-y-2 text-xs text-text-secondary leading-relaxed">
+                {item.changes.map((change) => (
+                  <li class="flex items-start gap-2">
+                    <Check className="w-3.5 h-3.5 text-cosmic-cyan shrink-0 mt-0.5" />
+                    <span>{change}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        ))
+      ) : (
+        <div class="cosmic-glass p-6 text-center text-xs font-mono text-text-muted">
+          Initial release milestone logged. Future updates will be tracked chronologically.
+        </div>
+      )}
+    </div>
+
+    <!-- Navigation -->
+    <div class="mt-12 pt-8 border-t border-border-subtle flex items-center justify-between text-xs font-mono">
+      <a href={`/projects/${project.id}`} class="text-cosmic-cyan hover:underline flex items-center gap-1">
+        <ArrowLeft className="w-3.5 h-3.5" />
+        <span>Return to {title} Overview</span>
+      </a>
+      <a href={`/projects/${project.id}/releases`} class="text-text-muted hover:text-cosmic-cyan transition-colors">
+        Download Release Binaries &rarr;
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

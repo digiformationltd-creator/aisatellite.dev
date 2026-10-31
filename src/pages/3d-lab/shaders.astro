@@ -1,0 +1,95 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import LiquidShaderDemo from '@/components/lab/demos/LiquidShaderDemo.tsx';
+import Badge from '@/components/ui/Badge.astro';
+import { ArrowRight, Sparkles, Terminal, Activity, Zap } from 'lucide-react';
+
+const shaderDemos = await getCollection('lab', ({ data }) =>
+  data.published && (data.category.includes('Shader') || data.tech.includes('GLSL Shaders') || data.tech.includes('WebGL'))
+);
+---
+
+<BaseLayout
+  title="GLSL Shaders & Fluid WebGL Canvases — 3D Web Lab"
+  description="High-performance GLSL fragment and vertex shaders, procedural domain-warping fluid backgrounds, and real-time color gradient uniforms."
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: '3D Web Lab', href: '/3d-lab' },
+        { label: 'GLSL Shaders' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="GPU Shader Mathematics"
+      title="GLSL Shaders & Liquid Dynamics"
+      description="Procedural fragment shaders running per-pixel computations directly on GPU shader cores without loading heavy textures or video assets."
+    />
+
+    <!-- Live Interactive Shader Demo -->
+    <div class="my-8 rounded-card border border-border-subtle bg-space-950 overflow-hidden">
+      <div class="p-4 border-b border-border-subtle flex items-center justify-between">
+        <div class="flex items-center gap-2">
+          <Badge variant="cyan">GLSL Fragment Shader</Badge>
+          <span class="text-xs font-mono text-cosmic-emerald">Live 60 FPS Render</span>
+        </div>
+        <span class="text-xs font-mono text-text-muted">Fullscreen Quad Math</span>
+      </div>
+      <LiquidShaderDemo client:visible />
+    </div>
+
+    <!-- Shader Specifications -->
+    <div class="my-8 grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <div class="cosmic-glass p-4 rounded-xl border border-border-subtle">
+        <Zap className="w-5 h-5 text-cosmic-cyan mb-2" />
+        <h4 class="text-xs font-mono font-bold text-text-primary">1 Draw Call</h4>
+        <p class="text-[11px] text-text-muted mt-1">Rendered on a single PlaneGeometry quad with zero CPU bottleneck.</p>
+      </div>
+
+      <div class="cosmic-glass p-4 rounded-xl border border-border-subtle">
+        <Activity className="w-5 h-5 text-cosmic-emerald mb-2" />
+        <h4 class="text-xs font-mono font-bold text-text-primary">Domain Warping Math</h4>
+        <p class="text-[11px] text-text-muted mt-1">Trigonometric octave summation produces organic liquid currents.</p>
+      </div>
+
+      <div class="cosmic-glass p-4 rounded-xl border border-border-subtle">
+        <Sparkles className="w-5 h-5 text-cosmic-violet mb-2" />
+        <h4 class="text-xs font-mono font-bold text-text-primary">Dynamic Uniforms</h4>
+        <p class="text-[11px] text-text-muted mt-1">Pass live u_time, u_resolution, and vector RGB color palettes.</p>
+      </div>
+    </div>
+
+    <!-- Shader Demos List -->
+    <div class="mt-12 space-y-4">
+      <h3 class="text-xl font-heading font-bold text-text-primary">Curated Shader Components</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {shaderDemos.map((demo) => (
+          <div class="cosmic-glass p-6 rounded-card border border-border-subtle flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between mb-2">
+                <Badge variant="cyan" size="sm">{demo.data.category}</Badge>
+                <span class="text-xs font-mono text-text-muted">{demo.data.license}</span>
+              </div>
+              <h4 class="text-lg font-heading font-bold text-text-primary mb-2">
+                <a href={`/3d-lab/${demo.id}`} class="hover:text-cosmic-cyan transition-colors">{demo.data.title}</a>
+              </h4>
+              <p class="text-xs text-text-secondary leading-relaxed mb-4">{demo.data.description}</p>
+            </div>
+            <div class="pt-4 border-t border-border-subtle flex items-center justify-between">
+              <span class="text-xs font-mono text-cosmic-emerald">{demo.data.status}</span>
+              <a href={`/3d-lab/${demo.id}`} class="text-xs font-mono text-cosmic-cyan hover:underline flex items-center gap-1">
+                <span>Inspect GLSL Code</span>
+                <ArrowRight className="w-3.5 h-3.5" />
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </PageContainer>
+</BaseLayout>

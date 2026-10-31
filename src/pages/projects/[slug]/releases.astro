@@ -1,0 +1,189 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+import {
+  Download,
+  ShieldCheck,
+  PackageCheck,
+  CheckCircle,
+  ExternalLink,
+  Terminal,
+  ArrowLeft,
+  FileCode,
+} from 'lucide-react';
+
+export async function getStaticPaths() {
+  const projects = await getCollection('projects', ({ data }) => data.published);
+  return projects.map((p) => ({
+    params: { slug: p.id },
+    props: { project: p },
+  }));
+}
+
+const { project } = Astro.props;
+const {
+  title,
+  tagline,
+  family,
+  version,
+  releaseDate,
+  repositoryUrl,
+  downloads,
+  changelogItems,
+  openSourceLicense,
+} = project.data;
+---
+
+<BaseLayout
+  title={`${title} Releases & Verified Downloads — v${version}`}
+  description={`Download official release binaries, container images, and source packages for ${title} v${version}. Includes SHA-256 integrity checksums.`}
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: 'Original Projects', href: '/projects' },
+        { label: title, href: `/projects/${project.id}` },
+        { label: 'Releases' },
+      ]}
+    />
+
+    <header class="mt-6 pb-6 border-b border-border-subtle">
+      <div class="flex items-center gap-2 mb-3">
+        <Badge variant="violet">{family}</Badge>
+        <span class="text-xs font-mono text-cosmic-emerald px-2 py-0.5 rounded bg-space-900 border border-border-subtle flex items-center gap-1">
+          <ShieldCheck className="w-3.5 h-3.5" />
+          <span>Latest Release: v{version}</span>
+        </span>
+        <span class="text-xs font-mono text-text-muted">Released on {releaseDate}</span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
+        {title} Releases &amp; Packages
+      </h1>
+      <p class="mt-2 text-sm text-text-secondary leading-relaxed font-mono">
+        Official release distribution center with cryptographically verified checksums and direct binary mirrors.
+      </p>
+    </header>
+
+    <!-- Sub-Nav -->
+    <nav class="flex items-center gap-2 border-b border-border-subtle py-3 text-xs font-mono overflow-x-auto">
+      <a href={`/projects/${project.id}`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Overview
+      </a>
+      <a href={`/projects/${project.id}/releases`} class="px-3 py-1.5 rounded bg-space-850 text-cosmic-cyan font-bold border border-cosmic-cyan/30">
+        Releases &amp; Downloads
+      </a>
+      <a href={`/projects/${project.id}/docs`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Documentation
+      </a>
+      <a href={`/projects/${project.id}/installation`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Installation Guide
+      </a>
+      <a href={`/projects/${project.id}/changelog`} class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary">
+        Changelog
+      </a>
+    </nav>
+
+    <!-- Download Assets Grid -->
+    <div class="my-8">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-lg font-heading font-bold text-text-primary flex items-center gap-2">
+          <Download className="w-5 h-5 text-cosmic-cyan" />
+          <span>Release Assets &mdash; v{version}</span>
+        </h2>
+        <span class="text-xs font-mono text-text-muted">{downloads.length} Distribution Targets</span>
+      </div>
+
+      <div class="space-y-4">
+        {downloads.map((asset) => (
+          <div class="cosmic-glass p-5 rounded-xl border border-border-subtle flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <div class="min-w-0 flex-1">
+              <div class="flex items-center gap-2 mb-1">
+                <span class="text-sm font-heading font-bold text-text-primary">{asset.platform}</span>
+                <span class="text-xs font-mono text-cosmic-cyan bg-space-950 px-2 py-0.5 rounded border border-border-subtle">
+                  {asset.size || 'Release Package'}
+                </span>
+              </div>
+              <div class="text-xs font-mono text-text-muted truncate mb-2">{asset.filename}</div>
+
+              {asset.sha256 && (
+                <div class="flex items-center gap-2 text-[10px] font-mono text-text-secondary bg-space-950 px-2.5 py-1 rounded border border-border-subtle max-w-xl">
+                  <span class="text-text-muted shrink-0">SHA-256:</span>
+                  <span class="truncate font-mono">{asset.sha256}</span>
+                  <CopyButton client:visible text={asset.sha256} label="Copy" />
+                </div>
+              )}
+            </div>
+
+            <a
+              href={asset.url}
+              class="shrink-0 px-4 py-2 rounded-button bg-cosmic-cyan text-space-950 font-bold hover:brightness-110 transition-all text-xs font-mono flex items-center gap-2 shadow-glow-cyan/20"
+            >
+              <Download className="w-3.5 h-3.5" />
+              <span>Download File</span>
+            </a>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- SHA-256 Verification Guide -->
+    <div class="my-10 cosmic-glass p-6 rounded-card border border-border-subtle space-y-4">
+      <h3 class="text-base font-heading font-bold text-text-primary flex items-center gap-2">
+        <ShieldCheck className="w-5 h-5 text-cosmic-emerald" />
+        <span>How to Verify Checksum Integrity</span>
+      </h3>
+      <p class="text-xs text-text-secondary leading-relaxed">
+        Verify that the downloaded package matches the official release build bit-for-bit using standard shell utilities:
+      </p>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div>
+          <span class="text-xs font-mono text-cosmic-cyan">Windows (PowerShell)</span>
+          <pre class="mt-1 p-3 rounded bg-space-950 text-xs font-mono text-slate-300 border border-border-subtle">
+Get-FileHash ./{downloads[0]?.filename || 'file'} -Algorithm SHA256
+          </pre>
+        </div>
+
+        <div>
+          <span class="text-xs font-mono text-cosmic-emerald">Linux / macOS (Terminal)</span>
+          <pre class="mt-1 p-3 rounded bg-space-950 text-xs font-mono text-slate-300 border border-border-subtle">
+sha256sum {downloads[0]?.filename || 'file'}
+          </pre>
+        </div>
+      </div>
+    </div>
+
+    <!-- Release Notes / Changelog for this version -->
+    {changelogItems.length > 0 && (
+      <div class="my-10">
+        <h3 class="text-base font-heading font-bold text-text-primary mb-4">
+          Changes in v{version}
+        </h3>
+        <ul class="space-y-2 text-xs text-text-secondary cosmic-glass p-5 rounded-xl border border-border-subtle">
+          {changelogItems[0].changes.map((change) => (
+            <li class="flex items-start gap-2">
+              <span class="text-cosmic-cyan font-bold">&bull;</span>
+              <span>{change}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <!-- Navigation -->
+    <div class="mt-12 pt-8 border-t border-border-subtle flex items-center justify-between text-xs font-mono">
+      <a href={`/projects/${project.id}`} class="text-cosmic-cyan hover:underline flex items-center gap-1">
+        <ArrowLeft className="w-3.5 h-3.5" />
+        <span>Return to {title} Overview</span>
+      </a>
+      <a href="/downloads" class="text-text-muted hover:text-cosmic-cyan transition-colors">
+        Central Downloads Hub &rarr;
+      </a>
+    </div>
+  </PageContainer>
+</BaseLayout>

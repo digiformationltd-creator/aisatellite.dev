@@ -1,0 +1,90 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { Sparkles, Download, ArrowRight, ShieldCheck, History } from 'lucide-react';
+
+const projects = await getCollection('projects', ({ data }) => data.published);
+
+// Sort projects by releaseDate descending
+const sortedProjects = [...projects].sort(
+  (a, b) => new Date(b.data.releaseDate).getTime() - new Date(a.data.releaseDate).getTime()
+);
+---
+
+<BaseLayout
+  title="New Software Releases & Ecosystem Updates — AI Satellite"
+  description="Stay informed with the newest versions, security patches, and binary releases across the AI Satellite open-source software ecosystem."
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs items={[{ label: 'New Releases' }]} />
+
+    <SectionHeading
+      badge="Release Radar"
+      title="Ecosystem Release Stream"
+      description="Real-time chronological timeline of new software versions, bugfixes, and major architectural releases across our open-source tools."
+    />
+
+    <!-- Releases Timeline -->
+    <div class="my-10 space-y-8">
+      {sortedProjects.map((project) => (
+        <div class="cosmic-glass p-6 md:p-8 rounded-card border border-border-subtle relative overflow-hidden">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-4 border-b border-border-subtle mb-4">
+            <div>
+              <div class="flex items-center gap-2 mb-1">
+                <Badge variant="violet" size="sm">{project.data.family}</Badge>
+                <span class="text-xs font-mono text-cosmic-emerald font-bold">v{project.data.version}</span>
+                <span class="text-xs font-mono text-text-muted">&bull; {project.data.releaseDate}</span>
+              </div>
+              <h3 class="text-2xl font-heading font-bold text-text-primary">
+                <a href={`/projects/${project.id}`} class="hover:text-cosmic-cyan transition-colors">
+                  {project.data.title}
+                </a>
+              </h3>
+            </div>
+
+            <a
+              href={`/projects/${project.id}/releases`}
+              class="px-4 py-2 rounded-button bg-cosmic-cyan text-space-950 font-bold hover:brightness-110 transition-all text-xs font-mono flex items-center gap-2 self-start sm:self-auto shadow-glow-cyan/20"
+            >
+              <Download className="w-3.5 h-3.5" />
+              <span>Get v{project.data.version}</span>
+            </a>
+          </div>
+
+          <p class="text-xs font-mono text-cosmic-cyan mb-3">{project.data.tagline}</p>
+          <p class="text-xs text-text-secondary leading-relaxed mb-4">{project.data.description}</p>
+
+          <!-- Changelog Highlights -->
+          {project.data.changelogItems.length > 0 && (
+            <div class="bg-space-950 p-4 rounded-xl border border-border-subtle mb-4">
+              <span class="text-xs font-mono text-text-primary font-bold block mb-2">Key Updates in This Release:</span>
+              <ul class="space-y-1.5 text-xs text-text-secondary font-mono">
+                {project.data.changelogItems[0].changes.map((c) => (
+                  <li class="flex items-start gap-2">
+                    <span class="text-cosmic-emerald font-bold">&check;</span>
+                    <span>{c}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          <div class="flex items-center justify-between text-xs font-mono pt-3 border-t border-border-subtle">
+            <span class="text-text-muted">License: {project.data.openSourceLicense}</span>
+            <a
+              href={`/projects/${project.id}/changelog`}
+              class="text-cosmic-cyan hover:underline flex items-center gap-1 font-semibold"
+            >
+              <span>Full Changelog History</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </a>
+          </div>
+        </div>
+      ))}
+    </div>
+  </PageContainer>
+</BaseLayout>

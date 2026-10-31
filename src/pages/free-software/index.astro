@@ -1,0 +1,74 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import AlternativeSearchEngine from '@/components/alternatives/AlternativeSearchEngine.tsx';
+import { ALTERNATIVE_CATEGORIES } from '@/data/alternative-categories.ts';
+import type { AlternativeItem } from '@/lib/alternative-matching.ts';
+
+const rawAlternatives = await getCollection('alternatives', ({ data }) => data.published);
+const rawTools = await getCollection('tools', ({ data }) => data.published);
+
+const alternatives: AlternativeItem[] = rawAlternatives.map((entry) => ({
+  id: entry.id,
+  slug: entry.id,
+  title: entry.data.title,
+  proprietaryTool: entry.data.proprietaryTool,
+  openSourceReplacements: entry.data.openSourceReplacements,
+  category: entry.data.category,
+  summary: entry.data.summary,
+  migrationGuidance: entry.data.migrationGuidance,
+  replaces: entry.data.replaces || [entry.data.proprietaryTool],
+  classification: entry.data.classification || ['open_source', 'self_hosted'],
+  capabilities: entry.data.capabilities || [],
+  limitations: entry.data.limitations || [],
+  deploymentOptions: entry.data.deploymentOptions || ['Docker'],
+  operatingSystems: entry.data.operatingSystems || ['Linux', 'macOS', 'Windows'],
+  selfHosted: entry.data.selfHosted ?? true,
+  freeHostedTier: entry.data.freeHostedTier ?? false,
+  paidInfrastructureRequired: entry.data.paidInfrastructureRequired ?? false,
+  verificationStatus: entry.data.verificationStatus || 'verified',
+  evidenceUrls: entry.data.evidenceUrls || [],
+  lastVerified: entry.data.lastVerified || '2026-10-31',
+  partnerContext: entry.data.partnerContext || 'none',
+}));
+---
+
+<BaseLayout
+  title="Free Software Directory — Verified Open-Source & FOSS Tools"
+  description="Explore verified free software across developer tools, office suites, AI models, automation workflows, and design applications."
+>
+  <PageContainer class="py-12">
+    <Breadcrumbs items={[{ label: 'Free Software' }]} />
+
+    <div class="text-center max-w-3xl mx-auto my-10">
+      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-mono bg-cosmic-emerald/10 text-cosmic-emerald border border-cosmic-emerald/30 mb-4">
+        <span>Verified Free & Open-Source Catalog</span>
+      </div>
+
+      <h1 class="text-4xl sm:text-5xl font-heading font-extrabold text-text-primary tracking-tight mb-4">
+        Free Software for Developers & Creators
+      </h1>
+
+      <p class="text-base sm:text-lg text-text-secondary leading-relaxed max-w-2xl mx-auto mb-8">
+        No forced credit cards, no fake free trials, and no hidden subscription cliffs. Every tool is verified against official open-source licenses and perpetual free tiers.
+      </p>
+
+      {/* Category Shortcuts */}
+      <div class="flex flex-wrap items-center justify-center gap-2 mb-10">
+        {ALTERNATIVE_CATEGORIES.map((cat) => (
+          <a
+            href={`/free-software/${cat.slug}`}
+            class="px-3 py-1.5 rounded-lg text-xs font-mono bg-space-900 hover:bg-space-850 text-text-secondary hover:text-cosmic-cyan border border-border-subtle transition-all"
+          >
+            {cat.name} ({cat.count})
+          </a>
+        ))}
+      </div>
+    </div>
+
+    {/* Search & Filter Engine */}
+    <AlternativeSearchEngine client:load initialItems={alternatives} />
+  </PageContainer>
+</BaseLayout>

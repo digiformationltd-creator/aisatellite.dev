@@ -1,0 +1,69 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+import Badge from '@/components/ui/Badge.astro';
+import { LAB_DEMOS } from '@/components/lab/AdvancedLabViewer.tsx';
+import { Sparkles, Terminal, ArrowRight, Code } from 'lucide-react';
+---
+
+<BaseLayout
+  title="3D WebGL & Three.js AI Prompt Vault — 3D Web Lab"
+  description="Production-tested AI prompts for Cursor, Claude, ChatGPT, and Gemini to generate memory-safe Three.js components and GLSL shaders."
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: '3D Web Lab', href: '/3d-lab' },
+        { label: 'AI Prompt Vault' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Prompt Engineering"
+      title="3D WebGL & Three.js AI Prompt Vault"
+      description="Engineered prompt templates designed to elicit memory-safe, 60fps-compliant Three.js code from modern LLMs without context leaks or outdated Three.js syntax."
+    />
+
+    <!-- Prompt Catalog -->
+    <div class="my-10 space-y-8">
+      {LAB_DEMOS.map((demo) => (
+        <div class="cosmic-glass p-6 md:p-8 rounded-card border border-border-subtle">
+          <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 pb-4 border-b border-border-subtle mb-4">
+            <div>
+              <div class="flex items-center gap-2 mb-1">
+                <Badge variant="cyan" size="sm">{demo.category}</Badge>
+                <span class="text-xs font-mono text-text-muted">{demo.tech.join(' &bull; ')}</span>
+              </div>
+              <h3 class="text-xl font-heading font-bold text-text-primary">
+                {demo.title} Prompt Template
+              </h3>
+            </div>
+
+            <CopyButton client:visible text={demo.promptTemplate} label="Copy Prompt" />
+          </div>
+
+          <p class="text-xs text-text-secondary leading-relaxed mb-4">
+            {demo.description}
+          </p>
+
+          <div class="relative rounded-xl bg-space-950 p-4 border border-border-subtle overflow-hidden">
+            <pre class="text-xs font-mono text-slate-300 whitespace-pre-wrap leading-relaxed max-h-[220px] overflow-y-auto">
+              <code>{demo.promptTemplate}</code>
+            </pre>
+          </div>
+
+          <div class="mt-4 pt-3 border-t border-border-subtle flex items-center justify-between text-xs font-mono">
+            <span class="text-text-muted">Target Models: Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro</span>
+            <a href={`/3d-lab/${demo.id}`} class="text-cosmic-cyan hover:underline flex items-center gap-1 font-semibold">
+              <span>View Live Component</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </a>
+          </div>
+        </div>
+      ))}
+    </div>
+  </PageContainer>
+</BaseLayout>

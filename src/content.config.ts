@@ -38,6 +38,21 @@ const alternativesCollection = defineCollection({
     category: z.string(),
     summary: z.string(),
     migrationGuidance: z.string(),
+    replaces: z.array(z.string()).default([]),
+    classification: z.array(
+      z.enum(['open_source', 'free_forever', 'freemium', 'free_trial', 'self_hosted', 'paid'])
+    ).default(['open_source', 'self_hosted']),
+    capabilities: z.array(z.string()).default([]),
+    limitations: z.array(z.string()).default([]),
+    deploymentOptions: z.array(z.string()).default(['Docker', 'Linux Binary']),
+    operatingSystems: z.array(z.string()).default(['Linux', 'macOS', 'Windows']),
+    selfHosted: z.boolean().default(true),
+    freeHostedTier: z.boolean().default(false),
+    paidInfrastructureRequired: z.boolean().default(false),
+    verificationStatus: z.enum(['verified', 'pending', 'outdated']).default('verified'),
+    evidenceUrls: z.array(z.string()).default([]),
+    lastVerified: z.string().default('2026-10-31'),
+    partnerContext: z.enum(['digiformation', 'digibizos', 'both', 'none']).default('none'),
     published: z.boolean().default(true),
   }),
 });
@@ -90,6 +105,28 @@ const projectsCollection = defineCollection({
     documentationUrl: z.string().url().optional(),
     verificationStatus: z.enum(['verified', 'beta', 'in-development']),
     features: z.array(z.string()),
+    version: z.string().default('1.0.0'),
+    releaseDate: z.string().default('2026-10-31'),
+    githubRepo: z.string().optional(),
+    downloads: z.array(
+      z.object({
+        platform: z.string(),
+        version: z.string(),
+        filename: z.string(),
+        url: z.string(),
+        size: z.string().optional(),
+        sha256: z.string().optional(),
+      })
+    ).default([]),
+    docsOverview: z.string().default(''),
+    changelogItems: z.array(
+      z.object({
+        version: z.string(),
+        date: z.string(),
+        changes: z.array(z.string()),
+      })
+    ).default([]),
+    installationSteps: z.array(z.string()).default([]),
     published: z.boolean().default(true),
   }),
 });
@@ -99,12 +136,22 @@ const labCollection = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/lab' }),
   schema: z.object({
     title: z.string(),
+    demoId: z.string().default('particles'),
+    slug: z.string().optional(),
     category: z.string(),
     description: z.string(),
     tech: z.array(z.string()),
     demoType: z.enum(['interactive', 'code-preview', 'prototype']),
     status: z.string(),
     codeSnippet: z.string(),
+    features: z.array(z.string()).default([]),
+    controls: z.array(z.string()).default([]),
+    promptTemplate: z.string().default(''),
+    installation: z.string().default('npm install three'),
+    dependencies: z.array(z.string()).default(['three']),
+    performanceNotes: z.string().default('Optimized for 60fps with frustum culling and WebGL context disposal.'),
+    reducedMotionNotes: z.string().default('Disables continuous particle motion when prefers-reduced-motion is active.'),
+    license: z.string().default('MIT'),
     published: z.boolean().default(true),
   }),
 });

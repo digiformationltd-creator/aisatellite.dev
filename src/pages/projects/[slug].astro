@@ -4,7 +4,21 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageContainer from '@/components/layout/PageContainer.astro';
 import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
 import Badge from '@/components/ui/Badge.astro';
-import { ExternalLink, ShieldCheck, Terminal, CheckCircle } from 'lucide-react';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+import PartnerDisclosure from '@/components/partners/PartnerDisclosure.astro';
+import {
+  ExternalLink,
+  ShieldCheck,
+  Terminal,
+  CheckCircle,
+  Download,
+  BookOpen,
+  History,
+  GitPullRequest,
+  ArrowRight,
+  PackageCheck,
+  FileCode,
+} from 'lucide-react';
 
 export async function getStaticPaths() {
   const projects = await getCollection('projects', ({ data }) => data.published);
@@ -16,14 +30,49 @@ export async function getStaticPaths() {
 
 const { project } = Astro.props;
 const { Content } = await render(project);
-const { title, tagline, family, description, techStack, openSourceLicense, repositoryUrl, verificationStatus, features } = project.data;
+const {
+  title,
+  tagline,
+  family,
+  description,
+  techStack,
+  openSourceLicense,
+  repositoryUrl,
+  verificationStatus,
+  features,
+  version,
+  releaseDate,
+  downloads,
+  docsOverview,
+  installationSteps,
+} = project.data;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'SoftwareApplication',
+  name: title,
+  description: description,
+  applicationCategory: 'DeveloperApplication',
+  operatingSystem: 'Windows, macOS, Linux',
+  softwareVersion: version,
+  datePublished: releaseDate,
+  license: openSourceLicense,
+  downloadUrl: downloads.length > 0 ? downloads[0].url : repositoryUrl,
+  author: {
+    '@type': 'Organization',
+    name: 'AI Satellite Software Hub',
+    url: 'https://aisatellite.pages.dev',
+  },
+};
 ---
 
 <BaseLayout
-  title={`${title} — Open Source Project`}
+  title={`${title} v${version} — Sovereign Open-Source Software`}
   description={description}
 >
-  <PageContainer size="narrow" class="py-10">
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <PageContainer class="py-10 max-w-5xl">
     <Breadcrumbs
       items={[
         { label: 'Original Projects', href: '/projects' },
@@ -31,12 +80,16 @@ const { title, tagline, family, description, techStack, openSourceLicense, repos
       ]}
     />
 
+    <!-- Header -->
     <header class="mt-6 pb-6 border-b border-border-subtle">
       <div class="flex items-center gap-2 mb-3">
         <Badge variant="violet">{family}</Badge>
-        <span class="text-xs font-mono text-cosmic-emerald flex items-center gap-1">
+        <span class="text-xs font-mono text-cosmic-emerald px-2 py-0.5 rounded bg-space-900 border border-border-subtle flex items-center gap-1">
           <ShieldCheck className="w-3.5 h-3.5" />
-          {verificationStatus}
+          <span>v{version} &bull; {verificationStatus}</span>
+        </span>
+        <span class="text-xs font-mono text-text-muted px-2 py-0.5 rounded bg-space-950 border border-border-subtle">
+          Released: {releaseDate}
         </span>
       </div>
 
@@ -44,63 +97,190 @@ const { title, tagline, family, description, techStack, openSourceLicense, repos
         {title}
       </h1>
 
-      <p class="mt-2 text-sm font-mono text-cosmic-cyan">{tagline}</p>
+      <p class="mt-2 text-base font-mono text-cosmic-cyan">{tagline}</p>
 
       <p class="mt-4 text-base sm:text-lg text-text-secondary leading-relaxed">
         {description}
       </p>
 
       <div class="mt-6 flex flex-wrap items-center gap-3">
+        {downloads.length > 0 && (
+          <a
+            href={downloads[0].url}
+            class="inline-flex items-center gap-2 px-5 py-2.5 rounded-button bg-cosmic-cyan text-space-950 font-bold hover:brightness-110 transition-all text-sm shadow-glow-cyan/20"
+          >
+            <Download className="w-4 h-4" />
+            <span>Download {downloads[0].platform}</span>
+          </a>
+        )}
+
         {repositoryUrl && (
           <a
             href={repositoryUrl}
             target="_blank"
             rel="noopener noreferrer"
-            class="inline-flex items-center gap-2 px-4 py-2 rounded-button bg-cosmic-violet text-text-primary font-bold hover:shadow-glow-violet transition-all text-sm"
+            class="inline-flex items-center gap-2 px-4 py-2.5 rounded-button bg-space-900 hover:bg-space-850 text-text-primary font-mono text-xs border border-border-subtle transition-all"
           >
             <span>GitHub Repository</span>
-            <ExternalLink className="w-4 h-4" />
+            <ExternalLink className="w-3.5 h-3.5" />
           </a>
         )}
-        <span class="text-xs font-mono text-text-muted px-3 py-1.5 rounded bg-space-900 border border-border-subtle">
+
+        <span class="text-xs font-mono text-text-muted px-3 py-2 rounded bg-space-950 border border-border-subtle">
           License: {openSourceLicense}
         </span>
       </div>
     </header>
 
-    <!-- Key Features -->
-    <div class="my-8 p-6 rounded-card bg-space-900 border border-border-subtle">
-      <h2 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider mb-4">Core Capabilities</h2>
-      <ul class="space-y-2 text-sm text-text-secondary">
-        {features.map((feat) => (
-          <li class="flex items-center gap-2.5">
-            <CheckCircle className="w-4 h-4 text-cosmic-emerald flex-shrink-0" />
-            <span>{feat}</span>
-          </li>
-        ))}
-      </ul>
-    </div>
+    <!-- Sub-Navigation Tabs -->
+    <nav class="flex items-center gap-2 border-b border-border-subtle py-3 overflow-x-auto text-xs font-mono">
+      <a
+        href={`/projects/${project.id}`}
+        class="px-3 py-1.5 rounded bg-space-850 text-cosmic-cyan font-bold border border-cosmic-cyan/30"
+      >
+        Overview
+      </a>
+      <a
+        href={`/projects/${project.id}/releases`}
+        class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary hover:bg-space-900 transition-colors flex items-center gap-1.5"
+      >
+        <PackageCheck className="w-3.5 h-3.5" />
+        <span>Releases &amp; Downloads ({downloads.length})</span>
+      </a>
+      <a
+        href={`/projects/${project.id}/docs`}
+        class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary hover:bg-space-900 transition-colors flex items-center gap-1.5"
+      >
+        <BookOpen className="w-3.5 h-3.5" />
+        <span>Documentation</span>
+      </a>
+      <a
+        href={`/projects/${project.id}/installation`}
+        class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary hover:bg-space-900 transition-colors flex items-center gap-1.5"
+      >
+        <Terminal className="w-3.5 h-3.5" />
+        <span>Installation Guide</span>
+      </a>
+      <a
+        href={`/projects/${project.id}/changelog`}
+        class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary hover:bg-space-900 transition-colors flex items-center gap-1.5"
+      >
+        <History className="w-3.5 h-3.5" />
+        <span>Changelog</span>
+      </a>
+      <a
+        href={`/projects/${project.id}/contribute`}
+        class="px-3 py-1.5 rounded text-text-muted hover:text-text-primary hover:bg-space-900 transition-colors flex items-center gap-1.5"
+      >
+        <GitPullRequest className="w-3.5 h-3.5" />
+        <span>Contribute</span>
+      </a>
+    </nav>
 
-    <!-- Tech Stack -->
-    <div class="my-6">
-      <h3 class="text-xs font-mono font-bold text-text-muted uppercase tracking-wider mb-2">Technology Stack</h3>
-      <div class="flex flex-wrap gap-2">
-        {techStack.map((t) => (
-          <span class="px-3 py-1 text-xs font-mono rounded bg-space-950 text-cosmic-cyan border border-border-subtle">
-            {t}
-          </span>
+    <!-- Verified Downloads Section -->
+    <section class="my-8">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-base font-heading font-bold text-text-primary flex items-center gap-2">
+          <Download className="w-4 h-4 text-cosmic-cyan" />
+          <span>Verified Release Binaries &amp; Packages</span>
+        </h2>
+        <a href={`/projects/${project.id}/releases`} class="text-xs font-mono text-cosmic-cyan hover:underline">
+          View All Packages &rarr;
+        </a>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {downloads.map((item) => (
+          <div class="cosmic-glass p-4 rounded-xl border border-border-subtle flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between text-xs font-mono mb-2">
+                <span class="text-cosmic-cyan font-bold">{item.platform}</span>
+                <span class="text-text-muted">{item.size || 'Release'}</span>
+              </div>
+              <div class="text-xs font-mono text-text-secondary truncate mb-3" title={item.filename}>
+                {item.filename}
+              </div>
+              {item.sha256 && (
+                <div class="text-[10px] font-mono text-text-muted bg-space-950 p-2 rounded border border-border-subtle flex items-center justify-between gap-2 mb-3">
+                  <span class="truncate">SHA-256: {item.sha256.substring(0, 16)}...</span>
+                  <CopyButton client:visible text={item.sha256} label="Copy Hash" />
+                </div>
+              )}
+            </div>
+            <a
+              href={item.url}
+              class="w-full text-center py-2 rounded bg-space-900 hover:bg-space-850 text-text-primary font-mono text-xs border border-border-subtle transition-colors flex items-center justify-center gap-2"
+            >
+              <Download className="w-3.5 h-3.5 text-cosmic-cyan" />
+              <span>Download ({item.platform})</span>
+            </a>
+          </div>
         ))}
+      </div>
+    </section>
+
+    <!-- Key Capabilities & Tech Stack -->
+    <div class="my-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="p-6 rounded-card bg-space-900 border border-border-subtle">
+        <h2 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider mb-4 flex items-center gap-2">
+          <CheckCircle className="w-4 h-4 text-cosmic-emerald" />
+          <span>Core Capabilities</span>
+        </h2>
+        <ul class="space-y-2 text-xs text-text-secondary">
+          {features.map((feat) => (
+            <li class="flex items-start gap-2.5">
+              <span class="text-cosmic-emerald font-bold">&check;</span>
+              <span>{feat}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div class="p-6 rounded-card bg-space-900 border border-border-subtle flex flex-col justify-between">
+        <div>
+          <h2 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider mb-4 flex items-center gap-2">
+            <Terminal className="w-4 h-4 text-cosmic-cyan" />
+            <span>Quick Start Snippet</span>
+          </h2>
+          <div class="bg-space-950 p-3 rounded font-mono text-xs text-slate-200 border border-border-subtle mb-4">
+            {installationSteps.length > 0 ? (
+              <code>{installationSteps[0]}</code>
+            ) : (
+              <code>git clone {repositoryUrl || 'https://github.com/digi-ai/' + project.id}</code>
+            )}
+          </div>
+        </div>
+
+        <div>
+          <h3 class="text-xs font-mono font-bold text-text-muted uppercase tracking-wider mb-2">Technology Stack</h3>
+          <div class="flex flex-wrap gap-1.5">
+            {techStack.map((t) => (
+              <span class="px-2 py-0.5 text-[11px] font-mono rounded bg-space-950 text-cosmic-cyan border border-border-subtle">
+                {t}
+              </span>
+            ))}
+          </div>
+        </div>
       </div>
     </div>
 
-    <!-- Markdown Content -->
+    <!-- Long-form Markdown Content -->
     <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary">
       <Content />
     </article>
 
-    <div class="mt-12 pt-8 border-t border-border-subtle text-center">
-      <a href="/projects" class="text-sm font-mono text-cosmic-cyan hover:underline">
+    <!-- Partner Context Disclosure -->
+    <div class="my-10">
+      <PartnerDisclosure />
+    </div>
+
+    <!-- Bottom Navigation -->
+    <div class="mt-12 pt-8 border-t border-border-subtle flex items-center justify-between text-xs font-mono">
+      <a href="/projects" class="text-cosmic-cyan hover:underline">
         &larr; Return to All Original Projects
+      </a>
+      <a href="/downloads" class="text-text-muted hover:text-cosmic-cyan transition-colors">
+        Explore Central Downloads Hub &rarr;
       </a>
     </div>
   </PageContainer>

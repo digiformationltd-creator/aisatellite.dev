@@ -1,0 +1,81 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { Layers, Terminal, Sparkles, ArrowRight, Code } from 'lucide-react';
+---
+
+<BaseLayout
+  title="React Three Fiber (R3F) Integration Guide — 3D Web Lab"
+  description="How to convert vanilla Three.js canvases into declarative React Three Fiber components without sacrificing memory safety or performance."
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: '3D Web Lab', href: '/3d-lab' },
+        { label: 'React Three Fiber' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Declarative 3D"
+      title="React Three Fiber (R3F) Architectures"
+      description="Bridge declarative React state with the imperative Three.js scene graph. Seamless integration with Drei helpers, Canvas hooks, and Astro Islands."
+    />
+
+    <!-- Quick Conversion Example -->
+    <div class="my-8 cosmic-glass p-6 md:p-8 rounded-card border border-border-subtle">
+      <div class="flex items-center justify-between mb-4 pb-4 border-b border-border-subtle">
+        <h3 class="text-base font-heading font-bold text-text-primary flex items-center gap-2">
+          <Layers className="w-5 h-5 text-cosmic-cyan" />
+          <span>Declarative R3F Pattern vs. Vanilla Three.js</span>
+        </h3>
+        <span class="text-xs font-mono text-cosmic-emerald">Zero Boilerplate</span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div>
+          <span class="text-xs font-mono text-text-muted uppercase">Vanilla Three.js (Imperative)</span>
+          <pre class="mt-2 p-4 rounded bg-space-950 text-xs font-mono text-slate-300 border border-border-subtle overflow-x-auto">
+<code>const scene = new THREE.Scene();
+const mesh = new THREE.Mesh(
+  new THREE.BoxGeometry(1, 1, 1),
+  new THREE.MeshStandardMaterial(&#123; color: 0x00f0ff &#125;)
+);
+scene.add(mesh);
+
+// Manual teardown required
+mesh.geometry.dispose();
+mesh.material.dispose();</code>
+          </pre>
+        </div>
+
+        <div>
+          <span class="text-xs font-mono text-cosmic-cyan uppercase">React Three Fiber (Declarative)</span>
+          <pre class="mt-2 p-4 rounded bg-space-950 text-xs font-mono text-cosmic-cyan border border-border-subtle overflow-x-auto">
+<code>import &#123; Canvas &#125; from '@react-three/fiber';
+
+export function Box() &#123;
+  return (
+    &lt;mesh&gt;
+      &lt;boxGeometry args=&#123;[1, 1, 1]&#125; /&gt;
+      &lt;meshStandardMaterial color="#00f0ff" /&gt;
+    &lt;/mesh&gt;
+  );
+&#125;
+// R3F handles automatic GPU disposal</code>
+          </pre>
+        </div>
+      </div>
+
+      <div class="mt-6 pt-4 border-t border-border-subtle flex items-center justify-between text-xs font-mono">
+        <span class="text-text-muted">Installation: <code>npm install @react-three/fiber @react-three/drei three</code></span>
+        <a href="/3d-lab/prompts" class="text-cosmic-cyan hover:underline">
+          Generate R3F Prompts for AI &rarr;
+        </a>
+      </div>
+    </div>
+  </PageContainer>
+</BaseLayout>

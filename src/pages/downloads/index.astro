@@ -1,0 +1,153 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import Badge from '@/components/ui/Badge.astro';
+import CopyButton from '@/components/ui/CopyButton.tsx';
+import { Download, ShieldCheck, Box, Terminal, ExternalLink, ArrowRight, CheckCircle2 } from 'lucide-react';
+
+const projects = await getCollection('projects', ({ data }) => data.published);
+
+// Flatten all release downloads with project context
+const allDownloads = projects.flatMap((p) =>
+  p.data.downloads.map((d) => ({
+    ...d,
+    projectId: p.id,
+    projectTitle: p.data.title,
+    family: p.data.family,
+    releaseDate: p.data.releaseDate,
+    openSourceLicense: p.data.openSourceLicense,
+  }))
+);
+---
+
+<BaseLayout
+  title="Central Software Downloads Hub — Verified FOSS Binaries & Containers"
+  description="Download cryptographically verified release binaries, cross-platform installers, and Docker container images for all AI Satellite and Digi open-source software."
+>
+  <PageContainer class="py-10 max-w-6xl">
+    <Breadcrumbs items={[{ label: 'Central Downloads Hub' }]} />
+
+    <SectionHeading
+      badge="Verified Software Distribution"
+      title="Central Open-Source Downloads Center"
+      description="Direct binary mirrors, container registries, and SHA-256 cryptographic integrity hashes for all verified Digi software suites and autonomous tools."
+    />
+
+    <!-- Guarantees Banner -->
+    <div class="my-8 grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <div class="cosmic-glass p-4 rounded-xl border border-border-subtle flex items-start gap-3">
+        <ShieldCheck className="w-5 h-5 text-cosmic-emerald shrink-0 mt-0.5" />
+        <div>
+          <h4 class="text-xs font-mono font-bold text-text-primary">100% Cryptographically Verified</h4>
+          <p class="text-[11px] text-text-muted mt-0.5">Every binary includes an authoritative SHA-256 checksum.</p>
+        </div>
+      </div>
+
+      <div class="cosmic-glass p-4 rounded-xl border border-border-subtle flex items-start gap-3">
+        <Box className="w-5 h-5 text-cosmic-cyan shrink-0 mt-0.5" />
+        <div>
+          <h4 class="text-xs font-mono font-bold text-text-primary">Direct Mirrors &amp; GitHub CDN</h4>
+          <p class="text-[11px] text-text-muted mt-0.5">High-speed downloads hosted via official GitHub Releases &amp; GHCR.</p>
+        </div>
+      </div>
+
+      <div class="cosmic-glass p-4 rounded-xl border border-border-subtle flex items-start gap-3">
+        <CheckCircle2 className="w-5 h-5 text-cosmic-violet shrink-0 mt-0.5" />
+        <div>
+          <h4 class="text-xs font-mono font-bold text-text-primary">Zero Telemetry &amp; Adware</h4>
+          <p class="text-[11px] text-text-muted mt-0.5">Clean-room FOSS code with no tracking, bundled installers, or bloat.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Software Hub Listing by Project -->
+    <div class="space-y-10 my-10">
+      {projects.map((project) => (
+        <div class="cosmic-glass p-6 md:p-8 rounded-card border border-border-subtle">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-4 border-b border-border-subtle mb-6">
+            <div>
+              <div class="flex items-center gap-2 mb-1">
+                <Badge variant="violet" size="sm">{project.data.family}</Badge>
+                <span class="text-xs font-mono text-cosmic-emerald">v{project.data.version}</span>
+                <span class="text-xs font-mono text-text-muted">&bull; Released {project.data.releaseDate}</span>
+              </div>
+              <h3 class="text-2xl font-heading font-bold text-text-primary">
+                <a href={`/projects/${project.id}`} class="hover:text-cosmic-cyan transition-colors">{project.data.title}</a>
+              </h3>
+              <p class="text-xs font-mono text-cosmic-cyan mt-0.5">{project.data.tagline}</p>
+            </div>
+
+            <div class="flex items-center gap-2">
+              <a
+                href={`/projects/${project.id}/docs`}
+                class="px-3 py-1.5 rounded bg-space-900 hover:bg-space-850 text-text-secondary hover:text-text-primary text-xs font-mono border border-border-subtle transition-colors"
+              >
+                Docs
+              </a>
+              <a
+                href={`/projects/${project.id}/installation`}
+                class="px-3 py-1.5 rounded bg-space-900 hover:bg-space-850 text-text-secondary hover:text-text-primary text-xs font-mono border border-border-subtle transition-colors"
+              >
+                Install Guide
+              </a>
+            </div>
+          </div>
+
+          <!-- Download Packages for this Project -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {project.data.downloads.map((asset) => (
+              <div class="p-4 rounded-xl bg-space-950 border border-border-subtle flex flex-col justify-between">
+                <div>
+                  <div class="flex items-center justify-between text-xs font-mono mb-2">
+                    <span class="text-text-primary font-bold">{asset.platform}</span>
+                    <span class="text-cosmic-cyan">{asset.size || 'Binary'}</span>
+                  </div>
+                  <div class="text-[11px] font-mono text-text-muted truncate mb-2">{asset.filename}</div>
+
+                  {asset.sha256 && (
+                    <div class="flex items-center justify-between text-[10px] font-mono text-text-secondary bg-space-900 p-1.5 rounded border border-border-subtle mb-3">
+                      <span class="truncate font-mono">SHA-256: {asset.sha256.substring(0, 18)}...</span>
+                      <CopyButton client:visible text={asset.sha256} label="Copy" />
+                    </div>
+                  )}
+                </div>
+
+                <a
+                  href={asset.url}
+                  class="w-full py-2 rounded-button bg-space-900 hover:bg-cosmic-cyan hover:text-space-950 text-text-primary font-mono text-xs border border-border-subtle transition-all flex items-center justify-center gap-1.5 font-bold"
+                >
+                  <Download className="w-3.5 h-3.5" />
+                  <span>Download Package</span>
+                </a>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <!-- Integrity Verification Box -->
+    <div class="my-10 cosmic-glass p-6 rounded-card border border-border-subtle">
+      <h3 class="text-base font-heading font-bold text-text-primary flex items-center gap-2 mb-2">
+        <Terminal className="w-5 h-5 text-cosmic-cyan" />
+        <span>One-Liner Integrity Verification</span>
+      </h3>
+      <p class="text-xs text-text-secondary leading-relaxed mb-4">
+        To verify that your downloaded binary has not been tampered with or corrupted during transit:
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div class="p-3 rounded bg-space-950 border border-border-subtle font-mono text-xs">
+          <span class="text-text-muted text-[10px] block mb-1">PowerShell (Windows)</span>
+          <code class="text-cosmic-cyan">Get-FileHash ./filename.exe -Algorithm SHA256</code>
+        </div>
+        <div class="p-3 rounded bg-space-950 border border-border-subtle font-mono text-xs">
+          <span class="text-text-muted text-[10px] block mb-1">Bash / Zsh (Linux &amp; macOS)</span>
+          <code class="text-cosmic-emerald">sha256sum ./filename.tar.gz</code>
+        </div>
+      </div>
+    </div>
+  </PageContainer>
+</BaseLayout>

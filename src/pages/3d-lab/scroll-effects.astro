@@ -1,0 +1,67 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import CinematicScrollDemo from '@/components/lab/demos/CinematicScrollDemo.tsx';
+import Badge from '@/components/ui/Badge.astro';
+import { ArrowRight, Compass, Eye, ShieldCheck } from 'lucide-react';
+
+const scrollDemos = await getCollection('lab', ({ data }) =>
+  data.published && (data.category.includes('Scroll') || data.title.includes('Scroll'))
+);
+---
+
+<BaseLayout
+  title="3D Scroll Effects & Cinematic Waypoints — 3D Web Lab"
+  description="Choreographed 3D camera flights, step-based narrative waypoints, and scroll-driven WebGL storytelling for high-end web applications."
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: '3D Web Lab', href: '/3d-lab' },
+        { label: 'Scroll Effects' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Spatial Narrative"
+      title="3D Scroll Effects & Camera Flight"
+      description="Transform flat scroll bars into dynamic spatial journeys. Camera position lerping, depth-of-field focal changes, and gyroscopic waypoint transitions."
+    />
+
+    <!-- Interactive Cinematic Demo -->
+    <div class="my-8 rounded-card border border-border-subtle bg-space-950 overflow-hidden">
+      <div class="p-4 border-b border-border-subtle flex items-center justify-between">
+        <div class="flex items-center gap-2">
+          <Badge variant="cyan">Spatial Storytelling</Badge>
+          <span class="text-xs font-mono text-cosmic-emerald">Waypoint Navigation</span>
+        </div>
+        <span class="text-xs font-mono text-text-muted">4 Spatial Keyframes</span>
+      </div>
+      <CinematicScrollDemo client:visible />
+    </div>
+
+    <!-- Architectural Insights -->
+    <div class="my-10 cosmic-glass p-6 rounded-card border border-border-subtle space-y-4">
+      <h3 class="text-lg font-heading font-bold text-text-primary flex items-center gap-2">
+        <Compass className="w-5 h-5 text-cosmic-cyan" />
+        <span>How WebGL Camera Waypoints Work</span>
+      </h3>
+      <p class="text-xs text-text-secondary leading-relaxed">
+        Instead of tying heavy 3D rendering directly to the window scroll listener (which causes micro-stuttering during sudden user flicks), AI Satellite uses coordinate interpolation:
+      </p>
+      <div class="bg-space-950 p-4 rounded font-mono text-xs text-cosmic-cyan border border-border-subtle">
+        <code>
+          camera.position.z += (targetWaypoint.z - camera.position.z) * 0.08;<br />
+          camera.position.x += (targetWaypoint.x - camera.position.x) * 0.08;<br />
+          camera.lookAt(targetFocusPoint);
+        </code>
+      </div>
+      <p class="text-xs text-text-muted leading-relaxed">
+        This dampens erratic movements, delivers consistent 60fps frame pacing, and handles touch gestures gracefully on iOS and Android viewports.
+      </p>
+    </div>
+  </PageContainer>
+</BaseLayout>

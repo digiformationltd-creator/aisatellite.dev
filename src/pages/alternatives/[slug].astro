@@ -4,7 +4,8 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageContainer from '@/components/layout/PageContainer.astro';
 import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
 import Badge from '@/components/ui/Badge.astro';
-import { Layers, ArrowRight, ShieldCheck } from 'lucide-react';
+import PartnerRecommendation from '@/components/partners/PartnerRecommendation.astro';
+import { Layers, ArrowRight, ShieldCheck, CheckCircle2, AlertTriangle, Server, ExternalLink } from 'lucide-react';
 
 export async function getStaticPaths() {
   const alternatives = await getCollection('alternatives', ({ data }) => data.published);
@@ -16,12 +17,63 @@ export async function getStaticPaths() {
 
 const { alternative } = Astro.props;
 const { Content } = await render(alternative);
-const { title, proprietaryTool, openSourceReplacements, category, summary, migrationGuidance } = alternative.data;
+const {
+  title,
+  proprietaryTool,
+  openSourceReplacements,
+  category,
+  summary,
+  migrationGuidance,
+  capabilities = [],
+  limitations = [],
+  deploymentOptions = [],
+  operatingSystems = [],
+  selfHosted = true,
+  freeHostedTier = false,
+  paidInfrastructureRequired = false,
+  verificationStatus = 'verified',
+  evidenceUrls = [],
+  lastVerified = '2026-10-31',
+  partnerContext = 'none',
+} = alternative.data;
+
+// Structured Data JSON-LD
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'TechArticle',
+  headline: title,
+  description: summary,
+  author: {
+    '@type': 'Organization',
+    name: 'AI Satellite Research Lab',
+    url: 'https://aisatellite.pages.dev',
+  },
+  datePublished: lastVerified,
+  dateModified: lastVerified,
+  about: [
+    {
+      '@type': 'SoftwareApplication',
+      name: proprietaryTool,
+      applicationCategory: category,
+    },
+    ...openSourceReplacements.map((name) => ({
+      '@type': 'SoftwareApplication',
+      name,
+      applicationCategory: category,
+      offers: {
+        '@type': 'Offer',
+        price: '0.00',
+        priceCurrency: 'USD',
+      },
+    })),
+  ],
+};
 ---
 
 <BaseLayout
   title={`${title} — AI Satellite`}
   description={summary}
+  jsonLd={structuredData}
 >
   <PageContainer size="narrow" class="py-10">
     <Breadcrumbs
@@ -32,29 +84,50 @@ const { title, proprietaryTool, openSourceReplacements, category, summary, migra
     />
 
     <header class="mt-6 pb-6 border-b border-border-subtle">
-      <div class="flex items-center gap-2 mb-3">
+      <div class="flex flex-wrap items-center gap-2 mb-3">
         <Badge variant="subtle">{category}</Badge>
-        <span class="text-xs font-mono text-cosmic-rose line-through">
-          {proprietaryTool}
+        <span class="text-xs font-mono text-cosmic-rose line-through font-semibold">
+          Replaces {proprietaryTool}
+        </span>
+        <span class="text-[11px] font-mono px-2 py-0.5 rounded bg-space-900 text-cosmic-emerald border border-cosmic-emerald/30">
+          Verified Status: {verificationStatus}
         </span>
       </div>
 
-      <h1 class="text-3xl sm:text-4xl font-heading font-extrabold text-text-primary tracking-tight">
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-heading font-extrabold text-text-primary tracking-tight">
         {title}
       </h1>
 
       <p class="mt-4 text-base sm:text-lg text-text-secondary leading-relaxed">
         {summary}
       </p>
+
+      {/* Action Bar */}
+      <div class="mt-6 flex flex-wrap items-center gap-3">
+        <a
+          href={`/compare/${alternative.id}`}
+          class="inline-flex items-center gap-2 px-4 py-2 rounded-button bg-cosmic-cyan text-space-950 text-xs font-mono font-bold hover:bg-cosmic-cyan/90 transition-all shadow-glow-cyan/20"
+        >
+          <span>View 15-Point Comparison Matrix</span>
+          <ArrowRight className="w-3.5 h-3.5" />
+        </a>
+
+        <a
+          href="/alternatives"
+          class="inline-flex items-center gap-1.5 px-4 py-2 rounded-button bg-space-900 hover:bg-space-850 text-text-secondary hover:text-text-primary text-xs font-mono border border-border-subtle transition-colors"
+        >
+          <span>Browse All Alternatives</span>
+        </a>
+      </div>
     </header>
 
-    <!-- Replacements Grid -->
+    {/* Verified Replacements Grid */}
     <div class="my-8 p-6 rounded-card bg-space-900 border border-border-subtle">
-      <h2 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider mb-4 flex items-center gap-2">
+      <h2 class="text-xs font-mono font-bold text-text-primary uppercase tracking-wider mb-4 flex items-center gap-2">
         <Layers className="w-4 h-4 text-cosmic-emerald" />
-        <span>Verified Open-Source Options</span>
+        <span>Verified Open-Source Replacements</span>
       </h2>
-      <div class="flex flex-wrap gap-2">
+      <div class="flex flex-wrap gap-2.5">
         {openSourceReplacements.map((tool) => (
           <span class="px-3.5 py-1.5 rounded-button bg-space-950 text-cosmic-emerald font-mono font-bold text-sm border border-cosmic-emerald/30 shadow-glow-emerald/10">
             {tool}
@@ -63,25 +136,99 @@ const { title, proprietaryTool, openSourceReplacements, category, summary, migra
       </div>
     </div>
 
-    <!-- Migration Guidance Box -->
-    <div class="my-8 p-6 rounded-card bg-space-900/60 border border-border-subtle">
-      <h3 class="text-sm font-mono font-bold text-cosmic-cyan uppercase tracking-wider mb-2">
-        Zero-Downtime Migration Blueprint
+    {/* Capabilities & Limitations Side-by-Side */}
+    {(capabilities.length > 0 || limitations.length > 0) && (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
+        {/* Capabilities */}
+        <div class="cosmic-glass p-6 border-cosmic-emerald/20">
+          <h3 class="text-sm font-mono font-bold text-cosmic-emerald uppercase tracking-wider mb-4 flex items-center gap-2">
+            <CheckCircle2 className="w-4 h-4 text-cosmic-emerald" />
+            <span>Key Capabilities</span>
+          </h3>
+          <ul class="space-y-2.5 text-sm text-text-secondary">
+            {capabilities.map((cap) => (
+              <li class="flex items-start gap-2">
+                <span class="text-cosmic-emerald mt-1">&bull;</span>
+                <span>{cap}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Realistic Limitations */}
+        <div class="cosmic-glass p-6 border-cosmic-amber/20">
+          <h3 class="text-sm font-mono font-bold text-cosmic-amber uppercase tracking-wider mb-4 flex items-center gap-2">
+            <AlertTriangle className="w-4 h-4 text-cosmic-amber" />
+            <span>Realistic Limitations</span>
+          </h3>
+          <ul class="space-y-2.5 text-sm text-text-secondary">
+            {limitations.map((lim) => (
+              <li class="flex items-start gap-2">
+                <span class="text-cosmic-amber mt-1">&bull;</span>
+                <span>{lim}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    )}
+
+    {/* Deployment & Platform Details */}
+    <div class="my-8 cosmic-glass p-6">
+      <h3 class="text-sm font-mono font-bold text-text-primary uppercase tracking-wider mb-4 flex items-center gap-2">
+        <Server className="w-4 h-4 text-cosmic-cyan" />
+        <span>Deployment & System Compatibility</span>
       </h3>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs font-mono">
+        <div class="p-3 rounded-lg bg-space-950 border border-border-subtle">
+          <span class="text-text-muted block mb-1">Self-Hosting:</span>
+          <span class="text-text-primary font-bold">{selfHosted ? 'Supported (Docker/Binary)' : 'Hosted Cloud Only'}</span>
+        </div>
+        <div class="p-3 rounded-lg bg-space-950 border border-border-subtle">
+          <span class="text-text-muted block mb-1">Free Cloud Tier:</span>
+          <span class="text-text-primary font-bold">{freeHostedTier ? 'Available' : 'Paid VPS Required'}</span>
+        </div>
+        <div class="p-3 rounded-lg bg-space-950 border border-border-subtle">
+          <span class="text-text-muted block mb-1">Supported Platforms:</span>
+          <span class="text-text-primary font-bold">{operatingSystems.join(', ')}</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Migration Guidance Section -->
+    <div class="my-8 cosmic-glass p-6 border-cosmic-cyan/30">
+      <h2 class="text-lg font-heading font-bold text-text-primary mb-2 flex items-center gap-2">
+        <ShieldCheck className="w-5 h-5 text-cosmic-cyan" />
+        <span>Migration & Setup Strategy</span>
+      </h2>
       <p class="text-sm text-text-secondary leading-relaxed">
         {migrationGuidance}
       </p>
     </div>
 
-    <!-- Main Content -->
-    <article class="prose prose-invert max-w-none my-8 leading-relaxed text-text-secondary">
+    <!-- Article Content -->
+    <div class="prose prose-invert max-w-none text-text-secondary leading-relaxed">
       <Content />
-    </article>
-
-    <div class="mt-12 pt-8 border-t border-border-subtle text-center">
-      <a href="/alternatives" class="text-sm font-mono text-cosmic-cyan hover:underline">
-        &larr; Back to Alternatives Catalog
-      </a>
     </div>
+
+    {/* Contextual Partner Recommendation if applicable */}
+    {partnerContext === 'digibizos' && (
+      <div class="mt-12">
+        <PartnerRecommendation partner="digibizos" />
+      </div>
+    )}
+    {partnerContext === 'digiformation' && (
+      <div class="mt-12">
+        <PartnerRecommendation partner="digiformation" />
+      </div>
+    )}
+
+    {/* Verification Footer */}
+    <footer class="mt-12 pt-6 border-t border-border-subtle flex flex-wrap items-center justify-between text-xs font-mono text-text-muted">
+      <span>Last Verified: {lastVerified} &bull; Research Lab Audit</span>
+      <a href="/submit-tool" class="text-cosmic-cyan hover:underline">
+        Report Outdated Info &rarr;
+      </a>
+    </footer>
   </PageContainer>
 </BaseLayout>

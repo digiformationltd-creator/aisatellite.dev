@@ -1,0 +1,74 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import CosmicParticleDemo from '@/components/lab/demos/CosmicParticleDemo.tsx';
+import Badge from '@/components/ui/Badge.astro';
+import { ArrowRight, Code, ShieldCheck, Zap } from 'lucide-react';
+
+const threeDemos = await getCollection('lab', ({ data }) =>
+  data.published && data.tech.includes('Three.js')
+);
+---
+
+<BaseLayout
+  title="Three.js & WebGL Production Presets — 3D Web Lab"
+  description="Curated Three.js components, orbital particle fields, interactive product configurators, and memory-safe scene graphs."
+>
+  <PageContainer class="py-10 max-w-5xl">
+    <Breadcrumbs
+      items={[
+        { label: '3D Web Lab', href: '/3d-lab' },
+        { label: 'Three.js' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Core Engine"
+      title="Three.js & WebGL Components"
+      description="Modern Three.js component architectures with strict lifecycle management, buffer pooling, and full devicePixelRatio management."
+    />
+
+    <!-- Live Particle Demo Island -->
+    <div class="my-8 rounded-card border border-border-subtle bg-space-950 overflow-hidden">
+      <div class="p-4 border-b border-border-subtle flex items-center justify-between">
+        <div class="flex items-center gap-2">
+          <Badge variant="cyan">Three.js BufferGeometry</Badge>
+          <span class="text-xs font-mono text-cosmic-emerald">Live 60 FPS</span>
+        </div>
+        <span class="text-xs font-mono text-text-muted">1,500 Instanced Vertices</span>
+      </div>
+      <CosmicParticleDemo client:visible />
+    </div>
+
+    <!-- Three.js Component Grid -->
+    <div class="my-10">
+      <h3 class="text-xl font-heading font-bold text-text-primary mb-6">Three.js Production Presets</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {threeDemos.map((demo) => (
+          <div class="cosmic-glass p-6 rounded-card border border-border-subtle flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between mb-2">
+                <Badge variant="cyan" size="sm">{demo.data.category}</Badge>
+                <span class="text-xs font-mono text-cosmic-emerald">{demo.data.status}</span>
+              </div>
+              <h4 class="text-lg font-heading font-bold text-text-primary mb-2">
+                <a href={`/3d-lab/${demo.id}`} class="hover:text-cosmic-cyan transition-colors">{demo.data.title}</a>
+              </h4>
+              <p class="text-xs text-text-secondary leading-relaxed mb-4">{demo.data.description}</p>
+            </div>
+            <div class="pt-4 border-t border-border-subtle flex items-center justify-between">
+              <span class="text-xs font-mono text-text-muted">{demo.data.license}</span>
+              <a href={`/3d-lab/${demo.id}`} class="text-xs font-mono text-cosmic-cyan hover:underline flex items-center gap-1 font-semibold">
+                <span>Inspect Code</span>
+                <ArrowRight className="w-3.5 h-3.5" />
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </PageContainer>
+</BaseLayout>
