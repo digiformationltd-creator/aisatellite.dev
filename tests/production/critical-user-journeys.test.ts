@@ -2,7 +2,6 @@ import { describe, it, expect } from 'vitest';
 import { hybridSearchEngine } from '../../src/lib/search/hybrid-search';
 import { groundedAnswerEngine } from '../../src/lib/search/grounded-answer-engine';
 import { tutorialEngine } from '../../src/lib/tutorials/tutorial-engine';
-import { uiComponentEngine } from '../../src/lib/ui-components/component-engine';
 import { promptGalaxyEngine } from '../../src/lib/prompts/prompt-galaxy';
 import { LAB_DEMOS } from '../../src/components/lab/AdvancedLabViewer';
 import { SubscriberManager } from '../../growth/newsletter/subscriber-manager';
@@ -30,7 +29,7 @@ describe('Phase 8 — 12 Critical Production User Journeys', () => {
     const lead = grounded.recommendedResources[0];
     expect(lead.freeClassification).toBeTruthy();
     expect(lead.limitations.length).toBeGreaterThan(0);
-    expect(lead.url.startsWith('https://')).toBe(true);
+    expect(lead.url?.startsWith('https://')).toBe(true);
   });
 
   // Journey 3: Open the comparison

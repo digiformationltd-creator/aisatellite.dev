@@ -2,17 +2,14 @@ import { describe, it, expect } from 'vitest';
 import fs from 'node:fs';
 import path from 'node:path';
 import { siteConfig, getCanonicalUrl } from '../../src/config/site';
-import { brokenLinkChecker } from '../../src/lib/seo/broken-link-checker';
 import { hybridSearchEngine } from '../../src/lib/search/hybrid-search';
 import { groundedAnswerEngine } from '../../src/lib/search/grounded-answer-engine';
 import { promptGalaxyEngine } from '../../src/lib/prompts/prompt-galaxy';
-import { solutionEngine } from '../../src/lib/solutions/solution-engine';
 import { tutorialEngine } from '../../src/lib/tutorials/tutorial-engine';
 import { uiComponentEngine } from '../../src/lib/ui-components/component-engine';
 import { LAB_DEMOS } from '../../src/components/lab/AdvancedLabViewer';
 import { searchSecurityGuard } from '../../src/lib/security/search-security';
 import { evidenceLedgerManager } from '../../src/lib/research/evidence-ledger';
-import { bingAndIndexNowClient } from '../../src/lib/seo/bing-and-indexnow';
 import { SubscriberManager } from '../../growth/newsletter/subscriber-manager';
 import { CommunitySubmissionManager } from '../../growth/submissions/submission-manager';
 
@@ -214,8 +211,11 @@ describe('Phase 8 — 40 Production Readiness Acceptance Checks', () => {
       query: 'completely-unmatched-query',
       intentResult: { primaryIntent: 'general_search' as any, confidence: 1 },
       results: [],
+      totalMatches: 0,
+      isSemanticEnabled: false,
+      latencyMs: 1,
     };
-    const answer = groundedAnswerEngine.generateAnswer(emptySearchRes);
+    const answer = groundedAnswerEngine.generateAnswer(emptySearchRes as any);
     expect(answer.directAnswer).toContain('No verified free alternative');
   });
 
