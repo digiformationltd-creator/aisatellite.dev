@@ -1,0 +1,89 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ArticleCard from '@/components/blog/ArticleCard.astro';
+import NewsletterBox from '@/components/blog/NewsletterBox.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { blogDatabase } from '@/lib/blog/database';
+import { blogSEO } from '@/lib/blog/seo-engine';
+import { FolderOpen, ArrowLeft } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const categories = blogDatabase.getCategories();
+  return categories.map((cat) => {
+    const articles = blogDatabase.getArticlesByCategory(cat.name);
+    return {
+      params: { slug: cat.slug },
+      props: { category: cat, articles },
+    };
+  });
+}
+
+const { category, articles } = Astro.props;
+
+const jsonLd = blogSEO.generateCategoryJsonLd(category.name, category.slug);
+---
+
+<BaseLayout
+  title={`${category.name} Guides & Tutorials — AI Satellite Blog`}
+  description={category.description}
+  canonical={`https://aisatellite.dev/blog/category/${category.slug}`}
+  jsonLd={jsonLd}
+>
+  <PageContainer class="py-12 space-y-12">
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Blog & Knowledge Hub', href: '/blog' },
+        { label: category.name, href: `/blog/category/${category.slug}` },
+      ]}
+    />
+
+    <!-- Category Header -->
+    <header class="max-w-3xl">
+      <div class="inline-flex items-center gap-2 mb-3">
+        <Badge variant="cyan" size="md">
+          <FolderOpen className="w-3.5 h-3.5 mr-1 inline" />
+          Editorial Category
+        </Badge>
+        <span class="text-xs font-mono text-text-muted">
+          {articles.length} {articles.length === 1 ? 'Article' : 'Articles'}
+        </span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl md:text-5xl font-heading font-black text-text-primary tracking-tight mb-4">
+        {category.name}
+      </h1>
+
+      <p class="text-base sm:text-lg text-text-secondary leading-relaxed">
+        {category.description}
+      </p>
+    </header>
+
+    <!-- Articles Grid -->
+    {
+      articles.length === 0 ? (
+        <div class="text-center py-16 p-8 rounded-card bg-space-900 border border-border-subtle text-xs text-text-muted">
+          <FolderOpen className="w-8 h-8 text-text-muted mx-auto mb-2 opacity-50" />
+          <p class="text-text-secondary text-sm">
+            Articles in this category are undergoing editorial review. Check back soon.
+          </p>
+          <a href="/blog" class="mt-4 inline-flex items-center gap-1 text-cosmic-cyan hover:underline">
+            <ArrowLeft className="w-3 h-3" />
+            <span>Back to Blog Hub</span>
+          </a>
+        </div>
+      ) : (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {articles.map((art) => (
+            <ArticleCard article={art} />
+          ))}
+        </div>
+      )
+    }
+
+    <!-- Newsletter -->
+    <NewsletterBox topic={category.name} />
+  </PageContainer>
+</BaseLayout>

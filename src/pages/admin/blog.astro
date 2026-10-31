@@ -1,0 +1,50 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import BlogAdminDashboard from '@/components/blog/BlogAdminDashboard.tsx';
+import { blogDatabase } from '@/lib/blog/database';
+import { serviceCatalogue } from '@/lib/blog/service-catalogue';
+
+const initialArticles = blogDatabase.getArticles(true);
+const initialAuthors = blogDatabase.getAuthors();
+const initialCategories = blogDatabase.getCategories();
+const initialCatalogue = serviceCatalogue.getAll();
+const initialCtaEvents = blogDatabase.getCTAEvents();
+const initialQualityGates = blogDatabase.getQualityGateRecords();
+---
+
+<BaseLayout
+  title="Blog Management & Editorial Command Center — AI Satellite Admin"
+  description="Private operational dashboard for managing 1,000-article publishing pipelines, verified service catalogue, contextual CTAs, and quality gates."
+  noIndex={true}
+>
+  <PageContainer>
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Unified Admin', href: '/admin' },
+        { label: 'Blog Operations', href: '/admin/blog' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Phase 21 Editorial Command Station"
+      title="Blog Hub & Knowledge Universe Command Center"
+      description="Real-time administration for 25 primary editorial categories, quality gate evaluations, verified service catalogue, and contextual CTA telemetry."
+    />
+
+    <div class="mt-8">
+      <BlogAdminDashboard
+        client:load
+        initialArticles={initialArticles}
+        initialAuthors={initialAuthors}
+        initialCategories={initialCategories}
+        initialCatalogue={initialCatalogue}
+        initialCtaEvents={initialCtaEvents}
+        initialQualityGates={initialQualityGates}
+      />
+    </div>
+  </PageContainer>
+</BaseLayout>

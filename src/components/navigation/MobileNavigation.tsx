@@ -52,6 +52,14 @@ export default function MobileNavigation() {
 
               <nav className="space-y-3">
                 <a
+                  href="/blog"
+                  className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-cyan font-medium transition-colors"
+                >
+                  <BookOpen className="w-4 h-4 text-cosmic-cyan" />
+                  <span>Blog & Knowledge Hub</span>
+                </a>
+
+                <a
                   href="/open-source"
                   className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-primary hover:bg-space-850 hover:text-cosmic-cyan font-medium transition-colors"
                 >

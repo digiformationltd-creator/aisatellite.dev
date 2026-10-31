@@ -1,0 +1,72 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ArticleCard from '@/components/blog/ArticleCard.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { blogDatabase } from '@/lib/blog/database';
+import { Tag, ArrowLeft } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const allArticles = blogDatabase.getArticles(false);
+  const tagSet = new Set<string>();
+
+  allArticles.forEach((art) => {
+    art.tags.forEach((t) => tagSet.add(t.toLowerCase().trim()));
+  });
+
+  return Array.from(tagSet).map((tag) => {
+    const articles = allArticles.filter((art) =>
+      art.tags.some((t) => t.toLowerCase().trim() === tag)
+    );
+    return {
+      params: { slug: tag },
+      props: { tag, articles },
+    };
+  });
+}
+
+const { tag, articles } = Astro.props;
+---
+
+<BaseLayout
+  title={`#${tag} Guides & Tutorials — AI Satellite Blog`}
+  description={`Explore verified guides, software alternatives, and tutorials tagged with #${tag}.`}
+  canonical={`https://aisatellite.dev/blog/topic/${tag}`}
+>
+  <PageContainer class="py-12 space-y-12">
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Blog & Knowledge Hub', href: '/blog' },
+        { label: `#${tag}`, href: `/blog/topic/${tag}` },
+      ]}
+    />
+
+    <header class="max-w-3xl">
+      <div class="inline-flex items-center gap-2 mb-3">
+        <Badge variant="cyan" size="md">
+          <Tag className="w-3.5 h-3.5 mr-1 inline" />
+          Topic Index
+        </Badge>
+        <span class="text-xs font-mono text-text-muted">
+          {articles.length} {articles.length === 1 ? 'Article' : 'Articles'}
+        </span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-black text-text-primary tracking-tight mb-2">
+        #{tag}
+      </h1>
+
+      <p class="text-sm sm:text-base text-text-secondary leading-relaxed">
+        Curated research, open-source repositories, and implementation guides focusing on <strong>#{tag}</strong>.
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {articles.map((art) => (
+        <ArticleCard article={art} />
+      ))}
+    </div>
+  </PageContainer>
+</BaseLayout>

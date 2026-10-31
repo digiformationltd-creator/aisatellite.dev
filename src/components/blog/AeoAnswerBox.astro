@@ -1,0 +1,66 @@
+---
+import { Zap, CheckCircle2 } from 'lucide-react';
+
+interface Props {
+  quickAnswer?: string;
+  keyTakeaways?: string[];
+  class?: string;
+}
+
+const { quickAnswer, keyTakeaways = [], class: className = '' } = Astro.props;
+
+if (!quickAnswer && keyTakeaways.length === 0) return null;
+---
+
+<section
+  class:list={[
+    'my-8 p-6 rounded-card bg-gradient-to-br from-space-900 via-space-850 to-space-900 border border-cosmic-cyan/30 shadow-orbital-glass',
+    className,
+  ]}
+  aria-label="Executive Direct Answer and Key Takeaways"
+>
+  <!-- Header -->
+  <div class="flex items-center gap-2 mb-4 pb-3 border-b border-border-subtle/60">
+    <div class="w-7 h-7 rounded-lg bg-cosmic-cyan/15 border border-cosmic-cyan/40 flex items-center justify-center text-cosmic-cyan">
+      <Zap className="w-4 h-4" />
+    </div>
+    <div>
+      <h2 class="text-sm font-mono font-bold text-cosmic-cyan uppercase tracking-wider">
+        Quick Answer &bull; Key Takeaways
+      </h2>
+      <span class="text-[11px] text-text-muted">
+        Direct executive synthesis &bull; Optimized for rapid implementation
+      </span>
+    </div>
+  </div>
+
+  <!-- Quick Answer Direct Synthesis -->
+  {
+    quickAnswer && (
+      <div class="mb-5">
+        <p class="text-base sm:text-lg font-medium text-text-primary leading-relaxed">
+          {quickAnswer}
+        </p>
+      </div>
+    )
+  }
+
+  <!-- Key Takeaways Bullet List -->
+  {
+    keyTakeaways.length > 0 && (
+      <div>
+        <h3 class="text-xs font-mono uppercase text-text-muted mb-2 tracking-wide">
+          Core Insights:
+        </h3>
+        <ul class="space-y-2 text-sm text-text-secondary">
+          {keyTakeaways.map((item) => (
+            <li class="flex items-start gap-2.5">
+              <CheckCircle2 className="w-4 h-4 text-cosmic-teal flex-shrink-0 mt-0.5" />
+              <span>{item}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )
+  }
+</section>

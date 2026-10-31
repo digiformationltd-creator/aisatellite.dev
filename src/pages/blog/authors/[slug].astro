@@ -1,0 +1,100 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ArticleCard from '@/components/blog/ArticleCard.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { blogDatabase } from '@/lib/blog/database';
+import { User, ShieldCheck, ExternalLink, Award } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const authors = blogDatabase.getAuthors();
+  return authors.map((author) => {
+    const articles = blogDatabase.getArticlesByAuthor(author.id);
+    return {
+      params: { slug: author.id },
+      props: { author, articles },
+    };
+  });
+}
+
+const { author, articles } = Astro.props;
+---
+
+<BaseLayout
+  title={`${author.name} — AI Satellite Author Profile`}
+  description={author.bio}
+  canonical={`https://aisatellite.dev/blog/authors/${author.id}`}
+>
+  <PageContainer class="py-12 space-y-12">
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Blog & Knowledge Hub', href: '/blog' },
+        { label: 'Authors', href: '/blog' },
+        { label: author.name, href: `/blog/authors/${author.id}` },
+      ]}
+    />
+
+    <!-- Author Profile Card -->
+    <header class="p-8 sm:p-10 rounded-card bg-gradient-to-br from-space-900 to-space-850 border border-border-subtle shadow-orbital-glass flex flex-col sm:flex-row items-start gap-6">
+      <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-space-800 border border-cosmic-cyan/40 flex items-center justify-center text-cosmic-cyan flex-shrink-0 shadow-glow-cyan/20">
+        <User className="w-10 h-10" />
+      </div>
+
+      <div class="space-y-3 flex-1">
+        <div class="flex flex-wrap items-center gap-3">
+          <h1 class="text-2xl sm:text-3xl font-heading font-black text-text-primary">
+            {author.name}
+          </h1>
+          <Badge variant="cyan" size="sm">
+            <ShieldCheck className="w-3 h-3 mr-1 inline" />
+            Verified Contributor
+          </Badge>
+        </div>
+
+        <div class="text-xs sm:text-sm font-mono text-cosmic-cyan">
+          {author.role}
+        </div>
+
+        <p class="text-sm sm:text-base text-text-secondary leading-relaxed max-w-2xl">
+          {author.bio}
+        </p>
+
+        {
+          author.credentials && author.credentials.length > 0 && (
+            <div class="flex flex-wrap gap-2 pt-2">
+              {author.credentials.map((cred) => (
+                <span class="text-xs font-mono px-2.5 py-1 rounded bg-space-950 text-text-muted border border-border-subtle flex items-center gap-1">
+                  <Award className="w-3 h-3 text-cosmic-teal" />
+                  {cred}
+                </span>
+              ))}
+            </div>
+          )
+        }
+      </div>
+    </header>
+
+    <!-- Published Articles by this Author -->
+    <section>
+      <h2 class="text-xl sm:text-2xl font-heading font-bold text-text-primary mb-6">
+        Articles by {author.name} ({articles.length})
+      </h2>
+
+      {
+        articles.length === 0 ? (
+          <div class="text-center py-12 text-xs text-text-muted">
+            No published articles found for this author.
+          </div>
+        ) : (
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {articles.map((art) => (
+              <ArticleCard article={art} />
+            ))}
+          </div>
+        )
+      }
+    </section>
+  </PageContainer>
+</BaseLayout>

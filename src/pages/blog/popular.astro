@@ -1,0 +1,58 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ArticleCard from '@/components/blog/ArticleCard.astro';
+import NewsletterBox from '@/components/blog/NewsletterBox.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { blogDatabase } from '@/lib/blog/database';
+import { Award, Sparkles } from 'lucide-react';
+
+const allArticles = blogDatabase.getArticles(false);
+const featuredAndPopular = allArticles.filter((a) => a.featured || a.readingTime.includes('1'));
+const displayArticles = featuredAndPopular.length > 0 ? featuredAndPopular : allArticles;
+---
+
+<BaseLayout
+  title="Most Read & Essential Playbooks — AI Satellite Blog"
+  description="Discover the most referenced business architecture guides, open-source software evaluations, and technical playbooks."
+  canonical="https://aisatellite.dev/blog/popular"
+>
+  <PageContainer class="py-12 space-y-12">
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Blog & Knowledge Hub', href: '/blog' },
+        { label: 'Popular Playbooks', href: '/blog/popular' },
+      ]}
+    />
+
+    <header class="max-w-3xl">
+      <div class="inline-flex items-center gap-2 mb-3">
+        <Badge variant="cyan" size="md">
+          <Award className="w-3.5 h-3.5 mr-1 inline" />
+          Editor's Choice &bull; Essential Reading
+        </Badge>
+        <span class="text-xs font-mono text-text-muted">
+          High-Impact Business Blueprints
+        </span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-black text-text-primary tracking-tight mb-3">
+        Most Read &amp; Essential Playbooks
+      </h1>
+
+      <p class="text-base text-text-secondary leading-relaxed">
+        The definitive guides referenced most frequently by tech founders, showroom owners, and software engineers worldwide.
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {displayArticles.map((art) => (
+        <ArticleCard article={art} featured={art.featured} />
+      ))}
+    </div>
+
+    <NewsletterBox topic="High-Impact Business & Tech Playbooks" />
+  </PageContainer>
+</BaseLayout>

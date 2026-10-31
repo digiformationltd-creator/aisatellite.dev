@@ -1,0 +1,87 @@
+---
+import { Search, Compass, BookOpen, Sparkles, ShieldCheck } from 'lucide-react';
+import Badge from '@/components/ui/Badge.astro';
+
+interface Props {
+  totalArticles?: number;
+}
+
+const { totalArticles = 25 } = Astro.props;
+
+const popularCategories = [
+  { name: 'Business Startup Guides', slug: 'business-startup-guides' },
+  { name: 'Industry-Specific Growth', slug: 'industry-specific-growth' },
+  { name: 'UK Business', slug: 'uk-business' },
+  { name: 'Free AI Tools', slug: 'free-ai-tools' },
+  { name: 'Open-Source Software', slug: 'open-source-software' },
+  { name: 'AI Automation', slug: 'ai-automation' },
+  { name: 'Workflow Automation', slug: 'workflow-automation' },
+  { name: 'Developer Tools', slug: 'developer-tools' },
+];
+---
+
+<section class="relative overflow-hidden pt-12 pb-16 md:pt-16 md:pb-20 border-b border-cosmic-cyan/15 bg-gradient-to-b from-space-950 via-space-900 to-space-950">
+  <!-- Subtle Orbital Background Accents (Fast, zero heavy 3D penalty) -->
+  <div class="absolute -top-32 left-1/2 -translate-x-1/2 w-[850px] h-72 bg-gradient-to-r from-cosmic-cyan/10 via-cosmic-blue/15 to-cosmic-purple/10 rounded-full blur-3xl pointer-events-none"></div>
+  <div class="absolute right-10 top-20 w-72 h-72 rounded-full border border-cosmic-cyan/10 pointer-events-none animate-pulse-slow"></div>
+
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
+    <!-- Top Editorial Badge -->
+    <div class="inline-flex items-center gap-2 mb-6">
+      <Badge variant="cyan" size="md">
+        <Sparkles className="w-3.5 h-3.5 mr-1 inline animate-spin-slow" />
+        AI Satellite &bull; Editorial Knowledge Universe
+      </Badge>
+      <span class="hidden sm:inline-block text-xs font-mono text-text-muted">
+        Verified Research &bull; Zero Paywalls
+      </span>
+    </div>
+
+    <!-- Main Editorial Headline -->
+    <h1 class="text-4xl sm:text-5xl md:text-6xl font-heading font-black text-text-primary tracking-tight leading-[1.1] mb-6">
+      Explore Technology.<br />
+      <span class="bg-gradient-to-r from-cosmic-cyan via-cosmic-teal to-cosmic-purple bg-clip-text text-transparent">
+        Build Smarter Businesses.
+      </span>
+    </h1>
+
+    <!-- Subtitle / Mission Statement -->
+    <p class="text-lg sm:text-xl text-text-secondary leading-relaxed max-w-3xl mx-auto mb-10">
+      Discover free AI tools, open-source software, smarter alternatives, practical business growth guides, and developer engineering playbooks — all in one unified knowledge station.
+    </p>
+
+    <!-- Search Form linking to /blog/search -->
+    <form action="/blog/search" method="GET" class="max-w-2xl mx-auto mb-8 relative">
+      <div class="relative flex items-center">
+        <Search className="absolute left-4 w-5 h-5 text-cosmic-cyan pointer-events-none" />
+        <input
+          type="text"
+          name="q"
+          placeholder="Search 1,000+ topics: car dealerships, UK LTD, CRM, MCP agents, free tools..."
+          class="w-full pl-12 pr-28 py-3.5 rounded-full bg-space-900/90 border border-cosmic-cyan/30 text-text-primary placeholder:text-text-muted focus:outline-none focus:ring-2 focus:ring-cosmic-cyan focus:border-transparent transition-all shadow-orbital-glass text-sm sm:text-base"
+        />
+        <button
+          type="submit"
+          class="absolute right-2 px-5 py-2 rounded-full bg-cosmic-cyan hover:bg-cosmic-cyan/90 text-space-950 font-semibold text-xs sm:text-sm transition-all shadow-glow-cyan"
+        >
+          Search Hub
+        </button>
+      </div>
+    </form>
+
+    <!-- Fast Category Chips -->
+    <div class="flex items-center justify-center flex-wrap gap-2 pt-2">
+      <span class="text-xs font-mono text-text-muted mr-1">Popular Topics:</span>
+      {
+        popularCategories.map((cat) => (
+          <a
+            href={`/blog/category/${cat.slug}`}
+            class="text-xs font-medium px-3 py-1.5 rounded-full bg-space-850 hover:bg-space-800 text-text-secondary hover:text-cosmic-cyan border border-border-subtle hover:border-cosmic-cyan/40 transition-colors"
+          >
+            {cat.name}
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</section>

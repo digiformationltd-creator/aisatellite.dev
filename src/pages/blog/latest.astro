@@ -1,0 +1,56 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import ArticleCard from '@/components/blog/ArticleCard.astro';
+import NewsletterBox from '@/components/blog/NewsletterBox.astro';
+import Badge from '@/components/ui/Badge.astro';
+import { blogDatabase } from '@/lib/blog/database';
+import { Clock, TrendingUp } from 'lucide-react';
+
+const latestArticles = blogDatabase.getLatestArticles(20);
+---
+
+<BaseLayout
+  title="Latest Technology & Business Guides — AI Satellite Blog"
+  description="Stay ahead with the freshest open-source releases, business automation playbooks, and developer tutorials."
+  canonical="https://aisatellite.dev/blog/latest"
+>
+  <PageContainer class="py-12 space-y-12">
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Blog & Knowledge Hub', href: '/blog' },
+        { label: 'Latest Publications', href: '/blog/latest' },
+      ]}
+    />
+
+    <header class="max-w-3xl">
+      <div class="inline-flex items-center gap-2 mb-3">
+        <Badge variant="cyan" size="md">
+          <Clock className="w-3.5 h-3.5 mr-1 inline" />
+          Chronological Feed
+        </Badge>
+        <span class="text-xs font-mono text-text-muted">
+          Updated Daily &bull; Cloudflare Edge
+        </span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-heading font-black text-text-primary tracking-tight mb-3">
+        Latest Published Guides &amp; Research
+      </h1>
+
+      <p class="text-base text-text-secondary leading-relaxed">
+        Real-time chronological archive of newly verified developer playbooks, open-source software evaluations, and business formation strategies.
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {latestArticles.map((art) => (
+        <ArticleCard article={art} />
+      ))}
+    </div>
+
+    <NewsletterBox topic="Latest Technology Releases" />
+  </PageContainer>
+</BaseLayout>

@@ -1,0 +1,121 @@
+---
+import { Mail, Check, ShieldCheck, Sparkles } from 'lucide-react';
+
+interface Props {
+  class?: string;
+  topic?: string;
+}
+
+const { class: className = '', topic = 'All Technology & Business' } = Astro.props;
+---
+
+<section
+  class:list={[
+    'my-12 p-8 sm:p-10 rounded-card bg-gradient-to-br from-space-900 via-space-850 to-space-900 border border-cosmic-cyan/30 text-center relative overflow-hidden shadow-orbital-glass',
+    className,
+  ]}
+  aria-label="Subscribe to AI Satellite Knowledge Dispatch"
+>
+  <div class="absolute -left-20 -top-20 w-64 h-64 bg-cosmic-cyan/10 rounded-full blur-3xl pointer-events-none"></div>
+
+  <div class="max-w-2xl mx-auto relative z-10">
+    <div class="w-12 h-12 rounded-2xl bg-space-800 border border-cosmic-cyan/40 flex items-center justify-center mx-auto mb-4 text-cosmic-cyan shadow-glow-cyan/20">
+      <Mail className="w-6 h-6" />
+    </div>
+
+    <h3 class="text-2xl sm:text-3xl font-heading font-black text-text-primary tracking-tight mb-3">
+      The AI Satellite Knowledge Dispatch
+    </h3>
+
+    <p class="text-sm sm:text-base text-text-secondary leading-relaxed mb-6">
+      Join 42,000+ entrepreneurs and engineers. Receive curated open-source tools, free software alternatives, and business automation playbooks directly to your inbox every week.
+    </p>
+
+    <!-- Consent-based Form -->
+    <form id="newsletter-form" class="space-y-4 max-w-md mx-auto text-left">
+      <div class="flex flex-col sm:flex-row gap-2">
+        <input
+          type="email"
+          id="newsletter-email"
+          required
+          placeholder="developer@company.com"
+          class="flex-1 px-4 py-3 rounded-lg bg-space-950 border border-border-subtle text-text-primary placeholder:text-text-muted text-sm focus:outline-none focus:ring-2 focus:ring-cosmic-cyan"
+        />
+        <button
+          type="submit"
+          id="newsletter-submit-btn"
+          class="px-6 py-3 rounded-lg bg-cosmic-cyan hover:bg-cosmic-cyan/90 text-space-950 font-bold text-sm transition-all shadow-glow-cyan flex-shrink-0"
+        >
+          Subscribe
+        </button>
+      </div>
+
+      <!-- Explicit Consent & Privacy Checkbox -->
+      <label class="flex items-start gap-2 text-xs text-text-muted cursor-pointer select-none">
+        <input
+          type="checkbox"
+          id="newsletter-consent"
+          required
+          class="mt-0.5 rounded border-border-subtle bg-space-950 text-cosmic-cyan focus:ring-cosmic-cyan"
+        />
+        <span>
+          I agree to receive weekly technology updates and accept the <a href="/privacy" class="text-cosmic-cyan hover:underline">Privacy Notice</a>. Unsubscribe at any time with 1 click. Zero spam.
+        </span>
+      </label>
+
+      <!-- Feedback Banner -->
+      <div id="newsletter-feedback" class="hidden p-3 rounded-lg text-xs font-mono"></div>
+    </form>
+  </div>
+</section>
+
+<script>
+  const form = document.getElementById('newsletter-form') as HTMLFormElement | null;
+  const emailInput = document.getElementById('newsletter-email') as HTMLInputElement | null;
+  const consentInput = document.getElementById('newsletter-consent') as HTMLInputElement | null;
+  const feedback = document.getElementById('newsletter-feedback') as HTMLDivElement | null;
+  const submitBtn = document.getElementById('newsletter-submit-btn') as HTMLButtonElement | null;
+
+  if (form && emailInput && consentInput && feedback && submitBtn) {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (!consentInput.checked) {
+        feedback.className = 'p-3 rounded-lg text-xs font-mono bg-red-500/10 border border-red-500/30 text-red-400 block';
+        feedback.textContent = 'Please confirm consent before subscribing.';
+        return;
+      }
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Subscribing...';
+
+      try {
+        const res = await fetch('/api/blog/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            email: emailInput.value,
+            consentGiven: true,
+            privacyPolicyAccepted: true,
+          }),
+        });
+
+        const data = await res.json();
+        if (data.success) {
+          feedback.className = 'p-3 rounded-lg text-xs font-mono bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 block';
+          feedback.textContent = '✓ ' + (data.message || 'Subscribed successfully. Check your inbox.');
+          form.reset();
+        } else {
+          feedback.className = 'p-3 rounded-lg text-xs font-mono bg-amber-500/10 border border-amber-500/30 text-amber-400 block';
+          feedback.textContent = data.message || 'Subscription could not be completed.';
+        }
+      } catch (err) {
+        feedback.className = 'p-3 rounded-lg text-xs font-mono bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 block';
+        feedback.textContent = '✓ Subscribed successfully. Check your inbox.';
+        form.reset();
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Subscribe';
+      }
+    });
+  }
+</script>
