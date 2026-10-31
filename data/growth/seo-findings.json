@@ -1,24 +1,24 @@
 [
   {
-    "id": "seo-brk-1793449044944-0",
+    "id": "seo-brk-1793449725157-0",
     "severity": "critical",
     "category": "broken_link",
     "affectedUrl": "/test-page",
     "problem": "Broken internal link detected to non-existent route: /non-existent-route-999",
     "evidence": "href=\"/non-existent-route-999\" references route not found in indexable routes",
     "recommendedFix": "Update link destination or implement redirect for /non-existent-route-999",
-    "detectedAt": "2026-10-31T12:17:24.944Z",
+    "detectedAt": "2026-10-31T12:28:45.157Z",
     "status": "detected"
   },
   {
-    "id": "seo-orph-1793449044944-1",
+    "id": "seo-orph-1793449725157-1",
     "severity": "low",
     "category": "orphan",
     "affectedUrl": "/test-page",
     "problem": "Potential orphan page: No internal incoming links found",
     "evidence": "Inlink count is 0 for /test-page",
     "recommendedFix": "Add contextual links from related topic hubs or pillar pages",
-    "detectedAt": "2026-10-31T12:17:24.944Z",
+    "detectedAt": "2026-10-31T12:28:45.157Z",
     "status": "detected"
   }
 ]

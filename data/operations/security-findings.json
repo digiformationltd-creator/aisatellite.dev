@@ -138,5 +138,15 @@
     "remediation": "Immediately revoke credential, purge from git history, and migrate to environment variables.",
     "status": "open",
     "detectedAt": "2026-10-31T12:17:28.465Z"
+  },
+  {
+    "id": "SEC-SECRETS-1793449728142-aocl",
+    "scanType": "secret_exposure",
+    "severity": "critical",
+    "target": "Workspace source code",
+    "description": "Potential high-entropy secret detected matching pattern: OpenAI API Key",
+    "remediation": "Immediately revoke credential, purge from git history, and migrate to environment variables.",
+    "status": "open",
+    "detectedAt": "2026-10-31T12:28:48.143Z"
   }
 ]
