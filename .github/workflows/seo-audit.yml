@@ -1,0 +1,22 @@
+name: Scheduled Technical SEO Audit
+
+on:
+  schedule:
+    - cron: '0 4 * * 1' # Every Monday at 04:00 UTC
+  workflow_dispatch:
+
+jobs:
+  seo-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+      - name: Install Dependencies
+        run: npm ci
+      - name: Build Site for Audit
+        run: npm run build
+      - name: Run Technical SEO Audit
+        run: npx tsx scripts/audit-seo.ts

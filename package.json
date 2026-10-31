@@ -19,6 +19,11 @@
     "validate:draft": "tsx scripts/validate-draft.ts",
     "publish:approved": "tsx scripts/publish-approved.ts",
     "monitor": "tsx scripts/monitor-freshness.ts",
+    "growth:seo": "tsx scripts/audit-seo.ts",
+    "growth:search": "tsx scripts/analyze-search.ts",
+    "growth:distribute": "tsx scripts/prepare-distribution.ts",
+    "growth:newsletter": "tsx scripts/generate-newsletter.ts",
+    "growth:report": "tsx scripts/growth-report.ts",
     "deploy": "wrangler pages deploy dist --project-name aisatellite --branch main"
   },
   "dependencies": {

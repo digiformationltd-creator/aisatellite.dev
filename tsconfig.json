@@ -9,7 +9,8 @@
     "paths": {
       "@/*": ["src/*"],
       "@automation/*": ["automation/*"],
-      "@config/*": ["config/*"]
+      "@config/*": ["config/*"],
+      "@growth/*": ["growth/*"]
     }
   },
   "include": [".astro/types.d.ts", "**/*"],

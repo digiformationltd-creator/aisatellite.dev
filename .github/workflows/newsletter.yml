@@ -1,0 +1,20 @@
+name: Weekly Newsletter Digest Workflow
+
+on:
+  schedule:
+    - cron: '0 10 * * 5' # Every Friday at 10:00 UTC
+  workflow_dispatch:
+
+jobs:
+  newsletter-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+      - name: Install Dependencies
+        run: npm ci
+      - name: Generate Newsletter Draft
+        run: npx tsx scripts/generate-newsletter.ts

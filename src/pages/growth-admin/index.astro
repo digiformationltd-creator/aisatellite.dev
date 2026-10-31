@@ -1,0 +1,31 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import GrowthControlCenter from '@/components/growth/GrowthControlCenter.tsx';
+---
+
+<BaseLayout
+  title="Growth Control Center — AI Satellite Admin"
+  description="Secured administration console for organic search intelligence, distribution queues, and community moderation."
+>
+  <PageContainer>
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Growth Control Center', href: '/growth-admin' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Private Console"
+      title="Growth & Community Control Center"
+      description="Manage technical SEO audits, human-in-the-loop social distribution, consent-based subscriber digests, and community submissions."
+    />
+
+    <div class="mt-8">
+      <GrowthControlCenter client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>

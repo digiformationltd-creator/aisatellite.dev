@@ -10,6 +10,7 @@ import WorkflowCard from '@/components/cards/WorkflowCard.astro';
 import ProjectCard from '@/components/cards/ProjectCard.astro';
 import ArticleCard from '@/components/cards/ArticleCard.astro';
 import DemoViewer from '@/components/lab/DemoViewer.tsx';
+import NewsletterSignup from '@/components/growth/NewsletterSignup.tsx';
 import Button from '@/components/ui/Button.astro';
 import GithubIcon from '@/components/icons/GithubIcon.astro';
 import { Sparkles, ArrowRight, PlusCircle } from 'lucide-react';
@@ -198,6 +199,13 @@ const discoveryFilters = [
           ))
         }
       </div>
+    </PageContainer>
+  </section>
+
+  <!-- Newsletter Digest -->
+  <section class="py-12 border-t border-border-subtle bg-space-950/60">
+    <PageContainer>
+      <NewsletterSignup client:visible />
     </PageContainer>
   </section>
 

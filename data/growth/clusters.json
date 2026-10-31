@@ -1,0 +1,239 @@
+[
+  {
+    "id": "cluster-dev-tools",
+    "name": "Free Developer Tools",
+    "slug": "free-developer-tools",
+    "pillarUrl": "/tools",
+    "description": "Curated index of 100% free, self-hostable developer tools and infrastructure.",
+    "keywords": [
+      "developer tools",
+      "free dev tools",
+      "self-hosted developer tools",
+      "local dev utilities"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.145Z"
+  },
+  {
+    "id": "cluster-alternatives",
+    "name": "Open-Source Alternatives",
+    "slug": "open-source-alternatives",
+    "pillarUrl": "/alternatives",
+    "description": "Comprehensive directory of open-source and self-hosted replacements for proprietary SaaS.",
+    "keywords": [
+      "open source alternatives",
+      "free software alternatives",
+      "self-hosted replacements",
+      "saas alternatives"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-ai-coding",
+    "name": "AI Coding",
+    "slug": "ai-coding",
+    "pillarUrl": "/prompts/coding",
+    "description": "Autonomous coding agents, LLM scaffolding prompts, and AI pair-programming patterns.",
+    "keywords": [
+      "ai coding",
+      "coding agents",
+      "claude code prompts",
+      "developer agent workflows"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-ai-agents",
+    "name": "AI Agents",
+    "slug": "ai-agents",
+    "pillarUrl": "/ai-agents",
+    "description": "Autonomous multi-agent architectures, reasoning loops, tool usage, and memory systems.",
+    "keywords": [
+      "ai agents",
+      "autonomous agents",
+      "agentic workflows",
+      "langgraph alternative"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-mcp-servers",
+    "name": "MCP Servers",
+    "slug": "mcp-servers",
+    "pillarUrl": "/mcp-servers",
+    "description": "Model Context Protocol server directory, tool specifications, and integration playbooks.",
+    "keywords": [
+      "mcp servers",
+      "model context protocol",
+      "mcp tools",
+      "anthropic mcp directory"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-free-hosting",
+    "name": "Free Hosting",
+    "slug": "free-hosting",
+    "pillarUrl": "/free-software",
+    "description": "Zero-cost edge hosting, VPS tiers, serverless runtimes, and static asset distribution.",
+    "keywords": [
+      "free hosting",
+      "free cloudflare pages",
+      "self hosting",
+      "free vps developers"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-databases",
+    "name": "Databases",
+    "slug": "databases",
+    "pillarUrl": "/topics/databases",
+    "description": "Open-source relational, vector, time-series, and embedded database engines.",
+    "keywords": [
+      "open source database",
+      "postgresql pgvector",
+      "sqlite edge",
+      "supabase self-hosted"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-automation",
+    "name": "Automation",
+    "slug": "automation",
+    "pillarUrl": "/workflows",
+    "description": "Self-hosted workflow orchestration, event-driven automation, and webhooks.",
+    "keywords": [
+      "developer automation",
+      "n8n self-hosted",
+      "activepieces",
+      "temporal workflows"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-threejs",
+    "name": "Three.js",
+    "slug": "threejs",
+    "pillarUrl": "/3d-lab/threejs",
+    "description": "Interactive WebGL and Three.js 3D web graphics components, shaders, and animations.",
+    "keywords": [
+      "threejs",
+      "webgl 3d",
+      "threejs interactive components",
+      "threejs canvas demos"
+    ],
+    "supportingUrls": [
+      "/3d-lab/threejs/interactive-sphere"
+    ],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-webgl",
+    "name": "WebGL",
+    "slug": "webgl",
+    "pillarUrl": "/3d-lab/shaders",
+    "description": "Custom GLSL shaders, visual post-processing effects, and GPU particle simulations.",
+    "keywords": [
+      "webgl shaders",
+      "glsl fragment shader",
+      "webgl postprocessing",
+      "gpu particles web"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-productivity",
+    "name": "Developer Productivity",
+    "slug": "developer-productivity",
+    "pillarUrl": "/downloads",
+    "description": "CLI utilities, formatters, offline tools, and local-first developer productivity suites.",
+    "keywords": [
+      "developer productivity",
+      "cli developer tools",
+      "offline developer utilities"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-crm",
+    "name": "Open-Source CRM",
+    "slug": "open-source-crm",
+    "pillarUrl": "/alternatives/salesforce-alternatives",
+    "description": "Self-hosted customer relationship management and agency pipeline systems.",
+    "keywords": [
+      "open source crm",
+      "twenty crm self-hosted",
+      "salesforce alternative open source"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-erp",
+    "name": "Open-Source ERP",
+    "slug": "open-source-erp",
+    "pillarUrl": "/topics/devops",
+    "description": "Integrated resource planning, open-source ledger systems, and operational platforms.",
+    "keywords": [
+      "open source erp",
+      "erpnext guide",
+      "self hosted erp for agency"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-original-software",
+    "name": "Original Software",
+    "slug": "original-software",
+    "pillarUrl": "/projects",
+    "description": "Original open-source software factory releases and production-grade applications.",
+    "keywords": [
+      "ai satellite original software",
+      "developer toolbox cli",
+      "open source applications"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  },
+  {
+    "id": "cluster-founder-infra",
+    "name": "Founder Infrastructure",
+    "slug": "founder-infrastructure",
+    "pillarUrl": "/founder-hub",
+    "description": "Statutory guides for remote developers, global billing prerequisites, and digital infrastructure.",
+    "keywords": [
+      "developer founder hub",
+      "global payments for developers",
+      "remote company guidance"
+    ],
+    "supportingUrls": [],
+    "freshnessStatus": "fresh",
+    "lastUpdated": "2026-10-31T07:12:59.146Z"
+  }
+]

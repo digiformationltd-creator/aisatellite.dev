@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "ai-satellite",
+    "hasReadme": true,
+    "hasInstallationGuide": true,
+    "hasScreenshots": false,
+    "hasDemoLink": true,
+    "hasLicense": true,
+    "hasContributingGuide": true,
+    "hasSecurityPolicy": true,
+    "hasIssueTemplates": false,
+    "hasPrTemplates": false,
+    "topicsCount": 8,
+    "hasReleaseNotes": false,
+    "hasRoadmap": false,
+    "hasDocumentationLinks": false,
+    "goodFirstIssuesCount": 3,
+    "healthScore": 65,
+    "recommendations": [
+      "Add preview screenshots or GIFs to README.md to boost developer discovery",
+      "Create .github/ISSUE_TEMPLATE for structured bug reports and feature requests",
+      "Add .github/PULL_REQUEST_TEMPLATE.md for contributor consistency"
+    ],
+    "auditedAt": "2026-10-31T07:14:25.903Z"
+  }
+]

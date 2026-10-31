@@ -1,0 +1,22 @@
+name: Monthly Growth Report
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' # 1st of every month at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  growth-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+      - name: Install Dependencies
+        run: npm ci
+      - name: Build Site
+        run: npm run build
+      - name: Generate Growth & Attribution Report
+        run: npx tsx scripts/growth-report.ts

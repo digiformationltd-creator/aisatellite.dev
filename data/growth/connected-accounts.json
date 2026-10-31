@@ -1,0 +1,58 @@
+[
+  {
+    "platform": "github",
+    "accountHandle": "aisatellite",
+    "isActive": true,
+    "authStatus": "unconfigured",
+    "lastCheckedAt": "2026-10-31T07:12:54.880Z"
+  },
+  {
+    "platform": "linkedin",
+    "accountHandle": "ai-satellite",
+    "isActive": false,
+    "authStatus": "unconfigured",
+    "lastCheckedAt": "2026-10-31T07:12:54.880Z"
+  },
+  {
+    "platform": "x",
+    "accountHandle": "@aisatellite_dev",
+    "isActive": false,
+    "authStatus": "unconfigured",
+    "lastCheckedAt": "2026-10-31T07:12:54.880Z"
+  },
+  {
+    "platform": "mastodon",
+    "accountHandle": "@satellite@fosstodon.org",
+    "isActive": false,
+    "authStatus": "unconfigured",
+    "lastCheckedAt": "2026-10-31T07:12:54.880Z"
+  },
+  {
+    "platform": "bluesky",
+    "accountHandle": "aisatellite.bsky.social",
+    "isActive": false,
+    "authStatus": "unconfigured",
+    "lastCheckedAt": "2026-10-31T07:12:54.880Z"
+  },
+  {
+    "platform": "reddit",
+    "accountHandle": "u/aisatellite",
+    "isActive": false,
+    "authStatus": "unconfigured",
+    "lastCheckedAt": "2026-10-31T07:12:54.880Z"
+  },
+  {
+    "platform": "devto",
+    "accountHandle": "aisatellite",
+    "isActive": false,
+    "authStatus": "unconfigured",
+    "lastCheckedAt": "2026-10-31T07:12:54.880Z"
+  },
+  {
+    "platform": "hashnode",
+    "accountHandle": "aisatellite",
+    "isActive": false,
+    "authStatus": "unconfigured",
+    "lastCheckedAt": "2026-10-31T07:12:54.880Z"
+  }
+]
