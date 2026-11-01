@@ -1,0 +1,33 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageContainer from '@/components/layout/PageContainer.astro';
+import SectionHeading from '@/components/layout/SectionHeading.astro';
+import Breadcrumbs from '@/components/layout/Breadcrumbs.astro';
+import AutonomousOperationsCenter from '@/components/admin/AutonomousOperationsCenter.tsx';
+---
+
+<BaseLayout
+  title="Autonomous Operations & Growth Control Center — AI Satellite Admin"
+  description="Private 23-module operations command center for 90-day autonomous publishing, global search distribution, ethical syndication, and continuous optimization."
+  noIndex={true}
+>
+  <PageContainer>
+    <Breadcrumbs
+      items={[
+        { label: 'Home', href: '/' },
+        { label: 'Unified Admin', href: '/admin' },
+        { label: 'Operations Center', href: '/admin/operations-center' },
+      ]}
+    />
+
+    <SectionHeading
+      badge="Phase 25 Master Operations & Growth Engine"
+      title="Autonomous Operations Control Center"
+      description="Unified 23-module governance for 90-day publishing, global search distribution, topical authority monitoring, and continuous performance improvement."
+    />
+
+    <div class="mt-8">
+      <AutonomousOperationsCenter client:load />
+    </div>
+  </PageContainer>
+</BaseLayout>

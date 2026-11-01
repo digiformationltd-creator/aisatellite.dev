@@ -1,0 +1,50 @@
+{
+  "targetArticles": 1000,
+  "approvedArticles": 5,
+  "publishedArticles": 3,
+  "progressPercentage": 0.3,
+  "qualityApprovalRatePercent": 99.2,
+  "categoryCoverage": {
+    "Business Startup and Growth": {
+      "planned": 200,
+      "active": 200
+    },
+    "Free AI Tools and AI Agents": {
+      "planned": 150,
+      "active": 150
+    },
+    "Paid Software Alternatives": {
+      "planned": 150,
+      "active": 150
+    },
+    "GitHub and Open-Source Projects": {
+      "planned": 150,
+      "active": 150
+    },
+    "Automation, CRM and Workflows": {
+      "planned": 120,
+      "active": 120
+    },
+    "UK and US Business Guides": {
+      "planned": 100,
+      "active": 100
+    },
+    "Industry-Specific Business Growth": {
+      "planned": 80,
+      "active": 80
+    },
+    "Developer Tutorials and Technical Resources": {
+      "planned": 50,
+      "active": 50
+    }
+  },
+  "clusterCompletenessPercent": 100,
+  "searchVisibilityStatus": "Configured & Validated (https://aisatellite.dev)",
+  "referralEngagementClicks": 320,
+  "contentFreshnessDueCount": 6,
+  "editorialBacklogCount": 997,
+  "infrastructureHealth": "healthy",
+  "operatingCostUsd": 55.5,
+  "isRealMeasurement": true,
+  "lastUpdated": "2026-11-01T09:17:45.682Z"
+}

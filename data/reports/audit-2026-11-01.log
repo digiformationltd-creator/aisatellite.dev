@@ -1,0 +1,19 @@
+[2026-11-01T09:23:11.899Z] [INFO] [GitHubDiscovery] Searching GitHub: query="cool-db" category="databases"
+[2026-11-01T09:23:11.901Z] [INFO] [GitHubDiscovery] Discovered 1 candidate resources from GitHub for databases
+[2026-11-01T09:23:11.905Z] [INFO] [GitHubDiscovery] Searching GitHub: query="local-llm" category="local-llm"
+[2026-11-01T09:23:11.906Z] [WARN] [GitHubDiscovery] GitHub API rate limited (remaining=0). Reset at 1730000000.
+[2026-11-01T09:23:12.919Z] [INFO] [GitHubDiscovery] Discovered 0 candidate resources from GitHub for local-llm
+[2026-11-01T09:23:15.177Z] [INFO] [FreshnessMonitor] Starting freshness and link integrity audit
+[2026-11-01T09:23:15.182Z] [INFO] [FreshnessMonitor] Audit complete. Monitored: 2, Broken: 0, Stale: 1
+[2026-11-01T09:23:36.115Z] [INFO] [ArticleDraftingEngine] Drafting article for topic: "Self-Hosting Modern Nextcloud for Engineering Teams" (self-hosting-modern-nextcloud)
+[2026-11-01T09:23:36.118Z] [INFO] [ModelProviderFactory] No external LLM credentials configured. Defaulting to Deterministic Fallback Provider.
+[2026-11-01T09:23:36.147Z] [INFO] [ArticleDraftingEngine] Draft created successfully: draft-1793525016147-self-hosting-modern-
+[2026-11-01T09:23:40.047Z] [INFO] [EditorialApproval] Draft draft-test-approval-1 submitted to Editorial Review Queue (Status: READY_FOR_REVIEW)
+[2026-11-01T09:23:40.055Z] [INFO] [EditorialApproval] Draft draft-test-approval-1 APPROVED by SeniorEditor-Aisha
+[2026-11-01T09:23:40.062Z] [INFO] [PublishingEngine] Successfully published article to: C:\Users\user\Downloads\AI STERLITE\src\content\blog\test-self-hosting-postgres-pgvector.md
+[2026-11-01T09:23:40.072Z] [INFO] [PublishingEngine] Promoted verified tool to: C:\Users\user\Downloads\AI STERLITE\src\content\tools\idempotencytesttool.md
+[2026-11-01T09:23:40.073Z] [INFO] [PublishingEngine] Tool "idempotencytesttool" already exists in content collection. Skipping duplicate overwrite.
+[2026-11-01T09:23:49.858Z] [INFO] [EditorialTopicPlanner] Analyzing 2 verified resources for editorial opportunities
+[2026-11-01T09:23:49.862Z] [INFO] [EditorialTopicPlanner] Generated 2 deduplicated topic proposals
+[2026-11-01T09:23:55.551Z] [INFO] [ModelProviderFactory] No external LLM credentials configured. Defaulting to Deterministic Fallback Provider.
+[2026-11-01T09:23:55.561Z] [INFO] [TestSubsystem] Test audit event for compliance verification {"operationId":"op-12345"}

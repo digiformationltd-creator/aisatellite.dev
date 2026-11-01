@@ -91,7 +91,7 @@
       "consumedIterations": 0
     },
     "createdAt": "2026-10-31T10:26:33.103Z",
-    "updatedAt": "2026-10-31T12:28:45.689Z"
+    "updatedAt": "2026-11-01T09:23:22.182Z"
   },
   {
     "id": "unapproved-plan-1793442393126",
@@ -452,5 +452,53 @@
     "updatedAt": "2026-10-31T12:28:45.702Z",
     "approvedBy": "Senior Lead Engineer",
     "approvedAt": "2026-10-31T12:28:45.700Z"
+  },
+  {
+    "id": "e2e-developer-toolbox-1793525000496",
+    "name": "AI Satellite Developer Toolbox CLI",
+    "slug": "e2e-developer-toolbox-1793525000496",
+    "description": "Engineers switch to untrusted third-party web apps to format JSON, hash strings, and convert timestamps, exposing private tokens.",
+    "projectType": "cli",
+    "status": "published",
+    "license": "MIT",
+    "targetPlatforms": [
+      "universal"
+    ],
+    "budgetConfig": {
+      "maxIterations": 25,
+      "maxTokens": 500000,
+      "maxBuildMinutes": 15,
+      "maxRetries": 3,
+      "consumedTokens": 3000,
+      "consumedIterations": 2
+    },
+    "createdAt": "2026-11-01T09:23:20.507Z",
+    "updatedAt": "2026-11-01T09:23:20.616Z",
+    "approvedBy": "Sarah Chen (Lead Systems Architect)",
+    "approvedAt": "2026-11-01T09:23:20.609Z"
+  },
+  {
+    "id": "unapproved-plan-1793525002185",
+    "name": "Unapproved Proj",
+    "slug": "unapproved-plan-1793525002185",
+    "description": "Test description",
+    "projectType": "cli",
+    "status": "planning",
+    "license": "MIT",
+    "targetPlatforms": [
+      "universal"
+    ],
+    "budgetConfig": {
+      "maxIterations": 25,
+      "maxTokens": 500000,
+      "maxBuildMinutes": 15,
+      "maxRetries": 3,
+      "consumedTokens": 0,
+      "consumedIterations": 0
+    },
+    "createdAt": "2026-11-01T09:23:22.185Z",
+    "updatedAt": "2026-11-01T09:23:22.193Z",
+    "approvedBy": "Senior Lead Engineer",
+    "approvedAt": "2026-11-01T09:23:22.192Z"
   }
 ]

@@ -211,7 +211,7 @@
       "name": "Autonomous Technology Discovery",
       "category": "discovery",
       "cronIntervalMinutes": 60,
-      "nextRun": "2026-10-31T13:28:44.403Z",
+      "nextRun": "2026-11-01T10:23:19.861Z",
       "status": "idle",
       "retryCount": 0,
       "maxRetries": 3
@@ -221,7 +221,7 @@
       "name": "GitHub Releases & License Auditing",
       "category": "verification",
       "cronIntervalMinutes": 120,
-      "nextRun": "2026-10-31T14:28:44.403Z",
+      "nextRun": "2026-11-01T11:23:19.861Z",
       "status": "idle",
       "retryCount": 0,
       "maxRetries": 3
@@ -231,7 +231,7 @@
       "name": "Pagefind Search Re-indexing",
       "category": "search",
       "cronIntervalMinutes": 360,
-      "nextRun": "2026-10-31T18:28:44.403Z",
+      "nextRun": "2026-11-01T15:23:19.861Z",
       "status": "idle",
       "retryCount": 0,
       "maxRetries": 2
@@ -241,7 +241,7 @@
       "name": "Platform Availability & SLI Monitor",
       "category": "reliability",
       "cronIntervalMinutes": 15,
-      "nextRun": "2026-10-31T12:43:44.403Z",
+      "nextRun": "2026-11-01T09:38:19.861Z",
       "status": "idle",
       "retryCount": 0,
       "maxRetries": 5

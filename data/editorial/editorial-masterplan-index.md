@@ -2,7 +2,7 @@
 **Canonical Production Domain:** https://aisatellite.dev  
 **Horizon:** 90 Days  
 **Generated Records:** 1000 Deduplicated Article Briefs  
-**Export Date:** 2026-10-31T13:13:33.078Z  
+**Export Date:** 2026-11-01T09:28:36.678Z  
 
 ---
 

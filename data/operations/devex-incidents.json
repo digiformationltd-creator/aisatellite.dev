@@ -148,5 +148,15 @@
     "description": "Zero verified alternatives matched user query",
     "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
     "isResolved": true
+  },
+  {
+    "id": "DEVEX-MVXMHAF2-BB5A",
+    "signalType": "zero_result_search",
+    "queryOrPath": "unsupported-obscure-commercial-software",
+    "occurrenceCount": 1,
+    "lastOccurredAt": "2026-11-01T09:23:24.542Z",
+    "description": "Zero verified alternatives matched user query",
+    "proposedSolution": "Research and catalog open-source alternatives matching search intent: \"unsupported-obscure-commercial-software\"",
+    "isResolved": true
   }
 ]

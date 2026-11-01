@@ -253,5 +253,22 @@
     "createdAt": "2026-10-31T12:28:48.136Z",
     "reason": "Unit test snapshot capture",
     "restoredAt": "2026-10-31T12:28:48.136Z"
+  },
+  {
+    "id": "SNAP-MVXMHAEY-EXJ1",
+    "ticketId": "TKT-MVXMHAEW-JUWN",
+    "targetFileOrResource": "data/operations/metadata-cache.json",
+    "snapshotData": "{\"id\":\"TKT-MVXMHAEW-JUWN\",\"title\":\"Re-cache Tool Metadata Schema\",\"description\":\"Refresh cached non-sensitive schema indices for offline search.\",\"severity\":\"low\",\"status\":\"proposed\",\"priorityTier\":8,\"evidenceUrls\":[\"https://aisatellite.dev/tools\"],\"affectedResources\":[\"data/operations/metadata-cache.json\"],\"proposedSolution\":\"Regenerate schema index.\",\"estimatedComplexity\":\"low\",\"riskLevel\":\"low\",\"requiredApproval\":\"none\",\"validationPlan\":\"Verify schema parsing.\",\"rollbackPlan\":\"Revert cache file.\",\"executionLogs\":[\"[2026-11-01T09:23:24.536Z] Ticket created via AutonomousImprovementPlanner\"],\"createdAt\":\"2026-11-01T09:23:24.536Z\",\"updatedAt\":\"2026-11-01T09:23:24.536Z\"}",
+    "createdAt": "2026-11-01T09:23:24.538Z",
+    "reason": "Pre-execution state for ticket TKT-MVXMHAEW-JUWN: Re-cache Tool Metadata Schema"
+  },
+  {
+    "id": "SNAP-MVXMHAF0-DPIE",
+    "ticketId": "TKT-TEST-99",
+    "targetFileOrResource": "src/lib/test-resource.ts",
+    "snapshotData": "export const test = true;",
+    "createdAt": "2026-11-01T09:23:24.540Z",
+    "reason": "Unit test snapshot capture",
+    "restoredAt": "2026-11-01T09:23:24.541Z"
   }
 ]

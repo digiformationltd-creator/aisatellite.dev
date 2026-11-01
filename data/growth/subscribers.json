@@ -1447,5 +1447,92 @@
     },
     "confirmedAt": "2026-10-31T12:28:49.603Z",
     "unsubscribedAt": "2026-10-31T12:28:49.606Z"
+  },
+  {
+    "id": "sub-1793525001734-8d29f1",
+    "email": "phase9-consent-1793525001730@example.org",
+    "status": "unconfirmed",
+    "consentTimestamp": "2026-11-01T09:23:21.734Z",
+    "consentVersion": "v1.0",
+    "ipHash": "810413fed4264346",
+    "optInToken": "47e6eee2e7920fc2424167889c530560f429558e64d55a76",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    }
+  },
+  {
+    "id": "sub-1793525001739-cbd901",
+    "email": "phase9-unsub-1793525001737@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-11-01T09:23:21.739Z",
+    "consentVersion": "v1.0",
+    "ipHash": "810413fed4264346",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-11-01T09:23:21.742Z",
+    "unsubscribedAt": "2026-11-01T09:23:21.745Z"
+  },
+  {
+    "id": "sub-1793525003264-4ff9d3",
+    "email": "dev-1793525003257@testcompany.org",
+    "status": "active",
+    "consentTimestamp": "2026-11-01T09:23:23.264Z",
+    "consentVersion": "v1.0",
+    "ipHash": "810413fed4264346",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-11-01T09:23:23.272Z"
+  },
+  {
+    "id": "sub-1793525003282-4627f7",
+    "email": "unsub-1793525003277@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-11-01T09:23:23.283Z",
+    "consentVersion": "v1.0",
+    "ipHash": "810413fed4264346",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-11-01T09:23:23.289Z",
+    "unsubscribedAt": "2026-11-01T09:23:23.295Z"
+  },
+  {
+    "id": "sub-1793525006236-37164f",
+    "email": "journey-test-1793525006231@example.org",
+    "status": "unsubscribed",
+    "consentTimestamp": "2026-11-01T09:23:26.236Z",
+    "consentVersion": "v1.0",
+    "ipHash": "810413fed4264346",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    },
+    "confirmedAt": "2026-11-01T09:23:26.242Z",
+    "unsubscribedAt": "2026-11-01T09:23:26.247Z"
+  },
+  {
+    "id": "sub-1793525011151-620fb0",
+    "email": "check27-1793525011145@test.org",
+    "status": "unconfirmed",
+    "consentTimestamp": "2026-11-01T09:23:31.151Z",
+    "consentVersion": "v1.0",
+    "ipHash": "810413fed4264346",
+    "optInToken": "9d5f2da76fe710d572763756b6568b8228c11dad75c28dee",
+    "preferences": {
+      "weeklyDigest": true,
+      "securityAdvisories": false,
+      "productReleases": true
+    }
   }
 ]

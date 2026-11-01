@@ -3525,5 +3525,162 @@
     },
     "timestamp": "2026-10-31T12:28:47.507Z",
     "dailySessionHash": "d6d271d4efe69e8b"
+  },
+  {
+    "id": "evt-1793525001755-ro2o",
+    "eventType": "page_view",
+    "url": "/tools/ollama",
+    "timestamp": "2026-11-01T09:23:21.755Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002595-e8ir",
+    "eventType": "page_view",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.595Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002599-08do",
+    "eventType": "search_performed",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.599Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002602-8p6c",
+    "eventType": "search_result_click",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.602Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002605-fzo6",
+    "eventType": "tool_detail_view",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.605Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002608-oqy5",
+    "eventType": "alternative_comparison_view",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.608Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002611-9wsp",
+    "eventType": "github_repository_click",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.611Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002614-ycve",
+    "eventType": "download_click",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.614Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002617-ef6n",
+    "eventType": "demo_open",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.617Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002620-vyws",
+    "eventType": "prompt_copy",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.620Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002623-d6bh",
+    "eventType": "newsletter_subscribe",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.623Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002626-qdv0",
+    "eventType": "newsletter_confirm",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.626Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002629-9h8h",
+    "eventType": "newsletter_unsubscribe",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.629Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002631-wpcs",
+    "eventType": "social_referral",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.631Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002634-p4w1",
+    "eventType": "contribution_start",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.634Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
+  },
+  {
+    "id": "evt-1793525002637-2wmo",
+    "eventType": "contribution_complete",
+    "url": "/tools/ollama",
+    "metadata": {
+      "source": "test-suite"
+    },
+    "timestamp": "2026-11-01T09:23:22.637Z",
+    "dailySessionHash": "60b6c58f65ba5a35"
   }
 ]

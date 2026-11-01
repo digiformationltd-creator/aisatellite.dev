@@ -8,9 +8,11 @@ Disallow: /operations-admin
 Disallow: /reliability-admin
 Disallow: /launch-admin
 Disallow: /admin
+Disallow: /admin/
 Disallow: /factory
 Disallow: /workspace
 Disallow: /community/moderation
 Disallow: /api/
 
 Sitemap: https://aisatellite.dev/sitemap-index.xml
+Sitemap: https://aisatellite.dev/sitemap.xml
