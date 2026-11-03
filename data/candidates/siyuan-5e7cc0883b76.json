@@ -1,0 +1,20 @@
+{
+  "id": "siyuan-5e7cc0883b76",
+  "canonicalUrl": "https://b3log.org/siyuan",
+  "name": "SiYuan",
+  "description": "Privacy-first personal knowledge management software, written in typescript and golang. ([Source Code](https://github.com/siyuan-note/siyuan)) `AGPL-3.0` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://b3log.org/siyuan/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://b3log.org/siyuan/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

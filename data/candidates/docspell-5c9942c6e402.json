@@ -1,0 +1,20 @@
+{
+  "id": "docspell-5c9942c6e402",
+  "canonicalUrl": "https://docspell.org/",
+  "name": "Docspell",
+  "description": "Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docspell.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docspell.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

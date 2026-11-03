@@ -1,0 +1,20 @@
+{
+  "id": "smartlook-com-63441cc143ea",
+  "canonicalUrl": "https://www.smartlook.com/",
+  "name": "smartlook.com",
+  "description": "free packages for web and mobile apps (1500 sessions/month), three heatmaps, one funnel, 1-month data history",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.smartlook.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.smartlook.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "postmark-2f3ac517746c",
+  "canonicalUrl": "https://postmarkapp.com/",
+  "name": "Postmark",
+  "description": "100 emails/month free, unlimited DMARC weekly digests.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://postmarkapp.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://postmarkapp.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

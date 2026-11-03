@@ -1,0 +1,20 @@
+{
+  "id": "honeybadger-io-d68dc8f9156f",
+  "canonicalUrl": "https://www.honeybadger.io/",
+  "name": "honeybadger.io",
+  "description": "Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.honeybadger.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.honeybadger.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

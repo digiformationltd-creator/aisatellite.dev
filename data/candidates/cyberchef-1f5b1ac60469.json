@@ -1,0 +1,20 @@
+{
+  "id": "cyberchef-1f5b1ac60469",
+  "canonicalUrl": "https://gchq.github.io/CyberChef",
+  "name": "CyberChef",
+  "description": "A simple, intuitive web app for analyzing and decoding/encoding data without dealing with complex tools or programming languages. Like a Swiss army knife of cryptography & encryption. All features are free to use, with no limit. Open source if you wish to self-host.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://gchq.github.io/CyberChef/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gchq.github.io/CyberChef/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pangolin-ceaa2605381f",
+  "canonicalUrl": "https://digpangolin.com/",
+  "name": "Pangolin",
+  "description": "Identity-aware tunneled reverse proxy with dashboard UI, access control, and WireGuard-based tunnels (alternative to Cloudflare Tunnel, Tailscale). ([Source Code](https://github.com/fosrl/pangolin)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://digpangolin.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://digpangolin.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

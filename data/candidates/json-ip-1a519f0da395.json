@@ -1,0 +1,20 @@
+{
+  "id": "json-ip-1a519f0da395",
+  "canonicalUrl": "https://getjsonip.com/",
+  "name": "JSON IP",
+  "description": "Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://getjsonip.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://getjsonip.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

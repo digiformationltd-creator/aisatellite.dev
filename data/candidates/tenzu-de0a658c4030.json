@@ -1,0 +1,20 @@
+{
+  "id": "tenzu-de0a658c4030",
+  "canonicalUrl": "https://tenzu.net/",
+  "name": "Tenzu",
+  "description": "Lightweight project management tool for agile teams. The SaaS relies on free contributions; users can always choose to give 0 and there is no features paywall {[more details](https://tenzu.net/pricing/)}",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tenzu.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tenzu.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

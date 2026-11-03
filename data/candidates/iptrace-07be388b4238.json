@@ -1,0 +1,20 @@
+{
+  "id": "iptrace-07be388b4238",
+  "canonicalUrl": "https://iptrace.io/",
+  "name": "IPTrace",
+  "description": "An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data with 50,000 free lookups per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://iptrace.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://iptrace.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

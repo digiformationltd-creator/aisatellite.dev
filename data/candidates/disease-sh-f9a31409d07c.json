@@ -1,0 +1,20 @@
+{
+  "id": "disease-sh-f9a31409d07c",
+  "canonicalUrl": "https://disease.sh/",
+  "name": "Disease.sh",
+  "description": "A free API providing accurate data for building the Covid-19 related useful Apps.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://disease.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://disease.sh/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

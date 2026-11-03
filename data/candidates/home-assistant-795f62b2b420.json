@@ -1,0 +1,20 @@
+{
+  "id": "home-assistant-795f62b2b420",
+  "canonicalUrl": "https://home-assistant.io/",
+  "name": "Home Assistant",
+  "description": "Home automation platform. ([Demo](https://home-assistant.io/demo/), [Source Code](https://github.com/home-assistant/core)) `Apache-2.0` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://home-assistant.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://home-assistant.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

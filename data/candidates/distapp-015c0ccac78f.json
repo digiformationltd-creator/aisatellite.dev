@@ -1,0 +1,20 @@
+{
+  "id": "distapp-015c0ccac78f",
+  "canonicalUrl": "https://distapp.app/",
+  "name": "DistApp",
+  "description": "Manage and distribute Android, iOS and Desktop apps. Useful for tester or self distribution. Try it for free with 2 apps, 1 org, 100 MB storage with unlimited downloads, or self-hosted your self.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://distapp.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://distapp.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z"
+}

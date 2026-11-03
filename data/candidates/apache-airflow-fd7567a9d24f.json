@@ -1,0 +1,20 @@
+{
+  "id": "apache-airflow-fd7567a9d24f",
+  "canonicalUrl": "https://airflow.apache.org/",
+  "name": "Apache Airflow",
+  "description": "Platform to programmatically author, schedule, and monitor workflows. ([Source Code](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://airflow.apache.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://airflow.apache.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

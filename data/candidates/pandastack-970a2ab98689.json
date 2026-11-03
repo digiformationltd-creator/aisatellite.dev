@@ -1,0 +1,20 @@
+{
+  "id": "pandastack-970a2ab98689",
+  "canonicalUrl": "https://www.pandastack.io/",
+  "name": "PandaStack",
+  "description": "An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.pandastack.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.pandastack.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

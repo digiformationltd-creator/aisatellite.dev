@@ -1,0 +1,20 @@
+{
+  "id": "qase-io-56b07d876f3f",
+  "canonicalUrl": "https://qase.io/",
+  "name": "qase.io",
+  "description": "Test management system for Dev and QA teams. Manage test cases, compose test runs, perform tests, track defects, and measure impact. The free tier includes all core features, with 500MB available for attachments and up to 3 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://qase.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://qase.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "argos-8adbec1f4a3a",
+  "canonicalUrl": "https://argos-ci.com/",
+  "name": "Argos",
+  "description": "Open Source visual testing for developers. Unlimitedprojects, with 5,000 screenshots per month. Free for open-source projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://argos-ci.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://argos-ci.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

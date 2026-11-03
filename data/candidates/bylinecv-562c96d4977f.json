@@ -1,0 +1,20 @@
+{
+  "id": "bylinecv-562c96d4977f",
+  "canonicalUrl": "https://bylinecv.com/",
+  "name": "BylineCV",
+  "description": "Form-based CV and cover letter builder to pass ATS filters and organize all your versions in one place. Free forever for core CV building, exports, and storage, with daily AI limits.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://bylinecv.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bylinecv.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

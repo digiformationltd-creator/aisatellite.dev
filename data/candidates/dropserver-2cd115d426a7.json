@@ -1,0 +1,20 @@
+{
+  "id": "dropserver-2cd115d426a7",
+  "canonicalUrl": "https://dropserver.org/",
+  "name": "Dropserver",
+  "description": "Application platform for your personal web services. ([Source Code](https://github.com/teleclimber/Dropserver/)) `Apache-2.0` `Go/Deno`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://dropserver.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dropserver.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

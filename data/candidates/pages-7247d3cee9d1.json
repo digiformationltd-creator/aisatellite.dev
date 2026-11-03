@@ -1,0 +1,20 @@
+{
+  "id": "pages-7247d3cee9d1",
+  "canonicalUrl": "https://developers.cloudflare.com/pages",
+  "name": "Pages",
+  "description": "Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developers.cloudflare.com/pages/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developers.cloudflare.com/pages/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

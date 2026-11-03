@@ -1,0 +1,20 @@
+{
+  "id": "nuclino-80d1017caa5f",
+  "canonicalUrl": "https://www.nuclino.com/",
+  "name": "Nuclino",
+  "description": "A lightweight and collaborative wiki for all your team's knowledge, docs, and notes. Free plan with all essential features, up to 50 items, and 5GB storage.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.nuclino.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.nuclino.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

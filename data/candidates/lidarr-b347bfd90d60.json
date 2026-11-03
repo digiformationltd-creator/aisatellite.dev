@@ -1,0 +1,20 @@
+{
+  "id": "lidarr-b347bfd90d60",
+  "canonicalUrl": "https://lidarr.audio/",
+  "name": "Lidarr",
+  "description": "Music collection manager for Usenet and BitTorrent users. ([Source Code](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://lidarr.audio/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://lidarr.audio/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

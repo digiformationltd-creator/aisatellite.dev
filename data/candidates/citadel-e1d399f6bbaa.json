@@ -1,0 +1,20 @@
+{
+  "id": "citadel-e1d399f6bbaa",
+  "canonicalUrl": "https://www.citadel.org/",
+  "name": "Citadel",
+  "description": "Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. ([Source Code](https://www.citadel.org/source.html)) `GPL-3.0` `C/Docker/Shell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.citadel.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.citadel.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

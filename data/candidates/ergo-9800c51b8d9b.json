@@ -1,0 +1,20 @@
+{
+  "id": "ergo-9800c51b8d9b",
+  "canonicalUrl": "https://ergo.chat/",
+  "name": "Ergo",
+  "description": "Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer. ([Source Code](https://github.com/ergochat/ergo)) `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ergo.chat/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ergo.chat/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "serendipity-c3b6595e5f2f",
+  "canonicalUrl": "https://docs.s9y.org/",
+  "name": "Serendipity",
+  "description": "Highly extensible and customizable PHP blog engine using Smarty templating (s9y). ([Source Code](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docs.s9y.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docs.s9y.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

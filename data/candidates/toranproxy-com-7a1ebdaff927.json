@@ -1,0 +1,20 @@
+{
+  "id": "toranproxy-com-7a1ebdaff927",
+  "canonicalUrl": "https://toranproxy.com/",
+  "name": "toranproxy.com",
+  "description": "Proxy for Packagist and GitHub. Never fail CD. Free for personal use, one developer, no support",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://toranproxy.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://toranproxy.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

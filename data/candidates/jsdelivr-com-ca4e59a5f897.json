@@ -1,0 +1,20 @@
+{
+  "id": "jsdelivr-com-ca4e59a5f897",
+  "canonicalUrl": "https://www.jsdelivr.com/",
+  "name": "jsdelivr.com",
+  "description": "A free, fast, and reliable open-source CDN. Supports npm, GitHub, WordPress, Deno, and more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.jsdelivr.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.jsdelivr.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "testspace-com-78cb32b1a737",
+  "canonicalUrl": "https://testspace.com/",
+  "name": "Testspace.com",
+  "description": "A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source](https://github.com/marketplace/testspace-com) and accounts for 450 monthly results.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://testspace.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://testspace.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wiki-js-3341a03d5625",
+  "canonicalUrl": "https://js.wiki/",
+  "name": "Wiki.js",
+  "description": "Modern, lightweight and powerful wiki app using Git and Markdown. ([Demo](https://docs.requarks.io), [Source Code](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs/Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://js.wiki/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://js.wiki/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

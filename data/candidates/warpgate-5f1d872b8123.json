@@ -1,0 +1,20 @@
+{
+  "id": "warpgate-5f1d872b8123",
+  "canonicalUrl": "https://github.com/warp-tech/warpgate",
+  "name": "Warpgate",
+  "description": "Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software. `Apache-2.0` `Rust/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/warp-tech/warpgate",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/warp-tech/warpgate"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

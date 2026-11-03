@@ -1,0 +1,20 @@
+{
+  "id": "nymphcast-e69151d805a4",
+  "canonicalUrl": "http://nyanko.ws/nymphcast.php",
+  "name": "NymphCast",
+  "description": "Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast). ([Source Code](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "http://nyanko.ws/nymphcast.php",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "http://nyanko.ws/nymphcast.php"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

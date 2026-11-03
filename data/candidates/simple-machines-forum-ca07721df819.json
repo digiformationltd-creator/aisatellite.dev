@@ -1,0 +1,20 @@
+{
+  "id": "simple-machines-forum-ca07721df819",
+  "canonicalUrl": "https://www.simplemachines.org/",
+  "name": "Simple Machines Forum",
+  "description": "Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.simplemachines.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.simplemachines.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "simplelocalize-04486a888d74",
+  "canonicalUrl": "https://simplelocalize.io/",
+  "name": "SimpleLocalize",
+  "description": "Free up to 100 translation keys, unlimited strings, unlimited languages, startup deals",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://simplelocalize.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://simplelocalize.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "jsonpage-e604de4565cb",
+  "canonicalUrl": "https://jsonpage.com/en",
+  "name": "Jsonpage",
+  "description": "Company data API for France and 13 other countries (SIREN, SIRET, VAT check). Free plan: 1,000 requests per day, no credit card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://jsonpage.com/en/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://jsonpage.com/en/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

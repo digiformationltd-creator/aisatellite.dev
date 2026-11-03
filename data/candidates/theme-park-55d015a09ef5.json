@@ -1,0 +1,20 @@
+{
+  "id": "theme-park-55d015a09ef5",
+  "canonicalUrl": "https://theme-park.dev/",
+  "name": "theme.park",
+  "description": "A collection of themes/skins for 50 selfhosted apps! ([Source Code](https://github.com/GilbN/theme.park/)) `MIT` `CSS`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://theme-park.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://theme-park.dev/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hygger-8f32648f5c7e",
+  "canonicalUrl": "https://hygger.io/",
+  "name": "Hygger",
+  "description": "Project management platform. The free plan offers unlimited users, projects & boards with 100 MB of Storage.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://hygger.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hygger.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

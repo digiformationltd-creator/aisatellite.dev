@@ -1,0 +1,20 @@
+{
+  "id": "smartforms-dev-e6474815a7b1",
+  "canonicalUrl": "https://smartforms.dev/",
+  "name": "smartforms.dev",
+  "description": "Powerful and easy form backend for your website, forever free plan allows 50 submissions per month, 250MB file storage, Zapier integration, CSV/JSON export, custom redirect, custom response page, Telegram & Slack bot, single email notifications.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://smartforms.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://smartforms.dev/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

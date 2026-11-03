@@ -1,0 +1,20 @@
+{
+  "id": "syagent-com-130f6cddd144",
+  "canonicalUrl": "https://syagent.com/",
+  "name": "syagent.com",
+  "description": "Noncommercial free server monitoring service, alerts and metrics.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://syagent.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://syagent.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

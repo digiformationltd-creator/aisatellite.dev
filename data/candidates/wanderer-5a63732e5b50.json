@@ -1,0 +1,20 @@
+{
+  "id": "wanderer-5a63732e5b50",
+  "canonicalUrl": "https://github.com/open-wanderer/wanderer",
+  "name": "wanderer",
+  "description": "Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ([Demo](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/open-wanderer/wanderer",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/open-wanderer/wanderer"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

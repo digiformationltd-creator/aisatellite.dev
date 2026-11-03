@@ -1,0 +1,20 @@
+{
+  "id": "pagehaus-d152870f5015",
+  "canonicalUrl": "https://pagehaus.app/",
+  "name": "Pagehaus",
+  "description": "Hosting for plain HTML sites, uploaded over SFTP or in the browser. Free plan: 1 site, 250 MB storage, 20 GB transfer/month, HTTPS on a pagehaus.site subdomain, contact forms, Server Side Includes and cookie-free analytics. No expiry, no card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pagehaus.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pagehaus.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

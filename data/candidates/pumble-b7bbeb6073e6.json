@@ -1,0 +1,20 @@
+{
+  "id": "pumble-b7bbeb6073e6",
+  "canonicalUrl": "https://pumble.com/",
+  "name": "Pumble",
+  "description": "Free team chat app. Unlimited users and message history, free forever.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pumble.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pumble.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

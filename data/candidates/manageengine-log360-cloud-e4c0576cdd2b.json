@@ -1,0 +1,20 @@
+{
+  "id": "manageengine-log360-cloud-e4c0576cdd2b",
+  "canonicalUrl": "https://www.manageengine.com/cloud-siem",
+  "name": "ManageEngine Log360 Cloud",
+  "description": "Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.manageengine.com/cloud-siem/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.manageengine.com/cloud-siem/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

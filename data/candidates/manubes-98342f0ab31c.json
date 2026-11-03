@@ -1,0 +1,20 @@
+{
+  "id": "manubes-98342f0ab31c",
+  "canonicalUrl": "https://www.manubes.com/",
+  "name": "manubes",
+  "description": "Powerful no-code cloud platform with a focus on industrial production management. Free for one user with 1 million workflow activities a month ([also available in german](https://www.manubes.de)).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.manubes.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.manubes.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

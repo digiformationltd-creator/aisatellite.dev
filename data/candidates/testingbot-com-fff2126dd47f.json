@@ -1,0 +1,20 @@
+{
+  "id": "testingbot-com-fff2126dd47f",
+  "canonicalUrl": "https://testingbot.com/",
+  "name": "testingbot.com",
+  "description": "Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://testingbot.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://testingbot.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

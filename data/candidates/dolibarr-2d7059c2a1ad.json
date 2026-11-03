@@ -1,0 +1,20 @@
+{
+  "id": "dolibarr-2d7059c2a1ad",
+  "canonicalUrl": "https://www.dolibarr.org/",
+  "name": "Dolibarr",
+  "description": "Modern CRM software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code](https://github.com/Dolibarr/dolibarr)) `GPL-3.0` `PHP/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.dolibarr.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.dolibarr.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tiddlywiki-ba11e55a887c",
+  "canonicalUrl": "https://tiddlywiki.com/",
+  "name": "TiddlyWiki",
+  "description": "Reusable non-linear personal web notebook. ([Source Code](https://github.com/TiddlyWiki/TiddlyWiki5)) `BSD-3-Clause` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://tiddlywiki.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tiddlywiki.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

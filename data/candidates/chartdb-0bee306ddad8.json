@@ -1,0 +1,20 @@
+{
+  "id": "chartdb-0bee306ddad8",
+  "canonicalUrl": "https://chartdb.io/",
+  "name": "ChartDB",
+  "description": "Database diagrams editor that allows you to visualize and design your DB with a single query. ([Demo](https://app.chartdb.io), [Source Code](https://github.com/chartdb/chartdb)) `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://chartdb.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://chartdb.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

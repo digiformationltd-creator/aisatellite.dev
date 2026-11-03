@@ -1,0 +1,20 @@
+{
+  "id": "tomorrow-io-weather-api-55237b9fb0ac",
+  "canonicalUrl": "https://www.tomorrow.io/weather-api",
+  "name": "Tomorrow.io Weather API",
+  "description": "Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.tomorrow.io/weather-api/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.tomorrow.io/weather-api/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

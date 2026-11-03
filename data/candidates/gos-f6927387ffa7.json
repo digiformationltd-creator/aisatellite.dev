@@ -1,0 +1,20 @@
+{
+  "id": "gos-f6927387ffa7",
+  "canonicalUrl": "https://codeberg.org/stv0g/gose",
+  "name": "GoSƐ",
+  "description": "Modern file-uploader focusing on scalability and simplicity. It only depends on a S3 storage backend and hence scales horizontally without the need for additional databases or caches. `Apache-2.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://codeberg.org/stv0g/gose",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codeberg.org/stv0g/gose"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

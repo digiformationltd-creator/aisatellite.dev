@@ -1,0 +1,20 @@
+{
+  "id": "bluecherry-c90f35a19aa3",
+  "canonicalUrl": "https://github.com/bluecherrydvr/bluecherry-apps",
+  "name": "Bluecherry",
+  "description": "Closed-circuit television (CCTV) software application which supports IP and Analog cameras. `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/bluecherrydvr/bluecherry-apps",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/bluecherrydvr/bluecherry-apps"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "adventurelog-0c52604153a3",
+  "canonicalUrl": "https://adventurelog.app/",
+  "name": "AdventureLog",
+  "description": "Travel tracker and trip planner. ([Demo](https://demo.adventurelog.app/signup), [Source Code](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://adventurelog.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://adventurelog.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

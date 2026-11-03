@@ -1,0 +1,20 @@
+{
+  "id": "inboxkitten-com-dd8869cbbf21",
+  "canonicalUrl": "https://inboxkitten.com/",
+  "name": "inboxkitten.com",
+  "description": "Free temporary/disposable email inbox, with up to 3-day email auto-deletes. Open source and can be self-hosted.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://inboxkitten.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://inboxkitten.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

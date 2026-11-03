@@ -1,0 +1,20 @@
+{
+  "id": "prismix-3fce99160285",
+  "canonicalUrl": "https://prismix.dev/",
+  "name": "Prismix",
+  "description": "Free REST API (GET /api/v1/statuses) returning real-time operational status for 75+ AI services including OpenAI, Anthropic, Gemini, Mistral, and more. No authentication required. [Free tier available with Pro at $10/month]",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://prismix.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://prismix.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

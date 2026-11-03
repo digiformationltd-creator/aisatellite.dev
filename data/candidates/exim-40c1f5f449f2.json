@@ -1,0 +1,20 @@
+{
+  "id": "exim-40c1f5f449f2",
+  "canonicalUrl": "https://www.exim.org/",
+  "name": "Exim",
+  "description": "Message transfer agent (MTA) developed at the University of Cambridge. ([Source Code](https://git.exim.org/exim.git)) `GPL-3.0` `C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.exim.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.exim.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

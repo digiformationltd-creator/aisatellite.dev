@@ -1,0 +1,20 @@
+{
+  "id": "clyocloud-4bcd0d3278a6",
+  "canonicalUrl": "https://clyo.cloud/",
+  "name": "ClyoCloud",
+  "description": "Personal cloud storage and media management application built for privacy, efficiency, and aesthetics. ([Source Code](https://code.weexnes.dev/ClyoCloud)) `AGPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://clyo.cloud/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://clyo.cloud/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

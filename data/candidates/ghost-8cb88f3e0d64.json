@@ -1,0 +1,20 @@
+{
+  "id": "ghost-8cb88f3e0d64",
+  "canonicalUrl": "https://ghost.org/",
+  "name": "Ghost",
+  "description": "Just a blogging platform. ([Source Code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ghost.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ghost.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

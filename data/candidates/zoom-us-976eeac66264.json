@@ -1,0 +1,20 @@
+{
+  "id": "zoom-us-976eeac66264",
+  "canonicalUrl": "https://zoom.us/",
+  "name": "zoom.us",
+  "description": "Secure Video and Web conferencing add-ons available. The free plan is limited to 40 minutes.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoom.us/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoom.us/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

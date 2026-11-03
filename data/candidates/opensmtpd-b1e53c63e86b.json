@@ -1,0 +1,20 @@
+{
+  "id": "opensmtpd-b1e53c63e86b",
+  "canonicalUrl": "https://opensmtpd.org/",
+  "name": "OpenSMTPD",
+  "description": "Secure SMTP server implementation from the OpenBSD project. ([Source Code](https://github.com/OpenSMTPD/OpenSMTPD/)) `ISC` `C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://opensmtpd.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://opensmtpd.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "convertx-c6c3ef8b9497",
+  "canonicalUrl": "https://github.com/C4illin/ConvertX",
+  "name": "ConvertX",
+  "description": "Online file converter which supports over a thousand different formats. `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/C4illin/ConvertX",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/C4illin/ConvertX"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "statically-io-5761acc3b0bd",
+  "canonicalUrl": "https://statically.io/",
+  "name": "statically.io",
+  "description": "CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets, and images",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://statically.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://statically.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

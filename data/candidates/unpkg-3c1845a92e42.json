@@ -1,0 +1,20 @@
+{
+  "id": "unpkg-3c1845a92e42",
+  "canonicalUrl": "https://unpkg.com/",
+  "name": "UNPKG",
+  "description": "CDN for everything on npm",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://unpkg.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://unpkg.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

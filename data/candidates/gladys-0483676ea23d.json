@@ -1,0 +1,20 @@
+{
+  "id": "gladys-0483676ea23d",
+  "canonicalUrl": "https://gladysassistant.com/",
+  "name": "Gladys",
+  "description": "Privacy-first home assistant. ([Source Code](https://github.com/GladysAssistant/Gladys)) `Apache-2.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gladysassistant.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gladysassistant.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

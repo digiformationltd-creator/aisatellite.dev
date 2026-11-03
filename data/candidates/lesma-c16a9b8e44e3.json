@@ -1,0 +1,20 @@
+{
+  "id": "lesma-c16a9b8e44e3",
+  "canonicalUrl": "https://lesma.eu/",
+  "name": "lesma",
+  "description": "Simple paste app friendly with browser and command line. ([Demo](https://lesma.eu), [Source Code](https://gitlab.com/ogarcia/lesma)) `GPL-3.0` `Rust/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://lesma.eu",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://lesma.eu"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pulumi-accfadc3aafe",
+  "canonicalUrl": "https://www.pulumi.com/",
+  "name": "Pulumi",
+  "description": "Modern infrastructure as a code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.pulumi.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.pulumi.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

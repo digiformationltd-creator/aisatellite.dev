@@ -1,0 +1,20 @@
+{
+  "id": "terrateam-fe2718301651",
+  "canonicalUrl": "https://terrateam.io/",
+  "name": "Terrateam",
+  "description": "GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://terrateam.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://terrateam.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

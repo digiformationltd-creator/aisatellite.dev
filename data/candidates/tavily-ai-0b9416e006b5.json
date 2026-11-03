@@ -1,0 +1,20 @@
+{
+  "id": "tavily-ai-0b9416e006b5",
+  "canonicalUrl": "https://tavily.com/",
+  "name": "Tavily AI",
+  "description": "API for online search and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tavily.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tavily.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

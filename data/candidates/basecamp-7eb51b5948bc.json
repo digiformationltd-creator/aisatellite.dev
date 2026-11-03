@@ -1,0 +1,20 @@
+{
+  "id": "basecamp-7eb51b5948bc",
+  "canonicalUrl": "https://basecamp.com/personal",
+  "name": "Basecamp",
+  "description": "To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://basecamp.com/personal",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://basecamp.com/personal"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

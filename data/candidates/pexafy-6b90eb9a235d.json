@@ -1,0 +1,20 @@
+{
+  "id": "pexafy-6b90eb9a235d",
+  "canonicalUrl": "https://docs.pexafy.com/",
+  "name": "Pexafy",
+  "description": "Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://docs.pexafy.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docs.pexafy.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

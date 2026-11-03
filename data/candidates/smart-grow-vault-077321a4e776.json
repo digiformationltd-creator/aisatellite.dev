@@ -1,0 +1,20 @@
+{
+  "id": "smart-grow-vault-077321a4e776",
+  "canonicalUrl": "https://vault.smart-grow.app/",
+  "name": "Smart Grow Vault",
+  "description": "Secure Enterprise-grade platform for managing environment variables and secrets. Free tier includes up to 3 applications and 150 secrets per project.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://vault.smart-grow.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://vault.smart-grow.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

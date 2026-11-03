@@ -1,0 +1,20 @@
+{
+  "id": "deadbro-5ae7a3d9fd9d",
+  "canonicalUrl": "https://www.deadbro.com/",
+  "name": "DeadBro",
+  "description": "Rails APM with request-based pricing: live traces, slow SQL, N+1 detection, and error tracking. Free forever for 50k requests/month, 7-day retention, 1 app, 1 uptime check, and email alerts. No credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.deadbro.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.deadbro.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

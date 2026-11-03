@@ -1,0 +1,20 @@
+{
+  "id": "slack-com-e5d304c1d5d0",
+  "canonicalUrl": "https://slack.com/",
+  "name": "slack.com",
+  "description": "Free for unlimited users with some feature limitations",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://slack.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://slack.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

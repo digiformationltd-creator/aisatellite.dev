@@ -1,0 +1,20 @@
+{
+  "id": "plone-aad020b3369a",
+  "canonicalUrl": "https://plone.org/",
+  "name": "Plone",
+  "description": "CMS system that is used to create, edit, and manage digital content, like websites, intranets, and custom solutions. ([Source Code](https://github.com/plone)) `ZPL-2.0` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://plone.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://plone.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rustdesk-ebe418c82127",
+  "canonicalUrl": "https://rustdesk.com/",
+  "name": "RustDesk",
+  "description": "Open source virtual/remote desktop infrastructure for everyone!",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://rustdesk.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rustdesk.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

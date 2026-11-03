@@ -1,0 +1,20 @@
+{
+  "id": "go-doxy-03e193bddaab",
+  "canonicalUrl": "https://github.com/yusing/godoxy",
+  "name": "go-doxy",
+  "description": "Lightweight, simple, and performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. `MIT` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/yusing/godoxy",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/yusing/godoxy"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

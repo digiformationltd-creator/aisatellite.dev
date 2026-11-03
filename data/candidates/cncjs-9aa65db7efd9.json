@@ -1,0 +1,20 @@
+{
+  "id": "cncjs-9aa65db7efd9",
+  "canonicalUrl": "https://cnc.js.org/",
+  "name": "CNCjs",
+  "description": "Web interface for CNC milling controllers running Grbl, Smoothieware, or TinyG. ([Source Code](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://cnc.js.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cnc.js.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

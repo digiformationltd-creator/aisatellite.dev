@@ -1,0 +1,20 @@
+{
+  "id": "adminer-b5eda9397b18",
+  "canonicalUrl": "https://www.adminer.org/",
+  "name": "Adminer",
+  "description": "Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code](https://github.com/vrana/adminer)) `Apache-2.0/GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.adminer.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.adminer.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lil-bots-70c9093a8014",
+  "canonicalUrl": "https://www.lilbots.io/",
+  "name": "lil'bots",
+  "description": "write and run scripts online utilizing free built-in APIs like OpenAI, Anthropic, Firecrawl and others. Great for building AI agents / internal tooling and sharing with team. Free-tier includes full access to APIs, AI coding assistant and 10,000 execution credits / month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.lilbots.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.lilbots.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

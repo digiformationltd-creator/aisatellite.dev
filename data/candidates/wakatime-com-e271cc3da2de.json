@@ -1,0 +1,20 @@
+{
+  "id": "wakatime-com-e271cc3da2de",
+  "canonicalUrl": "https://wakatime.com/",
+  "name": "wakatime.com",
+  "description": "Quantified self-metrics about your coding activity using text editor plugins, limited plan for free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://wakatime.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wakatime.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

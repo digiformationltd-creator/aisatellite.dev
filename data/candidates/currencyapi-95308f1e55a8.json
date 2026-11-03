@@ -1,0 +1,20 @@
+{
+  "id": "currencyapi-95308f1e55a8",
+  "canonicalUrl": "https://currencyapi.net/",
+  "name": "CurrencyApi",
+  "description": "Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://currencyapi.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://currencyapi.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

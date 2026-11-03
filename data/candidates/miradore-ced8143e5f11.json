@@ -1,0 +1,20 @@
+{
+  "id": "miradore-ced8143e5f11",
+  "canonicalUrl": "https://miradore.com/",
+  "name": "Miradore",
+  "description": "Device Management service. Stay up-to-date with your device fleet and secure unlimited devices for free. The free plan offers basic features.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://miradore.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://miradore.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

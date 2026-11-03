@@ -1,0 +1,20 @@
+{
+  "id": "lastping-35f12889ac93",
+  "canonicalUrl": "https://lastping.dev/",
+  "name": "LastPing",
+  "description": "Dead man's switch for AI agents, cron jobs and CI. Free for individuals with unlimited monitors and destinations. Let AI agents build monitoring for everything including themselves.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://lastping.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://lastping.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "figma-com-68fedf649248",
+  "canonicalUrl": "https://www.figma.com/",
+  "name": "figma.com",
+  "description": "Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and three projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.figma.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.figma.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

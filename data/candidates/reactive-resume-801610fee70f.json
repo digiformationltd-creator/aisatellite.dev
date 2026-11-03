@@ -1,0 +1,23 @@
+{
+  "id": "reactive-resume-801610fee70f",
+  "canonicalUrl": "https://rxresu.me/",
+  "name": "Reactive Resume",
+  "description": "One-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable and portable. ([Demo](https://rxresu.me/), [Source Code](https://github.com/reactive-resume/reactive-resume)) `MIT` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://rxresu.me/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rxresu.me",
+    "https://rxresu.me/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0
+}

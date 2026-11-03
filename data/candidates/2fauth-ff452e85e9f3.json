@@ -1,0 +1,20 @@
+{
+  "id": "2fauth-ff452e85e9f3",
+  "canonicalUrl": "https://github.com/Bubka/2FAuth",
+  "name": "2FAuth",
+  "description": "Manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/Bubka/2FAuth",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/Bubka/2FAuth"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

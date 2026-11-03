@@ -1,0 +1,20 @@
+{
+  "id": "gotenberg-dcf2d36af995",
+  "canonicalUrl": "https://gotenberg.dev/",
+  "name": "Gotenberg",
+  "description": "Developer-friendly API to interact with powerful tools like Chromium and LibreOffice for converting numerous document formats (HTML, Markdown, Word, Excel, etc.) into PDF files, and more. ([Source Code](https://github.com/gotenberg/gotenberg)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gotenberg.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gotenberg.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "calendarific-f572b638e26f",
+  "canonicalUrl": "https://calendarific.com/",
+  "name": "Calendarific",
+  "description": "Enterprise-grade Public holiday API service for over 200 countries. The free plan includes 500 calls per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://calendarific.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://calendarific.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

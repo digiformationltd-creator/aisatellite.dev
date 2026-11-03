@@ -1,0 +1,20 @@
+{
+  "id": "heap-io-f124d66e3095",
+  "canonicalUrl": "https://heap.io/",
+  "name": "heap.io",
+  "description": "Automatically captures every user action in iOS or web apps. Free for up to 10K monthly sessions.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://heap.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://heap.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

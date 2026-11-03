@@ -1,0 +1,20 @@
+{
+  "id": "localazy-com-84441e74f4b4",
+  "canonicalUrl": "https://localazy.com/",
+  "name": "localazy.com",
+  "description": "Free for 1000 source language strings, unlimited languages, unlimited contributors, startup and open source deals",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://localazy.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://localazy.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "alphaai-05530357e339",
+  "canonicalUrl": "https://alphai.io/developers",
+  "name": "AlphaAI",
+  "description": "Financial news API and MCP server. Every article gets per-ticker impact analysis, a category, and a 1-10 relevance score, and SEC Form 4 insider filings are turned into scored events. The free tier includes 20 requests per minute and 100 requests per day on both REST and MCP, no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://alphai.io/developers",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://alphai.io/developers"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

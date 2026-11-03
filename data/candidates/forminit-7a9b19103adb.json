@@ -1,0 +1,20 @@
+{
+  "id": "forminit-7a9b19103adb",
+  "canonicalUrl": "https://forminit.com/",
+  "name": "Forminit",
+  "description": "Headless form backend for developers. The free plan allows 100 form submissions per month including file uploads, server-side field validation, email notifications, spam protection and Zapier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://forminit.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://forminit.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

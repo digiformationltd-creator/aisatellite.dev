@@ -1,0 +1,20 @@
+{
+  "id": "uuid-generator-3d65ff1f46de",
+  "canonicalUrl": "https://newuuid.com/",
+  "name": "UUID Generator",
+  "description": "Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://newuuid.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://newuuid.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

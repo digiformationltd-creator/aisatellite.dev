@@ -1,0 +1,20 @@
+{
+  "id": "mailsac-com-d72f7aa28c9c",
+  "canonicalUrl": "https://mailsac.com/",
+  "name": "mailsac.com",
+  "description": "Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mailsac.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mailsac.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

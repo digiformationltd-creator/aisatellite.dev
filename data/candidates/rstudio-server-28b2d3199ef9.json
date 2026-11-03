@@ -1,0 +1,20 @@
+{
+  "id": "rstudio-server-28b2d3199ef9",
+  "canonicalUrl": "https://www.rstudio.com/products/rstudio",
+  "name": "RStudio Server",
+  "description": "Web browser based IDE for R. ([Source Code](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.rstudio.com/products/rstudio/#Server",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.rstudio.com/products/rstudio/#Server"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

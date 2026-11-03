@@ -1,0 +1,20 @@
+{
+  "id": "rightfeature-1c111f98a1e6",
+  "canonicalUrl": "https://rightfeature.com/",
+  "name": "RightFeature",
+  "description": "Easily collect feedback from your customers, turn customer feedback into your product roadmap. Collect, prioritize, and ship features that actually matter to your users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://rightfeature.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rightfeature.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "geoapify-com-a07d0a855553",
+  "canonicalUrl": "https://www.geoapify.com/",
+  "name": "geoapify.com",
+  "description": "Vector and raster map tiles, geocoding, places, routing, isolines APIs. Three thousand free requests/day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.geoapify.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.geoapify.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

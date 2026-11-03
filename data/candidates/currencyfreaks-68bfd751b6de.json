@@ -1,0 +1,20 @@
+{
+  "id": "currencyfreaks-68bfd751b6de",
+  "canonicalUrl": "https://currencyfreaks.com/",
+  "name": "CurrencyFreaks",
+  "description": "Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://currencyfreaks.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://currencyfreaks.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

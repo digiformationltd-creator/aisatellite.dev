@@ -1,0 +1,20 @@
+{
+  "id": "simple-observability-5365caa50357",
+  "canonicalUrl": "https://simpleobservability.com/",
+  "name": "Simple Observability",
+  "description": "Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. Free for one server.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://simpleobservability.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://simpleobservability.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

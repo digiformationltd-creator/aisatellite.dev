@@ -1,0 +1,23 @@
+{
+  "id": "heyform-ada97b6fb6d9",
+  "canonicalUrl": "https://heyform.net/",
+  "name": "HeyForm",
+  "description": "Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. ([Source Code](https://github.com/heyform/heyform)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://heyform.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://heyform.net/",
+    "https://heyform.net"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0
+}

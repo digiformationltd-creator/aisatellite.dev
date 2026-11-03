@@ -1,0 +1,20 @@
+{
+  "id": "rocketgit-16f637ba680c",
+  "canonicalUrl": "https://rocketgit.com/",
+  "name": "RocketGit",
+  "description": "Repository Hosting based on Git. Unlimited Public and private repositories.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://rocketgit.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rocketgit.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

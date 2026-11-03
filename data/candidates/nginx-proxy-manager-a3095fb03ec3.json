@@ -1,0 +1,20 @@
+{
+  "id": "nginx-proxy-manager-a3095fb03ec3",
+  "canonicalUrl": "https://nginxproxymanager.com/",
+  "name": "Nginx Proxy Manager",
+  "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface. ([Source Code](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nginxproxymanager.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nginxproxymanager.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "fibo-2ffe7a65b090",
+  "canonicalUrl": "https://fibo.dev/",
+  "name": "Fibo",
+  "description": "A free online realtime scrum poker tool for agile teams that lets unlimited members estimate story points for faster planning.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://fibo.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://fibo.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

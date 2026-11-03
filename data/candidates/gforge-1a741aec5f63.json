@@ -1,0 +1,20 @@
+{
+  "id": "gforge-1a741aec5f63",
+  "canonicalUrl": "https://gforge.com/",
+  "name": "GForge",
+  "description": "Project Management and issue Tracking toolset for complex projects with self-premises and SaaS options. SaaS free plan offers the first five users free & free for Open Source Projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://gforge.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gforge.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

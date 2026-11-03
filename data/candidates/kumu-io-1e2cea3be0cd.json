@@ -1,0 +1,20 @@
+{
+  "id": "kumu-io-1e2cea3be0cd",
+  "canonicalUrl": "https://kumu.io/",
+  "name": "Kumu.io",
+  "description": "Relationship maps with animation, decorations, filters, clustering, spreadsheet imports, etc. The free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer not to leave your file publicly online (upload, edit, download, discard).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://kumu.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://kumu.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

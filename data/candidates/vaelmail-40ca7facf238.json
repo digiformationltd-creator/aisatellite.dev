@@ -1,0 +1,20 @@
+{
+  "id": "vaelmail-40ca7facf238",
+  "canonicalUrl": "https://vaelmail.com/",
+  "name": "VaelMail",
+  "description": "Privacy-first webmail with deterministic 16-digit account keys and zero phone verification. Free tier includes 50 MB receive-only mailbox storage, unlimited subaddressing, and persistent @vael.pw aliases with no credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://vaelmail.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://vaelmail.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

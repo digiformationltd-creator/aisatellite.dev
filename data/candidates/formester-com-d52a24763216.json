@@ -1,0 +1,20 @@
+{
+  "id": "formester-com-d52a24763216",
+  "canonicalUrl": "https://formester.com/",
+  "name": "Formester.com",
+  "description": "Share and embed unique-looking forms on your website-no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://formester.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://formester.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

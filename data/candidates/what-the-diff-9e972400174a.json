@@ -1,0 +1,20 @@
+{
+  "id": "what-the-diff-9e972400174a",
+  "canonicalUrl": "https://whatthediff.ai/",
+  "name": "What The Diff",
+  "description": "AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://whatthediff.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://whatthediff.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

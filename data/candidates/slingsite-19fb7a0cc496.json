@@ -1,0 +1,20 @@
+{
+  "id": "slingsite-19fb7a0cc496",
+  "canonicalUrl": "https://slingsite.github.io/",
+  "name": "SlingSite",
+  "description": "Create all the optimized versions of your images and videos. For Free. In bulk. For each image, you get the following formats: AVIF, WEBP and JPG in the three selected resolutions (desktop, tablet, mobile) For videos, you get: WebM (codec VP9), MP4 (codec HEVC aka H.265) and MP4 (codec AVC aka H.264) plus the cover image with the first frame.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://slingsite.github.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://slingsite.github.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

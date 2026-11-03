@@ -1,0 +1,20 @@
+{
+  "id": "lila-326b1b7650d7",
+  "canonicalUrl": "https://lichess.org/",
+  "name": "Lila",
+  "description": "Ad-less chess server powering lichess.org, with official iOS and Android client apps. ([Source Code](https://github.com/lichess-org/lila)) `AGPL-3.0` `Scala`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://lichess.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://lichess.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

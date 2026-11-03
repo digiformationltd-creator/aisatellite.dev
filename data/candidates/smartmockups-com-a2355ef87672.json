@@ -1,0 +1,20 @@
+{
+  "id": "smartmockups-com-a2355ef87672",
+  "canonicalUrl": "https://smartmockups.com/",
+  "name": "smartmockups.com",
+  "description": "Create product mockups, 200 free mockups.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://smartmockups.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://smartmockups.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "simplex-chat-de2b642d7175",
+  "canonicalUrl": "https://github.com/simplex-chat/simplex-chat",
+  "name": "SimpleX Chat",
+  "description": "Most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/simplex-chat/simplex-chat",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/simplex-chat/simplex-chat"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

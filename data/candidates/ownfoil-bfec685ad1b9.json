@@ -1,0 +1,20 @@
+{
+  "id": "ownfoil-bfec685ad1b9",
+  "canonicalUrl": "https://github.com/a1ex4/ownfoil",
+  "name": "Ownfoil",
+  "description": "Nintendo Switch library manager, with automated management tasks (file identification and organization, missing updates/DLC), serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication. `AGPL-3.0` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/a1ex4/ownfoil",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/a1ex4/ownfoil"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

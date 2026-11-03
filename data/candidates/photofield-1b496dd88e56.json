@@ -1,0 +1,20 @@
+{
+  "id": "photofield-1b496dd88e56",
+  "canonicalUrl": "https://github.com/SmilyOrg/photofield",
+  "name": "Photofield",
+  "description": "Experimental fast photo viewer. `MIT` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/SmilyOrg/photofield",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/SmilyOrg/photofield"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

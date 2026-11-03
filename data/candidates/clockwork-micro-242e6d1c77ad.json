@@ -1,0 +1,20 @@
+{
+  "id": "clockwork-micro-242e6d1c77ad",
+  "canonicalUrl": "https://clockworkmicro.com/",
+  "name": "Clockwork Micro",
+  "description": "Map tools that work like clockwork. Fifty thousand free monthly queries (map tiles, db2vector, elevation).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://clockworkmicro.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://clockworkmicro.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

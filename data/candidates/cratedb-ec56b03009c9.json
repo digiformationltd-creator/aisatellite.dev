@@ -1,0 +1,20 @@
+{
+  "id": "cratedb-ec56b03009c9",
+  "canonicalUrl": "https://crate.io/",
+  "name": "CrateDB",
+  "description": "Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://crate.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://crate.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "realuptime-4503f48ff9fa",
+  "canonicalUrl": "https://realuptime.io/",
+  "name": "RealUptime",
+  "description": "Uptime checks from 4 regions every 3 minutes, a public status page with 100 subscribers, and API, CLI, Terraform and MCP access. Free for 10 monitors, commercial use allowed, no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://realuptime.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://realuptime.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

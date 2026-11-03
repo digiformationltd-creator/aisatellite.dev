@@ -1,0 +1,20 @@
+{
+  "id": "wallos-cf46cdbdb396",
+  "canonicalUrl": "https://wallosapp.com/",
+  "name": "Wallos",
+  "description": "Lightweight personal subscription tracker with statistics and optional notifications. ([Demo](https://github.com/ellite/wallos?tab=readme-ov-file#demo), [Source Code](https://github.com/ellite/wallos)) `GPL-3.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://wallosapp.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wallosapp.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "installonair-ae65d6293536",
+  "canonicalUrl": "https://www.installonair.com/",
+  "name": "InstallOnAir",
+  "description": "Distribute iOS & Android apps over the air. Free plan: unlimited uploads, private links, 2-day expiration for guests, 60 days for registered users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.installonair.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.installonair.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z"
+}

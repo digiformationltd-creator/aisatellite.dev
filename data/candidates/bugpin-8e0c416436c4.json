@@ -1,0 +1,20 @@
+{
+  "id": "bugpin-8e0c416436c4",
+  "canonicalUrl": "https://bugpin.io/",
+  "name": "BugPin",
+  "description": "Visual bug reporting and ticketing tool for web applications. ([Source Code](https://github.com/aranticlabs/bugpin)) `AGPL-3.0/MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://bugpin.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bugpin.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

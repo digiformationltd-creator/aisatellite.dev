@@ -1,0 +1,20 @@
+{
+  "id": "wikifactory-90d16ab255b7",
+  "canonicalUrl": "https://wikifactory.com/",
+  "name": "Wikifactory",
+  "description": "Product designing Service with Projects, VCS & Issues. The free plan offers unlimited projects & collaborators and 3GB storage.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://wikifactory.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wikifactory.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

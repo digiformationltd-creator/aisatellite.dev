@@ -1,0 +1,20 @@
+{
+  "id": "opnform-b56afa43cc6b",
+  "canonicalUrl": "https://opnform.com/",
+  "name": "OpnForm",
+  "description": "Beautiful form builder. ([Demo](https://opnform.com/forms/create/guest), [Source Code](https://github.com/OpnForm/OpnForm)) `AGPL-3.0` `PHP/Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://opnform.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://opnform.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

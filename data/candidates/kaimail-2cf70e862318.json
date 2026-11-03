@@ -1,0 +1,20 @@
+{
+  "id": "kaimail-2cf70e862318",
+  "canonicalUrl": "https://kaimail.net/",
+  "name": "KaiMail",
+  "description": "Email forwarding for custom domains with ARC/DKIM signing. Free plan includes 1 domain, 1 mailbox, 300 emails/month, and up to 1MB message size. Email receiving webhook also available. Special plans for open-source projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://kaimail.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://kaimail.net"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

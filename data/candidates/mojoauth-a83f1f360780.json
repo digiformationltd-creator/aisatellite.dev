@@ -1,0 +1,20 @@
+{
+  "id": "mojoauth-a83f1f360780",
+  "canonicalUrl": "https://mojoauth.com/",
+  "name": "MojoAuth",
+  "description": "MojoAuth makes it easy to implement Passwordless authentication on your web, mobile, or any application in minutes.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mojoauth.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mojoauth.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z"
+}

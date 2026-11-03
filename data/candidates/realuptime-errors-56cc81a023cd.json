@@ -1,0 +1,20 @@
+{
+  "id": "realuptime-errors-56cc81a023cd",
+  "canonicalUrl": "https://realuptime.io/errors",
+  "name": "RealUptime Errors",
+  "description": "Error tracking that works with Sentry SDKs. Free for 10,000 events a month with 14-day retention; past the cap, events are refused and counted, never billed.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://realuptime.io/errors",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://realuptime.io/errors"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wekan-270380097451",
+  "canonicalUrl": "https://wekan.github.io/",
+  "name": "Wekan",
+  "description": "Trello-like kanban. ([Source Code](https://github.com/wekan/wekan)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://wekan.github.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wekan.github.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

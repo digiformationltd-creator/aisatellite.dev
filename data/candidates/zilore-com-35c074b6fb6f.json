@@ -1,0 +1,20 @@
+{
+  "id": "zilore-com-35c074b6fb6f",
+  "canonicalUrl": "https://zilore.com/en/dns",
+  "name": "zilore.com",
+  "description": "Free DNS hosting for 5 domains.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zilore.com/en/dns",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zilore.com/en/dns"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

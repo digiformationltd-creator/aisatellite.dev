@@ -1,0 +1,20 @@
+{
+  "id": "cosmic-c5eb18a9d412",
+  "canonicalUrl": "https://www.cosmicjs.com/",
+  "name": "Cosmic",
+  "description": "Headless CMS and API toolkit. Free personal plans for developers.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.cosmicjs.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cosmicjs.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

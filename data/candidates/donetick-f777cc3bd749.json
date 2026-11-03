@@ -1,0 +1,20 @@
+{
+  "id": "donetick-f777cc3bd749",
+  "canonicalUrl": "https://donetick.com/",
+  "name": "Donetick",
+  "description": "Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design. ([Demo](https://app.donetick.com/), [Source Code](https://github.com/donetick/donetick)) `AGPL-3.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://donetick.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://donetick.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

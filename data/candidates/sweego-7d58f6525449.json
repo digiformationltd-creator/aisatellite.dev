@@ -1,0 +1,20 @@
+{
+  "id": "sweego-7d58f6525449",
+  "canonicalUrl": "https://www.sweego.io/",
+  "name": "Sweego",
+  "description": "European transactional emails API for developers. 100 emails/day free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.sweego.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.sweego.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

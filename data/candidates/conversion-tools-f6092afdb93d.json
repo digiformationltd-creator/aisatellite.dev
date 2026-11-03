@@ -1,0 +1,20 @@
+{
+  "id": "conversion-tools-f6092afdb93d",
+  "canonicalUrl": "https://conversiontools.io/",
+  "name": "Conversion Tools",
+  "description": "Online File Converter for documents, images, video, audio, and eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). The free tier is limited by file size (20MB) and number of conversions (30/Day, 300/Month).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://conversiontools.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://conversiontools.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "trigger-dev-23b2ced502ed",
+  "canonicalUrl": "https://trigger.dev/",
+  "name": "Trigger.dev",
+  "description": "Open-source background jobs and AI agent platform with durable tasks, no timeouts, and realtime. Free plan includes $5 monthly compute credits, 20 concurrent runs, unlimited tasks, 5 team members, 10 schedules, and 1-day log retention.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://trigger.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://trigger.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

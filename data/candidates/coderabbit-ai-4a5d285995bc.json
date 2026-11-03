@@ -1,0 +1,20 @@
+{
+  "id": "coderabbit-ai-4a5d285995bc",
+  "canonicalUrl": "https://coderabbit.ai/",
+  "name": "coderabbit.ai",
+  "description": "AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://coderabbit.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://coderabbit.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

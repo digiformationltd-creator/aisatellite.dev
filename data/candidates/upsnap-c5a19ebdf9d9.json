@@ -1,0 +1,20 @@
+{
+  "id": "upsnap-c5a19ebdf9d9",
+  "canonicalUrl": "https://github.com/seriousm4x/UpSnap",
+  "name": "Upsnap",
+  "description": "Simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/seriousm4x/UpSnap",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/seriousm4x/UpSnap"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

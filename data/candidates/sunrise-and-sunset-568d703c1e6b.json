@@ -1,0 +1,20 @@
+{
+  "id": "sunrise-and-sunset-568d703c1e6b",
+  "canonicalUrl": "https://sunrisesunset.io/api",
+  "name": "Sunrise and Sunset",
+  "description": "Get sunrise and sunset times for a given longitude and latitude.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sunrisesunset.io/api/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sunrisesunset.io/api/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

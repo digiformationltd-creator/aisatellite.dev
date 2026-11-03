@@ -1,0 +1,20 @@
+{
+  "id": "export-sdk-b74fc5ab8fe5",
+  "canonicalUrl": "https://exportsdk.com/",
+  "name": "Export SDK",
+  "description": "PDF generator API with drag-and-drop template editor that provides an SDK and no-code integrations. The free plan has 250 monthly pages, unlimited users, and three templates.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://exportsdk.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://exportsdk.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

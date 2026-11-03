@@ -1,0 +1,20 @@
+{
+  "id": "calibre-web-6b5ca73de5f1",
+  "canonicalUrl": "https://github.com/janeczku/calibre-web",
+  "name": "Calibre Web",
+  "description": "Browse, read and download eBooks using an existing Calibre database. `GPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/janeczku/calibre-web",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/janeczku/calibre-web"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

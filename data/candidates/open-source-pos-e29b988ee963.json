@@ -1,0 +1,20 @@
+{
+  "id": "open-source-pos-e29b988ee963",
+  "canonicalUrl": "https://github.com/opensourcepos/opensourcepos",
+  "name": "Open Source POS",
+  "description": "Web-based point of sale system. `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/opensourcepos/opensourcepos",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/opensourcepos/opensourcepos"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

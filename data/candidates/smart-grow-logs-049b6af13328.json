@@ -1,0 +1,20 @@
+{
+  "id": "smart-grow-logs-049b6af13328",
+  "canonicalUrl": "https://logs.smart-grow.app/",
+  "name": "Smart Grow Logs",
+  "description": "Centralized log management platform with end-to-end encryption, real-time alerts, and multi-platform SDKs. Free tier includes up to 3.000 logs per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://logs.smart-grow.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://logs.smart-grow.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

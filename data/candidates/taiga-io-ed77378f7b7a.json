@@ -1,0 +1,20 @@
+{
+  "id": "taiga-io-ed77378f7b7a",
+  "canonicalUrl": "https://taiga.io/",
+  "name": "taiga.io",
+  "description": "Project management platform for startups and agile developers, free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://taiga.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://taiga.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

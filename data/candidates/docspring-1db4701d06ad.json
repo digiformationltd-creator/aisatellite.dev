@@ -1,0 +1,20 @@
+{
+  "id": "docspring-1db4701d06ad",
+  "canonicalUrl": "https://docspring.com/",
+  "name": "DocSpring",
+  "description": "Fill out PDF forms, generate PDFs and Word documents, and collect e-signatures. Free developer plan includes unlimited test PDFs and 10 filled PDFs per month. Up to 10 templates, 2 users, and 2 integrations. No credit card required and no time limits.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://docspring.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docspring.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

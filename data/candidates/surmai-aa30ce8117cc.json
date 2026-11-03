@@ -1,0 +1,20 @@
+{
+  "id": "surmai-aa30ce8117cc",
+  "canonicalUrl": "https://surmai.app/",
+  "name": "Surmai",
+  "description": "Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://surmai.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://surmai.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

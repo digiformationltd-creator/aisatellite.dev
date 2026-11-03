@@ -1,0 +1,20 @@
+{
+  "id": "iceshrimp-net-37b90bbfdfe8",
+  "canonicalUrl": "https://iceshrimp.net/",
+  "name": "Iceshrimp.NET",
+  "description": "Federated microblogging server that communicates over ActivityPub. ([Source Code](https://iceshrimp.dev/iceshrimp/iceshrimp.net)) `EUPL-1.2` `.NET/C#/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://iceshrimp.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://iceshrimp.net"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "earnings-feed-002451d914c4",
+  "canonicalUrl": "https://earningsfeed.com/api",
+  "name": "Earnings Feed",
+  "description": "Real-time SEC filings, insider trades, and institutional holdings API. Free tier includes 15 requests per minute.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://earningsfeed.com/api",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://earningsfeed.com/api"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

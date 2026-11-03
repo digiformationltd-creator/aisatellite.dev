@@ -1,0 +1,20 @@
+{
+  "id": "etlr-f70d82c27ff6",
+  "canonicalUrl": "https://etlr.io/",
+  "name": "ETLR",
+  "description": "Define, version, and deploy automation scripts using YAML. A developer-first alternative to drag-and-drop tools. Can be used for scheduled tasks, AI agents, and infrastructure monitoring. Free tier includes 100 credits/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://etlr.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://etlr.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

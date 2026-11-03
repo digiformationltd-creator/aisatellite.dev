@@ -1,0 +1,20 @@
+{
+  "id": "flatpress-ca47c84e7c2a",
+  "canonicalUrl": "https://flatpress.org/",
+  "name": "FlatPress",
+  "description": "Lightweight, easy-to-set-up flat-file blogging engine. ([Source Code](https://github.com/flatpressblog/flatpress)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://flatpress.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://flatpress.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

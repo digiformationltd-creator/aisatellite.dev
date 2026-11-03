@@ -1,0 +1,20 @@
+{
+  "id": "baserow-261077b2a8ef",
+  "canonicalUrl": "https://baserow.io/",
+  "name": "Baserow",
+  "description": "Create your own database without technical experience (alternative to Airtable). ([Source Code](https://gitlab.com/baserow/baserow)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://baserow.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://baserow.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

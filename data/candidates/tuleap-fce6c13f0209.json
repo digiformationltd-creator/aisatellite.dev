@@ -1,0 +1,20 @@
+{
+  "id": "tuleap-fce6c13f0209",
+  "canonicalUrl": "https://www.tuleap.org/",
+  "name": "Tuleap",
+  "description": "Libre suite to plan, track, code and collaborate on software projects. ([Source Code](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.tuleap.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.tuleap.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

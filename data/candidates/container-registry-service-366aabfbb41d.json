@@ -1,0 +1,20 @@
+{
+  "id": "container-registry-service-366aabfbb41d",
+  "canonicalUrl": "https://container-registry.com/",
+  "name": "Container Registry Service",
+  "description": "Harbor based Container Management Solution. The free tier offers 1 GB of storage for private repositories.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://container-registry.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://container-registry.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

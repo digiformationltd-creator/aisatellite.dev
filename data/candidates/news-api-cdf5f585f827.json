@@ -1,0 +1,20 @@
+{
+  "id": "news-api-cdf5f585f827",
+  "canonicalUrl": "https://newsapi.org/",
+  "name": "News API",
+  "description": "Search news on the web with code, and get JSON results. Developers get 100 queries free each day. Articles have a 24 hour delay.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://newsapi.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://newsapi.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

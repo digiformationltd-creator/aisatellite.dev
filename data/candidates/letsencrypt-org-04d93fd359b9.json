@@ -1,0 +1,20 @@
+{
+  "id": "letsencrypt-org-04d93fd359b9",
+  "canonicalUrl": "https://letsencrypt.org/",
+  "name": "letsencrypt.org",
+  "description": "Free SSL Certificate Authority with certs trusted by all major browsers",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://letsencrypt.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://letsencrypt.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

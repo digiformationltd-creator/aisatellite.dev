@@ -1,0 +1,20 @@
+{
+  "id": "datree-6a40b642185d",
+  "canonicalUrl": "https://www.datree.io/",
+  "name": "Datree",
+  "description": "Open Source CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.datree.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.datree.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

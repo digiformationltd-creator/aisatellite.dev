@@ -1,0 +1,20 @@
+{
+  "id": "otterwatch-ac7fc05c7243",
+  "canonicalUrl": "https://otterwatch.dev/",
+  "name": "Otterwatch",
+  "description": "Daily SSL/TLS certificate monitoring: expiry alerts (30/7/1 day), chain and OCSP revocation checks, and certificate transparency issuance history. Free forever for 5 domains, no credit card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://otterwatch.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://otterwatch.dev/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

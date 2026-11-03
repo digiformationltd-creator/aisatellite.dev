@@ -1,0 +1,20 @@
+{
+  "id": "craftmypdf-ed504ce05e8e",
+  "canonicalUrl": "https://craftmypdf.com/",
+  "name": "CraftMyPDF",
+  "description": "Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and three templates.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://craftmypdf.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://craftmypdf.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

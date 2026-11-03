@@ -1,0 +1,29 @@
+{
+  "id": "ai-tech-stack-advisor-c104070d923c",
+  "canonicalUrl": "https://github.com/stargirl97/ai-tech-stack-advisor",
+  "name": "ai-tech-stack-advisor",
+  "description": "Free interactive AI Tech Stack Advisor for developers - recommends frontend, backend, database, hosting & AI stack with architecture diagrams.",
+  "category": "free-ai-tools",
+  "tags": [
+    "ai-tools",
+    "developer-tools",
+    "free-tools",
+    "software-architecture",
+    "tech-stack",
+    "web-development"
+  ],
+  "repositoryUrl": "https://github.com/stargirl97/ai-tech-stack-advisor",
+  "officialUrl": "https://www.brightwire.news/tech-stack",
+  "documentationUrl": "https://www.brightwire.news/tech-stack",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-10-29T20:28:48Z",
+  "evidenceUrls": [
+    "https://github.com/stargirl97/ai-tech-stack-advisor"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:46.089Z",
+  "updatedAt": "2026-11-03T07:24:46.089Z"
+}

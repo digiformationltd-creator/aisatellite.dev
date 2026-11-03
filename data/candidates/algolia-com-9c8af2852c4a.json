@@ -1,0 +1,20 @@
+{
+  "id": "algolia-com-9c8af2852c4a",
+  "canonicalUrl": "https://www.algolia.com/",
+  "name": "algolia.com",
+  "description": "Hosted search solution with typo-tolerance, relevance, and UI libraries to easily create search experiences. The free \"Build\" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.algolia.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.algolia.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

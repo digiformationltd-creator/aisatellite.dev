@@ -1,0 +1,20 @@
+{
+  "id": "appfit-57be66cea333",
+  "canonicalUrl": "https://appfit.io/",
+  "name": "AppFit",
+  "description": "AppFit is a comprehensive analytics and product management tool designed to facilitate seamless, cross-platform management of analytics and product updates. Free plan includes 10,000 events per month, product journal and weekly insights.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://appfit.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://appfit.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

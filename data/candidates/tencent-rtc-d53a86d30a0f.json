@@ -1,0 +1,20 @@
+{
+  "id": "tencent-rtc-d53a86d30a0f",
+  "canonicalUrl": "https://trtc.io/",
+  "name": "Tencent RTC",
+  "description": "Tencent Real-Time Communication (TRTC) offers solutions for group audio/video calls.10,000 free minutes/month for the first year.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://trtc.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://trtc.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

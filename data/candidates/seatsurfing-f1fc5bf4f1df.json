@@ -1,0 +1,20 @@
+{
+  "id": "seatsurfing-f1fc5bf4f1df",
+  "canonicalUrl": "https://seatsurfing.app/",
+  "name": "Seatsurfing",
+  "description": "Webbased app to book seats, desks and rooms for offices. ([Source Code](https://github.com/seatsurfing/seatsurfing)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://seatsurfing.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://seatsurfing.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

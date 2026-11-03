@@ -1,0 +1,20 @@
+{
+  "id": "usewebhook-com-b70b2c011798",
+  "canonicalUrl": "https://usewebhook.com/",
+  "name": "UseWebhook.com",
+  "description": "Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://usewebhook.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://usewebhook.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

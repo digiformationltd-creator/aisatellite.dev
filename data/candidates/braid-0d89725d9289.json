@@ -1,0 +1,20 @@
+{
+  "id": "braid-0d89725d9289",
+  "canonicalUrl": "https://www.braidchat.com/",
+  "name": "Braid",
+  "description": "Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also, it provides a self-hostable open-source version.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.braidchat.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.braidchat.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

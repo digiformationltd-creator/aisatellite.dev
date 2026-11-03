@@ -1,0 +1,20 @@
+{
+  "id": "mxraven-fb4f0eaa55e9",
+  "canonicalUrl": "https://mxraven.com/",
+  "name": "mxRaven",
+  "description": "Programmable inbound email infrastructure with webhook, forward, and auto-reply routing, plus a durable pull-based event stream for consuming mail without a public endpoint. Free tier includes 1,000 outbound and 1,000 inbound tasks per month, 1 workspace, and 1 domain.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mxraven.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mxraven.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mytinytodo-c21d23c6bf34",
+  "canonicalUrl": "https://www.mytinytodo.net/",
+  "name": "myTinyTodo",
+  "description": "Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. ([Demo](https://www.mytinytodo.net/demo/), [Source Code](https://github.com/maxpozdeev/mytinytodo/)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.mytinytodo.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.mytinytodo.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "logrocket-com-140d8e51849b",
+  "canonicalUrl": "https://www.logrocket.com/",
+  "name": "LogRocket.com",
+  "description": "1,000 sessions/month with 30-day retention, error tracking, live mode",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.logrocket.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.logrocket.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

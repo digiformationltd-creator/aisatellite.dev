@@ -1,0 +1,20 @@
+{
+  "id": "pingram-io-8f0d402b99a5",
+  "canonicalUrl": "https://www.pingram.io/",
+  "name": "Pingram.io",
+  "description": "Communication infrastructure in 5 minutes. Free tier includes: 100 SMS and calls, 3000 Emails, Push, Slack, MS Teams, WhatsApp, and more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.pingram.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.pingram.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

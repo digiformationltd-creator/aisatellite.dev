@@ -1,0 +1,20 @@
+{
+  "id": "microsoft-ajax-1c9ec3e95307",
+  "canonicalUrl": "https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview",
+  "name": "Microsoft Ajax",
+  "description": "The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

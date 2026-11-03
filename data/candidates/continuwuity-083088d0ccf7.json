@@ -1,0 +1,20 @@
+{
+  "id": "continuwuity-083088d0ccf7",
+  "canonicalUrl": "https://continuwuity.org/",
+  "name": "Continuwuity",
+  "description": "Community-driven Matrix homeserver, the continuation of conduwuit focusing on user experience and new features (fork of Conduit). ([Source Code](https://forgejo.ellis.link/continuwuation/continuwuity)) `Apache-2.0` `Rust/Docker/K8S/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://continuwuity.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://continuwuity.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "openssh-sftp-server-c51c4e93c849",
+  "canonicalUrl": "https://www.openssh.com/",
+  "name": "OpenSSH SFTP server",
+  "description": "Secure File Transfer Program. ([Source Code](https://cvsweb.openbsd.org/src/usr.bin/ssh?sort=File)) `BSD-2-Clause` `C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.openssh.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.openssh.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

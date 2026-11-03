@@ -1,0 +1,20 @@
+{
+  "id": "nextcloud-2915ce35010a",
+  "canonicalUrl": "https://nextcloud.com/",
+  "name": "Nextcloud",
+  "description": "Access and share your files, calendars, contacts, mail and more from any device, on your terms. ([Demo](https://try.nextcloud.com/), [Source Code](https://github.com/nextcloud/server), [Clients](https://apps.nextcloud.com)) `AGPL-3.0` `PHP/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nextcloud.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nextcloud.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

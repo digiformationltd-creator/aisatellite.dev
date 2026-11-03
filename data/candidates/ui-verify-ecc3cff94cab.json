@@ -1,0 +1,20 @@
+{
+  "id": "ui-verify-ecc3cff94cab",
+  "canonicalUrl": "https://uiverify.ai/",
+  "name": "UI Verify",
+  "description": "Visual regression testing for Storybook, Playwright and Vitest, built for coding agents. 10,000 snapshots per month free, no credit card. 50,000 per month for open-source projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://uiverify.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://uiverify.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

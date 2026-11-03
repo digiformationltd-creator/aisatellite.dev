@@ -1,0 +1,20 @@
+{
+  "id": "0-a-d-b4253cd167df",
+  "canonicalUrl": "https://play0ad.com/",
+  "name": "0 A.D.",
+  "description": "Cross-platform real-time strategy game of ancient warfare. ([Source Code](https://gitea.wildfiregames.com/0ad/0ad)) `MIT/GPL-2.0/Zlib` `C++/C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://play0ad.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://play0ad.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

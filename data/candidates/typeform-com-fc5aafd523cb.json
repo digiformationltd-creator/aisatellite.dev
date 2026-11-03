@@ -1,0 +1,20 @@
+{
+  "id": "typeform-com-fc5aafd523cb",
+  "canonicalUrl": "https://www.typeform.com/",
+  "name": "Typeform.com",
+  "description": "Include beautifully designed forms on websites.  The free plan allows only ten fields per form and 100 monthly responses.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.typeform.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.typeform.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

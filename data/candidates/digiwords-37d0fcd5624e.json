@@ -1,0 +1,20 @@
+{
+  "id": "digiwords-37d0fcd5624e",
+  "canonicalUrl": "https://ladigitale.dev/digiwords",
+  "name": "Digiwords",
+  "description": "Simple online application for creating word clouds (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiwords)) `AGPL-3.0` `Nodejs/PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ladigitale.dev/digiwords/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ladigitale.dev/digiwords/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

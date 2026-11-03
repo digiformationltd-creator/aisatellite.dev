@@ -1,0 +1,20 @@
+{
+  "id": "quicktype-io-866af62c7a45",
+  "canonicalUrl": "https://quicktype.io/",
+  "name": "QuickType.io",
+  "description": "Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://quicktype.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://quicktype.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

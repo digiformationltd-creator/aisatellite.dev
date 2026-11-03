@@ -1,0 +1,20 @@
+{
+  "id": "bubo-reader-cc2d3b72614e",
+  "canonicalUrl": "https://github.com/georgemandis/bubo-rss",
+  "name": "Bubo Reader",
+  "description": "Irrationally minimal RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/georgemandis/bubo-rss",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/georgemandis/bubo-rss"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

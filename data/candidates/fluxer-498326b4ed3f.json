@@ -1,0 +1,20 @@
+{
+  "id": "fluxer-498326b4ed3f",
+  "canonicalUrl": "https://fluxer.app/",
+  "name": "Fluxer",
+  "description": "Instant messaging and VoIP platform built for friends, groups, and communities (alternative to Discord). ([Demo](https://fluxer.app), [Source Code](https://github.com/fluxerapp/fluxer), [Clients](https://github.com/awesome-fluxer/awesome-fluxer)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://fluxer.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://fluxer.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

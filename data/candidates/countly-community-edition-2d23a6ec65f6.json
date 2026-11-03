@@ -1,0 +1,20 @@
+{
+  "id": "countly-community-edition-2d23a6ec65f6",
+  "canonicalUrl": "https://count.ly/",
+  "name": "Countly Community Edition",
+  "description": "Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/Countly/countly-server)) `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://count.ly",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://count.ly"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

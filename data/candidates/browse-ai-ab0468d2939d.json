@@ -1,0 +1,20 @@
+{
+  "id": "browse-ai-ab0468d2939d",
+  "canonicalUrl": "https://www.browse.ai/",
+  "name": "Browse AI",
+  "description": "Extracting and monitoring data on the web. 1k credits per month for free, equals 1k concurrent requests.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.browse.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.browse.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

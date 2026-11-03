@@ -1,0 +1,20 @@
+{
+  "id": "weights-biases-14e0e033867b",
+  "canonicalUrl": "https://wandb.ai/",
+  "name": "Weights & Biases",
+  "description": "The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://wandb.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wandb.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

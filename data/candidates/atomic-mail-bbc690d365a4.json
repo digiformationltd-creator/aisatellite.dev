@@ -1,0 +1,20 @@
+{
+  "id": "atomic-mail-bbc690d365a4",
+  "canonicalUrl": "https://atomicmail.ai/",
+  "name": "Atomic Mail",
+  "description": "Email built for AI agents, entirely free. Programmatic inbox creation, custom domains, and full send/receive over the open JMAP standard (RFC 8620/8621); hosted MCP server available. A real mailbox service, not disposable/temporary email.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://atomicmail.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://atomicmail.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

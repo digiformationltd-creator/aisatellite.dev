@@ -1,0 +1,20 @@
+{
+  "id": "apply-build-21344d9ffc98",
+  "canonicalUrl": "https://apply.build/",
+  "name": "Apply.build",
+  "description": "Build and deploy your GitHub app for free with 0.5 vCPUs / 512 MiB RAM, European servers, automatic firewall, real-time performance metrics. Run Node.js, Python, Go, Java, static sites, microservices, and more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://apply.build/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://apply.build/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "transmute-34d5863e891c",
+  "canonicalUrl": "https://transmute.sh/",
+  "name": "Transmute",
+  "description": "File converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!. ([Source Code](https://github.com/transmute-app/transmute)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://transmute.sh",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://transmute.sh"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

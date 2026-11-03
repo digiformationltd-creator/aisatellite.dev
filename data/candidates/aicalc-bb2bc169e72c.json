@@ -1,0 +1,34 @@
+{
+  "id": "aicalc-bb2bc169e72c",
+  "canonicalUrl": "https://github.com/w932635477-bit/aicalc",
+  "name": "aicalc",
+  "description": "Free AI developer tools — 21 privacy-first utilities for LLM pricing, token counting, cron generation, CSP headers, PII redaction and more.",
+  "category": "free-ai-tools",
+  "tags": [
+    "ai-tools",
+    "cron-generator",
+    "csp",
+    "llm",
+    "pii-redactor",
+    "pricing",
+    "privacy",
+    "react",
+    "self-hosted",
+    "token-counter",
+    "typescript"
+  ],
+  "repositoryUrl": "https://github.com/w932635477-bit/aicalc",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/w932635477-bit/aicalc/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-02T20:01:31Z",
+  "evidenceUrls": [
+    "https://github.com/w932635477-bit/aicalc"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:46.089Z",
+  "updatedAt": "2026-11-03T07:24:46.089Z"
+}

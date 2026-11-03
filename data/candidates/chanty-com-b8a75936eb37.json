@@ -1,0 +1,20 @@
+{
+  "id": "chanty-com-b8a75936eb37",
+  "canonicalUrl": "https://chanty.com/",
+  "name": "Chanty.com",
+  "description": "Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10) with unlimited public and private conversations, searchable history, unlimited 1:1 audio calls, unlimited voice messages, ten integrations, and 20 GB storage per team.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://chanty.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://chanty.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

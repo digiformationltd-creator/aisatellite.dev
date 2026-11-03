@@ -1,0 +1,20 @@
+{
+  "id": "digitalplat-a4b901641032",
+  "canonicalUrl": "https://domain.digitalplat.org/",
+  "name": "DigitalPlat",
+  "description": "Free subdomains.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://domain.digitalplat.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://domain.digitalplat.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

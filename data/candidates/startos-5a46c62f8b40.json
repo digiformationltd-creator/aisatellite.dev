@@ -1,0 +1,20 @@
+{
+  "id": "startos-5a46c62f8b40",
+  "canonicalUrl": "https://start9.com/",
+  "name": "StartOS",
+  "description": "Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code](https://github.com/Start9Labs/start-technologies)) `MIT` `Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://start9.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://start9.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

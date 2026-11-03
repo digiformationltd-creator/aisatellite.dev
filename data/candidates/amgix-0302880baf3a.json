@@ -1,0 +1,20 @@
+{
+  "id": "amgix-0302880baf3a",
+  "canonicalUrl": "https://amgix.io/",
+  "name": "Amgix",
+  "description": "Hybrid search engine built for flexible deployment and real-world messy data. ([Demo](https://findgovdata.org), [Source Code](https://github.com/amgix/amgix-server), [Clients](https://github.com/orgs/amgix/repositories)) `AGPL-3.0` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://amgix.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://amgix.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

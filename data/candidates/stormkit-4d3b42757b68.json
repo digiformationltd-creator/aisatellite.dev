@@ -1,0 +1,20 @@
+{
+  "id": "stormkit-4d3b42757b68",
+  "canonicalUrl": "https://www.stormkit.io/",
+  "name": "Stormkit",
+  "description": "Self-hostable Vercel alternative for building, hosting, and deploying modern frontend and JavaScript applications. Free plan includes 1 app, 50 GB bandwidth, unlimited custom domains, and free SSL.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.stormkit.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.stormkit.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

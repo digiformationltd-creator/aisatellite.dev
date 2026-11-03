@@ -1,0 +1,20 @@
+{
+  "id": "vps-snaps-ef1334bf8b02",
+  "canonicalUrl": "https://vpssnaps.com/",
+  "name": "VPS Snaps",
+  "description": "Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://vpssnaps.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://vpssnaps.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

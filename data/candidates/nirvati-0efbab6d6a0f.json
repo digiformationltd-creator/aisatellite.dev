@@ -1,0 +1,20 @@
+{
+  "id": "nirvati-0efbab6d6a0f",
+  "canonicalUrl": "https://nirvati.org/",
+  "name": "Nirvati",
+  "description": "Easily 1-click spin up popular apps from a convenient web interface. ([Source Code](https://gitlab.com/nirvati-ug/nirvati/backend)) `AGPL-3.0` `Rust/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nirvati.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nirvati.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

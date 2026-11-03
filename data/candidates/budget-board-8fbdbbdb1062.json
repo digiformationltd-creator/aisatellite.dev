@@ -1,0 +1,20 @@
+{
+  "id": "budget-board-8fbdbbdb1062",
+  "canonicalUrl": "https://budgetboard.net/",
+  "name": "Budget Board",
+  "description": "Simple app for tracking monthly spending and working towards financial goals. ([Source Code](https://github.com/teelur/budget-board)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://budgetboard.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://budgetboard.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

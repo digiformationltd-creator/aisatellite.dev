@@ -1,0 +1,20 @@
+{
+  "id": "utterances-acbc2195a291",
+  "canonicalUrl": "https://utteranc.es/",
+  "name": "Utterances",
+  "description": "A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages, and more!",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://utteranc.es/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://utteranc.es/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

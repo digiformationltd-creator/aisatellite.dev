@@ -1,0 +1,20 @@
+{
+  "id": "drawdb-74679e8b2d8f",
+  "canonicalUrl": "https://www.drawdb.app/",
+  "name": "drawDB",
+  "description": "Browser-based visual and DBML database diagram editor and SQL generator for MySQL, PostgreSQL, SQLite, MariaDB, MSSQL and Oracle. ([Demo](https://www.drawdb.app/editor), [Source Code](https://github.com/drawdb-io/drawdb)) `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.drawdb.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.drawdb.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

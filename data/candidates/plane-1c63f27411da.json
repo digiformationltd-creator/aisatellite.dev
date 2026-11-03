@@ -1,0 +1,23 @@
+{
+  "id": "plane-1c63f27411da",
+  "canonicalUrl": "https://plane.so/",
+  "name": "Plane",
+  "description": "Track issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). ([Demo](https://app.plane.so), [Source Code](https://github.com/makeplane/plane)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://plane.so",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://plane.so/",
+    "https://plane.so"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0
+}

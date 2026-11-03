@@ -1,0 +1,20 @@
+{
+  "id": "pingbreak-com-b386412d7b65",
+  "canonicalUrl": "https://pingbreak.com/",
+  "name": "pingbreak.com",
+  "description": "Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack, or email.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pingbreak.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pingbreak.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

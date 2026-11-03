@@ -1,0 +1,20 @@
+{
+  "id": "traefik-ae02566fdadb",
+  "canonicalUrl": "https://traefik.io/",
+  "name": "Traefik",
+  "description": "HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code](https://github.com/traefik/traefik)) `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://traefik.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://traefik.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

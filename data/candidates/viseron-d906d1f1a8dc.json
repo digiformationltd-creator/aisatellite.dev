@@ -1,0 +1,20 @@
+{
+  "id": "viseron-d906d1f1a8dc",
+  "canonicalUrl": "https://viseron.netlify.app/",
+  "name": "Viseron",
+  "description": "Local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. ([Source Code](https://github.com/roflcoopter/viseron)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://viseron.netlify.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://viseron.netlify.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

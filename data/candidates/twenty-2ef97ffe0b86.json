@@ -1,0 +1,20 @@
+{
+  "id": "twenty-2ef97ffe0b86",
+  "canonicalUrl": "https://twenty.com/",
+  "name": "Twenty",
+  "description": "Modern CRM offering flexibility, advanced features, and a sleek design. ([Source Code](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://twenty.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://twenty.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "linkok-com-498470304acd",
+  "canonicalUrl": "https://linkok.com/",
+  "name": "linkok.com",
+  "description": "Online broken link checker, free for small websites up to 100 pages, completely free for open-source projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://linkok.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://linkok.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

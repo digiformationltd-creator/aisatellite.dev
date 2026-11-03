@@ -1,0 +1,20 @@
+{
+  "id": "deadmanssnitch-com-2b3ec2c568b5",
+  "canonicalUrl": "https://deadmanssnitch.com/",
+  "name": "deadmanssnitch.com",
+  "description": "Monitoring for cron jobs. One free snitch (monitor), more if you refer others to sign up",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://deadmanssnitch.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://deadmanssnitch.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

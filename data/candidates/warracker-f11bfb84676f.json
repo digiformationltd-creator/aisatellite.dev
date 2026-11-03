@@ -1,0 +1,20 @@
+{
+  "id": "warracker-f11bfb84676f",
+  "canonicalUrl": "https://warracker.com/",
+  "name": "Warracker",
+  "description": "Warranty tracker that lets you monitor expiry dates, upload receipts/files, and get alerts before warranties expire. ([Source Code](https://github.com/sassanix/Warracker)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://warracker.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://warracker.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

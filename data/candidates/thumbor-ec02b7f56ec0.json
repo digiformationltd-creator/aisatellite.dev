@@ -1,0 +1,20 @@
+{
+  "id": "thumbor-ec02b7f56ec0",
+  "canonicalUrl": "http://thumbor.org/",
+  "name": "Thumbor",
+  "description": "Smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ([Source Code](https://github.com/thumbor/thumbor)) `MIT` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "http://thumbor.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "http://thumbor.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

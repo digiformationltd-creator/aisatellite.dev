@@ -1,0 +1,20 @@
+{
+  "id": "piwigo-c69dd9a140a7",
+  "canonicalUrl": "https://piwigo.org/",
+  "name": "Piwigo",
+  "description": "Photo gallery software for the web, built by an active community of users and developers. ([Source Code](https://github.com/Piwigo/Piwigo)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://piwigo.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://piwigo.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

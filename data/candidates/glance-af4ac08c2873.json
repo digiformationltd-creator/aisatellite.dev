@@ -1,0 +1,20 @@
+{
+  "id": "glance-af4ac08c2873",
+  "canonicalUrl": "https://github.com/glanceapp/glance",
+  "name": "Glance",
+  "description": "Highly customizable dashboard that puts all your feeds in one place. `AGPL-3.0` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/glanceapp/glance",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/glanceapp/glance"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "core-web-vitals-history-75627bb535e7",
+  "canonicalUrl": "https://punits.dev/core-web-vitals-historical",
+  "name": "Core Web Vitals History",
+  "description": "Find Core Web Vitals history for a url or a website.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://punits.dev/core-web-vitals-historical/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://punits.dev/core-web-vitals-historical/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

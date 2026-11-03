@@ -1,0 +1,20 @@
+{
+  "id": "deplexo-dbf15c03464a",
+  "canonicalUrl": "https://deplexo.com/",
+  "name": "Deplexo",
+  "description": "Developer-focused PaaS for deploying and hosting applications with Git-based deployments, custom domains, automatic HTTPS, and Dockerfile support. Run Node.js, Python, Go, Java, Rust, PHP, static sites, and more. The free tier includes 1 app with 0.25 vCPU, 128 MB RAM, 250 MB disk, and 100 GB bandwidth.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://deplexo.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://deplexo.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

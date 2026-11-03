@@ -1,0 +1,20 @@
+{
+  "id": "openfire-31106a5729b6",
+  "canonicalUrl": "https://www.igniterealtime.org/projects/openfire",
+  "name": "Openfire",
+  "description": "Real time collaboration (RTC) server. ([Source Code](https://github.com/igniterealtime/Openfire)) `Apache-2.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.igniterealtime.org/projects/openfire/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.igniterealtime.org/projects/openfire/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "localops-e4336f7e2a4d",
+  "canonicalUrl": "https://localops.co/",
+  "name": "LocalOps",
+  "description": "Deploy your app on AWS/GCP/Azure in under 30 minutes. Setup standardised app environments on any cloud, which come with in-built continuous deployment automation and advanced observability. The free plan allows 1 user and 1 app environment.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://localops.co/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://localops.co/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

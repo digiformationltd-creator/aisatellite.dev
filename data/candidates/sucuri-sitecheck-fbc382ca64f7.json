@@ -1,0 +1,20 @@
+{
+  "id": "sucuri-sitecheck-fbc382ca64f7",
+  "canonicalUrl": "https://sitecheck.sucuri.net/",
+  "name": "Sucuri SiteCheck",
+  "description": "Free website security check and malware scanner",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sitecheck.sucuri.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sitecheck.sucuri.net"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

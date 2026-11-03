@@ -1,0 +1,20 @@
+{
+  "id": "hosting-checker-b052f145cd84",
+  "canonicalUrl": "https://hostingchecker.co/",
+  "name": "Hosting Checker",
+  "description": "Check hosting information such as ASN, ISP, location and more for any domain, website or IP address. Also includes multiple hosting and DNS-related tools.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://hostingchecker.co",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hostingchecker.co"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

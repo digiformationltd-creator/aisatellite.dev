@@ -1,0 +1,20 @@
+{
+  "id": "the-odin-project-172e867b7a50",
+  "canonicalUrl": "https://www.theodinproject.com/",
+  "name": "The Odin Project",
+  "description": "Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.theodinproject.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.theodinproject.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

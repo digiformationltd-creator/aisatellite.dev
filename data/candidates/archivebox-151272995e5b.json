@@ -1,0 +1,20 @@
+{
+  "id": "archivebox-151272995e5b",
+  "canonicalUrl": "https://archivebox.io/",
+  "name": "ArchiveBox",
+  "description": "Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). ([Source Code](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://archivebox.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://archivebox.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

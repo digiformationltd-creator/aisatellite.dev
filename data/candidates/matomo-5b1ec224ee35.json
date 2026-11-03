@@ -1,0 +1,20 @@
+{
+  "id": "matomo-5b1ec224ee35",
+  "canonicalUrl": "https://matomo.org/",
+  "name": "Matomo",
+  "description": "Web analytics that protects your data and your customers' privacy (alternative to Google Analytics). ([Source Code](https://github.com/matomo-org/matomo)) `GPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://matomo.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://matomo.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

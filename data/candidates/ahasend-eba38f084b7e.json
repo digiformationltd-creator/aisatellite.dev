@@ -1,0 +1,20 @@
+{
+  "id": "ahasend-eba38f084b7e",
+  "canonicalUrl": "https://ahasend.com/",
+  "name": "AhaSend",
+  "description": "Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ahasend.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ahasend.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

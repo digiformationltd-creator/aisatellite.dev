@@ -1,0 +1,20 @@
+{
+  "id": "cronhooks-cb5ffb45c355",
+  "canonicalUrl": "https://cronhooks.io/",
+  "name": "Cronhooks",
+  "description": "Schedule on-time or recurring webhooks. The free plan allows 5 ad-hoc schedules.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cronhooks.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cronhooks.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

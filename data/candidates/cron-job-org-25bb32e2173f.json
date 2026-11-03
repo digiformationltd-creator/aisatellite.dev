@@ -1,0 +1,20 @@
+{
+  "id": "cron-job-org-25bb32e2173f",
+  "canonicalUrl": "https://cron-job.org/",
+  "name": "cron-job.org",
+  "description": "Online cronjobs service. Unlimited jobs are free of charge.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cron-job.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cron-job.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "incidenthub-cloud-09afce84f722",
+  "canonicalUrl": "https://incidenthub.cloud/",
+  "name": "incidenthub.cloud",
+  "description": "Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord) are free forever.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://incidenthub.cloud/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://incidenthub.cloud/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

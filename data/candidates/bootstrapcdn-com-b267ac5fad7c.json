@@ -1,0 +1,20 @@
+{
+  "id": "bootstrapcdn-com-b267ac5fad7c",
+  "canonicalUrl": "https://www.bootstrapcdn.com/",
+  "name": "bootstrapcdn.com",
+  "description": "CDN for bootstrap, bootswatch and fontawesome.io",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.bootstrapcdn.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.bootstrapcdn.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pulse-red-c0d7d7352656",
+  "canonicalUrl": "https://pulse.red/",
+  "name": "Pulse.red",
+  "description": "Free Minimalistic Time Tracker and Timesheet app for projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pulse.red",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pulse.red"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

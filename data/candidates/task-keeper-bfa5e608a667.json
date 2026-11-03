@@ -1,0 +1,20 @@
+{
+  "id": "task-keeper-bfa5e608a667",
+  "canonicalUrl": "https://github.com/nymanjens/piga",
+  "name": "Task Keeper",
+  "description": "List editor for power users, backed by a server. `Apache-2.0` `Scala`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/nymanjens/piga",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/nymanjens/piga"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

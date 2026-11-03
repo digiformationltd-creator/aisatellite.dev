@@ -1,0 +1,20 @@
+{
+  "id": "help-launchpad-net-40dd4bda7a1f",
+  "canonicalUrl": "https://help.launchpad.net/Packaging",
+  "name": "help.launchpad.net",
+  "description": "Ubuntu and Debian build service.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://help.launchpad.net/Packaging",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://help.launchpad.net/Packaging"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

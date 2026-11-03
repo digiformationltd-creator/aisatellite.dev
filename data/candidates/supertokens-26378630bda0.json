@@ -1,0 +1,20 @@
+{
+  "id": "supertokens-26378630bda0",
+  "canonicalUrl": "https://supertokens.com/",
+  "name": "SuperTokens",
+  "description": "Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://supertokens.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://supertokens.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z"
+}

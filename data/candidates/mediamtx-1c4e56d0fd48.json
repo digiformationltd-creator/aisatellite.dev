@@ -1,0 +1,20 @@
+{
+  "id": "mediamtx-1c4e56d0fd48",
+  "canonicalUrl": "https://mediamtx.org/",
+  "name": "MediaMTX",
+  "description": "Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. ([Source Code](https://github.com/bluenviron/mediamtx), [Clients](https://mediamtx.org/docs/kickoff/introduction)) `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mediamtx.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mediamtx.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

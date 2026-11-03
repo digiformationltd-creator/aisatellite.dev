@@ -1,0 +1,20 @@
+{
+  "id": "uptimeobserver-com-1b99d3706cf9",
+  "canonicalUrl": "https://uptimeobserver.com/",
+  "name": "UptimeObserver.com",
+  "description": "Get 20 uptime monitors with 5-minute intervals and a customizable status page-even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://uptimeobserver.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://uptimeobserver.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

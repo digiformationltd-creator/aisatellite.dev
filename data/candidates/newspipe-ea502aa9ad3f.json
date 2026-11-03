@@ -1,0 +1,20 @@
+{
+  "id": "newspipe-ea502aa9ad3f",
+  "canonicalUrl": "https://git.sr.ht/~cedric/newspipe",
+  "name": "Newspipe",
+  "description": "Web news reader. ([Demo](https://www.newspipe.org/signup)) `AGPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://git.sr.ht/~cedric/newspipe",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://git.sr.ht/~cedric/newspipe"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

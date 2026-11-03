@@ -1,0 +1,20 @@
+{
+  "id": "xsrv-f7eb825452c0",
+  "canonicalUrl": "https://xsrv.readthedocs.io/",
+  "name": "xsrv",
+  "description": "Install and manage services/applications on your own server(s). ([Source Code](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Ansible/Shell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://xsrv.readthedocs.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://xsrv.readthedocs.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "resend-4350554459a1",
+  "canonicalUrl": "https://resend.com/",
+  "name": "Resend",
+  "description": "Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://resend.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://resend.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

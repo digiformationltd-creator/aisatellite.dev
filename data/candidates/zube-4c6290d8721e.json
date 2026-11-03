@@ -1,0 +1,20 @@
+{
+  "id": "zube-4c6290d8721e",
+  "canonicalUrl": "https://zube.io/",
+  "name": "Zube",
+  "description": "Project management with free plan for 4 Projects & 4 users. GitHub integration is available.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zube.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zube.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

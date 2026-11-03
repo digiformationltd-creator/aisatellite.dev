@@ -1,0 +1,20 @@
+{
+  "id": "khan-academy-e2e83b97056e",
+  "canonicalUrl": "https://www.khanacademy.org/computing/computer-programming",
+  "name": "Khan Academy",
+  "description": "Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.khanacademy.org/computing/computer-programming",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.khanacademy.org/computing/computer-programming"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

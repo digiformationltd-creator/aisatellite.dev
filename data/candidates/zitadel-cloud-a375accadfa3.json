@@ -1,0 +1,20 @@
+{
+  "id": "zitadel-cloud-a375accadfa3",
+  "canonicalUrl": "https://zitadel.com/",
+  "name": "ZITADEL Cloud",
+  "description": "A turnkey user and access management that works for you and supports multi-tenant (B2B) use cases. Free for up to 25,000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies, and so on).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zitadel.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zitadel.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z"
+}

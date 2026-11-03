@@ -1,0 +1,20 @@
+{
+  "id": "dappling-network-a3680ff4330e",
+  "canonicalUrl": "https://www.dappling.network/",
+  "name": "dAppling Network",
+  "description": "Decentralized web hosting platform for Web3 frontends focusing on increasing uptime and security and providing an additional access point for users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.dappling.network/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.dappling.network/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "huggingface-co-453cb49f45b2",
+  "canonicalUrl": "https://huggingface.co/",
+  "name": "huggingface.co",
+  "description": "Build, train, and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://huggingface.co",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://huggingface.co"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

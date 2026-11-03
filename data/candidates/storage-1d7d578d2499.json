@@ -1,0 +1,20 @@
+{
+  "id": "storage-1d7d578d2499",
+  "canonicalUrl": "https://azure.microsoft.com/services/storage",
+  "name": "Storage",
+  "description": "100GB LRS transactions (Azure Files), 5GB Blob storage, 10GB LRS Archive Storage, 2x64GB SSD (12mo)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/services/storage/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/services/storage/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "aide-60096145a707",
+  "canonicalUrl": "https://github.com/ragnarwestad/aide",
+  "name": "aide",
+  "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) — specs, skills and a dashboard that runs them.",
+  "category": "ai-coding",
+  "tags": [
+    "agent-skills",
+    "agentic-coding",
+    "ai-agents",
+    "ai-coding",
+    "ai-tools",
+    "anthropic",
+    "claude",
+    "claude-ai",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "developer-tools",
+    "github-copilot",
+    "llm",
+    "openai-codex",
+    "opencode",
+    "sdd",
+    "spec-driven-development",
+    "specifications",
+    "tdd"
+  ],
+  "repositoryUrl": "https://github.com/ragnarwestad/aide",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/ragnarwestad/aide/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T06:54:57Z",
+  "evidenceUrls": [
+    "https://github.com/ragnarwestad/aide"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:47.248Z",
+  "updatedAt": "2026-11-03T07:24:47.248Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dynamic-document-api-d6138425f6e4",
+  "canonicalUrl": "https://dynamicdocumentapi.com/",
+  "name": "Dynamic Document API",
+  "description": "Turn data into pixel-perfect PDFs and images. The free plan includes 50 renders per month and access to 2 templates from the template gallery or your own.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dynamicdocumentapi.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dynamicdocumentapi.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

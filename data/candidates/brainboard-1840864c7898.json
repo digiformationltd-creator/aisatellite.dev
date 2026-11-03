@@ -1,0 +1,20 @@
+{
+  "id": "brainboard-1840864c7898",
+  "canonicalUrl": "https://www.brainboard.co/",
+  "name": "Brainboard",
+  "description": "Collaborative solution to visually build and manage cloud infrastructures from end-to-end.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.brainboard.co",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.brainboard.co"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

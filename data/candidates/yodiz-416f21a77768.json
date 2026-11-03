@@ -1,0 +1,20 @@
+{
+  "id": "yodiz-416f21a77768",
+  "canonicalUrl": "https://www.yodiz.com/",
+  "name": "Yodiz",
+  "description": "Agile development and issue tracking. Free up to 3 users, unlimited projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.yodiz.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.yodiz.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

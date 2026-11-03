@@ -1,0 +1,20 @@
+{
+  "id": "vouchervault-936975b65fb8",
+  "canonicalUrl": "https://github.com/l4rm4nd/VoucherVault",
+  "name": "VoucherVault",
+  "description": "Store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO. `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/l4rm4nd/VoucherVault",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/l4rm4nd/VoucherVault"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "embrace-1139f4ada176",
+  "canonicalUrl": "https://embrace.io/",
+  "name": "Embrace",
+  "description": "Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://embrace.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://embrace.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

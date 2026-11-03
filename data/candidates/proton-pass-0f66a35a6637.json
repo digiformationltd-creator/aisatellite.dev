@@ -1,0 +1,20 @@
+{
+  "id": "proton-pass-0f66a35a6637",
+  "canonicalUrl": "https://proton.me/pass",
+  "name": "Proton Pass",
+  "description": "Password manager with built-in email aliases, 2FA authenticator, sharing and passkeys. Available on web, browser extension, and mobile app and desktop.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://proton.me/pass",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://proton.me/pass"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mother-of-all-self-hosting-cb6bdf343d69",
+  "canonicalUrl": "https://github.com/mother-of-all-self-hosting/mash-playbook",
+  "name": "Mother-of-All-Self-Hosting",
+  "description": "Ansible playbook which helps you host services as Docker containers on your own server. `AGPL-3.0` `Ansible/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/mother-of-all-self-hosting/mash-playbook",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/mother-of-all-self-hosting/mash-playbook"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

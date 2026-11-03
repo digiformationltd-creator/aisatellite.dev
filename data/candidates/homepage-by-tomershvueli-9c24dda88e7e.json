@@ -1,0 +1,20 @@
+{
+  "id": "homepage-by-tomershvueli-9c24dda88e7e",
+  "canonicalUrl": "https://github.com/tomershvueli/homepage",
+  "name": "Homepage by tomershvueli",
+  "description": "Simple, standalone PHP page that is your window to your server and the web. `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/tomershvueli/homepage",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/tomershvueli/homepage"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

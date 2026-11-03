@@ -1,0 +1,20 @@
+{
+  "id": "simple-nixos-mailserver-e772881f9368",
+  "canonicalUrl": "https://gitlab.com/simple-nixos-mailserver/nixos-mailserver",
+  "name": "Simple NixOS Mailserver",
+  "description": "Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gitlab.com/simple-nixos-mailserver/nixos-mailserver",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gitlab.com/simple-nixos-mailserver/nixos-mailserver"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

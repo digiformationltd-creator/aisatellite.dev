@@ -1,0 +1,20 @@
+{
+  "id": "pomerium-ba02e56bf5e8",
+  "canonicalUrl": "https://www.pomerium.io/",
+  "name": "Pomerium",
+  "description": "Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your own websites to public Internet. ([Source Code](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.pomerium.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.pomerium.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hs-ping-7dda2b518320",
+  "canonicalUrl": "https://hsping.com/",
+  "name": "HS Ping",
+  "description": "A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://hsping.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hsping.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

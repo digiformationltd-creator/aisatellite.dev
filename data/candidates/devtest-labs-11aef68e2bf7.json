@@ -1,0 +1,20 @@
+{
+  "id": "devtest-labs-11aef68e2bf7",
+  "canonicalUrl": "https://azure.microsoft.com/services/devtest-lab",
+  "name": "DevTest Labs",
+  "description": "Enable fast, easy, and lean dev-test environments",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/services/devtest-lab/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/services/devtest-lab/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

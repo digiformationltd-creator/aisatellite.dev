@@ -1,0 +1,20 @@
+{
+  "id": "logzab-com-7c24ed8cb551",
+  "canonicalUrl": "https://logzab.com/",
+  "name": "logzab.com",
+  "description": "Audit trail management system. Free 1,000 user activity logs per month, 1-month retention, for up to 5 projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://logzab.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://logzab.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

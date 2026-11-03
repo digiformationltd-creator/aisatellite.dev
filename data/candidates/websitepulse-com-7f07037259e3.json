@@ -1,0 +1,20 @@
+{
+  "id": "websitepulse-com-7f07037259e3",
+  "canonicalUrl": "https://www.websitepulse.com/tools",
+  "name": "websitepulse.com",
+  "description": "Various free network and server tools.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.websitepulse.com/tools/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.websitepulse.com/tools/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

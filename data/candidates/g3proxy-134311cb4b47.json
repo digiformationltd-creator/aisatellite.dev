@@ -1,0 +1,20 @@
+{
+  "id": "g3proxy-134311cb4b47",
+  "canonicalUrl": "https://g3-project.readthedocs.io/projects/g3proxy/en/latest",
+  "name": "g3proxy",
+  "description": "Forward proxy server supporting proxy chaining, protocol inspection, MITM Interception, ICAP adaptation and transparent proxy. ([Source Code](https://github.com/bytedance/g3/tree/master/g3proxy)) `Apache-2.0` `Rust/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://g3-project.readthedocs.io/projects/g3proxy/en/latest/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://g3-project.readthedocs.io/projects/g3proxy/en/latest/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "scan-coverity-com-c70ccc66de05",
+  "canonicalUrl": "https://scan.coverity.com/",
+  "name": "scan.coverity.com",
+  "description": "Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://scan.coverity.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://scan.coverity.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "piler-53dc3006ea1b",
+  "canonicalUrl": "https://www.mailpiler.org/",
+  "name": "Piler",
+  "description": "Feature-rich email archiving solution. ([Source Code](https://github.com/jsuto/piler/)) `GPL-3.0` `C/Docker/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.mailpiler.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.mailpiler.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

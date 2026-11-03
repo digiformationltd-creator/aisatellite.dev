@@ -1,0 +1,20 @@
+{
+  "id": "ssllabs-com-37a5a774db71",
+  "canonicalUrl": "https://www.ssllabs.com/ssltest",
+  "name": "ssllabs.com",
+  "description": "Intense analysis of the configuration of any SSL web server",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.ssllabs.com/ssltest/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.ssllabs.com/ssltest/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

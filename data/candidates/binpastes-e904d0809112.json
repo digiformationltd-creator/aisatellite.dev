@@ -1,0 +1,20 @@
+{
+  "id": "binpastes-e904d0809112",
+  "canonicalUrl": "https://github.com/querwurzel/BinPastes",
+  "name": "BinPastes",
+  "description": "Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment. `Apache-2.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/querwurzel/BinPastes",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/querwurzel/BinPastes"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "google-ai-studio-86e7d7fc8c8b",
+  "canonicalUrl": "https://aistudio.google.com/",
+  "name": "Google AI Studio",
+  "description": "Get free access to Gemini 3.5 Flash, Gemini 3 Flash and Gemma 4 models. The free tier for Flash offers 5 requests per minute, 20 requests per day, and 250k input tokens per minute. Meanwhile the free tier for Gemma 4 offers 30 requests per minute, 14.4k requests per day, but (only) 16k input tokens per minute.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://aistudio.google.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aistudio.google.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.776Z",
+  "updatedAt": "2026-11-03T07:24:44.776Z"
+}

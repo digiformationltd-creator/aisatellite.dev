@@ -1,0 +1,20 @@
+{
+  "id": "orcaq-0aefb0f2dde3",
+  "canonicalUrl": "https://orca-q.com/",
+  "name": "OrcaQ",
+  "description": "Modern database client and IDE for managing, querying, and exploring multiple database types with built-in AI assistant. ([Source Code](https://github.com/cin12211/orca-q)) `MIT` `Nodejs/deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://orca-q.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://orca-q.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "files-sharing-8383883e6c0e",
+  "canonicalUrl": "https://github.com/axeloz/filesharing",
+  "name": "Files Sharing",
+  "description": "File sharing application based on unique and temporary links. `GPL-3.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/axeloz/filesharing",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/axeloz/filesharing"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

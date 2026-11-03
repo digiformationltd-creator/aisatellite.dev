@@ -1,0 +1,20 @@
+{
+  "id": "emitlo-3945aba2821b",
+  "canonicalUrl": "https://emitlo.com/",
+  "name": "Emitlo",
+  "description": "free 12,000 emails/month, Email API and SMTP, SPF/DKIM/DMARC support, No Credit Cards are required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://emitlo.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://emitlo.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

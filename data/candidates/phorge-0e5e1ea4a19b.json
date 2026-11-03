@@ -1,0 +1,20 @@
+{
+  "id": "phorge-0e5e1ea4a19b",
+  "canonicalUrl": "https://we.phorge.it/",
+  "name": "Phorge",
+  "description": "Community-driven platform for collaborating, managing, organizing and reviewing software development projects. ([Source Code](https://we.phorge.it/source/phorge/)) `Apache-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://we.phorge.it/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://we.phorge.it/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

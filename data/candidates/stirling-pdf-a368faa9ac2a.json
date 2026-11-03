@@ -1,0 +1,20 @@
+{
+  "id": "stirling-pdf-a368faa9ac2a",
+  "canonicalUrl": "https://github.com/Stirling-Tools/Stirling-PDF",
+  "name": "Stirling-PDF",
+  "description": "Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/Stirling-Tools/Stirling-PDF",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/Stirling-Tools/Stirling-PDF"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

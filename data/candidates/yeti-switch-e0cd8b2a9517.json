@@ -1,0 +1,20 @@
+{
+  "id": "yeti-switch-e0cd8b2a9517",
+  "canonicalUrl": "https://yeti-switch.org/",
+  "name": "Yeti-Switch",
+  "description": "Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API. ([Demo](https://demo.yeti-switch.org/), [Source Code](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://yeti-switch.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://yeti-switch.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

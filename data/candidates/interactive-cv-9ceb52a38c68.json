@@ -1,0 +1,20 @@
+{
+  "id": "interactive-cv-9ceb52a38c68",
+  "canonicalUrl": "https://interactive-cv.com/",
+  "name": "Interactive CV",
+  "description": "AI-powered resume builder with real-time editing and ATS optimization. Free tier includes automatic CV conversion to premium templates (Harvard, Europass), PDF export, job tracker with unlimited job posting insights and CV sharing with chat/voice features.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://interactive-cv.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://interactive-cv.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

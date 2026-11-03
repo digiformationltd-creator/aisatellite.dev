@@ -1,0 +1,20 @@
+{
+  "id": "airtrail-26780e5474f4",
+  "canonicalUrl": "https://airtrail.johan.ohly.dk/",
+  "name": "AirTrail",
+  "description": "Personal flight tracking system. ([Source Code](https://github.com/johanohly/AirTrail)) `GPL-3.0` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://airtrail.johan.ohly.dk",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://airtrail.johan.ohly.dk"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

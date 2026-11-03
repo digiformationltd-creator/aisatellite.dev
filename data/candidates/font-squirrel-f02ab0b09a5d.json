@@ -1,0 +1,20 @@
+{
+  "id": "font-squirrel-f02ab0b09a5d",
+  "canonicalUrl": "https://www.fontsquirrel.com/",
+  "name": "Font Squirrel",
+  "description": "Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.fontsquirrel.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.fontsquirrel.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

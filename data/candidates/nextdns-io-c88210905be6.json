@@ -1,0 +1,20 @@
+{
+  "id": "nextdns-io-c88210905be6",
+  "canonicalUrl": "https://nextdns.io/",
+  "name": "nextdns.io",
+  "description": "DNS-based firewall, 300K free queries monthly",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://nextdns.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nextdns.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

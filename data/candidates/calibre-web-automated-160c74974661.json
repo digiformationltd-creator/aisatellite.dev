@@ -1,0 +1,20 @@
+{
+  "id": "calibre-web-automated-160c74974661",
+  "canonicalUrl": "https://github.com/crocodilestick/Calibre-Web-Automated",
+  "name": "Calibre Web Automated",
+  "description": "All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/crocodilestick/Calibre-Web-Automated",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/crocodilestick/Calibre-Web-Automated"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

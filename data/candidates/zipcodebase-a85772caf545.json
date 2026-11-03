@@ -1,0 +1,20 @@
+{
+  "id": "zipcodebase-a85772caf545",
+  "canonicalUrl": "https://zipcodebase.com/",
+  "name": "Zipcodebase",
+  "description": "Free Zip Code API, access to Worldwide Postal Code Data. 5,000 free requests/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zipcodebase.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zipcodebase.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

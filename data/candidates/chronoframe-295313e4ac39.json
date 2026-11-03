@@ -1,0 +1,20 @@
+{
+  "id": "chronoframe-295313e4ac39",
+  "canonicalUrl": "https://chronoframe.bh8.ga/",
+  "name": "ChronoFrame",
+  "description": "Personal gallery application with online photo management, supporting Live/Motion Photos, and explore map. ([Demo](https://lens.bh8.ga/), [Source Code](https://github.com/HoshinoSuzumi/chronoframe)) `MIT` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://chronoframe.bh8.ga/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://chronoframe.bh8.ga/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

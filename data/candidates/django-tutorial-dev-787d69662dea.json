@@ -1,0 +1,20 @@
+{
+  "id": "django-tutorial-dev-787d69662dea",
+  "canonicalUrl": "https://django-tutorial.dev/",
+  "name": "Django-tutorial.dev",
+  "description": "Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://django-tutorial.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://django-tutorial.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

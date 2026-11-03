@@ -1,0 +1,20 @@
+{
+  "id": "request-tracker-219ba37da974",
+  "canonicalUrl": "https://www.bestpractical.com/rt",
+  "name": "Request Tracker",
+  "description": "Enterprise-grade issue tracking system. ([Source Code](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.bestpractical.com/rt/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.bestpractical.com/rt/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

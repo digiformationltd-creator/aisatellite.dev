@@ -1,0 +1,20 @@
+{
+  "id": "clink-4299deb70fd0",
+  "canonicalUrl": "https://git.crueter.xyz/crueter/clink",
+  "name": "clink",
+  "description": "Super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ([Demo](https://short.crueter.xyz)) `AGPL-3.0` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://git.crueter.xyz/crueter/clink",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://git.crueter.xyz/crueter/clink"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

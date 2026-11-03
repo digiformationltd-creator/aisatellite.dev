@@ -1,0 +1,20 @@
+{
+  "id": "engity-s-bifr-st-5fa0dd4b5a30",
+  "canonicalUrl": "https://bifroest.engity.org/",
+  "name": "Engity's Bifröst",
+  "description": "Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ([Source Code](https://github.com/engity-com/bifroest)) `Apache-2.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://bifroest.engity.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bifroest.engity.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

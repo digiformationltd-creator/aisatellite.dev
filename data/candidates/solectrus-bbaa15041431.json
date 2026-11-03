@@ -1,0 +1,20 @@
+{
+  "id": "solectrus-bbaa15041431",
+  "canonicalUrl": "https://solectrus.de/",
+  "name": "SOLECTRUS",
+  "description": "Photovoltaic dashboard that displays energy production and consumption with cost and savings calculations. ([Demo](https://demo.solectrus.de), [Source Code](https://github.com/solectrus/solectrus)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://solectrus.de",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://solectrus.de"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

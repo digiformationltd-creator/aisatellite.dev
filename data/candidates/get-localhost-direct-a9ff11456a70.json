@@ -1,0 +1,20 @@
+{
+  "id": "get-localhost-direct-a9ff11456a70",
+  "canonicalUrl": "https://get.localhost.direct/",
+  "name": "get.localhost.direct",
+  "description": "A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://get.localhost.direct",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://get.localhost.direct"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

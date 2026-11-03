@@ -1,0 +1,20 @@
+{
+  "id": "gitter-im-76d77865e2a6",
+  "canonicalUrl": "https://gitter.im/",
+  "name": "gitter.im",
+  "description": "Chat, for GitHub. Unlimited public and private rooms, free for teams of up to 25",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://gitter.im/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gitter.im/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

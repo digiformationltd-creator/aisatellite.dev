@@ -1,0 +1,20 @@
+{
+  "id": "knocket-3e9e2b94d478",
+  "canonicalUrl": "https://trtc.io/solutions/knocket",
+  "name": "Knocket",
+  "description": "Free-forever contact layer for indie developers and small teams: live chat widget for websites and mobile apps (iOS/Android/Flutter/React Native via WebView), a shareable contact page (Linktree-style with socials, booking links, and blog), and a unified Telegram/email inbox. Reply from Telegram directly (no dashboard needed). Meeting scheduler, multi-language, light/dark themes. Companion open-source AI auto-reply agent. No ads, no seat limits.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://trtc.io/solutions/knocket",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://trtc.io/solutions/knocket"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

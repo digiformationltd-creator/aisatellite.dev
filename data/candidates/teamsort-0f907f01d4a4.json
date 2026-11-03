@@ -1,0 +1,20 @@
+{
+  "id": "teamsort-0f907f01d4a4",
+  "canonicalUrl": "https://teamsort.world/",
+  "name": "TeamSort",
+  "description": "Free tool to vote on a shared list and rank items together. Create a ranked-choice poll in seconds - no signup.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://teamsort.world",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://teamsort.world"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

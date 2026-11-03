@@ -1,0 +1,20 @@
+{
+  "id": "miniflux-89976e362e86",
+  "canonicalUrl": "https://miniflux.app/",
+  "name": "Miniflux",
+  "description": "Minimalist news reader. ([Source Code](https://github.com/miniflux/v2)) `Apache-2.0` `Go/deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://miniflux.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://miniflux.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

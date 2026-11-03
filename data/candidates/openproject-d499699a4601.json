@@ -1,0 +1,20 @@
+{
+  "id": "openproject-d499699a4601",
+  "canonicalUrl": "https://www.openproject.org/",
+  "name": "OpenProject",
+  "description": "Manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github. ([Source Code](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.openproject.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.openproject.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

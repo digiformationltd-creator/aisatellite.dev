@@ -1,0 +1,20 @@
+{
+  "id": "ip-city-0b44b94380e5",
+  "canonicalUrl": "https://ip.city/",
+  "name": "IP.City",
+  "description": "100 Free IP geolocation requests per day",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ip.city",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ip.city"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

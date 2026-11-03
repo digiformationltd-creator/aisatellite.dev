@@ -1,0 +1,20 @@
+{
+  "id": "frostyverify-40633757f883",
+  "canonicalUrl": "https://frostyverify.com/",
+  "name": "FrostyVerify",
+  "description": "Email verification, usable through a web app, a REST API and an MCP server + 1,000 Free Email verifications a month, no card",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://frostyverify.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://frostyverify.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

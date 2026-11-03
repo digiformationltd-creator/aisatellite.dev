@@ -1,0 +1,20 @@
+{
+  "id": "dubble-f02d1ccdc1c9",
+  "canonicalUrl": "https://dubble.so/",
+  "name": "Dubble",
+  "description": "Free Step-by-Step Guide creator. Take screenshots, document processes and collaborate with your team. Also supports async screen recording.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dubble.so/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dubble.so/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

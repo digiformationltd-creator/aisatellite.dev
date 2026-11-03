@@ -1,0 +1,20 @@
+{
+  "id": "ofbiz-80264343c38d",
+  "canonicalUrl": "https://ofbiz.apache.org/",
+  "name": "OFBiz",
+  "description": "Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code](https://github.com/apache/ofbiz-framework)) `Apache-2.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ofbiz.apache.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ofbiz.apache.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

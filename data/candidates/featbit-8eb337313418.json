@@ -1,0 +1,20 @@
+{
+  "id": "featbit-8eb337313418",
+  "canonicalUrl": "https://www.featbit.co/",
+  "name": "Featbit",
+  "description": "Enterprise-grade feature flag platform that you can self-host. ([Source Code](https://github.com/featbit/featbit)) `MIT` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.featbit.co/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.featbit.co/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

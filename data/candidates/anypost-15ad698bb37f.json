@@ -1,0 +1,20 @@
+{
+  "id": "anypost-15ad698bb37f",
+  "canonicalUrl": "https://anypost.com/",
+  "name": "Anypost",
+  "description": "transactional and broadcast email API. 3,000 emails/month free, then as low as 8¢ per 1k",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://anypost.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://anypost.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

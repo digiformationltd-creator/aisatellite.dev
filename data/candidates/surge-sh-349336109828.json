@@ -1,0 +1,20 @@
+{
+  "id": "surge-sh-349336109828",
+  "canonicalUrl": "https://surge.sh/",
+  "name": "surge.sh",
+  "description": "Static web publishing for Front-End developers. Unlimited sites with custom domain support",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://surge.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://surge.sh/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

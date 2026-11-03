@@ -1,0 +1,20 @@
+{
+  "id": "antville-8b5629e99a38",
+  "canonicalUrl": "https://antville.org/",
+  "name": "Antville",
+  "description": "Feature-rich blog hosting software which can host tens of thousands of blogs. ([Source Code](https://github.com/antville/antville)) `Apache-2.0` `Javascript`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://antville.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://antville.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

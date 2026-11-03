@@ -1,0 +1,20 @@
+{
+  "id": "cloud-cost-analyzer-85fbf3d4afc9",
+  "canonicalUrl": "https://cca.dragonfractal.com/",
+  "name": "Cloud Cost Analyzer",
+  "description": "Scan AWS and Azure for cost waste with 92 automated checks including idle NAT gateways, gp2 volumes, and over-provisioned instances. Get savings estimates in a read-only, developer-first CLI. Free tier covers up to 5,000 resources per scan on one AWS account. Paid tiers add resource IDs and exact remediation steps.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cca.dragonfractal.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cca.dragonfractal.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

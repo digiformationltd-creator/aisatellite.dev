@@ -1,0 +1,20 @@
+{
+  "id": "localtunnel-dc684988b055",
+  "canonicalUrl": "https://theboroer.github.io/localtunnel-www",
+  "name": "localtunnel",
+  "description": "Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://theboroer.github.io/localtunnel-www/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://theboroer.github.io/localtunnel-www/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

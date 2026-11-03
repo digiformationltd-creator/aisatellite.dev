@@ -1,0 +1,20 @@
+{
+  "id": "mongodb-atlas-11463113fcc0",
+  "canonicalUrl": "https://www.mongodb.com/cloud/atlas",
+  "name": "MongoDB Atlas",
+  "description": "free tier gives 512 MB",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.mongodb.com/cloud/atlas",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.mongodb.com/cloud/atlas"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

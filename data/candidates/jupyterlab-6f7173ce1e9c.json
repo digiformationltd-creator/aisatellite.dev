@@ -1,0 +1,20 @@
+{
+  "id": "jupyterlab-6f7173ce1e9c",
+  "canonicalUrl": "https://jupyterlab.readthedocs.io/en/stable",
+  "name": "JupyterLab",
+  "description": "Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [Source Code](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://jupyterlab.readthedocs.io/en/stable/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://jupyterlab.readthedocs.io/en/stable/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

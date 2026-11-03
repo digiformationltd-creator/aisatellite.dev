@@ -1,0 +1,20 @@
+{
+  "id": "openmeetings-837bb90169e0",
+  "canonicalUrl": "https://openmeetings.apache.org/index.html",
+  "name": "Openmeetings",
+  "description": "Video conferencing, instant messaging, whiteboard, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. ([Source Code](https://github.com/apache/openmeetings)) `Apache-2.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://openmeetings.apache.org/index.html",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://openmeetings.apache.org/index.html"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

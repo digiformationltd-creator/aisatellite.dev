@@ -1,0 +1,20 @@
+{
+  "id": "linkwarden-33692ccc35f4",
+  "canonicalUrl": "https://linkwarden.app/",
+  "name": "LinkWarden",
+  "description": "Bookmark and archive manager to store your useful links. ([Source Code](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://linkwarden.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://linkwarden.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

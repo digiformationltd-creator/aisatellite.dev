@@ -1,0 +1,20 @@
+{
+  "id": "exchangerate-api-com-0c7764ecf192",
+  "canonicalUrl": "https://www.exchangerate-api.com/",
+  "name": "exchangerate-api.com",
+  "description": "An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.exchangerate-api.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.exchangerate-api.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

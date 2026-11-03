@@ -1,0 +1,20 @@
+{
+  "id": "pharos-7c6d3d28701e",
+  "canonicalUrl": "https://pharos.email/",
+  "name": "Pharos",
+  "description": "Transactional email API and SMTP relay service for developers. 3,000 emails a month free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pharos.email",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pharos.email"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

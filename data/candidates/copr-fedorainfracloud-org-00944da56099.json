@@ -1,0 +1,20 @@
+{
+  "id": "copr-fedorainfracloud-org-00944da56099",
+  "canonicalUrl": "https://copr.fedorainfracloud.org/",
+  "name": "copr.fedorainfracloud.org",
+  "description": "Mock-based RPM build service for Fedora and EL.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://copr.fedorainfracloud.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://copr.fedorainfracloud.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hivemq-c8320c7f2383",
+  "canonicalUrl": "https://www.hivemq.com/mqtt-cloud-broker",
+  "name": "HiveMQ",
+  "description": "Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required) forever.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.hivemq.com/mqtt-cloud-broker/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.hivemq.com/mqtt-cloud-broker/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "accesserty-pulse-afea2905b23f",
+  "canonicalUrl": "https://accesserty.com/en/pulse",
+  "name": "Accesserty Pulse",
+  "description": "Accesserty Pulse monitors interaction signals and detectable accessibility risks on live websites. Free plans for everyone and 14-day Pro trial.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://accesserty.com/en/pulse",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://accesserty.com/en/pulse"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

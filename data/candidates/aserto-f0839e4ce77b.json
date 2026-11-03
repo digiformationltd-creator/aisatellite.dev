@@ -1,0 +1,20 @@
+{
+  "id": "aserto-f0839e4ce77b",
+  "canonicalUrl": "https://www.aserto.com/",
+  "name": "Aserto",
+  "description": "Fine-grained authorization as a service for applications and APIs. Free up to 1000 MAUs and 100 authorizer instances.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.aserto.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.aserto.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

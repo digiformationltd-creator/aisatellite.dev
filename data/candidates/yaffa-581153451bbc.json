@@ -1,0 +1,20 @@
+{
+  "id": "yaffa-581153451bbc",
+  "canonicalUrl": "https://www.yaffa.cc/",
+  "name": "YAFFA",
+  "description": "Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code](https://github.com/kantorge/yaffa)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.yaffa.cc",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.yaffa.cc"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

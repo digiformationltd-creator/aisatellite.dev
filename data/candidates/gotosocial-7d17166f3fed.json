@@ -1,0 +1,20 @@
+{
+  "id": "gotosocial-7d17166f3fed",
+  "canonicalUrl": "https://docs.gotosocial.org/en/latest",
+  "name": "GoToSocial",
+  "description": "ActivityPub federated social network server implementing the Mastodon client API. ([Source Code](https://codeberg.org/superseriousbusiness/gotosocial)) `AGPL-3.0` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docs.gotosocial.org/en/latest/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docs.gotosocial.org/en/latest/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

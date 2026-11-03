@@ -1,0 +1,20 @@
+{
+  "id": "appcircle-io-15695d415030",
+  "canonicalUrl": "https://appcircle.io/",
+  "name": "appcircle.io",
+  "description": "An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle. Free for 30 minutes max build time per build, 20 monthly builds and 1 concurrent build.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://appcircle.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://appcircle.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

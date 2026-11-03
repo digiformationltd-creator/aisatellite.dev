@@ -1,0 +1,20 @@
+{
+  "id": "saltcorn-f49ff9851e0f",
+  "canonicalUrl": "https://saltcorn.com/",
+  "name": "Saltcorn",
+  "description": "No-code database application builder for web and mobile applications. One platform for user interface, data backend, durable workflows, email, PDF generation, and AI applications. ([Source Code](https://github.com/saltcorn/saltcorn)) `MIT` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://saltcorn.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://saltcorn.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

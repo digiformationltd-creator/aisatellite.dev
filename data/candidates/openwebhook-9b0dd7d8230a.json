@@ -1,0 +1,20 @@
+{
+  "id": "openwebhook-9b0dd7d8230a",
+  "canonicalUrl": "https://openwebhook.co/",
+  "name": "OpenWebhook",
+  "description": "Temporary webhook URL and live inspector. No signup. Event history stays in the browser. Custom slugs and remote forwarding are paid.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://openwebhook.co",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://openwebhook.co"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

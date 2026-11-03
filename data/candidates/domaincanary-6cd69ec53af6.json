@@ -1,0 +1,20 @@
+{
+  "id": "domaincanary-6cd69ec53af6",
+  "canonicalUrl": "https://domaincanary.com/",
+  "name": "DomainCanary",
+  "description": "DMARC enforcement service that protects your domain from email spoofing. First domain is free with 90 days of report detail and step-by-step policies you publish yourself.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://domaincanary.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://domaincanary.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "shhh-ff457cee5772",
+  "canonicalUrl": "https://github.com/smallwat3r/shhh",
+  "name": "Shhh",
+  "description": "Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/smallwat3r/shhh",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/smallwat3r/shhh"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

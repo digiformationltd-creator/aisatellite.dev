@@ -1,0 +1,20 @@
+{
+  "id": "comet-opik-1cf6e1ef723b",
+  "canonicalUrl": "https://www.comet.com/site/products/opik",
+  "name": "Comet Opik",
+  "description": "Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.comet.com/site/products/opik/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.comet.com/site/products/opik/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

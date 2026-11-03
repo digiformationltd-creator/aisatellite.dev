@@ -1,0 +1,20 @@
+{
+  "id": "imagor-6df5e9faceef",
+  "canonicalUrl": "https://github.com/cshum/imagor",
+  "name": "imagor",
+  "description": "Fast, secure image processing server and Go library built on libvips, with on-demand resizing, cropping, filtering, format conversion and image composition, signed URLs and streaming pipelines for high-concurrency throughput. `Apache-2.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/cshum/imagor",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/cshum/imagor"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

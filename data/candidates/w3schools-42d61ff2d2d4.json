@@ -1,0 +1,20 @@
+{
+  "id": "w3schools-42d61ff2d2d4",
+  "canonicalUrl": "https://www.w3schools.com/",
+  "name": "W3Schools",
+  "description": "Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.w3schools.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.w3schools.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

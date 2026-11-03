@@ -1,0 +1,20 @@
+{
+  "id": "imgix-e7ff26d67c7d",
+  "canonicalUrl": "https://www.imgix.com/",
+  "name": "imgix",
+  "description": "Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.imgix.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.imgix.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

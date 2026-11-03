@@ -1,0 +1,20 @@
+{
+  "id": "digitools-4ec3cfb01a9a",
+  "canonicalUrl": "https://ladigitale.dev/digitools",
+  "name": "Digitools",
+  "description": "Set of simple tools to accompany the animation of courses in person or remotely (documentation in French). ([Demo](https://ladigitale.dev/digitools/), [Source Code](https://codeberg.org/ladigitale/digitools)) `AGPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ladigitale.dev/digitools",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ladigitale.dev/digitools"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

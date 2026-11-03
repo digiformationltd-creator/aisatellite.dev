@@ -1,0 +1,20 @@
+{
+  "id": "killer-coda-73d858da19b5",
+  "canonicalUrl": "https://killercoda.com/",
+  "name": "Killer Coda",
+  "description": "Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://killercoda.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://killercoda.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

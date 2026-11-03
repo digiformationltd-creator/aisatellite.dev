@@ -1,0 +1,20 @@
+{
+  "id": "formware-io-fc084d9fe22c",
+  "canonicalUrl": "https://formware.io/",
+  "name": "Formware.io",
+  "description": "Create fully-responsive and captivating forms in seconds, without knowing how to code, and collect unlimited responses for free!",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://formware.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://formware.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hyphanet-0ab2b824211c",
+  "canonicalUrl": "https://hyphanet.org/",
+  "name": "Hyphanet",
+  "description": "Anonymously share files, browse and publish freesites (web sites accessible only through Hyphanet) and chat on forums. ([Source Code](https://github.com/hyphanet/fred)) `GPL-2.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://hyphanet.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hyphanet.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

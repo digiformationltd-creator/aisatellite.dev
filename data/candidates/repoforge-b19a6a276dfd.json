@@ -1,0 +1,20 @@
+{
+  "id": "repoforge-b19a6a276dfd",
+  "canonicalUrl": "https://repoforge.io/",
+  "name": "RepoForge",
+  "description": "Private cloud-hosted repository for Python, Debian, NPM packages and Docker registries. Free plan for open source/public projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://repoforge.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://repoforge.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

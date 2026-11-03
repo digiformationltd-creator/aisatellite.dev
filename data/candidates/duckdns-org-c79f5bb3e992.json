@@ -1,0 +1,20 @@
+{
+  "id": "duckdns-org-c79f5bb3e992",
+  "canonicalUrl": "https://www.duckdns.org/",
+  "name": "duckdns.org",
+  "description": "Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.duckdns.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.duckdns.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

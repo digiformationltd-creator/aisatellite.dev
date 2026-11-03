@@ -1,0 +1,20 @@
+{
+  "id": "aastro-94af853b28d8",
+  "canonicalUrl": "https://voidrunner3074.github.io/aastro-docs",
+  "name": "Aastro",
+  "description": "Extensible API Gateway written in Go. ([Source Code](https://github.com/voidrunner3074/aastro)) `Apache-2.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://voidrunner3074.github.io/aastro-docs",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://voidrunner3074.github.io/aastro-docs"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "alfresco-community-edition-567d2d1c4382",
+  "canonicalUrl": "https://www.alfresco.com/products/community/download",
+  "name": "Alfresco Community Edition",
+  "description": "Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.alfresco.com/products/community/download",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.alfresco.com/products/community/download"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

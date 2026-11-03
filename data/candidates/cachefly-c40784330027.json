@@ -1,0 +1,20 @@
+{
+  "id": "cachefly-c40784330027",
+  "canonicalUrl": "https://portal.cachefly.com/signup/free2023",
+  "name": "CacheFly",
+  "description": "Up to 5 TB per month of Free CDN traffic, 19 Core PoPs , 1 Domain and Universal SSL.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://portal.cachefly.com/signup/free2023",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://portal.cachefly.com/signup/free2023"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

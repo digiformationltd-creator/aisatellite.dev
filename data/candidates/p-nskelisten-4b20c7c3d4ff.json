@@ -1,0 +1,20 @@
+{
+  "id": "p-nskelisten-4b20c7c3d4ff",
+  "canonicalUrl": "https://github.com/aunefyren/poenskelisten",
+  "name": "Pønskelisten",
+  "description": "Sharing wishlists and collaborating on gifts and presents. `GPL-3.0` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/aunefyren/poenskelisten",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/aunefyren/poenskelisten"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

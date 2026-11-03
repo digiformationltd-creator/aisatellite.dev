@@ -1,0 +1,20 @@
+{
+  "id": "tracelog-b52eb27d64e0",
+  "canonicalUrl": "https://tracelog.io/",
+  "name": "TraceLog",
+  "description": "AI Analytics for E-commerce. Ask questions in natural language about your analytics, get actionable recommendations and grow your revenue with AI-powered insights. Free for up to 10k events per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tracelog.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tracelog.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

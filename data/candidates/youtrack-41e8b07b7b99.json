@@ -1,0 +1,20 @@
+{
+  "id": "youtrack-41e8b07b7b99",
+  "canonicalUrl": "https://www.jetbrains.com/youtrack/buy",
+  "name": "YouTrack",
+  "description": "Free hosted YouTrack (InCloud) for FOSS projects and private projects (free for three users). Includes time tracking and agile boards",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.jetbrains.com/youtrack/buy/#edition=incloud",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.jetbrains.com/youtrack/buy/#edition=incloud"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

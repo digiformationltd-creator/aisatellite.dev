@@ -1,0 +1,20 @@
+{
+  "id": "datadoghq-com-2850f31e276b",
+  "canonicalUrl": "https://www.datadoghq.com/",
+  "name": "datadoghq.com",
+  "description": "Free for up to 5 nodes",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.datadoghq.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.datadoghq.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

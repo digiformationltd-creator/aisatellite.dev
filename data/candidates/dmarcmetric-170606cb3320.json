@@ -1,0 +1,20 @@
+{
+  "id": "dmarcmetric-170606cb3320",
+  "canonicalUrl": "https://dmarcmetric.com/",
+  "name": "DMARCmetric",
+  "description": "DMARC report monitoring with named sending sources, SPF/DKIM alignment and plain-English summaries. Free for 1 domain: 10,000 messages/month, 30-day history, email alerts, no credit card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dmarcmetric.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dmarcmetric.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "surveymonkey-com-8442c6e06a31",
+  "canonicalUrl": "https://www.surveymonkey.com/",
+  "name": "SurveyMonkey.com",
+  "description": "Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.surveymonkey.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.surveymonkey.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

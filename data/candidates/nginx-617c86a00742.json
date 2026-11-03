@@ -1,0 +1,20 @@
+{
+  "id": "nginx-617c86a00742",
+  "canonicalUrl": "https://nginx.org/en",
+  "name": "NGINX",
+  "description": "HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://github.com/nginx/nginx)) `BSD-2-Clause` `C/deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nginx.org/en/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nginx.org/en/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

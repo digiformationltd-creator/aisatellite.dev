@@ -1,0 +1,20 @@
+{
+  "id": "sosse-d794dcb98e87",
+  "canonicalUrl": "https://sosse.readthedocs.io/en/stable",
+  "name": "Sosse",
+  "description": "Selenium based search engine and crawler with offline archiving. ([Source Code](https://gitlab.com/biolds1/sosse)) `AGPL-3.0` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://sosse.readthedocs.io/en/stable/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sosse.readthedocs.io/en/stable/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

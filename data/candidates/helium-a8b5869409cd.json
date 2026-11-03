@@ -1,0 +1,20 @@
+{
+  "id": "helium-a8b5869409cd",
+  "canonicalUrl": "https://www.heliumedu.com/",
+  "name": "Helium",
+  "description": "Color-coded student planner for classes, homework, grades, and notes with smart notifications and multi-device sync. ([Demo](https://app.heliumedu.com), [Source Code](https://github.com/HeliumEdu/platform)) `MIT` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.heliumedu.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.heliumedu.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

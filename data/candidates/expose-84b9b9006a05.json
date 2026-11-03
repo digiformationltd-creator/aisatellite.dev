@@ -1,0 +1,20 @@
+{
+  "id": "expose-84b9b9006a05",
+  "canonicalUrl": "https://expose.dev/",
+  "name": "Expose",
+  "description": "Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://expose.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://expose.dev/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

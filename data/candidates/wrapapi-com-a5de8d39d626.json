@@ -1,0 +1,20 @@
+{
+  "id": "wrapapi-com-a5de8d39d626",
+  "canonicalUrl": "https://wrapapi.com/",
+  "name": "wrapapi.com",
+  "description": "Turn any website into a parameterized API. 30k API calls per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://wrapapi.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wrapapi.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

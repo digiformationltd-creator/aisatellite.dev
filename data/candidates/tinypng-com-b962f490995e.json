@@ -1,0 +1,20 @@
+{
+  "id": "tinypng-com-b962f490995e",
+  "canonicalUrl": "https://tinypng.com/",
+  "name": "tinypng.com",
+  "description": "API to compress and resize PNG and JPEG images, offers 500 compressions for free each month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tinypng.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tinypng.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "imgcompress-eab7550df5d6",
+  "canonicalUrl": "https://imgcompress.karimzouine.com/",
+  "name": "ImgCompress",
+  "description": "Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies. ([Source Code](https://github.com/karimz1/imgcompress)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://imgcompress.karimzouine.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://imgcompress.karimzouine.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

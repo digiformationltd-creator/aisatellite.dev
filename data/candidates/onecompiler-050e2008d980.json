@@ -1,0 +1,20 @@
+{
+  "id": "onecompiler-050e2008d980",
+  "canonicalUrl": "https://onecompiler.com/",
+  "name": "OneCompiler",
+  "description": "Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://onecompiler.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://onecompiler.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

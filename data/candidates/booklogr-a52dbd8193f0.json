@@ -1,0 +1,20 @@
+{
+  "id": "booklogr-a52dbd8193f0",
+  "canonicalUrl": "https://github.com/Mozzo1000/booklogr",
+  "name": "BookLogr",
+  "description": "Manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/Mozzo1000/booklogr",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/Mozzo1000/booklogr"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

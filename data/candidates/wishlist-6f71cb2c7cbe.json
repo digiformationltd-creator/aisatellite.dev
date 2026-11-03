@@ -1,0 +1,20 @@
+{
+  "id": "wishlist-6f71cb2c7cbe",
+  "canonicalUrl": "https://github.com/cmintey/wishlist",
+  "name": "Wishlist",
+  "description": "Wishlist application that you can share with your friends and family. `MIT` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/cmintey/wishlist",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/cmintey/wishlist"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

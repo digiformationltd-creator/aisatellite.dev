@@ -1,0 +1,20 @@
+{
+  "id": "statusgator-com-316d3eb5edf6",
+  "canonicalUrl": "https://statusgator.com/",
+  "name": "statusgator.com",
+  "description": "Status page monitoring, 3 monitors free",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://statusgator.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://statusgator.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

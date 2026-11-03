@@ -1,0 +1,20 @@
+{
+  "id": "awesome-sysadmin-3494265fc53b",
+  "canonicalUrl": "https://github.com/awesome-foss/awesome-sysadmin",
+  "name": "Awesome Sysadmin",
+  "description": "Curated list of amazingly awesome open source sysadmin resources.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/awesome-foss/awesome-sysadmin",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/awesome-foss/awesome-sysadmin"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ezbookkeeping-772b79311d88",
+  "canonicalUrl": "https://ezbookkeeping.mayswind.net/",
+  "name": "ezbookkeeping",
+  "description": "Lightweight personal bookkeeping app hosted by yourself. ([Demo](https://ezbookkeeping-demo.mayswind.net/), [Source Code](https://github.com/mayswind/ezbookkeeping)) `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ezbookkeeping.mayswind.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ezbookkeeping.mayswind.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

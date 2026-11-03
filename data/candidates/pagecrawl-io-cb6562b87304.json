@@ -1,0 +1,20 @@
+{
+  "id": "pagecrawl-io-cb6562b87304",
+  "canonicalUrl": "https://pagecrawl.io/",
+  "name": "pagecrawl.io",
+  "description": "Monitor website changes, free for up to 6 monitors with daily checks.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pagecrawl.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pagecrawl.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

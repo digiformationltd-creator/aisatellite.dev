@@ -1,0 +1,20 @@
+{
+  "id": "mailcheck-ai-aa36e2b688dc",
+  "canonicalUrl": "https://www.mailcheck.ai/",
+  "name": "Mailcheck.ai",
+  "description": "Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.mailcheck.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.mailcheck.ai/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

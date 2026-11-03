@@ -1,0 +1,20 @@
+{
+  "id": "azure-devops-f3253e34bdbe",
+  "canonicalUrl": "https://azure.microsoft.com/services/devops",
+  "name": "Azure DevOps",
+  "description": "5 active users, unlimited private Git repos",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/services/devops/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/services/devops/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

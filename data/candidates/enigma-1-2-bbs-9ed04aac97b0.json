@@ -1,0 +1,20 @@
+{
+  "id": "enigma-1-2-bbs-9ed04aac97b0",
+  "canonicalUrl": "https://nuskooler.github.io/enigma-bbs",
+  "name": "Enigma 1/2 BBS",
+  "description": "Modern, multi-platform BBS engine with unlimited \"callers\" and legacy DOS door game support. ([Source Code](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nuskooler.github.io/enigma-bbs/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nuskooler.github.io/enigma-bbs/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "coder-120dc90aa67c",
+  "canonicalUrl": "https://coder.com/",
+  "name": "Coder",
+  "description": "Remote development machines on your own infrastructure. ([Source Code](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://coder.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://coder.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

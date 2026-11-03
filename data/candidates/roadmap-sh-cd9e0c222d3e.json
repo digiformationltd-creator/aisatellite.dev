@@ -1,0 +1,20 @@
+{
+  "id": "roadmap-sh-cd9e0c222d3e",
+  "canonicalUrl": "https://roadmap.sh/",
+  "name": "Roadmap.sh",
+  "description": "Free learning roadmaps covering all aspects of development from Blockchain to UX Design.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://roadmap.sh",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://roadmap.sh"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

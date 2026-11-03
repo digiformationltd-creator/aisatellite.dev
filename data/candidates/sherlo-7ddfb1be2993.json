@@ -1,0 +1,20 @@
+{
+  "id": "sherlo-7ddfb1be2993",
+  "canonicalUrl": "https://sherlo.io/",
+  "name": "Sherlo",
+  "description": "Visual regression testing for React Native apps. Free plan: 1,000 snapshots/month, iOS & Android simulators.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sherlo.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sherlo.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

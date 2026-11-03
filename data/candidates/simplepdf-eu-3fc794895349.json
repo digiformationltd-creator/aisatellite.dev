@@ -1,0 +1,20 @@
+{
+  "id": "simplepdf-eu-3fc794895349",
+  "canonicalUrl": "https://simplepdf.eu/embed",
+  "name": "SimplePDF.eu",
+  "description": "Embed a PDF editor on your website and turn any PDF into a fillable form. The free plan allows unlimited PDFs with three submissions per PDF.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://simplepdf.eu/embed",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://simplepdf.eu/embed"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

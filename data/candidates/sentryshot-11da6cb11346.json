@@ -1,0 +1,20 @@
+{
+  "id": "sentryshot-11da6cb11346",
+  "canonicalUrl": "https://codeberg.org/SentryShot/sentryshot",
+  "name": "SentryShot",
+  "description": "Video surveillance management system. `GPL-2.0` `Docker/Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://codeberg.org/SentryShot/sentryshot",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codeberg.org/SentryShot/sentryshot"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "instatus-com-e94e355a4811",
+  "canonicalUrl": "https://instatus.com/",
+  "name": "instatus.com",
+  "description": "Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://instatus.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://instatus.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

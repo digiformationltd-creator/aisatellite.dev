@@ -1,0 +1,20 @@
+{
+  "id": "freecodecamp-bdb0bdd9c47f",
+  "canonicalUrl": "https://www.freecodecamp.org/",
+  "name": "FreeCodeCamp",
+  "description": "Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.freecodecamp.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.freecodecamp.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

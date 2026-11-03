@@ -1,0 +1,20 @@
+{
+  "id": "proxysentry-4d8a11e6e3fc",
+  "canonicalUrl": "https://proxysentry.io/",
+  "name": "ProxySentry",
+  "description": "IP API that detects residential proxies and VPNs. ProxySentry.io offers a free tier with 10k requests per month on rapidapi.com.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://proxysentry.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://proxysentry.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

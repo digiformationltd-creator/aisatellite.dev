@@ -1,0 +1,20 @@
+{
+  "id": "elengrab-437b778548e4",
+  "canonicalUrl": "https://github.com/neosy/elengrab",
+  "name": "Elengrab",
+  "description": "Fast cross-platform video and audio downloader and media viewer with flexible format and quality options. Supports 1000+ websites including YouTube, Instagram, TikTok, Twitch and more. ([Demo](https://elengrab.n-hub.ru)) `AGPL-3.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/neosy/elengrab",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/neosy/elengrab"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

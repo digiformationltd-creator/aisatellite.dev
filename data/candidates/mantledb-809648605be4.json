@@ -1,0 +1,20 @@
+{
+  "id": "mantledb-809648605be4",
+  "canonicalUrl": "https://mantledb.sh/",
+  "name": "MantleDB",
+  "description": "Anonymous JSON storage for scripts and tiny apps. No signup required; uses Master AID for updates and Read-Only RID for public fetching. Free tier includes 1 bucket (1MB limit) with a 72h inactivity scavenger policy.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mantledb.sh",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mantledb.sh"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

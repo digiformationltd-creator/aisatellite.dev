@@ -1,0 +1,20 @@
+{
+  "id": "public-cloud-threat-intelligence-f7c04ba7520d",
+  "canonicalUrl": "https://cloudintel.himanshuanand.com/",
+  "name": "Public Cloud Threat Intelligence",
+  "description": "High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks). Full list is available via API",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloudintel.himanshuanand.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloudintel.himanshuanand.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

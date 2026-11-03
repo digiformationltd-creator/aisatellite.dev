@@ -1,0 +1,21 @@
+{
+  "id": "microlink-io-153a6f5fe144",
+  "canonicalUrl": "https://microlink.io/",
+  "name": "microlink.io",
+  "description": "It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 50 requests/day every day free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://microlink.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://microlink.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:47.250Z",
+  "githubStars": 0
+}

@@ -1,0 +1,20 @@
+{
+  "id": "meuscrum-aaec2789e2e1",
+  "canonicalUrl": "https://www.meuscrum.com/en",
+  "name": "MeuScrum",
+  "description": "Free online scrum tool with kanban board",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.meuscrum.com/en",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.meuscrum.com/en"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

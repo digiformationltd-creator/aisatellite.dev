@@ -1,0 +1,20 @@
+{
+  "id": "everything-fonts-ef1cb08dcc18",
+  "canonicalUrl": "https://everythingfonts.com/",
+  "name": "Everything Fonts",
+  "description": "Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://everythingfonts.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://everythingfonts.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

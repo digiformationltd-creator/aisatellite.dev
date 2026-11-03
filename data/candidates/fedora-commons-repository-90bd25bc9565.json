@@ -1,0 +1,20 @@
+{
+  "id": "fedora-commons-repository-90bd25bc9565",
+  "canonicalUrl": "https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home",
+  "name": "Fedora Commons Repository",
+  "description": "Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

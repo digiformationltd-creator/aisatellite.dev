@@ -1,0 +1,20 @@
+{
+  "id": "shortcut-6ba0ebcb9d17",
+  "canonicalUrl": "https://shortcut.com/",
+  "name": "Shortcut",
+  "description": "Project management platform. Free for up to 10 users forever.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://shortcut.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://shortcut.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

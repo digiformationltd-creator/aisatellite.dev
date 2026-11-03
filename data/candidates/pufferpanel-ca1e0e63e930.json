@@ -1,0 +1,20 @@
+{
+  "id": "pufferpanel-ca1e0e63e930",
+  "canonicalUrl": "https://www.pufferpanel.com/",
+  "name": "PufferPanel",
+  "description": "Game server management panel designed for both small networks and game server providers. ([Source Code](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.pufferpanel.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.pufferpanel.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

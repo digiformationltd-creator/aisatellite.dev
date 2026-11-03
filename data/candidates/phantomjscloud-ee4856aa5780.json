@@ -1,0 +1,20 @@
+{
+  "id": "phantomjscloud-ee4856aa5780",
+  "canonicalUrl": "https://phantomjscloud.com/",
+  "name": "PhantomJsCloud",
+  "description": "Browser automation and page rendering.  Free Tier offers up to 500 pages/day.  Free Tier since 2017.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://PhantomJsCloud.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://PhantomJsCloud.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

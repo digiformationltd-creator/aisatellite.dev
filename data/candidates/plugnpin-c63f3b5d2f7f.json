@@ -1,0 +1,20 @@
+{
+  "id": "plugnpin-c63f3b5d2f7f",
+  "canonicalUrl": "https://deepspace2.github.io/PlugNPiN",
+  "name": "PlugNPiN",
+  "description": "Automatically scrapes containers with specific labels and creates local DNS/CNAME entries in Pi-Hole/AdGuard Home and proxy hosts in Nginx Proxy Manager. ([Source Code](https://github.com/deepspace2/plugnpin)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://deepspace2.github.io/PlugNPiN",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://deepspace2.github.io/PlugNPiN"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

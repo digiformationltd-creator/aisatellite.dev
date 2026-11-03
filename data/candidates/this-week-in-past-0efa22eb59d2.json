@@ -1,0 +1,20 @@
+{
+  "id": "this-week-in-past-0efa22eb59d2",
+  "canonicalUrl": "https://github.com/RouHim/this-week-in-past",
+  "name": "This week in past",
+  "description": "Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/RouHim/this-week-in-past",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/RouHim/this-week-in-past"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

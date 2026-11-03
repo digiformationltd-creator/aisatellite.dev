@@ -1,0 +1,20 @@
+{
+  "id": "safebucket-7f198ccfc600",
+  "canonicalUrl": "https://docs.safebucket.io/",
+  "name": "Safebucket",
+  "description": "File sharing platform with pluggable infrastructure, where uploads and downloads go directly between clients and S3-compatible storage. ([Source Code](https://github.com/safebucket/safebucket)) `Apache-2.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docs.safebucket.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docs.safebucket.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

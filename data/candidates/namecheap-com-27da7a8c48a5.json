@@ -1,0 +1,20 @@
+{
+  "id": "namecheap-com-27da7a8c48a5",
+  "canonicalUrl": "https://www.namecheap.com/domains/freedns",
+  "name": "namecheap.com",
+  "description": "Free DNS. No limit on the number of domains",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.namecheap.com/domains/freedns/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.namecheap.com/domains/freedns/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

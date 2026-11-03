@@ -1,0 +1,20 @@
+{
+  "id": "makeform-94eb8757ea7a",
+  "canonicalUrl": "https://www.makeform.ai/",
+  "name": "Makeform",
+  "description": "Chat-based form builder. The free form builder with unlimited forms and submissions. 99% of the features are free, includes adding logos, conditional logic, file uploads, payments, integrations, and webhooks. Pro Plan ($19/month) enables remove the Makeform Branding, custom domains and team features. Business plan ($59/month) enables RBAC, email verification and single sign on (SSO).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.makeform.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.makeform.ai/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

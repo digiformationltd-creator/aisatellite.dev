@@ -1,0 +1,20 @@
+{
+  "id": "kanbantool-com-e967ce5b39fb",
+  "canonicalUrl": "https://kanbantool.com/",
+  "name": "kanbantool.com",
+  "description": "Kanban board-based project management. The free plan has two boards and two users, without attachments or files.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://kanbantool.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://kanbantool.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "visual-studio-community-b3a2a9beb32a",
+  "canonicalUrl": "https://visualstudio.microsoft.com/vs/community",
+  "name": "Visual Studio Community",
+  "description": "Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://visualstudio.microsoft.com/vs/community/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://visualstudio.microsoft.com/vs/community/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

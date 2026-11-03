@@ -1,0 +1,20 @@
+{
+  "id": "quickchart-3d384d2d3034",
+  "canonicalUrl": "https://quickchart.io/",
+  "name": "QuickChart",
+  "description": "Generate embeddable image charts, graphs, and QR codes",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://quickchart.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://quickchart.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

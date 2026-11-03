@@ -1,0 +1,20 @@
+{
+  "id": "bichon-bb5b0667a026",
+  "canonicalUrl": "https://github.com/rustmailer/bichon",
+  "name": "Bichon",
+  "description": "Email archiving server that syncs from IMAP accounts, indexes emails for full-text search, and provides a REST API. No external database required, includes WebUI with multi-account support. `AGPL-3.0` `Rust/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/rustmailer/bichon",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/rustmailer/bichon"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "trac-2abdb145bada",
+  "canonicalUrl": "https://trac.edgewall.org/",
+  "name": "Trac",
+  "description": "Enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://trac.edgewall.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://trac.edgewall.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

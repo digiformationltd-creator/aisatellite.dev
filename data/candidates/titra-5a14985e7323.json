@@ -1,0 +1,20 @@
+{
+  "id": "titra-5a14985e7323",
+  "canonicalUrl": "https://titra.io/",
+  "name": "Titra",
+  "description": "Time-tracking solution for freelancers and small teams. ([Source Code](https://github.com/titraio/titra)) `GPL-3.0` `Javascript/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://titra.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://titra.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

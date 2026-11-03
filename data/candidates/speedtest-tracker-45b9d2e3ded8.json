@@ -1,0 +1,20 @@
+{
+  "id": "speedtest-tracker-45b9d2e3ded8",
+  "canonicalUrl": "https://docs.speedtest-tracker.dev/",
+  "name": "Speedtest Tracker",
+  "description": "Monitor the performance and uptime of your internet connection. ([Source Code](https://github.com/alexjustesen/speedtest-tracker)) `MIT` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docs.speedtest-tracker.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docs.speedtest-tracker.dev/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

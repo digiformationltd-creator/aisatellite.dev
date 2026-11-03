@@ -1,0 +1,20 @@
+{
+  "id": "sshwifty-35f62fab8e1a",
+  "canonicalUrl": "https://github.com/nirui/sshwifty",
+  "name": "Sshwifty",
+  "description": "SSH and Telnet connector made for the Web. ([Demo](https://sshwifty-demo.nirui.org)) `AGPL-3.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/nirui/sshwifty",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/nirui/sshwifty"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

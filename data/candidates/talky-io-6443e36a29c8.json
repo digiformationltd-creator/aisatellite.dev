@@ -1,0 +1,20 @@
+{
+  "id": "talky-io-6443e36a29c8",
+  "canonicalUrl": "https://talky.io/",
+  "name": "talky.io",
+  "description": "Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://talky.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://talky.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

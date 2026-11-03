@@ -1,0 +1,20 @@
+{
+  "id": "snappymail-d2b1cfbc01a7",
+  "canonicalUrl": "https://github.com/the-djmaze/snappymail",
+  "name": "SnappyMail",
+  "description": "Simple, modern, lightweight & fast web-based email client (fork of RainLoop). `AGPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/the-djmaze/snappymail",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/the-djmaze/snappymail"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

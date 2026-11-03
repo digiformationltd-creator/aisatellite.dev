@@ -1,0 +1,20 @@
+{
+  "id": "libredb-studio-5e94a49eda74",
+  "canonicalUrl": "https://libredb.org/",
+  "name": "LibreDB Studio",
+  "description": "Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, ClickHouse, DuckDB and more, with SSO, audit trail, ER diagrams and optional AI assistance on your own model key (alternative to DataGrip, DBeaver, CloudBeaver). ([Source Code](https://github.com/libredb/libredb-studio)) `MIT` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://libredb.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://libredb.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

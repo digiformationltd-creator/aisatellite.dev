@@ -1,0 +1,20 @@
+{
+  "id": "mutant-mail-56654cad3be2",
+  "canonicalUrl": "https://www.mutantmail.com/",
+  "name": "Mutant Mail",
+  "description": "Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.mutantmail.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.mutantmail.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

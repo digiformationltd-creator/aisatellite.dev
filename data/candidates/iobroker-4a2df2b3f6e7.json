@@ -1,0 +1,20 @@
+{
+  "id": "iobroker-4a2df2b3f6e7",
+  "canonicalUrl": "https://www.iobroker.net/",
+  "name": "ioBroker",
+  "description": "Integration platform for the Internet of Things, focused on building automation, smart metering, ambient assisted living, process automation, visualization and data logging. ([Source Code](https://github.com/ioBroker/ioBroker)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.iobroker.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.iobroker.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bracket-7016ded6eb18",
+  "canonicalUrl": "https://docs.bracketapp.nl/",
+  "name": "Bracket",
+  "description": "Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Demo](https://www.bracketapp.nl/demo), [Source Code](https://github.com/evroon/bracket)) `AGPL-3.0` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docs.bracketapp.nl/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docs.bracketapp.nl/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

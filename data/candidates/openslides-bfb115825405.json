@@ -1,0 +1,20 @@
+{
+  "id": "openslides-bfb115825405",
+  "canonicalUrl": "https://openslides.com/",
+  "name": "OpenSlides",
+  "description": "Presentation and assembly system for managing and projecting agenda, motions and elections of an assembly. ([Demo](https://demo.openslides.org/login), [Source Code](https://github.com/OpenSlides/OpenSlides)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://openslides.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://openslides.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

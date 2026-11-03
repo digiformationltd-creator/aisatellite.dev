@@ -1,0 +1,20 @@
+{
+  "id": "upstash-21c36a6ace24",
+  "canonicalUrl": "https://upstash.com/",
+  "name": "Upstash",
+  "description": "Serverless Redis with free tier up to 500K monthly commands, 256MB max database size, and 20 concurrent connections",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://upstash.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://upstash.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

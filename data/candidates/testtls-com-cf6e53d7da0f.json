@@ -1,0 +1,20 @@
+{
+  "id": "testtls-com-cf6e53d7da0f",
+  "canonicalUrl": "https://testtls.com/",
+  "name": "TestTLS.com",
+  "description": "Test an SSL/TLS service for secure server configuration, certificates, chains, etc. Not limited to HTTPS.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://testtls.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://testtls.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

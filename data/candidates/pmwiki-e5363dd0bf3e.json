@@ -1,0 +1,20 @@
+{
+  "id": "pmwiki-e5363dd0bf3e",
+  "canonicalUrl": "https://www.pmwiki.org/",
+  "name": "PmWiki",
+  "description": "Wiki-based system for collaborative creation and maintenance of websites. `GPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.pmwiki.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.pmwiki.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wygiwyh-0169e6e5848a",
+  "canonicalUrl": "https://github.com/eitchtee/WYGIWYH",
+  "name": "WYGIWYH",
+  "description": "Simple and powerful finance tracker. ([Demo](https://wygiwyh-demo.herculino.com/)) `AGPL-3.0` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/eitchtee/WYGIWYH",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/eitchtee/WYGIWYH"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

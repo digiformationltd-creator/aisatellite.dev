@@ -1,0 +1,20 @@
+{
+  "id": "layerbase-8eeb9b1f18d3",
+  "canonicalUrl": "https://layerbase.com/",
+  "name": "Layerbase",
+  "description": "2 free managed databases, pick from: Postgres, MariaDB, Redis, Valkey, DuckDB, SQLite, libSQL, and TypeDB. All with TLS. Branch 7 of 8 free engines, 1 branch per database - 10 GB/day, 50 GB/week, 150 GB/month throughput limits on free. 10 additional engines available on higher tiers with no meters.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://layerbase.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://layerbase.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

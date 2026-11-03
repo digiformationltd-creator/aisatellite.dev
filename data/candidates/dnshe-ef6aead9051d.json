@@ -1,0 +1,20 @@
+{
+  "id": "dnshe-ef6aead9051d",
+  "canonicalUrl": "https://www.dnshe.com/",
+  "name": "DNSHE",
+  "description": "Free subdomain registration across multiple domain suffixes, with custom nameserver support.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.dnshe.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.dnshe.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

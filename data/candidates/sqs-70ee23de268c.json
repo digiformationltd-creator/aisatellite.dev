@@ -1,0 +1,20 @@
+{
+  "id": "sqs-70ee23de268c",
+  "canonicalUrl": "https://aws.amazon.com/sqs",
+  "name": "SQS",
+  "description": "1 million messaging queue requests",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://aws.amazon.com/sqs/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aws.amazon.com/sqs/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

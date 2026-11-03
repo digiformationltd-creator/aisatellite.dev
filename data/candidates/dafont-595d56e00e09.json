@@ -1,0 +1,20 @@
+{
+  "id": "dafont-595d56e00e09",
+  "canonicalUrl": "https://www.dafont.com/",
+  "name": "dafont",
+  "description": "The fonts presented on this website are their authors' property and are either freeware, shareware, demo versions, or public domain.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.dafont.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.dafont.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

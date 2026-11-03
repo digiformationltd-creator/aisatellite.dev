@@ -1,0 +1,20 @@
+{
+  "id": "hex-8bef66db9a8b",
+  "canonicalUrl": "https://hex.tech/",
+  "name": "Hex",
+  "description": "a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://hex.tech/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hex.tech/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

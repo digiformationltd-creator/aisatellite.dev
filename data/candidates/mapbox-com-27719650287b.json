@@ -1,0 +1,20 @@
+{
+  "id": "mapbox-com-27719650287b",
+  "canonicalUrl": "https://www.mapbox.com/",
+  "name": "mapbox.com",
+  "description": "Maps, geospatial services and SDKs for displaying map data.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.mapbox.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.mapbox.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

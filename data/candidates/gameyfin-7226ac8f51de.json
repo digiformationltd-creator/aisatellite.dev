@@ -1,0 +1,20 @@
+{
+  "id": "gameyfin-7226ac8f51de",
+  "canonicalUrl": "https://gameyfin.org/",
+  "name": "Gameyfin",
+  "description": "Video game library manager with automatic scanning, web access, downloads, and plugin support. ([Source Code](https://github.com/gameyfin/gameyfin)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gameyfin.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gameyfin.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

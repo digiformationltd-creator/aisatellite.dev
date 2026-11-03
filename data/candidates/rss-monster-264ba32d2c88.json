@@ -1,0 +1,20 @@
+{
+  "id": "rss-monster-264ba32d2c88",
+  "canonicalUrl": "https://github.com/pietheinstrengholt/rssmonster",
+  "name": "RSS Monster",
+  "description": "Easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader). `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/pietheinstrengholt/rssmonster",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/pietheinstrengholt/rssmonster"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

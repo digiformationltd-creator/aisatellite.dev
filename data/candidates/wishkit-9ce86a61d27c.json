@@ -1,0 +1,20 @@
+{
+  "id": "wishkit-9ce86a61d27c",
+  "canonicalUrl": "https://www.wishkit.io/",
+  "name": "WishKit",
+  "description": "In-app feature request and feedback board for iOS and web apps where users submit and vote on features. Free forever plan with no card: 1 project, iOS and web SDKs, unlimited users, shows the first 5 feature requests.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.wishkit.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.wishkit.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z"
+}

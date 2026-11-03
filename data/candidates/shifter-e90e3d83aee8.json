@@ -1,0 +1,20 @@
+{
+  "id": "shifter-e90e3d83aee8",
+  "canonicalUrl": "https://github.com/TobySuch/Shifter",
+  "name": "Shifter",
+  "description": "Simple file-sharing web app. `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/TobySuch/Shifter",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/TobySuch/Shifter"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "maptiler-com-b127e43c23de",
+  "canonicalUrl": "https://www.maptiler.com/cloud",
+  "name": "maptiler.com",
+  "description": "Vector maps, map services and SDKs for map visualization. Free vector tiles with weekly updates and four map styles.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.maptiler.com/cloud/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.maptiler.com/cloud/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

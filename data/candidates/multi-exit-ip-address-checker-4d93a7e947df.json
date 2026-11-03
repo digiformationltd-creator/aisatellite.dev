@@ -1,0 +1,20 @@
+{
+  "id": "multi-exit-ip-address-checker-4d93a7e947df",
+  "canonicalUrl": "https://ip.alstra.ca/",
+  "name": "Multi-Exit IP Address Checker",
+  "description": "A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ip.alstra.ca/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ip.alstra.ca/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

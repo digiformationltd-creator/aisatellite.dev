@@ -1,0 +1,20 @@
+{
+  "id": "wraps-a0ebf2edd1ef",
+  "canonicalUrl": "https://wraps.dev/",
+  "name": "Wraps",
+  "description": "Email infrastructure deployed to your own AWS account (SES), with a dashboard. Pay AWS directly for sending. Free plan covers 1 AWS account, unlimited domains and contacts.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://wraps.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wraps.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

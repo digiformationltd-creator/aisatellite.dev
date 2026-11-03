@@ -1,0 +1,20 @@
+{
+  "id": "trek-e01a3299dad3",
+  "canonicalUrl": "https://github.com/liketrek/TREK",
+  "name": "TREK",
+  "description": "Collaborative trip planner with interactive maps, day-by-day itineraries, budgets, packing lists, reservations, journey journaling, and PWA support. ([Demo](https://demo.liketrek.com/)) `AGPL-3.0` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/liketrek/TREK",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/liketrek/TREK"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mylar3-ffc63abfdd12",
+  "canonicalUrl": "https://mylar.nerdfirehurricane.com/",
+  "name": "Mylar3",
+  "description": "Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code](https://github.com/MylarComics/mylar3)) `GPL-3.0` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mylar.nerdfirehurricane.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mylar.nerdfirehurricane.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

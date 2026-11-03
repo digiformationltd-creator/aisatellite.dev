@@ -1,0 +1,20 @@
+{
+  "id": "micro-jaymock-275462446fe9",
+  "canonicalUrl": "https://micro-jaymock.now.sh/",
+  "name": "micro-jaymock",
+  "description": "Tiny API mocking microservice for generating fake JSON data.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://micro-jaymock.now.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://micro-jaymock.now.sh/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

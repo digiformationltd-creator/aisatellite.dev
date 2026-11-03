@@ -1,0 +1,20 @@
+{
+  "id": "skyvia-com-d623cf86c3c9",
+  "canonicalUrl": "https://skyvia.com/",
+  "name": "skyvia.com",
+  "description": "Cloud Data Platform offers a free tier and all plans are completely free while in beta",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://skyvia.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://skyvia.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "the-battle-for-wesnoth-322e6c29cba3",
+  "canonicalUrl": "https://github.com/wesnoth/wesnoth",
+  "name": "The Battle for Wesnoth",
+  "description": "Turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/wesnoth/wesnoth",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/wesnoth/wesnoth"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

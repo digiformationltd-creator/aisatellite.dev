@@ -1,0 +1,20 @@
+{
+  "id": "chromeremotedesktop-483908c3dc04",
+  "canonicalUrl": "https://remotedesktop.google.com/",
+  "name": "ChromeRemoteDesktop",
+  "description": "Free remote desktop app with practically no limit on the number of devices, owned by Google, so needs a Google account.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://remotedesktop.google.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://remotedesktop.google.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.776Z",
+  "updatedAt": "2026-11-03T07:24:44.776Z"
+}

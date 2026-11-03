@@ -1,0 +1,20 @@
+{
+  "id": "mobilizon-0b65fa61b02c",
+  "canonicalUrl": "https://mobilizon.org/",
+  "name": "Mobilizon",
+  "description": "Federated tool that helps you find, create and organise events and groups. ([Source Code](https://framagit.org/framasoft/mobilizon/)) `AGPL-3.0` `Elixir/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mobilizon.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mobilizon.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

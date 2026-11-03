@@ -1,0 +1,20 @@
+{
+  "id": "a-dark-room-1cb0df482003",
+  "canonicalUrl": "https://github.com/doublespeakgames/adarkroom",
+  "name": "A Dark Room",
+  "description": "Minimalist text adventure game for your browser. ([Demo](https://adarkroom.doublespeakgames.com/)) `MPL-2.0` `Javascript`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/doublespeakgames/adarkroom",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/doublespeakgames/adarkroom"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

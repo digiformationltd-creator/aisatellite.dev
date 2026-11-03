@@ -1,0 +1,20 @@
+{
+  "id": "canvas-lms-3b3b201ea79c",
+  "canonicalUrl": "https://www.instructure.com/canvas",
+  "name": "Canvas LMS",
+  "description": "Learning management system (LMS) that is revolutionizing the way we educate. ([Source Code](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.instructure.com/canvas/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.instructure.com/canvas/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

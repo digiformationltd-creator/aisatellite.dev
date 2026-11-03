@@ -1,0 +1,20 @@
+{
+  "id": "gitproxy-e081adc8a20b",
+  "canonicalUrl": "https://git-proxy.finos.org/",
+  "name": "GitProxy",
+  "description": "Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. ([Source Code](https://github.com/finos/git-proxy)) `Apache-2.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://git-proxy.finos.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://git-proxy.finos.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

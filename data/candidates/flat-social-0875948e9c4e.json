@@ -1,0 +1,20 @@
+{
+  "id": "flat-social-0875948e9c4e",
+  "canonicalUrl": "https://flat.social/",
+  "name": "flat.social",
+  "description": "Interactive customizable spaces for team meetings & happy hours socials. Unlimited meetings, free up to 8 concurrent users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://flat.social",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://flat.social"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

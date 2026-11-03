@@ -1,0 +1,20 @@
+{
+  "id": "reviewable-io-a3afa98f6721",
+  "canonicalUrl": "https://reviewable.io/",
+  "name": "reviewable.io",
+  "description": "Code review for GitHub repositories, free for public or personal repos.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://reviewable.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://reviewable.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

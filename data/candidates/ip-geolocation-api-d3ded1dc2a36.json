@@ -1,0 +1,20 @@
+{
+  "id": "ip-geolocation-api-d3ded1dc2a36",
+  "canonicalUrl": "https://www.abstractapi.com/ip-geolocation-api",
+  "name": "IP Geolocation API",
+  "description": "IP Geolocation API from Abstract - Allows 1,000 free requests.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.abstractapi.com/ip-geolocation-api",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.abstractapi.com/ip-geolocation-api"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

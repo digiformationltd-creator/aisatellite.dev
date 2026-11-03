@@ -1,0 +1,20 @@
+{
+  "id": "service-bus-3c6a8e882c3e",
+  "canonicalUrl": "https://azure.microsoft.com/products/service-bus",
+  "name": "Service Bus",
+  "description": "750 hours and 13 million operations Standard tier base unit (12mo)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/products/service-bus/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/products/service-bus/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

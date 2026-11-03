@@ -1,0 +1,20 @@
+{
+  "id": "jsoning-005c3e5cf24a",
+  "canonicalUrl": "https://jsoning.com/api",
+  "name": "JSONing",
+  "description": "Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://jsoning.com/api/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://jsoning.com/api/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

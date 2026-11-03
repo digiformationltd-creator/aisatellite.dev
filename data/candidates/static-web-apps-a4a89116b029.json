@@ -1,0 +1,20 @@
+{
+  "id": "static-web-apps-a4a89116b029",
+  "canonicalUrl": "https://azure.microsoft.com/pricing/details/app-service/static",
+  "name": "Static Web Apps",
+  "description": "Build, deploy, and host static apps and serverless functions with free SSL, Authentication/Authorization, and custom domains",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/pricing/details/app-service/static/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/pricing/details/app-service/static/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

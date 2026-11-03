@@ -1,0 +1,20 @@
+{
+  "id": "jitsi-video-bridge-0f38baca3d89",
+  "canonicalUrl": "https://jitsi.org/Projects/JitsiVideobridge",
+  "name": "Jitsi Video Bridge",
+  "description": "WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. ([Source Code](https://github.com/jitsi/jitsi-videobridge)) `Apache-2.0` `Java/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://jitsi.org/Projects/JitsiVideobridge",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://jitsi.org/Projects/JitsiVideobridge"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

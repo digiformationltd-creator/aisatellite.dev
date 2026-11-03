@@ -1,0 +1,20 @@
+{
+  "id": "keystonejs-335aad58e9de",
+  "canonicalUrl": "https://keystonejs.com/",
+  "name": "KeystoneJS",
+  "description": "CMS and web application platform. ([Source Code](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://keystonejs.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://keystonejs.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

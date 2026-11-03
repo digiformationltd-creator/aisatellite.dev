@@ -1,0 +1,20 @@
+{
+  "id": "inspect-software-5249039364a2",
+  "canonicalUrl": "https://inspect.software/",
+  "name": "inspect.software",
+  "description": "Public record of automated open-source repository audits: security posture, maintainability, dependency health, and malicious-package checks, with a versioned methodology and grade badges. Free tier: full access to all published reports, automatic coverage of repositories above the public-interest threshold (≥500 stars, ≥50 forks, or org-owned with ≥250 stars), embeddable badges, and 100 starting credits (5 inspections) for below-threshold repositories.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://inspect.software/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://inspect.software/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

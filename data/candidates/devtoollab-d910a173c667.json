@@ -1,0 +1,20 @@
+{
+  "id": "devtoollab-d910a173c667",
+  "canonicalUrl": "https://devtoollab.com/",
+  "name": "DevToolLab",
+  "description": "Online developer tools offering free access to all basic tools, with the ability to auto save one entry per tool, standard processing speed, and community support.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://devtoollab.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://devtoollab.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

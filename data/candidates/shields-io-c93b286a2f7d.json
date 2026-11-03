@@ -1,0 +1,20 @@
+{
+  "id": "shields-io-c93b286a2f7d",
+  "canonicalUrl": "https://shields.io/",
+  "name": "shields.io",
+  "description": "Quality metadata badges for open source projects",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://shields.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://shields.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

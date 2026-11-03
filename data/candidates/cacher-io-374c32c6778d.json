@@ -1,0 +1,20 @@
+{
+  "id": "cacher-io-374c32c6778d",
+  "canonicalUrl": "https://www.cacher.io/",
+  "name": "cacher.io",
+  "description": "Code snippet organizer with labels and support for 100+ programming languages.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.cacher.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cacher.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

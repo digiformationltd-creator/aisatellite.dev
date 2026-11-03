@@ -1,0 +1,20 @@
+{
+  "id": "eonvelope-61bf64578f8c",
+  "canonicalUrl": "https://dacid99.gitlab.io/eonvelope",
+  "name": "Eonvelope",
+  "description": "Email archiving software that allows you to preserve your emails for an indefinite long period of time. ([Source Code](https://gitlab.com/dacid99/eonvelope)) `AGPL-3.0` `K8S/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://dacid99.gitlab.io/eonvelope",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dacid99.gitlab.io/eonvelope"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

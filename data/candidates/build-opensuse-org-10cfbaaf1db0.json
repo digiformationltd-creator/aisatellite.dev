@@ -1,0 +1,20 @@
+{
+  "id": "build-opensuse-org-10cfbaaf1db0",
+  "canonicalUrl": "https://build.opensuse.org/",
+  "name": "build.opensuse.org",
+  "description": "Package build service for multiple distros (SUSE, EL, Fedora, Debian, etc.).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://build.opensuse.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://build.opensuse.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

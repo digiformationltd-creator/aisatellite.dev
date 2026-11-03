@@ -1,0 +1,20 @@
+{
+  "id": "ever-gauzy-7edae09db9ec",
+  "canonicalUrl": "https://gauzy.co/",
+  "name": "Ever Gauzy",
+  "description": "Open business management platform for collaborative, on-demand and sharing economies (ERP/CRM/HRM/ATS/PM). ([Demo](https://demo.gauzy.co), [Source Code](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gauzy.co",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gauzy.co"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dokuwiki-3bca5d1d563d",
+  "canonicalUrl": "https://www.dokuwiki.org/DokuWiki",
+  "name": "Dokuwiki",
+  "description": "Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code](https://github.com/dokuwiki/dokuwiki)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.dokuwiki.org/DokuWiki",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.dokuwiki.org/DokuWiki"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

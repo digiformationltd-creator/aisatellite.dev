@@ -1,0 +1,20 @@
+{
+  "id": "psitransfer-4a66a77b4c81",
+  "canonicalUrl": "https://github.com/psi-4ward/psitransfer",
+  "name": "PsiTransfer",
+  "description": "Simple file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/psi-4ward/psitransfer",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/psi-4ward/psitransfer"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "appish-5e186c9554ba",
+  "canonicalUrl": "https://appi.sh/",
+  "name": "Appish",
+  "description": "Host Docker containers for demos with just a docker push. Free tier includes 1 slot with 2-hour sessions.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://appi.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://appi.sh/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

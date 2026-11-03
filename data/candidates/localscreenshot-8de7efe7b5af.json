@@ -1,0 +1,20 @@
+{
+  "id": "localscreenshot-8de7efe7b5af",
+  "canonicalUrl": "https://localscreenshot.com/",
+  "name": "localscreenshot",
+  "description": "Screenshot API that turns any public page into an image or a PDF, from 227 countries, with cookie banners, ads and chat widgets hidden. Also runs as an MCP server, so AI agents take screenshots on their own. Free plan includes 50 screenshots every month, no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://localscreenshot.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://localscreenshot.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

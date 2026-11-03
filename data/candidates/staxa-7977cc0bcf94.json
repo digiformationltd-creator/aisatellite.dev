@@ -1,0 +1,20 @@
+{
+  "id": "staxa-7977cc0bcf94",
+  "canonicalUrl": "https://staxa.dev/",
+  "name": "Staxa",
+  "description": "Multi-tenant app hosting: each tenant gets its own app, database, subdomain and TLS in an isolated Kubernetes namespace through either a web app or API integration. Free tier includes 2 tenants with up to 2 services each (0.5 vCPU, 512 MB), free apps sleep after 24 hours of being idle.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://staxa.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://staxa.dev/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

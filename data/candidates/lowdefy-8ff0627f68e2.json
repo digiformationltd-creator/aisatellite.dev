@@ -1,0 +1,20 @@
+{
+  "id": "lowdefy-8ff0627f68e2",
+  "canonicalUrl": "https://www.lowdefy.com/",
+  "name": "Lowdefy",
+  "description": "Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON. ([Source Code](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.lowdefy.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.lowdefy.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

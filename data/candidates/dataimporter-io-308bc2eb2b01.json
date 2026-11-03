@@ -1,0 +1,20 @@
+{
+  "id": "dataimporter-io-308bc2eb2b01",
+  "canonicalUrl": "https://www.dataimporter.io/",
+  "name": "Dataimporter.io",
+  "description": "Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.dataimporter.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.dataimporter.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

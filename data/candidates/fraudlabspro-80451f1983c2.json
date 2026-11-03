@@ -1,0 +1,21 @@
+{
+  "id": "fraudlabspro-80451f1983c2",
+  "canonicalUrl": "https://www.fraudlabspro.com/",
+  "name": "FraudLabsPRO",
+  "description": "Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.fraudlabspro.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.fraudlabspro.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:47.250Z",
+  "githubStars": 0
+}

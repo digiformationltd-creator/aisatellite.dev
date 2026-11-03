@@ -1,0 +1,20 @@
+{
+  "id": "appinvento-de4f65f5bd62",
+  "canonicalUrl": "https://appinvento.io/",
+  "name": "Appinvento",
+  "description": "A free no-code app builder. It provides complete access to the automatically generated backend source code and allows for unlimited APIs and routes. The free plan includes three projects and five tables.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://appinvento.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://appinvento.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

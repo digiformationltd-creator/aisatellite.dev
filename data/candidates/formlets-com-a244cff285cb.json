@@ -1,0 +1,20 @@
+{
+  "id": "formlets-com-a244cff285cb",
+  "canonicalUrl": "https://formlets.com/",
+  "name": "formlets.com",
+  "description": "Online forms, unlimited single page forms/month, 100 submissions/month, email notifications.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://formlets.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://formlets.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

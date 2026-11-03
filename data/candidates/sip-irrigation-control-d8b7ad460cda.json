@@ -1,0 +1,20 @@
+{
+  "id": "sip-irrigation-control-d8b7ad460cda",
+  "canonicalUrl": "https://dan-in-ca.github.io/SIP",
+  "name": "SIP Irrigation Control",
+  "description": "Software for sprinkler/irrigation control. ([Source Code](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://dan-in-ca.github.io/SIP/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dan-in-ca.github.io/SIP/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

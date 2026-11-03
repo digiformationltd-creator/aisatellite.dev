@@ -1,0 +1,20 @@
+{
+  "id": "cally-com-d1c45efdd7df",
+  "canonicalUrl": "https://cally.com/",
+  "name": "cally.com",
+  "description": "Find the perfect time and date for a meeting. Simple to use, works great for small and large groups.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cally.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cally.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

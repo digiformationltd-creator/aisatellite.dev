@@ -1,0 +1,22 @@
+{
+  "id": "flutterflow-d08fb6636034",
+  "canonicalUrl": "https://flutterflow.io/",
+  "name": "FlutterFlow",
+  "description": "FlutterFlow is a browser-based drag-and-drop interface to build mobile app using flutter.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://flutterflow.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://flutterflow.io",
+    "https://flutterflow.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:47.250Z",
+  "githubStars": 0
+}

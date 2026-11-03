@@ -1,0 +1,20 @@
+{
+  "id": "vaultwarden-4b5ff39c88f9",
+  "canonicalUrl": "https://github.com/dani-garcia/vaultwarden",
+  "name": "Vaultwarden",
+  "description": "Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/dani-garcia/vaultwarden",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/dani-garcia/vaultwarden"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

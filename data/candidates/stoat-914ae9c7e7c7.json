@@ -1,0 +1,20 @@
+{
+  "id": "stoat-914ae9c7e7c7",
+  "canonicalUrl": "https://stoat.chat/",
+  "name": "Stoat",
+  "description": "User-first chat platform built with modern web technologies. ([Source Code](https://github.com/stoatchat/self-hosted)) `AGPL-3.0/MIT` `Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://stoat.chat/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://stoat.chat/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

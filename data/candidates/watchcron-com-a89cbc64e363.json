@@ -1,0 +1,20 @@
+{
+  "id": "watchcron-com-a89cbc64e363",
+  "canonicalUrl": "https://watchcron.com/",
+  "name": "watchcron.com",
+  "description": "Cron job monitoring with heartbeat pings and alerts. Free tier with up to 5 monitors and email notifications.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://watchcron.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://watchcron.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

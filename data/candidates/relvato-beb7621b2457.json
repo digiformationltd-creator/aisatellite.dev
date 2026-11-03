@@ -1,0 +1,20 @@
+{
+  "id": "relvato-beb7621b2457",
+  "canonicalUrl": "https://www.relvato.com/",
+  "name": "Relvato",
+  "description": "Continuous website monitoring - Relvato rechecks all your site vitals (performance, critical user journeys, visual design, security, SEO, legal compliance, accessibility etc) after every code update. Free for one site, no card needed. MCP also available.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.relvato.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.relvato.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kyoo-bd59d1b1c55e",
+  "canonicalUrl": "https://github.com/zoriya/kyoo",
+  "name": "Kyoo",
+  "description": "Innovative media browser designed for seamless streaming of anime, series and movies, offering advanced features like dynamic transcoding, auto watch history and intelligent metadata retrieval. ([Demo](https://kyoo.zoriya.dev)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/zoriya/kyoo",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/zoriya/kyoo"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

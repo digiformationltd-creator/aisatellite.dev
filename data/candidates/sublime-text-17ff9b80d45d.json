@@ -1,0 +1,20 @@
+{
+  "id": "sublime-text-17ff9b80d45d",
+  "canonicalUrl": "https://www.sublimetext.com/",
+  "name": "Sublime Text",
+  "description": "Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.sublimetext.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.sublimetext.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

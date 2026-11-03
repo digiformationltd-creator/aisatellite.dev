@@ -1,0 +1,20 @@
+{
+  "id": "neonlink-12686b1afccc",
+  "canonicalUrl": "https://github.com/AlexSciFier/neonlink",
+  "name": "NeonLink",
+  "description": "Bookmark service with unique design and simple installation with Docker. `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/AlexSciFier/neonlink",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/AlexSciFier/neonlink"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

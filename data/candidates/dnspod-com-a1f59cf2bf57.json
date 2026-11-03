@@ -1,0 +1,20 @@
+{
+  "id": "dnspod-com-a1f59cf2bf57",
+  "canonicalUrl": "https://www.dnspod.com/",
+  "name": "dnspod.com",
+  "description": "Free DNS hosting.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.dnspod.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.dnspod.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cloudcertprep-b37f94c0d54e",
+  "canonicalUrl": "https://cloudcertprep.io/",
+  "name": "CloudCertPrep",
+  "description": "Free, open-source AWS certification practice exams with 1,050+ questions for CLF-C02. Features timed mock exams, domain practice, spaced repetition, and progress tracking.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloudcertprep.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloudcertprep.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "noip-at-0b6f3a399b8a",
+  "canonicalUrl": "https://noip.at/",
+  "name": "noip.at",
+  "description": "Free DDNS service without registration, tracking, logging or advertising. No limit to domains.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://noip.at/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://noip.at/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

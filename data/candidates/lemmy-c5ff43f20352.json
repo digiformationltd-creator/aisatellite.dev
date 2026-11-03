@@ -1,0 +1,20 @@
+{
+  "id": "lemmy-c5ff43f20352",
+  "canonicalUrl": "https://join-lemmy.org/",
+  "name": "Lemmy",
+  "description": "Link aggregator for the fediverse (alternative to Reddit). ([Source Code](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Docker/Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://join-lemmy.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://join-lemmy.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

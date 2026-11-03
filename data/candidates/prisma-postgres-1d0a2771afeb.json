@@ -1,0 +1,20 @@
+{
+  "id": "prisma-postgres-1d0a2771afeb",
+  "canonicalUrl": "https://prisma.io/postgres",
+  "name": "Prisma Postgres",
+  "description": "Super fast hosted Postgres (PostgreSQL 17) built on unikernels and running on bare metal, with zero cold starts. Free plan includes 1.01 GB storage, 200k operations per month and 50 databases, no credit card required. Works with any Postgres client or ORM.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://prisma.io/postgres",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://prisma.io/postgres"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

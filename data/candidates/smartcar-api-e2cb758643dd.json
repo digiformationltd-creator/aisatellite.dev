@@ -1,0 +1,20 @@
+{
+  "id": "smartcar-api-e2cb758643dd",
+  "canonicalUrl": "https://smartcar.com/",
+  "name": "Smartcar API",
+  "description": "An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://smartcar.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://smartcar.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

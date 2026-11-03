@@ -1,0 +1,20 @@
+{
+  "id": "cronalive-com-32ae4c7aad26",
+  "canonicalUrl": "https://cronalive.com/",
+  "name": "cronalive.com",
+  "description": "Heartbeat monitoring for cron jobs, plus HTTP uptime and TLS expiry checks, and a Laravel package that creates checks from your scheduler. Free tier with 10 checks, HTTP interval from 5 min, 30 days of history, 50k pings/mo.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cronalive.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cronalive.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

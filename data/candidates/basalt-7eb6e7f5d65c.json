@@ -1,0 +1,38 @@
+{
+  "id": "basalt-7eb6e7f5d65c",
+  "canonicalUrl": "https://github.com/goodmai/basalt",
+  "name": "basalt",
+  "description": "Turn your Mac into a local LLM server: MLX on Metal, OpenAI + Anthropic API + MCP, pure Swift. Point Claude Code at it.",
+  "category": "local-llm",
+  "tags": [
+    "anthropic-api",
+    "apple-silicon",
+    "claude-code",
+    "gemma",
+    "homebrew",
+    "inference-server",
+    "llm-inference",
+    "local-llm",
+    "mcp",
+    "metal",
+    "mlx",
+    "on-device-ai",
+    "openai-api",
+    "qwen",
+    "swift"
+  ],
+  "repositoryUrl": "https://github.com/goodmai/basalt",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/goodmai/basalt/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T06:27:06Z",
+  "evidenceUrls": [
+    "https://github.com/goodmai/basalt"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:46.665Z",
+  "updatedAt": "2026-11-03T07:24:46.665Z"
+}

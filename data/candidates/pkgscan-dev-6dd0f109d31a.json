@@ -1,0 +1,20 @@
+{
+  "id": "pkgscan-dev-6dd0f109d31a",
+  "canonicalUrl": "https://pkgscan.dev/",
+  "name": "pkgscan.dev",
+  "description": "Multi-engine supply chain scanner for npm, PyPI, VS Code extensions, Cargo, Maven, NuGet, RubyGems, Go and AI agent skills. Checks for malware and known vulnerabilities, including hash lookups that need no upload. Free tier: 5 scans per month with full findings.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pkgscan.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pkgscan.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

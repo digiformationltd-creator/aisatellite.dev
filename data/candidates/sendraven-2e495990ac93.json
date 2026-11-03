@@ -1,0 +1,20 @@
+{
+  "id": "sendraven-2e495990ac93",
+  "canonicalUrl": "https://sendraven.ai/",
+  "name": "SendRaven",
+  "description": "SendRaven provides an email API for transactional email and agent-driven conversations, including inbound replies and threads. The free tier includes 3,000 outbound emails per month, unlimited contacts and inbound replies, card is required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sendraven.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sendraven.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

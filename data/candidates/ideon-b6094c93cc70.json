@@ -1,0 +1,20 @@
+{
+  "id": "ideon-b6094c93cc70",
+  "canonicalUrl": "https://www.theideon.com/",
+  "name": "Ideon",
+  "description": "Project workspace built around an infinite canvas; embed GitHub, GitLab, Gitea, and Forgejo repositories alongside notes, links, and tasks, with real-time collaboration. ([Source Code](https://github.com/3xpyth0n/ideon)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.theideon.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.theideon.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

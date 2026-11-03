@@ -1,0 +1,20 @@
+{
+  "id": "docmost-community-edition-76ba059282b1",
+  "canonicalUrl": "https://docmost.com/",
+  "name": "docmost Community Edition",
+  "description": "Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docmost.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docmost.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

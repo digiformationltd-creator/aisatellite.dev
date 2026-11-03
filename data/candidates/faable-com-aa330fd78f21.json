@@ -1,0 +1,20 @@
+{
+  "id": "faable-com-aa330fd78f21",
+  "canonicalUrl": "https://faable.com/",
+  "name": "faable.com",
+  "description": "Deploy apps with framework auto-detection for Python and Node.js. The free tier includes one 0.5 CPU / 1 GB RAM instance per project, 10 GB bandwidth, 10 successful deploys per day, automatic SSL and a built-in WAF, plus OAuth 2.0 / OIDC authentication. Apps sleep after 2 hours without traffic. European servers.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://faable.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://faable.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

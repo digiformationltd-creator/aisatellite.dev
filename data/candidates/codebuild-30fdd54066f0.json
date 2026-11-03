@@ -1,0 +1,20 @@
+{
+  "id": "codebuild-30fdd54066f0",
+  "canonicalUrl": "https://aws.amazon.com/codebuild",
+  "name": "CodeBuild",
+  "description": "100min of build time/month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://aws.amazon.com/codebuild/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aws.amazon.com/codebuild/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.776Z",
+  "updatedAt": "2026-11-03T07:24:44.776Z"
+}

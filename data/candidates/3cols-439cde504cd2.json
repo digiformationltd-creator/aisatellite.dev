@@ -1,0 +1,20 @@
+{
+  "id": "3cols-439cde504cd2",
+  "canonicalUrl": "https://3cols.com/",
+  "name": "3Cols",
+  "description": "A free cloud-based code snippet manager for personal and collaborative code.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://3cols.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://3cols.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

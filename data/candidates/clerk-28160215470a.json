@@ -1,0 +1,20 @@
+{
+  "id": "clerk-28160215470a",
+  "canonicalUrl": "https://clerk.com/",
+  "name": "Clerk",
+  "description": "User management, authentication, 2FA/MFA, prebuilt UI components for sign-in, sign-up, user profiles, and more. Free plan includes unlimited applications, 50,000 MRU limit per app, 3 dashboard seats, and more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://clerk.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://clerk.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z"
+}

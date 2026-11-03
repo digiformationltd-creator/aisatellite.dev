@@ -1,0 +1,20 @@
+{
+  "id": "latlng-5815646d2b0a",
+  "canonicalUrl": "https://www.latlng.work/",
+  "name": "LatLng",
+  "description": "Geocoding, reverse geocoding, places, static maps, and vector map tiles APIs. Free tier includes 3,000 geocoding requests/day, 300 reverse geocoding requests/day, and 100 static map images/day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.latlng.work",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.latlng.work"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

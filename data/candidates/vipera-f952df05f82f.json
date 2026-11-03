@@ -1,0 +1,38 @@
+{
+  "id": "vipera-f952df05f82f",
+  "canonicalUrl": "https://github.com/vipera-iso/vipera",
+  "name": "vipera",
+  "description": "Modern local AI gateway — OpenAI-compatible, GGUF-native",
+  "category": "local-llm",
+  "tags": [
+    "ai-gateway",
+    "cpu-inference",
+    "gguf",
+    "gpu-offload",
+    "kv-cache",
+    "llama-cpp",
+    "llm-inference",
+    "local-llm",
+    "model-optimization",
+    "moe",
+    "openai-api",
+    "openai-compatible",
+    "python",
+    "quantization",
+    "vram"
+  ],
+  "repositoryUrl": "https://github.com/vipera-iso/vipera",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/vipera-iso/vipera/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T06:52:48Z",
+  "evidenceUrls": [
+    "https://github.com/vipera-iso/vipera"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:46.664Z",
+  "updatedAt": "2026-11-03T07:24:46.664Z"
+}

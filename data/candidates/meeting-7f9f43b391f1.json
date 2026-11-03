@@ -1,0 +1,20 @@
+{
+  "id": "meeting-7f9f43b391f1",
+  "canonicalUrl": "https://zoho.com/meeting",
+  "name": "Meeting",
+  "description": "Meetings with upto 3 meeting participants & 10 Webinar attendees.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoho.com/meeting",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoho.com/meeting"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

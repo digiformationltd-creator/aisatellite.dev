@@ -1,0 +1,20 @@
+{
+  "id": "shellhub-1637e5a4bebf",
+  "canonicalUrl": "https://www.shellhub.io/",
+  "name": "ShellHub",
+  "description": "Modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface (alternative to sshd). ([Source Code](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.shellhub.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.shellhub.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

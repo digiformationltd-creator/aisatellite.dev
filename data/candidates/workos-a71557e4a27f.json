@@ -1,0 +1,20 @@
+{
+  "id": "workos-a71557e4a27f",
+  "canonicalUrl": "https://workos.com/",
+  "name": "WorkOS",
+  "description": "Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://workos.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://workos.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z"
+}

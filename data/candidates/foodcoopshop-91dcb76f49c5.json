@@ -1,0 +1,20 @@
+{
+  "id": "foodcoopshop-91dcb76f49c5",
+  "canonicalUrl": "https://www.foodcoopshop.com/",
+  "name": "FoodCoopShop",
+  "description": "User-friendly software for food-coops. ([Source Code](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.foodcoopshop.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.foodcoopshop.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

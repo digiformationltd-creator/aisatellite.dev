@@ -1,0 +1,20 @@
+{
+  "id": "postal-9a6bf05b05ad",
+  "canonicalUrl": "https://docs.postalserver.io/",
+  "name": "Postal",
+  "description": "Complete and fully featured mail server for use by websites & web servers. ([Source Code](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docs.postalserver.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docs.postalserver.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

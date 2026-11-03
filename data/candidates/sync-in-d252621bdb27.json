@@ -1,0 +1,20 @@
+{
+  "id": "sync-in-d252621bdb27",
+  "canonicalUrl": "https://sync-in.com/",
+  "name": "Sync-in",
+  "description": "File storage, syncing, sharing, and collaboration with real-time editing, permission management, and desktop/CLI clients. ([Demo](https://sync-in.com/docs/demo), [Source Code](https://github.com/Sync-in/server), [Clients](https://github.com/Sync-in/desktop)) `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://sync-in.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sync-in.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

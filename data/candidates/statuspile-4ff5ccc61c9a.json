@@ -1,0 +1,20 @@
+{
+  "id": "statuspile-4ff5ccc61c9a",
+  "canonicalUrl": "https://www.statuspile.com/",
+  "name": "StatusPile",
+  "description": "A status page of status pages. Could you track the status pages of your upstream providers?",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.statuspile.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.statuspile.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

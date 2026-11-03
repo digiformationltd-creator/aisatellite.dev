@@ -1,0 +1,20 @@
+{
+  "id": "relaticle-b7ed8a67ec90",
+  "canonicalUrl": "https://relaticle.com/",
+  "name": "Relaticle",
+  "description": "CRM with an MCP server, an AI assistant with human-approved changes, a REST API, custom fields, and kanban boards. ([Source Code](https://github.com/relaticle/relaticle)) `AGPL-3.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://relaticle.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://relaticle.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

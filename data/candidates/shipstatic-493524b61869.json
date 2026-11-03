@@ -1,0 +1,20 @@
+{
+  "id": "shipstatic-493524b61869",
+  "canonicalUrl": "https://shipstatic.com/",
+  "name": "ShipStatic",
+  "description": "Static hosting your AI agent can drive itself: `npx @shipstatic/ship ./dist` and the site is live, with no install, no signup, no repo, no build. MCP, SDK and API too. Free accounts keep sites permanently with automatic HTTPS, global edge delivery and unmetered bandwidth; custom domains are paid.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://shipstatic.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://shipstatic.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

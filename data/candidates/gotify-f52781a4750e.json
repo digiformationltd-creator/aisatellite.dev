@@ -1,0 +1,20 @@
+{
+  "id": "gotify-f52781a4750e",
+  "canonicalUrl": "https://gotify.net/",
+  "name": "Gotify",
+  "description": "Notification server with Android and CLI clients (alternative to PushBullet). ([Source Code](https://github.com/gotify/server), [Clients](https://github.com/gotify/android)) `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gotify.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gotify.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wufoo-9f77b23d05f1",
+  "canonicalUrl": "https://www.wufoo.com/",
+  "name": "Wufoo",
+  "description": "Quick forms to use on websites. The free plan has a limit of 100 submissions each month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.wufoo.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.wufoo.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

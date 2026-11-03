@@ -1,0 +1,20 @@
+{
+  "id": "omnitools-054e9a62e280",
+  "canonicalUrl": "https://omnitools.app/",
+  "name": "OmniTools",
+  "description": "Collection of powerful web-based tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...). ([Source Code](https://github.com/iib0011/omni-tools)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://omnitools.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://omnitools.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "swetrix-04e3d7e574d1",
+  "canonicalUrl": "https://swetrix.com/",
+  "name": "Swetrix",
+  "description": "Web analytics which track your site's traffic, monitor your site's speed, analyse user sessions and pageflows, see the user flows and more (alternative to Google Analytics). ([Demo](https://swetrix.com/projects/STEzHcB1rALV), [Source Code](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://swetrix.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://swetrix.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nona-ade521cf5a20",
+  "canonicalUrl": "https://nonaconfig.com/",
+  "name": "Nona",
+  "description": "Remote configuration and feature flag service with a single REST API, multiple environments, and official JavaScript and .NET clients (alternative to Firebase Remote Config). ([Source Code](https://github.com/Ryware/nona-config)) `Apache-2.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nonaconfig.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nonaconfig.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

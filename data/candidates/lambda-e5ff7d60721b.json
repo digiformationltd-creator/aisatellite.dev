@@ -1,0 +1,20 @@
+{
+  "id": "lambda-e5ff7d60721b",
+  "canonicalUrl": "https://aws.amazon.com/lambda",
+  "name": "Lambda",
+  "description": "1 million requests/month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://aws.amazon.com/lambda/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aws.amazon.com/lambda/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

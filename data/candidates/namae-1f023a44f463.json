@@ -1,0 +1,20 @@
+{
+  "id": "namae-1f023a44f463",
+  "canonicalUrl": "https://namae.dev/",
+  "name": "Namae",
+  "description": "Search various websites like GitHub, Gitlab, Heroku, Netlify, and many more for the availability of your project name.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://namae.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://namae.dev/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

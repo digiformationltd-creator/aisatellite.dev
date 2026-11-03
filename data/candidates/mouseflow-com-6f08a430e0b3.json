@@ -1,0 +1,20 @@
+{
+  "id": "mouseflow-com-6f08a430e0b3",
+  "canonicalUrl": "https://mouseflow.com/",
+  "name": "mouseflow.com",
+  "description": "500 sessions/month free for one website",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mouseflow.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mouseflow.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

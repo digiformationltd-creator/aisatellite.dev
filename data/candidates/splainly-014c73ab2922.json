@@ -1,0 +1,20 @@
+{
+  "id": "splainly-014c73ab2922",
+  "canonicalUrl": "https://splainly.app/",
+  "name": "Splainly",
+  "description": "Create product explainer videos for sales and marketing needs. Videos are free to create and can be downloaded or remain hosted on Splainly. A small watermark will be applied and can be removed with a $5 purchase.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://splainly.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://splainly.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

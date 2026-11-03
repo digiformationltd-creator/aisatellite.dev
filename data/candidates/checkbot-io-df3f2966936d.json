@@ -1,0 +1,20 @@
+{
+  "id": "checkbot-io-df3f2966936d",
+  "canonicalUrl": "https://www.checkbot.io/",
+  "name": "checkbot.io",
+  "description": "Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.checkbot.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.checkbot.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

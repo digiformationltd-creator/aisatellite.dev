@@ -1,0 +1,20 @@
+{
+  "id": "active-directory-b2c-b62ee520ec9d",
+  "canonicalUrl": "https://azure.microsoft.com/services/active-directory/external-identities/b2c",
+  "name": "Active Directory B2C",
+  "description": "50,000 monthly stored users",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/services/active-directory/external-identities/b2c/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/services/active-directory/external-identities/b2c/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

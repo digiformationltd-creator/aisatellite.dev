@@ -1,0 +1,20 @@
+{
+  "id": "emaillabs-io-0448f4b91df3",
+  "canonicalUrl": "https://emaillabs.io/en",
+  "name": "EmailLabs.io",
+  "description": "Send up to 9,000 Emails for free every month, up to 300 emails daily.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://emaillabs.io/en",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://emaillabs.io/en"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

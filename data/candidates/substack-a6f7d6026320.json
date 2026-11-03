@@ -1,0 +1,20 @@
+{
+  "id": "substack-a6f7d6026320",
+  "canonicalUrl": "https://substack.com/",
+  "name": "Substack",
+  "description": "Unlimited free newsletter service. Start paying when you charge for it.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://substack.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://substack.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

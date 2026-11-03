@@ -1,0 +1,20 @@
+{
+  "id": "gleek-io-d1c3a388fb0c",
+  "canonicalUrl": "https://www.gleek.io/",
+  "name": "gleek.io",
+  "description": "Free description-to-diagrams tool for developers. Create informal UML class, object, or entity-relationship diagrams using your keyword.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.gleek.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.gleek.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

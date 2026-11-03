@@ -1,0 +1,20 @@
+{
+  "id": "tomosu-ai-7d9dc3abb384",
+  "canonicalUrl": "https://tomosu.ai/",
+  "name": "tomosu.ai",
+  "description": "Scores a repository or pull request with a 0-100 Production Reliability Index, plus fix suggestions and a merge verdict. Free for one repository (public or private) through the VS Code/Cursor plugin, web scan, and GitHub App PR comments.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tomosu.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tomosu.ai/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

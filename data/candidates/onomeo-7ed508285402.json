@@ -1,0 +1,20 @@
+{
+  "id": "onomeo-7ed508285402",
+  "canonicalUrl": "https://onomeo.com/",
+  "name": "onomeo",
+  "description": "Onomeo gives you one key for dozens of AI models. Plug it right into tools like Cline, SillyTavern, or Open WebUI using standard OpenAI format. 35 models are completely free (60 requests / 5 hrs per user, pooled at 450 / 5 hrs across all users). Daily check-in credits let you use big models like Claude and GPT, up to a daily limit. Extra credits start at $5/month. We’re in open beta, so expect occasional instability. It’s great for casual use, but not ready to be a daily driver. Feedback is always welcome.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://onomeo.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://onomeo.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

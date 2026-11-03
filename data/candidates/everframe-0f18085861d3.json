@@ -1,0 +1,20 @@
+{
+  "id": "everframe-0f18085861d3",
+  "canonicalUrl": "https://everframe.dev/",
+  "name": "Everframe",
+  "description": "Everframe is bug tracking, crash collection tool with AI triage, reporter conversations and boards all in one platform - for mobile, web, TV and Roku apps. Free tier includes 1000 monthly active installs with unlimited bug and crash reports, unlimited apps and seats, every SDK and AI triage on 50 reports per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://everframe.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://everframe.dev/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

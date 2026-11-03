@@ -1,0 +1,20 @@
+{
+  "id": "jamf-com-0788948b04f1",
+  "canonicalUrl": "https://www.jamf.com/",
+  "name": "jamf.com",
+  "description": "Device management for iPads, iPhones, and Macs, three devices free",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.jamf.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.jamf.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

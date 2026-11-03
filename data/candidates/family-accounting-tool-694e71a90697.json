@@ -1,0 +1,20 @@
+{
+  "id": "family-accounting-tool-694e71a90697",
+  "canonicalUrl": "https://github.com/nymanjens/facto",
+  "name": "Family Accounting Tool",
+  "description": "Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/nymanjens/facto",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/nymanjens/facto"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

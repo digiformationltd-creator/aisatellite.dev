@@ -1,0 +1,20 @@
+{
+  "id": "dotclear-6a833bf5b7b4",
+  "canonicalUrl": "https://git.dotclear.org/dev/dotclear",
+  "name": "Dotclear",
+  "description": "Take control over your blog. `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://git.dotclear.org/dev/dotclear",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://git.dotclear.org/dev/dotclear"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

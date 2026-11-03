@@ -1,0 +1,20 @@
+{
+  "id": "emailguard-6e22a6dfbc2f",
+  "canonicalUrl": "https://emailguard.lazrek.com/",
+  "name": "EmailGuard",
+  "description": "Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://emailguard.lazrek.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://emailguard.lazrek.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

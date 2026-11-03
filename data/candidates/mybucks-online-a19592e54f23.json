@@ -1,0 +1,20 @@
+{
+  "id": "mybucks-online-a19592e54f23",
+  "canonicalUrl": "https://mybucks.online/",
+  "name": "Mybucks.online",
+  "description": "Secure, browser-based, password-only self-custodial cryptocurrency wallet. ([Demo](https://app.mybucks.online), [Source Code](https://github.com/mybucks-online/app)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mybucks.online",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mybucks.online"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

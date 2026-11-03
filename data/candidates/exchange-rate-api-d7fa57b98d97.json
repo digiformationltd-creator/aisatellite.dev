@@ -1,0 +1,20 @@
+{
+  "id": "exchange-rate-api-d7fa57b98d97",
+  "canonicalUrl": "https://exchange-rateapi.com/",
+  "name": "Exchange Rate API",
+  "description": "Real-time currency rates for 160+ currencies with 60-second updates and official SDKs. Free tier includes 300 requests/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://exchange-rateapi.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://exchange-rateapi.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

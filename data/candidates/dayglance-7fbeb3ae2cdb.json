@@ -1,0 +1,20 @@
+{
+  "id": "dayglance-7fbeb3ae2cdb",
+  "canonicalUrl": "https://dayglance.app/",
+  "name": "dayGLANCE",
+  "description": "Day planner with drag-and-drop time blocking, inbox, recurring tasks, habits, routines, goals, projects and Pomodoro focus mode, plus iCal and CalDAV calendar sync. Data stays in the browser, with optional WebDAV or GLANCEvault sync. ([Source Code](https://github.com/krelltunez/dayGLANCE), [Clients](https://github.com/glance-apps/glance-vault)) `MIT` `Javascript/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://dayglance.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dayglance.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

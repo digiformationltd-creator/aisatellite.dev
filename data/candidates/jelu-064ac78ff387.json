@@ -1,0 +1,20 @@
+{
+  "id": "jelu-064ac78ff387",
+  "canonicalUrl": "https://bayang.github.io/jelu-web",
+  "name": "Jelu",
+  "description": "Read and to-read list book tracker. ([Source Code](https://github.com/bayang/jelu)) `MIT` `Java/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://bayang.github.io/jelu-web",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bayang.github.io/jelu-web"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

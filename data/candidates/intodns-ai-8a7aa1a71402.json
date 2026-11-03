@@ -1,0 +1,20 @@
+{
+  "id": "intodns-ai-8a7aa1a71402",
+  "canonicalUrl": "https://intodns.ai/",
+  "name": "IntoDNS.ai",
+  "description": "DNS and email security analyzer that checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS, and 40+ blacklists with AI-powered explanations and fix suggestions. 100% free, no signup required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://intodns.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://intodns.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

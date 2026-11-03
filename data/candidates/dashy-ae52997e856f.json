@@ -1,0 +1,20 @@
+{
+  "id": "dashy-ae52997e856f",
+  "canonicalUrl": "https://dashy.to/",
+  "name": "Dashy",
+  "description": "Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/), [Source Code](https://github.com/lissy93/dashy)) `MIT` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://dashy.to/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dashy.to/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

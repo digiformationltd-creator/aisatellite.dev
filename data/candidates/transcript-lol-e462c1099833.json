@@ -1,0 +1,20 @@
+{
+  "id": "transcript-lol-e462c1099833",
+  "canonicalUrl": "https://transcript.lol/",
+  "name": "Transcript LOL",
+  "description": "Converts audio or video to text using AI. Generates summaries and other insights using LLMs. The free tier includes 2 transcriptions per day. You can upload files, record voice notes, or use links from YouTube, Instagram etc. The free version also supports WhatsApp, Telegram and importing files directly from cloud storages - Google Drive, Dropbox, Box and OneDrive. No API key needed. Sign up and ready to use. Also has apps for mobiles, desktops and chromebooks.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://transcript.lol/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://transcript.lol/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

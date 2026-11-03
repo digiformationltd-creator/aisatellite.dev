@@ -1,0 +1,20 @@
+{
+  "id": "sharry-2a1807f588f8",
+  "canonicalUrl": "https://sharry.live/",
+  "name": "Sharry",
+  "description": "Screen sharing via the browser, no downloads, no installs. Useful for pair programming, presentations or remote support. Free tier: no account, 5-minute sessions, 1 viewer.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sharry.live/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sharry.live/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

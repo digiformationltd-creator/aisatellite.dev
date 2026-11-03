@@ -1,0 +1,20 @@
+{
+  "id": "inngest-be19b5637e0f",
+  "canonicalUrl": "https://www.inngest.com/",
+  "name": "Inngest",
+  "description": "Durable execution and event-driven workflows for TypeScript, Python, and Go. Hobby plan is free with 50k executions/month, 5 concurrent steps, 500k events ingested, and no credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.inngest.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.inngest.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

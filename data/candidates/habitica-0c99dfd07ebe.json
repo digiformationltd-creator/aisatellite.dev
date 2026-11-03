@@ -1,0 +1,20 @@
+{
+  "id": "habitica-0c99dfd07ebe",
+  "canonicalUrl": "https://habitica.com/",
+  "name": "Habitica",
+  "description": "Habit tracker app which treats your goals like a Role Playing Game. ([Source Code](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://habitica.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://habitica.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

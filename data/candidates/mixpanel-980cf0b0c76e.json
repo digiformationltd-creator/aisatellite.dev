@@ -1,0 +1,20 @@
+{
+  "id": "mixpanel-980cf0b0c76e",
+  "canonicalUrl": "https://mixpanel.com/",
+  "name": "Mixpanel",
+  "description": "100,000 monthly tracked users, unlimited data history and seats, US or EU data residency",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mixpanel.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mixpanel.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

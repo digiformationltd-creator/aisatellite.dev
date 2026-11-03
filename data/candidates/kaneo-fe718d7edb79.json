@@ -1,0 +1,20 @@
+{
+  "id": "kaneo-fe718d7edb79",
+  "canonicalUrl": "https://kaneo.app/",
+  "name": "Kaneo",
+  "description": "Project management platform focused on simplicity and efficiency. ([Demo](https://demo.kaneo.app/), [Source Code](https://github.com/usekaneo/kaneo)) `MIT` `K8S/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://kaneo.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://kaneo.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

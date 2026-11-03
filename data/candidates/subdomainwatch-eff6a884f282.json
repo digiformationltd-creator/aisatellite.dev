@@ -1,0 +1,20 @@
+{
+  "id": "subdomainwatch-eff6a884f282",
+  "canonicalUrl": "https://www.subdomainwatch.com/",
+  "name": "SubdomainWatch",
+  "description": "Attack surface monitoring and CI/CD takeover guard. Free standalone DNS scanner, GitHub Action with SARIF export, and continuous asset monitoring tier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.subdomainwatch.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.subdomainwatch.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

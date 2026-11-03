@@ -1,0 +1,20 @@
+{
+  "id": "invoiceplane-f73a211cccea",
+  "canonicalUrl": "https://www.invoiceplane.com/",
+  "name": "InvoicePlane",
+  "description": "Manage quotes, invoices, payments and customers for your small business. ([Source Code](https://github.com/InvoicePlane/InvoicePlane)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.invoiceplane.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.invoiceplane.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

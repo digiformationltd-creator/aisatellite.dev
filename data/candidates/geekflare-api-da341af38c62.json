@@ -1,0 +1,20 @@
+{
+  "id": "geekflare-api-da341af38c62",
+  "canonicalUrl": "https://geekflare.com/api",
+  "name": "Geekflare API",
+  "description": "Geekflare API lets you scrape websites into Markdown, take screenshots, perform TLS scans and DNS lookups, test load times, and more. The free plan offers 500 API credits per month (e.g., 500 DNS lookups, 250 web scrapes, or 100 screenshots). See [credit mapping](https://docs.geekflare.com/api/api-credit-mapping).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://geekflare.com/api/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://geekflare.com/api/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "stadiamaps-com-d37f1249aa08",
+  "canonicalUrl": "https://stadiamaps.com/",
+  "name": "stadiamaps.com",
+  "description": "Map tiles, routing, navigation, and other geospatial APIs. 200,000 free credits/month for non-commercial usage and testing.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://stadiamaps.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://stadiamaps.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

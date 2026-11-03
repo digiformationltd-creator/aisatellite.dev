@@ -1,0 +1,20 @@
+{
+  "id": "wormhol-org-6e5844b8e7af",
+  "canonicalUrl": "https://www.wormhol.org/",
+  "name": "wormhol.org",
+  "description": "Straightforward file sharing service. Share unlimited files up to 5GB with as many peers as you want.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.wormhol.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.wormhol.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

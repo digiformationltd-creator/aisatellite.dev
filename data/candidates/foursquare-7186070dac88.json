@@ -1,0 +1,20 @@
+{
+  "id": "foursquare-7186070dac88",
+  "canonicalUrl": "https://developer.foursquare.com/",
+  "name": "Foursquare",
+  "description": "Location discovery, venue search, and context-aware content from Places API and Pilgrim SDK.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developer.foursquare.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developer.foursquare.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

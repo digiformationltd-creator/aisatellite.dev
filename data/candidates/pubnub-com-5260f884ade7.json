@@ -1,0 +1,21 @@
+{
+  "id": "pubnub-com-5260f884ade7",
+  "canonicalUrl": "https://www.pubnub.com/",
+  "name": "pubnub.com",
+  "description": "Free push notifications for up to 1 million messages/month and 100 active daily devices",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.pubnub.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.pubnub.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:47.250Z",
+  "githubStars": 0
+}

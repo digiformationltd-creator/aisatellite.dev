@@ -1,0 +1,20 @@
+{
+  "id": "rygel-530213cfee43",
+  "canonicalUrl": "https://gnome.pages.gitlab.gnome.org/rygel",
+  "name": "Rygel",
+  "description": "UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ([Source Code](https://gitlab.gnome.org/GNOME/rygel/)) `LGPL-2.1` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gnome.pages.gitlab.gnome.org/rygel/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gnome.pages.gitlab.gnome.org/rygel/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

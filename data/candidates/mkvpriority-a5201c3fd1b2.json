@@ -1,0 +1,20 @@
+{
+  "id": "mkvpriority-a5201c3fd1b2",
+  "canonicalUrl": "https://github.com/kennethsible/mkvpriority",
+  "name": "MKVPriority",
+  "description": "Selects preferred audio and subtitle tracks using configurable priority scores and sets the appropriate default and forced flags. `MIT` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/kennethsible/mkvpriority",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/kennethsible/mkvpriority"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tigase-19962af786d8",
+  "canonicalUrl": "https://tigase.net/xmpp-server",
+  "name": "Tigase",
+  "description": "XMPP server implementation in Java. ([Source Code](https://github.com/tigase/tigase-server)) `GPL-3.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://tigase.net/xmpp-server",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tigase.net/xmpp-server"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

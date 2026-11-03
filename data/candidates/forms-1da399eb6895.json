@@ -1,0 +1,20 @@
+{
+  "id": "forms-1da399eb6895",
+  "canonicalUrl": "https://zoho.com/forms",
+  "name": "Forms",
+  "description": "Form Creator",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoho.com/forms",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoho.com/forms"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

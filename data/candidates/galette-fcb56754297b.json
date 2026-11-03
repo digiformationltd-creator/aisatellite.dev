@@ -1,0 +1,20 @@
+{
+  "id": "galette-fcb56754297b",
+  "canonicalUrl": "https://galette.eu/",
+  "name": "Galette",
+  "description": "Membership management web application aimed towards non profit organizations. ([Source Code](https://github.com/galette/galette)) `GPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://galette.eu/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://galette.eu/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "compass-2519a73bd9ce",
+  "canonicalUrl": "https://adinhodovic.github.io/compass",
+  "name": "Compass",
+  "description": "Landing page for services, dashboards, and documents, with automatic discovery from sources such as Docker, Kubernetes, and Tailscale. ([Source Code](https://github.com/adinhodovic/compass)) `Apache-2.0` `Go/Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://adinhodovic.github.io/compass/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://adinhodovic.github.io/compass/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

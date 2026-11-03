@@ -1,0 +1,20 @@
+{
+  "id": "cabin-fca78b0f1a8a",
+  "canonicalUrl": "https://withcabin.com/",
+  "name": "Cabin",
+  "description": "Privacy-first, cookie-free web analytics with per-page carbon estimates and an MCP server for AI assistants. Free plan: 1 site, 10k pageviews/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://withcabin.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://withcabin.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

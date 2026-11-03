@@ -1,0 +1,20 @@
+{
+  "id": "contao-580e43081837",
+  "canonicalUrl": "https://contao.org/",
+  "name": "Contao",
+  "description": "Powerful CMS that allows you to create professional websites and scalable web applications. ([Demo](https://demo.contao.org/contao), [Source Code](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://contao.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://contao.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

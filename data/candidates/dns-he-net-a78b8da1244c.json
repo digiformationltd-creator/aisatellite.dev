@@ -1,0 +1,20 @@
+{
+  "id": "dns-he-net-a78b8da1244c",
+  "canonicalUrl": "https://dns.he.net/",
+  "name": "dns.he.net",
+  "description": "Free DNS hosting service with Dynamic DNS Support",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dns.he.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dns.he.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

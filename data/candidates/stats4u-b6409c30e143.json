@@ -1,0 +1,20 @@
+{
+  "id": "stats4u-b6409c30e143",
+  "canonicalUrl": "https://www.stats4u.net/",
+  "name": "Stats4U",
+  "description": "A visitor counter and web stats service operated from Poland, since 2006. Website owners choose a counter design copy the code and paste it into their site; no account is required. Free without paid plans. Privacy First: Stats4U does not set cookies and Counter data is processed on the operator's own server in the EU.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.stats4u.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.stats4u.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conveyor-cloud-e7794ab17758",
+  "canonicalUrl": "https://conveyor.cloud/",
+  "name": "conveyor.cloud",
+  "description": "Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://conveyor.cloud/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://conveyor.cloud/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

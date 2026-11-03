@@ -1,0 +1,20 @@
+{
+  "id": "tinyfeed-4f913d64df49",
+  "canonicalUrl": "https://feed.lovergne.dev/",
+  "name": "TinyFeed",
+  "description": "Generate a static HTML page from a collection of feeds with a simple CLI. ([Demo](https://feed.lovergne.dev/demo), [Source Code](https://github.com/TheBigRoomXXL/tinyfeed)) `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://feed.lovergne.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://feed.lovergne.dev/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

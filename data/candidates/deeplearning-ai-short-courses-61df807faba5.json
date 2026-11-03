@@ -1,0 +1,20 @@
+{
+  "id": "deeplearning-ai-short-courses-61df807faba5",
+  "canonicalUrl": "https://www.deeplearning.ai/short-courses",
+  "name": "DeepLearning.AI Short Courses",
+  "description": "Free short courses from industry-leading experts to get hands-on experience with the latest generative AI tools and techniques in an hour or less.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.deeplearning.ai/short-courses/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.deeplearning.ai/short-courses/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

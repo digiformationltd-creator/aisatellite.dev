@@ -1,0 +1,39 @@
+{
+  "id": "sigmastudio-460cbebf7958",
+  "canonicalUrl": "https://github.com/Sigmanih/SigmaStudio",
+  "name": "SigmaStudio",
+  "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal models, image generation, training, inference and AI agents across GPUs, CPUs and edge devices, with intelligent resource-aware model selection.",
+  "category": "local-llm",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "ai-governance",
+    "ai-model",
+    "ai-study-assistant",
+    "ai-tools",
+    "domotics",
+    "graphs-algorithms",
+    "llm",
+    "llm-agent",
+    "llm-agents",
+    "llm-evaluation",
+    "llm-inference",
+    "llm-tools",
+    "math",
+    "pipelines",
+    "students"
+  ],
+  "repositoryUrl": "https://github.com/Sigmanih/SigmaStudio",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 9,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T06:47:39Z",
+  "evidenceUrls": [
+    "https://github.com/Sigmanih/SigmaStudio"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:46.665Z",
+  "updatedAt": "2026-11-03T07:24:46.665Z"
+}

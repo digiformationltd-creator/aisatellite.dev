@@ -1,0 +1,20 @@
+{
+  "id": "simplescraper-55222f8aaf05",
+  "canonicalUrl": "https://simplescraper.io/",
+  "name": "Simplescraper",
+  "description": "Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://simplescraper.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://simplescraper.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

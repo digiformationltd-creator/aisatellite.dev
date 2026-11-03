@@ -1,0 +1,20 @@
+{
+  "id": "image-charts-com-cc1323a7a37d",
+  "canonicalUrl": "https://www.image-charts.com/",
+  "name": "image-charts.com",
+  "description": "Unlimited image chart generation with a watermark",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.image-charts.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.image-charts.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

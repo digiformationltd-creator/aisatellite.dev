@@ -1,0 +1,20 @@
+{
+  "id": "appveyor-com-08a9dd5cebcd",
+  "canonicalUrl": "https://www.appveyor.com/",
+  "name": "appveyor.com",
+  "description": "CD service for Windows, free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.appveyor.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.appveyor.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z"
+}

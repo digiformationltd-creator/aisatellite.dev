@@ -1,0 +1,20 @@
+{
+  "id": "zoho-apptics-41b36472fb65",
+  "canonicalUrl": "https://www.zoho.com/apptics",
+  "name": "Zoho Apptics",
+  "description": "Unified and actionable product analytics to monitor performance, analyze user behavior and collect feedback for mobile, web, and desktop apps with generous Free Forever plan.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.zoho.com/apptics/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.zoho.com/apptics/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

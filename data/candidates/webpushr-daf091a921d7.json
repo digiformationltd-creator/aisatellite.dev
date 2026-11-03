@@ -1,0 +1,20 @@
+{
+  "id": "webpushr-daf091a921d7",
+  "canonicalUrl": "https://www.webpushr.com/",
+  "name": "webpushr",
+  "description": "Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.webpushr.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.webpushr.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

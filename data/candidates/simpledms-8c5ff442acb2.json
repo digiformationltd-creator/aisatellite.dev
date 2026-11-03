@@ -1,0 +1,20 @@
+{
+  "id": "simpledms-8c5ff442acb2",
+  "canonicalUrl": "https://simpledms.eu/",
+  "name": "SimpleDMS",
+  "description": "Easy-to-use, metadata-driven, document management system (DMS) for small businesses that sorts documents almost by itself. ([Source Code](https://github.com/simpledms/simpledms), [Clients](https://simpledms.eu/en/product/integrations)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://simpledms.eu",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://simpledms.eu"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

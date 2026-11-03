@@ -1,0 +1,20 @@
+{
+  "id": "minthcm-3a1cd88d3c6c",
+  "canonicalUrl": "https://minthcm.org/",
+  "name": "MintHCM",
+  "description": "Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://minthcm.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://minthcm.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

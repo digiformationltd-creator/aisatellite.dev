@@ -1,0 +1,20 @@
+{
+  "id": "freeflarum-600516609526",
+  "canonicalUrl": "https://freeflarum.com/",
+  "name": "FreeFlarum",
+  "description": "Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://freeflarum.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://freeflarum.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

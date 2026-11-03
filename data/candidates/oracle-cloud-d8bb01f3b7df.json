@@ -1,0 +1,20 @@
+{
+  "id": "oracle-cloud-d8bb01f3b7df",
+  "canonicalUrl": "https://www.oracle.com/cloud",
+  "name": "Oracle Cloud",
+  "description": "Oracle Cloud developer resource",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.oracle.com/cloud/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.oracle.com/cloud/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

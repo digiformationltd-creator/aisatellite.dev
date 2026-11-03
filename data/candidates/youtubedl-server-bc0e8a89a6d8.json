@@ -1,0 +1,20 @@
+{
+  "id": "youtubedl-server-bc0e8a89a6d8",
+  "canonicalUrl": "https://github.com/nbr23/youtube-dl-server",
+  "name": "YoutubeDL-Server",
+  "description": "Web and REST interface to Youtube-DL for downloading videos onto a server. `MIT` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/nbr23/youtube-dl-server",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/nbr23/youtube-dl-server"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "uusec-waf-6c3bf68815c1",
+  "canonicalUrl": "https://waf.uusec.com/",
+  "name": "UUSEC WAF",
+  "description": "Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). ([Source Code](https://github.com/Safe3/uusec-waf)) `GPL-3.0` `C/Lua/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://waf.uusec.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://waf.uusec.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "documenso-14fde84a83ef",
+  "canonicalUrl": "https://documenso.com/",
+  "name": "Documenso",
+  "description": "Digital document signing platform (alternative to DocuSign). ([Source Code](https://github.com/documenso/documenso)) `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://documenso.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://documenso.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

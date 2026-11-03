@@ -1,0 +1,20 @@
+{
+  "id": "scaledrone-com-5434b025f60b",
+  "canonicalUrl": "https://www.scaledrone.com/",
+  "name": "scaledrone.com",
+  "description": "Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.scaledrone.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.scaledrone.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "parsec-d998dc42eede",
+  "canonicalUrl": "https://parsec.app/",
+  "name": "Parsec",
+  "description": "Free for installation on unlimited number of devices(for personal use) and allows up to 20 connections to a single device at once. (great for gaming/low latency work)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://parsec.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://parsec.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

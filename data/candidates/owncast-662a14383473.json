@@ -1,0 +1,20 @@
+{
+  "id": "owncast-662a14383473",
+  "canonicalUrl": "https://owncast.online/",
+  "name": "Owncast",
+  "description": "Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code](https://github.com/owncast/owncast)) `MIT` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://owncast.online/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://owncast.online/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

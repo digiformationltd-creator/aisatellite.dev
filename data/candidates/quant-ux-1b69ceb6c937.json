@@ -1,0 +1,20 @@
+{
+  "id": "quant-ux-1b69ceb6c937",
+  "canonicalUrl": "https://quant-ux.com/",
+  "name": "Quant Ux",
+  "description": "Quant Ux is a prototyping and design tool. - It's completely free and also open source.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://quant-ux.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://quant-ux.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

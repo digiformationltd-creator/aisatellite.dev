@@ -1,0 +1,20 @@
+{
+  "id": "stateofpixel-b086d79601f2",
+  "canonicalUrl": "https://stateofpixel.com/",
+  "name": "stateofpixel",
+  "description": "Catch UI regressions before they merge. Your CI takes the screenshots with Playwright, Storybook or any tool that writes PNGs, and a person approves each change on the pull request. Open source and self-hostable. Free up to 10 GB.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://stateofpixel.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://stateofpixel.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

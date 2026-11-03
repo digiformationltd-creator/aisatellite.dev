@@ -1,0 +1,20 @@
+{
+  "id": "bugzilla-a488b89cec43",
+  "canonicalUrl": "https://www.bugzilla.org/",
+  "name": "Bugzilla",
+  "description": "General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. ([Source Code](https://github.com/bugzilla/bugzilla)) `MPL-2.0` `Perl`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.bugzilla.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.bugzilla.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

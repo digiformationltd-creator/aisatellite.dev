@@ -1,0 +1,20 @@
+{
+  "id": "1984-is-c7ef4c267ca6",
+  "canonicalUrl": "https://www.1984.is/product/freedns",
+  "name": "1984.is",
+  "description": "Free DNS service with API and lots of other free DNS features included.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.1984.is/product/freedns/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.1984.is/product/freedns/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

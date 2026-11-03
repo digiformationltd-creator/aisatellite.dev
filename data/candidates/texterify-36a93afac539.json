@@ -1,0 +1,20 @@
+{
+  "id": "texterify-36a93afac539",
+  "canonicalUrl": "https://texterify.com/",
+  "name": "Texterify",
+  "description": "Free for a single user",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://texterify.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://texterify.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

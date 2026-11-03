@@ -1,0 +1,20 @@
+{
+  "id": "listaway-dde7c5e9e793",
+  "canonicalUrl": "https://github.com/jeffrpowell/listaway",
+  "name": "Listaway",
+  "description": "List management app for creating and publicly sharing lists of items. Supports auth, admin tools, item notes and priorities, and opt-in public read-only links with randomized URLs (alternative to Amazon Lists). ([Source Code](https://github.com/jeffrpowell/listaway)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/jeffrpowell/listaway/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/jeffrpowell/listaway/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "glowing-bear-62b9684381e5",
+  "canonicalUrl": "https://github.com/glowing-bear/glowing-bear",
+  "name": "Glowing Bear",
+  "description": "Web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/glowing-bear/glowing-bear",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/glowing-bear/glowing-bear"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

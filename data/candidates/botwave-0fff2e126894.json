@@ -1,0 +1,20 @@
+{
+  "id": "botwave-0fff2e126894",
+  "canonicalUrl": "https://botwave.dpip.lol/",
+  "name": "BotWave",
+  "description": "FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. ([Source Code](https://github.com/dpipstudio/botwave)) `GPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://botwave.dpip.lol",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://botwave.dpip.lol"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

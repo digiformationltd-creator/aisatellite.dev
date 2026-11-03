@@ -1,0 +1,20 @@
+{
+  "id": "ploi-io-7a165ea5a8e4",
+  "canonicalUrl": "https://ploi.io/",
+  "name": "ploi.io",
+  "description": "Server management tool to easily manage and deploy your servers & sites. Free for one server.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ploi.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ploi.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

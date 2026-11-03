@@ -1,0 +1,20 @@
+{
+  "id": "domain-locker-3434db9ae208",
+  "canonicalUrl": "https://domain-locker.com/",
+  "name": "Domain Locker",
+  "description": "Domain name portfolio management and tracker. ([Demo](https://demo.domain-locker.com), [Source Code](https://github.com/lissy93/domain-locker)) `MIT` `Deno/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://domain-locker.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://domain-locker.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

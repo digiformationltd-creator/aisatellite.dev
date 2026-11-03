@@ -1,0 +1,20 @@
+{
+  "id": "currencylayer-5cbd8c7178b5",
+  "canonicalUrl": "https://currencylayer.com/",
+  "name": "currencylayer",
+  "description": "Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://currencylayer.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://currencylayer.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

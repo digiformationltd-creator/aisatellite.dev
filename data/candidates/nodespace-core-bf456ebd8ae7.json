@@ -1,0 +1,39 @@
+{
+  "id": "nodespace-core-bf456ebd8ae7",
+  "canonicalUrl": "https://github.com/NodeSpaceAI/nodespace-core",
+  "name": "nodespace-core",
+  "description": "Local-first knowledge base with semantic search for AI coding assistants. Fewer tokens, faster context.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "gemini",
+    "knowledge-graph",
+    "knowledge-management",
+    "local-first",
+    "mcp",
+    "model-context-protocol",
+    "rust",
+    "semantic-search",
+    "surrealdb",
+    "svelte",
+    "tauri"
+  ],
+  "repositoryUrl": "https://github.com/NodeSpaceAI/nodespace-core",
+  "officialUrl": "https://nodespace.ai",
+  "documentationUrl": "https://nodespace.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 8,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-03T06:29:21Z",
+  "evidenceUrls": [
+    "https://github.com/NodeSpaceAI/nodespace-core"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:47.248Z",
+  "updatedAt": "2026-11-03T07:24:47.248Z"
+}

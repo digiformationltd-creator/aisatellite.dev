@@ -1,0 +1,20 @@
+{
+  "id": "teamwork-com-532991b40596",
+  "canonicalUrl": "https://teamwork.com/",
+  "name": "teamwork.com",
+  "description": "Project management & Team Chat. Free for five users and two projects. Premium plans are available.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://teamwork.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://teamwork.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

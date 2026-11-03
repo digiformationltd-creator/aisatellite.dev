@@ -1,0 +1,20 @@
+{
+  "id": "mconverter-472c9aadacef",
+  "canonicalUrl": "https://mconverter.eu/",
+  "name": "MConverter",
+  "description": "Convert files in bulk. Supports many formats, including [AVIF](https://mconverter.eu/convert/to/avif/) and JXL. Extract image frames from videos. Compress PDFs. Free for 15 files per 24h, up to 100 MB each, processed in batches of eight.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mconverter.eu/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mconverter.eu/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

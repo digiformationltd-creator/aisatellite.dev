@@ -1,0 +1,20 @@
+{
+  "id": "sure-2f31f6b854b3",
+  "canonicalUrl": "https://github.com/we-promise/sure",
+  "name": "Sure",
+  "description": "Personal finance application for everyone (fork of Maybe). `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/we-promise/sure",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/we-promise/sure"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

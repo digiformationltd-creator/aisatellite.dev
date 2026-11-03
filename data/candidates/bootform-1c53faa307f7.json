@@ -1,0 +1,20 @@
+{
+  "id": "bootform-1c53faa307f7",
+  "canonicalUrl": "https://bootform.com/",
+  "name": "BootForm",
+  "description": "Form backend for builders. Free plan: 250 submissions a month with unlimited forms. Email and Discord notifications, honeypot/CAPTCHA, and an MCP server so AI coding agents can create and configure forms and manage submissions.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://bootform.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bootform.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

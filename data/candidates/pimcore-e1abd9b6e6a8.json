@@ -1,0 +1,20 @@
+{
+  "id": "pimcore-e1abd9b6e6a8",
+  "canonicalUrl": "http://www.pimcore.com/",
+  "name": "Pimcore",
+  "description": "Multi-channel experience and engagement management platform. ([Source Code](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "http://www.pimcore.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "http://www.pimcore.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

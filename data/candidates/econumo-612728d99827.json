@@ -1,0 +1,20 @@
+{
+  "id": "econumo-612728d99827",
+  "canonicalUrl": "https://econumo.com/",
+  "name": "Econumo",
+  "description": "Budgeting application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets. ([Demo](https://demo.econumo.com), [Source Code](https://github.com/econumo/econumo)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://econumo.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://econumo.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

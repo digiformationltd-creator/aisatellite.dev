@@ -1,0 +1,20 @@
+{
+  "id": "promoproxy-836f2fc3cb7f",
+  "canonicalUrl": "https://promoproxy.net/",
+  "name": "PromoProxy",
+  "description": "Free cloud Secure Web Gateway. Free plan includes up to 5 users and 1 GB per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://promoproxy.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://promoproxy.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "orkyo-community-19be62030e38",
+  "canonicalUrl": "https://orkyo.com/",
+  "name": "Orkyo Community",
+  "description": "Production scheduling for manufacturing teams — one plan for the machines, people, and tools that run your jobs. ([Demo](https://orkyo.com/demo), [Source Code](https://github.com/Kymr10n/orkyo-community)) `AGPL-3.0` `C#/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://orkyo.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://orkyo.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

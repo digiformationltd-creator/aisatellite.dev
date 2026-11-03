@@ -1,0 +1,20 @@
+{
+  "id": "dkimvalidator-com-e2f56ce1c9a4",
+  "canonicalUrl": "https://dkimvalidator.com/",
+  "name": "dkimvalidator.com",
+  "description": "Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dkimvalidator.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dkimvalidator.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

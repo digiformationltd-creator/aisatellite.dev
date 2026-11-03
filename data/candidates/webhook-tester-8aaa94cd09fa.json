@@ -1,0 +1,20 @@
+{
+  "id": "webhook-tester-8aaa94cd09fa",
+  "canonicalUrl": "https://github.com/tarampampam/webhook-tester",
+  "name": "WebHook Tester",
+  "description": "Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/tarampampam/webhook-tester",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/tarampampam/webhook-tester"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

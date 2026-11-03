@@ -1,0 +1,20 @@
+{
+  "id": "myfin-budget-59a1d401cef9",
+  "canonicalUrl": "https://myfinbudget.com/",
+  "name": "MyFin Budget",
+  "description": "Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ([Demo](https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself), [Source Code](https://github.com/afaneca/myfin), [Clients](https://github.com/afaneca/myfin-api)) `GPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://myfinbudget.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://myfinbudget.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

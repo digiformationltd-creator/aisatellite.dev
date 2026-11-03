@@ -1,0 +1,20 @@
+{
+  "id": "pin-feed-dcb835c9ac83",
+  "canonicalUrl": "https://pinfeed.io/",
+  "name": "Pin Feed",
+  "description": "Pin Feed is a website feedback tool to comment on live client website. Free for up to 3 projects with 500 MB storage. Clients can leave feedback without an account.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pinfeed.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pinfeed.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

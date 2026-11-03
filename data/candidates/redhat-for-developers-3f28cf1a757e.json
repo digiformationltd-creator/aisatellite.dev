@@ -1,0 +1,20 @@
+{
+  "id": "redhat-for-developers-3f28cf1a757e",
+  "canonicalUrl": "https://developers.redhat.com/",
+  "name": "RedHat for Developers",
+  "description": "Free access to Red Hat products including RHEL, OpenShift, CodeReady, etc. exclusively for developers. Individual plan only. Free e-books are also offered for reference.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developers.redhat.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developers.redhat.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

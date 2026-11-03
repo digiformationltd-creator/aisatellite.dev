@@ -1,0 +1,20 @@
+{
+  "id": "snapapi-80efdc92a0c7",
+  "canonicalUrl": "https://snapapi.pics/",
+  "name": "SnapAPI",
+  "description": "Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://snapapi.pics",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://snapapi.pics"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

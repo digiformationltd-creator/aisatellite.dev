@@ -1,0 +1,20 @@
+{
+  "id": "many-notes-69ec7ecd090c",
+  "canonicalUrl": "https://github.com/brufdev/many-notes",
+  "name": "Many Notes",
+  "description": "Markdown note-taking web application designed for simplicity. `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/brufdev/many-notes",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/brufdev/many-notes"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

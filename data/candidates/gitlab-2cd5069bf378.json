@@ -1,0 +1,23 @@
+{
+  "id": "gitlab-2cd5069bf378",
+  "canonicalUrl": "https://about.gitlab.com/",
+  "name": "GitLab",
+  "description": "Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby/deb/Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://about.gitlab.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://about.gitlab.com/",
+    "https://about.gitlab.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0
+}

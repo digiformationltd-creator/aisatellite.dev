@@ -1,0 +1,20 @@
+{
+  "id": "formfeed-5ea66cd08820",
+  "canonicalUrl": "https://formfeed.dev/",
+  "name": "Formfeed",
+  "description": "API for PDF and image generation from JSON with a simple API or automation tools like Zapier & Make. The free plan includes 100 free PDF conversions per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://formfeed.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://formfeed.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

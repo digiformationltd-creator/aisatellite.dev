@@ -1,0 +1,20 @@
+{
+  "id": "pacebin-267239ea1b82",
+  "canonicalUrl": "https://git.crueter.xyz/crueter/pacebin",
+  "name": "pacebin",
+  "description": "Super-minimal pastebin and file upload service focusing on small executable size, portability, and ease of configuration. ([Demo](https://paste.crueter.xyz)) `AGPL-3.0` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://git.crueter.xyz/crueter/pacebin",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://git.crueter.xyz/crueter/pacebin"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lucid-forms-73347b2f1ee6",
+  "canonicalUrl": "https://lucidforms.co/",
+  "name": "Lucid Forms",
+  "description": "Form endpoint for websites. Add working contact forms to any HTML, JS framework, or no-code site without building a backend. Free plan includes 250 submissions/month, email notifications, smart spam filtering, and Google Sheets integration.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://lucidforms.co/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://lucidforms.co/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

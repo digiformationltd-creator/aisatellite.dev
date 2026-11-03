@@ -1,0 +1,22 @@
+{
+  "id": "appsmith-90640434f2e3",
+  "canonicalUrl": "https://www.appsmith.com/",
+  "name": "Appsmith",
+  "description": "Build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.appsmith.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.appsmith.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0
+}

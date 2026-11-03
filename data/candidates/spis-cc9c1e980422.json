@@ -1,0 +1,20 @@
+{
+  "id": "spis-cc9c1e980422",
+  "canonicalUrl": "https://github.com/gbbirkisson/spis",
+  "name": "SPIS",
+  "description": "Simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/gbbirkisson/spis",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/gbbirkisson/spis"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

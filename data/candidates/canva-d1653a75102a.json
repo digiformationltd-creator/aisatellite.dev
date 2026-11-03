@@ -1,0 +1,20 @@
+{
+  "id": "canva-d1653a75102a",
+  "canonicalUrl": "https://canva.com/",
+  "name": "Canva",
+  "description": "Free online design tool to create visual content.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://canva.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://canva.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

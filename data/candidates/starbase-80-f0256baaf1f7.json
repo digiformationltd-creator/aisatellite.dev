@@ -1,0 +1,20 @@
+{
+  "id": "starbase-80-f0256baaf1f7",
+  "canonicalUrl": "https://github.com/notclickable-jordan/starbase-80",
+  "name": "Starbase 80",
+  "description": "Simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/notclickable-jordan/starbase-80",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/notclickable-jordan/starbase-80"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

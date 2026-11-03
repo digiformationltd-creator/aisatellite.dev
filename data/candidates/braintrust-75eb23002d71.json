@@ -1,0 +1,20 @@
+{
+  "id": "braintrust-75eb23002d71",
+  "canonicalUrl": "https://www.braintrustdata.com/",
+  "name": "Braintrust",
+  "description": "Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.braintrustdata.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.braintrustdata.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

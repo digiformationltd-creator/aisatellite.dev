@@ -1,0 +1,20 @@
+{
+  "id": "sslip-io-bc75d1d96196",
+  "canonicalUrl": "https://sslip.io/",
+  "name": "sslip.io",
+  "description": "Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sslip.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sslip.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

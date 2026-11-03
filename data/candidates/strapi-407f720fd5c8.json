@@ -1,0 +1,20 @@
+{
+  "id": "strapi-407f720fd5c8",
+  "canonicalUrl": "https://strapi.io/",
+  "name": "Strapi",
+  "description": "Headless CMS that lets developers build content APIs fast while giving content creators a friendly editing interface. ([Source Code](https://github.com/strapi/strapi)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://strapi.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://strapi.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

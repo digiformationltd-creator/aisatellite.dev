@@ -1,0 +1,20 @@
+{
+  "id": "ip99-bab33ff083dd",
+  "canonicalUrl": "https://ip99.com/",
+  "name": "IP99",
+  "description": "IP risk and geolocation API with passive DNS and certificate transparency. Free without a key: 500 IP lookups/day; 10 domain/cert trial lookups/day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ip99.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ip99.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

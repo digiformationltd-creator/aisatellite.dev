@@ -1,0 +1,20 @@
+{
+  "id": "anvil-works-86d2bde2581c",
+  "canonicalUrl": "https://anvil.works/",
+  "name": "anvil.works",
+  "description": "Web app development with nothing but Python. Free tier with unlimited apps and 30-second timeouts.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://anvil.works",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://anvil.works"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

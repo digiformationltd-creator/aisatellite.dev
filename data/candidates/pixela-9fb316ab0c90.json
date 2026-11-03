@@ -1,0 +1,20 @@
+{
+  "id": "pixela-9fb316ab0c90",
+  "canonicalUrl": "https://pixe.la/",
+  "name": "Pixela",
+  "description": "Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pixe.la/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pixe.la/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

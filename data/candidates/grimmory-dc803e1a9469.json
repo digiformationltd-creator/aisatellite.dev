@@ -1,0 +1,20 @@
+{
+  "id": "grimmory-dc803e1a9469",
+  "canonicalUrl": "https://grimmory.org/",
+  "name": "Grimmory",
+  "description": "Library for ebooks, comics and audiobooks with a built-in reader, metadata lookup, multi-user support, OPDS, and Kobo/KOReader sync. ([Source Code](https://github.com/grimmory-tools/grimmory)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://grimmory.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://grimmory.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

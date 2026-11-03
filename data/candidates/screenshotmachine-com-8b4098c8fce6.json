@@ -1,0 +1,20 @@
+{
+  "id": "screenshotmachine-com-8b4098c8fce6",
+  "canonicalUrl": "https://www.screenshotmachine.com/",
+  "name": "screenshotmachine.com",
+  "description": "Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.screenshotmachine.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.screenshotmachine.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z"
+}

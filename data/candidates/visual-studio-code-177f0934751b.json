@@ -1,0 +1,20 @@
+{
+  "id": "visual-studio-code-177f0934751b",
+  "canonicalUrl": "https://code.visualstudio.com/",
+  "name": "Visual Studio Code",
+  "description": "Code editor redefined and optimized for building and debugging modern web and cloud applications. Developed by Microsoft.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://code.visualstudio.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://code.visualstudio.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

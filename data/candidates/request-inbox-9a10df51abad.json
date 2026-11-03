@@ -1,0 +1,20 @@
+{
+  "id": "request-inbox-9a10df51abad",
+  "canonicalUrl": "https://request-inbox.com/",
+  "name": "Request Inbox",
+  "description": "Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, configure custom responses. ([Demo](https://request-inbox.com/), [Source Code](https://github.com/jesusnoseq/request-inbox)) `Apache-2.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://request-inbox.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://request-inbox.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

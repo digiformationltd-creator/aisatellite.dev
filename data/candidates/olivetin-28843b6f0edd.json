@@ -1,0 +1,20 @@
+{
+  "id": "olivetin-28843b6f0edd",
+  "canonicalUrl": "https://www.olivetin.app/",
+  "name": "OliveTin",
+  "description": "Web interface for running Linux shell commands. ([Source Code](https://github.com/OliveTin/OliveTin)) `AGPL-3.0` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.olivetin.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.olivetin.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

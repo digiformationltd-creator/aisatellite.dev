@@ -1,0 +1,20 @@
+{
+  "id": "harbor-c8ad159d7512",
+  "canonicalUrl": "https://goharbor.io/",
+  "name": "Harbor",
+  "description": "Cloud native image registry that stores, signs, and scans content. ([Source Code](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://goharbor.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://goharbor.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

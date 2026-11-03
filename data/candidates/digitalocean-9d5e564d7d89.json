@@ -1,0 +1,20 @@
+{
+  "id": "digitalocean-9d5e564d7d89",
+  "canonicalUrl": "https://www.digitalocean.com/pricing",
+  "name": "DigitalOcean",
+  "description": "Build and deploy three static sites for free on the App Platform Starter tier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.digitalocean.com/pricing",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.digitalocean.com/pricing"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

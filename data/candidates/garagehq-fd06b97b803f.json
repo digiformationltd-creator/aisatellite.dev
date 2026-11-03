@@ -1,0 +1,20 @@
+{
+  "id": "garagehq-fd06b97b803f",
+  "canonicalUrl": "https://garagehq.deuxfleurs.fr/",
+  "name": "GarageHQ",
+  "description": "Geo-distributed, S3‑compatible storage service that can fulfill many needs. ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Docker/Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://garagehq.deuxfleurs.fr/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://garagehq.deuxfleurs.fr/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

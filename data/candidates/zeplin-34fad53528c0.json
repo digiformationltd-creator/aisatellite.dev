@@ -1,0 +1,20 @@
+{
+  "id": "zeplin-34fad53528c0",
+  "canonicalUrl": "https://zeplin.io/",
+  "name": "Zeplin",
+  "description": "Designer and developer collaboration platform. Show designs, assets, and style guides. Free for one project.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zeplin.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zeplin.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

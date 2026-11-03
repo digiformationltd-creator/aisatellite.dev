@@ -1,0 +1,20 @@
+{
+  "id": "note-mark-c9962aabe4dd",
+  "canonicalUrl": "https://notemark.docs.enchantedcode.co.uk/",
+  "name": "Note Mark",
+  "description": "Minimal web-based Markdown notes app. ([Source Code](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://notemark.docs.enchantedcode.co.uk/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://notemark.docs.enchantedcode.co.uk/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

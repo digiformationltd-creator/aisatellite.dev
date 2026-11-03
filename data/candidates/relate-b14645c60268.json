@@ -1,0 +1,20 @@
+{
+  "id": "relate-b14645c60268",
+  "canonicalUrl": "https://documen.tician.de/relate",
+  "name": "RELATE",
+  "description": "Courseware package that includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code](https://github.com/inducer/relate)) `MIT` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://documen.tician.de/relate/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://documen.tician.de/relate/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

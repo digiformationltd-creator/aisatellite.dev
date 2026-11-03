@@ -1,0 +1,20 @@
+{
+  "id": "lumenfall-ai-b010c4ed0657",
+  "canonicalUrl": "https://lumenfall.ai/",
+  "name": "Lumenfall.ai",
+  "description": "AI media gateway providing unified access to leading image generation models via an OpenAI-compatible API. The platform itself is free to use with zero markup and no subscription fee. Inference costs for most models are billed at provider price, but FLUX.1 [schnell] FP8 is offered free forever with unlimited usage for registered users. Built-in failover and provider resilience included.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://lumenfall.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://lumenfall.ai/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

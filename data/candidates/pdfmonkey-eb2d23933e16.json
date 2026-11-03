@@ -1,0 +1,20 @@
+{
+  "id": "pdfmonkey-eb2d23933e16",
+  "canonicalUrl": "https://www.pdfmonkey.io/",
+  "name": "PDFMonkey",
+  "description": "Manage PDF templates in a dashboard, call the API with dynamic data, and download your PDF. Offers 300 free documents per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.pdfmonkey.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.pdfmonkey.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "flipt-27d263786a75",
+  "canonicalUrl": "https://flipt.io/",
+  "name": "Flipt",
+  "description": "Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Source Code](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://flipt.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://flipt.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

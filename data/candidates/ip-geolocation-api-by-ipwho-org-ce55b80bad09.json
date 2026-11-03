@@ -1,0 +1,20 @@
+{
+  "id": "ip-geolocation-api-by-ipwho-org-ce55b80bad09",
+  "canonicalUrl": "https://ipwho.org/",
+  "name": "IP Geolocation API by ipwho.org",
+  "description": "2,000 free requests per day. Fast, enterprise grade API at non-enterprise prices. Trusted by developers, corporate, government and education clients. Servers in 12+ regions.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ipwho.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ipwho.org/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

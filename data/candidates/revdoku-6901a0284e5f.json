@@ -1,0 +1,20 @@
+{
+  "id": "revdoku-6901a0284e5f",
+  "canonicalUrl": "https://revdoku.com/",
+  "name": "Revdoku",
+  "description": "Publish files, reports, custom microsites right from ChatGPT, Claude, Codex and other AI agents as public or password-protected websites. Free tier: 2GB storage, 2 live sites/apps, 1 database (25 MB), 3 AI connections, 1k files/bucket (100 MB/file), basic analytics.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://revdoku.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://revdoku.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

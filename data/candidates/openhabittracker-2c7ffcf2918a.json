@@ -1,0 +1,20 @@
+{
+  "id": "openhabittracker-2c7ffcf2918a",
+  "canonicalUrl": "https://openhabittracker.net/",
+  "name": "OpenHabitTracker",
+  "description": "Track habits, tasks and notes with time tracking, calendar view and completion statistics. ([Demo](https://pwa.openhabittracker.net), [Source Code](https://github.com/Jinjinov/OpenHabitTracker)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://openhabittracker.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://openhabittracker.net"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

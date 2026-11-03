@@ -1,0 +1,20 @@
+{
+  "id": "enchant-8451f801c192",
+  "canonicalUrl": "https://www.enchant.com/",
+  "name": "Enchant",
+  "description": "Omnichannel customer communication platform. Free tier includes chat widgets, email newsletters, link-in-bio hub & more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.enchant.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.enchant.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

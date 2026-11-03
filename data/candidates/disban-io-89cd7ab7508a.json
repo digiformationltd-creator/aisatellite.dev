@@ -1,0 +1,20 @@
+{
+  "id": "disban-io-89cd7ab7508a",
+  "canonicalUrl": "https://disban.io/",
+  "name": "disban.io",
+  "description": "Protect user signups from disposable emails, or just validate an email against disposable service. Free 2000 check credits per month, No Credit Card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://disban.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://disban.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z"
+}

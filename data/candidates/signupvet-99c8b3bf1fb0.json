@@ -1,0 +1,20 @@
+{
+  "id": "signupvet-99c8b3bf1fb0",
+  "canonicalUrl": "https://www.signupvet.com/",
+  "name": "SignupVet",
+  "description": "An API that checks email, phone and IP of new signups. 250 free checks per month, no credit card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.signupvet.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.signupvet.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

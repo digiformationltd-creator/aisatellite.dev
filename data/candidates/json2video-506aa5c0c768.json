@@ -1,0 +1,20 @@
+{
+  "id": "json2video-506aa5c0c768",
+  "canonicalUrl": "https://json2video.com/",
+  "name": "JSON2Video",
+  "description": "A video editing API to automate video marketing and social media videos, programmatically or with no code.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://json2video.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://json2video.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

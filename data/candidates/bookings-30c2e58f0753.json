@@ -1,0 +1,20 @@
+{
+  "id": "bookings-30c2e58f0753",
+  "canonicalUrl": "https://zoho.com/bookings",
+  "name": "Bookings",
+  "description": "Appointment Scheduling",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoho.com/bookings",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoho.com/bookings"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

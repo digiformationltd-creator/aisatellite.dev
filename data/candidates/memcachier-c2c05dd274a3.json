@@ -1,0 +1,20 @@
+{
+  "id": "memcachier-c2c05dd274a3",
+  "canonicalUrl": "https://www.memcachier.com/",
+  "name": "MemCachier",
+  "description": "Managed Memcache service. Free for up to 25MB, 1 Proxy Server, and basic analytics",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.memcachier.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.memcachier.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

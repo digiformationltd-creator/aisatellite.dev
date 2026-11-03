@@ -1,0 +1,20 @@
+{
+  "id": "joydemo-dd10a1d50413",
+  "canonicalUrl": "https://joydemo.com/",
+  "name": "JoyDemo",
+  "description": "Create interactive and clickable demos of your website or app. Free with unlimited demos and unlimited views.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://joydemo.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://joydemo.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "geeftlist-4066da441f59",
+  "canonicalUrl": "https://codeberg.org/nanawel/geeftlist",
+  "name": "Geeftlist",
+  "description": "Collaborative platform for managing, sharing and reserving gifts between friends and family. `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://codeberg.org/nanawel/geeftlist",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codeberg.org/nanawel/geeftlist"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

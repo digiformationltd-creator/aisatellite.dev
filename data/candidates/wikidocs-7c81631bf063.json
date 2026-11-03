@@ -1,0 +1,20 @@
+{
+  "id": "wikidocs-7c81631bf063",
+  "canonicalUrl": "https://www.wikidocs.app/",
+  "name": "WikiDocs",
+  "description": "Databaseless markdown flat-file wiki engine. ([Source Code](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.wikidocs.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.wikidocs.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z"
+}

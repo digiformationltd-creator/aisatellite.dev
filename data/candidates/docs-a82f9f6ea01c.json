@@ -1,0 +1,20 @@
+{
+  "id": "docs-a82f9f6ea01c",
+  "canonicalUrl": "https://docs.numerique.gouv.fr/",
+  "name": "Docs",
+  "description": "Collaborative note taking, wiki and documentation platform that scales. ([Source Code](https://github.com/suitenumerique/docs)) `MIT` `K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docs.numerique.gouv.fr/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docs.numerique.gouv.fr/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

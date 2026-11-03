@@ -1,0 +1,20 @@
+{
+  "id": "loginllama-e418f54ddfe1",
+  "canonicalUrl": "https://loginllama.app/",
+  "name": "LoginLlama",
+  "description": "A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://loginllama.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://loginllama.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

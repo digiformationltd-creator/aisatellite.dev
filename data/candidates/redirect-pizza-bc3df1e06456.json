@@ -1,0 +1,20 @@
+{
+  "id": "redirect-pizza-bc3df1e06456",
+  "canonicalUrl": "https://redirect.pizza/",
+  "name": "redirect.pizza",
+  "description": "Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://redirect.pizza/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://redirect.pizza/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

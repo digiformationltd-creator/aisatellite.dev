@@ -1,0 +1,20 @@
+{
+  "id": "cerbos-hub-b44e4e398656",
+  "canonicalUrl": "https://www.cerbos.dev/product-cerbos-hub",
+  "name": "Cerbos Hub",
+  "description": "A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control, free up to 100 monthly active principals.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.cerbos.dev/product-cerbos-hub",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cerbos.dev/product-cerbos-hub"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z"
+}

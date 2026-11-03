@@ -1,0 +1,20 @@
+{
+  "id": "sunshine-4615a52ca918",
+  "canonicalUrl": "https://app.lizardbyte.dev/Sunshine",
+  "name": "Sunshine",
+  "description": "Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://app.lizardbyte.dev/Sunshine/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://app.lizardbyte.dev/Sunshine/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

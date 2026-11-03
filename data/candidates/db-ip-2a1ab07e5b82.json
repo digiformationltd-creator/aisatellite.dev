@@ -1,0 +1,20 @@
+{
+  "id": "db-ip-2a1ab07e5b82",
+  "canonicalUrl": "https://db-ip.com/api/free",
+  "name": "DB-IP",
+  "description": "Free IP geolocation API with 1k request per IP per day.lite database under the CC-BY 4.0 License is free too.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://db-ip.com/api/free",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://db-ip.com/api/free"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pageclip-f7223cbefa62",
+  "canonicalUrl": "https://pageclip.co/",
+  "name": "Pageclip",
+  "description": "The free plan allows one site, one form, and 1,000 monthly submissions.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pageclip.co/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pageclip.co/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

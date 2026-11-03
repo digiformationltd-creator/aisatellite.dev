@@ -1,0 +1,22 @@
+{
+  "id": "bytebase-480e25492a2c",
+  "canonicalUrl": "https://www.bytebase.com/",
+  "name": "Bytebase",
+  "description": "Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Source Code](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.bytebase.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.bytebase.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:47.251Z",
+  "githubStars": 0
+}

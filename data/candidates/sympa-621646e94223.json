@@ -1,0 +1,20 @@
+{
+  "id": "sympa-621646e94223",
+  "canonicalUrl": "https://www.sympa.community/",
+  "name": "Sympa",
+  "description": "Mailing list manager. ([Source Code](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.sympa.community/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.sympa.community/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "photoview-eb7eae4bfc2d",
+  "canonicalUrl": "https://photoview.github.io/",
+  "name": "Photoview",
+  "description": "Simple and user-friendly photo gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Demo](https://photoview.github.io/), [Source Code](https://github.com/photoview/photoview)) `GPL-3.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://photoview.github.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://photoview.github.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z"
+}

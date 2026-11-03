@@ -1,0 +1,20 @@
+{
+  "id": "reezn-io-2fe408d3c806",
+  "canonicalUrl": "https://reezn.io/",
+  "name": "Reezn.io",
+  "description": "Spec-driven development workflow for teams: shifts review left so problems get caught before code is written, instead of piling up in code review. Builds a knowledge graph of your business as you go, which the AI agents use for later features. Free plan: 3 seats, 1 project, 5 features/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://reezn.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://reezn.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

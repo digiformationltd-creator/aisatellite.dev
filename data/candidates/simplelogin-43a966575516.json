@@ -1,0 +1,23 @@
+{
+  "id": "simplelogin-43a966575516",
+  "canonicalUrl": "https://simplelogin.io/",
+  "name": "SimpleLogin",
+  "description": "Email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code](https://github.com/simple-login/app)) `MIT` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://simplelogin.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://simplelogin.io/",
+    "https://simplelogin.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:47.251Z",
+  "githubStars": 0
+}

@@ -1,0 +1,20 @@
+{
+  "id": "surveys-e185c5196279",
+  "canonicalUrl": "https://zoho.com/surveys",
+  "name": "Surveys",
+  "description": "Online Surveys",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoho.com/surveys",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoho.com/surveys"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "zerosmtp-548f47a38e5f",
+  "canonicalUrl": "https://github.com/msgwing/ZeroSMTP",
+  "name": "ZeroSMTP",
+  "description": "Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "repositoryUrl": "https://github.com/msgwing/ZeroSMTP",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/msgwing/ZeroSMTP"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

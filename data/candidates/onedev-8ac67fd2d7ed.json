@@ -1,0 +1,20 @@
+{
+  "id": "onedev-8ac67fd2d7ed",
+  "canonicalUrl": "https://onedev.io/",
+  "name": "OneDev",
+  "description": "All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([Source Code](https://github.com/theonedev/onedev)) `MIT` `Java/Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://onedev.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://onedev.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

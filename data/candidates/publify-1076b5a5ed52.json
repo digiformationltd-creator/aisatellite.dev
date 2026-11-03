@@ -1,0 +1,20 @@
+{
+  "id": "publify-1076b5a5ed52",
+  "canonicalUrl": "https://publify.github.io/",
+  "name": "Publify",
+  "description": "Simple but full featured web publishing software. ([Source Code](https://github.com/publify/publify)) `MIT` `Ruby`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://publify.github.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://publify.github.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

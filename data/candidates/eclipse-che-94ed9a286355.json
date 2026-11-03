@@ -1,0 +1,22 @@
+{
+  "id": "eclipse-che-94ed9a286355",
+  "canonicalUrl": "https://www.eclipse.org/che",
+  "name": "Eclipse Che",
+  "description": "Workspace server and cloud IDE. ([Source Code](https://github.com/eclipse-che/che)) `EPL-1.0` `Docker/Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.eclipse.org/che/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.eclipse.org/che/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0
+}

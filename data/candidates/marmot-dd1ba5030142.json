@@ -1,0 +1,20 @@
+{
+  "id": "marmot-dd1ba5030142",
+  "canonicalUrl": "https://marmotdata.io/",
+  "name": "Marmot",
+  "description": "Data catalog for discovering and organizing data assets across your stack, including databases, APIs, message queues, and pipelines. ([Demo](https://demo.marmotdata.io), [Source Code](https://github.com/marmotdata/marmot)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://marmotdata.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://marmotdata.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

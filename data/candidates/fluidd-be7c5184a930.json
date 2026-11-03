@@ -1,0 +1,20 @@
+{
+  "id": "fluidd-be7c5184a930",
+  "canonicalUrl": "https://docs.fluidd.xyz/",
+  "name": "Fluidd",
+  "description": "Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://docs.fluidd.xyz/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://docs.fluidd.xyz/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

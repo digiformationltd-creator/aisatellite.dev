@@ -1,0 +1,20 @@
+{
+  "id": "tinyfish-ae63cd830742",
+  "canonicalUrl": "https://www.tinyfish.ai/",
+  "name": "Tinyfish",
+  "description": "Free web search and fetch API with rate limits.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.tinyfish.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.tinyfish.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

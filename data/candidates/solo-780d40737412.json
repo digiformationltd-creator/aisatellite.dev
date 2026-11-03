@@ -1,0 +1,20 @@
+{
+  "id": "solo-780d40737412",
+  "canonicalUrl": "https://soloist.ai/",
+  "name": "Solo",
+  "description": "Free AI website creator from Mozilla, create a beautiful website for your business from a few simple inputs. Free custom domain, no credit card needed.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://soloist.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://soloist.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z"
+}

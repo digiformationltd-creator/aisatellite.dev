@@ -1,0 +1,20 @@
+{
+  "id": "crowdin-com-cad9ec2c1307",
+  "canonicalUrl": "https://crowdin.com/",
+  "name": "crowdin.com",
+  "description": "Unlimited projects, unlimited strings, and collaborators for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://crowdin.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://crowdin.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z"
+}

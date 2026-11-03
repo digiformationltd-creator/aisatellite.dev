@@ -1,0 +1,20 @@
+{
+  "id": "developers-google-com-42508154d488",
+  "canonicalUrl": "https://developers.google.com/speed/libraries",
+  "name": "developers.google.com",
+  "description": "The Google Hosted Libraries is a content distribution network for the most popular Open Source JavaScript libraries",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developers.google.com/speed/libraries/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developers.google.com/speed/libraries/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

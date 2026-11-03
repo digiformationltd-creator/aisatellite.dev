@@ -1,0 +1,20 @@
+{
+  "id": "sourceforge-6421f31a904b",
+  "canonicalUrl": "https://sourceforge.net/",
+  "name": "SourceForge",
+  "description": "Find, Create, and Publish Open Source software for free",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sourceforge.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sourceforge.net/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

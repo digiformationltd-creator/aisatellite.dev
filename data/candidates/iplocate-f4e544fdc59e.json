@@ -1,0 +1,20 @@
+{
+  "id": "iplocate-f4e544fdc59e",
+  "canonicalUrl": "https://www.iplocate.io/",
+  "name": "IPLocate",
+  "description": "IP Geolocation API, free up to 1,000 requests/day. Includes proxy/VPN/hosting detection, ASN data, IP to Company, and more. IPLocate also offers free downloadable IP to Country and IP to ASN databases in CSV or GeoIP-compatible MMDB formats.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.iplocate.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.iplocate.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z"
+}

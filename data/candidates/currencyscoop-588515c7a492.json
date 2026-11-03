@@ -1,0 +1,20 @@
+{
+  "id": "currencyscoop-588515c7a492",
+  "canonicalUrl": "https://currencyscoop.com/",
+  "name": "CurrencyScoop",
+  "description": "Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://currencyscoop.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://currencyscoop.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

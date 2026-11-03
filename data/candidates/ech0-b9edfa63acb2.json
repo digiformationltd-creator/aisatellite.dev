@@ -1,0 +1,20 @@
+{
+  "id": "ech0-b9edfa63acb2",
+  "canonicalUrl": "https://ech0.app/",
+  "name": "Ech0",
+  "description": "Lightweight federated publishing platform focused on personal idea sharing (documentation in Chinese). ([Demo](https://memo.vaaat.com/), [Source Code](https://github.com/lin-snow/Ech0)) `AGPL-3.0` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ech0.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ech0.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

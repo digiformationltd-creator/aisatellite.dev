@@ -1,0 +1,20 @@
+{
+  "id": "amplitude-com-71a6c7b5b8fc",
+  "canonicalUrl": "https://amplitude.com/",
+  "name": "amplitude.com",
+  "description": "1 million monthly events, up to 2 apps",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://amplitude.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://amplitude.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

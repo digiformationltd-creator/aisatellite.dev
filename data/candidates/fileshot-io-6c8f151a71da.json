@@ -1,0 +1,20 @@
+{
+  "id": "fileshot-io-6c8f151a71da",
+  "canonicalUrl": "https://fileshot.io/",
+  "name": "FileShot.io",
+  "description": "Zero-knowledge encrypted file sharing. AES-256-GCM browser-side encryption ensures files are encrypted in-browser before upload. No account required for sender or recipient. Self-hostable (MIT open-source). Free tier includes unlimited uploads with no file size restrictions.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://fileshot.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://fileshot.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

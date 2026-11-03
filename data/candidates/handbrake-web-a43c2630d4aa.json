@@ -1,0 +1,20 @@
+{
+  "id": "handbrake-web-a43c2630d4aa",
+  "canonicalUrl": "https://github.com/TheNickOfTime/handbrake-web",
+  "name": "HandBrake Web",
+  "description": "Use one or more instances of HandBrake video transcoder on a headless device via a web interface. `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/TheNickOfTime/handbrake-web",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/TheNickOfTime/handbrake-web"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z"
+}

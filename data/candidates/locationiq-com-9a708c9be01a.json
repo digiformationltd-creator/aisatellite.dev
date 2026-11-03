@@ -1,0 +1,20 @@
+{
+  "id": "locationiq-com-9a708c9be01a",
+  "canonicalUrl": "https://locationiq.com/",
+  "name": "locationiq.com",
+  "description": "Geocoding, Maps, and Routing APIs. Five thousand requests/day for free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://locationiq.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://locationiq.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sqlpage-9e6a3fd69c90",
+  "canonicalUrl": "https://sql-page.com/",
+  "name": "SQLPage",
+  "description": "SQL-only dynamic website builder. ([Source Code](https://github.com/sqlpage/SQLPage)) `MIT` `Rust/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://sql-page.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sql-page.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "localcert-0b663de0a943",
+  "canonicalUrl": "https://localcert.net/",
+  "name": "LocalCert",
+  "description": "Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://localcert.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://localcert.net"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z"
+}

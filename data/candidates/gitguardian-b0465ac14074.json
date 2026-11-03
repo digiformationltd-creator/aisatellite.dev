@@ -1,0 +1,20 @@
+{
+  "id": "gitguardian-b0465ac14074",
+  "canonicalUrl": "https://www.gitguardian.com/",
+  "name": "GitGuardian",
+  "description": "Keep secrets out of your source code with automated secrets detection and remediation. Scan your git repos for 350+ types of secrets and sensitive files - Free for individuals and teams of 25 developers or less.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.gitguardian.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.gitguardian.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z"
+}

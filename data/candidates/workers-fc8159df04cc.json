@@ -1,0 +1,20 @@
+{
+  "id": "workers-fc8159df04cc",
+  "canonicalUrl": "https://developers.cloudflare.com/workers",
+  "name": "Workers",
+  "description": "Deploy serverless code for free on Cloudflare's global network-100k daily requests.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developers.cloudflare.com/workers/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developers.cloudflare.com/workers/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z"
+}

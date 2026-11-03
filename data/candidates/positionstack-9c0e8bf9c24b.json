@@ -1,0 +1,20 @@
+{
+  "id": "positionstack-9c0e8bf9c24b",
+  "canonicalUrl": "https://positionstack.com/",
+  "name": "positionstack",
+  "description": "Free geocoding for global places and coordinates. 25,000 Requests per month for personal use.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://positionstack.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://positionstack.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z"
+}

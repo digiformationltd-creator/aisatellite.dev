@@ -1,0 +1,20 @@
+{
+  "id": "opencart-3aeec5aa979e",
+  "canonicalUrl": "https://www.opencart.com/",
+  "name": "OpenCart",
+  "description": "Shopping cart solution. ([Source Code](https://github.com/opencart/opencart)) `GPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.opencart.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.opencart.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

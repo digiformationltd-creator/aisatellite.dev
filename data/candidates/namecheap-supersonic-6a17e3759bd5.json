@@ -1,0 +1,20 @@
+{
+  "id": "namecheap-supersonic-6a17e3759bd5",
+  "canonicalUrl": "https://www.namecheap.com/supersonic-cdn",
+  "name": "Namecheap Supersonic",
+  "description": "Free DDoS protection",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.namecheap.com/supersonic-cdn/#free-plan",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.namecheap.com/supersonic-cdn/#free-plan"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

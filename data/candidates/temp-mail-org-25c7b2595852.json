@@ -1,0 +1,20 @@
+{
+  "id": "temp-mail-org-25c7b2595852",
+  "canonicalUrl": "https://temp-mail.org/en",
+  "name": "Temp-Mail.org",
+  "description": "Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes every time the page is reloaded. It is entirely free and does not include any pricing for their services.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://temp-mail.org/en/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://temp-mail.org/en/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z"
+}

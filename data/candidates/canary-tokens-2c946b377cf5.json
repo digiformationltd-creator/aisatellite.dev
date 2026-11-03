@@ -1,0 +1,20 @@
+{
+  "id": "canary-tokens-2c946b377cf5",
+  "canonicalUrl": "https://canarytokens.org/",
+  "name": "Canary Tokens",
+  "description": "Generates lightweight, embedded honeypot triggers called canary tokens for detecting unauthorized access. ([Source Code](https://github.com/thinkst/opencanary)) `BSD-3-Clause` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://canarytokens.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://canarytokens.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

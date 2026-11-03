@@ -1,0 +1,20 @@
+{
+  "id": "arize-ax-7c87c1a21156",
+  "canonicalUrl": "https://arize.com/",
+  "name": "Arize AX",
+  "description": "AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://arize.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://arize.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

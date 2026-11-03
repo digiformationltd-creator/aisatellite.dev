@@ -1,0 +1,20 @@
+{
+  "id": "watchgoose-23db3ba16a48",
+  "canonicalUrl": "https://watchgoose.com/",
+  "name": "Watchgoose",
+  "description": "Cron job and heartbeat monitoring and status pages for scheduled tasks, backups and background jobs, MCP server available. Free tier: 10 checks, 200 ping log entries, email/chat/webhook alerts, no credit card. Open Source support program for qualifying OS projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://watchgoose.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://watchgoose.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

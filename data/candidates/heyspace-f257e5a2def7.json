@@ -1,0 +1,20 @@
+{
+  "id": "heyspace-f257e5a2def7",
+  "canonicalUrl": "https://hey.space/",
+  "name": "HeySpace",
+  "description": "Task management tool with chat, calendar, timeline and video calls. Free for up to 5 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://hey.space",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hey.space"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

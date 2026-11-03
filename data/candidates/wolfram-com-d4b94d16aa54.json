@@ -1,0 +1,20 @@
+{
+  "id": "wolfram-com-d4b94d16aa54",
+  "canonicalUrl": "https://wolfram.com/language",
+  "name": "wolfram.com",
+  "description": "Built-in knowledge-based algorithms in the cloud.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://wolfram.com/language/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wolfram.com/language/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z"
+}

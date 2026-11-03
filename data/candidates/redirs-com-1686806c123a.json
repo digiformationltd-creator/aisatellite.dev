@@ -1,0 +1,20 @@
+{
+  "id": "redirs-com-1686806c123a",
+  "canonicalUrl": "https://www.redirs.com/",
+  "name": "redirs.com",
+  "description": "Easy domain redirects with auto-SSL, analytics, and URL path forwarding. Free for basic use (up to 5 domains).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.redirs.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.redirs.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

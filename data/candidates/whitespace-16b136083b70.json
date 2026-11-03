@@ -1,0 +1,20 @@
+{
+  "id": "whitespace-16b136083b70",
+  "canonicalUrl": "https://whitespace.dev/",
+  "name": "Whitespace",
+  "description": "One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://whitespace.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://whitespace.dev"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}

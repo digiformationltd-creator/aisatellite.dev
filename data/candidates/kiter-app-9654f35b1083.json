@@ -1,0 +1,20 @@
+{
+  "id": "kiter-app-9654f35b1083",
+  "canonicalUrl": "https://www.kiter.app/",
+  "name": "Kiter.app",
+  "description": "Let anyone organize their job search and track interviews, opportunities, and connections. Powerful web app and Chrome extension. Completely free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.kiter.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.kiter.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z"
+}

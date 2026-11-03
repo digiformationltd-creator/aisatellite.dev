@@ -1,0 +1,20 @@
+{
+  "id": "homepage-by-gethomepage-17992583385d",
+  "canonicalUrl": "https://github.com/gethomepage/homepage",
+  "name": "Homepage by gethomepage",
+  "description": "Highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/gethomepage/homepage",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/gethomepage/homepage"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "statcounter-1be2e2d8544f",
+  "canonicalUrl": "https://statcounter.com/",
+  "name": "StatCounter",
+  "description": "Website Viewer Analytics. Free plan for analytics of 500 most recent visitors.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://statcounter.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://statcounter.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z"
+}

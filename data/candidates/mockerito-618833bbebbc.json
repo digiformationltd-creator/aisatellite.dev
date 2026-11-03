@@ -1,0 +1,20 @@
+{
+  "id": "mockerito-618833bbebbc",
+  "canonicalUrl": "https://mockerito.com/",
+  "name": "Mockerito",
+  "description": "Free mock REST API service providing realistic data across 9 domains (e-commerce, finance, healthcare, education, recruitment, social media, stock markets, weather, and aviation). No mandatory signup, no API keys, unlimited requests. Perfect for frontend prototyping, API testing, learning and teaching web development.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mockerito.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mockerito.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z"
+}

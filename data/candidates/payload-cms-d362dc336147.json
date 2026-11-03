@@ -1,0 +1,20 @@
+{
+  "id": "payload-cms-d362dc336147",
+  "canonicalUrl": "https://payloadcms.com/",
+  "name": "Payload CMS",
+  "description": "Developer-first headless CMS and application framework. ([Source Code](https://github.com/payloadcms/payload)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://payloadcms.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://payloadcms.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z"
+}

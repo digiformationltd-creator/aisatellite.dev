@@ -1,0 +1,20 @@
+{
+  "id": "keeper-sh-53fa66ad5343",
+  "canonicalUrl": "https://www.keeper.sh/",
+  "name": "Keeper.sh",
+  "description": "A calendar syncing tool that keeps your work, personal, business or student calendars in sync. Free for up to 2 calendars, 3 connections, and give your agent or scripts access to read and modify your calendars with up to 25 calls per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.keeper.sh",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.keeper.sh"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z"
+}

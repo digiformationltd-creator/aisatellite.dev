@@ -1,0 +1,20 @@
+{
+  "id": "ssr-server-side-rendering-checker-4d3c3dc25e85",
+  "canonicalUrl": "https://www.crawlably.com/ssr-checker",
+  "name": "SSR (Server-side Rendering) Checker",
+  "description": "Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.crawlably.com/ssr-checker/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.crawlably.com/ssr-checker/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "libretime-4c0efe6edf05",
+  "canonicalUrl": "https://libretime.org/",
+  "name": "LibreTime",
+  "description": "Broadcast streaming radio on the web (fork of Airtime). ([Source Code](https://github.com/LibreTime/libretime)) `AGPL-3.0` `Docker/PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://libretime.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://libretime.org"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z"
+}

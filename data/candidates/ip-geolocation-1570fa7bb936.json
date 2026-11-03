@@ -1,0 +1,21 @@
+{
+  "id": "ip-geolocation-1570fa7bb936",
+  "canonicalUrl": "https://ipgeolocation.io/",
+  "name": "IP Geolocation",
+  "description": "Free DEVELOPER plan available with 30K requests/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ipgeolocation.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ipgeolocation.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:47.250Z",
+  "githubStars": 0
+}

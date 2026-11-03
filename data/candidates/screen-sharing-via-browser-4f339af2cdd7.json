@@ -1,0 +1,20 @@
+{
+  "id": "screen-sharing-via-browser-4f339af2cdd7",
+  "canonicalUrl": "https://screensharing.net/",
+  "name": "Screen Sharing via Browser",
+  "description": "Free screen sharing tool, share your screen with collabrators right from your browser, no download or registration needed. For free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://screensharing.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://screensharing.net"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z"
+}

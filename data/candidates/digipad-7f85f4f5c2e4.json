@@ -1,0 +1,20 @@
+{
+  "id": "digipad-7f85f4f5c2e4",
+  "canonicalUrl": "https://digipad.app/",
+  "name": "Digipad",
+  "description": "Online application for creating collaborative digital notepads (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digipad)) `AGPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://digipad.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://digipad.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z"
+}

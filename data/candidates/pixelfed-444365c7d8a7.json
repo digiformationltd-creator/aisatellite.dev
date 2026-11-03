@@ -1,0 +1,20 @@
+{
+  "id": "pixelfed-444365c7d8a7",
+  "canonicalUrl": "https://pixelfed.social/",
+  "name": "PixelFed",
+  "description": "Ethical photo sharing platform, powered by ActivityPub federation (alternative to Instagram). ([Source Code](https://github.com/pixelfed/pixelfed)) `AGPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://pixelfed.social",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pixelfed.social"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z"
+}

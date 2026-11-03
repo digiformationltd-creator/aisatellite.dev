@@ -1,0 +1,20 @@
+{
+  "id": "formboost-app-88a821b318e1",
+  "canonicalUrl": "https://formboost.app/",
+  "name": "Formboost.app",
+  "description": "Developer-first form backend with simple HTTP endpoints, 500 free submissions/month, spam protection, email notifications, and built-in Slack, Discord & Telegram integrations. No backend required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://formboost.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://formboost.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z"
+}

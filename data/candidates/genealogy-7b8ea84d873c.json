@@ -1,0 +1,20 @@
+{
+  "id": "genealogy-7b8ea84d873c",
+  "canonicalUrl": "https://genealogy.kreaweb.be/",
+  "name": "Genealogy",
+  "description": "Record family members and their relationships and build a family tree. ([Demo](https://genealogy.kreaweb.be/), [Source Code](https://github.com/MGeurts/genealogy)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://genealogy.kreaweb.be/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://genealogy.kreaweb.be/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z"
+}

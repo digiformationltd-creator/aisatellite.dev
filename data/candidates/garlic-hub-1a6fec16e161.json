@@ -1,0 +1,20 @@
+{
+  "id": "garlic-hub-1a6fec16e161",
+  "canonicalUrl": "https://garlic-signage.com/garlic-hub",
+  "name": "Garlic-Hub",
+  "description": "Digital signage device and content management system with SMIL playlist support and scheduling. ([Source Code](https://github.com/garlic-signage/garlic-hub)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://garlic-signage.com/garlic-hub/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://garlic-signage.com/garlic-hub/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z"
+}

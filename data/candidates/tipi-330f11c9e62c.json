@@ -1,0 +1,20 @@
+{
+  "id": "tipi-330f11c9e62c",
+  "canonicalUrl": "https://runtipi.io/",
+  "name": "Tipi",
+  "description": "Homeserver manager. One command setup, one click installs for your favorite home server apps. ([Source Code](https://github.com/runtipi/runtipi)) `GPL-3.0` `Shell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://runtipi.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://runtipi.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z"
+}

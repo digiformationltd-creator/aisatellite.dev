@@ -1,0 +1,20 @@
+{
+  "id": "app-ai-gateway-8a6069b9d4bb",
+  "canonicalUrl": "https://appaigateway.com/",
+  "name": "App AI Gateway",
+  "description": "Gateway/proxy for calling AI providers from iOS applications without shipping provider keys or building your own backend. Only allows requests from your real app via App Attest, with rate limits and budgets per user and per app. The free plan includes 1,000 requests per month, no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://appaigateway.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://appaigateway.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z"
+}

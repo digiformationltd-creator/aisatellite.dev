@@ -1,0 +1,20 @@
+{
+  "id": "bugsink-8069d28af54d",
+  "canonicalUrl": "https://www.bugsink.com/",
+  "name": "Bugsink",
+  "description": "Error-tracking with Sentry-SDK compatibility. Free for up to 5,000 errors/month, or unlimited use when self-hosted.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.bugsink.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.bugsink.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z"
+}
