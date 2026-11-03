@@ -1,0 +1,22 @@
+{
+  "id": "s-cart-612eed62c104",
+  "canonicalUrl": "https://s-cart.org/",
+  "name": "s-cart",
+  "description": "E-commerce website for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code](https://github.com/gp247net/s-cart)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://s-cart.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://s-cart.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:25:37.596Z",
+  "qualityScore": 52
+}

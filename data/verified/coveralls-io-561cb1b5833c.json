@@ -1,0 +1,22 @@
+{
+  "id": "coveralls-io-561cb1b5833c",
+  "canonicalUrl": "https://coveralls.io/",
+  "name": "coveralls.io",
+  "description": "Display test coverage reports, free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://coveralls.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://coveralls.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:12:14.205Z",
+  "qualityScore": 52
+}

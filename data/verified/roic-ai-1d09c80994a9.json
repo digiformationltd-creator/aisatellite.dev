@@ -1,0 +1,22 @@
+{
+  "id": "roic-ai-1d09c80994a9",
+  "canonicalUrl": "https://www.roic.ai/",
+  "name": "ROIC.ai",
+  "description": "Financial Data API: income statements, balance sheets and cash flows, and earnings call transcripts (with audio and slides) for 68k+ companies. Free tier: 5 requests/minute, 2 years of history, no credit card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.roic.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.roic.ai/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:25:16.848Z",
+  "qualityScore": 52
+}

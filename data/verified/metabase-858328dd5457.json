@@ -1,0 +1,22 @@
+{
+  "id": "metabase-858328dd5457",
+  "canonicalUrl": "https://metabase.com/",
+  "name": "Metabase",
+  "description": "Easy way for everyone in your company to ask questions and learn from data. ([Source Code](https://github.com/metabase/metabase)) `AGPL-3.0` `Java/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://metabase.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://metabase.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:20:37.085Z",
+  "qualityScore": 52
+}

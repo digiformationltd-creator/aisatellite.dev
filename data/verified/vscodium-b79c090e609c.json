@@ -1,0 +1,22 @@
+{
+  "id": "vscodium-b79c090e609c",
+  "canonicalUrl": "https://vscodium.com/",
+  "name": "VSCodium",
+  "description": "Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://vscodium.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://vscodium.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:30:25.282Z",
+  "qualityScore": 52
+}

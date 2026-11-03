@@ -1,0 +1,22 @@
+{
+  "id": "neo4j-aura-9a902e3bb3fe",
+  "canonicalUrl": "https://neo4j.com/cloud/aura",
+  "name": "Neo4j Aura",
+  "description": "Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (200k nodes, 400k relationships).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://neo4j.com/cloud/aura/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://neo4j.com/cloud/aura/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:21:25.336Z",
+  "qualityScore": 52
+}

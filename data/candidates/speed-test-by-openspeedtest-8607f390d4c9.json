@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://openspeedtest.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.425Z",
-  "updatedAt": "2026-11-03T07:24:45.425Z"
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:27:34.700Z",
+  "qualityScore": 52
 }

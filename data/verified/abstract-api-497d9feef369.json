@@ -1,0 +1,22 @@
+{
+  "id": "abstract-api-497d9feef369",
+  "canonicalUrl": "https://www.abstractapi.com/",
+  "name": "Abstract API",
+  "description": "API suite for various use cases, including IP geolocation, phone number validation, or email validation.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.abstractapi.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.abstractapi.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:08:52.989Z",
+  "qualityScore": 52
+}

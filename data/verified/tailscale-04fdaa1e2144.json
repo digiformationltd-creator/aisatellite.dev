@@ -1,0 +1,22 @@
+{
+  "id": "tailscale-04fdaa1e2144",
+  "canonicalUrl": "https://tailscale.com/",
+  "name": "Tailscale",
+  "description": "Zero config VPN, using the open-source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and three users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tailscale.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tailscale.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:28:38.876Z",
+  "qualityScore": 52
+}

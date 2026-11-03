@@ -1,0 +1,22 @@
+{
+  "id": "sample-files-a96c27075ce5",
+  "canonicalUrl": "https://mzeeshan.me/tools/sample-files",
+  "name": "Sample Files",
+  "description": "Collection of free test files across video, audio, document and archive formats, useful for testing and QA.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mzeeshan.me/tools/sample-files",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mzeeshan.me/tools/sample-files"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:25:46.113Z",
+  "qualityScore": 52
+}

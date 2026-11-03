@@ -1,0 +1,22 @@
+{
+  "id": "notediscovery-359887f974e8",
+  "canonicalUrl": "https://www.notediscovery.com/",
+  "name": "NoteDiscovery",
+  "description": "Markdown note-taking app with plain-file storage, graph view, and MCP integration (alternative to Obsidian, Notion). ([Demo](https://gamosoft-notediscovery-demo.hf.space), [Source Code](https://github.com/gamosoft/NoteDiscovery)) `MIT` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.notediscovery.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.notediscovery.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:21:46.528Z",
+  "qualityScore": 52
+}

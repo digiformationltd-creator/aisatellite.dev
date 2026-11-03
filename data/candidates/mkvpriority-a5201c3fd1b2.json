@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/kennethsible/mkvpriority"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.423Z",
-  "updatedAt": "2026-11-03T07:24:45.423Z"
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:20:59.073Z",
+  "qualityScore": 55
 }

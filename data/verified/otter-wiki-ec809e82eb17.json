@@ -1,0 +1,22 @@
+{
+  "id": "otter-wiki-ec809e82eb17",
+  "canonicalUrl": "https://otterwiki.com/",
+  "name": "Otter Wiki",
+  "description": "Simple, easy to use wiki software using markdown. ([Source Code](https://github.com/redimp/otterwiki)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://otterwiki.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://otterwiki.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:22:46.208Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "codacy-com-206a62a84021",
+  "canonicalUrl": "https://www.codacy.com/",
+  "name": "codacy.com",
+  "description": "Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS, and CoffeeScript, free for unlimited public and private repositories",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.codacy.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.codacy.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:11:38.445Z",
+  "qualityScore": 52
+}

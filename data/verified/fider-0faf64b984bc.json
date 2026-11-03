@@ -1,0 +1,22 @@
+{
+  "id": "fider-0faf64b984bc",
+  "canonicalUrl": "https://fider.io/",
+  "name": "Fider",
+  "description": "Open platform to collect and prioritize feedback (alternative to UserVoice). ([Demo](https://demo.fider.io), [Source Code](https://github.com/getfider/fider)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://fider.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://fider.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:14:41.836Z",
+  "qualityScore": 52
+}

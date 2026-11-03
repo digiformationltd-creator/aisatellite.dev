@@ -1,0 +1,22 @@
+{
+  "id": "projectsend-8879a6f666d6",
+  "canonicalUrl": "https://www.projectsend.org/",
+  "name": "ProjectSend",
+  "description": "Upload files and assign them to specific clients you create. Give access to those files to your clients. ([Source Code](https://github.com/projectsend/projectsend)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.projectsend.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.projectsend.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:24:03.740Z",
+  "qualityScore": 52
+}

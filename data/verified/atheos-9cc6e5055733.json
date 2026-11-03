@@ -1,0 +1,22 @@
+{
+  "id": "atheos-9cc6e5055733",
+  "canonicalUrl": "https://www.atheos.io/",
+  "name": "Atheos",
+  "description": "Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.atheos.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.atheos.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:09:46.605Z",
+  "qualityScore": 52
+}

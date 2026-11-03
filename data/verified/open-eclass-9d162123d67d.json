@@ -1,0 +1,22 @@
+{
+  "id": "open-eclass-9d162123d67d",
+  "canonicalUrl": "https://www.openeclass.org/",
+  "name": "Open eClass",
+  "description": "Advanced e-learning solution that can enhance the teaching and learning process. ([Demo](https://demo.openeclass.org/), [Source Code](https://github.com/gunet/openeclass)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.openeclass.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.openeclass.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:22:12.615Z",
+  "qualityScore": 52
+}

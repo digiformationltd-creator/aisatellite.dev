@@ -1,0 +1,22 @@
+{
+  "id": "admidio-94431c911d21",
+  "canonicalUrl": "https://www.admidio.org/",
+  "name": "admidio",
+  "description": "User management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. ([Demo](https://www.admidio.org/demo/), [Source Code](https://github.com/Admidio/admidio)) `GPL-2.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.admidio.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.admidio.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:08:58.735Z",
+  "qualityScore": 52
+}

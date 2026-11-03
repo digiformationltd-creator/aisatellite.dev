@@ -1,0 +1,22 @@
+{
+  "id": "kanboard-4c88bf542ac0",
+  "canonicalUrl": "https://kanboard.org/",
+  "name": "Kanboard",
+  "description": "Simple visual task board. ([Source Code](https://github.com/kanboard/kanboard)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://kanboard.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://kanboard.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:18:35.348Z",
+  "qualityScore": 52
+}

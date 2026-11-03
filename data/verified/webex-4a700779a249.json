@@ -1,0 +1,22 @@
+{
+  "id": "webex-4a700779a249",
+  "canonicalUrl": "https://www.webex.com/",
+  "name": "Webex",
+  "description": "Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.webex.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.webex.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:30:42.531Z",
+  "qualityScore": 52
+}

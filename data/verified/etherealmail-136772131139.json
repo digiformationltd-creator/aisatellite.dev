@@ -1,0 +1,22 @@
+{
+  "id": "etherealmail-136772131139",
+  "canonicalUrl": "https://ethereal.email/",
+  "name": "EtherealMail",
+  "description": "Ethereal is a fake SMTP service, mainly aimed at Nodemailer and EmailEngine users (but not limited to). It's an entirely free anti-transactional email service where messages never get delivered.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ethereal.email",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ethereal.email"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:14:18.361Z",
+  "qualityScore": 52
+}

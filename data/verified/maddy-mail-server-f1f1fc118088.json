@@ -1,0 +1,22 @@
+{
+  "id": "maddy-mail-server-f1f1fc118088",
+  "canonicalUrl": "https://maddy.email/",
+  "name": "Maddy Mail Server",
+  "description": "All-in-one mail server that implements SMTP (both MTA and MX) and IMAP. Replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC with single daemon. ([Source Code](https://github.com/foxcpp/maddy)) `GPL-3.0` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://maddy.email/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://maddy.email/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:19:54.328Z",
+  "qualityScore": 52
+}

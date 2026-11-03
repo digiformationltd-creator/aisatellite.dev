@@ -1,0 +1,22 @@
+{
+  "id": "opencagedata-com-6ccc2989310d",
+  "canonicalUrl": "https://opencagedata.com/",
+  "name": "opencagedata.com",
+  "description": "Geocoding API aggregating OpenStreetMap and other open geo sources. Two thousand five hundred free queries/day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://opencagedata.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://opencagedata.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:22:18.397Z",
+  "qualityScore": 52
+}

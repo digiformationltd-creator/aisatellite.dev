@@ -1,0 +1,22 @@
+{
+  "id": "dockstarter-3c98674c22b9",
+  "canonicalUrl": "https://dockstarter.com/",
+  "name": "DockSTARTer",
+  "description": "DockSTARTer helps you get started with home server apps running in Docker. ([Source Code](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://dockstarter.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dockstarter.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:13:22.147Z",
+  "qualityScore": 52
+}

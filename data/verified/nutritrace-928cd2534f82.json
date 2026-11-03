@@ -1,0 +1,22 @@
+{
+  "id": "nutritrace-928cd2534f82",
+  "canonicalUrl": "https://traceapps.github.io/docs",
+  "name": "NutriTrace",
+  "description": "Nutrition and diet tracker with barcode scanning, wearable integrations (Fitbit, Withings, Garmin, Health Connect), adaptive calorie goals, multi-user sharing, and a built-in AI assistant (alternative to MyFitnessPal, Cronometer). ([Source Code](https://github.com/TraceApps/nutritrace)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://traceapps.github.io/docs/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://traceapps.github.io/docs/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:21:58.195Z",
+  "qualityScore": 52
+}

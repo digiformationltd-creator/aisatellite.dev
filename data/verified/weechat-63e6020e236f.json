@@ -1,0 +1,22 @@
+{
+  "id": "weechat-63e6020e236f",
+  "canonicalUrl": "https://weechat.org/",
+  "name": "Weechat",
+  "description": "Fast, light and extensible chat client. ([Source Code](https://github.com/weechat/weechat)) `GPL-3.0` `C/Docker/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://weechat.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://weechat.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:30:54.058Z",
+  "qualityScore": 52
+}

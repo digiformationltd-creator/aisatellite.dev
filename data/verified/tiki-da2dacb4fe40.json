@@ -1,0 +1,22 @@
+{
+  "id": "tiki-da2dacb4fe40",
+  "canonicalUrl": "https://tiki.org/HomePage",
+  "name": "Tiki",
+  "description": "Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://gitlab.com/tikiwiki/tiki)) `LGPL-2.1` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://tiki.org/HomePage",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tiki.org/HomePage"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:29:07.058Z",
+  "qualityScore": 52
+}

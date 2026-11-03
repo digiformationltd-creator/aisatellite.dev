@@ -1,0 +1,22 @@
+{
+  "id": "monitorable-c171ebe5cb77",
+  "canonicalUrl": "https://monitorable.io/",
+  "name": "Monitorable",
+  "description": "Server health monitoring for Linux (bare metal, VMs, LXC): host and Docker metrics, systemd services and SMART disk health, with alerting, OpenTelemetry Collector agent. Free for 3 servers, no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://monitorable.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://monitorable.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:21:08.075Z",
+  "qualityScore": 52
+}

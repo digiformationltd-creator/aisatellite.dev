@@ -1,0 +1,22 @@
+{
+  "id": "kaggle-3af9e6486176",
+  "canonicalUrl": "https://www.kaggle.com/",
+  "name": "Kaggle",
+  "description": "Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification, 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be added with a usage limit of 30 GPU hours/week for free. With Identity verification - 1 TPU v3-8 with 96 CPU cores and 330 GB RAM is available with a usage limit of 20 hours/week for free. Check [Technical Specifications](https://www.kaggle.com/docs/notebooks#technical-specifications) for more details.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.kaggle.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.kaggle.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.776Z",
+  "updatedAt": "2026-11-03T07:24:44.776Z",
+  "lastVerified": "2026-11-03T09:18:30.940Z",
+  "qualityScore": 52
+}

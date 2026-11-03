@@ -1,0 +1,22 @@
+{
+  "id": "twicpics-com-02954c875a67",
+  "canonicalUrl": "https://www.twicpics.com/",
+  "name": "twicpics.com",
+  "description": "Responsive images as a service. It provides an image CDN, a media processing API, and a frontend library to automate image optimization. The service is free for up to 3GB of traffic/per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.twicpics.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.twicpics.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:29:48.054Z",
+  "qualityScore": 52
+}

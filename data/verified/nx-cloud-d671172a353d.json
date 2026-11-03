@@ -1,0 +1,22 @@
+{
+  "id": "nx-cloud-d671172a353d",
+  "canonicalUrl": "https://nx.dev/ci",
+  "name": "Nx Cloud",
+  "description": "Nx Cloud speeds up your monorepos on CI with features such as remote caching, distribution of tasks across machines and even automated splitting of your e2e test runs. It comes with a free plan for up to 30 contributors with generous 150k credits included.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://nx.dev/ci",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nx.dev/ci"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:21:58.930Z",
+  "qualityScore": 52
+}

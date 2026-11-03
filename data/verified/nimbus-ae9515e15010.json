@@ -1,0 +1,22 @@
+{
+  "id": "nimbus-ae9515e15010",
+  "canonicalUrl": "https://nimbus.turboot.com/",
+  "name": "Nimbus",
+  "description": "Modern drag-and-drop homelab dashboard with visual editor and simple configuration. ([Demo](https://nimbus.turboot.com/), [Source Code](https://github.com/Turbootzz/Nimbus)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nimbus.turboot.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nimbus.turboot.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:21:38.994Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "anchr-c8d93e3dc309",
+  "canonicalUrl": "https://anchr.io/",
+  "name": "Anchr",
+  "description": "Toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code](https://github.com/muety/anchr)) `GPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://anchr.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://anchr.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:09:19.202Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "assertible-com-fbb10c3d821b",
+  "canonicalUrl": "https://assertible.com/",
+  "name": "assertible.com",
+  "description": "Automated API testing and monitoring. Free plans for teams and individuals.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://assertible.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://assertible.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:09:46.090Z",
+  "qualityScore": 52
+}

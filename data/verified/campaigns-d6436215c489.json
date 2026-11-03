@@ -1,0 +1,22 @@
+{
+  "id": "campaigns-d6436215c489",
+  "canonicalUrl": "https://zoho.com/campaigns",
+  "name": "Campaigns",
+  "description": "Email Marketing",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoho.com/campaigns",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoho.com/campaigns"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:10:58.670Z",
+  "qualityScore": 47
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mailtrap-io-d250b6200331",
+  "canonicalUrl": "https://mailtrap.io/",
+  "name": "Mailtrap.io",
+  "description": "Email API and SMTP with 4,000 emails/month free, limited to 150 emails/day. Email Marketing includes 500 contacts and 1,500 emails/month. Email Sandbox includes 50 test emails/month, one sandbox, and up to 10 stored emails.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mailtrap.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mailtrap.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z",
+  "lastVerified": "2026-11-03T09:20:02.366Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "myspeed-bc94f2b21fa0",
+  "canonicalUrl": "https://myspeed.dev/",
+  "name": "MySpeed",
+  "description": "Speed test analysis software that shows your internet speed for up to 30 days. ([Source Code](https://github.com/gnmyt/myspeed)) `MIT` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://myspeed.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://myspeed.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:21:20.396Z",
+  "qualityScore": 52
+}

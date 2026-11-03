@@ -1,0 +1,22 @@
+{
+  "id": "ketch-7ffe9cec8f6b",
+  "canonicalUrl": "https://www.ketch.com/",
+  "name": "Ketch",
+  "description": "Consent management and privacy framework tool. The free tier offers most features with a limited visitor count.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.ketch.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.ketch.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:18:39.702Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "catchdoms-880aa5bdb272",
+  "canonicalUrl": "https://catchdoms.com/",
+  "name": "CatchDoms",
+  "description": "Aggregator of expired and dropping domain listings from 16 marketplaces, with SEO enrichment (backlinks, Trust Flow, Wayback history) and a quality score. Free plan: 10 unlocked listings, 5 favorites, 3 saved searches. 7-day Pro trial on signup includes full REST API and MCP server access.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://catchdoms.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://catchdoms.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:11:02.732Z",
+  "qualityScore": 52
+}

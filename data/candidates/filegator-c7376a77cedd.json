@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://filegator.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.421Z",
-  "updatedAt": "2026-11-03T07:24:45.421Z"
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:14:42.638Z",
+  "qualityScore": 52
 }

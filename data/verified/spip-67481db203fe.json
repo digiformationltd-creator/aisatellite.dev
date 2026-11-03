@@ -1,0 +1,22 @@
+{
+  "id": "spip-67481db203fe",
+  "canonicalUrl": "https://www.spip.net/fr",
+  "name": "SPIP",
+  "description": "Publication system for the Internet aimed at collaborative work, multilingual environments, and simplicity of use for web authors. ([Source Code](https://git.spip.net/)) `GPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.spip.net/fr",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.spip.net/fr"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:27:35.658Z",
+  "qualityScore": 52
+}

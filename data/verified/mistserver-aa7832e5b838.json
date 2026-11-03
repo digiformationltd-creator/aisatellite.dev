@@ -1,0 +1,22 @@
+{
+  "id": "mistserver-aa7832e5b838",
+  "canonicalUrl": "https://mistserver.org/",
+  "name": "MistServer",
+  "description": "Public domain streaming media server that works with any device and any format. ([Source Code](https://github.com/DDVTECH/mistserver)) `Unlicense` `C++`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mistserver.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mistserver.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:20:56.701Z",
+  "qualityScore": 52
+}

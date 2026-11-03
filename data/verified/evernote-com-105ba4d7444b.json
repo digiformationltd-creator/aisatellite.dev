@@ -1,0 +1,22 @@
+{
+  "id": "evernote-com-105ba4d7444b",
+  "canonicalUrl": "https://evernote.com/",
+  "name": "evernote.com",
+  "description": "Tool for organizing information. Share your notes and work together with others",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://evernote.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://evernote.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:14:23.034Z",
+  "qualityScore": 52
+}

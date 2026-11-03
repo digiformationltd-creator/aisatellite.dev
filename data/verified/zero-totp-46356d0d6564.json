@@ -1,0 +1,22 @@
+{
+  "id": "zero-totp-46356d0d6564",
+  "canonicalUrl": "https://zero-totp.com/",
+  "name": "Zero-TOTP",
+  "description": "Complete, reliable, secure and zero-trust webapp based on zero-knowledge encryption to store your TOTP codes. ([Source Code](https://github.com/SeaweedbrainCY/zero-totp)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://zero-totp.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zero-totp.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:31:39.878Z",
+  "qualityScore": 52
+}

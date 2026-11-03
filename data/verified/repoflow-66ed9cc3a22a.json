@@ -1,0 +1,22 @@
+{
+  "id": "repoflow-66ed9cc3a22a",
+  "canonicalUrl": "https://repoflow.io/",
+  "name": "RepoFlow",
+  "description": "RepoFlow Simplifies package management with support for npm, PyPI, Docker, Go, Helm, and more. Try it for free with 10GB storage, 10GB bandwidth, 100 packages, and unlimited users in the cloud, or self-hosted for personal use only.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://repoflow.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://repoflow.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:24:58.114Z",
+  "qualityScore": 52
+}

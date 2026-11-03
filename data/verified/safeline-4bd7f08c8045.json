@@ -1,0 +1,22 @@
+{
+  "id": "safeline-4bd7f08c8045",
+  "canonicalUrl": "https://waf.chaitin.com/",
+  "name": "SafeLine",
+  "description": "Web application firewall / reverse proxy to protect your web apps from attacks and exploits. ([Demo](https://demo.waf.chaitin.com/), [Source Code](https://github.com/chaitin/SafeLine)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://waf.chaitin.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://waf.chaitin.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:25:40.274Z",
+  "qualityScore": 52
+}

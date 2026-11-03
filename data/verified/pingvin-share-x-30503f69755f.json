@@ -1,0 +1,22 @@
+{
+  "id": "pingvin-share-x-30503f69755f",
+  "canonicalUrl": "https://github.com/smp46/pingvin-share-x",
+  "name": "Pingvin Share X",
+  "description": "File sharing platform with support for logins, reverse shares, share expiry, S3 Buckets, advanced authentication, ClamAV for security scans and more (fork of Pingvin Share). `BSD-2-Clause` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/smp46/pingvin-share-x",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/smp46/pingvin-share-x"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:23:26.661Z",
+  "qualityScore": 55
+}

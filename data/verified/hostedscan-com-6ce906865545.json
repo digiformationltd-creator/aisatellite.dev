@@ -1,0 +1,22 @@
+{
+  "id": "hostedscan-com-6ce906865545",
+  "canonicalUrl": "https://hostedscan.com/",
+  "name": "hostedscan.com",
+  "description": "Online vulnerability scanner for web applications, servers, and networks. Ten free scans per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://hostedscan.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hostedscan.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:17:08.742Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "firefly-iii-dcb2329ab32e",
+  "canonicalUrl": "https://firefly-iii.org/",
+  "name": "Firefly III",
+  "description": "Modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ([Demo](https://demo.firefly-iii.org/), [Source Code](https://github.com/firefly-iii/firefly-iii)) `AGPL-3.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://firefly-iii.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://firefly-iii.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:14:47.217Z",
+  "qualityScore": 52
+}

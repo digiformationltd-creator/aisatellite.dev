@@ -1,0 +1,22 @@
+{
+  "id": "flaky-ba06aade4255",
+  "canonicalUrl": "https://flakyapi.dev/",
+  "name": "flaky",
+  "description": "A mock API where you can paste your JSON and simulate API problems like delays, errors, failed requests, and malformed responses. 1,000 requests per day without a key, or 10,000 requests per day with a free key. There is no paid tier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://flakyapi.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://flakyapi.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:14:50.336Z",
+  "qualityScore": 52
+}

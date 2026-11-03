@@ -1,0 +1,22 @@
+{
+  "id": "aimeos-c8793d195159",
+  "canonicalUrl": "https://aimeos.org/",
+  "name": "Aimeos",
+  "description": "E-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code](https://github.com/aimeos/aimeos)) `LGPL-3.0/MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://aimeos.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aimeos.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:09:04.665Z",
+  "qualityScore": 52
+}

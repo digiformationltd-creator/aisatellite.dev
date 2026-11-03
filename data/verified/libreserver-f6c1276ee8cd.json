@@ -1,0 +1,22 @@
+{
+  "id": "libreserver-f6c1276ee8cd",
+  "canonicalUrl": "https://libreserver.org/",
+  "name": "LibreServer",
+  "description": "Home server configuration based on Debian. ([Source Code](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://libreserver.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://libreserver.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:19:12.702Z",
+  "qualityScore": 52
+}

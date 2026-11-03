@@ -1,0 +1,22 @@
+{
+  "id": "couchbase-capella-134505d22f48",
+  "canonicalUrl": "https://www.couchbase.com/products/capella",
+  "name": "Couchbase Capella",
+  "description": "deploy a forever free tier fully managed database cluster with 1 node and 8GB storage, built for developers to create the next generation of applications across IoT to AI",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.couchbase.com/products/capella/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.couchbase.com/products/capella/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:12:10.667Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "quidlo-timesheets-f6346011eaa0",
+  "canonicalUrl": "https://www.quidlo.com/timesheets",
+  "name": "Quidlo Timesheets",
+  "description": "A simple timesheet and time tracking app for teams. The free plan has time tracking and generating reports features for up to 10 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.quidlo.com/timesheets",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.quidlo.com/timesheets"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:24:30.169Z",
+  "qualityScore": 52
+}

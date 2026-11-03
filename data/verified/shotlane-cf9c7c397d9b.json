@@ -1,0 +1,22 @@
+{
+  "id": "shotlane-cf9c7c397d9b",
+  "canonicalUrl": "https://shotlane.dev/",
+  "name": "Shotlane",
+  "description": "Screenshots, clean Markdown and PDFs of any web page, rendered in current Chrome. Hide cookie banners, ads and other popups and many more options. A free account gives you 100 credits per month, no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://shotlane.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://shotlane.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:26:40.244Z",
+  "qualityScore": 52
+}

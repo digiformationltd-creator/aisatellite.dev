@@ -1,0 +1,22 @@
+{
+  "id": "inboxes-app-ab55e347951b",
+  "canonicalUrl": "https://inboxesapp.com/",
+  "name": "Inboxes App",
+  "description": "Create up to 3 temporary emails a day, then delete them when you're done from within a handy Chrome extension. Perfect for testing signup flows.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://inboxesapp.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://inboxesapp.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:17:40.599Z",
+  "qualityScore": 52
+}

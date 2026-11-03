@@ -1,0 +1,22 @@
+{
+  "id": "digicard-78b6982621f0",
+  "canonicalUrl": "https://codeberg.org/ladigitale/digicard",
+  "name": "Digicard",
+  "description": "Create simple graphic compositions (documentation in French). ([Demo](https://ladigitale.dev/digicard/)) `AGPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://codeberg.org/ladigitale/digicard",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codeberg.org/ladigitale/digicard"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:13:03.963Z",
+  "qualityScore": 52
+}

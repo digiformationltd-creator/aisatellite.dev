@@ -1,0 +1,22 @@
+{
+  "id": "wbo-7867d9272caf",
+  "canonicalUrl": "https://github.com/lovasoa/whitebophir",
+  "name": "WBO",
+  "description": "Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/lovasoa/whitebophir",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/lovasoa/whitebophir"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:30:41.742Z",
+  "qualityScore": 55
+}

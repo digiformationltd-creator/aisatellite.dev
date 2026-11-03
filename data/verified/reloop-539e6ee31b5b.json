@@ -1,0 +1,22 @@
+{
+  "id": "reloop-539e6ee31b5b",
+  "canonicalUrl": "https://reloop.sh/",
+  "name": "Reloop",
+  "description": "Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://reloop.sh",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://reloop.sh"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z",
+  "lastVerified": "2026-11-03T09:24:52.394Z",
+  "qualityScore": 52
+}

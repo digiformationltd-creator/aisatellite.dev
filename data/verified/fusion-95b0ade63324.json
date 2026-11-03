@@ -1,0 +1,22 @@
+{
+  "id": "fusion-95b0ade63324",
+  "canonicalUrl": "https://github.com/0x2E/fusion",
+  "name": "Fusion",
+  "description": "Lightweight RSS aggregator and reader. `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/0x2E/fusion",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/0x2E/fusion"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:15:43.539Z",
+  "qualityScore": 55
+}

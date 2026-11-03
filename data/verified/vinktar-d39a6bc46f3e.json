@@ -1,0 +1,22 @@
+{
+  "id": "vinktar-d39a6bc46f3e",
+  "canonicalUrl": "https://vinktar.com/",
+  "name": "Vinktar",
+  "description": "Error tracking and product analytics in one tool, set up and queried by your coding agent over MCP. Free for 1M events and 50k errors per month, no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://vinktar.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://vinktar.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:30:21.312Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "xwiki-4410cb78f4c2",
+  "canonicalUrl": "https://www.xwiki.org/",
+  "name": "XWiki",
+  "description": "Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://www.xwikiplayground.org/xwiki/bin/view/Main/), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java/Docker/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.xwiki.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.xwiki.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:31:19.188Z",
+  "qualityScore": 52
+}

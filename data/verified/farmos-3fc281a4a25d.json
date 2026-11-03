@@ -1,0 +1,22 @@
+{
+  "id": "farmos-3fc281a4a25d",
+  "canonicalUrl": "https://farmos.org/",
+  "name": "farmOS",
+  "description": "Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://farmos.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://farmos.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:14:34.088Z",
+  "qualityScore": 52
+}

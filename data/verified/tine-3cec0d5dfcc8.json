@@ -1,0 +1,22 @@
+{
+  "id": "tine-3cec0d5dfcc8",
+  "canonicalUrl": "https://www.tine-groupware.de/",
+  "name": "Tine",
+  "description": "Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.tine-groupware.de/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.tine-groupware.de/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:29:13.433Z",
+  "qualityScore": 52
+}

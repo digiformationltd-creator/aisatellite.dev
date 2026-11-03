@@ -1,0 +1,22 @@
+{
+  "id": "haraka-f57a1e02c854",
+  "canonicalUrl": "https://haraka.github.io/",
+  "name": "Haraka",
+  "description": "Fast, highly extensible, and event driven SMTP server. ([Source Code](https://github.com/haraka/Haraka)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://haraka.github.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://haraka.github.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:16:44.719Z",
+  "qualityScore": 52
+}

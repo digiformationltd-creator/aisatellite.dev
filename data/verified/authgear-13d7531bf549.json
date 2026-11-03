@@ -1,0 +1,22 @@
+{
+  "id": "authgear-13d7531bf549",
+  "canonicalUrl": "https://www.authgear.com/",
+  "name": "Authgear",
+  "description": "Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.authgear.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.authgear.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.788Z",
+  "updatedAt": "2026-11-03T07:24:44.788Z",
+  "lastVerified": "2026-11-03T09:09:50.963Z",
+  "qualityScore": 52
+}

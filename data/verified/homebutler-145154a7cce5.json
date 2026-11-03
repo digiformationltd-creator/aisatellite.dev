@@ -1,0 +1,22 @@
+{
+  "id": "homebutler-145154a7cce5",
+  "canonicalUrl": "https://homebutler.dev/",
+  "name": "HomeButler",
+  "description": "Installs and manages a curated catalog of applications via Docker Compose, maps containers and exposed ports, verifies backups restore, and reports what changed since the last run with CLI, JSON, web and MCP interfaces. ([Source Code](https://github.com/Higangssh/homebutler)) `MIT` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://homebutler.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://homebutler.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:17:02.388Z",
+  "qualityScore": 52
+}

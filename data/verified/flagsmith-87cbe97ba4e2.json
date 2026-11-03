@@ -1,0 +1,24 @@
+{
+  "id": "flagsmith-87cbe97ba4e2",
+  "canonicalUrl": "https://flagsmith.com/",
+  "name": "Flagsmith",
+  "description": "Dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://flagsmith.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://flagsmith.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:14:50.162Z",
+  "qualityScore": 52
+}

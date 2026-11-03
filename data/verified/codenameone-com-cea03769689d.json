@@ -1,0 +1,22 @@
+{
+  "id": "codenameone-com-cea03769689d",
+  "canonicalUrl": "https://www.codenameone.com/",
+  "name": "codenameone.com",
+  "description": "Open source, cross-platform, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with an unlimited number of projects",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.codenameone.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.codenameone.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:11:44.610Z",
+  "qualityScore": 52
+}

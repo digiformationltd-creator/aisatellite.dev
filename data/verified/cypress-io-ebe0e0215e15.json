@@ -1,0 +1,22 @@
+{
+  "id": "cypress-io-ebe0e0215e15",
+  "canonicalUrl": "https://www.cypress.io/",
+  "name": "cypress.io",
+  "description": "Fast, easy and reliable testing for anything that runs in a browser. Cypress Test Runner is always free and open-source with no restrictions and limitations. Cypress Dashboard is free for open-source projects for up to 5 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.cypress.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cypress.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:12:25.093Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mediaworkbench-ai-a9b3ebcf9bbc",
+  "canonicalUrl": "https://mediaworkbench.ai/",
+  "name": "Mediaworkbench.ai",
+  "description": "MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mediaworkbench.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mediaworkbench.ai"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:20:28.683Z",
+  "qualityScore": 52
+}

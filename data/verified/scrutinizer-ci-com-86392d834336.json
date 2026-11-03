@@ -1,0 +1,22 @@
+{
+  "id": "scrutinizer-ci-com-86392d834336",
+  "canonicalUrl": "https://scrutinizer-ci.com/",
+  "name": "scrutinizer-ci.com",
+  "description": "Continuous inspection platform, free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://scrutinizer-ci.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://scrutinizer-ci.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:26:02.835Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "velixir-18fe3b9d0d06",
+  "canonicalUrl": "https://velixir.net/",
+  "name": "velixir",
+  "description": "EU-hosted PaaS that builds web apps from source in any language (Node.js, Python, Go, Ruby, PHP, Java, Elixir, Rust, .NET and more), no Dockerfile needed. The free tier includes one app (0.25 vCPU, 256 MB RAM) that sleeps when idle, custom domains with TLS, and no credit card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://velixir.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://velixir.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:30:14.958Z",
+  "qualityScore": 52
+}

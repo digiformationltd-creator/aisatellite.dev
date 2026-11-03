@@ -1,0 +1,22 @@
+{
+  "id": "json-to-table-755d25373eff",
+  "canonicalUrl": "https://jsontotable.org/",
+  "name": "JSON to Table",
+  "description": "Convert JSON into an interactive table for quick viewing, editing, and sharing online.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://jsontotable.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://jsontotable.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:18:24.295Z",
+  "qualityScore": 52
+}

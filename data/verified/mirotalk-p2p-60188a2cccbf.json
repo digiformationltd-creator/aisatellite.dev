@@ -1,0 +1,22 @@
+{
+  "id": "mirotalk-p2p-60188a2cccbf",
+  "canonicalUrl": "https://p2p.mirotalk.com/",
+  "name": "MiroTalk P2P",
+  "description": "Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms. ([Demo](https://p2p.mirotalk.com/newcall), [Source Code](https://github.com/miroslavpejic85/mirotalk)) `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://p2p.mirotalk.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://p2p.mirotalk.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:20:53.937Z",
+  "qualityScore": 52
+}

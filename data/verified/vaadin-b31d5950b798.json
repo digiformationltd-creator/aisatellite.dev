@@ -1,0 +1,22 @@
+{
+  "id": "vaadin-b31d5950b798",
+  "canonicalUrl": "https://vaadin.com/",
+  "name": "Vaadin",
+  "description": "Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://vaadin.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://vaadin.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:30:06.368Z",
+  "qualityScore": 52
+}

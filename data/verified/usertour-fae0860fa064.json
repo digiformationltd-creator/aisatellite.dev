@@ -1,0 +1,22 @@
+{
+  "id": "usertour-fae0860fa064",
+  "canonicalUrl": "https://www.usertour.io/",
+  "name": "Usertour",
+  "description": "User onboarding platform allowing you to create in-app product tours, checklists, and surveys in minutes effortlessly. ([Source Code](https://github.com/usertour/usertour/)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.usertour.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.usertour.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:30:03.392Z",
+  "qualityScore": 52
+}

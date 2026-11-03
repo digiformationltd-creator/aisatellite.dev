@@ -1,0 +1,22 @@
+{
+  "id": "geokeo-api-84ff1631f6ef",
+  "canonicalUrl": "https://geokeo.com/",
+  "name": "Geokeo api",
+  "description": "Geocoding API with language correction and more. Worldwide coverage. 2,500 free daily queries",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://geokeo.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://geokeo.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:15:58.814Z",
+  "qualityScore": 52
+}

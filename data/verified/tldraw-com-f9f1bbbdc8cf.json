@@ -1,0 +1,22 @@
+{
+  "id": "tldraw-com-f9f1bbbdc8cf",
+  "canonicalUrl": "https://tldraw.com/",
+  "name": "tldraw.com",
+  "description": "Free open-source white-boarding and diagramming tool with intelligent arrows, snapping, sticky notes, and SVG export features. Multiplayer mode for collaborative editing. Free official VS Code extension available as well.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tldraw.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tldraw.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:29:18.330Z",
+  "qualityScore": 52
+}

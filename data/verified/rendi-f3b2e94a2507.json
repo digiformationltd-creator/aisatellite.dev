@@ -1,0 +1,22 @@
+{
+  "id": "rendi-f3b2e94a2507",
+  "canonicalUrl": "https://rendi.dev/",
+  "name": "Rendi",
+  "description": "FFmpeg API - A REST API for FFmpeg, run FFmpeg online without handling the infrastructure. Free tier with monthly processing quota and 4 vCPUs available.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://rendi.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rendi.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:24:56.183Z",
+  "qualityScore": 52
+}

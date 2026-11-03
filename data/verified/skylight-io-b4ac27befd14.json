@@ -1,0 +1,22 @@
+{
+  "id": "skylight-io-b4ac27befd14",
+  "canonicalUrl": "https://www.skylight.io/",
+  "name": "skylight.io",
+  "description": "Free for first 100,000 requests (Rails only)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.skylight.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.skylight.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:27:06.518Z",
+  "qualityScore": 52
+}

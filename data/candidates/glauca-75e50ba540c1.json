@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.glauca.digital/hexdns/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.795Z",
-  "updatedAt": "2026-11-03T07:24:44.795Z"
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:16:14.771Z",
+  "qualityScore": 52
 }

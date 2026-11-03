@@ -1,0 +1,22 @@
+{
+  "id": "egroupware-4a43f19b423f",
+  "canonicalUrl": "https://www.egroupware.org/",
+  "name": "egroupware",
+  "description": "Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS. ([Source Code](https://github.com/EGroupware/egroupware)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.egroupware.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.egroupware.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:13:50.613Z",
+  "qualityScore": 52
+}

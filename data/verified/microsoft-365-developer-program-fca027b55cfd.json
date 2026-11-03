@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-365-developer-program-fca027b55cfd",
+  "canonicalUrl": "https://developer.microsoft.com/microsoft-365/dev-program",
+  "name": "Microsoft 365 Developer Program",
+  "description": "Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developer.microsoft.com/microsoft-365/dev-program",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developer.microsoft.com/microsoft-365/dev-program"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:20:41.963Z",
+  "qualityScore": 52
+}

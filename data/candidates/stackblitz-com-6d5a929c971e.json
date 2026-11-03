@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://stackblitz.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.798Z",
-  "updatedAt": "2026-11-03T07:24:44.798Z"
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:27:46.389Z",
+  "qualityScore": 52
 }

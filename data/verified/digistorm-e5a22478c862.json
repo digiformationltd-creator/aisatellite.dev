@@ -1,0 +1,22 @@
+{
+  "id": "digistorm-e5a22478c862",
+  "canonicalUrl": "https://digistorm.app/",
+  "name": "Digistorm",
+  "description": "Create collaborative surveys, quizzes, brainstorms, and word clouds (documentation in French). ([Demo](https://digistorm.app/), [Source Code](https://codeberg.org/ladigitale/digistorm)) `AGPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://digistorm.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://digistorm.app/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:13:08.385Z",
+  "qualityScore": 52
+}

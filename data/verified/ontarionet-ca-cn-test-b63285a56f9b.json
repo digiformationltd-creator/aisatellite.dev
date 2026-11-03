@@ -1,0 +1,22 @@
+{
+  "id": "ontarionet-ca-cn-test-b63285a56f9b",
+  "canonicalUrl": "https://cntest.ontarionet.ca/",
+  "name": "OntarioNet.ca CN Test",
+  "description": "Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cntest.ontarionet.ca",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cntest.ontarionet.ca"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:22:09.780Z",
+  "qualityScore": 52
+}

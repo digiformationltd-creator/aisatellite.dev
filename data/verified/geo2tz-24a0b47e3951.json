@@ -1,0 +1,22 @@
+{
+  "id": "geo2tz-24a0b47e3951",
+  "canonicalUrl": "https://github.com/noandrea/geo2tz",
+  "name": "Geo2tz",
+  "description": "Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/noandrea/geo2tz",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/noandrea/geo2tz"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:15:55.395Z",
+  "qualityScore": 55
+}

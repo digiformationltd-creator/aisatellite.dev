@@ -1,0 +1,22 @@
+{
+  "id": "halo-1e56582d871e",
+  "canonicalUrl": "https://www.halo.run/",
+  "name": "Halo",
+  "description": "Powerful and easy-to-use website building tool (documentation in Chinese). ([Demo](https://docs.halo.run/#%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C), [Source Code](https://github.com/halo-dev/halo), [Clients](https://github.com/halo-sigs/awesome-halo)) `GPL-3.0` `Java/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.halo.run",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.halo.run"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:16:42.301Z",
+  "qualityScore": 52
+}

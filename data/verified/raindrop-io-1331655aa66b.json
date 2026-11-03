@@ -1,0 +1,22 @@
+{
+  "id": "raindrop-io-1331655aa66b",
+  "canonicalUrl": "https://raindrop.io/",
+  "name": "Raindrop.io",
+  "description": "Private and secure bookmarking app for macOS, Windows, Android, iOS, and Web. Free Unlimited Bookmarks and Collaboration.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://raindrop.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://raindrop.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:24:32.654Z",
+  "qualityScore": 52
+}

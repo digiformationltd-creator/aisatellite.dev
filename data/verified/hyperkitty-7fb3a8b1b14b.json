@@ -1,0 +1,22 @@
+{
+  "id": "hyperkitty-7fb3a8b1b14b",
+  "canonicalUrl": "https://wiki.list.org/HyperKitty",
+  "name": "HyperKitty",
+  "description": "Access GNU Mailman v3 archives. ([Demo](https://lists.mailman3.org/), [Source Code](https://gitlab.com/mailman/hyperkitty)) `GPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://wiki.list.org/HyperKitty",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wiki.list.org/HyperKitty"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:17:19.555Z",
+  "qualityScore": 52
+}

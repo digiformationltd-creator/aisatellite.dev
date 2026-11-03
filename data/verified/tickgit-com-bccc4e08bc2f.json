@@ -1,0 +1,22 @@
+{
+  "id": "tickgit-com-bccc4e08bc2f",
+  "canonicalUrl": "https://www.tickgit.com/",
+  "name": "tickgit.com",
+  "description": "Surfaces `TODO` comments (and other markers) to identify areas of code worth returning to for improvement.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.tickgit.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.tickgit.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:29:03.945Z",
+  "qualityScore": 52
+}

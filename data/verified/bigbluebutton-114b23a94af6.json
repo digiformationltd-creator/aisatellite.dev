@@ -1,0 +1,22 @@
+{
+  "id": "bigbluebutton-114b23a94af6",
+  "canonicalUrl": "https://bigbluebutton.org/",
+  "name": "BigBlueButton",
+  "description": "Supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms. ([Source Code](https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://bigbluebutton.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bigbluebutton.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:10:18.271Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "invantive-cloud-e2aed19fcee0",
+  "canonicalUrl": "https://cloud.invantive.com/",
+  "name": "Invantive Cloud",
+  "description": "Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloud.invantive.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloud.invantive.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:17:53.567Z",
+  "qualityScore": 52
+}

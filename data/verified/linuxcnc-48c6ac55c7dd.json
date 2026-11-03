@@ -1,0 +1,22 @@
+{
+  "id": "linuxcnc-48c6ac55c7dd",
+  "canonicalUrl": "https://www.linuxcnc.org/",
+  "name": "LinuxCNC",
+  "description": "Linux based CNC machine controller. It can drive milling machines, lathes, 3D printers, laser cutters, plasma cutters, robot arms, hexapods, and more. ([Source Code](https://github.com/LinuxCNC/linuxcnc)) `GPL-2.0/LGPL-3.0` `C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.linuxcnc.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.linuxcnc.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:19:21.371Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "smederee-75d236a3226a",
+  "canonicalUrl": "https://smeder.ee/",
+  "name": "Smederee",
+  "description": "Frugal platform which is dedicated to help people build great software together leveraging the power of the Darcs version control system. ([Source Code](https://smeder.ee/~jan0sch/smederee)) `AGPL-3.0` `Scala`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://smeder.ee",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://smeder.ee"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:27:12.683Z",
+  "qualityScore": 52
+}

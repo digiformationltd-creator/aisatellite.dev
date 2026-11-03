@@ -1,0 +1,22 @@
+{
+  "id": "labelixa-135199c558d9",
+  "canonicalUrl": "https://labelixa.com/",
+  "name": "Labelixa",
+  "description": "Zebra ZPL label rendering and validation API and browser viewer. Free tier includes an anonymous rendering quota and barcode generation with no watermark, no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://labelixa.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://labelixa.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:18:54.742Z",
+  "qualityScore": 52
+}

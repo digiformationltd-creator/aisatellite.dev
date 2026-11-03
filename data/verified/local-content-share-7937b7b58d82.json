@@ -1,0 +1,22 @@
+{
+  "id": "local-content-share-7937b7b58d82",
+  "canonicalUrl": "https://github.com/Tanq16/local-content-share",
+  "name": "Local Content Share",
+  "description": "Store and share text snippets and files within your local network. `MIT` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/Tanq16/local-content-share",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/Tanq16/local-content-share"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:19:29.525Z",
+  "qualityScore": 55
+}

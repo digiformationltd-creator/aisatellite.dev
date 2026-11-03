@@ -1,0 +1,22 @@
+{
+  "id": "turn-c4d79882820a",
+  "canonicalUrl": "https://developers.cloudflare.com/calls/turn",
+  "name": "TURN",
+  "description": "1TB of free (outgoing) traffic per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developers.cloudflare.com/calls/turn/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developers.cloudflare.com/calls/turn/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:29:43.934Z",
+  "qualityScore": 52
+}

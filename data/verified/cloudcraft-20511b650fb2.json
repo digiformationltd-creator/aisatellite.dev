@@ -1,0 +1,22 @@
+{
+  "id": "cloudcraft-20511b650fb2",
+  "canonicalUrl": "https://cloudcraft.co/",
+  "name": "Cloudcraft",
+  "description": "Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with intelligent components that show live data too. Free plan has unlimited private diagrams for single user.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloudcraft.co/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloudcraft.co/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:11:30.854Z",
+  "qualityScore": 52
+}

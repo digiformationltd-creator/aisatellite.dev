@@ -1,0 +1,22 @@
+{
+  "id": "bearer-cf01edb1a32a",
+  "canonicalUrl": "https://www.bearer.sh/",
+  "name": "Bearer",
+  "description": "Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. The free tier is limited to smaller teams and the SaaS version only.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.bearer.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.bearer.sh/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:10:11.434Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "okta-0b98ef31a27e",
+  "canonicalUrl": "https://developer.okta.com/signup",
+  "name": "Okta",
+  "description": "User management, authentication and authorization. Free for up to 100 monthly active users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developer.okta.com/signup/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developer.okta.com/signup/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z",
+  "lastVerified": "2026-11-03T09:22:03.471Z",
+  "qualityScore": 52
+}

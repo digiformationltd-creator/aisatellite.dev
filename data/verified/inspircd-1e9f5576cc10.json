@@ -1,0 +1,22 @@
+{
+  "id": "inspircd-1e9f5576cc10",
+  "canonicalUrl": "https://www.inspircd.org/",
+  "name": "InspIRCd",
+  "description": "Modular IRC server written in C++ for Linux, BSD, Windows, and macOS. ([Source Code](https://github.com/inspircd/inspircd)) `GPL-2.0` `C++/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.inspircd.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.inspircd.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:17:45.968Z",
+  "qualityScore": 52
+}

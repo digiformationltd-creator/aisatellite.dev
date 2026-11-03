@@ -1,0 +1,22 @@
+{
+  "id": "openuptime-28f4e21b3491",
+  "canonicalUrl": "https://openuptime.app/",
+  "name": "OpenUptime",
+  "description": "Hosted uptime monitoring and status pages. Free tier includes 3 active monitors with 5-minute check intervals, 26,000 checks and 100 emails per month, and 30 days of check history.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://openuptime.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://openuptime.app"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:22:36.667Z",
+  "qualityScore": 52
+}

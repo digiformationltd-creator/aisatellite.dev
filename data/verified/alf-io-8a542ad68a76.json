@@ -1,0 +1,22 @@
+{
+  "id": "alf-io-8a542ad68a76",
+  "canonicalUrl": "https://alf.io/",
+  "name": "Alf.io",
+  "description": "Ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://alf.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://alf.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:09:09.628Z",
+  "qualityScore": 52
+}

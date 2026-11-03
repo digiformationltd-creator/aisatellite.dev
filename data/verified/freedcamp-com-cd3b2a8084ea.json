@@ -1,0 +1,22 @@
+{
+  "id": "freedcamp-com-cd3b2a8084ea",
+  "canonicalUrl": "https://freedcamp.com/",
+  "name": "freedcamp.com",
+  "description": "tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users, and file storage.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://freedcamp.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://freedcamp.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:15:29.805Z",
+  "qualityScore": 52
+}

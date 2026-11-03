@@ -1,0 +1,22 @@
+{
+  "id": "app-service-655d1c97be2a",
+  "canonicalUrl": "https://azure.microsoft.com/services/app-service",
+  "name": "App Service",
+  "description": "10 web, mobile, or API apps (60 CPU minutes/day)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/services/app-service/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/services/app-service/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:09:33.568Z",
+  "qualityScore": 52
+}

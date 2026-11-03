@@ -1,0 +1,22 @@
+{
+  "id": "imitate-email-60a1c3a1e2db",
+  "canonicalUrl": "https://imitate.email/",
+  "name": "Imitate Email",
+  "description": "Sandbox Email Server for testing email functionality across build/qa and ci/cd. Free accounts get 15 emails a day forever.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://imitate.email",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://imitate.email"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:17:38.676Z",
+  "qualityScore": 52
+}

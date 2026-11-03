@@ -1,0 +1,22 @@
+{
+  "id": "serveo-7262c25894a8",
+  "canonicalUrl": "https://serveo.net/",
+  "name": "serveo",
+  "description": "Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://serveo.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://serveo.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:26:19.432Z",
+  "qualityScore": 52
+}

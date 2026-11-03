@@ -1,0 +1,22 @@
+{
+  "id": "difftext-86263c8f4b78",
+  "canonicalUrl": "https://difftext.com/",
+  "name": "DiffText",
+  "description": "Instantly find the differences between two blocks of code. Completely free to use.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://difftext.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://difftext.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:12:57.459Z",
+  "qualityScore": 52
+}

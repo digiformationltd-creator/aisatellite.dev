@@ -1,0 +1,22 @@
+{
+  "id": "datelist-io-74d473e4b510",
+  "canonicalUrl": "https://datelist.io/",
+  "name": "datelist.io",
+  "description": "Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://datelist.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://datelist.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:12:35.475Z",
+  "qualityScore": 52
+}

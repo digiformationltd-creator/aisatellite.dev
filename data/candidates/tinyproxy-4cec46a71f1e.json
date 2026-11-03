@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tinyproxy.github.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.426Z",
-  "updatedAt": "2026-11-03T07:24:45.426Z"
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:29:16.091Z",
+  "qualityScore": 52
 }

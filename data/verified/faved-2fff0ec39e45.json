@@ -1,0 +1,22 @@
+{
+  "id": "faved-2fff0ec39e45",
+  "canonicalUrl": "https://faved.to/",
+  "name": "Faved",
+  "description": "Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use. ([Demo](https://demo.faved.to/), [Source Code](https://github.com/denho/faved)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://faved.to/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://faved.to/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:14:34.517Z",
+  "qualityScore": 52
+}

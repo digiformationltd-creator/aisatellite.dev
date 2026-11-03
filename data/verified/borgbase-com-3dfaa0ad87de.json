@@ -1,0 +1,22 @@
+{
+  "id": "borgbase-com-3dfaa0ad87de",
+  "canonicalUrl": "https://www.borgbase.com/",
+  "name": "borgbase.com",
+  "description": "Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and two repositories.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.borgbase.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.borgbase.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:10:34.273Z",
+  "qualityScore": 52
+}

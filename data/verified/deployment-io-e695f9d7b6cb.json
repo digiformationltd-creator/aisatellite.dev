@@ -1,0 +1,22 @@
+{
+  "id": "deployment-io-e695f9d7b6cb",
+  "canonicalUrl": "https://deployment.io/",
+  "name": "deployment.io",
+  "description": "Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 10 job executions free per month with previews and auto-deploys included in the free tier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://deployment.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://deployment.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:12:48.181Z",
+  "qualityScore": 52
+}

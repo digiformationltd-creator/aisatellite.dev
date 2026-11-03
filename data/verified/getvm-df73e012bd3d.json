@@ -1,0 +1,22 @@
+{
+  "id": "getvm-df73e012bd3d",
+  "canonicalUrl": "https://getvm.io/",
+  "name": "GetVM",
+  "description": "Instant free Linux and IDEs chrome sidebar. The free tier includes 5 VMs per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://getvm.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://getvm.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:16:03.762Z",
+  "qualityScore": 52
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://phpsandbox.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.798Z",
-  "updatedAt": "2026-11-03T07:24:44.798Z"
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:23:18.017Z",
+  "qualityScore": 52
 }

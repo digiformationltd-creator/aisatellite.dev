@@ -1,0 +1,22 @@
+{
+  "id": "shaper-c3fa287204c1",
+  "canonicalUrl": "https://taleshape.com/shaper/docs",
+  "name": "Shaper",
+  "description": "Build Data Dashboards all in SQL. Powered by DuckDB. ([Demo](https://demo.taleshape.com/view/pvggvdpiwb9wlyppuqbyx0nt), [Source Code](https://github.com/taleshape-com/shaper)) `MPL-2.0` `Docker/Nodejs/Python/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://taleshape.com/shaper/docs",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://taleshape.com/shaper/docs"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:26:30.420Z",
+  "qualityScore": 52
+}

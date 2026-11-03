@@ -1,0 +1,24 @@
+{
+  "id": "rocket-chat-b4b6badddb5e",
+  "canonicalUrl": "https://rocket.chat/",
+  "name": "Rocket.Chat",
+  "description": "Communications platform that puts data protection first (alternative to Gitter.im and Slack). ([Source Code](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs/Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://rocket.chat/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rocket.chat/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:47.251Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:25:15.850Z",
+  "qualityScore": 52
+}

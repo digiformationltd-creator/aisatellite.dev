@@ -1,0 +1,22 @@
+{
+  "id": "rallly-897276531e91",
+  "canonicalUrl": "https://rallly.co/",
+  "name": "Rallly",
+  "description": "Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://rallly.co",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rallly.co"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:24:32.932Z",
+  "qualityScore": 52
+}

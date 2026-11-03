@@ -1,0 +1,22 @@
+{
+  "id": "hackmd-io-a40ede4cecfd",
+  "canonicalUrl": "https://hackmd.io/",
+  "name": "Hackmd.io",
+  "description": "Real time collaboration & writing tool for markdown format docs/files. Like Google Docs but for markdown files. Free unlimited number of \"notes\", but the number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://hackmd.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hackmd.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:16:40.605Z",
+  "qualityScore": 52
+}

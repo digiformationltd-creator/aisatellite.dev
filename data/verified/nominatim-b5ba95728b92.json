@@ -1,0 +1,24 @@
+{
+  "id": "nominatim-b5ba95728b92",
+  "canonicalUrl": "https://nominatim.org/",
+  "name": "Nominatim",
+  "description": "Server application for geocoding (address -> coordinates) and reverse geocoding (coordinates -> address) on OpenStreetMap data. ([Source Code](https://github.com/osm-search/Nominatim)) `GPL-2.0` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nominatim.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nominatim.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:47.251Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:21:44.477Z",
+  "qualityScore": 52
+}

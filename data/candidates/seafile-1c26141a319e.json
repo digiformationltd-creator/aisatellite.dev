@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.seafile.com/en/home/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.421Z",
-  "updatedAt": "2026-11-03T07:24:45.421Z"
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:26:04.066Z",
+  "qualityScore": 52
 }

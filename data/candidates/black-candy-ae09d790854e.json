@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/blackcandy-org/blackcandy"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.423Z",
-  "updatedAt": "2026-11-03T07:24:45.423Z"
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:10:25.632Z",
+  "qualityScore": 55
 }

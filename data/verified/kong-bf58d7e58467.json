@@ -1,0 +1,22 @@
+{
+  "id": "kong-bf58d7e58467",
+  "canonicalUrl": "https://konghq.com/kong",
+  "name": "Kong",
+  "description": "Microservice API Gateway and Platform. ([Source Code](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://konghq.com/kong/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://konghq.com/kong/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:18:50.252Z",
+  "qualityScore": 52
+}

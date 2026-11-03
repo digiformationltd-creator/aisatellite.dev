@@ -1,0 +1,22 @@
+{
+  "id": "anon-li-drop-4bb21e49a023",
+  "canonicalUrl": "https://anon.li/drop",
+  "name": "anon.li Drop",
+  "description": "Zero-knowledge E2EE file sharing with client-side AES-256-GCM encryption and zero server-side data access. Free uploads for files up to 5GB with max expiry up to 3 days through the website, CLI or API.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://anon.li/drop",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://anon.li/drop"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:09:22.701Z",
+  "qualityScore": 52
+}

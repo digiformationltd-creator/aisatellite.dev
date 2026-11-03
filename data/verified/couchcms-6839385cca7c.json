@@ -1,0 +1,22 @@
+{
+  "id": "couchcms-6839385cca7c",
+  "canonicalUrl": "https://www.couchcms.com/",
+  "name": "CouchCMS",
+  "description": "CMS for designers. ([Source Code](https://github.com/CouchCMS/CouchCMS)) `CPAL-1.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.couchcms.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.couchcms.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:12:11.102Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cal-diy-3848acf470e4",
+  "canonicalUrl": "https://cal.diy/",
+  "name": "Cal.diy",
+  "description": "Online appointment scheduling system. ([Source Code](https://github.com/calcom/cal.diy)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://cal.diy/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cal.diy/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:10:55.251Z",
+  "qualityScore": 52
+}

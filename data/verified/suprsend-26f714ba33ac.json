@@ -1,0 +1,22 @@
+{
+  "id": "suprsend-26f714ba33ac",
+  "canonicalUrl": "https://www.suprsend.com/",
+  "name": "SuprSend",
+  "description": "SuprSend is a notification infrastructure that streamlines your product notifications with an API-first approach. Create and deliver transactional, crons, and engagement notifications on multiple channels with a single notification API. In free plan you get 10,000 notifications per month, including different workflow nodes such as digests, batches, multi-channels, preferences, tenants, broadcasts and more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.suprsend.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.suprsend.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:28:18.652Z",
+  "qualityScore": 52
+}

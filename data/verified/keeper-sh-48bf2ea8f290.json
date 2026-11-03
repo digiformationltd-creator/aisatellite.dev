@@ -1,0 +1,22 @@
+{
+  "id": "keeper-sh-48bf2ea8f290",
+  "canonicalUrl": "https://keeper.sh/",
+  "name": "Keeper.sh",
+  "description": "Calendar syncing tool that pulls and pushes events between calendar sources and destinations via iCal/ICS or OAuth, with support for anonymized busy/free events. ([Source Code](https://github.com/ridafkih/keeper.sh)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://keeper.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://keeper.sh/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:18:38.323Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "libreqr-0352f62192ab",
+  "canonicalUrl": "https://libreqr.com/",
+  "name": "LibreQR",
+  "description": "Free QR code generator focused on privacy and no tracking. Free to use with no data collection.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://libreqr.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://libreqr.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:19:12.138Z",
+  "qualityScore": 52
+}

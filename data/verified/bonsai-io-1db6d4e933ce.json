@@ -1,0 +1,22 @@
+{
+  "id": "bonsai-io-1db6d4e933ce",
+  "canonicalUrl": "https://bonsai.io/",
+  "name": "bonsai.io",
+  "description": "Free 1 GB memory and 1 GB storage",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://bonsai.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bonsai.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:10:31.179Z",
+  "qualityScore": 52
+}

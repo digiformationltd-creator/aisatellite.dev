@@ -1,0 +1,22 @@
+{
+  "id": "mathesar-690640df04e9",
+  "canonicalUrl": "https://mathesar.org/",
+  "name": "Mathesar",
+  "description": "Intuitive UI to manage data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Source Code](https://github.com/mathesar-foundation/mathesar)) `GPL-3.0` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mathesar.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mathesar.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:20:17.064Z",
+  "qualityScore": 52
+}

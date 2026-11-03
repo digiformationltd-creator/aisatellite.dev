@@ -1,0 +1,22 @@
+{
+  "id": "caddy-a90e4056d107",
+  "canonicalUrl": "https://caddyserver.com/",
+  "name": "Caddy",
+  "description": "Powerful, enterprise-ready web server with automatic HTTPS. ([Source Code](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go/deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://caddyserver.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://caddyserver.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:10:54.725Z",
+  "qualityScore": 52
+}

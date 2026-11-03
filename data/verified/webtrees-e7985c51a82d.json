@@ -1,0 +1,22 @@
+{
+  "id": "webtrees-e7985c51a82d",
+  "canonicalUrl": "https://www.webtrees.net/",
+  "name": "webtrees",
+  "description": "Leading online collaborative genealogy application on the web. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.webtrees.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.webtrees.net"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:30:52.958Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sitedots-50a4f6e15b27",
+  "canonicalUrl": "https://sitedots.com/",
+  "name": "SiteDots",
+  "description": "Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sitedots.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sitedots.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:27:04.201Z",
+  "qualityScore": 52
+}

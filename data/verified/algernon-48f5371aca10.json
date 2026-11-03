@@ -1,0 +1,22 @@
+{
+  "id": "algernon-48f5371aca10",
+  "canonicalUrl": "https://algernon.roboticoverlords.org/",
+  "name": "Algernon",
+  "description": "Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://algernon.roboticoverlords.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://algernon.roboticoverlords.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:09:11.208Z",
+  "qualityScore": 52
+}

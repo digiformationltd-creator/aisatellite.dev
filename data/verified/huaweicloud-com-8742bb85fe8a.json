@@ -1,0 +1,22 @@
+{
+  "id": "huaweicloud-com-8742bb85fe8a",
+  "canonicalUrl": "https://www.huaweicloud.com/intl/en-us/product/dns.html",
+  "name": "huaweicloud.com",
+  "description": "Free DNS hosting by Huawei",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.huaweicloud.com/intl/en-us/product/dns.html",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.huaweicloud.com/intl/en-us/product/dns.html"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:17:14.098Z",
+  "qualityScore": 47
+}

@@ -1,0 +1,22 @@
+{
+  "id": "signature-pdf-7ffe1a40a81f",
+  "canonicalUrl": "https://github.com/24eme/signaturepdf",
+  "name": "Signature PDF",
+  "description": "Sign and manipulate PDFs with collaboration, organization, compression and metadata editing. ([Demo](https://pdf.24eme.fr/)) `AGPL-3.0` `PHP/deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/24eme/signaturepdf",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/24eme/signaturepdf"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:26:44.235Z",
+  "qualityScore": 55
+}

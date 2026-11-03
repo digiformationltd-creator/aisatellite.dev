@@ -1,0 +1,22 @@
+{
+  "id": "virgil-security-7a3711ed5dee",
+  "canonicalUrl": "https://virgilsecurity.com/",
+  "name": "Virgil Security",
+  "description": "Tools and services for implementing end-to-end encryption, database protection, IoT security, and more in your digital solution. Free for applications with up to 250 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://virgilsecurity.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://virgilsecurity.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:30:22.773Z",
+  "qualityScore": 52
+}

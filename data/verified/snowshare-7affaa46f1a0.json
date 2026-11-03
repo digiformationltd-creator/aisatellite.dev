@@ -1,0 +1,22 @@
+{
+  "id": "snowshare-7affaa46f1a0",
+  "canonicalUrl": "https://github.com/TuroYT/snowshare",
+  "name": "snowshare",
+  "description": "File and link sharing platform with URL shortening, code snippet sharing, and file uploads, featuring customizable expiration, privacy settings, and QR codes. ([Demo](https://s.romain-pinsolle.fr)) `CC0-1.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/TuroYT/snowshare",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/TuroYT/snowshare"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:27:25.508Z",
+  "qualityScore": 55
+}

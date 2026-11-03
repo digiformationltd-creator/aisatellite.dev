@@ -38,7 +38,9 @@
   "evidenceUrls": [
     "https://github.com/cluaiz/cluaiz"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:46.664Z",
-  "updatedAt": "2026-11-03T07:24:46.664Z"
+  "updatedAt": "2026-11-03T07:24:46.664Z",
+  "lastVerified": "2026-11-03T09:11:35.081Z",
+  "qualityScore": 91
 }

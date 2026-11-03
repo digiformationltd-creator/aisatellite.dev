@@ -1,0 +1,22 @@
+{
+  "id": "bottle-rocket-605af84c6749",
+  "canonicalUrl": "https://bottle-rocket.app/",
+  "name": "Bottle Rocket",
+  "description": "Document scanning and management application, compatible with Rocketbook and Scribzee formats. ([Source Code](https://github.com/gman-au/bottle-rocket-server)) `MIT` `C#/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://bottle-rocket.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bottle-rocket.app/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:10:34.748Z",
+  "qualityScore": 52
+}

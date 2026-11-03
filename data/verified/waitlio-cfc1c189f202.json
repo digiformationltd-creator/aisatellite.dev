@@ -1,0 +1,22 @@
+{
+  "id": "waitlio-cfc1c189f202",
+  "canonicalUrl": "https://waitlio.com/",
+  "name": "Waitlio",
+  "description": "Waitlist management software for product launches. Create branded waitlist pages, collect and verify email subscribers, manage signups with tags and analytics. Free plan includes 100 subscribers/month, 1 waitlist, and API access.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://waitlio.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://waitlio.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z",
+  "lastVerified": "2026-11-03T09:30:29.512Z",
+  "qualityScore": 52
+}

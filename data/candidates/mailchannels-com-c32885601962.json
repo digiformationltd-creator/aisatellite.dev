@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mailchannels.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.792Z",
-  "updatedAt": "2026-11-03T07:24:44.792Z"
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:19:57.581Z",
+  "qualityScore": 52
 }

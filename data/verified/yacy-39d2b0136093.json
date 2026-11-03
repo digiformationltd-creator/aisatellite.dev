@@ -1,0 +1,22 @@
+{
+  "id": "yacy-39d2b0136093",
+  "canonicalUrl": "https://yacy.net/en/index.html",
+  "name": "Yacy",
+  "description": "Peer based, decentralized search engine server. ([Source Code](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java/Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://yacy.net/en/index.html",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://yacy.net/en/index.html"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:31:20.515Z",
+  "qualityScore": 52
+}

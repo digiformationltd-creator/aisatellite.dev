@@ -1,0 +1,22 @@
+{
+  "id": "schleuder-29c887462cb8",
+  "canonicalUrl": "https://schleuder.nadir.org/",
+  "name": "Schleuder",
+  "description": "GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPL-3.0` `Ruby`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://schleuder.nadir.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://schleuder.nadir.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:25:57.510Z",
+  "qualityScore": 52
+}

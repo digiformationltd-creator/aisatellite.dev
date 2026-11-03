@@ -1,0 +1,22 @@
+{
+  "id": "homeserverhq-4a3d471a1975",
+  "canonicalUrl": "https://www.homeserverhq.com/",
+  "name": "HomeServerHQ",
+  "description": "All-in-one home server infrastructure and installer. Have a fully configured email server, VPN, and public website(s) set up in less than an hour, even behind CGNAT. ([Source Code](https://github.com/homeserverhq/hshq)) `GPL-3.0` `Shell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.homeserverhq.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.homeserverhq.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:17:05.355Z",
+  "qualityScore": 52
+}

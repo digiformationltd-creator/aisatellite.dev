@@ -1,0 +1,22 @@
+{
+  "id": "multi-scrobbler-61e424b3e30c",
+  "canonicalUrl": "https://foxxmd.github.io/multi-scrobbler",
+  "name": "multi-scrobbler",
+  "description": "Scrobble plays from multiple sources to multiple scrobbling services. ([Source Code](https://github.com/FoxxMD/multi-scrobbler)) `MIT` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://foxxmd.github.io/multi-scrobbler",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://foxxmd.github.io/multi-scrobbler"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:21:14.298Z",
+  "qualityScore": 52
+}

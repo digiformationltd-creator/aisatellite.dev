@@ -1,0 +1,22 @@
+{
+  "id": "remsupp-cfad261a69fb",
+  "canonicalUrl": "https://remsupp.com/",
+  "name": "RemSupp",
+  "description": "On-demand support and permanent access to devices (2 sessions/day for free)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://remsupp.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://remsupp.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:24:55.607Z",
+  "qualityScore": 52
+}

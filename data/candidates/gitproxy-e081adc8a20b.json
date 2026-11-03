@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://git-proxy.finos.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.426Z",
-  "updatedAt": "2026-11-03T07:24:45.426Z"
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:16:11.636Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,22 @@
+{
+  "id": "unrealircd-ce659c3717dc",
+  "canonicalUrl": "https://www.unrealircd.org/",
+  "name": "UnrealIRCd",
+  "description": "Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.unrealircd.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.unrealircd.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:29:56.376Z",
+  "qualityScore": 52
+}

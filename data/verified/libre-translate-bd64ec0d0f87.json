@@ -1,0 +1,22 @@
+{
+  "id": "libre-translate-bd64ec0d0f87",
+  "canonicalUrl": "https://libretranslate.com/",
+  "name": "Libre Translate",
+  "description": "Machine Translation API. ([Source Code](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://libretranslate.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://libretranslate.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:19:09.480Z",
+  "qualityScore": 52
+}

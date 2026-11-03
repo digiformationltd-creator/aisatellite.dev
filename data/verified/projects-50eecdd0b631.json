@@ -1,0 +1,22 @@
+{
+  "id": "projects-50eecdd0b631",
+  "canonicalUrl": "https://zoho.com/projects",
+  "name": "Projects",
+  "description": "Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to [Bugtracker](https://zoho.com/bugtracker).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoho.com/projects",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoho.com/projects"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:24:03.424Z",
+  "qualityScore": 52
+}

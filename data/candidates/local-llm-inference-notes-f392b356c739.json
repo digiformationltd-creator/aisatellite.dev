@@ -29,7 +29,9 @@
   "evidenceUrls": [
     "https://github.com/Danielkgr/local-llm-inference-notes"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:46.664Z",
-  "updatedAt": "2026-11-03T07:24:46.664Z"
+  "updatedAt": "2026-11-03T07:24:46.664Z",
+  "lastVerified": "2026-11-03T09:19:30.524Z",
+  "qualityScore": 78
 }

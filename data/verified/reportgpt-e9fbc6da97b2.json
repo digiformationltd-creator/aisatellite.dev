@@ -1,0 +1,22 @@
+{
+  "id": "reportgpt-e9fbc6da97b2",
+  "canonicalUrl": "https://reportgpt.app/",
+  "name": "ReportGPT",
+  "description": "AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ReportGPT.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ReportGPT.app"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:24:59.685Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "updrafts-app-2bf68fe405e8",
+  "canonicalUrl": "https://updrafts.app/",
+  "name": "Updrafts.app",
+  "description": "WYSIWYG website builder for tailwindcss-based designs. Free for non-commercial usage.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://updrafts.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://updrafts.app"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:29:56.935Z",
+  "qualityScore": 52
+}

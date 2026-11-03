@@ -1,0 +1,22 @@
+{
+  "id": "modoboa-a6bca78ce313",
+  "canonicalUrl": "https://modoboa.org/en",
+  "name": "Modoboa",
+  "description": "Mail hosting and management platform including a modern and simplified web user interface. ([Source Code](https://github.com/modoboa/modoboa)) `ISC` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://modoboa.org/en/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://modoboa.org/en/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:21:04.850Z",
+  "qualityScore": 52
+}

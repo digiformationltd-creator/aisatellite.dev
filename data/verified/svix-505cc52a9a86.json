@@ -1,0 +1,22 @@
+{
+  "id": "svix-505cc52a9a86",
+  "canonicalUrl": "https://www.svix.com/",
+  "name": "Svix",
+  "description": "Webhooks as a Service. Send up to 50,000 messages/month for free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.svix.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.svix.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:28:23.098Z",
+  "qualityScore": 52
+}

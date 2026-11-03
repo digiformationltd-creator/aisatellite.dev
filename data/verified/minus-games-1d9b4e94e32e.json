@@ -1,0 +1,22 @@
+{
+  "id": "minus-games-1d9b4e94e32e",
+  "canonicalUrl": "https://accessory.github.io/minus_games_user_guide",
+  "name": "Minus Games",
+  "description": "Sync games and save files across multiple devices. ([Source Code](https://github.com/Accessory/minus_games)) `MIT` `Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://accessory.github.io/minus_games_user_guide",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://accessory.github.io/minus_games_user_guide"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:20:51.095Z",
+  "qualityScore": 52
+}

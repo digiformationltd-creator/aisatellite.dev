@@ -1,0 +1,22 @@
+{
+  "id": "netalertx-dc608bc0d1d8",
+  "canonicalUrl": "https://netalertx.com/",
+  "name": "NetAlertX",
+  "description": "Network intruder and presence detector. Scans for devices connected to your network and alerts you if new and unknown devices are found. ([Source Code](https://github.com/netalertx/NetAlertX)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://netalertx.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://netalertx.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:21:27.289Z",
+  "qualityScore": 52
+}

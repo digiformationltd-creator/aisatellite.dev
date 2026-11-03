@@ -1,0 +1,22 @@
+{
+  "id": "application-services-7f07af9cc917",
+  "canonicalUrl": "https://www.cloudflare.com/plans",
+  "name": "Application Services",
+  "description": "Free DNS for an unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and page rules,  WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.cloudflare.com/plans/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cloudflare.com/plans/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:09:38.122Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tiramisu-90083a8e9310",
+  "canonicalUrl": "https://github.com/MrRobotoGit/tiramisu",
+  "name": "Tiramisu",
+  "description": "BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid). `GPL-2.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/MrRobotoGit/tiramisu",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/MrRobotoGit/tiramisu"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:29:17.066Z",
+  "qualityScore": 55
+}

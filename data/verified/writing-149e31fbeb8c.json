@@ -1,0 +1,22 @@
+{
+  "id": "writing-149e31fbeb8c",
+  "canonicalUrl": "https://josephernest.github.io/writing",
+  "name": "Writing",
+  "description": "Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code](https://github.com/josephernest/writing)) `MIT` `Javascript`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://josephernest.github.io/writing/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://josephernest.github.io/writing/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:31:14.357Z",
+  "qualityScore": 52
+}

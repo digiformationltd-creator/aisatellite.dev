@@ -1,0 +1,22 @@
+{
+  "id": "mataroa-ca5895e11626",
+  "canonicalUrl": "https://mataroa.blog/",
+  "name": "Mataroa",
+  "description": "Naked blogging platform for minimalists. ([Source Code](https://github.com/mataroablog/mataroa)) `MIT` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mataroa.blog/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mataroa.blog/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:20:16.172Z",
+  "qualityScore": 52
+}

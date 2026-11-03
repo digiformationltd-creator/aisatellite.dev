@@ -1,0 +1,22 @@
+{
+  "id": "digitranscode-655723d75667",
+  "canonicalUrl": "https://ladigitale.dev/digitranscode",
+  "name": "Digitranscode",
+  "description": "Convert audio files and videos directly in the browser (documentation in French). ([Demo](https://ladigitale.dev/digitranscode), [Source Code](https://codeberg.org/ladigitale/digitranscode)) `AGPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ladigitale.dev/digitranscode",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ladigitale.dev/digitranscode"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:13:09.497Z",
+  "qualityScore": 52
+}

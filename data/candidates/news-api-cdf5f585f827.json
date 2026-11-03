@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://newsapi.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.781Z",
-  "updatedAt": "2026-11-03T07:24:44.781Z"
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:21:30.094Z",
+  "qualityScore": 52
 }

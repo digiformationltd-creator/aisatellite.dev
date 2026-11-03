@@ -1,0 +1,22 @@
+{
+  "id": "temp-mail-io-680faa892a37",
+  "canonicalUrl": "https://temp-mail.io/",
+  "name": "temp-mail.io",
+  "description": "Free disposable temporary email service with multiple emails at once and forwarding",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://temp-mail.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://temp-mail.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z",
+  "lastVerified": "2026-11-03T09:28:52.258Z",
+  "qualityScore": 52
+}

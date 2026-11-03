@@ -1,0 +1,22 @@
+{
+  "id": "weserv-3f251e3d6ef8",
+  "canonicalUrl": "https://images.weserv.nl/",
+  "name": "weserv",
+  "description": "An image cache & resize service. Manipulate images on the fly with a worldwide cache.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://images.weserv.nl/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://images.weserv.nl/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:30:55.306Z",
+  "qualityScore": 52
+}

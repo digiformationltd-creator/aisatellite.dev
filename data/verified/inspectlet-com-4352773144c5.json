@@ -1,0 +1,22 @@
+{
+  "id": "inspectlet-com-4352773144c5",
+  "canonicalUrl": "https://www.inspectlet.com/",
+  "name": "inspectlet.com",
+  "description": "2,500 sessions/month free for one website",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.inspectlet.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.inspectlet.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:17:45.209Z",
+  "qualityScore": 52
+}

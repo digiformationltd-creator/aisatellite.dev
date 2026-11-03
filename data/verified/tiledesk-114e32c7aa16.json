@@ -1,0 +1,22 @@
+{
+  "id": "tiledesk-114e32c7aa16",
+  "canonicalUrl": "https://tiledesk.com/",
+  "name": "Tiledesk",
+  "description": "All-in-one customer engagement platform from lead-gen to post-sales, from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots (alternative to Intercom, Zendesk, Tawk.to). ([Source Code](https://github.com/Tiledesk/tiledesk)) `MIT` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://tiledesk.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tiledesk.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:29:09.639Z",
+  "qualityScore": 52
+}

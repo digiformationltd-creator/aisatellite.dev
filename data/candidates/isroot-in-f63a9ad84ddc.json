@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://isroot.in"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.795Z",
-  "updatedAt": "2026-11-03T07:24:44.795Z"
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:18:08.801Z",
+  "qualityScore": 47
 }

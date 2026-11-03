@@ -1,0 +1,22 @@
+{
+  "id": "npoint-io-453eed2f1120",
+  "canonicalUrl": "https://www.npoint.io/",
+  "name": "npoint.io",
+  "description": "JSON store with collaborative schema editing",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.npoint.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.npoint.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:21:48.384Z",
+  "qualityScore": 52
+}

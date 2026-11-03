@@ -1,0 +1,22 @@
+{
+  "id": "mirumoji-33f243a462dd",
+  "canonicalUrl": "https://svdc1.github.io/mirumoji/docs",
+  "name": "Mirumoji",
+  "description": "Japanese immersion toolkit providing clickable, tokenized subtitles with dictionary lookups and transcription generation. ([Demo](https://svdc1.github.io/mirumoji/), [Source Code](https://github.com/svdC1/mirumoji)) `MIT` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://svdc1.github.io/mirumoji/docs",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://svdc1.github.io/mirumoji/docs"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:20:54.806Z",
+  "qualityScore": 52
+}

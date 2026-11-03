@@ -1,0 +1,22 @@
+{
+  "id": "socket-1e27b08cf47a",
+  "canonicalUrl": "https://socket.dev/",
+  "name": "Socket",
+  "description": "Free supply chain security for individual developers, small teams, and open source projects. Includes a free app and firewall CLI tool to protect your code from vulnerable and malicious dependencies. Detects 70+ indicators of supply chain risk.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://socket.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://socket.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:27:27.457Z",
+  "qualityScore": 52
+}

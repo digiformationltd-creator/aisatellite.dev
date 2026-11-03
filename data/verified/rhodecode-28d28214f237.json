@@ -1,0 +1,22 @@
+{
+  "id": "rhodecode-28d28214f237",
+  "canonicalUrl": "https://rhodecode.com/",
+  "name": "RhodeCode",
+  "description": "Unify and simplify repository management for Git, Subversion, and Mercurial. ([Source Code](https://code.rhodecode.com/)) `AGPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://rhodecode.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rhodecode.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:25:11.447Z",
+  "qualityScore": 52
+}

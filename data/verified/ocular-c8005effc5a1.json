@@ -1,0 +1,22 @@
+{
+  "id": "ocular-c8005effc5a1",
+  "canonicalUrl": "https://simonwep.github.io/ocular",
+  "name": "Ocular",
+  "description": "Simplistic and straightforward budgeting app to track your budget across months and years. ([Demo](https://simonwep.github.io/ocular/demo/#demo), [Source Code](https://github.com/simonwep/ocular)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://simonwep.github.io/ocular/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://simonwep.github.io/ocular/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:22:01.184Z",
+  "qualityScore": 52
+}

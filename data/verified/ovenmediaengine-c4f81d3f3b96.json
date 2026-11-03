@@ -1,0 +1,22 @@
+{
+  "id": "ovenmediaengine-c4f81d3f3b96",
+  "canonicalUrl": "https://github.com/OvenMediaLabs/OvenMediaEngine",
+  "name": "OvenMediaEngine",
+  "description": "Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com)) `AGPL-3.0` `C++/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/OvenMediaLabs/OvenMediaEngine",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/OvenMediaLabs/OvenMediaEngine"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:22:48.811Z",
+  "qualityScore": 55
+}

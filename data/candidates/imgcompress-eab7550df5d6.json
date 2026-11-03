@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://imgcompress.karimzouine.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.424Z",
-  "updatedAt": "2026-11-03T07:24:45.424Z"
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:17:36.324Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,22 @@
+{
+  "id": "wallabag-1e77fafd2e20",
+  "canonicalUrl": "https://www.wallabag.org/",
+  "name": "Wallabag",
+  "description": "Web application, formerly Poche, allowing you to save articles to read them later with improved readability. ([Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.wallabag.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.wallabag.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:30:33.014Z",
+  "qualityScore": 52
+}

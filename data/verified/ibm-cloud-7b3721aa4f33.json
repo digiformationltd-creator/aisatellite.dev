@@ -1,0 +1,22 @@
+{
+  "id": "ibm-cloud-7b3721aa4f33",
+  "canonicalUrl": "https://www.ibm.com/cloud/free",
+  "name": "IBM Cloud",
+  "description": "IBM Cloud developer resource",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.ibm.com/cloud/free/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.ibm.com/cloud/free/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:17:22.115Z",
+  "qualityScore": 47
+}

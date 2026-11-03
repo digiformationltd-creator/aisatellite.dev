@@ -1,0 +1,22 @@
+{
+  "id": "open-quartermaster-b3213bfe5259",
+  "canonicalUrl": "https://openquartermaster.com/",
+  "name": "Open QuarterMaster",
+  "description": "Powerful inventory management system, designed to be flexible and scalable. ([Source Code](https://github.com/Epic-Breakfast-Productions/OpenQuarterMaster)) `GPL-3.0` `deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://openquartermaster.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://openquartermaster.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:22:15.632Z",
+  "qualityScore": 52
+}

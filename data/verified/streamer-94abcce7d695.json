@@ -1,0 +1,22 @@
+{
+  "id": "streamer-94abcce7d695",
+  "canonicalUrl": "https://github.com/pikvm/ustreamer",
+  "name": "µStreamer",
+  "description": "Lightweight and very quick server to stream MJPEG video from any V4L2 device to the net. `GPL-3.0` `C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/pikvm/ustreamer",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/pikvm/ustreamer"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:27:59.976Z",
+  "qualityScore": 55
+}

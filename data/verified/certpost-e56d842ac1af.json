@@ -1,0 +1,22 @@
+{
+  "id": "certpost-e56d842ac1af",
+  "canonicalUrl": "https://www.certpost.ai/",
+  "name": "CertPost",
+  "description": "Live SSL/TLS certificate monitoring on port 443 or custom ports (SMTP/IMAP). Reads the served certificate on the wire, full chain verification, and alerts via email or webhook before expiration. Free tier includes 3 certificates monitored forever.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.certpost.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.certpost.ai"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:11:07.458Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ddracenetwork-9354e45b4f37",
+  "canonicalUrl": "https://ddnet.org/",
+  "name": "DDraceNetwork",
+  "description": "Cooperative platformer version of DDRace, a Teeworlds modification featuring unique cooperative gameplay. ([Source Code](https://github.com/ddnet/ddnet)) `Zlib` `C++`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ddnet.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ddnet.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:12:39.493Z",
+  "qualityScore": 52
+}

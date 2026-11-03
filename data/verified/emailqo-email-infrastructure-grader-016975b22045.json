@@ -1,0 +1,22 @@
+{
+  "id": "emailqo-email-infrastructure-grader-016975b22045",
+  "canonicalUrl": "https://emailqo.com/email-grader",
+  "name": "EmailQo Email Infrastructure Grader",
+  "description": "Free email infrastructure grader that checks SPF, DKIM, DMARC and mail server configuration. Scores any domain out of 100. No signup required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://emailqo.com/email-grader",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://emailqo.com/email-grader"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:13:58.666Z",
+  "qualityScore": 52
+}

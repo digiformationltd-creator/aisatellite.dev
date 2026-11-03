@@ -1,0 +1,22 @@
+{
+  "id": "cube-dcfa0487c540",
+  "canonicalUrl": "https://cube.dev/",
+  "name": "Cube",
+  "description": "Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free tier limited to 1,000 queries per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cube.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cube.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:12:20.024Z",
+  "qualityScore": 52
+}

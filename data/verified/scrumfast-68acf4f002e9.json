@@ -1,0 +1,22 @@
+{
+  "id": "scrumfast-68acf4f002e9",
+  "canonicalUrl": "https://www.scrumfast.com/",
+  "name": "ScrumFast",
+  "description": "Scrum board with a very intuitive interface, free up to 5 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.scrumfast.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.scrumfast.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:26:02.527Z",
+  "qualityScore": 52
+}

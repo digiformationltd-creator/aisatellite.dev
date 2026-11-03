@@ -1,0 +1,22 @@
+{
+  "id": "gonka-broker-149b40db3170",
+  "canonicalUrl": "https://gonkabroker.com/",
+  "name": "Gonka Broker",
+  "description": "OpenAI-compatible API for open-source models served over the decentralized Gonka.ai GPU network. 1M+ free tokens monthly. Easy integration with many AI tools.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://gonkabroker.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gonkabroker.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:16:26.864Z",
+  "qualityScore": 52
+}

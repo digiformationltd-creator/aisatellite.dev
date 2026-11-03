@@ -1,0 +1,22 @@
+{
+  "id": "meshcentral-69c00e37ae55",
+  "canonicalUrl": "https://meshcentral.com/",
+  "name": "MeshCentral",
+  "description": "Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. ([Source Code](https://github.com/Ylianst/MeshCentral)) `Apache-2.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://meshcentral.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://meshcentral.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:20:36.754Z",
+  "qualityScore": 52
+}

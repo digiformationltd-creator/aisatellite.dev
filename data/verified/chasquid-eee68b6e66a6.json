@@ -1,0 +1,22 @@
+{
+  "id": "chasquid-eee68b6e66a6",
+  "canonicalUrl": "https://blitiri.com.ar/p/chasquid",
+  "name": "chasquid",
+  "description": "SMTP (email) server with a focus on simplicity, security, and ease of operation. ([Source Code](https://blitiri.com.ar/git/r/chasquid/)) `Apache-2.0` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://blitiri.com.ar/p/chasquid/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://blitiri.com.ar/p/chasquid/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:11:12.908Z",
+  "qualityScore": 52
+}

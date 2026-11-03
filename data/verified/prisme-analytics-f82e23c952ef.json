@@ -1,0 +1,22 @@
+{
+  "id": "prisme-analytics-f82e23c952ef",
+  "canonicalUrl": "https://www.prismeanalytics.com/",
+  "name": "Prisme Analytics",
+  "description": "Privacy-focused and progressive analytics service based on Grafana. ([Source Code](https://github.com/prismelabs/analytics)) `AGPL-3.0/MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.prismeanalytics.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.prismeanalytics.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:23:57.812Z",
+  "qualityScore": 52
+}

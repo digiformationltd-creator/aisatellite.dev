@@ -1,0 +1,22 @@
+{
+  "id": "inspector-dev-e334bd1eb44f",
+  "canonicalUrl": "https://www.inspector.dev/",
+  "name": "inspector.dev",
+  "description": "A complete Real-Time monitoring dashboard in less than one minute with a free forever tier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.inspector.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.inspector.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:17:45.618Z",
+  "qualityScore": 52
+}

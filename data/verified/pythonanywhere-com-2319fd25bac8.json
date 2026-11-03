@@ -1,0 +1,22 @@
+{
+  "id": "pythonanywhere-com-2319fd25bac8",
+  "canonicalUrl": "https://www.pythonanywhere.com/",
+  "name": "pythonanywhere.com",
+  "description": "Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.pythonanywhere.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.pythonanywhere.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:24:19.615Z",
+  "qualityScore": 52
+}

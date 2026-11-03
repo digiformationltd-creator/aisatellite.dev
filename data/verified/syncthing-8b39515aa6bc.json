@@ -1,0 +1,22 @@
+{
+  "id": "syncthing-8b39515aa6bc",
+  "canonicalUrl": "https://syncthing.net/",
+  "name": "Syncthing",
+  "description": "Peer-to-peer file synchronisation tool. ([Source Code](https://github.com/syncthing/syncthing)) `MPL-2.0` `Go/Docker/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://syncthing.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://syncthing.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:28:36.275Z",
+  "qualityScore": 52
+}

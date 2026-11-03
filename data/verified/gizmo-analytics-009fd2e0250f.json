@@ -1,0 +1,22 @@
+{
+  "id": "gizmo-analytics-009fd2e0250f",
+  "canonicalUrl": "https://gizmoanalytics.io/",
+  "name": "Gizmo Analytics",
+  "description": "Simple analytics for people managing lots of sites. Install manually or let Claude/Cursor do it for you. Free for up to 10k events/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://gizmoanalytics.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gizmoanalytics.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:16:12.473Z",
+  "qualityScore": 52
+}

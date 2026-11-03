@@ -1,0 +1,22 @@
+{
+  "id": "zoneedit-com-4932303b3e67",
+  "canonicalUrl": "https://www.zoneedit.com/free-dns",
+  "name": "zoneedit.com",
+  "description": "Free DNS hosting with Dynamic DNS Support.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.zoneedit.com/free-dns/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.zoneedit.com/free-dns/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:31:48.252Z",
+  "qualityScore": 52
+}

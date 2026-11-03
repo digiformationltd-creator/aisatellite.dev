@@ -1,0 +1,22 @@
+{
+  "id": "polaris-bd10a105276e",
+  "canonicalUrl": "https://github.com/agersant/polaris",
+  "name": "Polaris",
+  "description": "Music browsing and streaming application optimized for large music collections, ease of use and high performance. `MIT` `Rust/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/agersant/polaris",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/agersant/polaris"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:23:43.278Z",
+  "qualityScore": 55
+}

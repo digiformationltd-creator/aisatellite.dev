@@ -1,0 +1,22 @@
+{
+  "id": "semgrep-e5277db834ec",
+  "canonicalUrl": "https://semgrep.dev/",
+  "name": "semgrep",
+  "description": "Scan code for security issues and vulnerable dependencies with SAST and SCA. Free tier includes up to 10 contributors and 10 private repos (unlimited public repos).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://semgrep.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://semgrep.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:26:13.779Z",
+  "qualityScore": 52
+}

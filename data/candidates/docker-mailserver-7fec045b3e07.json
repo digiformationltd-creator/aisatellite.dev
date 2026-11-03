@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docker-mailserver.github.io/docker-mailserver/edge/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.419Z",
-  "updatedAt": "2026-11-03T07:24:45.419Z"
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:13:21.887Z",
+  "qualityScore": 52
 }

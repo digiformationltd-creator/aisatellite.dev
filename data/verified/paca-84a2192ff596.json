@@ -1,0 +1,22 @@
+{
+  "id": "paca-84a2192ff596",
+  "canonicalUrl": "https://paca-ai.org/",
+  "name": "Paca",
+  "description": "AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp). ([Source Code](https://github.com/Paca-AI/paca)) `Apache-2.0` `Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://paca-ai.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://paca-ai.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:22:54.353Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "getinsights-io-02cc9f3d2dc2",
+  "canonicalUrl": "https://getinsights.io/",
+  "name": "getinsights.io",
+  "description": "Privacy-focused, cookie-free analytics, free for up to 3k events/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://getinsights.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://getinsights.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:16:00.429Z",
+  "qualityScore": 52
+}

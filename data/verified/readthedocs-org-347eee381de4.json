@@ -1,0 +1,22 @@
+{
+  "id": "readthedocs-org-347eee381de4",
+  "canonicalUrl": "https://readthedocs.org/",
+  "name": "readthedocs.org",
+  "description": "Free documentation hosting with versioning, PDF generation, and more",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://readthedocs.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://readthedocs.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:24:39.582Z",
+  "qualityScore": 52
+}

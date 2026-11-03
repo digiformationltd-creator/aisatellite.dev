@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mindwendel.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.427Z",
-  "updatedAt": "2026-11-03T07:24:45.427Z"
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:20:46.746Z",
+  "qualityScore": 52
 }

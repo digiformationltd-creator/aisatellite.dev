@@ -1,0 +1,22 @@
+{
+  "id": "yopass-1132fa8fdc36",
+  "canonicalUrl": "https://github.com/jhaals/yopass",
+  "name": "Yopass",
+  "description": "Secure sharing of secrets, passwords and files. ([Demo](https://yopass.se/)) `Apache-2.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/jhaals/yopass",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/jhaals/yopass"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:31:25.100Z",
+  "qualityScore": 55
+}

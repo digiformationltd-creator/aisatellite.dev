@@ -1,0 +1,22 @@
+{
+  "id": "memfault-com-68da8f5d1658",
+  "canonicalUrl": "https://memfault.com/",
+  "name": "memfault.com",
+  "description": "Cloud device observability and debugging platform. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://memfault.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://memfault.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:20:34.753Z",
+  "qualityScore": 52
+}

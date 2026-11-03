@@ -1,0 +1,22 @@
+{
+  "id": "transfernow-f5cd9410e330",
+  "canonicalUrl": "https://www.transfernow.net/",
+  "name": "transfernow",
+  "description": "simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a mandatory subscription.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.transfernow.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.transfernow.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:29:32.922Z",
+  "qualityScore": 52
+}

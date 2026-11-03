@@ -1,0 +1,22 @@
+{
+  "id": "zoraxy-3b620972871d",
+  "canonicalUrl": "https://zoraxy.aroz.org/",
+  "name": "Zoraxy",
+  "description": "General purpose HTTP reverse proxy and forwarding tool. ([Source Code](https://github.com/tobychui/zoraxy)) `AGPL-3.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://zoraxy.aroz.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoraxy.aroz.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:31:49.406Z",
+  "qualityScore": 52
+}

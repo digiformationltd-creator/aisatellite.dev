@@ -1,0 +1,22 @@
+{
+  "id": "sonarcloud-io-896e3be0323a",
+  "canonicalUrl": "https://sonarcloud.io/",
+  "name": "sonarcloud.io",
+  "description": "Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sonarcloud.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sonarcloud.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:27:32.083Z",
+  "qualityScore": 52
+}

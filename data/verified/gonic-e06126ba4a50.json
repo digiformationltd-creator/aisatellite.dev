@@ -1,0 +1,22 @@
+{
+  "id": "gonic-e06126ba4a50",
+  "canonicalUrl": "https://github.com/sentriz/gonic",
+  "name": "gonic",
+  "description": "Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/sentriz/gonic",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/sentriz/gonic"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:16:26.211Z",
+  "qualityScore": 55
+}

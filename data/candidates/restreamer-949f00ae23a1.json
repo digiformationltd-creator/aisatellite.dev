@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://datarhei.github.io/restreamer/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.424Z",
-  "updatedAt": "2026-11-03T07:24:45.424Z"
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:25:05.308Z",
+  "qualityScore": 52
 }

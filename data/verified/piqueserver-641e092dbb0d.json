@@ -1,0 +1,22 @@
+{
+  "id": "piqueserver-641e092dbb0d",
+  "canonicalUrl": "https://github.com/piqueserver/piqueserver",
+  "name": "piqueserver",
+  "description": "Server for openspades, the first-person shooter in a destructible voxel world. ([Clients](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/piqueserver/piqueserver",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/piqueserver/piqueserver"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:23:28.773Z",
+  "qualityScore": 55
+}

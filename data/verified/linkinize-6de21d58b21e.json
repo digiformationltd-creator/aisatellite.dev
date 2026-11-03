@@ -1,0 +1,22 @@
+{
+  "id": "linkinize-6de21d58b21e",
+  "canonicalUrl": "https://linkinize.com/",
+  "name": "Linkinize",
+  "description": "Bookmark manager for teams with tagging, multi-workspaces, and collaboration. Free plan includes 4 workspaces and 10 team members.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://linkinize.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://linkinize.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:19:19.296Z",
+  "qualityScore": 52
+}

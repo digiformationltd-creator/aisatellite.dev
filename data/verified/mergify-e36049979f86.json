@@ -1,0 +1,22 @@
+{
+  "id": "mergify-e36049979f86",
+  "canonicalUrl": "https://mergify.com/",
+  "name": "Mergify",
+  "description": "workflow automation and merge queue for GitHub - Free for public GitHub repositories",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mergify.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mergify.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:20:36.342Z",
+  "qualityScore": 52
+}

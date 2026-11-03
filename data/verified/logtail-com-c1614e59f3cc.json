@@ -1,0 +1,22 @@
+{
+  "id": "logtail-com-c1614e59f3cc",
+  "canonicalUrl": "https://logtail.com/",
+  "name": "logtail.com",
+  "description": "ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://logtail.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://logtail.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:19:43.095Z",
+  "qualityScore": 52
+}

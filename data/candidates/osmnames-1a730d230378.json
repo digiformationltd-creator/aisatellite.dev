@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://osmnames.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.797Z",
-  "updatedAt": "2026-11-03T07:24:44.797Z"
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:22:40.965Z",
+  "qualityScore": 52
 }

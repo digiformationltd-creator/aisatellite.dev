@@ -1,0 +1,22 @@
+{
+  "id": "financial-data-dfefd0ee5044",
+  "canonicalUrl": "https://financialdata.net/",
+  "name": "Financial Data",
+  "description": "Stock market and financial data API. Free plan allows 300 requests per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://financialdata.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://financialdata.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:14:45.617Z",
+  "qualityScore": 52
+}

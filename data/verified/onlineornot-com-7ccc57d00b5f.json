@@ -1,0 +1,22 @@
+{
+  "id": "onlineornot-com-7ccc57d00b5f",
+  "canonicalUrl": "https://onlineornot.com/",
+  "name": "OnlineOrNot.com",
+  "description": "OnlineOrNot provides uptime monitoring for websites and APIs, monitoring for cron jobs and scheduled tasks. Also provides status pages. The first five checks with a 3-minute interval are free. The free tier sends alerts via Slack, Discord, and Email.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://onlineornot.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://onlineornot.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:22:08.471Z",
+  "qualityScore": 52
+}

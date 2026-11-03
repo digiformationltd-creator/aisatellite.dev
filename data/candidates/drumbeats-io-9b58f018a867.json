@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://drumbeats.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.790Z",
-  "updatedAt": "2026-11-03T07:24:44.790Z"
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:13:36.966Z",
+  "qualityScore": 52
 }

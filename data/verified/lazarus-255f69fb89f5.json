@@ -1,0 +1,22 @@
+{
+  "id": "lazarus-255f69fb89f5",
+  "canonicalUrl": "https://www.lazarus-ide.org/",
+  "name": "Lazarus",
+  "description": "Lazarus is a Delphi-compatible cross-platform IDE for Rapid Application Development.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.lazarus-ide.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.lazarus-ide.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:19:00.463Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "quay-io-8aa6b1c7cb58",
+  "canonicalUrl": "https://quay.io/",
+  "name": "quay.io",
+  "description": "Build and store container images with unlimited free public repositories",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://quay.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://quay.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:24:26.821Z",
+  "qualityScore": 52
+}

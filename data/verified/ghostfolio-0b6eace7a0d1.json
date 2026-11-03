@@ -1,0 +1,22 @@
+{
+  "id": "ghostfolio-0b6eace7a0d1",
+  "canonicalUrl": "https://ghostfol.io/",
+  "name": "Ghostfolio",
+  "description": "Wealth management software to keep track of stocks, ETFs and cryptocurrencies. ([Source Code](https://github.com/ghostfolio/ghostfolio)) `AGPL-3.0` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ghostfol.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ghostfol.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:16:05.970Z",
+  "qualityScore": 52
+}

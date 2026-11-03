@@ -1,0 +1,22 @@
+{
+  "id": "wachete-e6a1473e5036",
+  "canonicalUrl": "https://www.wachete.com/",
+  "name": "Wachete",
+  "description": "monitor five pages, checks every 24 hours.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.wachete.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.wachete.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:30:27.292Z",
+  "qualityScore": 52
+}

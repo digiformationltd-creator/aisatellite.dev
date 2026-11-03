@@ -1,0 +1,22 @@
+{
+  "id": "immich-kiosk-2b6d49676239",
+  "canonicalUrl": "https://github.com/damongolding/immich-kiosk",
+  "name": "Immich Kiosk",
+  "description": "Lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. ([Clients](https://github.com/immich-app/immich)) `GPL-3.0` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/damongolding/immich-kiosk",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/damongolding/immich-kiosk"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:17:39.419Z",
+  "qualityScore": 55
+}

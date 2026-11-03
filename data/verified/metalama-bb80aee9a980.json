@@ -1,0 +1,22 @@
+{
+  "id": "metalama-bb80aee9a980",
+  "canonicalUrl": "https://www.postsharp.net/metalama",
+  "name": "Metalama",
+  "description": "A C#-specific tool that generates boilerplate code on the fly during compilation to keep source code clean. It is free for open-source projects; its commercial-friendly free tier includes up to three aspects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.postsharp.net/metalama",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.postsharp.net/metalama"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:20:38.373Z",
+  "qualityScore": 52
+}

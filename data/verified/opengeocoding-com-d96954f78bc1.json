@@ -1,0 +1,22 @@
+{
+  "id": "opengeocoding-com-d96954f78bc1",
+  "canonicalUrl": "https://opengeocoding.com/",
+  "name": "opengeocoding.com",
+  "description": "Source-available geocoder in Rust: address search, autocomplete and reverse geocoding on open data. Self-host it or use the hosted API. Fifty thousand free queries/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://opengeocoding.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://opengeocoding.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:22:22.134Z",
+  "qualityScore": 52
+}

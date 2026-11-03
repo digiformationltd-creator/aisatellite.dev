@@ -1,0 +1,22 @@
+{
+  "id": "rollgate-d2dfc9bdbd8e",
+  "canonicalUrl": "https://rollgate.io/",
+  "name": "Rollgate",
+  "description": "EU-hosted feature flag management with scheduled releases, instant rollback, and A/B testing. 12 SDKs included. Free plan up to 500K API requests/month, unlimited flags, 3 team members, no credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://rollgate.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rollgate.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z",
+  "lastVerified": "2026-11-03T09:25:17.560Z",
+  "qualityScore": 52
+}

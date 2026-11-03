@@ -1,0 +1,22 @@
+{
+  "id": "spoolman-0f09aeb4ee8f",
+  "canonicalUrl": "https://github.com/Donkie/Spoolman",
+  "name": "Spoolman",
+  "description": "Keep track of your inventory of 3D-printer filament spools. `MIT` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/Donkie/Spoolman",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/Donkie/Spoolman"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:27:37.343Z",
+  "qualityScore": 55
+}

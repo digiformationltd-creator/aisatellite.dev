@@ -1,0 +1,22 @@
+{
+  "id": "rukovoditel-9d0b9eac18c7",
+  "canonicalUrl": "https://www.rukovoditel.net/",
+  "name": "Rukovoditel",
+  "description": "Configurable project management, web-based application. ([Source Code](https://www.rukovoditel.net/download.php)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.rukovoditel.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.rukovoditel.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:25:26.007Z",
+  "qualityScore": 52
+}

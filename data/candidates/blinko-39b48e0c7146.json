@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://blinko.space/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.425Z",
-  "updatedAt": "2026-11-03T07:24:45.425Z"
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:10:27.735Z",
+  "qualityScore": 52
 }

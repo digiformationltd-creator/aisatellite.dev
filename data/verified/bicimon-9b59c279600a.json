@@ -1,0 +1,22 @@
+{
+  "id": "bicimon-9b59c279600a",
+  "canonicalUrl": "https://github.com/knrdl/bicimon",
+  "name": "Bicimon",
+  "description": "Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `Javascript`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/knrdl/bicimon",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/knrdl/bicimon"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:10:17.560Z",
+  "qualityScore": 55
+}

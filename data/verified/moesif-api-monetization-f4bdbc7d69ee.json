@@ -1,0 +1,24 @@
+{
+  "id": "moesif-api-monetization-f4bdbc7d69ee",
+  "canonicalUrl": "https://www.moesif.com/",
+  "name": "Moesif API Monetization",
+  "description": "Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. The free tier offers 30,000 events/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.moesif.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.moesif.com",
+    "https://www.moesif.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:47.250Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:21:05.243Z",
+  "qualityScore": 57
+}

@@ -1,0 +1,22 @@
+{
+  "id": "codetrain-e634dfe83ce8",
+  "canonicalUrl": "https://codetrain.ai/",
+  "name": "CodeTrain",
+  "description": "AI coding tutor that teaches you on your own codebase and never writes the code for you. Free tier: 10 in-browser lessons/month, Python/JS run client-side, no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://codetrain.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codetrain.ai"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:11:45.563Z",
+  "qualityScore": 52
+}

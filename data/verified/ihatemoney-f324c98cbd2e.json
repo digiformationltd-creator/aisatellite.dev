@@ -1,0 +1,22 @@
+{
+  "id": "ihatemoney-f324c98cbd2e",
+  "canonicalUrl": "https://ihatemoney.org/",
+  "name": "IHateMoney",
+  "description": "Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ihatemoney.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ihatemoney.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:17:26.564Z",
+  "qualityScore": 52
+}

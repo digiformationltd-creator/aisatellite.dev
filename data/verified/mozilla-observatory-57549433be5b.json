@@ -1,0 +1,22 @@
+{
+  "id": "mozilla-observatory-57549433be5b",
+  "canonicalUrl": "https://observatory.mozilla.org/",
+  "name": "Mozilla Observatory",
+  "description": "Find and fix security vulnerabilities in your site.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://observatory.mozilla.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://observatory.mozilla.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:21:12.665Z",
+  "qualityScore": 52
+}

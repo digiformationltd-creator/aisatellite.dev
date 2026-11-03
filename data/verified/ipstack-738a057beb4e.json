@@ -1,0 +1,22 @@
+{
+  "id": "ipstack-738a057beb4e",
+  "canonicalUrl": "https://ipstack.com/",
+  "name": "ipstack",
+  "description": "Locate and identify Website Visitors by IP Address",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ipstack.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ipstack.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:18:05.534Z",
+  "qualityScore": 52
+}

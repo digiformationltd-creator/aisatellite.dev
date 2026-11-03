@@ -1,0 +1,22 @@
+{
+  "id": "ratelog-1c068e37dbca",
+  "canonicalUrl": "https://ratelog.org/",
+  "name": "Ratelog",
+  "description": "Movie tracker and rating app (alternative to Letterboxd). ([Source Code](https://github.com/golmenero/ratelog)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ratelog.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ratelog.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:24:34.352Z",
+  "qualityScore": 52
+}

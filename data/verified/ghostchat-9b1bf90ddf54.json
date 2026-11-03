@@ -1,0 +1,22 @@
+{
+  "id": "ghostchat-9b1bf90ddf54",
+  "canonicalUrl": "https://ghostchat.dev/",
+  "name": "GhostChat",
+  "description": "Privacy-first live chat widget for websites (~15KB, no cookies, no tracking). Free plan includes 1 site, unlimited messages, a built-in AI chatbot (25 replies/mo), 30-day history, Gmail threading, canned responses and push notifications. No credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ghostchat.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ghostchat.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:16:04.964Z",
+  "qualityScore": 52
+}

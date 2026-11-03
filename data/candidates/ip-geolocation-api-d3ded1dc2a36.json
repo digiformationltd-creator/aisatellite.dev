@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.abstractapi.com/ip-geolocation-api"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.780Z",
-  "updatedAt": "2026-11-03T07:24:44.780Z"
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:18:01.540Z",
+  "qualityScore": 52
 }

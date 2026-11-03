@@ -1,0 +1,22 @@
+{
+  "id": "gnunet-7efa6abd9f1c",
+  "canonicalUrl": "https://gnunet.org/",
+  "name": "GNUnet",
+  "description": "Software framework for decentralized, peer-to-peer networking. ([Source Code](https://gnunet.org/git/)) `GPL-3.0` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gnunet.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gnunet.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:16:19.412Z",
+  "qualityScore": 52
+}

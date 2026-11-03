@@ -1,0 +1,22 @@
+{
+  "id": "prosody-im-dbace783e6f8",
+  "canonicalUrl": "https://prosody.im/",
+  "name": "Prosody IM",
+  "description": "Feature-rich and easy to configure XMPP server. ([Source Code](https://hg.prosody.im/)) `MIT` `Lua`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://prosody.im/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://prosody.im/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:24:08.297Z",
+  "qualityScore": 52
+}

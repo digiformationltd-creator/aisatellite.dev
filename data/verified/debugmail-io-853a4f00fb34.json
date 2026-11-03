@@ -1,0 +1,22 @@
+{
+  "id": "debugmail-io-853a4f00fb34",
+  "canonicalUrl": "https://debugmail.io/",
+  "name": "debugmail.io",
+  "description": "Easy to use testing mail server for developers",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://debugmail.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://debugmail.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:12:41.761Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "vinyl-cache-93fef9c231b4",
+  "canonicalUrl": "https://vinyl-cache.org/",
+  "name": "Vinyl Cache",
+  "description": "Web application accelerator/caching HTTP reverse proxy (formerly Varnish). ([Source Code](https://code.vinyl-cache.org/vinyl-cache/vinyl-cache)) `BSD-2-Clause` `Go/deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://vinyl-cache.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://vinyl-cache.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:30:22.007Z",
+  "qualityScore": 52
+}

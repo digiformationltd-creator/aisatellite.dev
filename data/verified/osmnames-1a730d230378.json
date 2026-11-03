@@ -1,0 +1,22 @@
+{
+  "id": "osmnames-1a730d230378",
+  "canonicalUrl": "https://osmnames.org/",
+  "name": "osmnames",
+  "description": "Geocoding, search results ranked by the popularity of related Wikipedia page.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://osmnames.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://osmnames.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:22:40.965Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gemfury-c3b22eb24669",
+  "canonicalUrl": "https://gemfury.com/",
+  "name": "Gemfury",
+  "description": "Private and public artifact repos for Maven, PyPi, NPM, Go Module, Nuget, APT, and RPM repositories. Free for public projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://gemfury.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gemfury.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:15:52.787Z",
+  "qualityScore": 52
+}

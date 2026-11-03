@@ -1,0 +1,22 @@
+{
+  "id": "cronitor-io-e02f2c04accd",
+  "canonicalUrl": "https://cronitor.io/",
+  "name": "cronitor.io",
+  "description": "Performance insights and uptime monitoring for cron jobs, websites, APIs and more. A free tier with five monitors.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cronitor.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cronitor.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:12:17.179Z",
+  "qualityScore": 52
+}

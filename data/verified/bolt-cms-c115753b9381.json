@@ -1,0 +1,22 @@
+{
+  "id": "bolt-cms-c115753b9381",
+  "canonicalUrl": "https://boltcms.io/",
+  "name": "Bolt CMS",
+  "description": "Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code](https://github.com/bolt/core)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://boltcms.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://boltcms.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:10:30.953Z",
+  "qualityScore": 52
+}

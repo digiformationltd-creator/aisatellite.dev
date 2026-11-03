@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.cerbos.dev/product-cerbos-hub"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.789Z",
-  "updatedAt": "2026-11-03T07:24:44.789Z"
+  "updatedAt": "2026-11-03T07:24:44.789Z",
+  "lastVerified": "2026-11-03T09:11:05.761Z",
+  "qualityScore": 52
 }

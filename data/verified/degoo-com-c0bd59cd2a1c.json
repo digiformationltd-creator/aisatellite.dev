@@ -1,0 +1,22 @@
+{
+  "id": "degoo-com-c0bd59cd2a1c",
+  "canonicalUrl": "https://degoo.com/",
+  "name": "degoo.com",
+  "description": "AI based cloud storage with free up to 20 GB, three devices, 5 GB referral bonus (90 days account inactivity).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://degoo.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://degoo.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:12:43.831Z",
+  "qualityScore": 52
+}

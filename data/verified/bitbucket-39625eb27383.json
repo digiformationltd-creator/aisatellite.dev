@@ -1,0 +1,22 @@
+{
+  "id": "bitbucket-39625eb27383",
+  "canonicalUrl": "https://bitbucket.org/",
+  "name": "Bitbucket",
+  "description": "Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://bitbucket.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bitbucket.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:10:22.798Z",
+  "qualityScore": 52
+}

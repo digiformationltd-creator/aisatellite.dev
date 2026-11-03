@@ -1,0 +1,22 @@
+{
+  "id": "certobserver-ct-search-f61c10422763",
+  "canonicalUrl": "https://certobserver.com/ct-search",
+  "name": "CertObserver CT Search",
+  "description": "Find public SSL/TLS certificates recorded in Certificate Transparency logs. CT search is free but CT monitoring is not.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://certobserver.com/ct-search",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://certobserver.com/ct-search"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:11:06.657Z",
+  "qualityScore": 52
+}

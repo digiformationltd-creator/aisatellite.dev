@@ -1,0 +1,22 @@
+{
+  "id": "free-po-editor-dc1197775925",
+  "canonicalUrl": "https://pofile.net/free-po-editor",
+  "name": "Free PO editor",
+  "description": "Free for everybody",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pofile.net/free-po-editor",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pofile.net/free-po-editor"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:15:29.073Z",
+  "qualityScore": 47
+}

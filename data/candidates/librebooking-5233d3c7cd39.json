@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://librebooking.readthedocs.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.418Z",
-  "updatedAt": "2026-11-03T07:24:45.418Z"
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:19:09.795Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,22 @@
+{
+  "id": "certavert-324bfca484b4",
+  "canonicalUrl": "https://certavert.com/monitoring",
+  "name": "CertAvert",
+  "description": "Monitor SSL/TLS certificates on any port, checks expiry, chain problems, revocation, host mismatch. Monitor 15 domains free, get expiry notifications, email, Slack or Discord. No credit card required for signup.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://certavert.com/monitoring",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://certavert.com/monitoring"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:11:05.955Z",
+  "qualityScore": 52
+}

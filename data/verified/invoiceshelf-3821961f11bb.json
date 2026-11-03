@@ -1,0 +1,22 @@
+{
+  "id": "invoiceshelf-3821961f11bb",
+  "canonicalUrl": "https://invoiceshelf.com/",
+  "name": "InvoiceShelf",
+  "description": "Track expenses, payments & create professional invoices & estimates (fork of Crater). ([Source Code](https://github.com/InvoiceShelf/InvoiceShelf)) `AGPL-3.0` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://invoiceshelf.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://invoiceshelf.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:17:57.534Z",
+  "qualityScore": 52
+}

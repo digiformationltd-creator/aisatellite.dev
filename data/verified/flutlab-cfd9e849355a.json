@@ -1,0 +1,22 @@
+{
+  "id": "flutlab-cfd9e849355a",
+  "canonicalUrl": "https://flutlab.io/",
+  "name": "FlutLab",
+  "description": "FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without a Mac) and Android apps with Flutter.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://flutlab.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://flutlab.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:15:00.337Z",
+  "qualityScore": 52
+}

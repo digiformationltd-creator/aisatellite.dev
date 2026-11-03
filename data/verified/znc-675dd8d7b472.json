@@ -1,0 +1,22 @@
+{
+  "id": "znc-675dd8d7b472",
+  "canonicalUrl": "https://wiki.znc.in/ZNC",
+  "name": "ZNC",
+  "description": "Advanced IRC bouncer. ([Source Code](https://github.com/znc/znc)) `Apache-2.0` `C++/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://wiki.znc.in/ZNC",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wiki.znc.in/ZNC"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:31:46.872Z",
+  "qualityScore": 52
+}

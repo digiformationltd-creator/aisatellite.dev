@@ -1,0 +1,22 @@
+{
+  "id": "beanstalkapp-com-b6f33a1d1725",
+  "canonicalUrl": "https://beanstalkapp.com/",
+  "name": "beanstalkapp.com",
+  "description": "A complete workflow to write, review, and deploy code), a free account for one user, and one repository with 100 MB of storage",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://beanstalkapp.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://beanstalkapp.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:10:10.292Z",
+  "qualityScore": 52
+}

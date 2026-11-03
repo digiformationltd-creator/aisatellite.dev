@@ -1,0 +1,22 @@
+{
+  "id": "codekeep-e9c43fa15e23",
+  "canonicalUrl": "https://codekeep.io/",
+  "name": "CodeKeep",
+  "description": "Google Keep for Code Snippets. Organize, Discover, and share code snippets, featuring a powerful code screenshot tool with preset templates and a linking feature.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://codekeep.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codekeep.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:11:44.028Z",
+  "qualityScore": 52
+}

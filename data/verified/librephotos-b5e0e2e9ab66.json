@@ -1,0 +1,22 @@
+{
+  "id": "librephotos-b5e0e2e9ab66",
+  "canonicalUrl": "https://github.com/LibrePhotos/librephotos",
+  "name": "LibrePhotos",
+  "description": "Photo management service with a slight focus on cool graphs (alternative to Google Photos). ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/LibrePhotos/librephotos",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/LibrePhotos/librephotos"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:19:11.236Z",
+  "qualityScore": 55
+}

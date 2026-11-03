@@ -1,0 +1,22 @@
+{
+  "id": "insomnia-4ea103adc618",
+  "canonicalUrl": "https://insomnia.rest/",
+  "name": "Insomnia",
+  "description": "Open-source API client for designing and testing APIs, it supports REST and GraphQL",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://insomnia.rest",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://insomnia.rest"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:17:44.097Z",
+  "qualityScore": 52
+}

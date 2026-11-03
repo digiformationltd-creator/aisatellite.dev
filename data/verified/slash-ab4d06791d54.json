@@ -1,0 +1,22 @@
+{
+  "id": "slash-ab4d06791d54",
+  "canonicalUrl": "https://github.com/yourselfhosted/slash",
+  "name": "Slash",
+  "description": "Bookmarks and link sharing platform. `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/yourselfhosted/slash",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/yourselfhosted/slash"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:27:07.975Z",
+  "qualityScore": 55
+}

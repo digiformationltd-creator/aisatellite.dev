@@ -1,0 +1,22 @@
+{
+  "id": "corgea-a890c49e867c",
+  "canonicalUrl": "https://corgea.com/",
+  "name": "Corgea",
+  "description": "Free autonomous security platform that finds, validates and fixes insecure code and packages across +20 languages and frameworks. Free plan includes 1 user and 2 repos.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://corgea.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://corgea.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:12:08.255Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "numverify-356fed38ea0b",
+  "canonicalUrl": "https://numverify.com/",
+  "name": "numverify",
+  "description": "Global phone number validation and lookup JSON API. 100 API requests/month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://numverify.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://numverify.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:21:57.848Z",
+  "qualityScore": 52
+}

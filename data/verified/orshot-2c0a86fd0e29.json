@@ -1,0 +1,22 @@
+{
+  "id": "orshot-2c0a86fd0e29",
+  "canonicalUrl": "https://orshot.com/",
+  "name": "Orshot",
+  "description": "Automate Videos, PDFs and Images from templates via API, n8n, Zapier and AI Agents. Design templates in a visual editor (or import from Canva or Figma), then automate bulk generation from your data source. The free plan includes 100 render credits every month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://orshot.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://orshot.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:22:39.935Z",
+  "qualityScore": 52
+}

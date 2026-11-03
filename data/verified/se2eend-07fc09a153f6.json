@@ -1,0 +1,22 @@
+{
+  "id": "se2eend-07fc09a153f6",
+  "canonicalUrl": "https://github.com/sE2EEnd/sE2EEnd",
+  "name": "sE2EEnd",
+  "description": "End-to-end encrypted file sharing with password protection, download limits, and auto-expiration, integrated with Keycloak for authentication. `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/sE2EEnd/sE2EEnd",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/sE2EEnd/sE2EEnd"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:26:03.689Z",
+  "qualityScore": 55
+}

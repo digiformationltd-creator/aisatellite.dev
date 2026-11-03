@@ -1,0 +1,22 @@
+{
+  "id": "onloc-50d1c9634aba",
+  "canonicalUrl": "https://onloc.app/",
+  "name": "Onloc",
+  "description": "Track and share your location in real time. Control and lock stolen or lost phones. ([Source Code](https://github.com/onloc-app/onloc-api), [Clients](https://github.com/onloc-app/onloc-android)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://onloc.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://onloc.app"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:22:08.694Z",
+  "qualityScore": 52
+}

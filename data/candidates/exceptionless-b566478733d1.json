@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://exceptionless.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.791Z",
-  "updatedAt": "2026-11-03T07:24:44.791Z"
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:14:26.077Z",
+  "qualityScore": 52
 }

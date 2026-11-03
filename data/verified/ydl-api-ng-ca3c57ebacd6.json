@@ -1,0 +1,22 @@
+{
+  "id": "ydl-api-ng-ca3c57ebacd6",
+  "canonicalUrl": "https://github.com/Totonyus/ydl_api_ng",
+  "name": "ydl_api_ng",
+  "description": "Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/Totonyus/ydl_api_ng",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/Totonyus/ydl_api_ng"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:31:22.589Z",
+  "qualityScore": 55
+}

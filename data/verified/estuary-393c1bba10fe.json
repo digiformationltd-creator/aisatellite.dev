@@ -1,0 +1,22 @@
+{
+  "id": "estuary-393c1bba10fe",
+  "canonicalUrl": "https://estuary.dev/",
+  "name": "Estuary",
+  "description": "Real-time data integration platform for CDC, streaming, and batch data integration with 200+ managed connectors. Free plan includes 10 GB/month of data movement and up to 2 connector instances, with no time limit and no credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://estuary.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://estuary.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:14:17.667Z",
+  "qualityScore": 52
+}

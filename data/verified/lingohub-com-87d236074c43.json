@@ -1,0 +1,22 @@
+{
+  "id": "lingohub-com-87d236074c43",
+  "canonicalUrl": "https://lingohub.com/",
+  "name": "lingohub.com",
+  "description": "Free up to 3 users, always free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://lingohub.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://lingohub.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:19:18.723Z",
+  "qualityScore": 52
+}

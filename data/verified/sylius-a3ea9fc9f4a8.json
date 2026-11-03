@@ -1,0 +1,22 @@
+{
+  "id": "sylius-a3ea9fc9f4a8",
+  "canonicalUrl": "https://sylius.com/",
+  "name": "Sylius",
+  "description": "Symfony2 powered full-stack platform for eCommerce. ([Demo](https://sylius.com/try/), [Source Code](https://github.com/Sylius/Sylius)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://sylius.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sylius.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:28:31.891Z",
+  "qualityScore": 52
+}

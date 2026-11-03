@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/Wingysam/Christmas-Community"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.426Z",
-  "updatedAt": "2026-11-03T07:24:45.426Z"
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:11:18.227Z",
+  "qualityScore": 55
 }

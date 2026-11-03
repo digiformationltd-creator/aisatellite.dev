@@ -1,0 +1,22 @@
+{
+  "id": "currencyapi-94cdb250d83e",
+  "canonicalUrl": "https://currencyapi.com/",
+  "name": "Currencyapi",
+  "description": "Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://currencyapi.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://currencyapi.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:12:20.791Z",
+  "qualityScore": 52
+}

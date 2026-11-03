@@ -1,0 +1,22 @@
+{
+  "id": "gerrithub-io-c49a4f6f256a",
+  "canonicalUrl": "https://review.gerrithub.io/",
+  "name": "gerrithub.io",
+  "description": "Gerrit code review for GitHub repositories for free",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://review.gerrithub.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://review.gerrithub.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:15:59.613Z",
+  "qualityScore": 52
+}

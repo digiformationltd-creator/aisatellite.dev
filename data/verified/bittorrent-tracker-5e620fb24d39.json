@@ -1,0 +1,22 @@
+{
+  "id": "bittorrent-tracker-5e620fb24d39",
+  "canonicalUrl": "https://webtorrent.io/",
+  "name": "bittorrent-tracker",
+  "description": "Simple, robust, BitTorrent tracker (client and server) implementation. ([Source Code](https://github.com/webtorrent/bittorrent-tracker)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://webtorrent.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://webtorrent.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:10:25.061Z",
+  "qualityScore": 52
+}

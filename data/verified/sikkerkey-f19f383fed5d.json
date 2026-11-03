@@ -1,0 +1,22 @@
+{
+  "id": "sikkerkey-f19f383fed5d",
+  "canonicalUrl": "https://sikkerkey.com/",
+  "name": "SikkerKey",
+  "description": "Machine authenticated secrets manager, includes 2 projects, 2 bootstrapped machines, 20 secrets and 7 days audit log retention for free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sikkerkey.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sikkerkey.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:26:45.481Z",
+  "qualityScore": 52
+}

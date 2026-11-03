@@ -1,0 +1,22 @@
+{
+  "id": "trophy-87ea0e450638",
+  "canonicalUrl": "https://trophy.so/",
+  "name": "Trophy",
+  "description": "Trophy is the gamification layer for consumer apps. Use pre-built APIs and open-source UI components to ship achievements, streaks, points, leaderboards and more. Free for up to 1,000 monthly active users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://trophy.so",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://trophy.so"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:29:38.672Z",
+  "qualityScore": 52
+}

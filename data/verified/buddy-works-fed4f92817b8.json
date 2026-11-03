@@ -1,0 +1,22 @@
+{
+  "id": "buddy-works-fed4f92817b8",
+  "canonicalUrl": "https://buddy.works/",
+  "name": "buddy.works",
+  "description": "A CI/CD with five free projects and one concurrent run (120 executions/month)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://buddy.works/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://buddy.works/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:10:40.566Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "devdome-597de50a96ed",
+  "canonicalUrl": "https://devdome.com/",
+  "name": "DevDome",
+  "description": "Cookieless web analytics for WordPress that counts human visitors separately from bots and AI crawlers. Free plan: unlimited sites, 50,000 human pageviews per month, 90 days of data retention.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://devdome.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://devdome.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:12:49.571Z",
+  "qualityScore": 52
+}

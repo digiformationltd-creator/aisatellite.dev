@@ -1,0 +1,22 @@
+{
+  "id": "sendstreak-ab076d8ab0c1",
+  "canonicalUrl": "https://www.sendstreak.com/",
+  "name": "SendStreak",
+  "description": "Email framework as a service, that adds templates, automations, history, etc to your own SMTP server (E.g. AWS, Maileroo, Gmail). Free up to 100 emails/day, no time limit.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.sendstreak.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.sendstreak.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z",
+  "lastVerified": "2026-11-03T09:26:16.661Z",
+  "qualityScore": 52
+}

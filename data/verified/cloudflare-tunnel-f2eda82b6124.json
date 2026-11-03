@@ -1,0 +1,22 @@
+{
+  "id": "cloudflare-tunnel-f2eda82b6124",
+  "canonicalUrl": "https://www.cloudflare.com/products/tunnel",
+  "name": "Cloudflare Tunnel",
+  "description": "You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/), No account required. More features (TCP tunnel, Load balancing, VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.cloudflare.com/products/tunnel/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cloudflare.com/products/tunnel/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:11:31.367Z",
+  "qualityScore": 52
+}

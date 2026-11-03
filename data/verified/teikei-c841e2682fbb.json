@@ -1,0 +1,22 @@
+{
+  "id": "teikei-c841e2682fbb",
+  "canonicalUrl": "https://github.com/teikei/teikei",
+  "name": "teikei",
+  "description": "Web application that maps out community-supported agriculture based on crowdsourced data. ([Demo](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/teikei/teikei",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/teikei/teikei"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:28:49.685Z",
+  "qualityScore": 55
+}

@@ -1,0 +1,22 @@
+{
+  "id": "wiki-79fccb3330f7",
+  "canonicalUrl": "https://zoho.com/wiki",
+  "name": "Wiki",
+  "description": "Free for three users with 50 MB storage, unlimited pages, zip backups, RSS & Atom feed, access controls & customizable CSS.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoho.com/wiki",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoho.com/wiki"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:31:00.453Z",
+  "qualityScore": 52
+}

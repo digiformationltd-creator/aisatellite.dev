@@ -1,0 +1,22 @@
+{
+  "id": "permit-io-13a2a75b0bf4",
+  "canonicalUrl": "https://permit.io/",
+  "name": "Permit.io",
+  "description": "Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://permit.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://permit.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z",
+  "lastVerified": "2026-11-03T09:23:12.895Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "razzia-0556575a6f5d",
+  "canonicalUrl": "https://github.com/Ralex91/Razzia",
+  "name": "Razzia",
+  "description": "Quiz game platform, designed for smaller events (alternative to Kahoot!). `MIT` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/Ralex91/Razzia",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/Ralex91/Razzia"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:24:35.157Z",
+  "qualityScore": 55
+}

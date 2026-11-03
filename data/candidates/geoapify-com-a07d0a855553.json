@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.geoapify.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.797Z",
-  "updatedAt": "2026-11-03T07:24:44.797Z"
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:15:56.000Z",
+  "qualityScore": 52
 }

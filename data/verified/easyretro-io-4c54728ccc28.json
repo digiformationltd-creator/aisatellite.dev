@@ -1,0 +1,22 @@
+{
+  "id": "easyretro-io-4c54728ccc28",
+  "canonicalUrl": "https://www.easyretro.io/",
+  "name": "easyretro.io",
+  "description": "Simple and intuitive sprint retrospective tool. The free plan has three public boards and one survey per board per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.easyretro.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.easyretro.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:13:44.338Z",
+  "qualityScore": 52
+}

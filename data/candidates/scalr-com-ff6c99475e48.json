@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://scalr.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.778Z",
-  "updatedAt": "2026-11-03T07:24:44.778Z"
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:25:52.896Z",
+  "qualityScore": 52
 }

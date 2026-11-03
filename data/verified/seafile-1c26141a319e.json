@@ -1,0 +1,22 @@
+{
+  "id": "seafile-1c26141a319e",
+  "canonicalUrl": "https://www.seafile.com/en/home",
+  "name": "Seafile",
+  "description": "File hosting and sharing solution primary for teams and organizations. ([Source Code](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.seafile.com/en/home/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.seafile.com/en/home/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:26:04.066Z",
+  "qualityScore": 52
+}

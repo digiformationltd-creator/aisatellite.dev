@@ -1,0 +1,22 @@
+{
+  "id": "dotenv-85c4fd253419",
+  "canonicalUrl": "https://dotenv.org/",
+  "name": "Dotenv",
+  "description": "Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again. Free for up to 3 teammates.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dotenv.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dotenv.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:13:30.986Z",
+  "qualityScore": 52
+}

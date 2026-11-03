@@ -1,0 +1,22 @@
+{
+  "id": "wackowiki-f2ca889f1bcb",
+  "canonicalUrl": "https://wackowiki.org/",
+  "name": "WackoWiki",
+  "description": "Light and easy to install multilingual Wiki-engine. ([Source Code](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://wackowiki.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wackowiki.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:30:28.077Z",
+  "qualityScore": 52
+}

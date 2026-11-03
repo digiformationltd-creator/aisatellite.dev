@@ -1,0 +1,24 @@
+{
+  "id": "tolgee-71dc811eb011",
+  "canonicalUrl": "https://tolgee.io/",
+  "name": "Tolgee",
+  "description": "Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop. ([Source Code](https://github.com/tolgee/tolgee-platform)) `Apache-2.0` `Docker/Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://tolgee.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tolgee.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:29:19.477Z",
+  "qualityScore": 52
+}

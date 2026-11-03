@@ -1,0 +1,22 @@
+{
+  "id": "cronmaster-4466e9dfb4e3",
+  "canonicalUrl": "https://github.com/fccview/cronmaster",
+  "name": "Cronmaster",
+  "description": "Cronjob management UI with human readable syntax, live logging and log history for your cronjobs. `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/fccview/cronmaster",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/fccview/cronmaster"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:12:17.691Z",
+  "qualityScore": 55
+}

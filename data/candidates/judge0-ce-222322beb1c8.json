@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://judge0.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.427Z",
-  "updatedAt": "2026-11-03T07:24:45.427Z"
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:18:28.169Z",
+  "qualityScore": 52
 }

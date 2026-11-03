@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://stateofpixel.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.786Z",
-  "updatedAt": "2026-11-03T07:24:44.786Z"
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:27:51.994Z",
+  "qualityScore": 52
 }

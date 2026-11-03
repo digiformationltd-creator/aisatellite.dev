@@ -1,0 +1,22 @@
+{
+  "id": "goreportcard-com-2dad05821b18",
+  "canonicalUrl": "https://goreportcard.com/",
+  "name": "goreportcard.com",
+  "description": "Code Quality for Go projects, free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://goreportcard.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://goreportcard.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:16:28.993Z",
+  "qualityScore": 52
+}

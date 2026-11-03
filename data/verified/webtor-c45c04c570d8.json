@@ -1,0 +1,22 @@
+{
+  "id": "webtor-c45c04c570d8",
+  "canonicalUrl": "https://github.com/webtor-io/self-hosted",
+  "name": "Webtor",
+  "description": "Web-based torrent client with instant audio/video streaming. ([Demo](https://webtor.io)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/webtor-io/self-hosted",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/webtor-io/self-hosted"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:30:52.309Z",
+  "qualityScore": 55
+}

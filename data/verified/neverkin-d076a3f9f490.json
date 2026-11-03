@@ -1,0 +1,22 @@
+{
+  "id": "neverkin-d076a3f9f490",
+  "canonicalUrl": "https://neverkin.com/",
+  "name": "Neverkin",
+  "description": "Collaborative writing, worldbuilding and D&D-session-planning app. Tools for organizing your notes and stories. ([Demo](https://app.neverkin.com/guest-login), [Source Code](https://github.com/Tenebrie/neverkin/)) `GPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://neverkin.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://neverkin.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:21:28.967Z",
+  "qualityScore": 52
+}

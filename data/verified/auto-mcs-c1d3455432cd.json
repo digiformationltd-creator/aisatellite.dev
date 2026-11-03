@@ -1,0 +1,22 @@
+{
+  "id": "auto-mcs-c1d3455432cd",
+  "canonicalUrl": "https://www.auto-mcs.com/",
+  "name": "auto-mcs",
+  "description": "Cross-platform Minecraft server manager. ([Source Code](https://github.com/macarooni-man/auto-mcs)) `AGPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.auto-mcs.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.auto-mcs.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:09:51.710Z",
+  "qualityScore": 52
+}

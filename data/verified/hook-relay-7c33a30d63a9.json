@@ -1,0 +1,22 @@
+{
+  "id": "hook-relay-7c33a30d63a9",
+  "canonicalUrl": "https://www.hookrelay.dev/",
+  "name": "Hook Relay",
+  "description": "Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.hookrelay.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.hookrelay.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:17:06.187Z",
+  "qualityScore": 52
+}

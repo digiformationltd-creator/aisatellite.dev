@@ -1,0 +1,22 @@
+{
+  "id": "koillection-702a8e4196e2",
+  "canonicalUrl": "https://koillection.github.io/",
+  "name": "Koillection",
+  "description": "Service allowing users to manage any kind of collections. ([Source Code](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://koillection.github.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://koillection.github.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:18:49.244Z",
+  "qualityScore": 52
+}

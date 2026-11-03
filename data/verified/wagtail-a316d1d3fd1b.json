@@ -1,0 +1,22 @@
+{
+  "id": "wagtail-a316d1d3fd1b",
+  "canonicalUrl": "https://wagtail.io/",
+  "name": "Wagtail",
+  "description": "Django content management system focused on flexibility and user experience. ([Source Code](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://wagtail.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wagtail.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:30:28.724Z",
+  "qualityScore": 52
+}

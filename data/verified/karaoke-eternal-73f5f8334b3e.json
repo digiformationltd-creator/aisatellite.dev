@@ -1,0 +1,22 @@
+{
+  "id": "karaoke-eternal-73f5f8334b3e",
+  "canonicalUrl": "https://www.karaoke-eternal.com/",
+  "name": "Karaoke Eternal",
+  "description": "Host awesome karaoke parties where everyone can easily find and queue songs from their phone's browser. The player is also fully browser-based with support for MP3+G, MP4 and WebGL visualizations. ([Source Code](https://github.com/bhj/KaraokeEternal)) `ISC` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.karaoke-eternal.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.karaoke-eternal.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:18:36.733Z",
+  "qualityScore": 52
+}

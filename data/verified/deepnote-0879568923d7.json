@@ -1,0 +1,22 @@
+{
+  "id": "deepnote-0879568923d7",
+  "canonicalUrl": "https://deepnote.com/",
+  "name": "Deepnote",
+  "description": "A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, unlimited basic machines with 5GB RAM and 2vCPU, and teams with up to 3 editors.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://deepnote.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://deepnote.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:12:42.877Z",
+  "qualityScore": 52
+}

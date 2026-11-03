@@ -1,0 +1,22 @@
+{
+  "id": "digibuzzer-ef9c9e87990f",
+  "canonicalUrl": "https://digibuzzer.app/",
+  "name": "Digibuzzer",
+  "description": "Create a virtual game room around a connected buzzer (documentation in French). ([Demo](https://digibuzzer.app/), [Source Code](https://codeberg.org/ladigitale/digibuzzer)) `AGPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://digibuzzer.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://digibuzzer.app/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:13:03.331Z",
+  "qualityScore": 52
+}

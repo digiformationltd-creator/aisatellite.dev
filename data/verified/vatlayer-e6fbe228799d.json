@@ -1,0 +1,22 @@
+{
+  "id": "vatlayer-e6fbe228799d",
+  "canonicalUrl": "https://vatlayer.com/",
+  "name": "vatlayer",
+  "description": "Instant VAT number validation and EU VAT rates API, free 100 API requests/month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://vatlayer.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://vatlayer.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:30:10.458Z",
+  "qualityScore": 52
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://newreleases.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.800Z",
-  "updatedAt": "2026-11-03T07:24:44.800Z"
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:21:29.320Z",
+  "qualityScore": 52
 }

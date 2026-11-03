@@ -1,0 +1,22 @@
+{
+  "id": "pushbits-8b63f92adadf",
+  "canonicalUrl": "https://github.com/pushbits/server",
+  "name": "PushBits",
+  "description": "Notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify. `ISC` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/pushbits/server",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/pushbits/server"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:24:17.561Z",
+  "qualityScore": 55
+}

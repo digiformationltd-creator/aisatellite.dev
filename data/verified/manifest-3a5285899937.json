@@ -1,0 +1,22 @@
+{
+  "id": "manifest-3a5285899937",
+  "canonicalUrl": "https://manifest.build/",
+  "name": "Manifest",
+  "description": "Complete backend that fits into 1 YAML file. ([Demo](https://manifest.new), [Source Code](https://github.com/mnfst/llm-gateway)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://manifest.build",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://manifest.build"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:20:08.880Z",
+  "qualityScore": 52
+}

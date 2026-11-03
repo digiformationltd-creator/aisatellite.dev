@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://currencyapi.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.799Z",
-  "updatedAt": "2026-11-03T07:24:44.799Z"
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:12:20.959Z",
+  "qualityScore": 52
 }

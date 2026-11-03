@@ -1,0 +1,22 @@
+{
+  "id": "formspree-io-2fabb30e30ba",
+  "canonicalUrl": "https://formspree.io/",
+  "name": "Formspree.io",
+  "description": "Send email using an HTTP POST request. The free tier limits to 50 submissions per form per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://formspree.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://formspree.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:15:19.113Z",
+  "qualityScore": 52
+}

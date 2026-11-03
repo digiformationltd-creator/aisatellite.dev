@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://proxmint.com/tools/ip-lookup"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.780Z",
-  "updatedAt": "2026-11-03T07:24:44.780Z"
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:24:11.737Z",
+  "qualityScore": 52
 }

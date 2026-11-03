@@ -1,0 +1,22 @@
+{
+  "id": "druid-f541b3041cff",
+  "canonicalUrl": "https://druid.apache.org/",
+  "name": "Druid",
+  "description": "Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/apache/druid)) `Apache-2.0` `Java/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://druid.apache.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://druid.apache.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:13:36.194Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "qrtracer-0638d0e54588",
+  "canonicalUrl": "https://qrtracer.io/",
+  "name": "QRtracer",
+  "description": "Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://qrtracer.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://qrtracer.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:24:23.768Z",
+  "qualityScore": 52
+}

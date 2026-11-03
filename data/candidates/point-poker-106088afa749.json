@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.point.poker/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.796Z",
-  "updatedAt": "2026-11-03T07:24:44.796Z"
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:23:42.800Z",
+  "qualityScore": 52
 }

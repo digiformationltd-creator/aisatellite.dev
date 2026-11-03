@@ -33,7 +33,9 @@
   "evidenceUrls": [
     "https://github.com/ashwinsreedhar28/serverless-lakehouse"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:46.664Z",
-  "updatedAt": "2026-11-03T07:24:46.664Z"
+  "updatedAt": "2026-11-03T07:24:46.664Z",
+  "lastVerified": "2026-11-03T09:26:21.028Z",
+  "qualityScore": 89
 }

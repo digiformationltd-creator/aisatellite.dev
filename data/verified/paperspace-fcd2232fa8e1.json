@@ -1,0 +1,22 @@
+{
+  "id": "paperspace-fcd2232fa8e1",
+  "canonicalUrl": "https://www.paperspace.com/",
+  "name": "paperspace",
+  "description": "Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.paperspace.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.paperspace.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:23:00.344Z",
+  "qualityScore": 52
+}

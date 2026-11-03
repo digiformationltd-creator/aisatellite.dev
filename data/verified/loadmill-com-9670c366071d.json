@@ -1,0 +1,22 @@
+{
+  "id": "loadmill-com-9670c366071d",
+  "canonicalUrl": "https://www.loadmill.com/",
+  "name": "loadmill.com",
+  "description": "Automatically create API and load tests by analyzing network traffic. Simulate up to 50 concurrent users for up to 60 minutes for free monthly.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.loadmill.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.loadmill.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:19:28.458Z",
+  "qualityScore": 52
+}

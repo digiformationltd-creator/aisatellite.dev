@@ -1,0 +1,22 @@
+{
+  "id": "sourcebans-ea038ce3a709",
+  "canonicalUrl": "https://sbpp.github.io/",
+  "name": "SourceBans++",
+  "description": "Admin, ban, and communication management system for games running on the Source engine. ([Source Code](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://sbpp.github.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sbpp.github.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:27:32.797Z",
+  "qualityScore": 52
+}

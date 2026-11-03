@@ -1,0 +1,22 @@
+{
+  "id": "pingpong-one-73d3ccc64de3",
+  "canonicalUrl": "https://pingpong.one/",
+  "name": "pingpong.one",
+  "description": "Advanced status page platform with monitoring. The free tier includes one public customizable status page with an SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pingpong.one/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pingpong.one/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:23:26.033Z",
+  "qualityScore": 52
+}

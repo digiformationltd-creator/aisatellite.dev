@@ -1,0 +1,22 @@
+{
+  "id": "ironfang-render-fec80a3d1af2",
+  "canonicalUrl": "https://ironfang.com/render",
+  "name": "Ironfang Render",
+  "description": "UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ironfang.com/render",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ironfang.com/render"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:18:06.584Z",
+  "qualityScore": 52
+}

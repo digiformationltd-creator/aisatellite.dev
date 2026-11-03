@@ -1,0 +1,22 @@
+{
+  "id": "projectlocker-com-3d471e561a02",
+  "canonicalUrl": "https://projectlocker.com/",
+  "name": "projectlocker.com",
+  "description": "One free private project (Git and Subversion) with 50 MB of space",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://projectlocker.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://projectlocker.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:24:02.974Z",
+  "qualityScore": 52
+}

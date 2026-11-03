@@ -1,0 +1,22 @@
+{
+  "id": "remarkbox-b3117faf9f95",
+  "canonicalUrl": "https://www.remarkbox.com/",
+  "name": "Remarkbox",
+  "description": "Open source hosted comments platform, pay what you can for \"One moderator on a few domains with complete control over behavior & appearance\"",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.remarkbox.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.remarkbox.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:24:55.473Z",
+  "qualityScore": 52
+}

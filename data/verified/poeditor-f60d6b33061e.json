@@ -1,0 +1,22 @@
+{
+  "id": "poeditor-f60d6b33061e",
+  "canonicalUrl": "https://poeditor.com/",
+  "name": "POEditor",
+  "description": "Free up to 1000 strings",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://poeditor.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://poeditor.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:23:42.122Z",
+  "qualityScore": 47
+}

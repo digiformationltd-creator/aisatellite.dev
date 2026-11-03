@@ -1,0 +1,22 @@
+{
+  "id": "requestbin-com-45737b893230",
+  "canonicalUrl": "https://requestbin.com/",
+  "name": "RequestBin.com",
+  "description": "Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://requestbin.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://requestbin.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:25:01.801Z",
+  "qualityScore": 52
+}

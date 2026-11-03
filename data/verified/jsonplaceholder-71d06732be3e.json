@@ -1,0 +1,22 @@
+{
+  "id": "jsonplaceholder-71d06732be3e",
+  "canonicalUrl": "https://jsonplaceholder.typicode.com/",
+  "name": "JSONPlaceholder",
+  "description": "Some REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://jsonplaceholder.typicode.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://jsonplaceholder.typicode.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:18:27.968Z",
+  "qualityScore": 52
+}

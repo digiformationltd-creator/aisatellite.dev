@@ -1,0 +1,22 @@
+{
+  "id": "the-vibe-hosting-fe613c4bd2d9",
+  "canonicalUrl": "https://thevibehosting.com/",
+  "name": "The Vibe Hosting",
+  "description": "Frictionless vibe hosting for coding agents. One curl gets your agent a root Linux box on an HTTPS subdomain within seconds. Free tier: 2-core, 512 MB server 24/7 with a verified phone, no credit card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://thevibehosting.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://thevibehosting.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:28:59.880Z",
+  "qualityScore": 52
+}

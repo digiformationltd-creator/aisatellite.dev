@@ -1,0 +1,22 @@
+{
+  "id": "deepscan-io-7fb0946b3a6f",
+  "canonicalUrl": "https://deepscan.io/",
+  "name": "deepscan.io",
+  "description": "Advanced static analysis for automatically finding runtime errors in JavaScript code, free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://deepscan.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://deepscan.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:12:43.095Z",
+  "qualityScore": 52
+}

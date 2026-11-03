@@ -1,0 +1,22 @@
+{
+  "id": "loco-dc0d093fc7c0",
+  "canonicalUrl": "https://localise.biz/",
+  "name": "Loco",
+  "description": "Free up to 2000 translations, Unlimited translators, ten languages/project, 1000 translatable assets/project",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://localise.biz/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://localise.biz/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:19:38.473Z",
+  "qualityScore": 52
+}

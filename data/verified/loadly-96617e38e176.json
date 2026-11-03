@@ -1,0 +1,22 @@
+{
+  "id": "loadly-96617e38e176",
+  "canonicalUrl": "https://loadly.io/",
+  "name": "Loadly",
+  "description": "iOS & Android beta apps distribution service offers completely free services with unlimited downloads, high-speed downloads, and unlimited uploads.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://loadly.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://loadly.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z",
+  "lastVerified": "2026-11-03T09:19:27.760Z",
+  "qualityScore": 52
+}

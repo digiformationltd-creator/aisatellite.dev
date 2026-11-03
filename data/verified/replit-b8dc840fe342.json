@@ -1,0 +1,22 @@
+{
+  "id": "replit-b8dc840fe342",
+  "canonicalUrl": "https://replit.com/",
+  "name": "Replit",
+  "description": "A cloud coding environment for various program languages.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://replit.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://replit.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:24:57.698Z",
+  "qualityScore": 52
+}

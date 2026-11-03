@@ -1,0 +1,22 @@
+{
+  "id": "pinata-ipfs-323e58400693",
+  "canonicalUrl": "https://pinata.cloud/",
+  "name": "Pinata IPFS",
+  "description": "Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface and IPFS API make Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free, along with access to API.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pinata.cloud",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pinata.cloud"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:23:24.107Z",
+  "qualityScore": 52
+}

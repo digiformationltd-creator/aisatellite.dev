@@ -1,0 +1,22 @@
+{
+  "id": "counter-dev-fd1bcc0c311d",
+  "canonicalUrl": "https://counter.dev/",
+  "name": "counter.dev",
+  "description": "Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://counter.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://counter.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:12:11.554Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "qdrant-ef37780f6055",
+  "canonicalUrl": "https://qdrant.tech/",
+  "name": "Qdrant",
+  "description": "Vector Database for embedding data, single node cluster with 0.5 vCPU, 1GB RAM, and 4GB disk.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://qdrant.tech/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://qdrant.tech/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:24:21.566Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "freeipapi-b7ce2c9ab7c7",
+  "canonicalUrl": "https://freeipapi.com/",
+  "name": "FreeIPAPI",
+  "description": "Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://freeipapi.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://freeipapi.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:15:33.100Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "timecamp-543cd0dd83b8",
+  "canonicalUrl": "https://www.timecamp.com/",
+  "name": "TimeCamp",
+  "description": "Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.timecamp.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.timecamp.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:29:10.190Z",
+  "qualityScore": 52
+}

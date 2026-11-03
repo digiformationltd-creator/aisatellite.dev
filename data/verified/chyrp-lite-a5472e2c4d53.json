@@ -1,0 +1,22 @@
+{
+  "id": "chyrp-lite-a5472e2c4d53",
+  "canonicalUrl": "https://chyrplite.net/",
+  "name": "Chyrp Lite",
+  "description": "Extra-awesome, extra-lightweight blog engine. ([Source Code](https://github.com/xenocrat/chyrp-lite)) `BSD-3-Clause` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://chyrplite.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://chyrplite.net"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:11:19.732Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "koyeb-75f95283d130",
+  "canonicalUrl": "https://www.koyeb.com/",
+  "name": "Koyeb",
+  "description": "Serverless platform with a free Hobby plan providing 550 free compute hours/month (512 MB RAM Free tier), 1 free PostgreSQL database, and custom domain SSL.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.koyeb.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.koyeb.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:18:50.640Z",
+  "qualityScore": 52
+}

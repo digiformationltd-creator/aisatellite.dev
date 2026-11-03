@@ -1,0 +1,22 @@
+{
+  "id": "codefactor-23388dd36227",
+  "canonicalUrl": "https://www.codefactor.io/",
+  "name": "CodeFactor",
+  "description": "Automated Code Review for Git. The free version includes unlimited users, public repositories, and one private repo.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.codefactor.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.codefactor.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:11:42.648Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "digiscreen-6cd594c6503f",
+  "canonicalUrl": "https://ladigitale.dev/digiscreen",
+  "name": "Digiscreen",
+  "description": "Interactive whiteboard/wallpaper for the classroom, in person or remotely (documentation in French). ([Demo](https://ladigitale.dev/digiscreen/), [Source Code](https://codeberg.org/ladigitale/digiscreen)) `AGPL-3.0` `Nodejs/PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ladigitale.dev/digiscreen/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ladigitale.dev/digiscreen/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:13:07.012Z",
+  "qualityScore": 52
+}

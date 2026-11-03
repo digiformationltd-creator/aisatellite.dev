@@ -1,0 +1,22 @@
+{
+  "id": "cognitive-services-6a93d97488b2",
+  "canonicalUrl": "https://azure.microsoft.com/services/cognitive-services",
+  "name": "Cognitive Services",
+  "description": "AI/ML APIs (Computer Vision, Translator, Face detection, Bots, etc) with free tier including limited transactions",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/services/cognitive-services/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/services/cognitive-services/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:11:46.512Z",
+  "qualityScore": 52
+}

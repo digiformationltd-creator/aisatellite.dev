@@ -1,0 +1,22 @@
+{
+  "id": "buku-c2d69133dc5b",
+  "canonicalUrl": "https://github.com/jarun/Buku",
+  "name": "Buku",
+  "description": "Powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/jarun/Buku",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/jarun/Buku"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:10:44.576Z",
+  "qualityScore": 55
+}

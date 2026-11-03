@@ -1,0 +1,22 @@
+{
+  "id": "miniserve-713f1030fe3b",
+  "canonicalUrl": "https://github.com/svenstaro/miniserve",
+  "name": "miniserve",
+  "description": "CLI tool to serve files and dirs over HTTP. `MIT` `Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/svenstaro/miniserve",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/svenstaro/miniserve"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:20:47.959Z",
+  "qualityScore": 55
+}

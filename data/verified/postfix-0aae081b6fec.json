@@ -1,0 +1,22 @@
+{
+  "id": "postfix-0aae081b6fec",
+  "canonicalUrl": "http://www.postfix.org/",
+  "name": "Postfix",
+  "description": "Fast, easy to administer, and secure Sendmail replacement. `IPL-1.0` `C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "http://www.postfix.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "http://www.postfix.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:23:48.795Z",
+  "qualityScore": 52
+}

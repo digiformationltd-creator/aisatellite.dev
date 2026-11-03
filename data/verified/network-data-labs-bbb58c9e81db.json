@@ -1,0 +1,22 @@
+{
+  "id": "network-data-labs-bbb58c9e81db",
+  "canonicalUrl": "https://www.networkdatalabs.com/",
+  "name": "Network Data Labs",
+  "description": "An IP geolocation API with accuracy radius and confidence level, ASN, and Tor, known VPN, privacy relay and hosting signals. The free plan includes 1,000 requests per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.networkdatalabs.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.networkdatalabs.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:21:28.327Z",
+  "qualityScore": 52
+}

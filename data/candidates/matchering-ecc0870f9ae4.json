@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/sergree/matchering"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.418Z",
-  "updatedAt": "2026-11-03T07:24:45.418Z"
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:20:16.742Z",
+  "qualityScore": 55
 }

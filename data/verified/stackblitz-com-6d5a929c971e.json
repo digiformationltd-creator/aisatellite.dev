@@ -1,0 +1,22 @@
+{
+  "id": "stackblitz-com-6d5a929c971e",
+  "canonicalUrl": "https://stackblitz.com/",
+  "name": "stackblitz.com",
+  "description": "Online/Cloud Code IDE to create, edit, & deploy full-stack apps. Support any popular NodeJs-based frontend & backend frameworks. Shortlink to create a new project: [https://node.new](https://node.new).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://stackblitz.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://stackblitz.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:27:46.389Z",
+  "qualityScore": 52
+}

@@ -16,8 +16,10 @@
     "https://langfuse.com/",
     "https://langfuse.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.427Z",
   "updatedAt": "2026-11-03T07:24:47.252Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:18:56.779Z",
+  "qualityScore": 57
 }

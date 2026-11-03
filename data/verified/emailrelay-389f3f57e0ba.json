@@ -1,0 +1,22 @@
+{
+  "id": "emailrelay-389f3f57e0ba",
+  "canonicalUrl": "https://emailrelay.sourceforge.net/",
+  "name": "EmailRelay",
+  "description": "Small and easy to configure SMTP and POP3 server for Windows and Linux. ([Source Code](https://sourceforge.net/p/emailrelay/code/HEAD/tree/)) `GPL-3.0` `C++`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://emailrelay.sourceforge.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://emailrelay.sourceforge.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:13:58.892Z",
+  "qualityScore": 52
+}

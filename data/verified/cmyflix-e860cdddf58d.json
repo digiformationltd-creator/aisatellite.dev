@@ -1,0 +1,22 @@
+{
+  "id": "cmyflix-e860cdddf58d",
+  "canonicalUrl": "https://github.com/farfalleflickan/cmyflix",
+  "name": "cmyflix",
+  "description": "Minimalist Plex/Jellyfin alternative to stream video. `AGPL-3.0` `C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/farfalleflickan/cmyflix",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/farfalleflickan/cmyflix"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:11:36.478Z",
+  "qualityScore": 55
+}

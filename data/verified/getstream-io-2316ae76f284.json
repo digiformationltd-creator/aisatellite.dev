@@ -1,0 +1,22 @@
+{
+  "id": "getstream-io-2316ae76f284",
+  "canonicalUrl": "https://getstream.io/",
+  "name": "getstream.io",
+  "description": "Build scalable In-App Chat, Messaging, Video and audio, and Feeds in a few hours instead of weeks",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://getstream.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://getstream.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:16:02.164Z",
+  "qualityScore": 52
+}

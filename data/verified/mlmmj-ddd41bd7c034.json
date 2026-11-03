@@ -1,0 +1,22 @@
+{
+  "id": "mlmmj-ddd41bd7c034",
+  "canonicalUrl": "https://mlmmj.org/",
+  "name": "mlmmj",
+  "description": "Mailing list management made joyful. ([Source Code](https://codeberg.org/mlmmj/mlmmj)) `MIT` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mlmmj.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mlmmj.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:20:59.646Z",
+  "qualityScore": 52
+}

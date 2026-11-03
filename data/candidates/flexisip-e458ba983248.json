@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.linphone.org/en/flexisip-sip-server/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.419Z",
-  "updatedAt": "2026-11-03T07:24:45.419Z"
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:14:55.991Z",
+  "qualityScore": 52
 }

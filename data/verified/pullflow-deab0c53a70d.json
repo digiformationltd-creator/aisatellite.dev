@@ -1,0 +1,22 @@
+{
+  "id": "pullflow-deab0c53a70d",
+  "canonicalUrl": "https://pullflow.com/",
+  "name": "Pullflow",
+  "description": "Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pullflow.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pullflow.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:24:15.735Z",
+  "qualityScore": 52
+}

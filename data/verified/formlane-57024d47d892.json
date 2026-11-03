@@ -1,0 +1,22 @@
+{
+  "id": "formlane-57024d47d892",
+  "canonicalUrl": "https://smallwerk.com/formlane",
+  "name": "Formlane",
+  "description": "Formlane is a form backend for static websites, site builders or AI-built apps. One endpoint gets email notifications with reply-to, spam-filtering without captcha and a CSV export. All submissions are stored in Frankfurt. Free Plan: 250 submissions/mo, no trial.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://smallwerk.com/formlane",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://smallwerk.com/formlane"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:15:17.365Z",
+  "qualityScore": 52
+}

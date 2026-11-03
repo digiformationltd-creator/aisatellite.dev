@@ -1,0 +1,22 @@
+{
+  "id": "stringer-a73f29ab47ac",
+  "canonicalUrl": "https://github.com/stringer-rss/stringer",
+  "name": "Stringer",
+  "description": "Work-in-progress, anti-social RSS reader that. `MIT` `Ruby`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/stringer-rss/stringer",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/stringer-rss/stringer"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:28:00.920Z",
+  "qualityScore": 55
+}

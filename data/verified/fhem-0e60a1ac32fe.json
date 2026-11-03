@@ -1,0 +1,22 @@
+{
+  "id": "fhem-0e60a1ac32fe",
+  "canonicalUrl": "https://fhem.de/fhem.html",
+  "name": "FHEM",
+  "description": "Automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly. ([Source Code](https://svn.fhem.de/trac)) `GPL-3.0` `Perl`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://fhem.de/fhem.html",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://fhem.de/fhem.html"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:14:39.527Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "openobserve-ai-4f6034e297bf",
+  "canonicalUrl": "https://openobserve.ai/",
+  "name": "openobserve.ai",
+  "description": "200 GB Ingestion/month free, 15 Days Retention",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://openobserve.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://openobserve.ai/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:22:25.544Z",
+  "qualityScore": 52
+}

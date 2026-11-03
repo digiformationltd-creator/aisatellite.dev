@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pixelfed.social"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.419Z",
-  "updatedAt": "2026-11-03T07:24:45.419Z"
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:23:30.099Z",
+  "qualityScore": 52
 }

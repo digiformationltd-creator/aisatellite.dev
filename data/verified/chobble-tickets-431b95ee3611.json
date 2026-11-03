@@ -1,0 +1,22 @@
+{
+  "id": "chobble-tickets-431b95ee3611",
+  "canonicalUrl": "https://tickets.chobble.com/",
+  "name": "Chobble Tickets",
+  "description": "Event ticketing with QR check-in and encrypted attendee records. The complete product is AGPL-3.0 with no open core and no branding requirement, and it runs as an edge script without an always-on server (alternative to Eventbrite). ([Demo](https://tickets.crumpsallfolkclub.co.uk), [Source Code](https://github.com/chobbledotcom/tickets)) `AGPL-3.0` `Deno/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://tickets.chobble.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tickets.chobble.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:11:17.208Z",
+  "qualityScore": 52
+}

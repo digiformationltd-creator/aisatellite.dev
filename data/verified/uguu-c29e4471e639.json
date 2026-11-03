@@ -1,0 +1,22 @@
+{
+  "id": "uguu-c29e4471e639",
+  "canonicalUrl": "https://github.com/nokonoko/uguu",
+  "name": "Uguu",
+  "description": "Stores files and deletes after X amount of time. `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/nokonoko/uguu",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/nokonoko/uguu"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:29:52.238Z",
+  "qualityScore": 55
+}

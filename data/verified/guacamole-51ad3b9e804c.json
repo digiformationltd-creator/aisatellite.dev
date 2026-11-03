@@ -1,0 +1,22 @@
+{
+  "id": "guacamole-51ad3b9e804c",
+  "canonicalUrl": "https://guacamole.apache.org/",
+  "name": "Guacamole",
+  "description": "Clientless remote desktop gateway supporting standard protocols like VNC and RDP. ([Source Code](https://github.com/apache/guacamole-server)) `Apache-2.0` `Java/C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://guacamole.apache.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://guacamole.apache.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:16:39.121Z",
+  "qualityScore": 52
+}

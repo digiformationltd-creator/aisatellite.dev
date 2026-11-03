@@ -1,0 +1,22 @@
+{
+  "id": "workers-kv-1c2dde5d33d8",
+  "canonicalUrl": "https://developers.cloudflare.com/kv",
+  "name": "Workers KV",
+  "description": "100k read requests per day, 1000 write requests per day, 1000 delete requests per day, 1000 list requests per day, 1 GB stored data",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developers.cloudflare.com/kv",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developers.cloudflare.com/kv"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:31:10.233Z",
+  "qualityScore": 52
+}

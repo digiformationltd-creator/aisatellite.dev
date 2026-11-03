@@ -1,0 +1,22 @@
+{
+  "id": "encore-dev-9d6ea4984b1a",
+  "canonicalUrl": "https://encore.dev/",
+  "name": "encore.dev",
+  "description": "Backend framework using static analysis to provide automatic infrastructure, boilerplate-free code, and more. Includes free cloud hosting for hobby projects.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://encore.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://encore.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:14:02.000Z",
+  "qualityScore": 52
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://flows.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.797Z",
-  "updatedAt": "2026-11-03T07:24:44.797Z"
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:14:59.460Z",
+  "qualityScore": 52
 }

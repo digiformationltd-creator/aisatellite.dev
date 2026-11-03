@@ -1,0 +1,22 @@
+{
+  "id": "our-shopping-list-9c75aa72fe19",
+  "canonicalUrl": "https://codeberg.org/nanawel/our-shopping-list",
+  "name": "Our Shopping List",
+  "description": "Simple shared list application including shopping lists and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://codeberg.org/nanawel/our-shopping-list",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codeberg.org/nanawel/our-shopping-list"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:22:47.663Z",
+  "qualityScore": 52
+}

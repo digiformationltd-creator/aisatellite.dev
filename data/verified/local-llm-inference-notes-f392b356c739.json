@@ -1,0 +1,37 @@
+{
+  "id": "local-llm-inference-notes-f392b356c739",
+  "canonicalUrl": "https://github.com/Danielkgr/local-llm-inference-notes",
+  "name": "local-llm-inference-notes",
+  "description": "Measurement notes and tools from a local LLM and diffusion stack on consumer AMD hardware. Pre-registered noise bands, deterministic evaluation, and null results reported as plainly as positive ones.",
+  "category": "local-llm",
+  "tags": [
+    "amd-gpu",
+    "benchmarking",
+    "comfyui",
+    "gfx1100",
+    "llama-cpp",
+    "llm",
+    "llm-evaluation",
+    "llm-inference",
+    "local-llm",
+    "measurement",
+    "rocm",
+    "vulkan"
+  ],
+  "repositoryUrl": "https://github.com/Danielkgr/local-llm-inference-notes",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/Danielkgr/local-llm-inference-notes/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T07:24:24Z",
+  "evidenceUrls": [
+    "https://github.com/Danielkgr/local-llm-inference-notes"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:46.664Z",
+  "updatedAt": "2026-11-03T07:24:46.664Z",
+  "lastVerified": "2026-11-03T09:19:30.524Z",
+  "qualityScore": 78
+}

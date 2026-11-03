@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://accessory.github.io/minus_games_user_guide"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.421Z",
-  "updatedAt": "2026-11-03T07:24:45.421Z"
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:20:51.095Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,22 @@
+{
+  "id": "revive-adserver-fecd2312989b",
+  "canonicalUrl": "https://www.revive-adserver.com/",
+  "name": "Revive Adserver",
+  "description": "Ad serving system. Formerly known as OpenX Adserver and phpAdsNew. ([Source Code](https://github.com/revive-adserver/revive-adserver)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.revive-adserver.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.revive-adserver.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:25:08.324Z",
+  "qualityScore": 52
+}

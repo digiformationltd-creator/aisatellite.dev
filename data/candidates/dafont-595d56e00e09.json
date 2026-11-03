@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.dafont.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.793Z",
-  "updatedAt": "2026-11-03T07:24:44.793Z"
+  "updatedAt": "2026-11-03T07:24:44.793Z",
+  "lastVerified": "2026-11-03T09:12:27.029Z",
+  "qualityScore": 52
 }

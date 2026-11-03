@@ -1,0 +1,22 @@
+{
+  "id": "zentao-8fc1c3732773",
+  "canonicalUrl": "https://www.zentao.pm/",
+  "name": "ZenTao",
+  "description": "Agile(scrum) project management system/tool. ([Source Code](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.zentao.pm/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.zentao.pm/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:31:38.433Z",
+  "qualityScore": 52
+}

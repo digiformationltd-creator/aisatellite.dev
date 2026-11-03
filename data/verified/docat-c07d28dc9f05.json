@@ -1,0 +1,22 @@
+{
+  "id": "docat-c07d28dc9f05",
+  "canonicalUrl": "https://github.com/docat-org/docat",
+  "name": "DOCAT",
+  "description": "Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/docat-org/docat",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/docat-org/docat"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:13:20.620Z",
+  "qualityScore": 55
+}

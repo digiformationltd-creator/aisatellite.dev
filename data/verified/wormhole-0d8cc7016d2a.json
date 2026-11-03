@@ -1,0 +1,22 @@
+{
+  "id": "wormhole-0d8cc7016d2a",
+  "canonicalUrl": "https://wormhole.app/",
+  "name": "Wormhole",
+  "description": "Share files up to 5GB with end-to-end encryption for up to 24hours. For files larger than 5 GB, it uses peer-to-peer transfer to send your files directly.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://wormhole.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://wormhole.app/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:31:11.140Z",
+  "qualityScore": 52
+}

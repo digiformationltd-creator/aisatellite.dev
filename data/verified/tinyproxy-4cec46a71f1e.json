@@ -1,0 +1,22 @@
+{
+  "id": "tinyproxy-4cec46a71f1e",
+  "canonicalUrl": "https://tinyproxy.github.io/",
+  "name": "Tinyproxy",
+  "description": "Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://tinyproxy.github.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tinyproxy.github.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:29:16.091Z",
+  "qualityScore": 52
+}

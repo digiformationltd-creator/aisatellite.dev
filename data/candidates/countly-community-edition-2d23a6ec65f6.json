@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://count.ly"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.418Z",
-  "updatedAt": "2026-11-03T07:24:45.418Z"
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:12:12.441Z",
+  "qualityScore": 52
 }

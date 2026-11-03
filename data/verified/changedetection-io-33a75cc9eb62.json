@@ -1,0 +1,22 @@
+{
+  "id": "changedetection-io-33a75cc9eb62",
+  "canonicalUrl": "https://changedetection.io/",
+  "name": "changedetection.io",
+  "description": "Stay up-to-date with web-site content changes. ([Source Code](https://github.com/dgtlmoon/changedetection.io)) `Apache-2.0` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://changedetection.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://changedetection.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:11:10.266Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hubleys-fcdbeaac6144",
+  "canonicalUrl": "https://github.com/knrdl/hubleys-dashboard",
+  "name": "Hubleys",
+  "description": "Personal dashboards to organize links for multiple users via a central yaml config. `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/knrdl/hubleys-dashboard",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/knrdl/hubleys-dashboard"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:17:14.871Z",
+  "qualityScore": 55
+}

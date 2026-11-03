@@ -1,0 +1,22 @@
+{
+  "id": "cronicle-5fbac6ea3f27",
+  "canonicalUrl": "https://cronicle.net/",
+  "name": "Cronicle",
+  "description": "Simple, distributed task scheduler and runner with a web based UI. ([Source Code](https://github.com/jhuckaby/Cronicle)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://cronicle.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cronicle.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:12:16.933Z",
+  "qualityScore": 52
+}

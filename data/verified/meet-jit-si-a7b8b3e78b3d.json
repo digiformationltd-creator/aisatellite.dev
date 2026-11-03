@@ -1,0 +1,22 @@
+{
+  "id": "meet-jit-si-a7b8b3e78b3d",
+  "canonicalUrl": "https://meet.jit.si/",
+  "name": "meet.jit.si",
+  "description": "One-click video conversations, and screen sharing, for free",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://meet.jit.si/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://meet.jit.si/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:20:30.350Z",
+  "qualityScore": 52
+}

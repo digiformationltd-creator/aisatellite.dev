@@ -1,0 +1,22 @@
+{
+  "id": "bandwidth-cd36eeb9bba3",
+  "canonicalUrl": "https://azure.microsoft.com/pricing/details/bandwidth",
+  "name": "Bandwidth",
+  "description": "15GB Outbound(12mo)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/pricing/details/bandwidth/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/pricing/details/bandwidth/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:10:07.702Z",
+  "qualityScore": 47
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/ignisda/ryot"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.425Z",
-  "updatedAt": "2026-11-03T07:24:45.425Z"
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:25:33.554Z",
+  "qualityScore": 55
 }

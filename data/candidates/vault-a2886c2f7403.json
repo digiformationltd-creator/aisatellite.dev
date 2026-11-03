@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zoho.com/vault"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.778Z",
-  "updatedAt": "2026-11-03T07:24:44.778Z"
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:30:13.783Z",
+  "qualityScore": 52
 }

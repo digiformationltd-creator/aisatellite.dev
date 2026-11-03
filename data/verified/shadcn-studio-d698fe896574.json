@@ -1,0 +1,22 @@
+{
+  "id": "shadcn-studio-d698fe896574",
+  "canonicalUrl": "https://shadcnstudio.com/theme-editor",
+  "name": "Shadcn Studio",
+  "description": "Preview your theme changes across different components and layouts.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://shadcnstudio.com/theme-editor",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://shadcnstudio.com/theme-editor"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:26:29.911Z",
+  "qualityScore": 52
+}

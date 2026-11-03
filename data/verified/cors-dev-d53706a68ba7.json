@@ -1,0 +1,22 @@
+{
+  "id": "cors-dev-d53706a68ba7",
+  "canonicalUrl": "https://cors.dev/",
+  "name": "cors.dev",
+  "description": "CORS proxy for calling third-party APIs from frontend code: prefix any HTTPS URL with `https://proxy.cors.dev/`. Free without signup or an API key for GET and HEAD requests, 600 requests per minute per IP, responses up to 1 MiB, no monthly quota.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cors.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cors.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:12:08.491Z",
+  "qualityScore": 52
+}

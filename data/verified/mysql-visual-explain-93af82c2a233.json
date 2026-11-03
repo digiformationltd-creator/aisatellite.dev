@@ -1,0 +1,22 @@
+{
+  "id": "mysql-visual-explain-93af82c2a233",
+  "canonicalUrl": "https://mysqlexplain.com/",
+  "name": "MySQL Visual Explain",
+  "description": "Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mysqlexplain.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mysqlexplain.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:21:21.118Z",
+  "qualityScore": 52
+}

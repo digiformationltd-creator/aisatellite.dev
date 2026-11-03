@@ -1,0 +1,22 @@
+{
+  "id": "easy-appointments-3bae4d685fa4",
+  "canonicalUrl": "https://easyappointments.org/",
+  "name": "Easy!Appointments",
+  "description": "Allows your customers to book appointments with you via the web. ([Demo](https://demo.easyappointments.org/), [Source Code](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://easyappointments.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://easyappointments.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:13:43.895Z",
+  "qualityScore": 52
+}

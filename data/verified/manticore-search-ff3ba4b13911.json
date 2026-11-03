@@ -1,0 +1,22 @@
+{
+  "id": "manticore-search-ff3ba4b13911",
+  "canonicalUrl": "https://github.com/manticoresoftware/manticoresearch",
+  "name": "Manticore Search",
+  "description": "Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). `GPL-3.0` `Docker/deb/C++/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/manticoresoftware/manticoresearch/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/manticoresoftware/manticoresearch/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:20:09.449Z",
+  "qualityScore": 55
+}

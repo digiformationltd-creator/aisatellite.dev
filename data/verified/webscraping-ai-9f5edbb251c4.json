@@ -1,0 +1,22 @@
+{
+  "id": "webscraping-ai-9f5edbb251c4",
+  "canonicalUrl": "https://webscraping.ai/",
+  "name": "WebScraping.AI",
+  "description": "Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://webscraping.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://webscraping.ai"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:30:46.203Z",
+  "qualityScore": 52
+}

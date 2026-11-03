@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zuplo.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.782Z",
-  "updatedAt": "2026-11-03T07:24:44.782Z"
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:31:51.071Z",
+  "qualityScore": 52
 }

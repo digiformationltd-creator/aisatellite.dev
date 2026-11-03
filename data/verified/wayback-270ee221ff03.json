@@ -1,0 +1,22 @@
+{
+  "id": "wayback-270ee221ff03",
+  "canonicalUrl": "https://github.com/wabarc/wayback",
+  "name": "Wayback",
+  "description": "Toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/wabarc/wayback",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/wabarc/wayback"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:30:40.356Z",
+  "qualityScore": 55
+}

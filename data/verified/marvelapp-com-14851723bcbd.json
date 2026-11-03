@@ -1,0 +1,22 @@
+{
+  "id": "marvelapp-com-14851723bcbd",
+  "canonicalUrl": "https://marvelapp.com/",
+  "name": "marvelapp.com",
+  "description": "Design, prototyping, and collaboration, free plan limited to one user and project.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://marvelapp.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://marvelapp.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:20:14.433Z",
+  "qualityScore": 52
+}

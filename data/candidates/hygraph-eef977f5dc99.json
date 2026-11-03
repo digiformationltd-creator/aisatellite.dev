@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://hygraph.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.784Z",
-  "updatedAt": "2026-11-03T07:24:44.784Z"
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:17:19.216Z",
+  "qualityScore": 52
 }

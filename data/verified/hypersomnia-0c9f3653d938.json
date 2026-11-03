@@ -1,0 +1,22 @@
+{
+  "id": "hypersomnia-0c9f3653d938",
+  "canonicalUrl": "https://github.com/TeamHypersomnia/Hypersomnia",
+  "name": "Hypersomnia",
+  "description": "Competitive top-down shooter blending Counter-Strike with Hotline Miami. Runs on Linux, Windows, MacOS and the Web. ([Demo](https://hypersomnia.io)) `AGPL-3.0` `C++/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/TeamHypersomnia/Hypersomnia",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/TeamHypersomnia/Hypersomnia"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:17:20.307Z",
+  "qualityScore": 55
+}

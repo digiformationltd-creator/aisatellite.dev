@@ -23,7 +23,9 @@
   "evidenceUrls": [
     "https://github.com/anku0669/qoralis-engine"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:46.664Z",
-  "updatedAt": "2026-11-03T07:24:46.664Z"
+  "updatedAt": "2026-11-03T07:24:46.664Z",
+  "lastVerified": "2026-11-03T09:24:23.175Z",
+  "qualityScore": 89
 }

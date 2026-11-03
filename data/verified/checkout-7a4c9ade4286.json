@@ -1,0 +1,22 @@
+{
+  "id": "checkout-7a4c9ade4286",
+  "canonicalUrl": "https://zoho.com/checkout",
+  "name": "Checkout",
+  "description": "Product Billing management with 3 pages & up to 50 payments.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoho.com/checkout",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoho.com/checkout"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:11:14.228Z",
+  "qualityScore": 52
+}

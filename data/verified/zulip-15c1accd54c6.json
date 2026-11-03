@@ -1,0 +1,22 @@
+{
+  "id": "zulip-15c1accd54c6",
+  "canonicalUrl": "https://zulip.org/",
+  "name": "Zulip",
+  "description": "Powerful group chat application. ([Source Code](https://github.com/zulip/zulip)) `Apache-2.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://zulip.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zulip.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:31:50.639Z",
+  "qualityScore": 52
+}

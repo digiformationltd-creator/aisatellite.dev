@@ -1,0 +1,22 @@
+{
+  "id": "pdf-api-io-fa4bea680e59",
+  "canonicalUrl": "https://pdf-api.io/",
+  "name": "PDF-API.io",
+  "description": "PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pdf-api.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pdf-api.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:23:08.028Z",
+  "qualityScore": 52
+}

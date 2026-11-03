@@ -1,0 +1,22 @@
+{
+  "id": "meelo-11662abf18b0",
+  "canonicalUrl": "https://github.com/Arthi-chaud/Meelo",
+  "name": "Meelo",
+  "description": "Personal Music Server, designed for collectors and music maniacs. `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/Arthi-chaud/Meelo",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/Arthi-chaud/Meelo"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:20:30.107Z",
+  "qualityScore": 55
+}

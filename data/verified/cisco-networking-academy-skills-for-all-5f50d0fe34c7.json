@@ -1,0 +1,22 @@
+{
+  "id": "cisco-networking-academy-skills-for-all-5f50d0fe34c7",
+  "canonicalUrl": "https://skillsforall.com/",
+  "name": "Cisco Networking Academy, Skills for All",
+  "description": "Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://skillsforall.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://skillsforall.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:11:20.455Z",
+  "qualityScore": 52
+}

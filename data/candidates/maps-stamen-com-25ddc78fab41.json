@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://maps.stamen.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.797Z",
-  "updatedAt": "2026-11-03T07:24:44.797Z"
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:20:12.101Z",
+  "qualityScore": 52
 }

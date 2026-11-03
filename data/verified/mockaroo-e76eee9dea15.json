@@ -1,0 +1,22 @@
+{
+  "id": "mockaroo-e76eee9dea15",
+  "canonicalUrl": "https://mockaroo.com/",
+  "name": "mockaroo",
+  "description": "Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mockaroo.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mockaroo.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:21:01.217Z",
+  "qualityScore": 52
+}

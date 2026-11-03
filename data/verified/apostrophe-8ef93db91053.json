@@ -1,0 +1,22 @@
+{
+  "id": "apostrophe-8ef93db91053",
+  "canonicalUrl": "https://apostrophecms.com/",
+  "name": "Apostrophe",
+  "description": "CMS with a focus on extensible in-context editing tools. ([Demo](https://demo.apostrophecms.com/), [Source Code](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://apostrophecms.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://apostrophecms.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:09:32.312Z",
+  "qualityScore": 52
+}

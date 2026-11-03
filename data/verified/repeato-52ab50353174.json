@@ -1,0 +1,22 @@
+{
+  "id": "repeato-52ab50353174",
+  "canonicalUrl": "https://repeato.app/",
+  "name": "Repeato",
+  "description": "No-code mobile app test automation tool built on top of computer vision and AI.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://repeato.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://repeato.app/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:24:57.531Z",
+  "qualityScore": 52
+}

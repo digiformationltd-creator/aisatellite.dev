@@ -1,0 +1,22 @@
+{
+  "id": "webhook-site-05d2a9f6855b",
+  "canonicalUrl": "https://webhook.site/",
+  "name": "webhook.site",
+  "description": "Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://webhook.site",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://webhook.site"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:30:43.292Z",
+  "qualityScore": 52
+}

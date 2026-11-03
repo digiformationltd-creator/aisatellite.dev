@@ -1,0 +1,22 @@
+{
+  "id": "eda-f0b6c19b6896",
+  "canonicalUrl": "https://github.com/jortilles/EDA",
+  "name": "EDA",
+  "description": "Web application for data analysis and visualization. `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/jortilles/EDA",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/jortilles/EDA"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:13:48.099Z",
+  "qualityScore": 55
+}

@@ -1,0 +1,22 @@
+{
+  "id": "lensdump-com-48daa0fbc5a0",
+  "canonicalUrl": "https://lensdump.com/",
+  "name": "lensdump.com",
+  "description": "Free cloud image hosting.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://lensdump.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://lensdump.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:19:04.777Z",
+  "qualityScore": 47
+}

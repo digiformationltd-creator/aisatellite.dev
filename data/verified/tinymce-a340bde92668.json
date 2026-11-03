@@ -1,0 +1,22 @@
+{
+  "id": "tinymce-a340bde92668",
+  "canonicalUrl": "https://www.tiny.cloud/",
+  "name": "TinyMCE",
+  "description": "rich text editing API. Core features are free for unlimited usage.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.tiny.cloud",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.tiny.cloud"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:29:15.526Z",
+  "qualityScore": 52
+}

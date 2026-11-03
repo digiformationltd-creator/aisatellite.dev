@@ -1,0 +1,22 @@
+{
+  "id": "inveniordm-bdab7413f8a7",
+  "canonicalUrl": "https://inveniordm.docs.cern.ch/",
+  "name": "InvenioRDM",
+  "description": "Highly scalable turn-key research data management platform with a beautiful user experience. ([Demo](https://inveniordm.web.cern.ch/), [Source Code](https://github.com/inveniosoftware/invenio-app-rdm), [Clients](https://inveniosoftware.org/products/rdm/)) `MIT` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://inveniordm.docs.cern.ch/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://inveniordm.docs.cern.ch/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:17:54.803Z",
+  "qualityScore": 52
+}

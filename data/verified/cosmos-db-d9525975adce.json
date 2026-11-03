@@ -1,0 +1,22 @@
+{
+  "id": "cosmos-db-d9525975adce",
+  "canonicalUrl": "https://azure.microsoft.com/services/cosmos-db",
+  "name": "Cosmos DB",
+  "description": "25GB storage and 1000 RUs of provisioned throughput",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://azure.microsoft.com/services/cosmos-db/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://azure.microsoft.com/services/cosmos-db/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:12:10.256Z",
+  "qualityScore": 52
+}

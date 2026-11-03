@@ -1,0 +1,22 @@
+{
+  "id": "llm-harbor-86b9dee21c13",
+  "canonicalUrl": "https://github.com/av/harbor",
+  "name": "LLM Harbor",
+  "description": "Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI. `Apache-2.0` `Docker/Shell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/av/harbor",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/av/harbor"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:19:25.905Z",
+  "qualityScore": 55
+}

@@ -1,0 +1,22 @@
+{
+  "id": "newsblur-2f93342b94c3",
+  "canonicalUrl": "https://www.newsblur.com/",
+  "name": "NewsBlur",
+  "description": "Personal news reader that brings people together to talk about the world. A new sound of an old instrument. ([Source Code](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.newsblur.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.newsblur.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:21:30.840Z",
+  "qualityScore": 52
+}

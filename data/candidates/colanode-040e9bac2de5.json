@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://colanode.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.422Z",
-  "updatedAt": "2026-11-03T07:24:45.422Z"
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:11:46.964Z",
+  "qualityScore": 52
 }

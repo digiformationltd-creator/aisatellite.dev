@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.graphhopper.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.797Z",
-  "updatedAt": "2026-11-03T07:24:44.797Z"
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:16:34.509Z",
+  "qualityScore": 52
 }

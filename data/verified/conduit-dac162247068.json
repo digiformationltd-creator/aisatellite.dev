@@ -1,0 +1,22 @@
+{
+  "id": "conduit-dac162247068",
+  "canonicalUrl": "https://conduit.email/",
+  "name": "Conduit",
+  "description": "Turn incoming emails into webhooks to trigger your API from emails. The service is completely free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://conduit.email/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://conduit.email/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:11:53.338Z",
+  "qualityScore": 52
+}

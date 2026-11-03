@@ -1,0 +1,22 @@
+{
+  "id": "himitsushell-f2564912215a",
+  "canonicalUrl": "https://himitsushell.com/",
+  "name": "HimitsuShell",
+  "description": "A shell script DRM compiler that converts shell scripts into obfuscated binaries using an embedded shell interpreter and anti-debugging (alternative to shc). Free unlimited web edition.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://himitsushell.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://himitsushell.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:16:57.232Z",
+  "qualityScore": 52
+}

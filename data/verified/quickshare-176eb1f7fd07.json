@@ -1,0 +1,22 @@
+{
+  "id": "quickshare-176eb1f7fd07",
+  "canonicalUrl": "https://ihexxa.github.io/quickshare.site",
+  "name": "QuickShare",
+  "description": "Quick and simple file sharing between different devices. ([Source Code](https://github.com/ihexxa/quickshare)) `LGPL-3.0` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ihexxa.github.io/quickshare.site/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ihexxa.github.io/quickshare.site/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:24:28.804Z",
+  "qualityScore": 52
+}

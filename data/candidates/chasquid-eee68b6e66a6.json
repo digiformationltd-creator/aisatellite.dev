@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://blitiri.com.ar/p/chasquid/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.419Z",
-  "updatedAt": "2026-11-03T07:24:45.419Z"
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:11:12.908Z",
+  "qualityScore": 52
 }

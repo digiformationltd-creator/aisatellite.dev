@@ -1,0 +1,22 @@
+{
+  "id": "protectumus-775fa8ca89fb",
+  "canonicalUrl": "https://protectumus.com/",
+  "name": "Protectumus",
+  "description": "Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://protectumus.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://protectumus.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:24:09.840Z",
+  "qualityScore": 52
+}

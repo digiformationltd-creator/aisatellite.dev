@@ -1,0 +1,22 @@
+{
+  "id": "codepipeline-0a467ccdd90c",
+  "canonicalUrl": "https://aws.amazon.com/codepipeline",
+  "name": "CodePipeline",
+  "description": "1 active pipeline/month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://aws.amazon.com/codepipeline/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aws.amazon.com/codepipeline/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:11:44.784Z",
+  "qualityScore": 47
+}

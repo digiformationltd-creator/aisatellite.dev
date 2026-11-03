@@ -1,0 +1,22 @@
+{
+  "id": "manyfold-2145646eb2f6",
+  "canonicalUrl": "https://manyfold.app/",
+  "name": "Manyfold",
+  "description": "Digital asset manager for 3d print files; STL, OBJ, 3MF and more. ([Source Code](https://github.com/manyfold3d/manyfold)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://manyfold.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://manyfold.app"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:20:11.603Z",
+  "qualityScore": 52
+}

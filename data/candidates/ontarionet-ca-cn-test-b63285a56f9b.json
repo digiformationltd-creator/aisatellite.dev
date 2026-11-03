@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cntest.ontarionet.ca"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.790Z",
-  "updatedAt": "2026-11-03T07:24:44.790Z"
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:22:09.780Z",
+  "qualityScore": 52
 }

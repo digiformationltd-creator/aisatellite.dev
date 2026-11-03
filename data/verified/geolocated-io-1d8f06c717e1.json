@@ -1,0 +1,22 @@
+{
+  "id": "geolocated-io-1d8f06c717e1",
+  "canonicalUrl": "https://geolocated.io/",
+  "name": "Geolocated.io",
+  "description": "IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://geolocated.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://geolocated.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:15:58.962Z",
+  "qualityScore": 52
+}

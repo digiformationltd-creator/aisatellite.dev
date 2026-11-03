@@ -1,0 +1,22 @@
+{
+  "id": "ifm-81fb70b3b58c",
+  "canonicalUrl": "https://github.com/misterunknown/ifm",
+  "name": "IFM",
+  "description": "Single script file manager. `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/misterunknown/ifm",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/misterunknown/ifm"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:17:25.460Z",
+  "qualityScore": 55
+}

@@ -1,0 +1,22 @@
+{
+  "id": "scalekit-92b4cf312313",
+  "canonicalUrl": "https://scalekit.com/",
+  "name": "Scalekit",
+  "description": "Enterprise SSO (SAML, OIDC), SCIM provisioning, and social logins for B2B SaaS. Free tier includes 1 million MAU, 100 organizations, 1 SSO connection, and 1 SCIM connection.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://scalekit.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://scalekit.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z",
+  "lastVerified": "2026-11-03T09:25:52.559Z",
+  "qualityScore": 52
+}

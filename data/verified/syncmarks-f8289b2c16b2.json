@@ -1,0 +1,22 @@
+{
+  "id": "syncmarks-f8289b2c16b2",
+  "canonicalUrl": "https://codeberg.org/Offerel/SyncMarks-Webapp",
+  "name": "SyncMarks",
+  "description": "Sync and manage your browser bookmarks from Edge, Firefox and Chromium. ([Clients](https://codeberg.org/Offerel/SyncMarks-Extension)) `AGPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://codeberg.org/Offerel/SyncMarks-Webapp",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codeberg.org/Offerel/SyncMarks-Webapp"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:28:36.041Z",
+  "qualityScore": 52
+}

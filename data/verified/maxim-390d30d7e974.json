@@ -1,0 +1,22 @@
+{
+  "id": "maxim-390d30d7e974",
+  "canonicalUrl": "https://www.getmaxim.ai/",
+  "name": "Maxim",
+  "description": "An LLM evaluation and observability platform with agent simulation and prompt playground. Free tier offers 10k monthly logs, access to prompt playground, simulations and evaluations via BYOK.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.getmaxim.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.getmaxim.ai"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:20:19.950Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sup3rs3cretmes5age-9682ad403e9e",
+  "canonicalUrl": "https://github.com/algolia/sup3rS3cretMes5age",
+  "name": "Sup3rS3cretMes5age",
+  "description": "Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/algolia/sup3rS3cretMes5age",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/algolia/sup3rS3cretMes5age"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:28:07.964Z",
+  "qualityScore": 55
+}

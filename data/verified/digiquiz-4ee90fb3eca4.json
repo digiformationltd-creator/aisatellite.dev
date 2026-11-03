@@ -1,0 +1,22 @@
+{
+  "id": "digiquiz-4ee90fb3eca4",
+  "canonicalUrl": "https://ladigitale.dev/digiquiz",
+  "name": "Digiquiz",
+  "description": "Online application to publish content created with H5P (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiquiz)) `AGPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ladigitale.dev/digiquiz/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ladigitale.dev/digiquiz/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:13:06.452Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "anubis-1c0f92786664",
+  "canonicalUrl": "https://anubis.techaro.lol/",
+  "name": "Anubis",
+  "description": "Web AI firewall utility which protects upstream resources from scraper bots. ([Source Code](https://github.com/TecharoHQ/anubis)) `MIT` `Docker/deb/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://anubis.techaro.lol/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://anubis.techaro.lol/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:09:27.597Z",
+  "qualityScore": 52
+}

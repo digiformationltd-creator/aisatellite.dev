@@ -1,0 +1,22 @@
+{
+  "id": "string-is-e4cfcf5343b0",
+  "canonicalUrl": "https://string.is/",
+  "name": "string.is",
+  "description": "Online string toolkit for developers. ([Source Code](https://github.com/recurser/string-is)) `AGPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://string.is/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://string.is/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:28:00.375Z",
+  "qualityScore": 52
+}

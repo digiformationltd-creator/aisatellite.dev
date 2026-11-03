@@ -1,0 +1,22 @@
+{
+  "id": "lura-36e4a65b9088",
+  "canonicalUrl": "https://luraproject.org/",
+  "name": "Lura",
+  "description": "High-performance API Gateway. ([Source Code](https://github.com/luraproject/lura)) `Apache-2.0` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://luraproject.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://luraproject.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:19:53.445Z",
+  "qualityScore": 52
+}

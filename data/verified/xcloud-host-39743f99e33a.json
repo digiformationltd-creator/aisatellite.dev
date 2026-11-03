@@ -1,0 +1,22 @@
+{
+  "id": "xcloud-host-39743f99e33a",
+  "canonicalUrl": "https://xcloud.host/",
+  "name": "xcloud.host",
+  "description": "Server management and deployment platform with a user-friendly interface. Free tier available for one server.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://xcloud.host",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://xcloud.host"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:31:16.973Z",
+  "qualityScore": 52
+}

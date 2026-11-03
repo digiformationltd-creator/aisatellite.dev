@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://digistorm.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.422Z",
-  "updatedAt": "2026-11-03T07:24:45.422Z"
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:13:08.385Z",
+  "qualityScore": 52
 }

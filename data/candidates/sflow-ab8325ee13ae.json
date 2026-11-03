@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://sflow.io"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-03T07:24:44.796Z",
-  "updatedAt": "2026-11-03T07:24:44.796Z"
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

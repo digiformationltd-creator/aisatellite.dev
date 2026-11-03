@@ -1,0 +1,22 @@
+{
+  "id": "mintlify-b4fbaafeabe5",
+  "canonicalUrl": "https://mintlify.com/",
+  "name": "Mintlify",
+  "description": "Modern standard for API documentation. Beautiful and easy-to-maintain UI components, in-app search, and interactive playground. Free for 1 editor.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mintlify.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mintlify.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:20:50.798Z",
+  "qualityScore": 52
+}

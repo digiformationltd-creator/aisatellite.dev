@@ -1,0 +1,22 @@
+{
+  "id": "activitywatch-89a15e324741",
+  "canonicalUrl": "https://activitywatch.net/",
+  "name": "ActivityWatch",
+  "description": "Automatically track how you spend time on your devices. ([Source Code](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://activitywatch.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://activitywatch.net"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:08:56.234Z",
+  "qualityScore": 52
+}

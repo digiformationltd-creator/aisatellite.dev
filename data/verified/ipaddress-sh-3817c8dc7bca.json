@@ -1,0 +1,22 @@
+{
+  "id": "ipaddress-sh-3817c8dc7bca",
+  "canonicalUrl": "https://ipaddress.sh/",
+  "name": "ipaddress.sh",
+  "description": "Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ipaddress.sh",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ipaddress.sh"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:18:03.927Z",
+  "qualityScore": 52
+}

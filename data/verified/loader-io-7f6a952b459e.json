@@ -1,0 +1,22 @@
+{
+  "id": "loader-io-7f6a952b459e",
+  "canonicalUrl": "https://loader.io/",
+  "name": "loader.io",
+  "description": "Free load testing tools with limitations",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://loader.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://loader.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:19:27.447Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "localhero-ai-1b8dff3e8fd6",
+  "canonicalUrl": "https://localhero.ai/",
+  "name": "Localhero.ai",
+  "description": "Automatic on-brand translations on every pull request, with glossary and translation memory. Free for 1 project, 250 translation credits/month (~4,000 words).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://localhero.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://localhero.ai"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:19:32.050Z",
+  "qualityScore": 52
+}

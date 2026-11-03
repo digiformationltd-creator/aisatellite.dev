@@ -1,0 +1,22 @@
+{
+  "id": "imgduck-com-008ab3e4d87c",
+  "canonicalUrl": "https://imgduck.com/",
+  "name": "imgduck.com",
+  "description": "Minimalist and fast image hosting service with direct link and API support. Free tier offers 1GB storage and unlimited requests per month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://imgduck.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://imgduck.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:17:37.285Z",
+  "qualityScore": 52
+}

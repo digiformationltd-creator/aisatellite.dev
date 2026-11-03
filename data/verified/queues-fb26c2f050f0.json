@@ -1,0 +1,22 @@
+{
+  "id": "queues-fb26c2f050f0",
+  "canonicalUrl": "https://developers.cloudflare.com/queues",
+  "name": "Queues",
+  "description": "1 million operations per month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developers.cloudflare.com/queues/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developers.cloudflare.com/queues/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:24:28.217Z",
+  "qualityScore": 47
+}

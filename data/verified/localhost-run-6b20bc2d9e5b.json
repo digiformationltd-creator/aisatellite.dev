@@ -1,0 +1,22 @@
+{
+  "id": "localhost-run-6b20bc2d9e5b",
+  "canonicalUrl": "https://localhost.run/",
+  "name": "localhost.run",
+  "description": "Expose locally running servers over a tunnel to a public URL.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://localhost.run/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://localhost.run/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:19:33.042Z",
+  "qualityScore": 52
+}

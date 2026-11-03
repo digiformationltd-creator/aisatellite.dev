@@ -1,0 +1,22 @@
+{
+  "id": "solidtime-14cc8861f43b",
+  "canonicalUrl": "https://www.solidtime.io/",
+  "name": "solidtime",
+  "description": "Modern time tracking application for freelancers and agencies. ([Source Code](https://github.com/solidtime-io/solidtime)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.solidtime.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.solidtime.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:27:30.349Z",
+  "qualityScore": 52
+}

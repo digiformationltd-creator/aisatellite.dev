@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gitlab.com/simple-nixos-mailserver/nixos-mailserver"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.419Z",
-  "updatedAt": "2026-11-03T07:24:45.419Z"
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:26:48.455Z",
+  "qualityScore": 52
 }

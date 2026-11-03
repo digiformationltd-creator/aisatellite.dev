@@ -1,0 +1,22 @@
+{
+  "id": "components-studio-d3de8559d6c2",
+  "canonicalUrl": "https://webcomponents.dev/",
+  "name": "Components.studio",
+  "description": "Code components in isolation, visualize them in stories, test them, and publish them on npm.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://webcomponents.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://webcomponents.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:11:51.867Z",
+  "qualityScore": 52
+}

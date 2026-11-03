@@ -1,0 +1,22 @@
+{
+  "id": "rss2email-12da538df399",
+  "canonicalUrl": "https://github.com/rss2email/rss2email",
+  "name": "RSS2EMail",
+  "description": "Fetches RSS/Atom-feeds and pushes new content to any email-receiver, supports OPML. `GPL-2.0` `Python/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/rss2email/rss2email",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/rss2email/rss2email"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:25:23.779Z",
+  "qualityScore": 55
+}

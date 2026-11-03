@@ -1,0 +1,22 @@
+{
+  "id": "burnermail-360cfbcc861e",
+  "canonicalUrl": "https://burnermail.io/",
+  "name": "Burnermail",
+  "description": "Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://burnermail.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://burnermail.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:10:51.583Z",
+  "qualityScore": 52
+}

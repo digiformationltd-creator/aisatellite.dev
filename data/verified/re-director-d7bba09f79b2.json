@@ -1,0 +1,22 @@
+{
+  "id": "re-director-d7bba09f79b2",
+  "canonicalUrl": "https://re-director.github.io/",
+  "name": "re:Director",
+  "description": "Simple domain redirection management tool. ([Source Code](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://re-director.github.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://re-director.github.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:24:35.331Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "canopy-1d2fcac66430",
+  "canonicalUrl": "https://www.canopyapi.co/",
+  "name": "Canopy",
+  "description": "GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.canopyapi.co/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.canopyapi.co/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:11:00.087Z",
+  "qualityScore": 52
+}

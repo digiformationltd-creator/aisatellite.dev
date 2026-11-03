@@ -1,0 +1,22 @@
+{
+  "id": "diagrams-net-b829fabaec24",
+  "canonicalUrl": "https://app.diagrams.net/",
+  "name": "diagrams.net",
+  "description": "Online diagrams stored locally in Google Drive, OneDrive, or Dropbox. Free for all features and storage levels",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://app.diagrams.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://app.diagrams.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:12:54.974Z",
+  "qualityScore": 52
+}

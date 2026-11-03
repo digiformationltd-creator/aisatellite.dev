@@ -1,0 +1,22 @@
+{
+  "id": "geojs-io-614d11c0134c",
+  "canonicalUrl": "https://www.geojs.io/",
+  "name": "geojs.io",
+  "description": "Highly available REST/JSON/JSONP IP Geolocation lookup API.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.geojs.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.geojs.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:15:57.890Z",
+  "qualityScore": 52
+}

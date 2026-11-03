@@ -1,0 +1,22 @@
+{
+  "id": "zero-trust-sase-3304efcfadd9",
+  "canonicalUrl": "https://www.cloudflare.com/plans/zero-trust-services",
+  "name": "Zero Trust & SASE",
+  "description": "Up to 50 Users, 24 hours of activity logging, three network locations",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.cloudflare.com/plans/zero-trust-services/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cloudflare.com/plans/zero-trust-services/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:31:40.328Z",
+  "qualityScore": 52
+}

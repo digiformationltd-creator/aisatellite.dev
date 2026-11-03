@@ -1,0 +1,22 @@
+{
+  "id": "what-to-cook-4bd91df9a54c",
+  "canonicalUrl": "https://github.com/kassner/whattocook",
+  "name": "What To Cook?",
+  "description": "Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/kassner/whattocook",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/kassner/whattocook"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:30:58.467Z",
+  "qualityScore": 55
+}

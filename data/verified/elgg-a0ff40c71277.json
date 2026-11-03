@@ -1,0 +1,22 @@
+{
+  "id": "elgg-a0ff40c71277",
+  "canonicalUrl": "https://elgg.org/",
+  "name": "Elgg",
+  "description": "Powerful social networking engine. ([Source Code](https://github.com/Elgg/Elgg)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://elgg.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://elgg.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:13:53.827Z",
+  "qualityScore": 52
+}

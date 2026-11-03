@@ -1,0 +1,22 @@
+{
+  "id": "pingmeter-com-cb5581031599",
+  "canonicalUrl": "https://pingmeter.com/",
+  "name": "Pingmeter.com",
+  "description": "5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pingmeter.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pingmeter.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:23:25.770Z",
+  "qualityScore": 52
+}

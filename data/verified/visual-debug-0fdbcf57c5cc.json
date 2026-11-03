@@ -1,0 +1,22 @@
+{
+  "id": "visual-debug-0fdbcf57c5cc",
+  "canonicalUrl": "https://visualdebug.com/",
+  "name": "Visual Debug",
+  "description": "A Visual feedback tool for better client-dev communication",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://visualdebug.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://visualdebug.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:30:23.656Z",
+  "qualityScore": 52
+}

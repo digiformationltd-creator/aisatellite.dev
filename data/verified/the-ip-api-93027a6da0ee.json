@@ -1,0 +1,22 @@
+{
+  "id": "the-ip-api-93027a6da0ee",
+  "canonicalUrl": "https://theipapi.com/",
+  "name": "The IP API",
+  "description": "IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://theipapi.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://theipapi.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:28:58.726Z",
+  "qualityScore": 52
+}

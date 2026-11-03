@@ -1,0 +1,22 @@
+{
+  "id": "pagertree-com-86bf1d6ff1bd",
+  "canonicalUrl": "https://pagertree.com/",
+  "name": "pagertree.com",
+  "description": "Simple interface for alerting and on-call management. Free up to 5 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pagertree.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pagertree.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:22:56.712Z",
+  "qualityScore": 52
+}

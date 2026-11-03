@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://curlhub.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.779Z",
-  "updatedAt": "2026-11-03T07:24:44.779Z"
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:12:20.590Z",
+  "qualityScore": 52
 }

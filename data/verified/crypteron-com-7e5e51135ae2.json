@@ -1,0 +1,22 @@
+{
+  "id": "crypteron-com-7e5e51135ae2",
+  "canonicalUrl": "https://www.crypteron.com/",
+  "name": "crypteron.com",
+  "description": "Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.crypteron.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.crypteron.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:12:18.662Z",
+  "qualityScore": 52
+}

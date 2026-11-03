@@ -1,0 +1,22 @@
+{
+  "id": "pagure-98473cf29da6",
+  "canonicalUrl": "https://pagure.io/pagure",
+  "name": "Pagure",
+  "description": "Lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. ([Demo](https://pagure.io/)) `GPL-2.0` `Docker/Python/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://pagure.io/pagure",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pagure.io/pagure"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:22:57.400Z",
+  "qualityScore": 52
+}

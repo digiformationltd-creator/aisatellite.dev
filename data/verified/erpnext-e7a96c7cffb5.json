@@ -1,0 +1,22 @@
+{
+  "id": "erpnext-e7a96c7cffb5",
+  "canonicalUrl": "https://frappe.io/erpnext",
+  "name": "ERPNext",
+  "description": "ERP system to help you run your business. ([Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://frappe.io/erpnext",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://frappe.io/erpnext"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:14:14.744Z",
+  "qualityScore": 52
+}

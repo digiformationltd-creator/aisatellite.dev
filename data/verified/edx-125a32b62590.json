@@ -1,0 +1,24 @@
+{
+  "id": "edx-125a32b62590",
+  "canonicalUrl": "https://www.edx.org/",
+  "name": "edX",
+  "description": "Online learning platform that powers the edX.org website. ([Source Code](https://github.com/edx/)) `AGPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.edx.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.edx.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:47.251Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:13:48.348Z",
+  "qualityScore": 52
+}

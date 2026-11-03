@@ -1,0 +1,22 @@
+{
+  "id": "rei3-6cc7a5c48dc9",
+  "canonicalUrl": "https://rei3.de/home_en",
+  "name": "REI3",
+  "description": "Manage tasks, time, assets and much more within your business. ([Demo](https://rei3.de/demo_en/), [Source Code](https://github.com/r3-team/r3)) `MIT` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://rei3.de/home_en/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rei3.de/home_en/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:24:48.517Z",
+  "qualityScore": 52
+}

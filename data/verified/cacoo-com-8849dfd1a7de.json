@@ -1,0 +1,22 @@
+{
+  "id": "cacoo-com-8849dfd1a7de",
+  "canonicalUrl": "https://cacoo.com/",
+  "name": "cacoo.com",
+  "description": "Online real-time diagrams: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cacoo.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cacoo.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:10:54.549Z",
+  "qualityScore": 52
+}

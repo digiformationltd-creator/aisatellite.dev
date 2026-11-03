@@ -1,0 +1,22 @@
+{
+  "id": "android-studio-c19baa232f69",
+  "canonicalUrl": "https://developer.android.com/studio",
+  "name": "Android Studio",
+  "description": "Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE is free for everyone and the best Android app development. Available for Windows, Mac, Linux, and even ChromeOS!",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developer.android.com/studio",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developer.android.com/studio"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:09:19.923Z",
+  "qualityScore": 52
+}

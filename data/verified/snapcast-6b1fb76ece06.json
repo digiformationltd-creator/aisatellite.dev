@@ -1,0 +1,22 @@
+{
+  "id": "snapcast-6b1fb76ece06",
+  "canonicalUrl": "https://github.com/snapcast/snapcast",
+  "name": "Snapcast",
+  "description": "Synchronous multiroom audio server. `GPL-3.0` `C++/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/snapcast/snapcast",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/snapcast/snapcast"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:27:20.895Z",
+  "qualityScore": 55
+}

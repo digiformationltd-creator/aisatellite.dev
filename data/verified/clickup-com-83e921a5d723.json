@@ -1,0 +1,22 @@
+{
+  "id": "clickup-com-83e921a5d723",
+  "canonicalUrl": "https://clickup.com/",
+  "name": "clickup.com",
+  "description": "Project management. Free, premium version with cloud storage. Mobile applications and Git integrations are available.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://clickup.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://clickup.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:11:24.547Z",
+  "qualityScore": 52
+}

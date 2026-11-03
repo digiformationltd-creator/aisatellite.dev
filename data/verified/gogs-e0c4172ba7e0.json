@@ -1,0 +1,22 @@
+{
+  "id": "gogs-e0c4172ba7e0",
+  "canonicalUrl": "https://gogs.io/",
+  "name": "Gogs",
+  "description": "Painless Git Service written in Go. ([Source Code](https://github.com/gogs/gogs)) `MIT` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gogs.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gogs.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:16:23.821Z",
+  "qualityScore": 52
+}

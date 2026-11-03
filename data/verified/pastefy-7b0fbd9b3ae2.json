@@ -1,0 +1,24 @@
+{
+  "id": "pastefy-7b0fbd9b3ae2",
+  "canonicalUrl": "https://pastefy.app/",
+  "name": "Pastefy",
+  "description": "Beautiful, simple and easy to deploy Pastebin with optional client encryption, multitab pastes, an API, a highlighted editor and more. ([Source Code](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Docker/K8S/Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://pastefy.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pastefy.app/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:23:06.535Z",
+  "qualityScore": 52
+}

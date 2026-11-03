@@ -1,0 +1,22 @@
+{
+  "id": "mailcatcher-me-3280cf18a195",
+  "canonicalUrl": "https://mailcatcher.me/",
+  "name": "mailcatcher.me",
+  "description": "Catches mail and serves it through a web interface.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mailcatcher.me/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mailcatcher.me/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:19:57.443Z",
+  "qualityScore": 52
+}

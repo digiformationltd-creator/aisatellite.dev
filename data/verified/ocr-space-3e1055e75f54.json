@@ -1,0 +1,22 @@
+{
+  "id": "ocr-space-3e1055e75f54",
+  "canonicalUrl": "https://ocr.space/",
+  "name": "OCR.Space",
+  "description": "An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ocr.space/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ocr.space/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:21:59.542Z",
+  "qualityScore": 52
+}

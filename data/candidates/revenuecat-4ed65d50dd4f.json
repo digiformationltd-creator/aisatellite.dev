@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.revenuecat.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.799Z",
-  "updatedAt": "2026-11-03T07:24:44.799Z"
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:25:07.431Z",
+  "qualityScore": 52
 }

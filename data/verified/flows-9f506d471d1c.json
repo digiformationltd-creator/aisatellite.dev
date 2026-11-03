@@ -1,0 +1,22 @@
+{
+  "id": "flows-9f506d471d1c",
+  "canonicalUrl": "https://flows.sh/",
+  "name": "Flows",
+  "description": "A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://flows.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://flows.sh/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:14:59.460Z",
+  "qualityScore": 52
+}

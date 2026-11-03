@@ -1,0 +1,22 @@
+{
+  "id": "mafl-506016b75e11",
+  "canonicalUrl": "https://mafl.hywax.space/",
+  "name": "Mafl",
+  "description": "Minimalistic flexible homepage. ([Source Code](https://github.com/hywax/mafl)) `MIT` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mafl.hywax.space/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mafl.hywax.space/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:19:54.665Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "surfer-a2154404bcb4",
+  "canonicalUrl": "https://git.cloudron.io/cloudron/surfer",
+  "name": "Surfer",
+  "description": "Simple static file server with webui to manage files. `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://git.cloudron.io/cloudron/surfer",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://git.cloudron.io/cloudron/surfer"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:28:20.813Z",
+  "qualityScore": 52
+}

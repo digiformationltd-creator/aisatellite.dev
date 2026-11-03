@@ -1,0 +1,22 @@
+{
+  "id": "marscode-78cc484f5901",
+  "canonicalUrl": "https://www.marscode.com/",
+  "name": "MarsCode",
+  "description": "A free AI-powered cloud-based IDE.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.marscode.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.marscode.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:20:14.127Z",
+  "qualityScore": 52
+}

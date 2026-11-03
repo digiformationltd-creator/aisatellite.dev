@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/antoniomika/sish"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.426Z",
-  "updatedAt": "2026-11-03T07:24:45.426Z"
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:27:03.791Z",
+  "qualityScore": 55
 }

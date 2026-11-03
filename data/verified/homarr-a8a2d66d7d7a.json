@@ -1,0 +1,22 @@
+{
+  "id": "homarr-a8a2d66d7d7a",
+  "canonicalUrl": "https://homarr.dev/",
+  "name": "Homarr",
+  "description": "Sleek, modern dashboard with many integrations and web-based config. ([Source Code](https://github.com/homarr-labs/homarr)) `MIT` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://homarr.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://homarr.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:17:01.292Z",
+  "qualityScore": 52
+}

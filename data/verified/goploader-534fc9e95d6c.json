@@ -1,0 +1,22 @@
+{
+  "id": "goploader-534fc9e95d6c",
+  "canonicalUrl": "https://depado.github.io/goploader",
+  "name": "goploader",
+  "description": "Easy file sharing with server-side encryption, curl/httpie/wget compliant. ([Source Code](https://github.com/Depado/goploader)) `MIT` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://depado.github.io/goploader/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://depado.github.io/goploader/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:16:28.789Z",
+  "qualityScore": 52
+}

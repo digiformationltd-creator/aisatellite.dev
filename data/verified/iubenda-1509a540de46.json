@@ -1,0 +1,22 @@
+{
+  "id": "iubenda-1509a540de46",
+  "canonicalUrl": "https://www.iubenda.com/",
+  "name": "Iubenda",
+  "description": "Privacy and cookie policies and consent management. The free tier offers limited privacy and cookie policy as well as cookie banners.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.iubenda.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.iubenda.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:18:15.040Z",
+  "qualityScore": 52
+}

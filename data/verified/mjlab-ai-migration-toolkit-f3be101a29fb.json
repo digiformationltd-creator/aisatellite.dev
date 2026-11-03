@@ -1,0 +1,40 @@
+{
+  "id": "mjlab-ai-migration-toolkit-f3be101a29fb",
+  "canonicalUrl": "https://github.com/chaitanya-aws/mjlab-ai-migration-toolkit",
+  "name": "mjlab-ai-migration-toolkit",
+  "description": "AI Coding Assistant Migration Kit 2026 – Seamless Multi-Platform Workflows",
+  "category": "ai-coding",
+  "tags": [
+    "agent-tools",
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "gemini-cli",
+    "isaaclab",
+    "migration",
+    "migration-tooling",
+    "mjlab",
+    "mujoco",
+    "reinforcement-learning",
+    "robotics",
+    "simulation",
+    "skill-library",
+    "task-authoring"
+  ],
+  "repositoryUrl": "https://github.com/chaitanya-aws/mjlab-ai-migration-toolkit",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T03:39:20Z",
+  "evidenceUrls": [
+    "https://github.com/chaitanya-aws/mjlab-ai-migration-toolkit"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:47.248Z",
+  "updatedAt": "2026-11-03T07:24:47.248Z",
+  "lastVerified": "2026-11-03T09:20:58.530Z",
+  "qualityScore": 64
+}

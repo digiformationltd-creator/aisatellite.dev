@@ -1,0 +1,22 @@
+{
+  "id": "juntagrico-d02b2e78dcaa",
+  "canonicalUrl": "https://juntagrico.org/",
+  "name": "juntagrico",
+  "description": "Management platform for community gardens and vegetable cooperatives. ([Source Code](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://juntagrico.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://juntagrico.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:18:29.797Z",
+  "qualityScore": 52
+}

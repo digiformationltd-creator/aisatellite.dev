@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://photoprism.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.426Z",
-  "updatedAt": "2026-11-03T07:24:45.426Z"
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:23:16.630Z",
+  "qualityScore": 52
 }

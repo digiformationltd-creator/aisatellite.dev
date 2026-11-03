@@ -1,0 +1,22 @@
+{
+  "id": "cookcli-36cd99f45e4a",
+  "canonicalUrl": "https://cooklang.org/",
+  "name": "CookCLI",
+  "description": "Command-line tool for automating meal planning and shopping with Cooklang recipes, scriptable for UNIX workflows, includes web server. ([Source Code](https://github.com/cooklang/CookCLI)) `MIT` `Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://cooklang.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cooklang.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:12:00.904Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "country-state-city-microservice-api-c5dd127a0ca8",
+  "canonicalUrl": "https://country-state-city.rebuscando.info/",
+  "name": "Country-State-City Microservice API",
+  "description": "API and Microservice to provides a wide range of information including countries, regions, provinces, cities, postal codes, and much more. The free tier includes up to 100 requests per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://country-state-city.rebuscando.info/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://country-state-city.rebuscando.info/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:12:12.889Z",
+  "qualityScore": 52
+}

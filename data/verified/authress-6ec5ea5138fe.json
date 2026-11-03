@@ -1,0 +1,22 @@
+{
+  "id": "authress-6ec5ea5138fe",
+  "canonicalUrl": "https://authress.io/",
+  "name": "Authress",
+  "description": "Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. The first 1000 API calls are free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://authress.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://authress.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z",
+  "lastVerified": "2026-11-03T09:09:51.101Z",
+  "qualityScore": 52
+}

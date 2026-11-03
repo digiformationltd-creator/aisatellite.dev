@@ -1,0 +1,22 @@
+{
+  "id": "tilda-cc-b87f4c101222",
+  "canonicalUrl": "https://tilda.cc/",
+  "name": "tilda.cc",
+  "description": "One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon, and no custom domain",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tilda.cc/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tilda.cc/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:29:07.348Z",
+  "qualityScore": 52
+}

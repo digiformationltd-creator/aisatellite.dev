@@ -1,0 +1,22 @@
+{
+  "id": "podfetch-76eccfb8a8d9",
+  "canonicalUrl": "https://samtv12345.github.io/PodFetch",
+  "name": "PodFetch",
+  "description": "Sleek and efficient podcast downloader. ([Source Code](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://samtv12345.github.io/PodFetch",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://samtv12345.github.io/PodFetch"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:23:40.515Z",
+  "qualityScore": 52
+}

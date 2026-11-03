@@ -1,0 +1,22 @@
+{
+  "id": "statsig-0175d5123982",
+  "canonicalUrl": "https://statsig.com/",
+  "name": "Statsig",
+  "description": "All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://statsig.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://statsig.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:27:54.358Z",
+  "qualityScore": 52
+}

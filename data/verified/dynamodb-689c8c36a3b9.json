@@ -1,0 +1,22 @@
+{
+  "id": "dynamodb-689c8c36a3b9",
+  "canonicalUrl": "https://aws.amazon.com/dynamodb",
+  "name": "DynamoDB",
+  "description": "25GB NoSQL DB",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://aws.amazon.com/dynamodb/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aws.amazon.com/dynamodb/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.777Z",
+  "updatedAt": "2026-11-03T07:24:44.777Z",
+  "lastVerified": "2026-11-03T09:13:41.839Z",
+  "qualityScore": 47
+}

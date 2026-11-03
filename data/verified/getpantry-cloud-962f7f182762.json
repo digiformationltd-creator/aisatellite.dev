@@ -1,0 +1,22 @@
+{
+  "id": "getpantry-cloud-962f7f182762",
+  "canonicalUrl": "https://getpantry.cloud/",
+  "name": "getpantry.cloud",
+  "description": "A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://getpantry.cloud/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://getpantry.cloud/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:16:00.795Z",
+  "qualityScore": 52
+}

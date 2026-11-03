@@ -1,0 +1,22 @@
+{
+  "id": "hamsterbase-tasks-e62847404b64",
+  "canonicalUrl": "https://tasks.hamsterbase.com/",
+  "name": "HamsterBase Tasks",
+  "description": "Tool to help organize ideas and build great things. Plan, organize, build and ship. ([Demo](https://tasks-app.hamsterbase.com), [Source Code](https://github.com/hamsterbase/tasks)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://tasks.hamsterbase.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tasks.hamsterbase.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:16:43.182Z",
+  "qualityScore": 52
+}

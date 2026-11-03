@@ -1,0 +1,24 @@
+{
+  "id": "hoppscotch-community-edition-4a834a22fea5",
+  "canonicalUrl": "https://hoppscotch.io/",
+  "name": "Hoppscotch Community Edition",
+  "description": "Fast and beautiful API request builder. ([Source Code](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://hoppscotch.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hoppscotch.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:17:08.095Z",
+  "qualityScore": 52
+}

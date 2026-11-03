@@ -1,0 +1,22 @@
+{
+  "id": "reader-ead8d504038b",
+  "canonicalUrl": "https://github.com/lemon24/reader",
+  "name": "reader",
+  "description": "Feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/lemon24/reader",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/lemon24/reader"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:24:38.076Z",
+  "qualityScore": 55
+}

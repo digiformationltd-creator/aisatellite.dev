@@ -1,0 +1,22 @@
+{
+  "id": "libraries-io-0e079a30121a",
+  "canonicalUrl": "https://libraries.io/",
+  "name": "libraries.io",
+  "description": "Search and dependency update notifications for 32 different package managers, free for open source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://libraries.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://libraries.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:19:09.178Z",
+  "qualityScore": 52
+}

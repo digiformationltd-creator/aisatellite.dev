@@ -1,0 +1,22 @@
+{
+  "id": "jdoodle-69aa5a8ded54",
+  "canonicalUrl": "https://www.jdoodle.com/",
+  "name": "JDoodle",
+  "description": "Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.jdoodle.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.jdoodle.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:18:17.852Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tracim-a294ef8c004a",
+  "canonicalUrl": "https://github.com/tracim/tracim",
+  "name": "Tracim",
+  "description": "Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/tracim/tracim",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/tracim/tracim"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:29:25.763Z",
+  "qualityScore": 55
+}

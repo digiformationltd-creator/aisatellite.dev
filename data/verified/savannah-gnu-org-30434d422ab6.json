@@ -1,0 +1,22 @@
+{
+  "id": "savannah-gnu-org-30434d422ab6",
+  "canonicalUrl": "https://savannah.gnu.org/",
+  "name": "savannah.gnu.org",
+  "description": "Serves as a collaborative software development management system for free Software projects (for GNU Projects)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://savannah.gnu.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://savannah.gnu.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:25:48.736Z",
+  "qualityScore": 52
+}

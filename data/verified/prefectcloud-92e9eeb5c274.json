@@ -1,0 +1,22 @@
+{
+  "id": "prefectcloud-92e9eeb5c274",
+  "canonicalUrl": "https://www.prefect.io/cloud",
+  "name": "PrefectCloud",
+  "description": "A complete platform for dataflow automation. Free plan includes 5 deployed workflows and 500 minutes of serverless compute credits per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.prefect.io/cloud/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.prefect.io/cloud/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:23:52.129Z",
+  "qualityScore": 52
+}

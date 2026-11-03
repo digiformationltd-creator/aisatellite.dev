@@ -1,0 +1,22 @@
+{
+  "id": "sender-5bb9b25d5309",
+  "canonicalUrl": "https://www.sender.net/",
+  "name": "Sender",
+  "description": "Up to 15,000 emails/month, up to 2,500 subscribers",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.sender.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.sender.net"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z",
+  "lastVerified": "2026-11-03T09:26:14.775Z",
+  "qualityScore": 52
+}

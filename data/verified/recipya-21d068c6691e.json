@@ -1,0 +1,22 @@
+{
+  "id": "recipya-21d068c6691e",
+  "canonicalUrl": "https://recipes.musicavis.ca/",
+  "name": "Recipya",
+  "description": "Clean, simple and powerful recipe manager your whole family will enjoy. ([Demo](https://recipes.musicavis.ca/guide/login), [Source Code](https://github.com/reaper47/recipya)) `GPL-3.0` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://recipes.musicavis.ca",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://recipes.musicavis.ca"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:24:41.374Z",
+  "qualityScore": 52
+}

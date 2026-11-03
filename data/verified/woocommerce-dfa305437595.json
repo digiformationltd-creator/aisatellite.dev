@@ -1,0 +1,22 @@
+{
+  "id": "woocommerce-dfa305437595",
+  "canonicalUrl": "https://woocommerce.com/",
+  "name": "WooCommerce",
+  "description": "WordPress based e-commerce solution. ([Source Code](https://github.com/woocommerce/woocommerce)) `GPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://woocommerce.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://woocommerce.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:31:09.656Z",
+  "qualityScore": 52
+}

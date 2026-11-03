@@ -1,0 +1,22 @@
+{
+  "id": "mail-tester-com-5c1120bea0c4",
+  "canonicalUrl": "https://www.mail-tester.com/",
+  "name": "mail-tester.com",
+  "description": "Test if the email's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.mail-tester.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.mail-tester.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:19:57.185Z",
+  "qualityScore": 52
+}

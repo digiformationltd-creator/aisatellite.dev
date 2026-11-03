@@ -1,0 +1,22 @@
+{
+  "id": "parityvend-dc31cde4589c",
+  "canonicalUrl": "https://www.ambeteco.com/ParityVend",
+  "name": "ParityVend",
+  "description": "Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity). The free plan includes 7,500 API requests/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.ambeteco.com/ParityVend/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.ambeteco.com/ParityVend/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:23:01.845Z",
+  "qualityScore": 52
+}

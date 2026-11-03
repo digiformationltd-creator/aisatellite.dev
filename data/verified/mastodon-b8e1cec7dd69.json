@@ -1,0 +1,22 @@
+{
+  "id": "mastodon-b8e1cec7dd69",
+  "canonicalUrl": "https://joinmastodon.org/",
+  "name": "Mastodon",
+  "description": "Federated microblogging server. ([Source Code](https://github.com/mastodon/mastodon), [Clients](https://github.com/hyperupcall/awesome-mastodon)) `AGPL-3.0` `Ruby`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://joinmastodon.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://joinmastodon.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:20:15.201Z",
+  "qualityScore": 52
+}

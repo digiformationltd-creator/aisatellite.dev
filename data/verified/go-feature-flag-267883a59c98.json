@@ -1,0 +1,22 @@
+{
+  "id": "go-feature-flag-267883a59c98",
+  "canonicalUrl": "https://gofeatureflag.org/",
+  "name": "GO Feature Flag",
+  "description": "Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gofeatureflag.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gofeatureflag.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:16:20.348Z",
+  "qualityScore": 52
+}

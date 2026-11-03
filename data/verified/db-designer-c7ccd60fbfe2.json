@@ -1,0 +1,22 @@
+{
+  "id": "db-designer-c7ccd60fbfe2",
+  "canonicalUrl": "https://www.dbdesigner.net/",
+  "name": "DB Designer",
+  "description": "Cloud-based Database schema design and modeling tool with a free starter plan of 2 Database models and ten tables per model.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.dbdesigner.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.dbdesigner.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:12:38.396Z",
+  "qualityScore": 52
+}

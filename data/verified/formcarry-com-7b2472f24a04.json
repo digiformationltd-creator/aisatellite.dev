@@ -1,0 +1,22 @@
+{
+  "id": "formcarry-com-7b2472f24a04",
+  "canonicalUrl": "https://formcarry.com/",
+  "name": "Formcarry.com",
+  "description": "HTTP POST Form endpoint, Free plan allows 100 monthly submissions.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://formcarry.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://formcarry.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:15:11.448Z",
+  "qualityScore": 52
+}

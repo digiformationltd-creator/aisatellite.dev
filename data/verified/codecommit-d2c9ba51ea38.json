@@ -1,0 +1,22 @@
+{
+  "id": "codecommit-d2c9ba51ea38",
+  "canonicalUrl": "https://aws.amazon.com/codecommit",
+  "name": "CodeCommit",
+  "description": "5 active users, 5k repositories/account, 50GB storage/month and 10K requests/month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://aws.amazon.com/codecommit/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aws.amazon.com/codecommit/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.776Z",
+  "updatedAt": "2026-11-03T07:24:44.776Z",
+  "lastVerified": "2026-11-03T09:11:41.721Z",
+  "qualityScore": 52
+}

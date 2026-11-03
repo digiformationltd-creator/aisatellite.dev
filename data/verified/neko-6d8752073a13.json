@@ -1,0 +1,22 @@
+{
+  "id": "neko-6d8752073a13",
+  "canonicalUrl": "https://neko.m1k1o.net/",
+  "name": "Neko",
+  "description": "Virtual browser that runs in docker and uses WebRTC. ([Source Code](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://neko.m1k1o.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://neko.m1k1o.net"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:21:24.539Z",
+  "qualityScore": 52
+}

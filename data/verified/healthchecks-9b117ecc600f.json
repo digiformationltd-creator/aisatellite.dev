@@ -1,0 +1,25 @@
+{
+  "id": "healthchecks-9b117ecc600f",
+  "canonicalUrl": "https://healthchecks.io/",
+  "name": "Healthchecks",
+  "description": "Listen for pings and sends alerts when pings are late. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://healthchecks.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://healthchecks.io",
+    "https://healthchecks.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:47.251Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:16:47.194Z",
+  "qualityScore": 57
+}

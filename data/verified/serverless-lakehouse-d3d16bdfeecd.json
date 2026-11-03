@@ -1,0 +1,41 @@
+{
+  "id": "serverless-lakehouse-d3d16bdfeecd",
+  "canonicalUrl": "https://github.com/ashwinsreedhar28/serverless-lakehouse",
+  "name": "serverless-lakehouse",
+  "description": "Medallion lakehouse (bronze → silver → gold) over my own Runpod Serverless LLM benchmark data: cold starts, FlashBoot, worker-vllm boot anatomy, cost per job. Local PySpark + Delta Lake, redacted landing zone, idempotent ingest, four external audits.",
+  "category": "local-llm",
+  "tags": [
+    "apache-spark",
+    "benchmarking",
+    "cold-start",
+    "data-engineering",
+    "delta-lake",
+    "huggingface-spaces",
+    "lakehouse",
+    "llm-inference",
+    "medallion-architecture",
+    "pyspark",
+    "runpod",
+    "serverless",
+    "streamlit",
+    "vllm"
+  ],
+  "repositoryUrl": "https://github.com/ashwinsreedhar28/serverless-lakehouse",
+  "officialUrl": "https://huggingface.co/spaces/ashwin-sreedhar/serverless-lakehouse",
+  "documentationUrl": "https://huggingface.co/spaces/ashwin-sreedhar/serverless-lakehouse",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/ashwinsreedhar28/serverless-lakehouse/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T07:03:05Z",
+  "evidenceUrls": [
+    "https://github.com/ashwinsreedhar28/serverless-lakehouse"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:46.664Z",
+  "updatedAt": "2026-11-03T07:24:46.664Z",
+  "lastVerified": "2026-11-03T09:26:21.028Z",
+  "qualityScore": 89
+}

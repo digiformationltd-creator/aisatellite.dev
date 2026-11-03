@@ -1,0 +1,22 @@
+{
+  "id": "isitdownstatus-com-9e6c3e06d70b",
+  "canonicalUrl": "https://isitdownstatus.com/",
+  "name": "isitdownstatus.com",
+  "description": "Free public JSON API returning real-time status for 500+ popular services (GitHub, Stripe, AWS, etc.). No auth required, CORS enabled.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://isitdownstatus.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://isitdownstatus.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:18:07.471Z",
+  "qualityScore": 52
+}

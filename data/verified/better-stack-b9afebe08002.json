@@ -1,0 +1,22 @@
+{
+  "id": "better-stack-b9afebe08002",
+  "canonicalUrl": "https://betterstack.com/better-uptime",
+  "name": "Better Stack",
+  "description": "Uptime monitoring, incident management, on-call scheduling/alerting, and status pages in a single product. The free plan includes ten monitors with 3-minute check frequency and status pages.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://betterstack.com/better-uptime",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://betterstack.com/better-uptime"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:10:13.573Z",
+  "qualityScore": 52
+}

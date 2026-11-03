@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dynamicdocumentapi.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.779Z",
-  "updatedAt": "2026-11-03T07:24:44.779Z"
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:13:40.962Z",
+  "qualityScore": 52
 }

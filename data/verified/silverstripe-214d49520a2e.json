@@ -1,0 +1,22 @@
+{
+  "id": "silverstripe-214d49520a2e",
+  "canonicalUrl": "https://www.silverstripe.org/",
+  "name": "SilverStripe",
+  "description": "Easy to use CMS with powerful MVC framework underlying. ([Demo](https://demo.silverstripe.org/), [Source Code](https://github.com/silverstripe)) `BSD-3-Clause` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.silverstripe.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.silverstripe.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:26:47.458Z",
+  "qualityScore": 52
+}

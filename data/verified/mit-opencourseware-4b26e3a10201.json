@@ -1,0 +1,22 @@
+{
+  "id": "mit-opencourseware-4b26e3a10201",
+  "canonicalUrl": "https://ocw.mit.edu/",
+  "name": "MIT OpenCourseWare",
+  "description": "MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. Youtube channel can be found at [@mitocw](https://www.youtube.com/@mitocw/featured)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ocw.mit.edu/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ocw.mit.edu/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:20:56.835Z",
+  "qualityScore": 52
+}

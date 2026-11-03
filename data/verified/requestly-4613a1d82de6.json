@@ -1,0 +1,22 @@
+{
+  "id": "requestly-4613a1d82de6",
+  "canonicalUrl": "https://requestly.com/",
+  "name": "Requestly",
+  "description": "Open-source Chrome Extension to Intercept, Redirect and Mock HTTP Requests.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://requestly.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://requestly.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:25:01.976Z",
+  "qualityScore": 52
+}

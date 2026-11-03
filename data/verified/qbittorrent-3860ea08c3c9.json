@@ -1,0 +1,22 @@
+{
+  "id": "qbittorrent-3860ea08c3c9",
+  "canonicalUrl": "https://www.qbittorrent.org/",
+  "name": "qBittorrent",
+  "description": "Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.qbittorrent.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.qbittorrent.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:24:21.372Z",
+  "qualityScore": 52
+}

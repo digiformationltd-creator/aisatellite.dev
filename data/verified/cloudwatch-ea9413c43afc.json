@@ -1,0 +1,22 @@
+{
+  "id": "cloudwatch-ea9413c43afc",
+  "canonicalUrl": "https://aws.amazon.com/cloudwatch",
+  "name": "CloudWatch",
+  "description": "10 custom metrics and alarms, 1M API requests, 5GB of log data ingestion and 5GB of log data archive",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://aws.amazon.com/cloudwatch/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aws.amazon.com/cloudwatch/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.776Z",
+  "updatedAt": "2026-11-03T07:24:44.776Z",
+  "lastVerified": "2026-11-03T09:11:34.361Z",
+  "qualityScore": 52
+}

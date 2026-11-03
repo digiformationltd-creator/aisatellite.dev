@@ -1,0 +1,22 @@
+{
+  "id": "gitea-cc3da516a424",
+  "canonicalUrl": "https://gitea.com/",
+  "name": "Gitea",
+  "description": "Git with a cup of tea! Painless all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. ([Demo](https://gitea.com/explore/repos), [Source Code](https://github.com/go-gitea/gitea)) `MIT` `Go/Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gitea.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gitea.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:16:07.752Z",
+  "qualityScore": 52
+}

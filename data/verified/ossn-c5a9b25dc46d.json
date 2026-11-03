@@ -1,0 +1,22 @@
+{
+  "id": "ossn-c5a9b25dc46d",
+  "canonicalUrl": "https://www.opensource-socialnetwork.org/",
+  "name": "OSSN",
+  "description": "Social networking software that allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `CAL-1.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.opensource-socialnetwork.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.opensource-socialnetwork.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:22:41.567Z",
+  "qualityScore": 52
+}

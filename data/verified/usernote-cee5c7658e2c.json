@@ -1,0 +1,22 @@
+{
+  "id": "usernote-cee5c7658e2c",
+  "canonicalUrl": "https://getusernote.com/",
+  "name": "UserNote",
+  "description": "A user feedback tool to capture most wanted features, free supports up to 50 feature ideas and unlimited votes.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://getusernote.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://getusernote.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:30:02.926Z",
+  "qualityScore": 52
+}

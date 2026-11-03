@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.sympa.community/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.419Z",
-  "updatedAt": "2026-11-03T07:24:45.419Z"
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:28:32.184Z",
+  "qualityScore": 52
 }

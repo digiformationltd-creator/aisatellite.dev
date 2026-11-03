@@ -1,0 +1,22 @@
+{
+  "id": "ckan-9bba90b052ef",
+  "canonicalUrl": "https://ckan.org/",
+  "name": "CKAN",
+  "description": "Make open data websites. ([Source Code](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://ckan.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ckan.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:11:21.340Z",
+  "qualityScore": 52
+}

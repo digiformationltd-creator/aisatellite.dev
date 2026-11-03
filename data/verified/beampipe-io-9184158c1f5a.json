@@ -1,0 +1,22 @@
+{
+  "id": "beampipe-io-9184158c1f5a",
+  "canonicalUrl": "https://beampipe.io/",
+  "name": "Beampipe.io",
+  "description": "Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://beampipe.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://beampipe.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:10:10.082Z",
+  "qualityScore": 52
+}

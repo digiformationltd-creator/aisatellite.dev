@@ -1,0 +1,22 @@
+{
+  "id": "libervia-d4059b6e0c66",
+  "canonicalUrl": "https://repos.goffi.org/libervia-web",
+  "name": "Libervia",
+  "description": "Web frontend from Salut à Toi. `AGPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://repos.goffi.org/libervia-web",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://repos.goffi.org/libervia-web"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:19:08.166Z",
+  "qualityScore": 52
+}

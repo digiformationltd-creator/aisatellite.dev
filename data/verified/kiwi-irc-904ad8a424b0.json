@@ -1,0 +1,22 @@
+{
+  "id": "kiwi-irc-904ad8a424b0",
+  "canonicalUrl": "https://kiwiirc.com/",
+  "name": "Kiwi IRC",
+  "description": "Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://kiwiirc.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://kiwiirc.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:18:45.556Z",
+  "qualityScore": 52
+}

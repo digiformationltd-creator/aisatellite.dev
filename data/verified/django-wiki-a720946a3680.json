@@ -1,0 +1,22 @@
+{
+  "id": "django-wiki-a720946a3680",
+  "canonicalUrl": "https://github.com/django-wiki/django-wiki",
+  "name": "django-wiki",
+  "description": "Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/django-wiki/django-wiki",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/django-wiki/django-wiki"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:13:14.931Z",
+  "qualityScore": 55
+}

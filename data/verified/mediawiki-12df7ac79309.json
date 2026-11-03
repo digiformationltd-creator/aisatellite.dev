@@ -1,0 +1,22 @@
+{
+  "id": "mediawiki-12df7ac79309",
+  "canonicalUrl": "https://www.mediawiki.org/wiki/MediaWiki",
+  "name": "Mediawiki",
+  "description": "Wiki software package that powers Wikipedia and all other Wikimedia projects, serving hundreds of millions of users each month. ([Demo](https://en.wikipedia.org/wiki/Main_Page), [Source Code](https://phabricator.wikimedia.org/source/mediawiki/)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.mediawiki.org/wiki/MediaWiki",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.mediawiki.org/wiki/MediaWiki"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:20:27.831Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "strix-1fcbe4b90f4a",
+  "canonicalUrl": "https://github.com/eduard256/Strix",
+  "name": "Strix",
+  "description": "Auto-discovers working stream URLs for IP cameras and generates ready-to-use Frigate and go2rtc configs. `MIT` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/eduard256/Strix",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/eduard256/Strix"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:28:01.416Z",
+  "qualityScore": 55
+}

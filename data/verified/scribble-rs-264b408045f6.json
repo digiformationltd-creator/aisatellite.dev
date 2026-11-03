@@ -1,0 +1,22 @@
+{
+  "id": "scribble-rs-264b408045f6",
+  "canonicalUrl": "https://github.com/scribble-rs/scribble.rs",
+  "name": "Scribble.rs",
+  "description": "Web-based pictionary game. ([Demo](https://scribblers.fly.dev)) `BSD-3-Clause` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/scribble-rs/scribble.rs",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/scribble-rs/scribble.rs"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:26:02.228Z",
+  "qualityScore": 55
+}

@@ -1,0 +1,24 @@
+{
+  "id": "infisical-community-edition-c34e9c0098e5",
+  "canonicalUrl": "https://infisical.com/",
+  "name": "Infisical Community Edition",
+  "description": "Platform for secrets, certificates, and privileged access management. ([Source Code](https://github.com/Infisical/infisical)) `MIT` `Docker/K8S/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://infisical.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://infisical.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:47.252Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:17:42.439Z",
+  "qualityScore": 52
+}

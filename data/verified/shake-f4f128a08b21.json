@@ -1,0 +1,22 @@
+{
+  "id": "shake-f4f128a08b21",
+  "canonicalUrl": "https://www.shakebugs.com/",
+  "name": "Shake",
+  "description": "In-app bug reporting and feedback tool for mobile apps. Free plan, ten bug reports per app/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.shakebugs.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.shakebugs.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:26:30.118Z",
+  "qualityScore": 52
+}

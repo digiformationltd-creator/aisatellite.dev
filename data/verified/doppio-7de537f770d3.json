@@ -1,0 +1,22 @@
+{
+  "id": "doppio-7de537f770d3",
+  "canonicalUrl": "https://doppio.sh/",
+  "name": "Doppio",
+  "description": "Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://doppio.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://doppio.sh/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:13:29.228Z",
+  "qualityScore": 52
+}

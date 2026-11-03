@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-clarity-0262ce5e11c2",
+  "canonicalUrl": "https://clarity.microsoft.com/",
+  "name": "Microsoft Clarity",
+  "description": "Session recording completely free with \"no traffic limits\", no project limits, and no sampling",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://clarity.microsoft.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://clarity.microsoft.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:20:42.646Z",
+  "qualityScore": 52
+}

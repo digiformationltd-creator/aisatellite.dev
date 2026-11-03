@@ -1,0 +1,22 @@
+{
+  "id": "unison-381202aa86c7",
+  "canonicalUrl": "https://www.cis.upenn.edu/~bcpierce/unison",
+  "name": "Unison",
+  "description": "File-synchronization tool for OSX, Unix, and Windows. ([Source Code](https://github.com/bcpierce00/unison)) `GPL-3.0` `deb/OCaml`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.cis.upenn.edu/~bcpierce/unison/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cis.upenn.edu/~bcpierce/unison/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:29:55.087Z",
+  "qualityScore": 52
+}

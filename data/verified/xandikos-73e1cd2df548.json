@@ -1,0 +1,22 @@
+{
+  "id": "xandikos-73e1cd2df548",
+  "canonicalUrl": "https://github.com/jelmer/xandikos",
+  "name": "Xandikos",
+  "description": "CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/jelmer/xandikos",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/jelmer/xandikos"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:31:16.568Z",
+  "qualityScore": 55
+}

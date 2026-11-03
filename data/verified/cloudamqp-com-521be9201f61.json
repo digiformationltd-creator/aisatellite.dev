@@ -1,0 +1,22 @@
+{
+  "id": "cloudamqp-com-521be9201f61",
+  "canonicalUrl": "https://www.cloudamqp.com/",
+  "name": "cloudamqp.com",
+  "description": "RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.cloudamqp.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cloudamqp.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:11:29.739Z",
+  "qualityScore": 52
+}

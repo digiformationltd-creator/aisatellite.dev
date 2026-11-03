@@ -1,0 +1,22 @@
+{
+  "id": "proxmint-geoip-34145fac9913",
+  "canonicalUrl": "https://proxmint.com/tools/ip-lookup",
+  "name": "Proxmint GeoIP",
+  "description": "Free IP → country/city/ASN JSON API, no key, CORS-open. MaxMind GeoLite2.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://proxmint.com/tools/ip-lookup",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://proxmint.com/tools/ip-lookup"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:24:11.737Z",
+  "qualityScore": 52
+}

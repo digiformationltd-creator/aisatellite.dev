@@ -1,0 +1,22 @@
+{
+  "id": "transfer-sh-5d5725156591",
+  "canonicalUrl": "https://github.com/dutchcoders/transfer.sh",
+  "name": "transfer.sh",
+  "description": "Easy file sharing from the command line. `MIT` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/dutchcoders/transfer.sh",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/dutchcoders/transfer.sh"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:29:32.619Z",
+  "qualityScore": 55
+}

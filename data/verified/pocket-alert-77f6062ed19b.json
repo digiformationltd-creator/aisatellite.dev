@@ -1,0 +1,22 @@
+{
+  "id": "pocket-alert-77f6062ed19b",
+  "canonicalUrl": "https://pocketalert.app/",
+  "name": "Pocket Alert",
+  "description": "Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pocketalert.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pocketalert.app"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:23:39.197Z",
+  "qualityScore": 52
+}

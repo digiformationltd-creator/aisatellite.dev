@@ -1,0 +1,22 @@
+{
+  "id": "kogiqa-8d621faf10b5",
+  "canonicalUrl": "https://kogiqa.com/",
+  "name": "kogiQA",
+  "description": "A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://kogiqa.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://kogiqa.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:18:48.337Z",
+  "qualityScore": 52
+}

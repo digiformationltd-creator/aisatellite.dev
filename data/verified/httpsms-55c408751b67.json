@@ -1,0 +1,22 @@
+{
+  "id": "httpsms-55c408751b67",
+  "canonicalUrl": "https://httpsms.com/",
+  "name": "httpSMS",
+  "description": "Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://httpsms.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://httpsms.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:17:12.623Z",
+  "qualityScore": 52
+}

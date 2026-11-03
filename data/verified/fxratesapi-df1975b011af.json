@@ -1,0 +1,22 @@
+{
+  "id": "fxratesapi-df1975b011af",
+  "canonicalUrl": "https://fxratesapi.com/",
+  "name": "FxRatesAPI",
+  "description": "Provides real-time and historical exchange rates. The free tier requires attribution.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://fxratesapi.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://fxratesapi.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:15:44.269Z",
+  "qualityScore": 52
+}

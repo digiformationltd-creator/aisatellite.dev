@@ -1,0 +1,22 @@
+{
+  "id": "dwh-dev-c51f6d082ff0",
+  "canonicalUrl": "https://dwh.dev/",
+  "name": "Dwh.dev",
+  "description": "Data Cloud Observability Solution (Snowflake). Free for personal use.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dwh.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dwh.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:13:40.767Z",
+  "qualityScore": 52
+}

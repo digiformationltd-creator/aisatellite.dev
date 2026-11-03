@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aws.amazon.com/cloudfront/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.776Z",
-  "updatedAt": "2026-11-03T07:24:44.776Z"
+  "updatedAt": "2026-11-03T07:24:44.776Z",
+  "lastVerified": "2026-11-03T09:11:31.705Z",
+  "qualityScore": 52
 }

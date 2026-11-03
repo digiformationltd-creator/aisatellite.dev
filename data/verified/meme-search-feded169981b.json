@@ -1,0 +1,22 @@
+{
+  "id": "meme-search-feded169981b",
+  "canonicalUrl": "https://github.com/neonwatty/meme-search",
+  "name": "Meme Search",
+  "description": "AI-powered meme search engine. Automatically extracts descriptions from images using vision-language models, then indexes with vector embeddings for semantic and keyword search. ([Source Code](https://github.com/meme-search/meme-search)) `Apache-2.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/neonwatty/meme-search",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/neonwatty/meme-search"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:20:33.982Z",
+  "qualityScore": 55
+}

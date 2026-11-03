@@ -1,0 +1,22 @@
+{
+  "id": "commafeed-9bab7e6bf77f",
+  "canonicalUrl": "https://www.commafeed.com/",
+  "name": "CommaFeed",
+  "description": "Google Reader inspired RSS reader. ([Demo](https://www.commafeed.com/#/app/category/all), [Source Code](https://github.com/Athou/commafeed)) `Apache-2.0` `Java/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.commafeed.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.commafeed.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:11:50.584Z",
+  "qualityScore": 52
+}

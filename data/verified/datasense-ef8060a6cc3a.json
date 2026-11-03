@@ -1,0 +1,22 @@
+{
+  "id": "datasense-ef8060a6cc3a",
+  "canonicalUrl": "https://usedatasense.com/",
+  "name": "Datasense",
+  "description": "Web analytics with JavaScript error tracking, goals, and revenue attribution. Free plan: 1 site, 5,000 events per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://usedatasense.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://usedatasense.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:12:33.996Z",
+  "qualityScore": 52
+}

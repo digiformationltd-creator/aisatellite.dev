@@ -1,0 +1,22 @@
+{
+  "id": "canny-pigeons-8722af83b96e",
+  "canonicalUrl": "https://cannypigeons.com/",
+  "name": "Canny Pigeons",
+  "description": "DMARC monitoring platform with DNS drift alerts, IP threat intel and unlimited users. First domain is free - no credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cannypigeons.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cannypigeons.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:10:59.873Z",
+  "qualityScore": 52
+}

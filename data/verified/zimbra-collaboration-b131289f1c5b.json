@@ -1,0 +1,22 @@
+{
+  "id": "zimbra-collaboration-b131289f1c5b",
+  "canonicalUrl": "https://www.zimbra.com/",
+  "name": "Zimbra Collaboration",
+  "description": "Email, calendar, collaboration server with Web interface and lots of integrations. ([Source Code](https://github.com/zimbra)) `GPL-2.0/CPAL-1.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.zimbra.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.zimbra.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:31:44.282Z",
+  "qualityScore": 52
+}

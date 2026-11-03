@@ -1,0 +1,23 @@
+{
+  "id": "checklyhq-com-de5cbda1ff04",
+  "canonicalUrl": "https://checklyhq.com/",
+  "name": "checklyhq.com",
+  "description": "Open source E2E / Synthetic monitoring and deep API monitoring for developers. Free plan with one user and 10k API & network / 1.5k browser check runs.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://checklyhq.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://checklyhq.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:47.250Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:11:13.708Z",
+  "qualityScore": 52
+}

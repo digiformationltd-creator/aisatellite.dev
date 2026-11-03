@@ -1,0 +1,22 @@
+{
+  "id": "qualys-com-982063565aa5",
+  "canonicalUrl": "https://www.qualys.com/community-edition",
+  "name": "qualys.com",
+  "description": "Find web app vulnerabilities, audit for OWASP Risks",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.qualys.com/community-edition",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.qualys.com/community-edition"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:24:25.213Z",
+  "qualityScore": 52
+}

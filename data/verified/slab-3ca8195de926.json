@@ -1,0 +1,22 @@
+{
+  "id": "slab-3ca8195de926",
+  "canonicalUrl": "https://slab.com/",
+  "name": "Slab",
+  "description": "A modern knowledge management service for teams. Free for up to 10 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://slab.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://slab.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:27:07.105Z",
+  "qualityScore": 52
+}

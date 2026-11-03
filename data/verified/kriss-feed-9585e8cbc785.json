@@ -1,0 +1,22 @@
+{
+  "id": "kriss-feed-9585e8cbc785",
+  "canonicalUrl": "https://github.com/tontof/kriss_feed",
+  "name": "Kriss Feed",
+  "description": "Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/tontof/kriss_feed",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/tontof/kriss_feed"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:18:52.700Z",
+  "qualityScore": 55
+}

@@ -1,0 +1,22 @@
+{
+  "id": "datalore-da1ada0da2f2",
+  "canonicalUrl": "https://datalore.jetbrains.com/",
+  "name": "Datalore",
+  "description": "Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://datalore.jetbrains.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://datalore.jetbrains.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:12:32.471Z",
+  "qualityScore": 52
+}

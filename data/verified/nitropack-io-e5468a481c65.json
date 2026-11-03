@@ -1,0 +1,22 @@
+{
+  "id": "nitropack-io-e5468a481c65",
+  "canonicalUrl": "https://nitropack.io/",
+  "name": "nitropack.io",
+  "description": "Accelerate your site's speed on autopilot with complete front-end optimization (caching, images and code optimization, CDN). Free for up to 5,000 pageviews/month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://nitropack.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nitropack.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:21:41.146Z",
+  "qualityScore": 52
+}

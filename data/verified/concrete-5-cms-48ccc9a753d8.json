@@ -1,0 +1,22 @@
+{
+  "id": "concrete-5-cms-48ccc9a753d8",
+  "canonicalUrl": "https://www.concretecms.com/",
+  "name": "Concrete 5 CMS",
+  "description": "Open source content management system. ([Source Code](https://github.com/concretecms/concretecms)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.concretecms.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.concretecms.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:11:52.473Z",
+  "qualityScore": 52
+}

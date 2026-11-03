@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://nginx.org/en/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.428Z",
-  "updatedAt": "2026-11-03T07:24:45.428Z"
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:21:36.982Z",
+  "qualityScore": 52
 }

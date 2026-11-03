@@ -1,0 +1,22 @@
+{
+  "id": "seafile-com-40b137ccc8ff",
+  "canonicalUrl": "https://www.seafile.com/",
+  "name": "seafile.com",
+  "description": "Private or cloud storage, file sharing, sync, discussions. The cloud version has just 1 GB",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.seafile.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.seafile.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:26:04.152Z",
+  "qualityScore": 52
+}

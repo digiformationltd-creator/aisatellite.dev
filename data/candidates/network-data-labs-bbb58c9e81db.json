@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.networkdatalabs.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.781Z",
-  "updatedAt": "2026-11-03T07:24:44.781Z"
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:21:28.327Z",
+  "qualityScore": 52
 }

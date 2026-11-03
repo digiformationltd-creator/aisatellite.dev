@@ -1,0 +1,22 @@
+{
+  "id": "redmine-9660e99f56a2",
+  "canonicalUrl": "https://www.redmine.org/",
+  "name": "Redmine",
+  "description": "Flexible project management web application. ([Source Code](https://svn.redmine.org/redmine/)) `GPL-2.0` `Ruby`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.redmine.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.redmine.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:24:46.892Z",
+  "qualityScore": 52
+}

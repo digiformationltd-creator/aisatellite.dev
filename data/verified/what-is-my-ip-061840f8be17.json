@@ -1,0 +1,22 @@
+{
+  "id": "what-is-my-ip-061840f8be17",
+  "canonicalUrl": "https://whatismyip.help/",
+  "name": "What Is My IP",
+  "description": "A free service to check your public IPv4 and IPv6 address and related request data through an API with different output formats for automation, scripts, and network troubleshooting.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://whatismyip.help",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://whatismyip.help"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:30:57.566Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "logintc-com-acd2b357f973",
+  "canonicalUrl": "https://www.logintc.com/",
+  "name": "logintc.com",
+  "description": "Two-factor authentication (2FA) by push notifications, free for ten users, VPN, Websites, and SSH",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.logintc.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.logintc.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.789Z",
+  "updatedAt": "2026-11-03T07:24:44.789Z",
+  "lastVerified": "2026-11-03T09:19:40.347Z",
+  "qualityScore": 52
+}

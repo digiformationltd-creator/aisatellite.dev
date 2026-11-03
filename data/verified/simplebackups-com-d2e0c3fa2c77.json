@@ -1,0 +1,22 @@
+{
+  "id": "simplebackups-com-d2e0c3fa2c77",
+  "canonicalUrl": "https://simplebackups.com/",
+  "name": "SimpleBackups.com",
+  "description": "Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://simplebackups.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://simplebackups.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:26:49.360Z",
+  "qualityScore": 52
+}

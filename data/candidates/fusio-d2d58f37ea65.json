@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.fusio-project.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.427Z",
-  "updatedAt": "2026-11-03T07:24:45.427Z"
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:15:43.066Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,22 @@
+{
+  "id": "rss-bridge-4cd0d3c251bd",
+  "canonicalUrl": "https://github.com/RSS-Bridge/rss-bridge",
+  "name": "RSS-Bridge",
+  "description": "Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/RSS-Bridge/rss-bridge",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/RSS-Bridge/rss-bridge"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:25:22.496Z",
+  "qualityScore": 55
+}

@@ -1,0 +1,22 @@
+{
+  "id": "crosswork-529a5a7c8f3a",
+  "canonicalUrl": "https://crosswork.app/",
+  "name": "Crosswork",
+  "description": "Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://crosswork.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://crosswork.app/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:12:18.087Z",
+  "qualityScore": 52
+}

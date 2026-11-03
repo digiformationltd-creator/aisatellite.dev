@@ -1,0 +1,22 @@
+{
+  "id": "cors-tester-ec87847fb98f",
+  "canonicalUrl": "https://cors-error.dev/cors-tester",
+  "name": "CORS-Tester",
+  "description": "A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cors-error.dev/cors-tester/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cors-error.dev/cors-tester/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:12:09.134Z",
+  "qualityScore": 52
+}

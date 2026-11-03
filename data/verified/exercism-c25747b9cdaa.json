@@ -1,0 +1,22 @@
+{
+  "id": "exercism-c25747b9cdaa",
+  "canonicalUrl": "https://exercism.org/",
+  "name": "Exercism",
+  "description": "Free, open-source programming education in over 75 programming languages, with human mentoring. A nonprofit organisation.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://exercism.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://exercism.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:14:27.110Z",
+  "qualityScore": 52
+}

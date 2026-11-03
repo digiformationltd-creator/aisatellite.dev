@@ -1,0 +1,22 @@
+{
+  "id": "semanticdiff-com-5fe1f805c23e",
+  "canonicalUrl": "https://app.semanticdiff.com/",
+  "name": "semanticdiff.com",
+  "description": "Programming language aware diff for GitHub pull requests and commits, free for public repositories",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://app.semanticdiff.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://app.semanticdiff.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:26:12.677Z",
+  "qualityScore": 52
+}

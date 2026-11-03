@@ -1,0 +1,22 @@
+{
+  "id": "skypack-de3f96d7d134",
+  "canonicalUrl": "https://www.skypack.dev/",
+  "name": "Skypack",
+  "description": "The 100% Native ES Module JavaScript CDN. Free for 1 million requests per domain per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.skypack.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.skypack.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:27:06.732Z",
+  "qualityScore": 52
+}

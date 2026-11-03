@@ -1,0 +1,22 @@
+{
+  "id": "graphhopper-com-ea1d390f3fa7",
+  "canonicalUrl": "https://www.graphhopper.com/",
+  "name": "graphhopper.com",
+  "description": "A free developer package is offered for Routing, Route Optimization, Distance Matrix, Geocoding, and Map Matching.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.graphhopper.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.graphhopper.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:16:34.509Z",
+  "qualityScore": 52
+}

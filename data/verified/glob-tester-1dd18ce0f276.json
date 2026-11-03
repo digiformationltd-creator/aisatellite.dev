@@ -1,0 +1,22 @@
+{
+  "id": "glob-tester-1dd18ce0f276",
+  "canonicalUrl": "https://globster.xyz/",
+  "name": "Glob tester",
+  "description": "A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://globster.xyz/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://globster.xyz/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:16:16.021Z",
+  "qualityScore": 52
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://antville.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.418Z",
-  "updatedAt": "2026-11-03T07:24:45.418Z"
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:09:27.292Z",
+  "qualityScore": 52
 }

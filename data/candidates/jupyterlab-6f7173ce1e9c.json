@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://jupyterlab.readthedocs.io/en/stable/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.427Z",
-  "updatedAt": "2026-11-03T07:24:45.427Z"
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:18:30.155Z",
+  "qualityScore": 52
 }

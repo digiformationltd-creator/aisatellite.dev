@@ -1,0 +1,22 @@
+{
+  "id": "mirotalk-sfu-b8a953ebb4b1",
+  "canonicalUrl": "https://sfu.mirotalk.com/",
+  "name": "MiroTalk SFU",
+  "description": "Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms. ([Demo](https://sfu.mirotalk.com/newroom), [Source Code](https://github.com/miroslavpejic85/mirotalksfu)) `AGPL-3.0` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://sfu.mirotalk.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sfu.mirotalk.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:20:54.493Z",
+  "qualityScore": 52
+}

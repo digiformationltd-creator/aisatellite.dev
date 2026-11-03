@@ -1,0 +1,22 @@
+{
+  "id": "nasdisks-drive-data-api-301799fc25cc",
+  "canonicalUrl": "https://www.nasdisks.com/data",
+  "name": "NASdisks Drive Data API",
+  "description": "Free, no-key, CORS-enabled API for NAS HDD/SSD specifications, per-model CMR/SMR classification, and annualized failure rates derived from Backblaze Drive Stats. Returns JSON or CSV, CC BY 4.0, no signup.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.nasdisks.com/data/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.nasdisks.com/data/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:21:23.522Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "heptapod-net-42a014c2c262",
+  "canonicalUrl": "https://foss.heptapod.net/",
+  "name": "heptapod.net",
+  "description": "Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://foss.heptapod.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://foss.heptapod.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:16:52.014Z",
+  "qualityScore": 52
+}

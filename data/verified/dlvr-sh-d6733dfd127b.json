@@ -1,0 +1,22 @@
+{
+  "id": "dlvr-sh-d6733dfd127b",
+  "canonicalUrl": "https://dlvr.sh/",
+  "name": "dlvr.sh",
+  "description": "Temporary file delivery for agents and automation. Free tier includes 10 deliveries every 24 hours with API, MCP, and CLI access.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dlvr.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dlvr.sh/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:13:15.547Z",
+  "qualityScore": 52
+}

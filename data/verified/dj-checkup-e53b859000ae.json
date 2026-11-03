@@ -1,0 +1,22 @@
+{
+  "id": "dj-checkup-e53b859000ae",
+  "canonicalUrl": "https://djcheckup.com/",
+  "name": "DJ Checkup",
+  "description": "Scan your Django site for security flaws with this free, automated checkup tool. Forked from the Pony Checkup site.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://djcheckup.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://djcheckup.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:13:13.313Z",
+  "qualityScore": 52
+}

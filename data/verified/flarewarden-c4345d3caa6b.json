@@ -1,0 +1,22 @@
+{
+  "id": "flarewarden-c4345d3caa6b",
+  "canonicalUrl": "https://flarewarden.com/",
+  "name": "FlareWarden",
+  "description": "Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://flarewarden.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://flarewarden.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:14:51.113Z",
+  "qualityScore": 52
+}

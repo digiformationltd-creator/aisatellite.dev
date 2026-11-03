@@ -1,0 +1,22 @@
+{
+  "id": "zot-oci-registry-572239ea22e9",
+  "canonicalUrl": "https://zotregistry.dev/",
+  "name": "ZOT OCI Registry",
+  "description": "Production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://zotregistry.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zotregistry.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:31:49.667Z",
+  "qualityScore": 52
+}

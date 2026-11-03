@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/tarampampam/webhook-tester"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.427Z",
-  "updatedAt": "2026-11-03T07:24:45.427Z"
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:30:43.948Z",
+  "qualityScore": 55
 }

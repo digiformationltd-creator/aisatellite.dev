@@ -1,0 +1,22 @@
+{
+  "id": "analog-eb3c51052ae3",
+  "canonicalUrl": "https://github.com/orangecoloured/analog",
+  "name": "ANALOG",
+  "description": "Minimal analytics tool. Tracks events in a span of 10-30 days. `MIT` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/orangecoloured/analog",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/orangecoloured/analog"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:09:18.707Z",
+  "qualityScore": 55
+}

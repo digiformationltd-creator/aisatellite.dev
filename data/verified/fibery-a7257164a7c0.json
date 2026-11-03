@@ -1,0 +1,22 @@
+{
+  "id": "fibery-a7257164a7c0",
+  "canonicalUrl": "https://fibery.io/",
+  "name": "Fibery",
+  "description": "Connected workspace platform. Free for single users, up to 2 GB disk space.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://fibery.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://fibery.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:14:40.624Z",
+  "qualityScore": 52
+}

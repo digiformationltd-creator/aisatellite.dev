@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/smp46/pingvin-share-x"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.421Z",
-  "updatedAt": "2026-11-03T07:24:45.421Z"
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:23:26.661Z",
+  "qualityScore": 55
 }

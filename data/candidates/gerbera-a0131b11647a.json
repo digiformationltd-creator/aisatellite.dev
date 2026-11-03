@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gerbera.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.423Z",
-  "updatedAt": "2026-11-03T07:24:45.423Z"
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:15:59.157Z",
+  "qualityScore": 52
 }

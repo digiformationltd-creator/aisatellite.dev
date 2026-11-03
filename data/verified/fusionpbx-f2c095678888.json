@@ -1,0 +1,22 @@
+{
+  "id": "fusionpbx-f2c095678888",
+  "canonicalUrl": "https://www.fusionpbx.com/",
+  "name": "FusionPBX",
+  "description": "Web interface for multi-platform voice switch called FreeSWITCH. ([Source Code](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.fusionpbx.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.fusionpbx.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:15:43.844Z",
+  "qualityScore": 52
+}

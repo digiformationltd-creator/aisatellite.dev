@@ -1,0 +1,22 @@
+{
+  "id": "statuscake-com-d1b84f536d6a",
+  "canonicalUrl": "https://www.statuscake.com/",
+  "name": "statuscake.com",
+  "description": "Website monitoring, unlimited tests free with limitations",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.statuscake.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.statuscake.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:27:54.698Z",
+  "qualityScore": 52
+}

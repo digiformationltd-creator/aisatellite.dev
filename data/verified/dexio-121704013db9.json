@@ -1,0 +1,22 @@
+{
+  "id": "dexio-121704013db9",
+  "canonicalUrl": "https://dexio.wiki/",
+  "name": "Dexio",
+  "description": "Shared wiki that all your AI agents read and write, so each one starts with the same context and you can see what they know. Unlimited pages and agents, free for one user.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dexio.wiki",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dexio.wiki"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:12:54.498Z",
+  "qualityScore": 52
+}

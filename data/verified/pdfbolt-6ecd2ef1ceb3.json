@@ -1,0 +1,22 @@
+{
+  "id": "pdfbolt-6ecd2ef1ceb3",
+  "canonicalUrl": "https://pdfbolt.com/",
+  "name": "PDFBolt",
+  "description": "Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pdfbolt.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pdfbolt.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.781Z",
+  "updatedAt": "2026-11-03T07:24:44.781Z",
+  "lastVerified": "2026-11-03T09:23:08.251Z",
+  "qualityScore": 52
+}

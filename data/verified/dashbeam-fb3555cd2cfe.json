@@ -1,0 +1,22 @@
+{
+  "id": "dashbeam-fb3555cd2cfe",
+  "canonicalUrl": "https://dashbeam.net/",
+  "name": "DashBeam",
+  "description": "File transfer tool with peer-to-peer networking, letting you transfer any file with any size. ([Demo](https://app.dashbeam.net/), [Source Code](https://github.com/tonyantony300/dashbeam)) `AGPL-3.0` `deb/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://dashbeam.net",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dashbeam.net"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:12:30.039Z",
+  "qualityScore": 52
+}

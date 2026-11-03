@@ -1,0 +1,22 @@
+{
+  "id": "slcl-b45da161876f",
+  "canonicalUrl": "https://codeberg.org/xavidcr/slcl",
+  "name": "slcl",
+  "description": "Simple and lightweight web cloud storage. `AGPL-3.0` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://codeberg.org/xavidcr/slcl",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codeberg.org/xavidcr/slcl"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:27:08.515Z",
+  "qualityScore": 52
+}

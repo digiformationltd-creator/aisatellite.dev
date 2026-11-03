@@ -1,0 +1,22 @@
+{
+  "id": "readme-com-3da530510d50",
+  "canonicalUrl": "https://readme.com/",
+  "name": "readme.com",
+  "description": "Beautiful documentation made easy, free for Open Source.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://readme.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://readme.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:24:38.778Z",
+  "qualityScore": 52
+}

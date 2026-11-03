@@ -1,0 +1,22 @@
+{
+  "id": "cliq-fb368c1df34a",
+  "canonicalUrl": "https://zoho.com/cliq",
+  "name": "Cliq",
+  "description": "Team chat software with 100 GB storage, unlimited users, 100 users per channel & SSO.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zoho.com/cliq",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zoho.com/cliq"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:11:27.879Z",
+  "qualityScore": 52
+}

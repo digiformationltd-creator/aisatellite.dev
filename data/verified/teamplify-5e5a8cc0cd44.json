@@ -1,0 +1,22 @@
+{
+  "id": "teamplify-5e5a8cc0cd44",
+  "canonicalUrl": "https://teamplify.com/",
+  "name": "Teamplify",
+  "description": "improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small groups of up to 5 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://teamplify.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://teamplify.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.784Z",
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:28:46.676Z",
+  "qualityScore": 52
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://superfeedr.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.800Z",
-  "updatedAt": "2026-11-03T07:24:44.800Z"
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:28:16.524Z",
+  "qualityScore": 52
 }

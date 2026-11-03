@@ -1,0 +1,22 @@
+{
+  "id": "yarr-7508688ab7bb",
+  "canonicalUrl": "https://github.com/nkanaev/yarr",
+  "name": "Yarr",
+  "description": "Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and as a personal server. `MIT` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/nkanaev/yarr",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/nkanaev/yarr"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:31:21.925Z",
+  "qualityScore": 55
+}

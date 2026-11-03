@@ -1,0 +1,22 @@
+{
+  "id": "onlinegdb-95ccc9863c9c",
+  "canonicalUrl": "https://onlinegdb.com/",
+  "name": "OnlineGDB",
+  "description": "A free online ide thats supports 40+ languages and is pre installed with tons of libraries; and also has a debugging option, flags, tutorials, and a QNA page!",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://onlinegdb.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://onlinegdb.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:22:07.022Z",
+  "qualityScore": 52
+}

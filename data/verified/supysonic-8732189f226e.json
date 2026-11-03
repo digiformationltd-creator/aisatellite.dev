@@ -1,0 +1,22 @@
+{
+  "id": "supysonic-8732189f226e",
+  "canonicalUrl": "https://github.com/spl0k/supysonic",
+  "name": "Supysonic",
+  "description": "Python implementation of the Subsonic server API. `AGPL-3.0` `Python/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/spl0k/supysonic",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/spl0k/supysonic"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:28:19.112Z",
+  "qualityScore": 55
+}

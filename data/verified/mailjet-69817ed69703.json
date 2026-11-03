@@ -1,0 +1,22 @@
+{
+  "id": "mailjet-69817ed69703",
+  "canonicalUrl": "https://www.mailjet.com/",
+  "name": "Mailjet",
+  "description": "6,000 emails/month free (200 emails daily sending limit)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.mailjet.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.mailjet.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:20:01.201Z",
+  "qualityScore": 52
+}

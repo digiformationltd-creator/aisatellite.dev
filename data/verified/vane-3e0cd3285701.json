@@ -1,0 +1,22 @@
+{
+  "id": "vane-3e0cd3285701",
+  "canonicalUrl": "https://github.com/ItzCrazyKns/Vane",
+  "name": "Vane",
+  "description": "AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/ItzCrazyKns/Vane",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/ItzCrazyKns/Vane"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:30:08.015Z",
+  "qualityScore": 55
+}

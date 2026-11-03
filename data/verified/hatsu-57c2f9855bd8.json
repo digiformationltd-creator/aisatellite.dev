@@ -1,0 +1,22 @@
+{
+  "id": "hatsu-57c2f9855bd8",
+  "canonicalUrl": "https://hatsu.cli.rs/",
+  "name": "Hatsu",
+  "description": "Bridge that interacts with Fediverse on behalf of your static site. ([Source Code](https://github.com/importantimport/hatsu)) `AGPL-3.0` `Docker/Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://hatsu.cli.rs/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hatsu.cli.rs/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:16:46.390Z",
+  "qualityScore": 52
+}

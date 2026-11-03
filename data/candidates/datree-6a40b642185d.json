@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://www.datree.io/"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-03T07:24:44.787Z",
-  "updatedAt": "2026-11-03T07:24:44.787Z"
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

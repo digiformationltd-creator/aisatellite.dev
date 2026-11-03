@@ -1,0 +1,38 @@
+{
+  "id": "secureconfig-56e0b238d172",
+  "canonicalUrl": "https://github.com/jposluns/secureconfig",
+  "name": "secureconfig",
+  "description": "Security, TLS, authentication, and other hardening setup guides written for AI development assistants: free and self-signed certificates, Cloudflare Zero Trust, and hardening steps for common servers, frameworks, and databases.",
+  "category": "ai-coding",
+  "tags": [
+    "ai",
+    "ai-coding",
+    "cloudflare-tunnel",
+    "mfa",
+    "secure-coding",
+    "security-hardening",
+    "ssl",
+    "ssl-certificates",
+    "ssl-tls",
+    "tls",
+    "zero-trust"
+  ],
+  "repositoryUrl": "https://github.com/jposluns/secureconfig",
+  "officialUrl": "https://secureconfig.ai",
+  "documentationUrl": "https://secureconfig.ai",
+  "licenseSpdx": "CC0-1.0",
+  "licenseEvidenceUrl": "https://github.com/jposluns/secureconfig/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T07:00:19Z",
+  "evidenceUrls": [
+    "https://github.com/jposluns/secureconfig"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:47.248Z",
+  "updatedAt": "2026-11-03T07:24:47.248Z",
+  "lastVerified": "2026-11-03T09:26:09.271Z",
+  "qualityScore": 89
+}

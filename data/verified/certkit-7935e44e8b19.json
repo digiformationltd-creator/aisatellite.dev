@@ -1,0 +1,22 @@
+{
+  "id": "certkit-7935e44e8b19",
+  "canonicalUrl": "https://www.certkit.io/certificate-management",
+  "name": "CertKit",
+  "description": "Manage SSL Certificate issuance, renewal, and monitoring. Search the Certificate Transparency Logs. Free for 3 certificates and 1 user after the beta.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.certkit.io/certificate-management",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.certkit.io/certificate-management"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:11:06.142Z",
+  "qualityScore": 52
+}

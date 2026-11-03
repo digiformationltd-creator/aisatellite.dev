@@ -1,0 +1,22 @@
+{
+  "id": "urlpipe-4e5d19b08a15",
+  "canonicalUrl": "https://urlpipe.dev/",
+  "name": "URLpipe",
+  "description": "Read any page after its JavaScript runs: Markdown, screenshots, metadata, console errors and Lighthouse audits. Free 1000 credits per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://urlpipe.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://urlpipe.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:30:01.609Z",
+  "qualityScore": 52
+}

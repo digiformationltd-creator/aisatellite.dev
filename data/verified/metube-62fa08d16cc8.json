@@ -1,0 +1,22 @@
+{
+  "id": "metube-62fa08d16cc8",
+  "canonicalUrl": "https://github.com/alexta69/metube",
+  "name": "MeTube",
+  "description": "Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/alexta69/metube",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/alexta69/metube"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:20:39.621Z",
+  "qualityScore": 55
+}

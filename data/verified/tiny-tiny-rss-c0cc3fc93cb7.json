@@ -1,0 +1,22 @@
+{
+  "id": "tiny-tiny-rss-c0cc3fc93cb7",
+  "canonicalUrl": "https://tt-rss.org/",
+  "name": "Tiny Tiny RSS",
+  "description": "Web-based news feed (RSS/Atom) reader and aggregator. ([Source Code](https://github.com/tt-rss/tt-rss)) `GPL-3.0` `Docker/PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://tt-rss.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tt-rss.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:29:14.366Z",
+  "qualityScore": 52
+}

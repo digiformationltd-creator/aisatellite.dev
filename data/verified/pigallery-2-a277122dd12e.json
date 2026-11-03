@@ -1,0 +1,22 @@
+{
+  "id": "pigallery-2-a277122dd12e",
+  "canonicalUrl": "https://bpatrik.github.io/pigallery2",
+  "name": "PiGallery 2",
+  "description": "Directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://bpatrik.github.io/pigallery2/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bpatrik.github.io/pigallery2/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:23:20.859Z",
+  "qualityScore": 52
+}

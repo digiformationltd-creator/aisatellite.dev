@@ -1,0 +1,22 @@
+{
+  "id": "eventschedule-71db04993ddf",
+  "canonicalUrl": "https://eventschedule.com/",
+  "name": "EventSchedule",
+  "description": "Share events, sell tickets, and bring communities together. ([Source Code](https://github.com/eventschedule/eventschedule)) `AAL` `PHP/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://eventschedule.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://eventschedule.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:14:21.132Z",
+  "qualityScore": 52
+}

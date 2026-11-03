@@ -1,0 +1,22 @@
+{
+  "id": "gerrit-1bbd1f62a233",
+  "canonicalUrl": "https://www.gerritcodereview.com/",
+  "name": "Gerrit",
+  "description": "Code review and project management tool for Git-based projects. ([Source Code](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.gerritcodereview.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.gerritcodereview.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:15:59.370Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "jetbrains-com-4d7bd1a3f3e6",
+  "canonicalUrl": "https://jetbrains.com/products.html",
+  "name": "jetbrains.com",
+  "description": "Productivity tools, IDEs and deploy tools (aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/), etc). Free license for students, teachers, Open Source and user groups.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://jetbrains.com/products.html",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://jetbrains.com/products.html"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:18:18.969Z",
+  "qualityScore": 52
+}

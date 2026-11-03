@@ -1,0 +1,22 @@
+{
+  "id": "repohistory-feefed157fb1",
+  "canonicalUrl": "https://repohistory.com/",
+  "name": "Repohistory",
+  "description": "Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://repohistory.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://repohistory.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.798Z",
+  "updatedAt": "2026-11-03T07:24:44.798Z",
+  "lastVerified": "2026-11-03T09:24:58.661Z",
+  "qualityScore": 52
+}

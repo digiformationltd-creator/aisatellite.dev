@@ -1,0 +1,22 @@
+{
+  "id": "raw-githack-com-c889c22185df",
+  "canonicalUrl": "https://raw.githack.com/",
+  "name": "raw.githack.com",
+  "description": "A modern replacement of **rawgit.com** which simply hosts file using Cloudflare",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://raw.githack.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://raw.githack.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:24:34.652Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "weblate-4b09a905a2fb",
+  "canonicalUrl": "https://weblate.org/",
+  "name": "Weblate",
+  "description": "Web-based translation tool with tight version control integration. ([Source Code](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python/Docker/K8S`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://weblate.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://weblate.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:30:45.784Z",
+  "qualityScore": 52
+}

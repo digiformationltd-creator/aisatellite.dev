@@ -1,0 +1,22 @@
+{
+  "id": "paste-sh-26d832d3f319",
+  "canonicalUrl": "https://paste.sh/",
+  "name": "paste.sh",
+  "description": "This is a JavaScript and the Crypto based simple paste site.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://paste.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://paste.sh/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.783Z",
+  "updatedAt": "2026-11-03T07:24:44.783Z",
+  "lastVerified": "2026-11-03T09:23:06.352Z",
+  "qualityScore": 52
+}

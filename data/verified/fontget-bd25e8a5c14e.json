@@ -1,0 +1,22 @@
+{
+  "id": "fontget-bd25e8a5c14e",
+  "canonicalUrl": "https://www.fontget.com/",
+  "name": "FontGet",
+  "description": "Has a variety of fonts available to download and sorted neatly with tags.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.fontget.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.fontget.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.793Z",
+  "updatedAt": "2026-11-03T07:24:44.793Z",
+  "lastVerified": "2026-11-03T09:15:04.644Z",
+  "qualityScore": 52
+}

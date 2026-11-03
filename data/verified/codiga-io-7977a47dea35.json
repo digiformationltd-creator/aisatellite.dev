@@ -1,0 +1,22 @@
+{
+  "id": "codiga-io-7977a47dea35",
+  "canonicalUrl": "https://codiga.io/",
+  "name": "codiga.io",
+  "description": "Coding Assistant that lets you search, define, and reuse code snippets directly in your IDE. Free for individual and small organizations.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://codiga.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codiga.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:11:45.763Z",
+  "qualityScore": 52
+}

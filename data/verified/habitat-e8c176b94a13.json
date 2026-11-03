@@ -1,0 +1,22 @@
+{
+  "id": "habitat-e8c176b94a13",
+  "canonicalUrl": "https://gethabitat.org/",
+  "name": "Habitat",
+  "description": "Platform for Local Communities. ([Source Code](https://github.com/carlnewton/habitat)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gethabitat.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gethabitat.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:16:39.579Z",
+  "qualityScore": 52
+}

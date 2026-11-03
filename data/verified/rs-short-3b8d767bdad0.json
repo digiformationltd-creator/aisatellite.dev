@@ -1,0 +1,22 @@
+{
+  "id": "rs-short-3b8d767bdad0",
+  "canonicalUrl": "https://git.42l.fr/42l/rs-short",
+  "name": "rs-short",
+  "description": "Lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ([Demo](https://s.42l.fr/)) `MPL-2.0` `Rust`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://git.42l.fr/42l/rs-short",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://git.42l.fr/42l/rs-short"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:25:21.783Z",
+  "qualityScore": 52
+}

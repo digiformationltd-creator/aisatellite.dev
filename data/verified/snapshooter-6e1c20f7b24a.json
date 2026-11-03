@@ -1,0 +1,22 @@
+{
+  "id": "snapshooter-6e1c20f7b24a",
+  "canonicalUrl": "https://snapshooter.com/",
+  "name": "SnapShooter",
+  "description": "Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://snapshooter.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://snapshooter.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.800Z",
+  "updatedAt": "2026-11-03T07:24:44.800Z",
+  "lastVerified": "2026-11-03T09:27:22.593Z",
+  "qualityScore": 52
+}

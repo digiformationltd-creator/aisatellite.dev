@@ -1,0 +1,22 @@
+{
+  "id": "pinggy-03b811dfbeda",
+  "canonicalUrl": "https://pinggy.io/",
+  "name": "Pinggy",
+  "description": "Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pinggy.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pinggy.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:23:25.201Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "firefox-account-server-3a940ab6dc39",
+  "canonicalUrl": "https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html",
+  "name": "Firefox Account Server",
+  "description": "Host your own Firefox accounts server. ([Source Code](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:14:47.477Z",
+  "qualityScore": 52
+}

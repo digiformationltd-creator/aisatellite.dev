@@ -1,0 +1,22 @@
+{
+  "id": "chiyogami-7aaac8658416",
+  "canonicalUrl": "https://github.com/rhee876527/chiyogami",
+  "name": "Chiyogami",
+  "description": "Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. ([Demo](https://chiyogami.myaddr.dev/)) `BSD-3-Clause` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/rhee876527/chiyogami",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/rhee876527/chiyogami"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.425Z",
+  "updatedAt": "2026-11-03T07:24:45.425Z",
+  "lastVerified": "2026-11-03T09:11:16.529Z",
+  "qualityScore": 55
+}

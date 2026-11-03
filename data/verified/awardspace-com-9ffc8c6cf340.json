@@ -1,0 +1,22 @@
+{
+  "id": "awardspace-com-9ffc8c6cf340",
+  "canonicalUrl": "https://www.awardspace.com/",
+  "name": "Awardspace.com",
+  "description": "Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.awardspace.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.awardspace.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:09:56.751Z",
+  "qualityScore": 52
+}

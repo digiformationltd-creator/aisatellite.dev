@@ -1,0 +1,22 @@
+{
+  "id": "omeka-s-f28e1e8439c7",
+  "canonicalUrl": "https://omeka.org/s",
+  "name": "Omeka S",
+  "description": "Next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online. ([Source Code](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://omeka.org/s/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://omeka.org/s/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:22:04.756Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "inkheart-1e628001de35",
+  "canonicalUrl": "https://gitlab.com/Nystik/inkheart",
+  "name": "Inkheart",
+  "description": "Lightweight PDF library and reader. `Apache-2.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://gitlab.com/Nystik/inkheart",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gitlab.com/Nystik/inkheart"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:17:43.663Z",
+  "qualityScore": 52
+}

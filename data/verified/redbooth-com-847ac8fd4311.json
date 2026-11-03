@@ -1,0 +1,22 @@
+{
+  "id": "redbooth-com-847ac8fd4311",
+  "canonicalUrl": "https://redbooth.com/",
+  "name": "redbooth.com",
+  "description": "P2P file syncing, free for up to 2 users",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://redbooth.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://redbooth.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:24:43.346Z",
+  "qualityScore": 52
+}

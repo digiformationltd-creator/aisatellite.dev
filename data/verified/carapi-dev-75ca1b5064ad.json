@@ -1,0 +1,22 @@
+{
+  "id": "carapi-dev-75ca1b5064ad",
+  "canonicalUrl": "https://carapi.dev/",
+  "name": "CarAPI.dev",
+  "description": "Comprehensive automotive data API with VIN decoding, stolen vehicle checks, vehicle valuation, inspection data, and more. Free tier includes 100 requests/month across all 9 endpoints.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://carapi.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://carapi.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:11:01.134Z",
+  "qualityScore": 52
+}

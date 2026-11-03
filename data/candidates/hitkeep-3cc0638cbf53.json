@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://hitkeep.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.418Z",
   "updatedAt": "2026-11-03T07:24:47.251Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:16:58.087Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,22 @@
+{
+  "id": "015-f3e54b549d12",
+  "canonicalUrl": "https://send.fudaoyuan.icu/",
+  "name": "015",
+  "description": "Temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services. ([Source Code](https://github.com/keven1024/015)) `AGPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://send.fudaoyuan.icu",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://send.fudaoyuan.icu"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:08:37.244Z",
+  "qualityScore": 52
+}

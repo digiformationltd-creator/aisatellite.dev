@@ -1,0 +1,22 @@
+{
+  "id": "grafana-cloud-b113dbeaa352",
+  "canonicalUrl": "https://grafana.com/products/cloud",
+  "name": "Grafana Cloud",
+  "description": "Grafana Cloud is a composable observability platform that integrates metrics and logs with Grafana. Free: 3 users, ten dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://grafana.com/products/cloud/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://grafana.com/products/cloud/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:16:30.954Z",
+  "qualityScore": 52
+}

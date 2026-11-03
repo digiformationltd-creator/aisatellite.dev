@@ -1,0 +1,31 @@
+{
+  "id": "qoralis-engine-ed6b2977c71f",
+  "canonicalUrl": "https://github.com/anku0669/qoralis-engine",
+  "name": "qoralis-engine",
+  "description": "Qoralis Engine: hardware-aware local inference for large open models",
+  "category": "local-llm",
+  "tags": [
+    "hardware-aware",
+    "llm-inference",
+    "local-ai",
+    "open-source"
+  ],
+  "repositoryUrl": "https://github.com/anku0669/qoralis-engine",
+  "officialUrl": "https://qoralis-engine.netlify.app/",
+  "documentationUrl": "https://qoralis-engine.netlify.app/",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/anku0669/qoralis-engine/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T07:23:55Z",
+  "evidenceUrls": [
+    "https://github.com/anku0669/qoralis-engine"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:46.664Z",
+  "updatedAt": "2026-11-03T07:24:46.664Z",
+  "lastVerified": "2026-11-03T09:24:23.175Z",
+  "qualityScore": 89
+}

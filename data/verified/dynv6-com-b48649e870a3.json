@@ -1,0 +1,22 @@
+{
+  "id": "dynv6-com-b48649e870a3",
+  "canonicalUrl": "https://dynv6.com/",
+  "name": "Dynv6.com",
+  "description": "Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dynv6.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dynv6.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:13:42.902Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nextgis-web-8fbfc7091e90",
+  "canonicalUrl": "https://nextgis.com/nextgis-web",
+  "name": "NextGIS Web",
+  "description": "Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows. ([Demo](https://sandbox.nextgis.com), [Source Code](https://github.com/nextgis/nextgisweb)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nextgis.com/nextgis-web/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nextgis.com/nextgis-web/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:21:36.580Z",
+  "qualityScore": 52
+}

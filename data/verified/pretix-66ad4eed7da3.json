@@ -1,0 +1,22 @@
+{
+  "id": "pretix-66ad4eed7da3",
+  "canonicalUrl": "https://pretix.eu/",
+  "name": "Pretix",
+  "description": "Ticket sales platform for events. ([Source Code](https://github.com/pretix/pretix)) `AGPL-3.0` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://pretix.eu/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pretix.eu/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:23:56.625Z",
+  "qualityScore": 52
+}

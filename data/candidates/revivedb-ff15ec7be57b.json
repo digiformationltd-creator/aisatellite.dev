@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://revivedb.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.795Z",
-  "updatedAt": "2026-11-03T07:24:44.795Z"
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:25:09.296Z",
+  "qualityScore": 52
 }

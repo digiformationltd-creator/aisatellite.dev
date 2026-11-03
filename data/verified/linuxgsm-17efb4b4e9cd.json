@@ -1,0 +1,22 @@
+{
+  "id": "linuxgsm-17efb4b4e9cd",
+  "canonicalUrl": "https://linuxgsm.com/",
+  "name": "LinuxGSM",
+  "description": "CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://linuxgsm.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://linuxgsm.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:19:21.904Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "outsystems-com-0c0735617c2b",
+  "canonicalUrl": "https://www.outsystems.com/",
+  "name": "outsystems.com",
+  "description": "Enterprise web development PaaS for on-premise or cloud, free \"personal environment\" offering allows for unlimited code and up to 1 GB database",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.outsystems.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.outsystems.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:22:48.277Z",
+  "qualityScore": 52
+}

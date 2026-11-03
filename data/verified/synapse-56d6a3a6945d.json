@@ -1,0 +1,22 @@
+{
+  "id": "synapse-56d6a3a6945d",
+  "canonicalUrl": "https://element-hq.github.io/synapse/latest/index.html",
+  "name": "Synapse",
+  "description": "Server for Matrix, an open standard for decentralized persistent communication. ([Source Code](https://github.com/element-hq/synapse)) `Apache-2.0` `Python/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://element-hq.github.io/synapse/latest/index.html",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://element-hq.github.io/synapse/latest/index.html"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:28:33.056Z",
+  "qualityScore": 52
+}

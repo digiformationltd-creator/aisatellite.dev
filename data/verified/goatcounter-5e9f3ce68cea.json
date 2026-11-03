@@ -1,0 +1,25 @@
+{
+  "id": "goatcounter-5e9f3ce68cea",
+  "canonicalUrl": "https://www.goatcounter.com/",
+  "name": "GoatCounter",
+  "description": "Easy web statistics without tracking of personal data. ([Source Code](https://github.com/arp242/goatcounter)) `EUPL-1.2` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.goatcounter.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.goatcounter.com/",
+    "https://www.goatcounter.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:47.251Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-03T09:16:21.152Z",
+  "qualityScore": 57
+}

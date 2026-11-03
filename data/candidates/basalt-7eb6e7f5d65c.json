@@ -32,7 +32,9 @@
   "evidenceUrls": [
     "https://github.com/goodmai/basalt"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:46.665Z",
-  "updatedAt": "2026-11-03T07:24:46.665Z"
+  "updatedAt": "2026-11-03T07:24:46.665Z",
+  "lastVerified": "2026-11-03T09:10:08.798Z",
+  "qualityScore": 78
 }

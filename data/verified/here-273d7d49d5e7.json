@@ -1,0 +1,22 @@
+{
+  "id": "here-273d7d49d5e7",
+  "canonicalUrl": "https://developer.here.com/",
+  "name": "here",
+  "description": "APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://developer.here.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://developer.here.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:16:52.353Z",
+  "qualityScore": 52
+}

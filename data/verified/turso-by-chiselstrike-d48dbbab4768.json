@@ -1,0 +1,22 @@
+{
+  "id": "turso-by-chiselstrike-d48dbbab4768",
+  "canonicalUrl": "https://turso.tech/",
+  "name": "Turso by ChiselStrike",
+  "description": "Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://turso.tech/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://turso.tech/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:29:44.127Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dnsexit-15d846a4fc2d",
+  "canonicalUrl": "https://dnsexit.com/",
+  "name": "DNSExit",
+  "description": "Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://dnsexit.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://dnsexit.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:13:16.553Z",
+  "qualityScore": 52
+}

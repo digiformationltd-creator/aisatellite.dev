@@ -1,0 +1,22 @@
+{
+  "id": "buildkite-ebb2fa61f8d4",
+  "canonicalUrl": "https://buildkite.com/",
+  "name": "Buildkite",
+  "description": "CI Pipelines free for 3 users and 5k job minutes/month. Test Analytics free",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://buildkite.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://buildkite.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:10:44.069Z",
+  "qualityScore": 52
+}

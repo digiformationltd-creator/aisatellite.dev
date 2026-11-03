@@ -1,0 +1,22 @@
+{
+  "id": "codeac-io-b314ab86a2a1",
+  "canonicalUrl": "https://www.codeac.io/infrastructure-as-code.html",
+  "name": "Codeac.io",
+  "description": "Automated Infrastructure as Code review tool for DevOps integrates with GitHub, Bitbucket, and GitLab (even self-hosted). In addition to standard languages, it also analyzes Ansible, Terraform, CloudFormation, Kubernetes, and more. (open-source free)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.785Z",
+  "updatedAt": "2026-11-03T07:24:44.785Z",
+  "lastVerified": "2026-11-03T09:11:40.664Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "antideo-8a6bd15164b4",
+  "canonicalUrl": "https://www.antideo.com/",
+  "name": "Antideo",
+  "description": "10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.antideo.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.antideo.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:09:26.570Z",
+  "qualityScore": 52
+}

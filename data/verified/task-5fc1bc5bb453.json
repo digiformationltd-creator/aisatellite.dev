@@ -1,0 +1,22 @@
+{
+  "id": "task-5fc1bc5bb453",
+  "canonicalUrl": "https://github.com/ovh/utask",
+  "name": "µTask",
+  "description": "Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/ovh/utask",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/ovh/utask"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:28:41.255Z",
+  "qualityScore": 55
+}

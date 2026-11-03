@@ -1,0 +1,22 @@
+{
+  "id": "christmas-community-be2c513c2ce7",
+  "canonicalUrl": "https://github.com/Wingysam/Christmas-Community",
+  "name": "Christmas Community",
+  "description": "Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/Wingysam/Christmas-Community",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/Wingysam/Christmas-Community"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:11:18.227Z",
+  "qualityScore": 55
+}

@@ -1,0 +1,22 @@
+{
+  "id": "grr-8a3f85a2ec3b",
+  "canonicalUrl": "https://grr.devome.com/",
+  "name": "GRR",
+  "description": "Assets management and booking for small/medium companies. ([Source Code](https://github.com/JeromeDevome/GRR)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://grr.devome.com/?lang=en",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://grr.devome.com/?lang=en"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:16:38.748Z",
+  "qualityScore": 52
+}

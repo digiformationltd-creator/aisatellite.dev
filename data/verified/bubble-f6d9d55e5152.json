@@ -1,0 +1,22 @@
+{
+  "id": "bubble-f6d9d55e5152",
+  "canonicalUrl": "https://bubble.io/",
+  "name": "Bubble",
+  "description": "Visual programming to build web and mobile apps without code, free with Bubble branding.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://bubble.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bubble.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:10:39.312Z",
+  "qualityScore": 52
+}

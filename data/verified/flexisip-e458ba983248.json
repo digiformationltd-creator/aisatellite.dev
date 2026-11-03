@@ -1,0 +1,22 @@
+{
+  "id": "flexisip-e458ba983248",
+  "canonicalUrl": "https://www.linphone.org/en/flexisip-sip-server",
+  "name": "Flexisip",
+  "description": "Complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.linphone.org/en/flexisip-sip-server/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.linphone.org/en/flexisip-sip-server/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:14:55.991Z",
+  "qualityScore": 52
+}

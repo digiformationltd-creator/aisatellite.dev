@@ -1,0 +1,22 @@
+{
+  "id": "zenphoto-e99f29ef1d37",
+  "canonicalUrl": "https://www.zenphoto.org/",
+  "name": "Zenphoto",
+  "description": "Gallery and CMS project. ([Source Code](https://github.com/zenphoto/zenphoto)) `GPL-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.zenphoto.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.zenphoto.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.426Z",
+  "updatedAt": "2026-11-03T07:24:45.426Z",
+  "lastVerified": "2026-11-03T09:31:38.027Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "live-helper-chat-a7b75b91ede3",
+  "canonicalUrl": "https://livehelperchat.com/",
+  "name": "Live Helper Chat",
+  "description": "Live Support chat for your website. ([Source Code](https://github.com/LiveHelperChat/livehelperchat)) `Apache-2.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://livehelperchat.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://livehelperchat.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:19:24.373Z",
+  "qualityScore": 52
+}

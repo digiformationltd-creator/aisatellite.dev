@@ -1,0 +1,32 @@
+{
+  "id": "aitoolplus-6da77c0f4f3d",
+  "canonicalUrl": "https://github.com/821869798/aitoolplus",
+  "name": "aitoolplus",
+  "description": "A high-performance native AI coding assistant configuration workbench built with Rust and GPUI. Supports Claude Code, Codex, Antigravity, Gemini, Grok, Pi, and more.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-assistant",
+    "ai-coding",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "desktop",
+    "gpui",
+    "rust",
+    "workbench"
+  ],
+  "repositoryUrl": "https://github.com/821869798/aitoolplus",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 4,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T03:16:17Z",
+  "evidenceUrls": [
+    "https://github.com/821869798/aitoolplus"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:47.248Z",
+  "updatedAt": "2026-11-03T07:24:47.248Z",
+  "lastVerified": "2026-11-03T09:09:06.224Z",
+  "qualityScore": 64
+}

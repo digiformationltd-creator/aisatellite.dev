@@ -1,0 +1,22 @@
+{
+  "id": "cloudmersive-9fd8fbdc44c0",
+  "canonicalUrl": "https://cloudmersive.com/",
+  "name": "Cloudmersive",
+  "description": "Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 600 calls/month, North America AZ only, 2.5MB maximum file size.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloudmersive.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloudmersive.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.779Z",
+  "updatedAt": "2026-11-03T07:24:44.779Z",
+  "lastVerified": "2026-11-03T09:11:33.275Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ipapi-is-9f974508348b",
+  "canonicalUrl": "https://ipapi.is/",
+  "name": "ipapi.is",
+  "description": "A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ipapi.is/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ipapi.is/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.780Z",
+  "updatedAt": "2026-11-03T07:24:44.780Z",
+  "lastVerified": "2026-11-03T09:18:04.844Z",
+  "qualityScore": 52
+}

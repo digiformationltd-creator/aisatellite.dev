@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.taiga.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:45.427Z",
-  "updatedAt": "2026-11-03T07:24:45.427Z"
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:28:38.246Z",
+  "qualityScore": 52
 }

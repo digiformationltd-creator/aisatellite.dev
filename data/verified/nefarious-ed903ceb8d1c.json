@@ -1,0 +1,22 @@
+{
+  "id": "nefarious-ed903ceb8d1c",
+  "canonicalUrl": "https://lardbit.github.io/nefarious",
+  "name": "nefarious",
+  "description": "Automate downloading Movies and TV Shows. ([Source Code](https://github.com/lardbit/nefarious)) `GPL-3.0` `Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://lardbit.github.io/nefarious/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://lardbit.github.io/nefarious/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:21:24.103Z",
+  "qualityScore": 52
+}

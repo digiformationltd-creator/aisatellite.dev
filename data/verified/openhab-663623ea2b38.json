@@ -1,0 +1,22 @@
+{
+  "id": "openhab-663623ea2b38",
+  "canonicalUrl": "https://www.openhab.org/",
+  "name": "openHAB",
+  "description": "Vendor and technology agnostic software for home automation. ([Source Code](https://github.com/openhab/openhab-core)) `EPL-2.0` `Java`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.openhab.org",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.openhab.org"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:22:22.925Z",
+  "qualityScore": 52
+}

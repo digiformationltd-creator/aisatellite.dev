@@ -1,0 +1,22 @@
+{
+  "id": "sendmail-be59e8ea4a45",
+  "canonicalUrl": "https://www.proofpoint.com/us/products/email-protection/open-source-email-solution",
+  "name": "Sendmail",
+  "description": "Message transfer agent (MTA). `Sendmail` `C/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.proofpoint.com/us/products/email-protection/open-source-email-solution",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.proofpoint.com/us/products/email-protection/open-source-email-solution"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.419Z",
+  "updatedAt": "2026-11-03T07:24:45.419Z",
+  "lastVerified": "2026-11-03T09:26:15.043Z",
+  "qualityScore": 52
+}

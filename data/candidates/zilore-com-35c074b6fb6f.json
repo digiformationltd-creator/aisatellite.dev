@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zilore.com/en/dns"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.795Z",
-  "updatedAt": "2026-11-03T07:24:44.795Z"
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:31:43.360Z",
+  "qualityScore": 52
 }

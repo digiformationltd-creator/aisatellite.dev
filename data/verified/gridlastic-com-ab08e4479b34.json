@@ -1,0 +1,22 @@
+{
+  "id": "gridlastic-com-ab08e4479b34",
+  "canonicalUrl": "https://www.gridlastic.com/",
+  "name": "gridlastic.com",
+  "description": "Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.gridlastic.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.gridlastic.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.786Z",
+  "updatedAt": "2026-11-03T07:24:44.786Z",
+  "lastVerified": "2026-11-03T09:16:35.343Z",
+  "qualityScore": 52
+}

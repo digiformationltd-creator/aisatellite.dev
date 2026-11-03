@@ -1,0 +1,22 @@
+{
+  "id": "cockpit-42429edc5f08",
+  "canonicalUrl": "https://getcockpit.com/",
+  "name": "Cockpit",
+  "description": "Simple content platform to manage any structured content. ([Source Code](https://github.com/Cockpit-HQ/Cockpit)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://getcockpit.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://getcockpit.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:11:37.694Z",
+  "qualityScore": 52
+}

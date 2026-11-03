@@ -1,0 +1,22 @@
+{
+  "id": "cgit-47843d09e849",
+  "canonicalUrl": "https://git.zx2c4.com/cgit/about",
+  "name": "Cgit",
+  "description": "Fast lightweight web interface for git repositories. ([Source Code](https://git.zx2c4.com/cgit/tree/)) `GPL-2.0` `C`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://git.zx2c4.com/cgit/about/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://git.zx2c4.com/cgit/about/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:11:08.396Z",
+  "qualityScore": 52
+}

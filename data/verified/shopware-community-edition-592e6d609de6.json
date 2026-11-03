@@ -1,0 +1,22 @@
+{
+  "id": "shopware-community-edition-592e6d609de6",
+  "canonicalUrl": "https://www.shopware.com/en/community/community-edition",
+  "name": "Shopware Community Edition",
+  "description": "PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code](https://github.com/shopware/shopware)) `MIT` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.shopware.com/en/community/community-edition/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.shopware.com/en/community/community-edition/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:26:39.226Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "deleterr-dc1befc05345",
+  "canonicalUrl": "https://github.com/rfsbraz/deleterr",
+  "name": "Deleterr",
+  "description": "Automated media cleanup tool that removes watched and stale content from Plex, Sonarr, and Radarr based on configurable rules. `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/rfsbraz/deleterr",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/rfsbraz/deleterr"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:12:44.597Z",
+  "qualityScore": 55
+}

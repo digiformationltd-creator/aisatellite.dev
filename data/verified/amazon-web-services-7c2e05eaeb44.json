@@ -1,0 +1,22 @@
+{
+  "id": "amazon-web-services-7c2e05eaeb44",
+  "canonicalUrl": "https://aws.amazon.com/",
+  "name": "Amazon Web Services",
+  "description": "Amazon Web Services developer resource",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://aws.amazon.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://aws.amazon.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.776Z",
+  "updatedAt": "2026-11-03T07:24:44.776Z",
+  "lastVerified": "2026-11-03T09:09:15.710Z",
+  "qualityScore": 52
+}

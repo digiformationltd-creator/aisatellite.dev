@@ -1,0 +1,22 @@
+{
+  "id": "timezone-io-d0cf354706cf",
+  "canonicalUrl": "https://www.timezone.io/docs/worldtimeapi",
+  "name": "timezone.io",
+  "description": "Current time, UTC offset and DST for any time zone or IP address, compatible with the shut-down WorldTimeAPI (clients only change the host). Free with no API key or sign-up, 60 requests/minute per IP, over HTTPS or plain HTTP.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.timezone.io/docs/worldtimeapi",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.timezone.io/docs/worldtimeapi"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.782Z",
+  "updatedAt": "2026-11-03T07:24:44.782Z",
+  "lastVerified": "2026-11-03T09:29:11.988Z",
+  "qualityScore": 52
+}

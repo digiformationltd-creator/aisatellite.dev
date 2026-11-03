@@ -1,0 +1,22 @@
+{
+  "id": "freedns-afraid-org-0358f37e5276",
+  "canonicalUrl": "https://freedns.afraid.org/",
+  "name": "freedns.afraid.org",
+  "description": "Free DNS hosting. Also, provide free subdomains based on numerous public user [contributed domains](https://freedns.afraid.org/domain/registry/). Get free subdomains from the \"Subdomains\" menu after signing up.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://freedns.afraid.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://freedns.afraid.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:15:30.950Z",
+  "qualityScore": 52
+}

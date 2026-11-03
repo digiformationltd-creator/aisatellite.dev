@@ -1,0 +1,22 @@
+{
+  "id": "is-it-disposable-4a4da84c0ff1",
+  "canonicalUrl": "https://isitdisposable.com/",
+  "name": "Is It Disposable",
+  "description": "Detect and block disposable email addresses. Free plan of 250 lookups a month and no card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://isitdisposable.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://isitdisposable.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.792Z",
+  "updatedAt": "2026-11-03T07:24:44.792Z",
+  "lastVerified": "2026-11-03T09:18:06.970Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cdnjs-com-0ce53821b793",
+  "canonicalUrl": "https://cdnjs.com/",
+  "name": "cdnjs.com",
+  "description": "Simple. Fast. Reliable. Content delivery at its finest. cdnjs is a free and open-source CDN service trusted by over 11% of all websites, powered by Cloudflare.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cdnjs.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cdnjs.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:11:03.402Z",
+  "qualityScore": 52
+}

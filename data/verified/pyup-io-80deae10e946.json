@@ -1,0 +1,22 @@
+{
+  "id": "pyup-io-80deae10e946",
+  "canonicalUrl": "https://pyup.io/",
+  "name": "pyup.io",
+  "description": "Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pyup.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pyup.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.787Z",
+  "updatedAt": "2026-11-03T07:24:44.787Z",
+  "lastVerified": "2026-11-03T09:24:20.368Z",
+  "qualityScore": 52
+}

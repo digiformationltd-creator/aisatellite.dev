@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.datocms.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:44.784Z",
-  "updatedAt": "2026-11-03T07:24:44.784Z"
+  "updatedAt": "2026-11-03T07:24:44.784Z",
+  "lastVerified": "2026-11-03T09:12:35.747Z",
+  "qualityScore": 52
 }

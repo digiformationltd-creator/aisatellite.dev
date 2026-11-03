@@ -1,0 +1,22 @@
+{
+  "id": "jitsi-meet-272f8f5d0bff",
+  "canonicalUrl": "https://jitsi.org/Projects/JitsiMeet",
+  "name": "Jitsi Meet",
+  "description": "WebRTC application that uses Jitsi Videobridge to provide high quality, scalable video conferences. ([Demo](https://meet.jit.si), [Source Code](https://github.com/jitsi/jitsi-meet)) `Apache-2.0` `Nodejs/Docker/deb`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://jitsi.org/Projects/JitsiMeet",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://jitsi.org/Projects/JitsiMeet"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.420Z",
+  "updatedAt": "2026-11-03T07:24:45.420Z",
+  "lastVerified": "2026-11-03T09:18:21.031Z",
+  "qualityScore": 52
+}

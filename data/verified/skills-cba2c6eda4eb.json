@@ -1,0 +1,30 @@
+{
+  "id": "skills-cba2c6eda4eb",
+  "canonicalUrl": "https://github.com/agustinusnathaniel/skills",
+  "name": "skills",
+  "description": "Agent skills for AI coding assistants",
+  "category": "ai-coding",
+  "tags": [
+    "agent-skills",
+    "ai-coding",
+    "architecture-decision-records",
+    "claude-code",
+    "skill"
+  ],
+  "repositoryUrl": "https://github.com/agustinusnathaniel/skills",
+  "officialUrl": "https://agustinusnathaniel.com/skills",
+  "documentationUrl": "https://agustinusnathaniel.com/skills",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-03T06:31:57Z",
+  "evidenceUrls": [
+    "https://github.com/agustinusnathaniel/skills"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:47.248Z",
+  "updatedAt": "2026-11-03T07:24:47.248Z",
+  "lastVerified": "2026-11-03T09:27:06.129Z",
+  "qualityScore": 75
+}

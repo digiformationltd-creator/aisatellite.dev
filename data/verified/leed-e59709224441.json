@@ -1,0 +1,22 @@
+{
+  "id": "leed-e59709224441",
+  "canonicalUrl": "https://github.com/LeedRSS/Leed",
+  "name": "Leed",
+  "description": "Minimalist RSS aggregator (Leed stands for Light Feed). `AGPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/LeedRSS/Leed",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/LeedRSS/Leed"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:19:02.743Z",
+  "qualityScore": 55
+}

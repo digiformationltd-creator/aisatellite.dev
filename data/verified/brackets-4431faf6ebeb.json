@@ -1,0 +1,22 @@
+{
+  "id": "brackets-4431faf6ebeb",
+  "canonicalUrl": "https://brackets.io/",
+  "name": "Brackets",
+  "description": "Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://brackets.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://brackets.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.797Z",
+  "updatedAt": "2026-11-03T07:24:44.797Z",
+  "lastVerified": "2026-11-03T09:10:36.090Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nullboard-5bb8546b5566",
+  "canonicalUrl": "https://github.com/apankrat/nullboard",
+  "name": "Nullboard",
+  "description": "Single-page minimalist kanban board; compact, highly readable and quick to use. ([Demo](https://nullboard.io/preview)) `BSD-2-Clause` `Javascript`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/apankrat/nullboard",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/apankrat/nullboard"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:21:57.032Z",
+  "qualityScore": 55
+}

@@ -1,0 +1,22 @@
+{
+  "id": "file-io-75630182fd2c",
+  "canonicalUrl": "https://www.file.io/",
+  "name": "file.io",
+  "description": "2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.file.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.file.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:14:42.217Z",
+  "qualityScore": 52
+}

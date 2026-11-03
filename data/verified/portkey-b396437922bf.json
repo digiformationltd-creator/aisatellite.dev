@@ -1,0 +1,22 @@
+{
+  "id": "portkey-b396437922bf",
+  "canonicalUrl": "https://portkey.ai/",
+  "name": "Portkey",
+  "description": "Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://portkey.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://portkey.ai/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:23:46.804Z",
+  "qualityScore": 52
+}

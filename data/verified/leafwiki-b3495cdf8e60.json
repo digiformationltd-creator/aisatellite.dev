@@ -1,0 +1,22 @@
+{
+  "id": "leafwiki-b3495cdf8e60",
+  "canonicalUrl": "https://github.com/perber/leafwiki",
+  "name": "LeafWiki",
+  "description": "Fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk. ([Demo](https://demo.leafwiki.com)) `MIT` `Docker/Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/perber/leafwiki",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/perber/leafwiki"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:19:01.202Z",
+  "qualityScore": 55
+}

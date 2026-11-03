@@ -1,0 +1,22 @@
+{
+  "id": "it-tools-by-sharevb-b7bf18a12f13",
+  "canonicalUrl": "https://github.com/sharevb/it-tools",
+  "name": "IT-Tools by sharevb",
+  "description": "Collection of handy online tools for developers (fork of it-tools). ([Demo](https://sharevb-it-tools.vercel.app/)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/sharevb/it-tools",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/sharevb/it-tools"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.424Z",
+  "updatedAt": "2026-11-03T07:24:45.424Z",
+  "lastVerified": "2026-11-03T09:18:10.227Z",
+  "qualityScore": 55
+}

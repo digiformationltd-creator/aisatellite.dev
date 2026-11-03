@@ -1,0 +1,22 @@
+{
+  "id": "jira-7c726d842f83",
+  "canonicalUrl": "https://www.atlassian.com/software/jira",
+  "name": "Jira",
+  "description": "Advanced software development project management tool used in many corporate environments. Free plan for up to 10 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.atlassian.com/software/jira",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.atlassian.com/software/jira"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.796Z",
+  "updatedAt": "2026-11-03T07:24:44.796Z",
+  "lastVerified": "2026-11-03T09:18:19.869Z",
+  "qualityScore": 52
+}

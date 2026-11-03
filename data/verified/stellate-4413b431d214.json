@@ -1,0 +1,22 @@
+{
+  "id": "stellate-4413b431d214",
+  "canonicalUrl": "https://stellate.co/",
+  "name": "Stellate",
+  "description": "Stellate is a blazing-fast, reliable CDN for your GraphQL API and free for two services.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://stellate.co/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://stellate.co/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:27:56.272Z",
+  "qualityScore": 52
+}

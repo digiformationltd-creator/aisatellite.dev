@@ -1,0 +1,22 @@
+{
+  "id": "apitemplate-io-40822a6f05df",
+  "canonicalUrl": "https://apitemplate.io/",
+  "name": "APITemplate.io",
+  "description": "Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://apitemplate.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://apitemplate.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.778Z",
+  "updatedAt": "2026-11-03T07:24:44.778Z",
+  "lastVerified": "2026-11-03T09:09:31.816Z",
+  "qualityScore": 52
+}

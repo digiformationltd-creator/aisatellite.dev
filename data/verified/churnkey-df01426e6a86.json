@@ -1,0 +1,22 @@
+{
+  "id": "churnkey-df01426e6a86",
+  "canonicalUrl": "https://churnkey.co/",
+  "name": "Churnkey",
+  "description": "Cancel flows (open-sourced), churn metrics, and revenue analytics for subscription businesses. Free forever.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://churnkey.co",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://churnkey.co"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.799Z",
+  "updatedAt": "2026-11-03T07:24:44.799Z",
+  "lastVerified": "2026-11-03T09:11:19.228Z",
+  "qualityScore": 52
+}

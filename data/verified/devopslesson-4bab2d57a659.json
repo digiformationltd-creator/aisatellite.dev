@@ -1,0 +1,22 @@
+{
+  "id": "devopslesson-4bab2d57a659",
+  "canonicalUrl": "https://devopslesson.com/",
+  "name": "DevOpsLesson",
+  "description": "Free DevOps tutorials, cheatsheets, troubleshooting guides, roadmaps, interview preparation and DevOps tools: Dockerfile Linter, K8S YAML file generator, Regex Tester.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://devopslesson.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://devopslesson.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.791Z",
+  "updatedAt": "2026-11-03T07:24:44.791Z",
+  "lastVerified": "2026-11-03T09:12:52.481Z",
+  "qualityScore": 52
+}

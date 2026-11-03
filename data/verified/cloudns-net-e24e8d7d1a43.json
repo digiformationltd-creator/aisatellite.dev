@@ -1,0 +1,22 @@
+{
+  "id": "cloudns-net-e24e8d7d1a43",
+  "canonicalUrl": "https://www.cloudns.net/",
+  "name": "cloudns.net",
+  "description": "Free DNS hosting up to 1 domain with 50 records",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.cloudns.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cloudns.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.795Z",
+  "updatedAt": "2026-11-03T07:24:44.795Z",
+  "lastVerified": "2026-11-03T09:11:33.762Z",
+  "qualityScore": 52
+}

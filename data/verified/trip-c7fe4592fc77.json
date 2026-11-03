@@ -1,0 +1,22 @@
+{
+  "id": "trip-c7fe4592fc77",
+  "canonicalUrl": "https://itskovacs-trip.netlify.app/",
+  "name": "TRIP",
+  "description": "Minimalist POI Map tracker and Trip planner. ([Demo](https://itskovacs-trip.netlify.app/home), [Source Code](https://github.com/itskovacs/trip)) `MIT` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://itskovacs-trip.netlify.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://itskovacs-trip.netlify.app/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:29:38.267Z",
+  "qualityScore": 52
+}

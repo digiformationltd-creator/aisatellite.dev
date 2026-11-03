@@ -1,0 +1,22 @@
+{
+  "id": "seaweedfs-130e177176ec",
+  "canonicalUrl": "https://github.com/seaweedfs/seaweedfs",
+  "name": "SeaweedFS",
+  "description": "Distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/seaweedfs/seaweedfs",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/seaweedfs/seaweedfs"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:26:08.396Z",
+  "qualityScore": 55
+}

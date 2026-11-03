@@ -1,0 +1,22 @@
+{
+  "id": "cytube-5b2a10ed2634",
+  "canonicalUrl": "https://github.com/calzoneman/sync",
+  "name": "CyTube",
+  "description": "Synchronize media, chat, and more for an arbitrary number of channels. ([Demo](https://cytu.be)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/calzoneman/sync",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/calzoneman/sync"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.423Z",
+  "updatedAt": "2026-11-03T07:24:45.423Z",
+  "lastVerified": "2026-11-03T09:12:25.826Z",
+  "qualityScore": 55
+}

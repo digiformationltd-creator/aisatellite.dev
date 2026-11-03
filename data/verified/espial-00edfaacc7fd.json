@@ -1,0 +1,22 @@
+{
+  "id": "espial-00edfaacc7fd",
+  "canonicalUrl": "https://github.com/jonschoning/espial",
+  "name": "Espial",
+  "description": "Web-based bookmarking server that supports multiple user accounts. `AGPL-3.0` `Haskell`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/jonschoning/espial",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/jonschoning/espial"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.418Z",
+  "updatedAt": "2026-11-03T07:24:45.418Z",
+  "lastVerified": "2026-11-03T09:14:16.935Z",
+  "qualityScore": 55
+}

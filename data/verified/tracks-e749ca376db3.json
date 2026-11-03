@@ -1,0 +1,22 @@
+{
+  "id": "tracks-e749ca376db3",
+  "canonicalUrl": "https://www.getontracks.org/",
+  "name": "Tracks",
+  "description": "Web-based application to help you implement David Allen’s Getting Things Done™ methodology. ([Source Code](https://github.com/TracksApp/tracks)) `GPL-2.0` `Ruby`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.getontracks.org/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.getontracks.org/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.428Z",
+  "updatedAt": "2026-11-03T07:24:45.428Z",
+  "lastVerified": "2026-11-03T09:29:26.302Z",
+  "qualityScore": 52
+}

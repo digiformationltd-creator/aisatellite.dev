@@ -1,0 +1,22 @@
+{
+  "id": "pusher-com-315761b024d7",
+  "canonicalUrl": "https://pusher.com/beams",
+  "name": "pusher.com",
+  "description": "Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pusher.com/beams",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pusher.com/beams"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.794Z",
+  "updatedAt": "2026-11-03T07:24:44.794Z",
+  "lastVerified": "2026-11-03T09:24:17.880Z",
+  "qualityScore": 52
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bleemeo-com-c8caa7ed3289",
+  "canonicalUrl": "https://bleemeo.com/",
+  "name": "bleemeo.com",
+  "description": "Free for 3 servers, 5 uptime monitors, unlimited users, unlimited dashboards, unlimited alerting rules.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://bleemeo.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://bleemeo.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:44.790Z",
+  "updatedAt": "2026-11-03T07:24:44.790Z",
+  "lastVerified": "2026-11-03T09:10:26.479Z",
+  "qualityScore": 52
+}

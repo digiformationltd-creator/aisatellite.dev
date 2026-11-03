@@ -1,0 +1,22 @@
+{
+  "id": "graphweaver-f57e9d41b959",
+  "canonicalUrl": "https://graphweaver.com/",
+  "name": "Graphweaver",
+  "description": "Turn multiple data sources into a single GraphQL API. ([Source Code](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://graphweaver.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://graphweaver.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:16:35.172Z",
+  "qualityScore": 52
+}

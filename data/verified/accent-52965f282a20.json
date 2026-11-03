@@ -1,0 +1,22 @@
+{
+  "id": "accent-52965f282a20",
+  "canonicalUrl": "https://www.accent.reviews/",
+  "name": "Accent",
+  "description": "Developer-oriented translation tool. ([Source Code](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.accent.reviews/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.accent.reviews/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.427Z",
+  "updatedAt": "2026-11-03T07:24:45.427Z",
+  "lastVerified": "2026-11-03T09:08:53.328Z",
+  "qualityScore": 52
+}

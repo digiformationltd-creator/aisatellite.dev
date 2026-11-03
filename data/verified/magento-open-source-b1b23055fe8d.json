@@ -1,0 +1,22 @@
+{
+  "id": "magento-open-source-b1b23055fe8d",
+  "canonicalUrl": "https://business.adobe.com/products/magento/magento-commerce.html",
+  "name": "Magento Open Source",
+  "description": "Leading provider of open omnichannel innovation. ([Source Code](https://github.com/magento/magento2)) `OSL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://business.adobe.com/products/magento/magento-commerce.html",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://business.adobe.com/products/magento/magento-commerce.html"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.421Z",
+  "updatedAt": "2026-11-03T07:24:45.421Z",
+  "lastVerified": "2026-11-03T09:19:54.942Z",
+  "qualityScore": 52
+}

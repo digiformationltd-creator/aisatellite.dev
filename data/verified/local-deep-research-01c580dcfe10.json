@@ -1,0 +1,22 @@
+{
+  "id": "local-deep-research-01c580dcfe10",
+  "canonicalUrl": "https://github.com/LearningCircuit/local-deep-research",
+  "name": "Local Deep Research",
+  "description": "AI-powered deep research tool with multi-source search (arXiv, PubMed, web), PDF text extraction, and encrypted local storage. `MIT` `Docker/Python`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/LearningCircuit/local-deep-research",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/LearningCircuit/local-deep-research"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-03T07:24:45.422Z",
+  "updatedAt": "2026-11-03T07:24:45.422Z",
+  "lastVerified": "2026-11-03T09:19:30.008Z",
+  "qualityScore": 55
+}
