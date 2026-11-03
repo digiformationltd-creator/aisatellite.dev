@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sip-irrigation-control-d8b7ad460cda-guide",
+  "title": "How to Deploy SIP Irrigation Control in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sip-irrigation-control-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SIP Irrigation Control.",
+  "targetKeywords": [
+    "SIP Irrigation Control",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dan-in-ca.github.io/SIP/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SIP Irrigation Control with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

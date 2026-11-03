@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pingpong-one-73d3ccc64de3-guide",
+  "title": "How to Deploy pingpong.one in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pingpong-one-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pingpong.one.",
+  "targetKeywords": [
+    "pingpong.one",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pingpong.one/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting pingpong.one with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

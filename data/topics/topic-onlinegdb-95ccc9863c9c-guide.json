@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-onlinegdb-95ccc9863c9c-guide",
+  "title": "How to Deploy OnlineGDB in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-onlinegdb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OnlineGDB.",
+  "targetKeywords": [
+    "OnlineGDB",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://onlinegdb.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OnlineGDB with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

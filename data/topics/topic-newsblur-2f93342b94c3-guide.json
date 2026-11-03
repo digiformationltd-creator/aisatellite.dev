@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-newsblur-2f93342b94c3-guide",
+  "title": "How to Deploy NewsBlur in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-newsblur-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for NewsBlur.",
+  "targetKeywords": [
+    "NewsBlur",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.newsblur.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting NewsBlur with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

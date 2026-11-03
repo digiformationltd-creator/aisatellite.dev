@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-currencyfreaks-68bfd751b6de-guide",
+  "title": "How to Deploy CurrencyFreaks in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-currencyfreaks-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CurrencyFreaks.",
+  "targetKeywords": [
+    "CurrencyFreaks",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://currencyfreaks.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CurrencyFreaks with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.250Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aastro-94af853b28d8-guide",
+  "title": "How to Deploy Aastro in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aastro-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Aastro.",
+  "targetKeywords": [
+    "Aastro",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://voidrunner3074.github.io/aastro-docs"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Aastro with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.249Z"
+}

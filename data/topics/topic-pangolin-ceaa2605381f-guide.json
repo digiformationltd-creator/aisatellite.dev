@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pangolin-ceaa2605381f-guide",
+  "title": "How to Deploy Pangolin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pangolin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pangolin.",
+  "targetKeywords": [
+    "Pangolin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://digpangolin.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pangolin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

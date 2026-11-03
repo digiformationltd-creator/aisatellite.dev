@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-telegram-56aca9aeb09d-guide",
+  "title": "How to Deploy Telegram in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-telegram-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Telegram.",
+  "targetKeywords": [
+    "Telegram",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://telegram.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Telegram with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

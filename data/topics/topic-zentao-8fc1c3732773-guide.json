@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zentao-8fc1c3732773-guide",
+  "title": "How to Deploy ZenTao in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zentao-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ZenTao.",
+  "targetKeywords": [
+    "ZenTao",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.zentao.pm/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ZenTao with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.256Z"
+}

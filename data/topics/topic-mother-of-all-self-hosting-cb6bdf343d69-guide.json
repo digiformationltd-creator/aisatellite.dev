@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mother-of-all-self-hosting-cb6bdf343d69-guide",
+  "title": "How to Deploy Mother-of-All-Self-Hosting in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mother-of-all-self-hosting-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mother-of-All-Self-Hosting.",
+  "targetKeywords": [
+    "Mother-of-All-Self-Hosting",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/mother-of-all-self-hosting/mash-playbook"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Mother-of-All-Self-Hosting with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

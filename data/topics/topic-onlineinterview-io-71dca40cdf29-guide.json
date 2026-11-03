@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-onlineinterview-io-71dca40cdf29-guide",
+  "title": "How to Deploy OnlineInterview.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-onlineinterview-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OnlineInterview.io.",
+  "targetKeywords": [
+    "OnlineInterview.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://onlineinterview.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OnlineInterview.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-se2eend-07fc09a153f6-guide",
+  "title": "How to Deploy sE2EEnd in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-se2eend-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for sE2EEnd.",
+  "targetKeywords": [
+    "sE2EEnd",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/sE2EEnd/sE2EEnd"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting sE2EEnd with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

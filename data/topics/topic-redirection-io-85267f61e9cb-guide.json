@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-redirection-io-85267f61e9cb-guide",
+  "title": "How to Deploy redirection.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-redirection-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for redirection.io.",
+  "targetKeywords": [
+    "redirection.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://redirection.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting redirection.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

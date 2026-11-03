@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smartcar-api-e2cb758643dd-guide",
+  "title": "How to Deploy Smartcar API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smartcar-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Smartcar API.",
+  "targetKeywords": [
+    "Smartcar API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://smartcar.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Smartcar API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

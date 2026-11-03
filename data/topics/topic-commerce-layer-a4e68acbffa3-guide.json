@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-commerce-layer-a4e68acbffa3-guide",
+  "title": "How to Deploy Commerce Layer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-commerce-layer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Commerce Layer.",
+  "targetKeywords": [
+    "Commerce Layer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://commercelayer.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Commerce Layer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.250Z"
+}

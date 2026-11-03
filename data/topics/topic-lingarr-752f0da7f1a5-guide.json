@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lingarr-752f0da7f1a5-guide",
+  "title": "How to Deploy Lingarr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lingarr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lingarr.",
+  "targetKeywords": [
+    "Lingarr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://lingarr.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lingarr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.252Z"
+}

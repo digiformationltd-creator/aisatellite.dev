@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pingzo-bc5390e8ffa1-guide",
+  "title": "How to Deploy Pingzo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pingzo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pingzo.",
+  "targetKeywords": [
+    "Pingzo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.pingzoapp.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pingzo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

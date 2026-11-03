@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-watchgoose-23db3ba16a48-guide",
+  "title": "How to Deploy Watchgoose in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-watchgoose-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Watchgoose.",
+  "targetKeywords": [
+    "Watchgoose",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://watchgoose.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Watchgoose with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.256Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-medusa-b6796428edb6-guide",
+  "title": "How to Deploy Medusa in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-medusa-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Medusa.",
+  "targetKeywords": [
+    "Medusa",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/pymedusa/Medusa"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Medusa with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

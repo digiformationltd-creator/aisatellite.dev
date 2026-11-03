@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mysql-visual-explain-93af82c2a233-guide",
+  "title": "How to Deploy MySQL Visual Explain in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mysql-visual-explain-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MySQL Visual Explain.",
+  "targetKeywords": [
+    "MySQL Visual Explain",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mysqlexplain.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MySQL Visual Explain with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

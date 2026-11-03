@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-imitate-email-60a1c3a1e2db-guide",
+  "title": "How to Deploy Imitate Email in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-imitate-email-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Imitate Email.",
+  "targetKeywords": [
+    "Imitate Email",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://imitate.email"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Imitate Email with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.252Z"
+}

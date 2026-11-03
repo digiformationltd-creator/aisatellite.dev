@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-plugnmeet-4c901545a12c-guide",
+  "title": "How to Deploy plugNmeet in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-plugnmeet-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for plugNmeet.",
+  "targetKeywords": [
+    "plugNmeet",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.plugnmeet.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting plugNmeet with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

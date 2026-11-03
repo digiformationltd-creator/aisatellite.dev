@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bugpin-8e0c416436c4-guide",
+  "title": "How to Deploy BugPin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bugpin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BugPin.",
+  "targetKeywords": [
+    "BugPin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bugpin.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BugPin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.249Z"
+}

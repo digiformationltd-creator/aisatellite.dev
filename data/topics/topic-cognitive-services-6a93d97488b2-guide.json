@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cognitive-services-6a93d97488b2-guide",
+  "title": "How to Deploy Cognitive Services in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cognitive-services-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cognitive Services.",
+  "targetKeywords": [
+    "Cognitive Services",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/cognitive-services/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cognitive Services with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.250Z"
+}

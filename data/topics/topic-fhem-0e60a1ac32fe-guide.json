@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fhem-0e60a1ac32fe-guide",
+  "title": "How to Deploy FHEM in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fhem-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FHEM.",
+  "targetKeywords": [
+    "FHEM",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fhem.de/fhem.html"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FHEM with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.251Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-atsumeru-f87ee1054bbb-guide",
+  "title": "How to Deploy Atsumeru in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-atsumeru-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Atsumeru.",
+  "targetKeywords": [
+    "Atsumeru",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://atsumeru.xyz"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Atsumeru with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.249Z"
+}

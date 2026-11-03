@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-getscreen-me-59b3a26d9467-guide",
+  "title": "How to Deploy Getscreen.me in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-getscreen-me-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Getscreen.me.",
+  "targetKeywords": [
+    "Getscreen.me",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://getscreen.me"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Getscreen.me with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.251Z"
+}

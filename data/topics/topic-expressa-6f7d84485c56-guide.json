@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-expressa-6f7d84485c56-guide",
+  "title": "How to Deploy Expressa in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-expressa-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Expressa.",
+  "targetKeywords": [
+    "Expressa",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/thomas4019/expressa"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Expressa with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.251Z"
+}

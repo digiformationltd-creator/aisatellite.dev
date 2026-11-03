@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-huly-9c00126ef5ea-guide",
+  "title": "How to Deploy Huly in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-huly-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Huly.",
+  "targetKeywords": [
+    "Huly",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://huly.io/",
+    "https://huly.io"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting Huly with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.252Z"
+}

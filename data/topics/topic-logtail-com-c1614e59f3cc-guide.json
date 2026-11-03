@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-logtail-com-c1614e59f3cc-guide",
+  "title": "How to Deploy logtail.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-logtail-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for logtail.com.",
+  "targetKeywords": [
+    "logtail.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://logtail.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting logtail.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

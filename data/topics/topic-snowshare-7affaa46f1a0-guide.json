@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-snowshare-7affaa46f1a0-guide",
+  "title": "How to Deploy snowshare in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-snowshare-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for snowshare.",
+  "targetKeywords": [
+    "snowshare",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/TuroYT/snowshare"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting snowshare with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

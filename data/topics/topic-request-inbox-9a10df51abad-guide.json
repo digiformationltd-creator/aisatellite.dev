@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-request-inbox-9a10df51abad-guide",
+  "title": "How to Deploy Request Inbox in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-request-inbox-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Request Inbox.",
+  "targetKeywords": [
+    "Request Inbox",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://request-inbox.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Request Inbox with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

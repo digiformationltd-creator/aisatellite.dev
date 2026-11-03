@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-codetrain-e634dfe83ce8-guide",
+  "title": "How to Deploy CodeTrain in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-codetrain-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CodeTrain.",
+  "targetKeywords": [
+    "CodeTrain",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://codetrain.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CodeTrain with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.250Z"
+}

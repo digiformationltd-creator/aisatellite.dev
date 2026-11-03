@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-recipesage-9704dc909529-guide",
+  "title": "How to Deploy RecipeSage in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-recipesage-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RecipeSage.",
+  "targetKeywords": [
+    "RecipeSage",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/julianpoy/recipesage"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting RecipeSage with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-loginllama-e418f54ddfe1-guide",
+  "title": "How to Deploy LoginLlama in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-loginllama-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LoginLlama.",
+  "targetKeywords": [
+    "LoginLlama",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://loginllama.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LoginLlama with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

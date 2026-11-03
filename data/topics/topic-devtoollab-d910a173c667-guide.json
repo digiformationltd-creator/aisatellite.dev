@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-devtoollab-d910a173c667-guide",
+  "title": "How to Deploy DevToolLab in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-devtoollab-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DevToolLab.",
+  "targetKeywords": [
+    "DevToolLab",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://devtoollab.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DevToolLab with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.250Z"
+}

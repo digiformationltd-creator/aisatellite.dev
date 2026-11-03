@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stackrender-deeb5ede940b-guide",
+  "title": "How to Deploy StackRender in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stackrender-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for StackRender.",
+  "targetKeywords": [
+    "StackRender",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stackrender.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting StackRender with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-buttondown-85d27d272c1e-guide",
+  "title": "How to Deploy Buttondown in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-buttondown-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Buttondown.",
+  "targetKeywords": [
+    "Buttondown",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://buttondown.email/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Buttondown with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.249Z"
+}

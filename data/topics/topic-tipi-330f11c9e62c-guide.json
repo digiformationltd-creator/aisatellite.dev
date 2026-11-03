@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tipi-330f11c9e62c-guide",
+  "title": "How to Deploy Tipi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tipi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tipi.",
+  "targetKeywords": [
+    "Tipi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://runtipi.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tipi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.256Z"
+}

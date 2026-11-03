@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-adminmart-993e7589385d-guide",
+  "title": "How to Deploy AdminMart in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-adminmart-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AdminMart.",
+  "targetKeywords": [
+    "AdminMart",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://adminmart.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AdminMart with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.249Z"
+}

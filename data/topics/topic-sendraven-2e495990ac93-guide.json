@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sendraven-2e495990ac93-guide",
+  "title": "How to Deploy SendRaven in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sendraven-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SendRaven.",
+  "targetKeywords": [
+    "SendRaven",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sendraven.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SendRaven with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

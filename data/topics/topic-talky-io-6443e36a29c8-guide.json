@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-talky-io-6443e36a29c8-guide",
+  "title": "How to Deploy talky.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-talky-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for talky.io.",
+  "targetKeywords": [
+    "talky.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://talky.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting talky.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

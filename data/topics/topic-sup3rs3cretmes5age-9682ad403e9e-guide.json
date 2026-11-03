@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sup3rs3cretmes5age-9682ad403e9e-guide",
+  "title": "How to Deploy Sup3rS3cretMes5age in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sup3rs3cretmes5age-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sup3rS3cretMes5age.",
+  "targetKeywords": [
+    "Sup3rS3cretMes5age",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/algolia/sup3rS3cretMes5age"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Sup3rS3cretMes5age with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

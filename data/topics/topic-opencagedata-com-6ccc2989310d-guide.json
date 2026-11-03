@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-opencagedata-com-6ccc2989310d-guide",
+  "title": "How to Deploy opencagedata.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-opencagedata-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for opencagedata.com.",
+  "targetKeywords": [
+    "opencagedata.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://opencagedata.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting opencagedata.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

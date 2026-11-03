@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wpjack-81e74875e0e2-guide",
+  "title": "How to Deploy WPJack in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wpjack-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WPJack.",
+  "targetKeywords": [
+    "WPJack",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wpjack.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting WPJack with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.256Z"
+}

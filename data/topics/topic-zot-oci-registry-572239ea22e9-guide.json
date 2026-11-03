@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zot-oci-registry-572239ea22e9-guide",
+  "title": "How to Deploy ZOT OCI Registry in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zot-oci-registry-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ZOT OCI Registry.",
+  "targetKeywords": [
+    "ZOT OCI Registry",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zotregistry.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ZOT OCI Registry with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.256Z"
+}

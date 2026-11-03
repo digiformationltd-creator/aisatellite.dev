@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-formcarry-com-7b2472f24a04-guide",
+  "title": "How to Deploy Formcarry.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-formcarry-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Formcarry.com.",
+  "targetKeywords": [
+    "Formcarry.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://formcarry.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Formcarry.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.251Z"
+}

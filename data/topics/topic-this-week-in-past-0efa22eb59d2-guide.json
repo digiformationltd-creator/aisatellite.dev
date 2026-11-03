@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-this-week-in-past-0efa22eb59d2-guide",
+  "title": "How to Deploy This week in past in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-this-week-in-past-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for This week in past.",
+  "targetKeywords": [
+    "This week in past",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/RouHim/this-week-in-past"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting This week in past with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.256Z"
+}

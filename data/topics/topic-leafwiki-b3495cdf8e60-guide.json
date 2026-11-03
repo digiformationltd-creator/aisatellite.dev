@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-leafwiki-b3495cdf8e60-guide",
+  "title": "How to Deploy LeafWiki in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-leafwiki-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LeafWiki.",
+  "targetKeywords": [
+    "LeafWiki",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/perber/leafwiki"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting LeafWiki with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.252Z"
+}

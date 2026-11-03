@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-meterian-io-5cba3170f9d4-guide",
+  "title": "How to Deploy meterian.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-meterian-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for meterian.io.",
+  "targetKeywords": [
+    "meterian.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.meterian.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting meterian.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

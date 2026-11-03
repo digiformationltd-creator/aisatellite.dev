@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-simple-url-shortener-796d3b8cd3f8-guide",
+  "title": "How to Deploy Simple-URL-Shortener in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-simple-url-shortener-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Simple-URL-Shortener.",
+  "targetKeywords": [
+    "Simple-URL-Shortener",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/azlux/Simple-URL-Shortener"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Simple-URL-Shortener with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

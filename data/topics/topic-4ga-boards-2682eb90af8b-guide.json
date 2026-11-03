@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-4ga-boards-2682eb90af8b-guide",
+  "title": "How to Deploy 4ga Boards in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-4ga-boards-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for 4ga Boards.",
+  "targetKeywords": [
+    "4ga Boards",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://4gaboards.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting 4ga Boards with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.249Z"
+}

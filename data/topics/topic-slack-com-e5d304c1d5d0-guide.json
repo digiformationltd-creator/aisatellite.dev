@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-slack-com-e5d304c1d5d0-guide",
+  "title": "How to Deploy slack.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-slack-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for slack.com.",
+  "targetKeywords": [
+    "slack.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://slack.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting slack.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

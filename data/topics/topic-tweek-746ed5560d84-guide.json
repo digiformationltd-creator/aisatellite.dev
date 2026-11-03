@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tweek-746ed5560d84-guide",
+  "title": "How to Deploy Tweek in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tweek-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tweek.",
+  "targetKeywords": [
+    "Tweek",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tweek.so/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tweek with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.256Z"
+}

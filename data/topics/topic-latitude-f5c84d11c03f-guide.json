@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-latitude-f5c84d11c03f-guide",
+  "title": "How to Deploy Latitude in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-latitude-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Latitude.",
+  "targetKeywords": [
+    "Latitude",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://latitude.so"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Latitude with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.252Z"
+}

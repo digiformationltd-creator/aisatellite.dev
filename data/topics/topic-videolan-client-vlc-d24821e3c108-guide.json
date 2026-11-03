@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-videolan-client-vlc-d24821e3c108-guide",
+  "title": "How to Deploy VideoLAN Client (VLC) in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-videolan-client-vlc--production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for VideoLAN Client (VLC).",
+  "targetKeywords": [
+    "VideoLAN Client (VLC)",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.videolan.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting VideoLAN Client (VLC) with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.256Z"
+}

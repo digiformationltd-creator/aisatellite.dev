@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-freedns-afraid-org-0358f37e5276-guide",
+  "title": "How to Deploy freedns.afraid.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-freedns-afraid-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for freedns.afraid.org.",
+  "targetKeywords": [
+    "freedns.afraid.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://freedns.afraid.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting freedns.afraid.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.251Z"
+}

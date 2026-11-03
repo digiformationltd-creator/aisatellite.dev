@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-octoprint-76502be87998-guide",
+  "title": "How to Deploy Octoprint in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-octoprint-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Octoprint.",
+  "targetKeywords": [
+    "Octoprint",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://octoprint.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Octoprint with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

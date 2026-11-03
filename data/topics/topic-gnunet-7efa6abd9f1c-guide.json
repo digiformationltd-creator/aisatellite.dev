@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gnunet-7efa6abd9f1c-guide",
+  "title": "How to Deploy GNUnet in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gnunet-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GNUnet.",
+  "targetKeywords": [
+    "GNUnet",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gnunet.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GNUnet with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.251Z"
+}

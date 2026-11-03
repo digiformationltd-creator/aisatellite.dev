@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smartforms-dev-e6474815a7b1-guide",
+  "title": "How to Deploy smartforms.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smartforms-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for smartforms.dev.",
+  "targetKeywords": [
+    "smartforms.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://smartforms.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting smartforms.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-uptimerobot-4479e242211e-guide",
+  "title": "How to Deploy UptimeRobot in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-uptimerobot-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for UptimeRobot.",
+  "targetKeywords": [
+    "UptimeRobot",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://uptimerobot.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting UptimeRobot with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.256Z"
+}

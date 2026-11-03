@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fileshot-io-6c8f151a71da-guide",
+  "title": "How to Deploy FileShot.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fileshot-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FileShot.io.",
+  "targetKeywords": [
+    "FileShot.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fileshot.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FileShot.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.251Z"
+}

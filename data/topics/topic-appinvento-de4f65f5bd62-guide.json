@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-appinvento-de4f65f5bd62-guide",
+  "title": "How to Deploy Appinvento in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-appinvento-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Appinvento.",
+  "targetKeywords": [
+    "Appinvento",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://appinvento.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Appinvento with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.249Z"
+}

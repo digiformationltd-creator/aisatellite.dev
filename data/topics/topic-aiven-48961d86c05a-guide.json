@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aiven-48961d86c05a-guide",
+  "title": "How to Deploy Aiven in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aiven-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Aiven.",
+  "targetKeywords": [
+    "Aiven",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://aiven.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Aiven with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.249Z"
+}

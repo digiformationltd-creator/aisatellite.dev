@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-superlog-sh-cc0ef74260af-guide",
+  "title": "How to Deploy superlog.sh in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-superlog-sh-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for superlog.sh.",
+  "targetKeywords": [
+    "superlog.sh",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://superlog.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting superlog.sh with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

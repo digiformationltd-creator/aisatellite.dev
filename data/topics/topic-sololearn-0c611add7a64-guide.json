@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sololearn-0c611add7a64-guide",
+  "title": "How to Deploy SoloLearn in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sololearn-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SoloLearn.",
+  "targetKeywords": [
+    "SoloLearn",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://code.sololearn.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SoloLearn with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

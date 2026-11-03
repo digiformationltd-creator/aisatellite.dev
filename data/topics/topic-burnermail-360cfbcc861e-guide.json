@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-burnermail-360cfbcc861e-guide",
+  "title": "How to Deploy Burnermail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-burnermail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Burnermail.",
+  "targetKeywords": [
+    "Burnermail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://burnermail.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Burnermail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.249Z"
+}

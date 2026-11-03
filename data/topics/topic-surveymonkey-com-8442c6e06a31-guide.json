@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-surveymonkey-com-8442c6e06a31-guide",
+  "title": "How to Deploy SurveyMonkey.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-surveymonkey-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SurveyMonkey.com.",
+  "targetKeywords": [
+    "SurveyMonkey.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.surveymonkey.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SurveyMonkey.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

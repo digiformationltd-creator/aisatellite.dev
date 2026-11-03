@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kanboard-4c88bf542ac0-guide",
+  "title": "How to Deploy Kanboard in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kanboard-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kanboard.",
+  "targetKeywords": [
+    "Kanboard",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kanboard.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kanboard with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.252Z"
+}

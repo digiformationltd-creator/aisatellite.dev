@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-solo-780d40737412-guide",
+  "title": "How to Deploy Solo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-solo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Solo.",
+  "targetKeywords": [
+    "Solo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://soloist.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Solo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

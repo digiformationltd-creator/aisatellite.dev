@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mirotalk-p2p-60188a2cccbf-guide",
+  "title": "How to Deploy MiroTalk P2P in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mirotalk-p2p-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MiroTalk P2P.",
+  "targetKeywords": [
+    "MiroTalk P2P",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://p2p.mirotalk.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MiroTalk P2P with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

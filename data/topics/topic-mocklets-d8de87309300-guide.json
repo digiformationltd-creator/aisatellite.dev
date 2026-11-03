@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mocklets-d8de87309300-guide",
+  "title": "How to Deploy Mocklets in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mocklets-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mocklets.",
+  "targetKeywords": [
+    "Mocklets",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mocklets.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mocklets with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

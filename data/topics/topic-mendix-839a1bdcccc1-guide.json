@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mendix-839a1bdcccc1-guide",
+  "title": "How to Deploy Mendix in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mendix-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mendix.",
+  "targetKeywords": [
+    "Mendix",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mendix.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mendix with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

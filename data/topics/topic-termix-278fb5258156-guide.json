@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-termix-278fb5258156-guide",
+  "title": "How to Deploy Termix in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-termix-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Termix.",
+  "targetKeywords": [
+    "Termix",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.termix.site/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Termix with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.255Z"
+}

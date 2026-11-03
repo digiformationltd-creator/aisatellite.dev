@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-manyfold-2145646eb2f6-guide",
+  "title": "How to Deploy Manyfold in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-manyfold-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Manyfold.",
+  "targetKeywords": [
+    "Manyfold",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://manyfold.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Manyfold with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}

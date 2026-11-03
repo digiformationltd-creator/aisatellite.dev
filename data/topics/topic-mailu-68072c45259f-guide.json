@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mailu-68072c45259f-guide",
+  "title": "How to Deploy Mailu in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mailu-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mailu.",
+  "targetKeywords": [
+    "Mailu",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mailu.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mailu with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-03T11:41:55.254Z"
+}
