@@ -1,0 +1,22 @@
+{
+  "id": "ilias-734244d1da9b",
+  "canonicalUrl": "https://www.ilias.de/",
+  "name": "ILIAS",
+  "description": "Learning management system that can cope with anything you throw at it. ([Demo](https://demo.ilias.de), [Source Code](https://github.com/ILIAS-eLearning/ILIAS)) `GPL-3.0` `PHP`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.ilias.de",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.ilias.de"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:45.741Z",
+  "updatedAt": "2026-11-04T07:06:45.741Z",
+  "lastVerified": "2026-11-04T08:53:32.964Z",
+  "qualityScore": 52
+}

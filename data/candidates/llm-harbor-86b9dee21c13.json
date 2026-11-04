@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/av/harbor"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.739Z",
-  "updatedAt": "2026-11-04T07:06:45.739Z"
+  "updatedAt": "2026-11-04T07:06:45.739Z",
+  "lastVerified": "2026-11-04T08:55:32.252Z",
+  "qualityScore": 55
 }

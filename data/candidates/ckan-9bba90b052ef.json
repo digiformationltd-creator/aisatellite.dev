@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ckan.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.736Z",
-  "updatedAt": "2026-11-04T07:06:45.736Z"
+  "updatedAt": "2026-11-04T07:06:45.736Z",
+  "lastVerified": "2026-11-04T08:47:01.818Z",
+  "qualityScore": 52
 }

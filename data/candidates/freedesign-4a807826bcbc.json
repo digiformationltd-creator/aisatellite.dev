@@ -27,7 +27,9 @@
   "evidenceUrls": [
     "https://github.com/AIPMAndy/FreeDesign"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:46.403Z",
-  "updatedAt": "2026-11-04T07:06:46.403Z"
+  "updatedAt": "2026-11-04T07:06:46.403Z",
+  "lastVerified": "2026-11-04T08:51:18.863Z",
+  "qualityScore": 80
 }

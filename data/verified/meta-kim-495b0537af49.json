@@ -1,0 +1,39 @@
+{
+  "id": "meta-kim-495b0537af49",
+  "canonicalUrl": "https://github.com/KimYx0207/Meta_Kim",
+  "name": "Meta_Kim",
+  "description": "Governed execution layer for AI coding assistants: clarify intent, route capabilities, review evidence, verify results, and write back lessons across Claude Code, Codex, OpenClaw, and Cursor.",
+  "category": "ai-coding",
+  "tags": [
+    "agent-governance",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "mcp",
+    "openclaw",
+    "skills",
+    "verification",
+    "workflow"
+  ],
+  "repositoryUrl": "https://github.com/KimYx0207/Meta_Kim",
+  "officialUrl": "https://www.aiking.dev/",
+  "documentationUrl": "https://www.aiking.dev/",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/KimYx0207/Meta_Kim/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 288,
+  "githubForks": 68,
+  "lastRepositoryUpdate": "2026-11-04T01:01:34Z",
+  "evidenceUrls": [
+    "https://github.com/KimYx0207/Meta_Kim"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:47.400Z",
+  "updatedAt": "2026-11-04T07:06:47.400Z",
+  "lastVerified": "2026-11-04T08:56:51.633Z",
+  "qualityScore": 92
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://fabform.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.616Z",
-  "updatedAt": "2026-11-04T07:06:45.616Z"
+  "updatedAt": "2026-11-04T07:06:45.616Z",
+  "lastVerified": "2026-11-04T08:50:13.485Z",
+  "qualityScore": 52
 }

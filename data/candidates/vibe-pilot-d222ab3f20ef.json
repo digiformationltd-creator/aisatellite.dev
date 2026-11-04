@@ -34,9 +34,10 @@
   "evidenceUrls": [
     "https://github.com/Gatsuke/vibe-pilot"
   ],
-  "status": "verified",
+  "status": "rejected",
   "discoveredAt": "2026-11-03T07:24:47.248Z",
   "updatedAt": "2026-11-03T07:24:47.248Z",
   "lastVerified": "2026-11-03T09:30:18.518Z",
-  "qualityScore": 91
+  "qualityScore": 91,
+  "rejectionReason": "Canonical link unreachable"
 }

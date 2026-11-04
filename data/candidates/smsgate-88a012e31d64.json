@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sms-gate.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.610Z",
-  "updatedAt": "2026-11-04T07:06:45.610Z"
+  "updatedAt": "2026-11-04T07:06:45.610Z",
+  "lastVerified": "2026-11-04T09:04:04.504Z",
+  "qualityScore": 52
 }

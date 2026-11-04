@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://paraio.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.617Z",
-  "updatedAt": "2026-11-04T07:06:45.617Z"
+  "updatedAt": "2026-11-04T07:06:45.617Z",
+  "lastVerified": "2026-11-04T08:59:33.571Z",
+  "qualityScore": 52
 }

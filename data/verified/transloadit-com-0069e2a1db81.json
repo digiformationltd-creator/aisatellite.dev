@@ -1,0 +1,22 @@
+{
+  "id": "transloadit-com-0069e2a1db81",
+  "canonicalUrl": "https://transloadit.com/",
+  "name": "transloadit.com",
+  "description": "Handles file uploads and encoding of video, audio, images, documents. Free for Open source, charities, and students via the GitHub Student Developer Pack. Commercial applications get 2 GB free for test driving",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://transloadit.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://transloadit.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:45.618Z",
+  "updatedAt": "2026-11-04T07:06:45.618Z",
+  "lastVerified": "2026-11-04T09:06:37.589Z",
+  "qualityScore": 52
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/daya0576/beaverhabits"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.746Z",
-  "updatedAt": "2026-11-04T07:06:45.746Z"
+  "updatedAt": "2026-11-04T07:06:45.746Z",
+  "lastVerified": "2026-11-04T08:45:58.381Z",
+  "qualityScore": 55
 }

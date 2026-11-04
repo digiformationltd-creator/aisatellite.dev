@@ -39,7 +39,9 @@
   "evidenceUrls": [
     "https://github.com/PatriceA/octipus"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:47.400Z",
-  "updatedAt": "2026-11-04T07:06:47.400Z"
+  "updatedAt": "2026-11-04T07:06:47.400Z",
+  "lastVerified": "2026-11-04T08:58:22.064Z",
+  "qualityScore": 89
 }

@@ -1,0 +1,22 @@
+{
+  "id": "ovh-ie-4bf678ee4f23",
+  "canonicalUrl": "https://www.ovh.ie/ssl-gateway",
+  "name": "ovh.ie",
+  "description": "Free DDoS protection and SSL certificate",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.ovh.ie/ssl-gateway/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.ovh.ie/ssl-gateway/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:45.616Z",
+  "updatedAt": "2026-11-04T07:06:45.616Z",
+  "lastVerified": "2026-11-04T08:59:22.930Z",
+  "qualityScore": 52
+}

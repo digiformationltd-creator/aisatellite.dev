@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.part-db.de/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.740Z",
-  "updatedAt": "2026-11-04T07:06:45.740Z"
+  "updatedAt": "2026-11-04T07:06:45.740Z",
+  "lastVerified": "2026-11-04T08:59:35.991Z",
+  "qualityScore": 52
 }

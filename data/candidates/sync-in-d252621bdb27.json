@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sync-in.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.739Z",
-  "updatedAt": "2026-11-04T07:06:45.739Z"
+  "updatedAt": "2026-11-04T07:06:45.739Z",
+  "lastVerified": "2026-11-04T09:05:29.188Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://octoprint.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.741Z",
-  "updatedAt": "2026-11-04T07:06:45.741Z"
+  "updatedAt": "2026-11-04T07:06:45.741Z",
+  "lastVerified": "2026-11-04T08:58:22.963Z",
+  "qualityScore": 52
 }

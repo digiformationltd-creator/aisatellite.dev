@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://hortusfox.github.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.742Z",
-  "updatedAt": "2026-11-04T07:06:45.742Z"
+  "updatedAt": "2026-11-04T07:06:45.742Z",
+  "lastVerified": "2026-11-04T08:53:05.756Z",
+  "qualityScore": 52
 }

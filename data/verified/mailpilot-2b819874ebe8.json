@@ -1,0 +1,41 @@
+{
+  "id": "mailpilot-2b819874ebe8",
+  "canonicalUrl": "https://github.com/Marqlo-C/mailpilot",
+  "name": "mailpilot",
+  "description": "Privacy-first career intelligence & inbox copilot. Combines Google Cloud Pub/Sub delta sync, zero-token heuristic classification, local Ollama / cloud BYOK inference, bot-evading job scraping, and headless PDF/DOCX tailoring. Engineered with Next.js 15, Prisma, PostgreSQL, and AES-256-GCM.",
+  "category": "local-llm",
+  "tags": [
+    "aes-256-gcm",
+    "automation",
+    "distributed-systems",
+    "google-pubsub",
+    "job-search",
+    "llm-inference",
+    "nextjs15",
+    "ollama",
+    "persona-engine",
+    "postgresql",
+    "prisma",
+    "rag",
+    "rag-pipeline",
+    "react-pdf",
+    "typescript",
+    "webhooks"
+  ],
+  "repositoryUrl": "https://github.com/Marqlo-C/mailpilot",
+  "officialUrl": "https://mailpilot-prod.vercel.app",
+  "documentationUrl": "https://mailpilot-prod.vercel.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-04T04:08:51Z",
+  "evidenceUrls": [
+    "https://github.com/Marqlo-C/mailpilot"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:46.912Z",
+  "updatedAt": "2026-11-04T07:06:46.912Z",
+  "lastVerified": "2026-11-04T08:56:14.706Z",
+  "qualityScore": 75
+}

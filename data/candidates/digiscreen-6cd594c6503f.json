@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ladigitale.dev/digiscreen/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.740Z",
-  "updatedAt": "2026-11-04T07:06:45.740Z"
+  "updatedAt": "2026-11-04T07:06:45.740Z",
+  "lastVerified": "2026-11-04T08:48:43.034Z",
+  "qualityScore": 52
 }

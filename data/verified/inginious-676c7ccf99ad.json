@@ -1,0 +1,22 @@
+{
+  "id": "inginious-676c7ccf99ad",
+  "canonicalUrl": "https://inginious.org/",
+  "name": "INGInious",
+  "description": "Intelligent grader that allows secured and automated testing of code made by students. ([Source Code](https://github.com/INGInious/INGInious), [Clients](https://github.com/INGInious/plugins)) `AGPL-3.0` `Python/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://inginious.org/?lang=en",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://inginious.org/?lang=en"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:45.741Z",
+  "updatedAt": "2026-11-04T07:06:45.741Z",
+  "lastVerified": "2026-11-04T08:53:43.240Z",
+  "qualityScore": 52
+}

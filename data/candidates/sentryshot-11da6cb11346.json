@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codeberg.org/SentryShot/sentryshot"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.746Z",
-  "updatedAt": "2026-11-04T07:06:45.746Z"
+  "updatedAt": "2026-11-04T07:06:45.746Z",
+  "lastVerified": "2026-11-04T09:03:13.372Z",
+  "qualityScore": 52
 }

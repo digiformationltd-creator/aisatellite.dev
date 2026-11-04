@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/liketrek/TREK"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.746Z",
-  "updatedAt": "2026-11-04T07:06:45.746Z"
+  "updatedAt": "2026-11-04T07:06:45.746Z",
+  "lastVerified": "2026-11-04T09:06:40.835Z",
+  "qualityScore": 55
 }

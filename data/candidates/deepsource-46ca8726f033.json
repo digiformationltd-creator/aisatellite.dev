@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://deepsource.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.607Z",
-  "updatedAt": "2026-11-04T07:06:45.607Z"
+  "updatedAt": "2026-11-04T07:06:45.607Z",
+  "lastVerified": "2026-11-04T08:48:24.889Z",
+  "qualityScore": 52
 }

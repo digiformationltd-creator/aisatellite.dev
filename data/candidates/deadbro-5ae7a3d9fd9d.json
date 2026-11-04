@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.deadbro.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.612Z",
-  "updatedAt": "2026-11-04T07:06:45.612Z"
+  "updatedAt": "2026-11-04T07:06:45.612Z",
+  "lastVerified": "2026-11-04T08:48:21.430Z",
+  "qualityScore": 52
 }

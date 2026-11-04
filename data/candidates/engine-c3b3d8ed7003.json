@@ -39,7 +39,9 @@
   "evidenceUrls": [
     "https://github.com/1bit-MONSTER/engine"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:46.912Z",
-  "updatedAt": "2026-11-04T07:06:46.912Z"
+  "updatedAt": "2026-11-04T07:06:46.912Z",
+  "lastVerified": "2026-11-04T08:49:49.320Z",
+  "qualityScore": 89
 }

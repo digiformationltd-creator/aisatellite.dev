@@ -1,0 +1,22 @@
+{
+  "id": "ethiodeploy-c0db2b858c75",
+  "canonicalUrl": "https://ethiodeploy.com/",
+  "name": "EthioDeploy",
+  "description": "Hosting and agentic coding platform containing Built-in Analytics, Database, GitHub CI/CD, free sub-domain, CLI, AI coding agent. Free tier allows one project 256 MB RAM / 0.5 CPU, sleeps after 30 min idle, 512 MB database and 100,000 tokens on the default model one time.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ethiodeploy.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ethiodeploy.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:45.616Z",
+  "updatedAt": "2026-11-04T07:06:45.616Z",
+  "lastVerified": "2026-11-04T08:49:59.480Z",
+  "qualityScore": 52
+}

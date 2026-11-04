@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://digibuzzer.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.739Z",
-  "updatedAt": "2026-11-04T07:06:45.739Z"
+  "updatedAt": "2026-11-04T07:06:45.739Z",
+  "lastVerified": "2026-11-04T08:48:39.124Z",
+  "qualityScore": 52
 }

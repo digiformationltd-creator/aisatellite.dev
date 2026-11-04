@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://open-meteo.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.742Z",
-  "updatedAt": "2026-11-04T07:06:45.742Z"
+  "updatedAt": "2026-11-04T07:06:45.742Z",
+  "lastVerified": "2026-11-04T08:58:42.956Z",
+  "qualityScore": 52
 }

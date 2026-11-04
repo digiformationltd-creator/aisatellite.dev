@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/FlintSH/Flare"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.739Z",
-  "updatedAt": "2026-11-04T07:06:45.739Z"
+  "updatedAt": "2026-11-04T07:06:45.739Z",
+  "lastVerified": "2026-11-04T08:50:33.063Z",
+  "qualityScore": 55
 }

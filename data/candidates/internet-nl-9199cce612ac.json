@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://internet.nl"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.608Z",
-  "updatedAt": "2026-11-04T07:06:45.608Z"
+  "updatedAt": "2026-11-04T07:06:45.608Z",
+  "lastVerified": "2026-11-04T08:53:47.737Z",
+  "qualityScore": 52
 }

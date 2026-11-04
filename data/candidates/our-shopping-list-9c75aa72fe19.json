@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codeberg.org/nanawel/our-shopping-list"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.746Z",
-  "updatedAt": "2026-11-04T07:06:45.746Z"
+  "updatedAt": "2026-11-04T07:06:45.746Z",
+  "lastVerified": "2026-11-04T08:59:20.111Z",
+  "qualityScore": 52
 }

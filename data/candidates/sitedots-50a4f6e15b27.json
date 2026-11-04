@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sitedots.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.606Z",
-  "updatedAt": "2026-11-04T07:06:45.606Z"
+  "updatedAt": "2026-11-04T07:06:45.606Z",
+  "lastVerified": "2026-11-04T09:03:55.812Z",
+  "qualityScore": 52
 }

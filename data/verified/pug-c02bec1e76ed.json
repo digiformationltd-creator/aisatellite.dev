@@ -1,0 +1,22 @@
+{
+  "id": "pug-c02bec1e76ed",
+  "canonicalUrl": "https://pug.sh/",
+  "name": "Pug",
+  "description": "Open-source product analytics with autocapture, trends, funnels, retention, user flows and unified user profiles. Free plan includes 100,000 events per month and 1 year of data retention.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pug.sh",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pug.sh"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:45.620Z",
+  "updatedAt": "2026-11-04T07:06:45.620Z",
+  "lastVerified": "2026-11-04T09:01:05.700Z",
+  "qualityScore": 52
+}

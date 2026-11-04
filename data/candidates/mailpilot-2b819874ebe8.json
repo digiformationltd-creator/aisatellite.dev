@@ -33,7 +33,9 @@
   "evidenceUrls": [
     "https://github.com/Marqlo-C/mailpilot"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:46.912Z",
-  "updatedAt": "2026-11-04T07:06:46.912Z"
+  "updatedAt": "2026-11-04T07:06:46.912Z",
+  "lastVerified": "2026-11-04T08:56:14.706Z",
+  "qualityScore": 75
 }

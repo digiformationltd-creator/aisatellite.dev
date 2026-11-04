@@ -1,0 +1,39 @@
+{
+  "id": "ai-codebase-vectorizer-839ff493c69a",
+  "canonicalUrl": "https://github.com/1HUNZ/AI-Codebase-Vectorizer",
+  "name": "AI-Codebase-Vectorizer",
+  "description": "RepoMap AI 2026: Map Codebases for AI Assistants Beyond Window Limits",
+  "category": "ai-coding",
+  "tags": [
+    "ai",
+    "ai-coding",
+    "claude-code",
+    "code-analysis",
+    "codebase-navigation",
+    "context-window",
+    "cursor",
+    "dependency-graph",
+    "llm",
+    "mcp",
+    "pagerank",
+    "python",
+    "repomap",
+    "token-efficient",
+    "tree-sitter",
+    "typescript"
+  ],
+  "repositoryUrl": "https://github.com/1HUNZ/AI-Codebase-Vectorizer",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-04T01:56:03Z",
+  "evidenceUrls": [
+    "https://github.com/1HUNZ/AI-Codebase-Vectorizer"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:47.400Z",
+  "updatedAt": "2026-11-04T07:06:47.400Z",
+  "lastVerified": "2026-11-04T08:44:48.777Z",
+  "qualityScore": 64
+}

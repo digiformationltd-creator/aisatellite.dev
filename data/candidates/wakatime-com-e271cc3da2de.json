@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wakatime.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.620Z",
-  "updatedAt": "2026-11-04T07:06:45.620Z"
+  "updatedAt": "2026-11-04T07:06:45.620Z",
+  "lastVerified": "2026-11-04T09:07:38.738Z",
+  "qualityScore": 52
 }

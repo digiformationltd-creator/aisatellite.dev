@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://everythingfonts.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.615Z",
-  "updatedAt": "2026-11-04T07:06:45.615Z"
+  "updatedAt": "2026-11-04T07:06:45.615Z",
+  "lastVerified": "2026-11-04T08:50:07.250Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://rustrak.github.io/rustrak/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.746Z",
-  "updatedAt": "2026-11-04T07:06:45.746Z"
+  "updatedAt": "2026-11-04T07:06:45.746Z",
+  "lastVerified": "2026-11-04T09:02:23.241Z",
+  "qualityScore": 52
 }

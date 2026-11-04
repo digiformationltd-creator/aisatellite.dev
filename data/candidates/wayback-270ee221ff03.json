@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/wabarc/wayback"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.736Z",
-  "updatedAt": "2026-11-04T07:06:45.736Z"
+  "updatedAt": "2026-11-04T07:06:45.736Z",
+  "lastVerified": "2026-11-04T09:07:48.845Z",
+  "qualityScore": 55
 }

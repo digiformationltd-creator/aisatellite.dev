@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.tagspaces.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.739Z",
-  "updatedAt": "2026-11-04T07:06:45.739Z"
+  "updatedAt": "2026-11-04T07:06:45.739Z",
+  "lastVerified": "2026-11-04T09:05:32.520Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cryptpad.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.743Z",
-  "updatedAt": "2026-11-04T07:06:45.743Z"
+  "updatedAt": "2026-11-04T07:06:45.743Z",
+  "lastVerified": "2026-11-04T08:48:00.118Z",
+  "qualityScore": 52
 }

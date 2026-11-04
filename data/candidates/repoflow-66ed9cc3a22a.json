@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://repoflow.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.606Z",
-  "updatedAt": "2026-11-04T07:06:45.606Z"
+  "updatedAt": "2026-11-04T07:06:45.606Z",
+  "lastVerified": "2026-11-04T09:01:50.640Z",
+  "qualityScore": 52
 }

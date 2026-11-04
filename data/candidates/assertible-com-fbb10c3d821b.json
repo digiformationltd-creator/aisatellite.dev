@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://assertible.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.612Z",
-  "updatedAt": "2026-11-04T07:06:45.612Z"
+  "updatedAt": "2026-11-04T07:06:45.612Z",
+  "lastVerified": "2026-11-04T08:45:33.698Z",
+  "qualityScore": 52
 }

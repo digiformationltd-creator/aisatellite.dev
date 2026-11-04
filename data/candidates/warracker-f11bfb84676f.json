@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://warracker.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.742Z",
-  "updatedAt": "2026-11-04T07:06:45.742Z"
+  "updatedAt": "2026-11-04T07:06:45.742Z",
+  "lastVerified": "2026-11-04T09:07:44.531Z",
+  "qualityScore": 52
 }

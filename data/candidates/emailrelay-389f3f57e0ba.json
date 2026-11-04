@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://emailrelay.sourceforge.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.737Z",
-  "updatedAt": "2026-11-04T07:06:45.737Z"
+  "updatedAt": "2026-11-04T07:06:45.737Z",
+  "lastVerified": "2026-11-04T08:49:38.370Z",
+  "qualityScore": 52
 }

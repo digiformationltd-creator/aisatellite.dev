@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://librekb.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.740Z",
-  "updatedAt": "2026-11-04T07:06:45.740Z"
+  "updatedAt": "2026-11-04T07:06:45.740Z",
+  "lastVerified": "2026-11-04T08:55:15.131Z",
+  "qualityScore": 52
 }

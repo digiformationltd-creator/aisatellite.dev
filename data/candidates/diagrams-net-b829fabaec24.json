@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://app.diagrams.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.618Z",
-  "updatedAt": "2026-11-04T07:06:45.618Z"
+  "updatedAt": "2026-11-04T07:06:45.618Z",
+  "lastVerified": "2026-11-04T08:48:34.554Z",
+  "qualityScore": 52
 }

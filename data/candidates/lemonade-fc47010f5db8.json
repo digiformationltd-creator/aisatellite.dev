@@ -38,7 +38,9 @@
   "evidenceUrls": [
     "https://github.com/lemonade-sdk/lemonade"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:46.912Z",
-  "updatedAt": "2026-11-04T07:06:46.912Z"
+  "updatedAt": "2026-11-04T07:06:46.912Z",
+  "lastVerified": "2026-11-04T08:55:09.234Z",
+  "qualityScore": 94
 }
