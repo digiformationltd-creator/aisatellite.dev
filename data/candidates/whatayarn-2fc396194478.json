@@ -1,0 +1,20 @@
+{
+  "id": "whatayarn-2fc396194478",
+  "canonicalUrl": "https://whatayarn.com/",
+  "name": "whatayarn",
+  "description": "Online form builder. Unlimited forms and responses on Free, subject to fair use.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://whatayarn.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://whatayarn.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.616Z",
+  "updatedAt": "2026-11-04T07:06:45.616Z"
+}

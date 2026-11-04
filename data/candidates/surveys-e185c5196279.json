@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://zoho.com/surveys"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:44.778Z",
-  "updatedAt": "2026-11-03T07:24:44.778Z",
-  "lastVerified": "2026-11-03T09:28:22.413Z",
-  "qualityScore": 47
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.604Z",
+  "updatedAt": "2026-11-04T07:06:45.604Z"
 }

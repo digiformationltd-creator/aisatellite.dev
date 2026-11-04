@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://pretix.eu/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:45.421Z",
-  "updatedAt": "2026-11-03T07:24:45.421Z",
-  "lastVerified": "2026-11-03T09:23:56.625Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.738Z",
+  "updatedAt": "2026-11-04T07:06:45.738Z"
 }

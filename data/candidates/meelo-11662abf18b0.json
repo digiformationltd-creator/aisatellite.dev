@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/Arthi-chaud/Meelo"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:45.423Z",
-  "updatedAt": "2026-11-03T07:24:45.423Z",
-  "lastVerified": "2026-11-03T09:20:30.107Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.741Z",
+  "updatedAt": "2026-11-04T07:06:45.741Z"
 }

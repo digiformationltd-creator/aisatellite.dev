@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://syncloud.org/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:45.427Z",
-  "updatedAt": "2026-11-03T07:24:45.427Z",
-  "lastVerified": "2026-11-03T09:28:35.353Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.745Z",
+  "updatedAt": "2026-11-04T07:06:45.745Z"
 }

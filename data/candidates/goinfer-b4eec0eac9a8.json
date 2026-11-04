@@ -1,0 +1,42 @@
+{
+  "id": "goinfer-b4eec0eac9a8",
+  "canonicalUrl": "https://github.com/townsendmerino/goinfer",
+  "name": "goinfer",
+  "description": "Pure-Go, no-cgo local LLM inference — run Gemma, Qwen, Llama and friends from safetensors or GGUF in a single static binary.",
+  "category": "local-llm",
+  "tags": [
+    "ai-server",
+    "cgo-free",
+    "edge-ai",
+    "gemma",
+    "gguf",
+    "go",
+    "golang",
+    "llama",
+    "llm-inference",
+    "local-llm",
+    "local-lm",
+    "mistral",
+    "moe",
+    "ollama-alternative",
+    "on-device",
+    "pure-go",
+    "qwen",
+    "safetensors",
+    "webgpu"
+  ],
+  "repositoryUrl": "https://github.com/townsendmerino/goinfer",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/townsendmerino/goinfer/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 26,
+  "githubForks": 5,
+  "lastRepositoryUpdate": "2026-11-04T06:56:22Z",
+  "evidenceUrls": [
+    "https://github.com/townsendmerino/goinfer"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:46.912Z",
+  "updatedAt": "2026-11-04T07:06:46.912Z"
+}

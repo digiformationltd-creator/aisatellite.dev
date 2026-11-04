@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/gbbirkisson/spis"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:45.426Z",
-  "updatedAt": "2026-11-03T07:24:45.426Z",
-  "lastVerified": "2026-11-03T09:27:36.262Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.744Z",
+  "updatedAt": "2026-11-04T07:06:45.744Z"
 }

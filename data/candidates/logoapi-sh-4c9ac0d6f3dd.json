@@ -2,7 +2,7 @@
   "id": "logoapi-sh-4c9ac0d6f3dd",
   "canonicalUrl": "https://logoapi.sh/",
   "name": "logoapi.sh",
-  "description": "Company logo API with no key or signup, the ideal Clearbit logo API alternative with SVG logos for any domain. 1M free requests a month per site.",
+  "description": "Company logo API with no key or signup, the ideal Clearbit logo API alternative with SVG logos for any domain. 2M free requests a month per site.",
   "category": "free-tools",
   "tags": [
     "free-tools",
@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://logoapi.sh/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:44.797Z",
-  "updatedAt": "2026-11-03T07:24:44.797Z",
-  "lastVerified": "2026-11-03T09:19:40.770Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.619Z",
+  "updatedAt": "2026-11-04T07:06:45.619Z"
 }

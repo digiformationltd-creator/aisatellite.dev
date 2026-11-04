@@ -28,14 +28,12 @@
   "freeClassification": "unknown",
   "freeTierLimitations": [],
   "githubStars": 3,
-  "githubForks": 19,
-  "lastRepositoryUpdate": "2026-11-01T21:26:20Z",
+  "githubForks": 18,
+  "lastRepositoryUpdate": "2026-11-03T08:58:23Z",
   "evidenceUrls": [
     "https://github.com/nishkohli96/awesome-apps-and-skills"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:46.089Z",
-  "updatedAt": "2026-11-03T07:24:46.089Z",
-  "lastVerified": "2026-11-03T09:09:57.512Z",
-  "qualityScore": 64
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:46.403Z",
+  "updatedAt": "2026-11-04T07:06:46.403Z"
 }

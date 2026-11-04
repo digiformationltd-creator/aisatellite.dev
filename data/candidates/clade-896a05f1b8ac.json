@@ -1,0 +1,36 @@
+{
+  "id": "clade-896a05f1b8ac",
+  "canonicalUrl": "https://github.com/shenxingy/Clade",
+  "name": "Clade",
+  "description": "Turn Claude Code and Codex from chat assistants into autonomous coding systems",
+  "category": "ai-coding",
+  "tags": [
+    "ai-coding",
+    "automation",
+    "autonomous-agent",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "hooks",
+    "mcp",
+    "mcp-server",
+    "product",
+    "skills"
+  ],
+  "repositoryUrl": "https://github.com/shenxingy/Clade",
+  "officialUrl": "https://alexshen.dev/en/blog/clade",
+  "documentationUrl": "https://alexshen.dev/en/blog/clade",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/shenxingy/Clade/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 10,
+  "githubForks": 6,
+  "lastRepositoryUpdate": "2026-11-04T05:06:27Z",
+  "evidenceUrls": [
+    "https://github.com/shenxingy/Clade"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:47.400Z",
+  "updatedAt": "2026-11-04T07:06:47.400Z"
+}

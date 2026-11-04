@@ -1,0 +1,31 @@
+{
+  "id": "local-llm-bakeoff-094001eec0e1",
+  "canonicalUrl": "https://github.com/adithyanraj03/local-llm-bakeoff",
+  "name": "local-llm-bakeoff",
+  "description": "Same prompt, same local harness: two NVFP4 Qwen 3.8s build a first-person motorcycle game. 27B orca-uncensored on ninfer (~160 tok/s, 89:44) vs FN on basalt (~100 tok/s, 90:54) - session recordings, code and side-by-side comparison.",
+  "category": "local-llm",
+  "tags": [
+    "benchmark",
+    "browser-game",
+    "deepseek-harness",
+    "llm-inference",
+    "local-llm",
+    "model-comparison",
+    "nvfp4",
+    "quantization",
+    "qwen3",
+    "threejs"
+  ],
+  "repositoryUrl": "https://github.com/adithyanraj03/local-llm-bakeoff",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-04T07:06:07Z",
+  "evidenceUrls": [
+    "https://github.com/adithyanraj03/local-llm-bakeoff"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:46.912Z",
+  "updatedAt": "2026-11-04T07:06:46.912Z"
+}

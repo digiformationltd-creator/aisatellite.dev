@@ -1,0 +1,20 @@
+{
+  "id": "usagerail-40b35935003b",
+  "canonicalUrl": "https://usagerail.com/",
+  "name": "UsageRail",
+  "description": "API keys, rate limits, quotas and usage-based billing for paid APIs, checked inside your own server with no gateway. Free up to $1,000/month billed and 1M requests/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://usagerail.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://usagerail.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.621Z",
+  "updatedAt": "2026-11-04T07:06:45.621Z"
+}

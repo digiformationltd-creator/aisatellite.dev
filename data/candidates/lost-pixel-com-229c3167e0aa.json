@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://lost-pixel.com"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-03T07:24:44.786Z",
-  "updatedAt": "2026-11-03T07:24:44.786Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.608Z",
+  "updatedAt": "2026-11-04T07:06:45.608Z"
 }

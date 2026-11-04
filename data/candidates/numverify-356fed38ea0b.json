@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://numverify.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:44.799Z",
-  "updatedAt": "2026-11-03T07:24:44.799Z",
-  "lastVerified": "2026-11-03T09:21:57.848Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.621Z",
+  "updatedAt": "2026-11-04T07:06:45.621Z"
 }

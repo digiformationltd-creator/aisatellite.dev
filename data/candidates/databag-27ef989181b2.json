@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/balzack/databag"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:45.419Z",
-  "updatedAt": "2026-11-03T07:24:45.419Z",
-  "lastVerified": "2026-11-03T09:12:31.214Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.737Z",
+  "updatedAt": "2026-11-04T07:06:45.737Z"
 }

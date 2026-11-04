@@ -1,0 +1,20 @@
+{
+  "id": "cybershield-studio-2c5d6fcb1104",
+  "canonicalUrl": "https://cybershieldstudio.com/",
+  "name": "CyberShield Studio",
+  "description": "Security monitoring for e-commerce store operators and developers. Weekly scans for JavaScript changes or injection, tracking before consent, security header settings, and vulnerable client-side libraries and WordPress plugins. Free plan monitors 1 store (home page + checkout path) with 30 days of history. No credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cybershieldstudio.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cybershieldstudio.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.608Z",
+  "updatedAt": "2026-11-04T07:06:45.608Z"
+}

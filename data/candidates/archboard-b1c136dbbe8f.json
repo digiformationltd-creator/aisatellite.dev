@@ -1,0 +1,20 @@
+{
+  "id": "archboard-b1c136dbbe8f",
+  "canonicalUrl": "https://getarchboard.app/",
+  "name": "Archboard",
+  "description": "Architecture diagrams your team and AI agents edit live. Free plan: 1 seat, 3 diagrams, all built-in node packs and live editing with your AI agents (MCP).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://getarchboard.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://getarchboard.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.618Z",
+  "updatedAt": "2026-11-04T07:06:45.618Z"
+}

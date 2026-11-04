@@ -16,10 +16,8 @@
     "https://glitchtip.com/",
     "https://glitchtip.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:45.428Z",
-  "updatedAt": "2026-11-03T07:24:47.252Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-03T09:16:15.598Z",
-  "qualityScore": 57
+  "status": "discovered",
+  "discoveredAt": "2026-11-04T07:06:45.746Z",
+  "updatedAt": "2026-11-04T07:06:47.404Z",
+  "githubStars": 0
 }
