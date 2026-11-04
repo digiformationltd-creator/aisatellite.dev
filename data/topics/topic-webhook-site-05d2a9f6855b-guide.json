@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-webhook-site-05d2a9f6855b-guide",
+  "title": "How to Deploy webhook.site in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-webhook-site-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for webhook.site.",
+  "targetKeywords": [
+    "webhook.site",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://webhook.site"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting webhook.site with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

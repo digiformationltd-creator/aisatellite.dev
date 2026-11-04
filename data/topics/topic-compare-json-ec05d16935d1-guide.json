@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-compare-json-ec05d16935d1-guide",
+  "title": "How to Deploy Compare JSON in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-compare-json-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Compare JSON.",
+  "targetKeywords": [
+    "Compare JSON",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://comparejson.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Compare JSON with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

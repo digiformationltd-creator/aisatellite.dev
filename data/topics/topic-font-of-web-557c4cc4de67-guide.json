@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-font-of-web-557c4cc4de67-guide",
+  "title": "How to Deploy Font of web in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-font-of-web-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Font of web.",
+  "targetKeywords": [
+    "Font of web",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fontofweb.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Font of web with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

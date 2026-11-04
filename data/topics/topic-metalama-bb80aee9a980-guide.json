@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-metalama-bb80aee9a980-guide",
+  "title": "How to Deploy Metalama in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-metalama-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Metalama.",
+  "targetKeywords": [
+    "Metalama",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.postsharp.net/metalama"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Metalama with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

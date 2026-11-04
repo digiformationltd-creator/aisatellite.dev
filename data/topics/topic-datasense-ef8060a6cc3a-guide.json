@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-datasense-ef8060a6cc3a-guide",
+  "title": "How to Deploy Datasense in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-datasense-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Datasense.",
+  "targetKeywords": [
+    "Datasense",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://usedatasense.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Datasense with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

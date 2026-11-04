@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-youtubedl-server-bc0e8a89a6d8-guide",
+  "title": "How to Deploy YoutubeDL-Server in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-youtubedl-server-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for YoutubeDL-Server.",
+  "targetKeywords": [
+    "YoutubeDL-Server",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/nbr23/youtube-dl-server"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting YoutubeDL-Server with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

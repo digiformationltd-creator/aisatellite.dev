@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gokanban-io-ef503b150649-guide",
+  "title": "How to Deploy gokanban.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gokanban-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for gokanban.io.",
+  "targetKeywords": [
+    "gokanban.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gokanban.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting gokanban.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

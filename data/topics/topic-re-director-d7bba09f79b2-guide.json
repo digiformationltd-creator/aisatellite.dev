@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-re-director-d7bba09f79b2-guide",
+  "title": "How to Deploy re:Director in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-re-director-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for re:Director.",
+  "targetKeywords": [
+    "re:Director",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://re-director.github.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting re:Director with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

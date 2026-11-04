@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-microsoft-365-developer-program-fca027b55cfd-guide",
+  "title": "How to Deploy Microsoft 365 Developer Program in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-microsoft-365-developer-program-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Microsoft 365 Developer Program.",
+  "targetKeywords": [
+    "Microsoft 365 Developer Program",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developer.microsoft.com/microsoft-365/dev-program"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Microsoft 365 Developer Program with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

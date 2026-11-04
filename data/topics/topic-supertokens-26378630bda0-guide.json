@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-supertokens-26378630bda0-guide",
+  "title": "How to Deploy SuperTokens in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-supertokens-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SuperTokens.",
+  "targetKeywords": [
+    "SuperTokens",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://supertokens.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SuperTokens with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

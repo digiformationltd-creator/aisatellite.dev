@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-baby-buddy-cadc38d3e009-guide",
+  "title": "How to Deploy Baby Buddy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-baby-buddy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Baby Buddy.",
+  "targetKeywords": [
+    "Baby Buddy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/babybuddy/babybuddy"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Baby Buddy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

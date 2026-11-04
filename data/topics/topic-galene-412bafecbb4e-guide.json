@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-galene-412bafecbb4e-guide",
+  "title": "How to Deploy Galene in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-galene-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Galene.",
+  "targetKeywords": [
+    "Galene",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://galene.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Galene with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

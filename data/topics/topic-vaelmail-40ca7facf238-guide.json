@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vaelmail-40ca7facf238-guide",
+  "title": "How to Deploy VaelMail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vaelmail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for VaelMail.",
+  "targetKeywords": [
+    "VaelMail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vaelmail.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting VaelMail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

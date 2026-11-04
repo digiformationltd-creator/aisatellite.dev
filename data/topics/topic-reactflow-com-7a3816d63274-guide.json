@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-reactflow-com-7a3816d63274-guide",
+  "title": "How to Deploy Reactflow.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-reactflow-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Reactflow.com.",
+  "targetKeywords": [
+    "Reactflow.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.reactflow.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Reactflow.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

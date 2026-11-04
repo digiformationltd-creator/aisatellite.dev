@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ejabberd-695390bec3ee-guide",
+  "title": "How to Deploy ejabberd in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ejabberd-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ejabberd.",
+  "targetKeywords": [
+    "ejabberd",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.ejabberd.im/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ejabberd with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

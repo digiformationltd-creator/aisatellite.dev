@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-domoticz-d44a029e6846-guide",
+  "title": "How to Deploy Domoticz in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-domoticz-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Domoticz.",
+  "targetKeywords": [
+    "Domoticz",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.domoticz.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Domoticz with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

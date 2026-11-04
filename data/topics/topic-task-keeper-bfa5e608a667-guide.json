@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-task-keeper-bfa5e608a667-guide",
+  "title": "How to Deploy Task Keeper in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-task-keeper-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Task Keeper.",
+  "targetKeywords": [
+    "Task Keeper",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/nymanjens/piga"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Task Keeper with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

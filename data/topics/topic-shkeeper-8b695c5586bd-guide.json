@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shkeeper-8b695c5586bd-guide",
+  "title": "How to Deploy SHKeeper in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shkeeper-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SHKeeper.",
+  "targetKeywords": [
+    "SHKeeper",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://shkeeper.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SHKeeper with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pennywise-content-curator-fe6ce01926db-guide",
+  "title": "How to Deploy Pennywise-Content-Curator in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pennywise-content-curator-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pennywise-Content-Curator.",
+  "targetKeywords": [
+    "Pennywise-Content-Curator",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Suryadimerantikab/Pennywise-Content-Curator"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting Pennywise-Content-Curator with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

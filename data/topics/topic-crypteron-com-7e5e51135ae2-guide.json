@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-crypteron-com-7e5e51135ae2-guide",
+  "title": "How to Deploy crypteron.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-crypteron-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for crypteron.com.",
+  "targetKeywords": [
+    "crypteron.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.crypteron.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting crypteron.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-auto-mcs-c1d3455432cd-guide",
+  "title": "How to Deploy auto-mcs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-auto-mcs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for auto-mcs.",
+  "targetKeywords": [
+    "auto-mcs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.auto-mcs.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting auto-mcs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

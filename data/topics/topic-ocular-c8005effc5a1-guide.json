@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ocular-c8005effc5a1-guide",
+  "title": "How to Deploy Ocular in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ocular-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ocular.",
+  "targetKeywords": [
+    "Ocular",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://simonwep.github.io/ocular/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ocular with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

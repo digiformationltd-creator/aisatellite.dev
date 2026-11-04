@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pingmeter-com-cb5581031599-guide",
+  "title": "How to Deploy Pingmeter.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pingmeter-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pingmeter.com.",
+  "targetKeywords": [
+    "Pingmeter.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pingmeter.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pingmeter.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

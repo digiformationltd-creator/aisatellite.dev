@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-budibase-d4e1a07a2466-guide",
+  "title": "How to Deploy BudiBase in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-budibase-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BudiBase.",
+  "targetKeywords": [
+    "BudiBase",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://budibase.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BudiBase with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

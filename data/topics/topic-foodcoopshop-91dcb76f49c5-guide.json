@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-foodcoopshop-91dcb76f49c5-guide",
+  "title": "How to Deploy FoodCoopShop in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-foodcoopshop-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FoodCoopShop.",
+  "targetKeywords": [
+    "FoodCoopShop",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.foodcoopshop.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FoodCoopShop with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

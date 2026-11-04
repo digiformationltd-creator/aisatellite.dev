@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-internet-nl-9199cce612ac-guide",
+  "title": "How to Deploy Internet.nl in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-internet-nl-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Internet.nl.",
+  "targetKeywords": [
+    "Internet.nl",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://internet.nl"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Internet.nl with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.602Z"
+}

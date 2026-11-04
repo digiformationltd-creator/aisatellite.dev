@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-meme-search-feded169981b-guide",
+  "title": "How to Deploy Meme Search in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-meme-search-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Meme Search.",
+  "targetKeywords": [
+    "Meme Search",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/neonwatty/meme-search"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Meme Search with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

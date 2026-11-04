@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-archboard-b1c136dbbe8f-guide",
+  "title": "How to Deploy Archboard in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-archboard-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Archboard.",
+  "targetKeywords": [
+    "Archboard",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://getarchboard.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Archboard with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

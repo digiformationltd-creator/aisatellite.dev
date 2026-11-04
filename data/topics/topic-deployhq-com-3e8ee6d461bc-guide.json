@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deployhq-com-3e8ee6d461bc-guide",
+  "title": "How to Deploy deployhq.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deployhq-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for deployhq.com.",
+  "targetKeywords": [
+    "deployhq.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.deployhq.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting deployhq.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

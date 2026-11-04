@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tracelog-b52eb27d64e0-guide",
+  "title": "How to Deploy TraceLog in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tracelog-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TraceLog.",
+  "targetKeywords": [
+    "TraceLog",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tracelog.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TraceLog with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

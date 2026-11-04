@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-beste-baf03f68a8af-guide",
+  "title": "How to Deploy Beste in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-beste-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Beste.",
+  "targetKeywords": [
+    "Beste",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://beste.co"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Beste with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

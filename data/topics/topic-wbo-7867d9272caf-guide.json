@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wbo-7867d9272caf-guide",
+  "title": "How to Deploy WBO in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wbo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WBO.",
+  "targetKeywords": [
+    "WBO",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/lovasoa/whitebophir"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting WBO with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

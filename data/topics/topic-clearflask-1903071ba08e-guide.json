@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-clearflask-1903071ba08e-guide",
+  "title": "How to Deploy ClearFlask in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-clearflask-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ClearFlask.",
+  "targetKeywords": [
+    "ClearFlask",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://clearflask.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ClearFlask with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

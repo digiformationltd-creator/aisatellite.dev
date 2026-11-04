@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jupyterlab-6f7173ce1e9c-guide",
+  "title": "How to Deploy JupyterLab in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jupyterlab-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for JupyterLab.",
+  "targetKeywords": [
+    "JupyterLab",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jupyterlab.readthedocs.io/en/stable/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting JupyterLab with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.602Z"
+}

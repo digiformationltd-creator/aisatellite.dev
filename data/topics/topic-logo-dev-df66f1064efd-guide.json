@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-logo-dev-df66f1064efd-guide",
+  "title": "How to Deploy Logo.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-logo-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Logo.dev.",
+  "targetKeywords": [
+    "Logo.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.logo.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Logo.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

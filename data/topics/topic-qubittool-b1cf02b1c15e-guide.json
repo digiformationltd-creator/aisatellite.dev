@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-qubittool-b1cf02b1c15e-guide",
+  "title": "How to Deploy qubittool in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-qubittool-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for qubittool.",
+  "targetKeywords": [
+    "qubittool",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/qubittool/qubittool"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting qubittool with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

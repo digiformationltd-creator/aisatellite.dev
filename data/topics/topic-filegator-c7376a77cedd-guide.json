@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-filegator-c7376a77cedd-guide",
+  "title": "How to Deploy FileGator in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-filegator-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FileGator.",
+  "targetKeywords": [
+    "FileGator",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://filegator.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FileGator with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

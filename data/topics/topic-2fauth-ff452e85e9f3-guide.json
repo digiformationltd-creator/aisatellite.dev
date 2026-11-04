@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-2fauth-ff452e85e9f3-guide",
+  "title": "How to Deploy 2FAuth in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-2fauth-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for 2FAuth.",
+  "targetKeywords": [
+    "2FAuth",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Bubka/2FAuth"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting 2FAuth with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

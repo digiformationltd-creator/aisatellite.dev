@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-promoproxy-836f2fc3cb7f-guide",
+  "title": "How to Deploy PromoProxy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-promoproxy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PromoProxy.",
+  "targetKeywords": [
+    "PromoProxy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://promoproxy.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PromoProxy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

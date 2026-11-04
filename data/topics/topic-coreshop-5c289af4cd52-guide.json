@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-coreshop-5c289af4cd52-guide",
+  "title": "How to Deploy CoreShop in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-coreshop-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CoreShop.",
+  "targetKeywords": [
+    "CoreShop",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.coreshop.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CoreShop with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

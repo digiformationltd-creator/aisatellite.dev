@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-local-deep-research-01c580dcfe10-guide",
+  "title": "How to Deploy Local Deep Research in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-local-deep-research-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Local Deep Research.",
+  "targetKeywords": [
+    "Local Deep Research",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/LearningCircuit/local-deep-research"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Local Deep Research with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-developers-google-com-42508154d488-guide",
+  "title": "How to Deploy developers.google.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-developers-google-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for developers.google.com.",
+  "targetKeywords": [
+    "developers.google.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developers.google.com/speed/libraries/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting developers.google.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

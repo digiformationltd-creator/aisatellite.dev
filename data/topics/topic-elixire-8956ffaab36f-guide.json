@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-elixire-8956ffaab36f-guide",
+  "title": "How to Deploy elixire in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-elixire-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for elixire.",
+  "targetKeywords": [
+    "elixire",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gitlab.com/elixire/elixire"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting elixire with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ngircd-3ce223c52290-guide",
+  "title": "How to Deploy ngircd in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ngircd-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ngircd.",
+  "targetKeywords": [
+    "ngircd",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ngircd.barton.de/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ngircd with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

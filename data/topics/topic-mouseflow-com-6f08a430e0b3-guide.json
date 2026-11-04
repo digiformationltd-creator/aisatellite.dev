@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mouseflow-com-6f08a430e0b3-guide",
+  "title": "How to Deploy mouseflow.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mouseflow-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mouseflow.com.",
+  "targetKeywords": [
+    "mouseflow.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mouseflow.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mouseflow.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

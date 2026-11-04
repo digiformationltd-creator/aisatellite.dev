@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-expensify-6f3eb4093b3f-guide",
+  "title": "How to Deploy Expensify in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-expensify-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Expensify.",
+  "targetKeywords": [
+    "Expensify",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.expensify.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Expensify with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

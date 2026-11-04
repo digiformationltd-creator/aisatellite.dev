@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-downtimemonkey-com-8ad1229d8a87-guide",
+  "title": "How to Deploy downtimemonkey.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-downtimemonkey-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for downtimemonkey.com.",
+  "targetKeywords": [
+    "downtimemonkey.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://downtimemonkey.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting downtimemonkey.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

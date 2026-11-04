@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jitsi-meet-272f8f5d0bff-guide",
+  "title": "How to Deploy Jitsi Meet in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jitsi-meet-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Jitsi Meet.",
+  "targetKeywords": [
+    "Jitsi Meet",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jitsi.org/Projects/JitsiMeet"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Jitsi Meet with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.602Z"
+}

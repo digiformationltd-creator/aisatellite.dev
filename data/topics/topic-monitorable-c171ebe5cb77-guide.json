@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-monitorable-c171ebe5cb77-guide",
+  "title": "How to Deploy Monitorable in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-monitorable-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Monitorable.",
+  "targetKeywords": [
+    "Monitorable",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://monitorable.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Monitorable with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

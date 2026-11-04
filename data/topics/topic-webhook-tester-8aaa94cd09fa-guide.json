@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-webhook-tester-8aaa94cd09fa-guide",
+  "title": "How to Deploy WebHook Tester in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-webhook-tester-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WebHook Tester.",
+  "targetKeywords": [
+    "WebHook Tester",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/tarampampam/webhook-tester"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting WebHook Tester with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

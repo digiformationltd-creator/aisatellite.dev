@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-inspector-dev-e334bd1eb44f-guide",
+  "title": "How to Deploy inspector.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-inspector-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for inspector.dev.",
+  "targetKeywords": [
+    "inspector.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.inspector.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting inspector.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.602Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cognitive-search-5b2d83785b85-guide",
+  "title": "How to Deploy Cognitive Search in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cognitive-search-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cognitive Search.",
+  "targetKeywords": [
+    "Cognitive Search",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/search/#features"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cognitive Search with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-snipo-fa347f1f6410-guide",
+  "title": "How to Deploy Snipo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-snipo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Snipo.",
+  "targetKeywords": [
+    "Snipo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/MohamedElashri/snipo"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Snipo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

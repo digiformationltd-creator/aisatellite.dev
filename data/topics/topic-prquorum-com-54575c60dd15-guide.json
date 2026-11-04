@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-prquorum-com-54575c60dd15-guide",
+  "title": "How to Deploy prquorum.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-prquorum-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for prquorum.com.",
+  "targetKeywords": [
+    "prquorum.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://prquorum.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting prquorum.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

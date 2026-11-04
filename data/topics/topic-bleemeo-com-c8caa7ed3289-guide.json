@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bleemeo-com-c8caa7ed3289-guide",
+  "title": "How to Deploy bleemeo.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bleemeo-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for bleemeo.com.",
+  "targetKeywords": [
+    "bleemeo.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bleemeo.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting bleemeo.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

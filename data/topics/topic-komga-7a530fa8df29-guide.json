@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-komga-7a530fa8df29-guide",
+  "title": "How to Deploy Komga in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-komga-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Komga.",
+  "targetKeywords": [
+    "Komga",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://komga.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Komga with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.603Z"
+}

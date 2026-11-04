@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-nextgis-web-8fbfc7091e90-guide",
+  "title": "How to Deploy NextGIS Web in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-nextgis-web-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for NextGIS Web.",
+  "targetKeywords": [
+    "NextGIS Web",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://nextgis.com/nextgis-web/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting NextGIS Web with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

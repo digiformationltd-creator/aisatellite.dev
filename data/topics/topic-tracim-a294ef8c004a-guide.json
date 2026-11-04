@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tracim-a294ef8c004a-guide",
+  "title": "How to Deploy Tracim in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tracim-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tracim.",
+  "targetKeywords": [
+    "Tracim",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/tracim/tracim"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Tracim with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

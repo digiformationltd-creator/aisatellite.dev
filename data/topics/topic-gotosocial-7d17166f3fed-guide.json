@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gotosocial-7d17166f3fed-guide",
+  "title": "How to Deploy GoToSocial in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gotosocial-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GoToSocial.",
+  "targetKeywords": [
+    "GoToSocial",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.gotosocial.org/en/latest/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GoToSocial with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

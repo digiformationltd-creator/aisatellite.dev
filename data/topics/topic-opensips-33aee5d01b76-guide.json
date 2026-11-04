@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-opensips-33aee5d01b76-guide",
+  "title": "How to Deploy openSIPS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-opensips-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for openSIPS.",
+  "targetKeywords": [
+    "openSIPS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://opensips.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting openSIPS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

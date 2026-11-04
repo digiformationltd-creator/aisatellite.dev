@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-codefactor-23388dd36227-guide",
+  "title": "How to Deploy CodeFactor in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-codefactor-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CodeFactor.",
+  "targetKeywords": [
+    "CodeFactor",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.codefactor.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CodeFactor with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

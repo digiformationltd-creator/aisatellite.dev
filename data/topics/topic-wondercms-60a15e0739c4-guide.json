@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wondercms-60a15e0739c4-guide",
+  "title": "How to Deploy WonderCMS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wondercms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WonderCMS.",
+  "targetKeywords": [
+    "WonderCMS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.wondercms.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting WonderCMS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

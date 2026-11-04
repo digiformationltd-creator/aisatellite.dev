@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-imgbot-42b307b13a29-guide",
+  "title": "How to Deploy Imgbot in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-imgbot-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Imgbot.",
+  "targetKeywords": [
+    "Imgbot",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/marketplace/imgbot"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Imgbot with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

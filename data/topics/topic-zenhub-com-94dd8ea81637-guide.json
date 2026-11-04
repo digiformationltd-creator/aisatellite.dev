@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zenhub-com-94dd8ea81637-guide",
+  "title": "How to Deploy zenhub.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zenhub-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for zenhub.com.",
+  "targetKeywords": [
+    "zenhub.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.zenhub.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting zenhub.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

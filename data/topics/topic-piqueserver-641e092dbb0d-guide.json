@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-piqueserver-641e092dbb0d-guide",
+  "title": "How to Deploy piqueserver in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-piqueserver-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for piqueserver.",
+  "targetKeywords": [
+    "piqueserver",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/piqueserver/piqueserver"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting piqueserver with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-snapcast-6b1fb76ece06-guide",
+  "title": "How to Deploy Snapcast in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-snapcast-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Snapcast.",
+  "targetKeywords": [
+    "Snapcast",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/snapcast/snapcast"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Snapcast with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

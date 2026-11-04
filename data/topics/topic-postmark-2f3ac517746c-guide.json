@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-postmark-2f3ac517746c-guide",
+  "title": "How to Deploy Postmark in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-postmark-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Postmark.",
+  "targetKeywords": [
+    "Postmark",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://postmarkapp.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Postmark with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

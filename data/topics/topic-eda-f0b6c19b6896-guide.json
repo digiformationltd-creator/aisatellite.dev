@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-eda-f0b6c19b6896-guide",
+  "title": "How to Deploy EDA in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-eda-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for EDA.",
+  "targetKeywords": [
+    "EDA",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/jortilles/EDA"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting EDA with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

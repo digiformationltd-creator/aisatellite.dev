@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hedgedoc-383bb5db13d7-guide",
+  "title": "How to Deploy HedgeDoc in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hedgedoc-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HedgeDoc.",
+  "targetKeywords": [
+    "HedgeDoc",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hedgedoc.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HedgeDoc with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-replit-b8dc840fe342-guide",
+  "title": "How to Deploy Replit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-replit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Replit.",
+  "targetKeywords": [
+    "Replit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://replit.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Replit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

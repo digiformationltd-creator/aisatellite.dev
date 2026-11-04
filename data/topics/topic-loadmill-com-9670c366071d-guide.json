@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-loadmill-com-9670c366071d-guide",
+  "title": "How to Deploy loadmill.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-loadmill-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for loadmill.com.",
+  "targetKeywords": [
+    "loadmill.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.loadmill.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting loadmill.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

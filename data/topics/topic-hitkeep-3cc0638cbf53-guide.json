@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hitkeep-3cc0638cbf53-guide",
+  "title": "How to Deploy HitKeep in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hitkeep-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HitKeep.",
+  "targetKeywords": [
+    "HitKeep",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hitkeep.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HitKeep with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

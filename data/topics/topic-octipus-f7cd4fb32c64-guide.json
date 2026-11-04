@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-octipus-f7cd4fb32c64-guide",
+  "title": "How to Deploy octipus in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-octipus-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for octipus.",
+  "targetKeywords": [
+    "octipus",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/PatriceA/octipus"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting octipus with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

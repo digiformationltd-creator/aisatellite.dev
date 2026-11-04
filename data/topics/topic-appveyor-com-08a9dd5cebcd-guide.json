@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-appveyor-com-08a9dd5cebcd-guide",
+  "title": "How to Deploy appveyor.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-appveyor-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for appveyor.com.",
+  "targetKeywords": [
+    "appveyor.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.appveyor.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting appveyor.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

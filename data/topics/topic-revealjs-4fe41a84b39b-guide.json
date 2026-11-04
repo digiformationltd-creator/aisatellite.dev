@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-revealjs-4fe41a84b39b-guide",
+  "title": "How to Deploy revealjs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-revealjs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for revealjs.",
+  "targetKeywords": [
+    "revealjs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://revealjs.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting revealjs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

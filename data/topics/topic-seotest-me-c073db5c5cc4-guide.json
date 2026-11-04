@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-seotest-me-c073db5c5cc4-guide",
+  "title": "How to Deploy seotest.me in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-seotest-me-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for seotest.me.",
+  "targetKeywords": [
+    "seotest.me",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://seotest.me/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting seotest.me with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

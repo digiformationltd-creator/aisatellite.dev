@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-anycable-01e4a600c2e5-guide",
+  "title": "How to Deploy AnyCable in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-anycable-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AnyCable.",
+  "targetKeywords": [
+    "AnyCable",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://anycable.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AnyCable with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

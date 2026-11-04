@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-nasdisks-drive-data-api-301799fc25cc-guide",
+  "title": "How to Deploy NASdisks Drive Data API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-nasdisks-drive-data-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for NASdisks Drive Data API.",
+  "targetKeywords": [
+    "NASdisks Drive Data API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.nasdisks.com/data/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting NASdisks Drive Data API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

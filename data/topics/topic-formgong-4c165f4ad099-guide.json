@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-formgong-4c165f4ad099-guide",
+  "title": "How to Deploy Formgong in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-formgong-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Formgong.",
+  "targetKeywords": [
+    "Formgong",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://formgong.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Formgong with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

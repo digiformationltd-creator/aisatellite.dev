@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gameyfin-7226ac8f51de-guide",
+  "title": "How to Deploy Gameyfin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gameyfin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gameyfin.",
+  "targetKeywords": [
+    "Gameyfin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gameyfin.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Gameyfin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

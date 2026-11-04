@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-screen-sharing-via-browser-4f339af2cdd7-guide",
+  "title": "How to Deploy Screen Sharing via Browser in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-screen-sharing-via-browser-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Screen Sharing via Browser.",
+  "targetKeywords": [
+    "Screen Sharing via Browser",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://screensharing.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Screen Sharing via Browser with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

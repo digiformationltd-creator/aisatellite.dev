@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-npoint-io-453eed2f1120-guide",
+  "title": "How to Deploy npoint.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-npoint-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for npoint.io.",
+  "targetKeywords": [
+    "npoint.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.npoint.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting npoint.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

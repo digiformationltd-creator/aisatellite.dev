@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kill-bill-1b440751ce14-guide",
+  "title": "How to Deploy Kill Bill in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kill-bill-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kill Bill.",
+  "targetKeywords": [
+    "Kill Bill",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://killbill.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kill Bill with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.603Z"
+}

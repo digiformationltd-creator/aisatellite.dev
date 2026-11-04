@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ruttl-com-a342e17f7b9d-guide",
+  "title": "How to Deploy ruttl.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ruttl-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ruttl.com.",
+  "targetKeywords": [
+    "ruttl.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ruttl.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ruttl.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

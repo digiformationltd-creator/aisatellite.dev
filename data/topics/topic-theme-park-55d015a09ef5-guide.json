@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-theme-park-55d015a09ef5-guide",
+  "title": "How to Deploy theme.park in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-theme-park-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for theme.park.",
+  "targetKeywords": [
+    "theme.park",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://theme-park.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting theme.park with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

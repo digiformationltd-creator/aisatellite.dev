@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-inboxes-app-ab55e347951b-guide",
+  "title": "How to Deploy Inboxes App in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-inboxes-app-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Inboxes App.",
+  "targetKeywords": [
+    "Inboxes App",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://inboxesapp.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Inboxes App with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

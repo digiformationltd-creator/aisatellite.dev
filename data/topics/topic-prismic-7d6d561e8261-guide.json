@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-prismic-7d6d561e8261-guide",
+  "title": "How to Deploy Prismic in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-prismic-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Prismic.",
+  "targetKeywords": [
+    "Prismic",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.prismic.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Prismic with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

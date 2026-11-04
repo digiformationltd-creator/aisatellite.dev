@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-geekflare-api-da341af38c62-guide",
+  "title": "How to Deploy Geekflare API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-geekflare-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Geekflare API.",
+  "targetKeywords": [
+    "Geekflare API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://geekflare.com/api/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Geekflare API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.601Z"
+}

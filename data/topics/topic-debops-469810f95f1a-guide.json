@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-debops-469810f95f1a-guide",
+  "title": "How to Deploy DebOps in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-debops-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DebOps.",
+  "targetKeywords": [
+    "DebOps",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.debops.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DebOps with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

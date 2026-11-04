@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-simpledms-8c5ff442acb2-guide",
+  "title": "How to Deploy SimpleDMS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-simpledms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SimpleDMS.",
+  "targetKeywords": [
+    "SimpleDMS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://simpledms.eu"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SimpleDMS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

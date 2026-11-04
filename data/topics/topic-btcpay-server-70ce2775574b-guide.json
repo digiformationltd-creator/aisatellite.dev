@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-btcpay-server-70ce2775574b-guide",
+  "title": "How to Deploy BTCPay Server in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-btcpay-server-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BTCPay Server.",
+  "targetKeywords": [
+    "BTCPay Server",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://btcpayserver.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BTCPay Server with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

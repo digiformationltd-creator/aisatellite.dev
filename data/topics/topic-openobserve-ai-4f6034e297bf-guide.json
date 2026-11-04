@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openobserve-ai-4f6034e297bf-guide",
+  "title": "How to Deploy openobserve.ai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openobserve-ai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for openobserve.ai.",
+  "targetKeywords": [
+    "openobserve.ai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://openobserve.ai/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting openobserve.ai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

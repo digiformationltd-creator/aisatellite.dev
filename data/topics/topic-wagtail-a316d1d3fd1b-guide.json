@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wagtail-a316d1d3fd1b-guide",
+  "title": "How to Deploy Wagtail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wagtail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Wagtail.",
+  "targetKeywords": [
+    "Wagtail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wagtail.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Wagtail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

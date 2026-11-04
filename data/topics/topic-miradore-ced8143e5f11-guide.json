@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-miradore-ced8143e5f11-guide",
+  "title": "How to Deploy Miradore in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-miradore-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Miradore.",
+  "targetKeywords": [
+    "Miradore",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://miradore.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Miradore with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

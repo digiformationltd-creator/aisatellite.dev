@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-opencart-3aeec5aa979e-guide",
+  "title": "How to Deploy OpenCart in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-opencart-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenCart.",
+  "targetKeywords": [
+    "OpenCart",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.opencart.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenCart with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

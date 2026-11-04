@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-langfuse-487a19443972-guide",
+  "title": "How to Deploy Langfuse in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-langfuse-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Langfuse.",
+  "targetKeywords": [
+    "Langfuse",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://langfuse.com/",
+    "https://langfuse.com"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting Langfuse with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

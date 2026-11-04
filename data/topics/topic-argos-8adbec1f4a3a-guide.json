@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-argos-8adbec1f4a3a-guide",
+  "title": "How to Deploy Argos in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-argos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Argos.",
+  "targetKeywords": [
+    "Argos",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://argos-ci.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Argos with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

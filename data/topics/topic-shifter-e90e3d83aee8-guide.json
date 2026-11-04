@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shifter-e90e3d83aee8-guide",
+  "title": "How to Deploy Shifter in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shifter-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Shifter.",
+  "targetKeywords": [
+    "Shifter",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/TobySuch/Shifter"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Shifter with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

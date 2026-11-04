@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vendure-be50a15e2107-guide",
+  "title": "How to Deploy Vendure in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vendure-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Vendure.",
+  "targetKeywords": [
+    "Vendure",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.vendure.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Vendure with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

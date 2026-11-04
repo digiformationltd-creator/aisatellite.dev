@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-onomeo-7ed508285402-guide",
+  "title": "How to Deploy onomeo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-onomeo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for onomeo.",
+  "targetKeywords": [
+    "onomeo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://onomeo.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting onomeo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

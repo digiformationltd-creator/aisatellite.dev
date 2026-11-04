@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-okta-0b98ef31a27e-guide",
+  "title": "How to Deploy Okta in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-okta-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Okta.",
+  "targetKeywords": [
+    "Okta",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developer.okta.com/signup/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Okta with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-onyx-community-edition-a8e66e82d0b9-guide",
+  "title": "How to Deploy Onyx Community Edition in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-onyx-community-edition-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Onyx Community Edition.",
+  "targetKeywords": [
+    "Onyx Community Edition",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://onyx.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Onyx Community Edition with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

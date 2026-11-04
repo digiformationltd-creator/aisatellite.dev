@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-calibre-web-automated-160c74974661-guide",
+  "title": "How to Deploy Calibre Web Automated in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-calibre-web-automated-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Calibre Web Automated.",
+  "targetKeywords": [
+    "Calibre Web Automated",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/crocodilestick/Calibre-Web-Automated"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Calibre Web Automated with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.600Z"
+}

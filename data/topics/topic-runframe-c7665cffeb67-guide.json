@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-runframe-c7665cffeb67-guide",
+  "title": "How to Deploy Runframe in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-runframe-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Runframe.",
+  "targetKeywords": [
+    "Runframe",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://runframe.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Runframe with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

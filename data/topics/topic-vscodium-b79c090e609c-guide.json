@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vscodium-b79c090e609c-guide",
+  "title": "How to Deploy VSCodium in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vscodium-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for VSCodium.",
+  "targetKeywords": [
+    "VSCodium",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vscodium.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting VSCodium with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mirin-dbf3cb5cfdf2-guide",
+  "title": "How to Deploy Mirin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mirin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mirin.",
+  "targetKeywords": [
+    "Mirin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mirin.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mirin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.604Z"
+}

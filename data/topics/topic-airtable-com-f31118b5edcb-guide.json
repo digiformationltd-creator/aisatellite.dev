@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-airtable-com-f31118b5edcb-guide",
+  "title": "How to Deploy airtable.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-airtable-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for airtable.com.",
+  "targetKeywords": [
+    "airtable.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://airtable.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting airtable.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.599Z"
+}

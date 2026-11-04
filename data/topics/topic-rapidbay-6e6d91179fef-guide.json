@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rapidbay-6e6d91179fef-guide",
+  "title": "How to Deploy Rapidbay in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rapidbay-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Rapidbay.",
+  "targetKeywords": [
+    "Rapidbay",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/hauxir/rapidbay/"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Rapidbay with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.605Z"
+}

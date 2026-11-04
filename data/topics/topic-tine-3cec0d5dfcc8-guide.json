@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tine-3cec0d5dfcc8-guide",
+  "title": "How to Deploy Tine in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tine-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tine.",
+  "targetKeywords": [
+    "Tine",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.tine-groupware.de/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tine with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-04T11:54:15.606Z"
+}
