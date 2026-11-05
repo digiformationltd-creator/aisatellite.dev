@@ -1,0 +1,22 @@
+{
+  "id": "hypermonitors-com-a326954aaa89",
+  "canonicalUrl": "https://hypermonitors.com/",
+  "name": "hypermonitors.com",
+  "description": "Monitors your infrastructure from three different locations (ZH - NYC - SG) with every outage checked from a 2nd location before alerts go out. Free forever for 5 monitors and 5 minute checks.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://hypermonitors.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://hypermonitors.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-05T07:34:47.358Z",
+  "updatedAt": "2026-11-05T07:34:47.358Z",
+  "lastVerified": "2026-11-05T09:22:34.534Z",
+  "qualityScore": 52
+}

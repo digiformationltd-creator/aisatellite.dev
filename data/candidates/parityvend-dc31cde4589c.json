@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.ambeteco.com/ParityVend/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.368Z",
-  "updatedAt": "2026-11-05T07:34:47.368Z"
+  "updatedAt": "2026-11-05T07:34:47.368Z",
+  "lastVerified": "2026-11-05T09:27:04.315Z",
+  "qualityScore": 52
 }

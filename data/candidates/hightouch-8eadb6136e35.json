@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://hightouch.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.368Z",
-  "updatedAt": "2026-11-05T07:34:47.368Z"
+  "updatedAt": "2026-11-05T07:34:47.368Z",
+  "lastVerified": "2026-11-05T09:22:16.448Z",
+  "qualityScore": 52
 }

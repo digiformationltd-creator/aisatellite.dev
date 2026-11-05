@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mailersend.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.360Z",
-  "updatedAt": "2026-11-05T07:34:47.360Z"
+  "updatedAt": "2026-11-05T07:34:47.360Z",
+  "lastVerified": "2026-11-05T09:24:40.978Z",
+  "qualityScore": 52
 }

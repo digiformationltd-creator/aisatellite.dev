@@ -38,7 +38,8 @@
   "evidenceUrls": [
     "https://github.com/cluaiz/cluaiz"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-05T07:34:48.829Z",
-  "updatedAt": "2026-11-05T07:34:48.829Z"
+  "updatedAt": "2026-11-05T07:34:48.829Z",
+  "rejectionReason": "Canonical link unreachable"
 }

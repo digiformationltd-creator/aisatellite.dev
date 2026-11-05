@@ -35,7 +35,9 @@
   "evidenceUrls": [
     "https://github.com/drawthingsai/local-code-community"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:48.829Z",
-  "updatedAt": "2026-11-05T07:34:48.829Z"
+  "updatedAt": "2026-11-05T07:34:48.829Z",
+  "lastVerified": "2026-11-05T09:24:15.060Z",
+  "qualityScore": 92
 }

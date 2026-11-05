@@ -1,0 +1,43 @@
+{
+  "id": "fuckcode-af69e9ba3030",
+  "canonicalUrl": "https://github.com/NoNFake/fuckcode",
+  "name": "fuckcode",
+  "description": "assistant & TUI with local model support: llama.cpp, verified token-saving eco mode",
+  "category": "local-llm",
+  "tags": [
+    "hacking",
+    "llm",
+    "llm-agents",
+    "llm-inference",
+    "llm-security",
+    "llm-tools",
+    "llms",
+    "nonfake",
+    "opencode",
+    "pentesting",
+    "privacy",
+    "privacy-tools",
+    "security-testing",
+    "token",
+    "token-saving",
+    "token-savings",
+    "tui",
+    "tui-app"
+  ],
+  "repositoryUrl": "https://github.com/NoNFake/fuckcode",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/NoNFake/fuckcode/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-05T07:02:55Z",
+  "evidenceUrls": [
+    "https://github.com/NoNFake/fuckcode"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-05T07:34:48.829Z",
+  "updatedAt": "2026-11-05T07:34:48.829Z",
+  "lastVerified": "2026-11-05T09:20:17.401Z",
+  "qualityScore": 78
+}

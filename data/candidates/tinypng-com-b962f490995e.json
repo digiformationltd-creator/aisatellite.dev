@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tinypng.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.366Z",
-  "updatedAt": "2026-11-05T07:34:47.366Z"
+  "updatedAt": "2026-11-05T07:34:47.366Z",
+  "lastVerified": "2026-11-05T09:32:25.380Z",
+  "qualityScore": 52
 }

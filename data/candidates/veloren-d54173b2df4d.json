@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://veloren.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.464Z",
-  "updatedAt": "2026-11-05T07:34:47.464Z"
+  "updatedAt": "2026-11-05T07:34:47.464Z",
+  "lastVerified": "2026-11-05T09:33:09.865Z",
+  "qualityScore": 52
 }

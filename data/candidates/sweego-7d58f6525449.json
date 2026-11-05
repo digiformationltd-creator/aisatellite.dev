@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.sweego.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.360Z",
-  "updatedAt": "2026-11-05T07:34:47.360Z"
+  "updatedAt": "2026-11-05T07:34:47.360Z",
+  "lastVerified": "2026-11-05T09:31:46.588Z",
+  "qualityScore": 52
 }

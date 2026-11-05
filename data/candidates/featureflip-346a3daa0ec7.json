@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://featureflip.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.360Z",
-  "updatedAt": "2026-11-05T07:34:47.360Z"
+  "updatedAt": "2026-11-05T07:34:47.360Z",
+  "lastVerified": "2026-11-05T09:18:14.450Z",
+  "qualityScore": 52
 }

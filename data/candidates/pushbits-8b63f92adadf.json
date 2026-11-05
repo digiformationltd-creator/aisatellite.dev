@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/pushbits/server"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.460Z",
-  "updatedAt": "2026-11-05T07:34:47.460Z"
+  "updatedAt": "2026-11-05T07:34:47.460Z",
+  "lastVerified": "2026-11-05T09:28:10.042Z",
+  "qualityScore": 55
 }

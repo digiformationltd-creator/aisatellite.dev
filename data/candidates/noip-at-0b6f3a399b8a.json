@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://noip.at/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.363Z",
-  "updatedAt": "2026-11-05T07:34:47.363Z"
+  "updatedAt": "2026-11-05T07:34:47.363Z",
+  "lastVerified": "2026-11-05T09:25:59.538Z",
+  "qualityScore": 52
 }

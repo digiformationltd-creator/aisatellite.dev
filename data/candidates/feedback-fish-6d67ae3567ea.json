@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://feedback.fish/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.361Z",
-  "updatedAt": "2026-11-05T07:34:47.361Z"
+  "updatedAt": "2026-11-05T07:34:47.361Z",
+  "lastVerified": "2026-11-05T09:18:14.894Z",
+  "qualityScore": 52
 }

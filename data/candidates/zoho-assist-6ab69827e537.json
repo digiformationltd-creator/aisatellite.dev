@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.zoho.com/assist"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.348Z",
-  "updatedAt": "2026-11-05T07:34:47.348Z"
+  "updatedAt": "2026-11-05T07:34:47.348Z",
+  "lastVerified": "2026-11-05T09:34:14.148Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://qoddi.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.363Z",
-  "updatedAt": "2026-11-05T07:34:47.363Z"
+  "updatedAt": "2026-11-05T07:34:47.363Z",
+  "lastVerified": "2026-11-05T09:28:12.972Z",
+  "qualityScore": 52
 }

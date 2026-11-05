@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mocko.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.350Z",
-  "updatedAt": "2026-11-05T07:34:47.350Z"
+  "updatedAt": "2026-11-05T07:34:47.350Z",
+  "lastVerified": "2026-11-05T09:25:26.575Z",
+  "qualityScore": 52
 }

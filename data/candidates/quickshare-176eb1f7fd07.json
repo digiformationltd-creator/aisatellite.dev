@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ihexxa.github.io/quickshare.site/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.464Z",
-  "updatedAt": "2026-11-05T07:34:47.464Z"
+  "updatedAt": "2026-11-05T07:34:47.464Z",
+  "lastVerified": "2026-11-05T09:28:24.373Z",
+  "qualityScore": 52
 }

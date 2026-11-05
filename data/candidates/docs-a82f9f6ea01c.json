@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.numerique.gouv.fr/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.468Z",
-  "updatedAt": "2026-11-05T07:34:47.468Z"
+  "updatedAt": "2026-11-05T07:34:47.468Z",
+  "lastVerified": "2026-11-05T09:16:38.270Z",
+  "qualityScore": 52
 }

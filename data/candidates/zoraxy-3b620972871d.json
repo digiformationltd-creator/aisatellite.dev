@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zoraxy.aroz.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.471Z",
-  "updatedAt": "2026-11-05T07:34:47.471Z"
+  "updatedAt": "2026-11-05T07:34:47.471Z",
+  "lastVerified": "2026-11-05T09:34:15.365Z",
+  "qualityScore": 52
 }

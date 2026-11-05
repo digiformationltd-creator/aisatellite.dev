@@ -1,0 +1,22 @@
+{
+  "id": "sflow-ab8325ee13ae",
+  "canonicalUrl": "https://sflow.io/",
+  "name": "Sflow",
+  "description": "sflow.io is a project management tool built for agile software development, marketing, sales, and customer support, especially for outsourcing and cross-organization collaboration projects. Free plan up to 3 projects and five members.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sflow.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sflow.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-05T07:34:47.365Z",
+  "updatedAt": "2026-11-05T07:34:47.365Z",
+  "lastVerified": "2026-11-05T09:30:02.811Z",
+  "qualityScore": 52
+}

@@ -37,7 +37,9 @@
   "evidenceUrls": [
     "https://github.com/tanishqpatil/qwen-fieldfare"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:48.829Z",
-  "updatedAt": "2026-11-05T07:34:48.829Z"
+  "updatedAt": "2026-11-05T07:34:48.829Z",
+  "lastVerified": "2026-11-05T09:28:26.171Z",
+  "qualityScore": 78
 }

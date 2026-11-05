@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aws.amazon.com/sns/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.348Z",
-  "updatedAt": "2026-11-05T07:34:47.348Z"
+  "updatedAt": "2026-11-05T07:34:47.348Z",
+  "lastVerified": "2026-11-05T09:30:55.520Z",
+  "qualityScore": 47
 }

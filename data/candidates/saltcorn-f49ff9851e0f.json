@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://saltcorn.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.470Z",
-  "updatedAt": "2026-11-05T07:34:47.470Z"
+  "updatedAt": "2026-11-05T07:34:47.470Z",
+  "lastVerified": "2026-11-05T09:29:26.545Z",
+  "qualityScore": 52
 }

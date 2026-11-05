@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://0xerr0r.github.io/blocky/latest/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.463Z",
-  "updatedAt": "2026-11-05T07:34:47.463Z"
+  "updatedAt": "2026-11-05T07:34:47.463Z",
+  "lastVerified": "2026-11-05T09:11:02.508Z",
+  "qualityScore": 52
 }

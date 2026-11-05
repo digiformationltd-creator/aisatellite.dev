@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wespeakenglish.github.io/polluSensWeb/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.465Z",
-  "updatedAt": "2026-11-05T07:34:47.465Z"
+  "updatedAt": "2026-11-05T07:34:47.465Z",
+  "lastVerified": "2026-11-05T09:27:45.281Z",
+  "qualityScore": 52
 }

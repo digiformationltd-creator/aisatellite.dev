@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://amplitude.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.367Z",
-  "updatedAt": "2026-11-05T07:34:47.367Z"
+  "updatedAt": "2026-11-05T07:34:47.367Z",
+  "lastVerified": "2026-11-05T09:08:10.314Z",
+  "qualityScore": 52
 }

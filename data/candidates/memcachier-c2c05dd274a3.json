@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.memcachier.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.364Z",
-  "updatedAt": "2026-11-05T07:34:47.364Z"
+  "updatedAt": "2026-11-05T07:34:47.364Z",
+  "lastVerified": "2026-11-05T09:25:05.622Z",
+  "qualityScore": 52
 }

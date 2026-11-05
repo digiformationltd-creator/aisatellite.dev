@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gcorelabs.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.362Z",
-  "updatedAt": "2026-11-05T07:34:47.362Z"
+  "updatedAt": "2026-11-05T07:34:47.362Z",
+  "lastVerified": "2026-11-05T09:20:33.954Z",
+  "qualityScore": 52
 }

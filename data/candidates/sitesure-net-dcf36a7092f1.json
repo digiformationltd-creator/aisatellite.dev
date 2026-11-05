@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sitesure.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.358Z",
-  "updatedAt": "2026-11-05T07:34:47.358Z"
+  "updatedAt": "2026-11-05T07:34:47.358Z",
+  "lastVerified": "2026-11-05T09:30:32.957Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wraps.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.360Z",
-  "updatedAt": "2026-11-05T07:34:47.360Z"
+  "updatedAt": "2026-11-05T07:34:47.360Z",
+  "lastVerified": "2026-11-05T09:33:51.758Z",
+  "qualityScore": 52
 }

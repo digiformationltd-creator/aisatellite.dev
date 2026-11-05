@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zoom.us/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.352Z",
-  "updatedAt": "2026-11-05T07:34:47.352Z"
+  "updatedAt": "2026-11-05T07:34:47.352Z",
+  "lastVerified": "2026-11-05T09:34:15.050Z",
+  "qualityScore": 52
 }

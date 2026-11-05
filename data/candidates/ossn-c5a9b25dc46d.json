@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.opensource-socialnetwork.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.462Z",
-  "updatedAt": "2026-11-05T07:34:47.462Z"
+  "updatedAt": "2026-11-05T07:34:47.462Z",
+  "lastVerified": "2026-11-05T09:26:46.708Z",
+  "qualityScore": 52
 }

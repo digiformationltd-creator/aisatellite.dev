@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://auth0.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.354Z",
-  "updatedAt": "2026-11-05T07:34:47.354Z"
+  "updatedAt": "2026-11-05T07:34:47.354Z",
+  "lastVerified": "2026-11-05T09:09:04.000Z",
+  "qualityScore": 52
 }

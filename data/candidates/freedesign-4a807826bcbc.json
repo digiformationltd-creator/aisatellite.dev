@@ -27,7 +27,8 @@
   "evidenceUrls": [
     "https://github.com/AIPMAndy/FreeDesign"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-05T07:34:48.277Z",
-  "updatedAt": "2026-11-05T07:34:48.277Z"
+  "updatedAt": "2026-11-05T07:34:48.277Z",
+  "rejectionReason": "Canonical link unreachable"
 }

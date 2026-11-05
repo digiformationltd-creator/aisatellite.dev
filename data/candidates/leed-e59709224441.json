@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/LeedRSS/Leed"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.463Z",
-  "updatedAt": "2026-11-05T07:34:47.463Z"
+  "updatedAt": "2026-11-05T07:34:47.463Z",
+  "lastVerified": "2026-11-05T09:23:54.069Z",
+  "qualityScore": 55
 }

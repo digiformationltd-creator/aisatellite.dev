@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://seatable.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.364Z",
-  "updatedAt": "2026-11-05T07:34:47.364Z"
+  "updatedAt": "2026-11-05T07:34:47.364Z",
+  "lastVerified": "2026-11-05T09:29:49.954Z",
+  "qualityScore": 52
 }

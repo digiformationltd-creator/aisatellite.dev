@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://swingmusic.vercel.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.466Z",
-  "updatedAt": "2026-11-05T07:34:47.466Z"
+  "updatedAt": "2026-11-05T07:34:47.466Z",
+  "lastVerified": "2026-11-05T09:31:50.943Z",
+  "qualityScore": 52
 }

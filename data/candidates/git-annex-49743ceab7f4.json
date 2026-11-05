@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://git-annex.branchable.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.463Z",
-  "updatedAt": "2026-11-05T07:34:47.463Z"
+  "updatedAt": "2026-11-05T07:34:47.463Z",
+  "lastVerified": "2026-11-05T09:21:11.533Z",
+  "qualityScore": 52
 }

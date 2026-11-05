@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://artalk.js.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.461Z",
-  "updatedAt": "2026-11-05T07:34:47.461Z"
+  "updatedAt": "2026-11-05T07:34:47.461Z",
+  "lastVerified": "2026-11-05T09:08:52.585Z",
+  "qualityScore": 52
 }

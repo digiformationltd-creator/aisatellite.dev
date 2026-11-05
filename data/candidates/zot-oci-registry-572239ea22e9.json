@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zotregistry.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.463Z",
-  "updatedAt": "2026-11-05T07:34:47.463Z"
+  "updatedAt": "2026-11-05T07:34:47.463Z",
+  "lastVerified": "2026-11-05T09:34:15.744Z",
+  "qualityScore": 52
 }

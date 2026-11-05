@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://promoproxy.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.362Z",
-  "updatedAt": "2026-11-05T07:34:47.362Z"
+  "updatedAt": "2026-11-05T07:34:47.362Z",
+  "lastVerified": "2026-11-05T09:28:01.318Z",
+  "qualityScore": 52
 }

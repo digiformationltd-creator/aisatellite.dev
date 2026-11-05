@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://onedev.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.470Z",
-  "updatedAt": "2026-11-05T07:34:47.470Z"
+  "updatedAt": "2026-11-05T07:34:47.470Z",
+  "lastVerified": "2026-11-05T09:26:17.642Z",
+  "qualityScore": 52
 }

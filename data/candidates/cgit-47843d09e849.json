@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://git.zx2c4.com/cgit/about/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.470Z",
-  "updatedAt": "2026-11-05T07:34:47.470Z"
+  "updatedAt": "2026-11-05T07:34:47.470Z",
+  "lastVerified": "2026-11-05T09:12:33.806Z",
+  "qualityScore": 52
 }

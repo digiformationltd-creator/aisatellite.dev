@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mikebgrep.github.io/forkapi/latest/clients/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.469Z",
-  "updatedAt": "2026-11-05T07:34:47.469Z"
+  "updatedAt": "2026-11-05T07:34:47.469Z",
+  "lastVerified": "2026-11-05T09:19:19.205Z",
+  "qualityScore": 52
 }

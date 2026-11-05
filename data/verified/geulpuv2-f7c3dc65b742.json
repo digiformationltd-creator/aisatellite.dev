@@ -1,0 +1,39 @@
+{
+  "id": "geulpuv2-f7c3dc65b742",
+  "canonicalUrl": "https://github.com/wwoosshh/GeulPUv2",
+  "name": "GeulPUv2",
+  "description": "Deterministic local LLM engine and debugger — run GGUF models on your own GPU, get bit-identical output, and record, replay and compare runs. Written in 글(geul).",
+  "category": "local-llm",
+  "tags": [
+    "cuda",
+    "debugger",
+    "deterministic",
+    "geul",
+    "gguf",
+    "llama",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "openai-api",
+    "qwen",
+    "reproducibility",
+    "vulkan",
+    "windows"
+  ],
+  "repositoryUrl": "https://github.com/wwoosshh/GeulPUv2",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/wwoosshh/GeulPUv2/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 4,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-05T06:21:02Z",
+  "evidenceUrls": [
+    "https://github.com/wwoosshh/GeulPUv2"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-05T07:34:48.829Z",
+  "updatedAt": "2026-11-05T07:34:48.829Z",
+  "lastVerified": "2026-11-05T09:21:02.464Z",
+  "qualityScore": 78
+}

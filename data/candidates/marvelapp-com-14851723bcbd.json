@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://marvelapp.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.366Z",
-  "updatedAt": "2026-11-05T07:34:47.366Z"
+  "updatedAt": "2026-11-05T07:34:47.366Z",
+  "lastVerified": "2026-11-05T09:24:52.177Z",
+  "qualityScore": 52
 }

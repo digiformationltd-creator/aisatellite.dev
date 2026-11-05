@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://infisical.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.467Z",
   "updatedAt": "2026-11-05T07:34:49.444Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-05T09:22:47.265Z",
+  "qualityScore": 52
 }

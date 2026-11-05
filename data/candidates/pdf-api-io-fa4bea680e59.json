@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pdf-api.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.350Z",
-  "updatedAt": "2026-11-05T07:34:47.350Z"
+  "updatedAt": "2026-11-05T07:34:47.350Z",
+  "lastVerified": "2026-11-05T09:27:09.246Z",
+  "qualityScore": 52
 }

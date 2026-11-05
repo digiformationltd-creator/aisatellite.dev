@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gofeatureflag.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.470Z",
-  "updatedAt": "2026-11-05T07:34:47.470Z"
+  "updatedAt": "2026-11-05T07:34:47.470Z",
+  "lastVerified": "2026-11-05T09:21:32.728Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dicloud.net/trackwith-privacy-focused-analytics/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.368Z",
-  "updatedAt": "2026-11-05T07:34:47.368Z"
+  "updatedAt": "2026-11-05T07:34:47.368Z",
+  "lastVerified": "2026-11-05T09:32:36.154Z",
+  "qualityScore": 52
 }

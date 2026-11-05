@@ -1,0 +1,35 @@
+{
+  "id": "local-inference-router-0c9baacb15ac",
+  "canonicalUrl": "https://github.com/Yut0Miura/local-inference-router",
+  "name": "local-inference-router",
+  "description": "Go router for local LLM inference across Ollama, llama.cpp and vLLM, with health-aware routing, streaming and bounded failover.",
+  "category": "local-llm",
+  "tags": [
+    "golang",
+    "llama-cpp",
+    "llm-inference",
+    "llm-router",
+    "local-llm",
+    "ollama",
+    "openai-compatible",
+    "prometheus",
+    "self-hosted",
+    "vllm"
+  ],
+  "repositoryUrl": "https://github.com/Yut0Miura/local-inference-router",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/Yut0Miura/local-inference-router/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-05T06:54:17Z",
+  "evidenceUrls": [
+    "https://github.com/Yut0Miura/local-inference-router"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-05T07:34:48.829Z",
+  "updatedAt": "2026-11-05T07:34:48.829Z",
+  "lastVerified": "2026-11-05T09:24:17.442Z",
+  "qualityScore": 78
+}

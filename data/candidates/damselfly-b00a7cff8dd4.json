@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://damselfly.info"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.468Z",
-  "updatedAt": "2026-11-05T07:34:47.468Z"
+  "updatedAt": "2026-11-05T07:34:47.468Z",
+  "lastVerified": "2026-11-05T09:15:12.177Z",
+  "qualityScore": 52
 }

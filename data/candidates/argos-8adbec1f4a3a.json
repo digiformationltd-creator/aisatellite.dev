@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://argos-ci.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.352Z",
-  "updatedAt": "2026-11-05T07:34:47.352Z"
+  "updatedAt": "2026-11-05T07:34:47.352Z",
+  "lastVerified": "2026-11-05T09:08:51.962Z",
+  "qualityScore": 52
 }

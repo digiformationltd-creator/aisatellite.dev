@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://slingsite.github.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.366Z",
-  "updatedAt": "2026-11-05T07:34:47.366Z"
+  "updatedAt": "2026-11-05T07:34:47.366Z",
+  "lastVerified": "2026-11-05T09:30:37.124Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/Tanq16/local-content-share"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.468Z",
-  "updatedAt": "2026-11-05T07:34:47.468Z"
+  "updatedAt": "2026-11-05T07:34:47.468Z",
+  "lastVerified": "2026-11-05T09:24:15.541Z",
+  "qualityScore": 55
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/rss2email/rss2email"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.463Z",
-  "updatedAt": "2026-11-05T07:34:47.463Z"
+  "updatedAt": "2026-11-05T07:34:47.463Z",
+  "lastVerified": "2026-11-05T09:29:05.461Z",
+  "qualityScore": 55
 }

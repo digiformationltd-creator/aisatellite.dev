@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://debugmail.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.359Z",
-  "updatedAt": "2026-11-05T07:34:47.359Z"
+  "updatedAt": "2026-11-05T07:34:47.359Z",
+  "lastVerified": "2026-11-05T09:15:34.714Z",
+  "qualityScore": 52
 }

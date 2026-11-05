@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cloudintel.himanshuanand.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.354Z",
-  "updatedAt": "2026-11-05T07:34:47.354Z"
+  "updatedAt": "2026-11-05T07:34:47.354Z",
+  "lastVerified": "2026-11-05T09:28:07.598Z",
+  "qualityScore": 52
 }

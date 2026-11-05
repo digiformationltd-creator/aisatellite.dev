@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://boomurl.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.363Z",
-  "updatedAt": "2026-11-05T07:34:47.363Z"
+  "updatedAt": "2026-11-05T07:34:47.363Z",
+  "lastVerified": "2026-11-05T09:11:26.214Z",
+  "qualityScore": 52
 }

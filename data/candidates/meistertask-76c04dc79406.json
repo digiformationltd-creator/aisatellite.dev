@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.meistertask.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.365Z",
-  "updatedAt": "2026-11-05T07:34:47.365Z"
+  "updatedAt": "2026-11-05T07:34:47.365Z",
+  "lastVerified": "2026-11-05T09:25:05.529Z",
+  "qualityScore": 52
 }

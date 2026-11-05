@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.borgbase.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.365Z",
-  "updatedAt": "2026-11-05T07:34:47.365Z"
+  "updatedAt": "2026-11-05T07:34:47.365Z",
+  "lastVerified": "2026-11-05T09:11:26.537Z",
+  "qualityScore": 52
 }

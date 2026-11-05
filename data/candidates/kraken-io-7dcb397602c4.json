@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kraken.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:47.365Z",
-  "updatedAt": "2026-11-05T07:34:47.365Z"
+  "updatedAt": "2026-11-05T07:34:47.365Z",
+  "lastVerified": "2026-11-05T09:23:37.653Z",
+  "qualityScore": 52
 }
