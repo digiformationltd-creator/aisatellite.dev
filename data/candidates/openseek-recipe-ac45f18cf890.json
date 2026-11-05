@@ -1,0 +1,30 @@
+{
+  "id": "openseek-recipe-ac45f18cf890",
+  "canonicalUrl": "https://github.com/LichAmnesia/openseek-recipe",
+  "name": "openseek-recipe",
+  "description": "OpenSeek Recipe — reproducible local inference recipes. First validated: Qwen3.8-Flash-Next on one RTX PRO 6000 96GB, with pinned runtime, RAM KV cache, client configs, and benchmarks.",
+  "category": "local-llm",
+  "tags": [
+    "blackwell",
+    "llm-inference",
+    "local-llm",
+    "qwen",
+    "rtx-pro-6000",
+    "swe-bench",
+    "vllm"
+  ],
+  "repositoryUrl": "https://github.com/LichAmnesia/openseek-recipe",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/LichAmnesia/openseek-recipe/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-05T06:46:59Z",
+  "evidenceUrls": [
+    "https://github.com/LichAmnesia/openseek-recipe"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:48.829Z",
+  "updatedAt": "2026-11-05T07:34:48.829Z"
+}

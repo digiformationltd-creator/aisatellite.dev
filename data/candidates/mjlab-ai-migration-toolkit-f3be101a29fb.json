@@ -28,13 +28,11 @@
   "freeTierLimitations": [],
   "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-04T03:16:15Z",
+  "lastRepositoryUpdate": "2026-11-05T05:49:14Z",
   "evidenceUrls": [
     "https://github.com/chaitanya-aws/mjlab-ai-migration-toolkit"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:47.400Z",
-  "updatedAt": "2026-11-04T07:06:47.400Z",
-  "lastVerified": "2026-11-04T08:57:14.013Z",
-  "qualityScore": 64
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:49.440Z",
+  "updatedAt": "2026-11-05T07:34:49.440Z"
 }

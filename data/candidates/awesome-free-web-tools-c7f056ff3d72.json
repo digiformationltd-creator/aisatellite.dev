@@ -32,14 +32,12 @@
   "freeClassification": "unknown",
   "freeTierLimitations": [],
   "githubStars": 1,
-  "githubForks": 0,
+  "githubForks": 1,
   "lastRepositoryUpdate": "2026-11-03T23:48:39Z",
   "evidenceUrls": [
     "https://github.com/TanbirAhamed/awesome-free-web-tools"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:46.403Z",
-  "updatedAt": "2026-11-04T07:06:46.403Z",
-  "lastVerified": "2026-11-04T08:45:44.735Z",
-  "qualityScore": 75
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:48.277Z",
+  "updatedAt": "2026-11-05T07:34:48.277Z"
 }

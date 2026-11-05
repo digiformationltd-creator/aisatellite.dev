@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://omeka.org/s/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.736Z",
-  "updatedAt": "2026-11-04T07:06:45.736Z",
-  "lastVerified": "2026-11-04T08:58:27.113Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.460Z",
+  "updatedAt": "2026-11-05T07:34:47.460Z"
 }

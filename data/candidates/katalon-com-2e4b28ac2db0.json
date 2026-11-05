@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://katalon.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.608Z",
-  "updatedAt": "2026-11-04T07:06:45.608Z",
-  "lastVerified": "2026-11-04T08:54:42.468Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.353Z",
+  "updatedAt": "2026-11-05T07:34:47.353Z"
 }

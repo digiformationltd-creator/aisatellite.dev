@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://email-spam-tester.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.614Z",
-  "updatedAt": "2026-11-04T07:06:45.614Z",
-  "lastVerified": "2026-11-04T08:49:34.716Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.359Z",
+  "updatedAt": "2026-11-05T07:34:47.359Z"
 }

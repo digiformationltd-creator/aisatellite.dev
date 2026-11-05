@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://sendraven.ai"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.615Z",
-  "updatedAt": "2026-11-04T07:06:45.615Z",
-  "lastVerified": "2026-11-04T09:03:11.997Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.360Z",
+  "updatedAt": "2026-11-05T07:34:47.360Z"
 }

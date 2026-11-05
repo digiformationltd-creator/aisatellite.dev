@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://teamsort.world"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.606Z",
-  "updatedAt": "2026-11-04T07:06:45.606Z",
-  "lastVerified": "2026-11-04T09:05:42.592Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.351Z",
+  "updatedAt": "2026-11-05T07:34:47.351Z"
 }

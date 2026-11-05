@@ -34,13 +34,11 @@
   "freeTierLimitations": [],
   "githubStars": 28,
   "githubForks": 6,
-  "lastRepositoryUpdate": "2026-11-04T06:39:33Z",
+  "lastRepositoryUpdate": "2026-11-05T06:48:31Z",
   "evidenceUrls": [
     "https://github.com/cluaiz/cluaiz"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:46.912Z",
-  "updatedAt": "2026-11-04T07:06:46.912Z",
-  "lastVerified": "2026-11-04T08:47:17.630Z",
-  "qualityScore": 91
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:48.829Z",
+  "updatedAt": "2026-11-05T07:34:48.829Z"
 }

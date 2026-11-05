@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.bunkerweb.io"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.746Z",
-  "updatedAt": "2026-11-04T07:06:45.746Z",
-  "lastVerified": "2026-11-04T08:46:33.280Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.471Z",
+  "updatedAt": "2026-11-05T07:34:47.471Z"
 }

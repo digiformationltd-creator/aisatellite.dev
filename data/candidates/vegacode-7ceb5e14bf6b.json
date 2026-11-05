@@ -1,0 +1,41 @@
+{
+  "id": "vegacode-7ceb5e14bf6b",
+  "canonicalUrl": "https://github.com/isaacfrett/vegacode",
+  "name": "vegacode",
+  "description": "Local coding agent that runs on your laptop: an offline AI coding assistant for the terminal, powered by open-weight LLMs through Ollama. Your code never leaves your machine. Vega writes, runs your tests in a sandbox and repairs what fails. Python CLI and TUI, built for small models on 16 GB.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-agent",
+    "ai-agents",
+    "ai-coding",
+    "ai-coding-assistant",
+    "cli",
+    "coding-agent",
+    "developer-tools",
+    "llm",
+    "local-ai",
+    "local-llm",
+    "offline-ai",
+    "ollama",
+    "open-source-llm",
+    "privacy",
+    "python",
+    "self-hosted",
+    "textual",
+    "tui"
+  ],
+  "repositoryUrl": "https://github.com/isaacfrett/vegacode",
+  "licenseSpdx": "AGPL-3.0",
+  "licenseEvidenceUrl": "https://github.com/isaacfrett/vegacode/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-05T04:04:03Z",
+  "evidenceUrls": [
+    "https://github.com/isaacfrett/vegacode"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:49.440Z",
+  "updatedAt": "2026-11-05T07:34:49.440Z"
+}

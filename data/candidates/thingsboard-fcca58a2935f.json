@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://thingsboard.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.740Z",
-  "updatedAt": "2026-11-04T07:06:45.740Z",
-  "lastVerified": "2026-11-04T09:06:04.702Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.465Z",
+  "updatedAt": "2026-11-05T07:34:47.465Z"
 }

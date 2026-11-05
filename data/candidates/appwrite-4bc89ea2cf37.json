@@ -15,10 +15,8 @@
   "evidenceUrls": [
     "https://appwrite.io"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.745Z",
-  "updatedAt": "2026-11-04T07:06:47.404Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-04T08:45:27.967Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.470Z",
+  "updatedAt": "2026-11-05T07:34:49.444Z",
+  "githubStars": 0
 }

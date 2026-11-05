@@ -1,0 +1,41 @@
+{
+  "id": "local-code-community-764f5a360377",
+  "canonicalUrl": "https://github.com/drawthingsai/local-code-community",
+  "name": "local-code-community",
+  "description": "Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built into the app.",
+  "category": "local-llm",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "apple-silicon",
+    "artificial-intelligence",
+    "coding-agent",
+    "deepseek",
+    "ios",
+    "llm",
+    "llm-agent",
+    "llm-inference",
+    "local-llm",
+    "macos",
+    "metal",
+    "on-device-ai",
+    "qwen",
+    "swift"
+  ],
+  "repositoryUrl": "https://github.com/drawthingsai/local-code-community",
+  "officialUrl": "https://getlocalcode.app",
+  "documentationUrl": "https://getlocalcode.app",
+  "licenseSpdx": "GPL-3.0",
+  "licenseEvidenceUrl": "https://github.com/drawthingsai/local-code-community/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 115,
+  "githubForks": 8,
+  "lastRepositoryUpdate": "2026-11-05T06:38:26Z",
+  "evidenceUrls": [
+    "https://github.com/drawthingsai/local-code-community"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:48.829Z",
+  "updatedAt": "2026-11-05T07:34:48.829Z"
+}

@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://weatherxu.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.605Z",
-  "updatedAt": "2026-11-04T07:06:45.605Z",
-  "lastVerified": "2026-11-04T09:07:50.297Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.351Z",
+  "updatedAt": "2026-11-05T07:34:47.351Z"
 }

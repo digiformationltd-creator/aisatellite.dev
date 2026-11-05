@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://protectumus.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-04T07:06:45.609Z",
-  "updatedAt": "2026-11-04T07:06:45.609Z",
-  "lastVerified": "2026-11-04T09:00:59.077Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-05T07:34:47.354Z",
+  "updatedAt": "2026-11-05T07:34:47.354Z"
 }
