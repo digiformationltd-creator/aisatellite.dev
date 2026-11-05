@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-davis-39403c7975ea-guide",
+  "title": "How to Deploy Davis in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-davis-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Davis.",
+  "targetKeywords": [
+    "Davis",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/tchapi/davis"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Davis with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

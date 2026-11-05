@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-runcloud-io-7d9f3e4e6de5-guide",
+  "title": "How to Deploy runcloud.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-runcloud-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for runcloud.io.",
+  "targetKeywords": [
+    "runcloud.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://runcloud.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting runcloud.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

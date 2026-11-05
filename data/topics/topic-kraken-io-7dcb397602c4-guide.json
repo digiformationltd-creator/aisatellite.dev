@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kraken-io-7dcb397602c4-guide",
+  "title": "How to Deploy kraken.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kraken-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for kraken.io.",
+  "targetKeywords": [
+    "kraken.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kraken.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting kraken.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-statusgator-com-316d3eb5edf6-guide",
+  "title": "How to Deploy statusgator.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-statusgator-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for statusgator.com.",
+  "targetKeywords": [
+    "statusgator.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://statusgator.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting statusgator.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

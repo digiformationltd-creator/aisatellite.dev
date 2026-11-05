@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ipinfo-dcf49f947f6c-guide",
+  "title": "How to Deploy IPinfo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ipinfo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IPinfo.",
+  "targetKeywords": [
+    "IPinfo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ipinfo.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IPinfo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

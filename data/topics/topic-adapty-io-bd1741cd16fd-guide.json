@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-adapty-io-bd1741cd16fd-guide",
+  "title": "How to Deploy Adapty.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-adapty-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Adapty.io.",
+  "targetKeywords": [
+    "Adapty.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://adapty.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Adapty.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

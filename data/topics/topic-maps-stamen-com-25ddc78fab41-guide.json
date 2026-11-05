@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-maps-stamen-com-25ddc78fab41-guide",
+  "title": "How to Deploy maps.stamen.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-maps-stamen-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for maps.stamen.com.",
+  "targetKeywords": [
+    "maps.stamen.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://maps.stamen.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting maps.stamen.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

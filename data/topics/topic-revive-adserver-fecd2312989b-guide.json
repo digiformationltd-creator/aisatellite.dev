@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-revive-adserver-fecd2312989b-guide",
+  "title": "How to Deploy Revive Adserver in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-revive-adserver-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Revive Adserver.",
+  "targetKeywords": [
+    "Revive Adserver",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.revive-adserver.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Revive Adserver with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-usernote-cee5c7658e2c-guide",
+  "title": "How to Deploy UserNote in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-usernote-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for UserNote.",
+  "targetKeywords": [
+    "UserNote",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://getusernote.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting UserNote with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

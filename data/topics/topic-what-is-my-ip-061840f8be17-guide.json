@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-what-is-my-ip-061840f8be17-guide",
+  "title": "How to Deploy What Is My IP in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-what-is-my-ip-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for What Is My IP.",
+  "targetKeywords": [
+    "What Is My IP",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://whatismyip.help"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting What Is My IP with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

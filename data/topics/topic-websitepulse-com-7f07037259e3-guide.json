@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-websitepulse-com-7f07037259e3-guide",
+  "title": "How to Deploy websitepulse.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-websitepulse-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for websitepulse.com.",
+  "targetKeywords": [
+    "websitepulse.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.websitepulse.com/tools/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting websitepulse.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

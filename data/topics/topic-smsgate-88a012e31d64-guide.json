@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smsgate-88a012e31d64-guide",
+  "title": "How to Deploy SMSGate in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smsgate-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SMSGate.",
+  "targetKeywords": [
+    "SMSGate",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sms-gate.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SMSGate with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

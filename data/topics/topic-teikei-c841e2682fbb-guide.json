@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-teikei-c841e2682fbb-guide",
+  "title": "How to Deploy teikei in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-teikei-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for teikei.",
+  "targetKeywords": [
+    "teikei",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/teikei/teikei"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting teikei with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zerotier-9a28f6a53cad-guide",
+  "title": "How to Deploy ZeroTier in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zerotier-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ZeroTier.",
+  "targetKeywords": [
+    "ZeroTier",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.zerotier.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ZeroTier with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.643Z"
+}

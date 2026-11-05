@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-koillection-702a8e4196e2-guide",
+  "title": "How to Deploy Koillection in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-koillection-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Koillection.",
+  "targetKeywords": [
+    "Koillection",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://koillection.github.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Koillection with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

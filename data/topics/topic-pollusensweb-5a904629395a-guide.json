@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pollusensweb-5a904629395a-guide",
+  "title": "How to Deploy polluSensWeb in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pollusensweb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for polluSensWeb.",
+  "targetKeywords": [
+    "polluSensWeb",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wespeakenglish.github.io/polluSensWeb/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting polluSensWeb with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

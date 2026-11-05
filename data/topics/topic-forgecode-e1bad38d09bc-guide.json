@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-forgecode-e1bad38d09bc-guide",
+  "title": "How to Deploy ForgeCode in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-forgecode-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ForgeCode.",
+  "targetKeywords": [
+    "ForgeCode",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://forgecode.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ForgeCode with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.638Z"
+}

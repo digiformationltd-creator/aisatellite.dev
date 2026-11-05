@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fibery-a7257164a7c0-guide",
+  "title": "How to Deploy Fibery in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fibery-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Fibery.",
+  "targetKeywords": [
+    "Fibery",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fibery.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Fibery with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

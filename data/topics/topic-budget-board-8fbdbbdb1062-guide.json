@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-budget-board-8fbdbbdb1062-guide",
+  "title": "How to Deploy Budget Board in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-budget-board-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Budget Board.",
+  "targetKeywords": [
+    "Budget Board",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://budgetboard.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Budget Board with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

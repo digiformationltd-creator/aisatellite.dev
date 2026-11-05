@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bloglite-4ea4c9dd0bc7-guide",
+  "title": "How to Deploy bloglite in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bloglite-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for bloglite.",
+  "targetKeywords": [
+    "bloglite",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/rikhuijzer/bloglite"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting bloglite with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

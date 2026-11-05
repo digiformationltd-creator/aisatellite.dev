@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-corgea-a890c49e867c-guide",
+  "title": "How to Deploy Corgea in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-corgea-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Corgea.",
+  "targetKeywords": [
+    "Corgea",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://corgea.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Corgea with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-apache-solr-2578ec750447-guide",
+  "title": "How to Deploy Apache Solr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-apache-solr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Apache Solr.",
+  "targetKeywords": [
+    "Apache Solr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://lucene.apache.org/solr/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Apache Solr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

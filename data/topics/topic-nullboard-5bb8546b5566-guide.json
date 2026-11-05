@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-nullboard-5bb8546b5566-guide",
+  "title": "How to Deploy Nullboard in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-nullboard-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Nullboard.",
+  "targetKeywords": [
+    "Nullboard",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/apankrat/nullboard"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Nullboard with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

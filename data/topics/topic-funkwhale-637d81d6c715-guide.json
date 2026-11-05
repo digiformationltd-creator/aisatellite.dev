@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-funkwhale-637d81d6c715-guide",
+  "title": "How to Deploy Funkwhale in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-funkwhale-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Funkwhale.",
+  "targetKeywords": [
+    "Funkwhale",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dev.funkwhale.audio/funkwhale"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Funkwhale with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.638Z"
+}

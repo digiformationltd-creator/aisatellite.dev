@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dittofeed-19f823815a1e-guide",
+  "title": "How to Deploy Dittofeed in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dittofeed-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dittofeed.",
+  "targetKeywords": [
+    "Dittofeed",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.dittofeed.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dittofeed with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

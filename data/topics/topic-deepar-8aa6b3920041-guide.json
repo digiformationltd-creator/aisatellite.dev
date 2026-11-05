@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deepar-8aa6b3920041-guide",
+  "title": "How to Deploy DeepAR in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deepar-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DeepAR.",
+  "targetKeywords": [
+    "DeepAR",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developer.deepar.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DeepAR with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

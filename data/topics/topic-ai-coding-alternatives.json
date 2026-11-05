@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ai-coding-alternatives",
+  "title": "Best Open-Source Alternatives in ai-coding: Evaluated Feature Parity & Security",
+  "slug": "top-open-source-alternatives-to-proprietary-ai-coding",
+  "category": "ai-coding",
+  "searchIntent": "Comparison of top open-source alternatives in ai-coding with verified licensing.",
+  "targetKeywords": [
+    "open source alternatives",
+    "ai-coding",
+    "self-hosted software",
+    "FOSS"
+  ],
+  "evidenceReferences": [
+    "https://github.com/ragnarwestad/aide"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "Provides verified migration paths from proprietary SaaS to open-source software in ai-coding.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

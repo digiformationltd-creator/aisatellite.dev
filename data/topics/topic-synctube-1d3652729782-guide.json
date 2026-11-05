@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-synctube-1d3652729782-guide",
+  "title": "How to Deploy SyncTube in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-synctube-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SyncTube.",
+  "targetKeywords": [
+    "SyncTube",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/RblSb/SyncTube"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting SyncTube with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

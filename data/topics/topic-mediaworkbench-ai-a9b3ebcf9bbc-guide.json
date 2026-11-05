@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mediaworkbench-ai-a9b3ebcf9bbc-guide",
+  "title": "How to Deploy Mediaworkbench.ai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mediaworkbench-ai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mediaworkbench.ai.",
+  "targetKeywords": [
+    "Mediaworkbench.ai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mediaworkbench.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mediaworkbench.ai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

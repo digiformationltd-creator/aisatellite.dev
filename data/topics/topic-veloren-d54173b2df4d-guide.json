@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-veloren-d54173b2df4d-guide",
+  "title": "How to Deploy Veloren in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-veloren-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Veloren.",
+  "targetKeywords": [
+    "Veloren",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://veloren.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Veloren with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

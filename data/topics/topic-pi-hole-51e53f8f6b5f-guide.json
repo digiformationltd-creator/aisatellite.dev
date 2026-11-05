@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pi-hole-51e53f8f6b5f-guide",
+  "title": "How to Deploy Pi-hole in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pi-hole-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pi-hole.",
+  "targetKeywords": [
+    "Pi-hole",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pi-hole.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pi-hole with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

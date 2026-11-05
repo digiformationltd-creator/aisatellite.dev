@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-otter-wiki-ec809e82eb17-guide",
+  "title": "How to Deploy Otter Wiki in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-otter-wiki-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Otter Wiki.",
+  "targetKeywords": [
+    "Otter Wiki",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://otterwiki.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Otter Wiki with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

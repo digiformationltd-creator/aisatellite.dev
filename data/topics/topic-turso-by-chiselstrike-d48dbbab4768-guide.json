@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-turso-by-chiselstrike-d48dbbab4768-guide",
+  "title": "How to Deploy Turso by ChiselStrike in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-turso-by-chiselstrike-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Turso by ChiselStrike.",
+  "targetKeywords": [
+    "Turso by ChiselStrike",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://turso.tech/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Turso by ChiselStrike with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

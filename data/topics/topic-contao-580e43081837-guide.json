@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-contao-580e43081837-guide",
+  "title": "How to Deploy Contao in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-contao-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Contao.",
+  "targetKeywords": [
+    "Contao",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://contao.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Contao with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

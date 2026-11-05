@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-strix-1fcbe4b90f4a-guide",
+  "title": "How to Deploy Strix in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-strix-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Strix.",
+  "targetKeywords": [
+    "Strix",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/eduard256/Strix"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Strix with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

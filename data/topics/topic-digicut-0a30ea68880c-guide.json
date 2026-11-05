@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-digicut-0a30ea68880c-guide",
+  "title": "How to Deploy Digicut in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-digicut-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Digicut.",
+  "targetKeywords": [
+    "Digicut",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ladigitale.dev/digicut/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Digicut with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

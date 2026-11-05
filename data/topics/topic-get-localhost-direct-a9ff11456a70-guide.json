@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-get-localhost-direct-a9ff11456a70-guide",
+  "title": "How to Deploy get.localhost.direct in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-get-localhost-direct-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for get.localhost.direct.",
+  "targetKeywords": [
+    "get.localhost.direct",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://get.localhost.direct"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting get.localhost.direct with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.638Z"
+}

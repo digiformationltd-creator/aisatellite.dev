@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pingram-io-8f0d402b99a5-guide",
+  "title": "How to Deploy Pingram.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pingram-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pingram.io.",
+  "targetKeywords": [
+    "Pingram.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.pingram.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pingram.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

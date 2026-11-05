@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-360username-507c6f55b0f2-guide",
+  "title": "How to Deploy 360username in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-360username-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for 360username.",
+  "targetKeywords": [
+    "360username",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://360username.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting 360username with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.635Z"
+}

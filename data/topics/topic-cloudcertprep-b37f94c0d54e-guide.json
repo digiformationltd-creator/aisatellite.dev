@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloudcertprep-b37f94c0d54e-guide",
+  "title": "How to Deploy CloudCertPrep in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloudcertprep-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CloudCertPrep.",
+  "targetKeywords": [
+    "CloudCertPrep",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloudcertprep.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CloudCertPrep with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

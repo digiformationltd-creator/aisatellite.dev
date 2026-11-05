@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mataroa-ca5895e11626-guide",
+  "title": "How to Deploy Mataroa in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mataroa-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mataroa.",
+  "targetKeywords": [
+    "Mataroa",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mataroa.blog/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mataroa with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

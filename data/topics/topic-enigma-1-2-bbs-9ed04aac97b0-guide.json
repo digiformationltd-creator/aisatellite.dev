@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-enigma-1-2-bbs-9ed04aac97b0-guide",
+  "title": "How to Deploy Enigma 1/2 BBS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-enigma-1-2-bbs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Enigma 1/2 BBS.",
+  "targetKeywords": [
+    "Enigma 1/2 BBS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://nuskooler.github.io/enigma-bbs/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Enigma 1/2 BBS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

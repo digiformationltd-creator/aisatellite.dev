@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-boxysvg-a93c292fe0eb-guide",
+  "title": "How to Deploy BoxySVG in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-boxysvg-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BoxySVG.",
+  "targetKeywords": [
+    "BoxySVG",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://boxy-svg.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BoxySVG with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

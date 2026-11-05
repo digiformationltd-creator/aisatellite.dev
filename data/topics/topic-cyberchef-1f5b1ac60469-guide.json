@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cyberchef-1f5b1ac60469-guide",
+  "title": "How to Deploy CyberChef in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cyberchef-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CyberChef.",
+  "targetKeywords": [
+    "CyberChef",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gchq.github.io/CyberChef/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CyberChef with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

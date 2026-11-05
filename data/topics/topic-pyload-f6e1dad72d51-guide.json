@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pyload-f6e1dad72d51-guide",
+  "title": "How to Deploy pyLoad in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pyload-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pyLoad.",
+  "targetKeywords": [
+    "pyLoad",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pyload.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting pyLoad with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

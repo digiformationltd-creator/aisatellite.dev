@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-unison-381202aa86c7-guide",
+  "title": "How to Deploy Unison in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-unison-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Unison.",
+  "targetKeywords": [
+    "Unison",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cis.upenn.edu/~bcpierce/unison/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Unison with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

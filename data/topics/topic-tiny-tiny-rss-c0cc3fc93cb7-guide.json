@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tiny-tiny-rss-c0cc3fc93cb7-guide",
+  "title": "How to Deploy Tiny Tiny RSS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tiny-tiny-rss-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tiny Tiny RSS.",
+  "targetKeywords": [
+    "Tiny Tiny RSS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tt-rss.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tiny Tiny RSS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-syncdate-42689beeeb6e-guide",
+  "title": "How to Deploy SYNCDATE in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-syncdate-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SYNCDATE.",
+  "targetKeywords": [
+    "SYNCDATE",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://syncdate.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SYNCDATE with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

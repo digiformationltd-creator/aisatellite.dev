@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-yarn-social-4c6832eaa717-guide",
+  "title": "How to Deploy yarn.social in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-yarn-social-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for yarn.social.",
+  "targetKeywords": [
+    "yarn.social",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://yarn.social"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting yarn.social with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

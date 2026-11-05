@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-retool-b7c8559e4eb6-guide",
+  "title": "How to Deploy ReTool in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-retool-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ReTool.",
+  "targetKeywords": [
+    "ReTool",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://retool.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ReTool with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

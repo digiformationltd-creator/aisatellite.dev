@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-podio-com-dbf3dc75ec10-guide",
+  "title": "How to Deploy podio.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-podio-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for podio.com.",
+  "targetKeywords": [
+    "podio.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://podio.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting podio.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

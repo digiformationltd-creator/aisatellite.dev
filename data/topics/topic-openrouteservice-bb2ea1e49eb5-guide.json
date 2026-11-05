@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openrouteservice-bb2ea1e49eb5-guide",
+  "title": "How to Deploy OpenRouteService in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openrouteservice-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenRouteService.",
+  "targetKeywords": [
+    "OpenRouteService",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://openrouteservice.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenRouteService with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

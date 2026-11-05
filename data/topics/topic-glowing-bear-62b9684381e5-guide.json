@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-glowing-bear-62b9684381e5-guide",
+  "title": "How to Deploy Glowing Bear in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-glowing-bear-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Glowing Bear.",
+  "targetKeywords": [
+    "Glowing Bear",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/glowing-bear/glowing-bear"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Glowing Bear with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.638Z"
+}

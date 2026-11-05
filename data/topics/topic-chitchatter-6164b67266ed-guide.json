@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-chitchatter-6164b67266ed-guide",
+  "title": "How to Deploy Chitchatter in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-chitchatter-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Chitchatter.",
+  "targetKeywords": [
+    "Chitchatter",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://chitchatter.im/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Chitchatter with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

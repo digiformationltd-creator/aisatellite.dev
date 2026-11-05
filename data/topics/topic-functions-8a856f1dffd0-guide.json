@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-functions-8a856f1dffd0-guide",
+  "title": "How to Deploy Functions in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-functions-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Functions.",
+  "targetKeywords": [
+    "Functions",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/functions/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Functions with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.638Z"
+}

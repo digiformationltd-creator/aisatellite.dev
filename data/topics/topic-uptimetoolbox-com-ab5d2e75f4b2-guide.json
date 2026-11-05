@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-uptimetoolbox-com-ab5d2e75f4b2-guide",
+  "title": "How to Deploy uptimetoolbox.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-uptimetoolbox-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for uptimetoolbox.com.",
+  "targetKeywords": [
+    "uptimetoolbox.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://uptimetoolbox.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting uptimetoolbox.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

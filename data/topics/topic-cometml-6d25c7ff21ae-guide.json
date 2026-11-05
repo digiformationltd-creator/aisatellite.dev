@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cometml-6d25c7ff21ae-guide",
+  "title": "How to Deploy CometML in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cometml-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CometML.",
+  "targetKeywords": [
+    "CometML",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.comet.com/site/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CometML with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

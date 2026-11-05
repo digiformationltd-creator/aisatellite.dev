@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mkvpriority-a5201c3fd1b2-guide",
+  "title": "How to Deploy MKVPriority in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mkvpriority-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MKVPriority.",
+  "targetKeywords": [
+    "MKVPriority",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/kennethsible/mkvpriority"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting MKVPriority with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

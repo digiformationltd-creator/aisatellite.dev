@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bugsink-8069d28af54d-guide",
+  "title": "How to Deploy Bugsink in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bugsink-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bugsink.",
+  "targetKeywords": [
+    "Bugsink",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.bugsink.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bugsink with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

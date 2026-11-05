@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stadiamaps-com-d37f1249aa08-guide",
+  "title": "How to Deploy stadiamaps.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stadiamaps-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for stadiamaps.com.",
+  "targetKeywords": [
+    "stadiamaps.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stadiamaps.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting stadiamaps.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

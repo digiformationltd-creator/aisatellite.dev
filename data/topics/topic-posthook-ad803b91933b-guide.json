@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-posthook-ad803b91933b-guide",
+  "title": "How to Deploy Posthook in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-posthook-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Posthook.",
+  "targetKeywords": [
+    "Posthook",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://posthook.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Posthook with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

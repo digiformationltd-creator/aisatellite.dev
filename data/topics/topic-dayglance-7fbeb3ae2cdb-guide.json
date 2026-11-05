@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dayglance-7fbeb3ae2cdb-guide",
+  "title": "How to Deploy dayGLANCE in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dayglance-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for dayGLANCE.",
+  "targetKeywords": [
+    "dayGLANCE",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dayglance.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting dayGLANCE with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localtunnel-dc684988b055-guide",
+  "title": "How to Deploy localtunnel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localtunnel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for localtunnel.",
+  "targetKeywords": [
+    "localtunnel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://theboroer.github.io/localtunnel-www/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting localtunnel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

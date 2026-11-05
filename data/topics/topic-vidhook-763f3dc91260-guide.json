@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vidhook-763f3dc91260-guide",
+  "title": "How to Deploy Vidhook in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vidhook-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Vidhook.",
+  "targetKeywords": [
+    "Vidhook",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vidhook.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Vidhook with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

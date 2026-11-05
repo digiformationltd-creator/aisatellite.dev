@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-azuracast-563f891d38ce-guide",
+  "title": "How to Deploy AzuraCast in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-azuracast-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AzuraCast.",
+  "targetKeywords": [
+    "AzuraCast",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.azuracast.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AzuraCast with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

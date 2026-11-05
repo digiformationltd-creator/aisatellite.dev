@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-amplitude-com-71a6c7b5b8fc-guide",
+  "title": "How to Deploy amplitude.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-amplitude-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for amplitude.com.",
+  "targetKeywords": [
+    "amplitude.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://amplitude.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting amplitude.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

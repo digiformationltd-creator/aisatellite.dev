@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sweego-7d58f6525449-guide",
+  "title": "How to Deploy Sweego in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sweego-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sweego.",
+  "targetKeywords": [
+    "Sweego",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.sweego.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sweego with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

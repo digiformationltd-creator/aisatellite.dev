@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-peergos-3f69be1af0fd-guide",
+  "title": "How to Deploy Peergos in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-peergos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Peergos.",
+  "targetKeywords": [
+    "Peergos",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://peergos.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Peergos with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

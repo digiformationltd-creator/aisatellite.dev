@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bubble-f6d9d55e5152-guide",
+  "title": "How to Deploy Bubble in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bubble-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bubble.",
+  "targetKeywords": [
+    "Bubble",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bubble.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bubble with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

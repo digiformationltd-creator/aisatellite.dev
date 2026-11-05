@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-requestbin-com-45737b893230-guide",
+  "title": "How to Deploy RequestBin.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-requestbin-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RequestBin.com.",
+  "targetKeywords": [
+    "RequestBin.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://requestbin.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RequestBin.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

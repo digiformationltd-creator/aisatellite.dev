@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-open-quartermaster-b3213bfe5259-guide",
+  "title": "How to Deploy Open QuarterMaster in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-open-quartermaster-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Open QuarterMaster.",
+  "targetKeywords": [
+    "Open QuarterMaster",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://openquartermaster.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Open QuarterMaster with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-paste-sh-26d832d3f319-guide",
+  "title": "How to Deploy paste.sh in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-paste-sh-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for paste.sh.",
+  "targetKeywords": [
+    "paste.sh",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://paste.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting paste.sh with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

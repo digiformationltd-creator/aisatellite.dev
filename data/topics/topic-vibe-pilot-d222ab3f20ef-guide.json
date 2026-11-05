@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vibe-pilot-d222ab3f20ef-guide",
+  "title": "How to Deploy vibe-pilot in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vibe-pilot-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for vibe-pilot.",
+  "targetKeywords": [
+    "vibe-pilot",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Gatsuke/vibe-pilot"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting vibe-pilot with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

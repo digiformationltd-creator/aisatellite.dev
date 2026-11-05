@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-core-web-vitals-history-75627bb535e7-guide",
+  "title": "How to Deploy Core Web Vitals History in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-core-web-vitals-history-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Core Web Vitals History.",
+  "targetKeywords": [
+    "Core Web Vitals History",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://punits.dev/core-web-vitals-historical/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Core Web Vitals History with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-islandora-62c98909c0d2-guide",
+  "title": "How to Deploy Islandora in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-islandora-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Islandora.",
+  "targetKeywords": [
+    "Islandora",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.islandora.ca/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Islandora with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

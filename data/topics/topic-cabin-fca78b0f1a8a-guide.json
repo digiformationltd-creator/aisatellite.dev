@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cabin-fca78b0f1a8a-guide",
+  "title": "How to Deploy Cabin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cabin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cabin.",
+  "targetKeywords": [
+    "Cabin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://withcabin.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cabin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

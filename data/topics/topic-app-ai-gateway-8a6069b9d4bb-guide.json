@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-app-ai-gateway-8a6069b9d4bb-guide",
+  "title": "How to Deploy App AI Gateway in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-app-ai-gateway-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for App AI Gateway.",
+  "targetKeywords": [
+    "App AI Gateway",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://appaigateway.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting App AI Gateway with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

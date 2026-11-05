@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-google-cloud-platform-cd8183ccec26-guide",
+  "title": "How to Deploy Google Cloud Platform in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-google-cloud-platform-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Google Cloud Platform.",
+  "targetKeywords": [
+    "Google Cloud Platform",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Google Cloud Platform with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.638Z"
+}

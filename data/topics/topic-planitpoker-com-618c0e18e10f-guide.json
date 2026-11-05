@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-planitpoker-com-618c0e18e10f-guide",
+  "title": "How to Deploy planitpoker.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-planitpoker-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for planitpoker.com.",
+  "targetKeywords": [
+    "planitpoker.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.planitpoker.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting planitpoker.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

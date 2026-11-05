@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-log-dog-6815cdf0fa2c-guide",
+  "title": "How to Deploy log.dog in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-log-dog-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for log.dog.",
+  "targetKeywords": [
+    "log.dog",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://log.dog/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting log.dog with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

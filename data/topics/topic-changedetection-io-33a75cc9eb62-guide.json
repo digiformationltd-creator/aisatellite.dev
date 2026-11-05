@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-changedetection-io-33a75cc9eb62-guide",
+  "title": "How to Deploy changedetection.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-changedetection-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for changedetection.io.",
+  "targetKeywords": [
+    "changedetection.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://changedetection.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting changedetection.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

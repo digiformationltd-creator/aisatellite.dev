@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-seerr-f769087a0694-guide",
+  "title": "How to Deploy Seerr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-seerr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Seerr.",
+  "targetKeywords": [
+    "Seerr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/seerr-team/seerr"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Seerr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.641Z"
+}

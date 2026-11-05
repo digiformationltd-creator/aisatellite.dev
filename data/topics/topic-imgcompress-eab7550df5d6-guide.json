@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-imgcompress-eab7550df5d6-guide",
+  "title": "How to Deploy ImgCompress in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-imgcompress-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ImgCompress.",
+  "targetKeywords": [
+    "ImgCompress",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://imgcompress.karimzouine.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ImgCompress with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.638Z"
+}

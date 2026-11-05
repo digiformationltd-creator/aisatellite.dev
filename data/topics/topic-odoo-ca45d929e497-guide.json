@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-odoo-ca45d929e497-guide",
+  "title": "How to Deploy Odoo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-odoo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Odoo.",
+  "targetKeywords": [
+    "Odoo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.odoo.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Odoo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-clickup-com-83e921a5d723-guide",
+  "title": "How to Deploy clickup.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-clickup-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for clickup.com.",
+  "targetKeywords": [
+    "clickup.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://clickup.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting clickup.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

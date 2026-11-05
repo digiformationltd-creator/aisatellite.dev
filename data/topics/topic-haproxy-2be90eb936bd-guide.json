@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-haproxy-2be90eb936bd-guide",
+  "title": "How to Deploy HAProxy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-haproxy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HAProxy.",
+  "targetKeywords": [
+    "HAProxy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.haproxy.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HAProxy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.638Z"
+}

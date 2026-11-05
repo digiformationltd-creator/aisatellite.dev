@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wavelog-370f560f5753-guide",
+  "title": "How to Deploy Wavelog in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wavelog-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Wavelog.",
+  "targetKeywords": [
+    "Wavelog",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.wavelog.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Wavelog with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

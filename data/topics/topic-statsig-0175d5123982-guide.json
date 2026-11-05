@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-statsig-0175d5123982-guide",
+  "title": "How to Deploy Statsig in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-statsig-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Statsig.",
+  "targetKeywords": [
+    "Statsig",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://statsig.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Statsig with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

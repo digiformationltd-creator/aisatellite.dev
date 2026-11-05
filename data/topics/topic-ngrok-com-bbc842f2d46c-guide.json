@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ngrok-com-bbc842f2d46c-guide",
+  "title": "How to Deploy ngrok.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ngrok-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ngrok.com.",
+  "targetKeywords": [
+    "ngrok.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ngrok.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ngrok.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

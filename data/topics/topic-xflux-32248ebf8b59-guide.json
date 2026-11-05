@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-xflux-32248ebf8b59-guide",
+  "title": "How to Deploy XFlux in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-xflux-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for XFlux.",
+  "targetKeywords": [
+    "XFlux",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.xfluxapi.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting XFlux with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

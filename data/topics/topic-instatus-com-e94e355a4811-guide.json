@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-instatus-com-e94e355a4811-guide",
+  "title": "How to Deploy instatus.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-instatus-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for instatus.com.",
+  "targetKeywords": [
+    "instatus.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://instatus.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting instatus.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.639Z"
+}

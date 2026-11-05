@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-teamwork-com-532991b40596-guide",
+  "title": "How to Deploy teamwork.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-teamwork-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for teamwork.com.",
+  "targetKeywords": [
+    "teamwork.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://teamwork.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting teamwork.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

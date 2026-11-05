@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lura-36e4a65b9088-guide",
+  "title": "How to Deploy Lura in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lura-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lura.",
+  "targetKeywords": [
+    "Lura",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://luraproject.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lura with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

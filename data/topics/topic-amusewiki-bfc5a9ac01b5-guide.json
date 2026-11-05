@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-amusewiki-bfc5a9ac01b5-guide",
+  "title": "How to Deploy AmuseWiki in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-amusewiki-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AmuseWiki.",
+  "targetKeywords": [
+    "AmuseWiki",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://amusewiki.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AmuseWiki with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

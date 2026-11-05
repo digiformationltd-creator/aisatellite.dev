@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mailcheck-ai-aa36e2b688dc-guide",
+  "title": "How to Deploy Mailcheck.ai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mailcheck-ai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mailcheck.ai.",
+  "targetKeywords": [
+    "Mailcheck.ai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mailcheck.ai/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mailcheck.ai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

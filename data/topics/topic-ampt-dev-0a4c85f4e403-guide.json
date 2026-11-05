@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ampt-dev-0a4c85f4e403-guide",
+  "title": "How to Deploy ampt.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ampt-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ampt.dev.",
+  "targetKeywords": [
+    "ampt.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://getampt.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ampt.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

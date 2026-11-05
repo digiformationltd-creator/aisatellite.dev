@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bindery-f60d659adf1a-guide",
+  "title": "How to Deploy Bindery in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bindery-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bindery.",
+  "targetKeywords": [
+    "Bindery",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/jarynclouatre/bindery"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Bindery with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.636Z"
+}

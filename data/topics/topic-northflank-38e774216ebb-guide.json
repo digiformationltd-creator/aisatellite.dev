@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-northflank-38e774216ebb-guide",
+  "title": "How to Deploy Northflank in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-northflank-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Northflank.",
+  "targetKeywords": [
+    "Northflank",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://northflank.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Northflank with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

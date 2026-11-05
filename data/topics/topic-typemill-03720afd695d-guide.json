@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-typemill-03720afd695d-guide",
+  "title": "How to Deploy Typemill in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-typemill-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Typemill.",
+  "targetKeywords": [
+    "Typemill",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://typemill.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Typemill with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

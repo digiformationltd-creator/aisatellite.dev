@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-manage-my-damn-life-6a1b980d8ddd-guide",
+  "title": "How to Deploy Manage My Damn Life in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-manage-my-damn-life-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Manage My Damn Life.",
+  "targetKeywords": [
+    "Manage My Damn Life",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://intri.in/manage-my-damn-life/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Manage My Damn Life with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-yarr-7508688ab7bb-guide",
+  "title": "How to Deploy Yarr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-yarr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Yarr.",
+  "targetKeywords": [
+    "Yarr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/nkanaev/yarr"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Yarr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

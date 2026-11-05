@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-subscriptions-9e30eb2823fb-guide",
+  "title": "How to Deploy Subscriptions in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-subscriptions-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Subscriptions.",
+  "targetKeywords": [
+    "Subscriptions",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zoho.com/subscriptions"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Subscriptions with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

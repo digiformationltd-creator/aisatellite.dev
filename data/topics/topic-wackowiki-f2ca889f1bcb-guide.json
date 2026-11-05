@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wackowiki-f2ca889f1bcb-guide",
+  "title": "How to Deploy WackoWiki in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wackowiki-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WackoWiki.",
+  "targetKeywords": [
+    "WackoWiki",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wackowiki.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting WackoWiki with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

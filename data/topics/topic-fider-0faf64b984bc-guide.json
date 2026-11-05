@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fider-0faf64b984bc-guide",
+  "title": "How to Deploy Fider in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fider-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Fider.",
+  "targetKeywords": [
+    "Fider",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fider.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Fider with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

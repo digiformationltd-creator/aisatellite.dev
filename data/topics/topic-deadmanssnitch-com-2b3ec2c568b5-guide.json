@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deadmanssnitch-com-2b3ec2c568b5-guide",
+  "title": "How to Deploy deadmanssnitch.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deadmanssnitch-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for deadmanssnitch.com.",
+  "targetKeywords": [
+    "deadmanssnitch.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://deadmanssnitch.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting deadmanssnitch.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smart-grow-vault-077321a4e776-guide",
+  "title": "How to Deploy Smart Grow Vault in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smart-grow-vault-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Smart Grow Vault.",
+  "targetKeywords": [
+    "Smart Grow Vault",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vault.smart-grow.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Smart Grow Vault with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.642Z"
+}

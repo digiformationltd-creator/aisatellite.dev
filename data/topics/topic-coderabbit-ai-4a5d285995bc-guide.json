@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-coderabbit-ai-4a5d285995bc-guide",
+  "title": "How to Deploy coderabbit.ai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-coderabbit-ai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for coderabbit.ai.",
+  "targetKeywords": [
+    "coderabbit.ai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://coderabbit.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting coderabbit.ai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.637Z"
+}

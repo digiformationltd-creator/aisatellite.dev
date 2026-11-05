@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-logspot-d051681884a8-guide",
+  "title": "How to Deploy LogSpot in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-logspot-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LogSpot.",
+  "targetKeywords": [
+    "LogSpot",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://logspot.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LogSpot with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.640Z"
+}

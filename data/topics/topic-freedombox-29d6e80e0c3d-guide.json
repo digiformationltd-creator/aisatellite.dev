@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-freedombox-29d6e80e0c3d-guide",
+  "title": "How to Deploy FreedomBox in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-freedombox-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FreedomBox.",
+  "targetKeywords": [
+    "FreedomBox",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://freedombox.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FreedomBox with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-05T11:57:09.638Z"
+}
