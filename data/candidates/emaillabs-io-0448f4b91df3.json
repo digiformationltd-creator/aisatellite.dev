@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://emaillabs.io/en"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-05T07:34:47.359Z",
-  "updatedAt": "2026-11-05T07:34:47.359Z",
-  "lastVerified": "2026-11-05T09:17:06.895Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:27.375Z",
+  "updatedAt": "2026-11-06T07:30:27.375Z"
 }

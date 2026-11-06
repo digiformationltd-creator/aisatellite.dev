@@ -1,0 +1,40 @@
+{
+  "id": "fastlocalexperts-4a5845664372",
+  "canonicalUrl": "https://github.com/sirfyyn/FastLocalExperts",
+  "name": "FastLocalExperts",
+  "description": "FLE (FastLocalExperts): a llama.cpp fork for big Mixture-of-Experts models on one 32 GB GPU. DeepSeek V4.1 Flash (763B) at ~50 tok/s, Qwen3.8-Flash-Next at ~90. Run it with FLE Link. MIT.",
+  "category": "local-llm",
+  "tags": [
+    "cuda",
+    "deepseek",
+    "expert-offloading",
+    "flelink",
+    "gguf",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "mixture-of-experts",
+    "moe",
+    "multi-token-prediction",
+    "quantization",
+    "qwen",
+    "speculative-decoding"
+  ],
+  "repositoryUrl": "https://github.com/sirfyyn/FastLocalExperts",
+  "officialUrl": "https://sirfyyn.github.io/FastLocalExperts/",
+  "documentationUrl": "https://sirfyyn.github.io/FastLocalExperts/",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/sirfyyn/FastLocalExperts/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 3,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-06T06:56:46Z",
+  "evidenceUrls": [
+    "https://github.com/sirfyyn/FastLocalExperts"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:28.562Z",
+  "updatedAt": "2026-11-06T07:30:28.562Z"
+}

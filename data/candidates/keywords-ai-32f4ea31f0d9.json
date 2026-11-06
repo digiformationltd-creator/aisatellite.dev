@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://keywordsai.co"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-05T07:34:47.362Z",
-  "updatedAt": "2026-11-05T07:34:47.362Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:27.376Z",
+  "updatedAt": "2026-11-06T07:30:27.376Z"
 }

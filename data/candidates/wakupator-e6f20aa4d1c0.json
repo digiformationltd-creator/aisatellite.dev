@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/Gibus21250/Wakupator"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-05T07:34:47.467Z",
-  "updatedAt": "2026-11-05T07:34:47.467Z",
-  "lastVerified": "2026-11-05T09:33:20.815Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:27.474Z",
+  "updatedAt": "2026-11-06T07:30:27.474Z"
 }

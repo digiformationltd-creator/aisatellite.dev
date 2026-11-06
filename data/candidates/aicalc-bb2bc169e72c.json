@@ -24,12 +24,11 @@
   "freeTierLimitations": [],
   "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-04T17:49:55Z",
+  "lastRepositoryUpdate": "2026-11-05T17:53:43Z",
   "evidenceUrls": [
     "https://github.com/w932635477-bit/aicalc"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-05T07:34:48.277Z",
-  "updatedAt": "2026-11-05T07:34:48.277Z",
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:28.089Z",
+  "updatedAt": "2026-11-06T07:30:28.089Z"
 }

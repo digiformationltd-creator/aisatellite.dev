@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.huaweicloud.com/intl/en-us/product/dns.html"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-05T07:34:47.363Z",
-  "updatedAt": "2026-11-05T07:34:47.363Z",
-  "lastVerified": "2026-11-05T09:22:28.678Z",
-  "qualityScore": 47
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:27.377Z",
+  "updatedAt": "2026-11-06T07:30:27.377Z"
 }

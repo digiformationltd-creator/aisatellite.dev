@@ -1,0 +1,41 @@
+{
+  "id": "shen-ai-51abba265266",
+  "canonicalUrl": "https://github.com/shenald-dev/shen-ai",
+  "name": "shen-ai",
+  "description": "🤖 Autonomous AI Coding Agent. Multi-agent, multi-provider coding assistant that thinks ahead and self-heals.",
+  "category": "ai-coding",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-coding",
+    "autonomous-agents",
+    "claude",
+    "code-generator",
+    "coding-assistant",
+    "copilot",
+    "deepseek",
+    "developer-tools",
+    "multi-agent",
+    "openai",
+    "self-healing",
+    "software-engineering",
+    "typescript",
+    "vscode"
+  ],
+  "repositoryUrl": "https://github.com/shenald-dev/shen-ai",
+  "officialUrl": "https://shenald-portfolio.vercel.app",
+  "documentationUrl": "https://shenald-portfolio.vercel.app",
+  "licenseSpdx": "GPL-3.0",
+  "licenseEvidenceUrl": "https://github.com/shenald-dev/shen-ai/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 3,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-06T02:41:30Z",
+  "evidenceUrls": [
+    "https://github.com/shenald-dev/shen-ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:29.067Z",
+  "updatedAt": "2026-11-06T07:30:29.067Z"
+}

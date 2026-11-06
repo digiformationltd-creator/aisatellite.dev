@@ -33,14 +33,13 @@
   "licenseEvidenceUrl": "https://github.com/pacocartones/free-llm-api-hub/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 115,
-  "githubForks": 49,
+  "githubStars": 116,
+  "githubForks": 50,
   "lastRepositoryUpdate": "2026-11-02T18:49:03Z",
   "evidenceUrls": [
     "https://github.com/pacocartones/free-llm-api-hub"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-05T07:34:48.277Z",
-  "updatedAt": "2026-11-05T07:34:48.277Z",
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:28.089Z",
+  "updatedAt": "2026-11-06T07:30:28.089Z"
 }

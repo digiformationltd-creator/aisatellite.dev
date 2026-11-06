@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.cups.org/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-05T07:34:47.466Z",
-  "updatedAt": "2026-11-05T07:34:47.466Z",
-  "lastVerified": "2026-11-05T09:14:46.299Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:27.474Z",
+  "updatedAt": "2026-11-06T07:30:27.474Z"
 }

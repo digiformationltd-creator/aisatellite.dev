@@ -33,14 +33,13 @@
   "licenseEvidenceUrl": "https://github.com/RitualDev-Lab/DevShelf/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 12,
+  "githubStars": 13,
   "githubForks": 16,
-  "lastRepositoryUpdate": "2026-11-05T07:20:30Z",
+  "lastRepositoryUpdate": "2026-11-05T22:44:18Z",
   "evidenceUrls": [
     "https://github.com/RitualDev-Lab/DevShelf"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-05T07:34:48.277Z",
-  "updatedAt": "2026-11-05T07:34:48.277Z",
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:28.089Z",
+  "updatedAt": "2026-11-06T07:30:28.089Z"
 }

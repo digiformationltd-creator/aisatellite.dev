@@ -15,10 +15,8 @@
   "evidenceUrls": [
     "https://rocket.chat/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-05T07:34:47.461Z",
-  "updatedAt": "2026-11-05T07:34:49.443Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-05T09:28:58.671Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:27.470Z",
+  "updatedAt": "2026-11-06T07:30:29.069Z",
+  "githubStars": 0
 }

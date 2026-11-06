@@ -33,12 +33,11 @@
   "freeTierLimitations": [],
   "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-05T07:31:16Z",
+  "lastRepositoryUpdate": "2026-11-06T07:08:44Z",
   "evidenceUrls": [
     "https://github.com/ragnarwestad/aide"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-05T07:34:49.440Z",
-  "updatedAt": "2026-11-05T07:34:49.440Z",
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:29.067Z",
+  "updatedAt": "2026-11-06T07:30:29.067Z"
 }

@@ -1,0 +1,39 @@
+{
+  "id": "ragon-afd180b2c148",
+  "canonicalUrl": "https://github.com/dreamference/ragon",
+  "name": "ragon",
+  "description": "DGX Spark & GB10 software: a private, fully local AI coding agent, chat and desktop app. One-command install, no cloud, no account, no telemetry. For NVIDIA DGX Spark, ASUS Ascent GX10, Dell Pro Max GB10, HP ZGX Nano, Lenovo ThinkStation PGX, MSI EdgeXpert, Acer GN100, Gigabyte AI TOP ATOM.",
+  "category": "local-llm",
+  "tags": [
+    "ai-agent",
+    "ai-coding-assistant",
+    "air-gapped",
+    "coding-agent",
+    "confidential-ai",
+    "dgx-spark",
+    "gb10",
+    "llm-inference",
+    "local-ai",
+    "local-llm",
+    "nvidia-dgx-spark",
+    "nvidia-gb10",
+    "privacy",
+    "self-hosted",
+    "sglang",
+    "vllm"
+  ],
+  "repositoryUrl": "https://github.com/dreamference/ragon",
+  "licenseSpdx": "AGPL-3.0",
+  "licenseEvidenceUrl": "https://github.com/dreamference/ragon/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-06T07:14:05Z",
+  "evidenceUrls": [
+    "https://github.com/dreamference/ragon"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:28.562Z",
+  "updatedAt": "2026-11-06T07:30:28.562Z"
+}

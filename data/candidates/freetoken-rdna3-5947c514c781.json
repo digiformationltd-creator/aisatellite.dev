@@ -1,0 +1,43 @@
+{
+  "id": "freetoken-rdna3-5947c514c781",
+  "canonicalUrl": "https://github.com/Cedriceuh/freetoken-rdna3",
+  "name": "freetoken-rdna3",
+  "description": "Fast local LLM inference on AMD Radeon RX 7900 XTX / XT (RDNA3, ROCm): big Mixture-of-Experts models like Qwen3.8-Flash-Next on one or two consumer GPUs. Up to 4 parallel agents with 262k context each, or one 1M-token context, OpenAI/Anthropic API, NVFP4 and EXL3 checkpoints. A tuned build of FreeToken.",
+  "category": "local-llm",
+  "tags": [
+    "amd",
+    "amd-gpu",
+    "exl3",
+    "inference-server",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "mixture-of-experts",
+    "moe",
+    "multi-gpu",
+    "nvfp4",
+    "openai-api",
+    "qwen",
+    "qwen3",
+    "radeon",
+    "rdna3",
+    "rocm",
+    "rx-7900-xtx",
+    "self-hosted",
+    "tensor-parallelism"
+  ],
+  "repositoryUrl": "https://github.com/Cedriceuh/freetoken-rdna3",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/Cedriceuh/freetoken-rdna3/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 9,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-06T07:22:34Z",
+  "evidenceUrls": [
+    "https://github.com/Cedriceuh/freetoken-rdna3"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:28.562Z",
+  "updatedAt": "2026-11-06T07:30:28.562Z"
+}

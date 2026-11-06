@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.cypress.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-05T07:34:47.353Z",
-  "updatedAt": "2026-11-05T07:34:47.353Z",
-  "lastVerified": "2026-11-05T09:14:56.551Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:27.370Z",
+  "updatedAt": "2026-11-06T07:30:27.370Z"
 }

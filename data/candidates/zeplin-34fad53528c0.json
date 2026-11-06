@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://zeplin.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-05T07:34:47.366Z",
-  "updatedAt": "2026-11-05T07:34:47.366Z",
-  "lastVerified": "2026-11-05T09:34:07.609Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-06T07:30:27.378Z",
+  "updatedAt": "2026-11-06T07:30:27.378Z"
 }
