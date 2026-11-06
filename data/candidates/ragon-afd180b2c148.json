@@ -33,7 +33,9 @@
   "evidenceUrls": [
     "https://github.com/dreamference/ragon"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:28.562Z",
-  "updatedAt": "2026-11-06T07:30:28.562Z"
+  "updatedAt": "2026-11-06T07:30:28.562Z",
+  "lastVerified": "2026-11-06T09:16:02.806Z",
+  "qualityScore": 78
 }

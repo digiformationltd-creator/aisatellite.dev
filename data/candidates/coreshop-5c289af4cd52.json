@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.coreshop.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.472Z",
-  "updatedAt": "2026-11-06T07:30:27.472Z"
+  "updatedAt": "2026-11-06T07:30:27.472Z",
+  "lastVerified": "2026-11-06T09:03:29.493Z",
+  "qualityScore": 52
 }

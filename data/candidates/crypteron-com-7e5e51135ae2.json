@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.crypteron.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.371Z",
-  "updatedAt": "2026-11-06T07:30:27.371Z"
+  "updatedAt": "2026-11-06T07:30:27.371Z",
+  "lastVerified": "2026-11-06T09:03:39.088Z",
+  "qualityScore": 52
 }

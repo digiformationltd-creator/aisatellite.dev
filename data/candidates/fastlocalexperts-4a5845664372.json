@@ -34,7 +34,9 @@
   "evidenceUrls": [
     "https://github.com/sirfyyn/FastLocalExperts"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:28.562Z",
-  "updatedAt": "2026-11-06T07:30:28.562Z"
+  "updatedAt": "2026-11-06T07:30:28.562Z",
+  "lastVerified": "2026-11-06T09:05:57.415Z",
+  "qualityScore": 89
 }

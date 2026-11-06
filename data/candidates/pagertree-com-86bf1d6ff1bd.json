@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pagertree.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.374Z",
-  "updatedAt": "2026-11-06T07:30:27.374Z"
+  "updatedAt": "2026-11-06T07:30:27.374Z",
+  "lastVerified": "2026-11-06T09:14:26.034Z",
+  "qualityScore": 52
 }

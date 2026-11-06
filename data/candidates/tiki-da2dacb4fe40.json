@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tiki.org/HomePage"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.477Z",
-  "updatedAt": "2026-11-06T07:30:27.477Z"
+  "updatedAt": "2026-11-06T07:30:27.477Z",
+  "lastVerified": "2026-11-06T09:20:33.241Z",
+  "qualityScore": 52
 }

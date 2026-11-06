@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://openrouter.ai/models?q=free"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.376Z",
-  "updatedAt": "2026-11-06T07:30:27.376Z"
+  "updatedAt": "2026-11-06T07:30:27.376Z",
+  "lastVerified": "2026-11-06T09:13:59.287Z",
+  "qualityScore": 52
 }

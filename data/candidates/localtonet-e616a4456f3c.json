@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://localtonet.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.377Z",
-  "updatedAt": "2026-11-06T07:30:27.377Z"
+  "updatedAt": "2026-11-06T07:30:27.377Z",
+  "lastVerified": "2026-11-06T09:11:13.023Z",
+  "qualityScore": 52
 }

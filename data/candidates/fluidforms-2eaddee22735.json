@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://fluidforms.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.376Z",
-  "updatedAt": "2026-11-06T07:30:27.376Z"
+  "updatedAt": "2026-11-06T07:30:27.376Z",
+  "lastVerified": "2026-11-06T09:06:26.095Z",
+  "qualityScore": 52
 }

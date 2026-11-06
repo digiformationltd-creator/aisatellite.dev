@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.khanacademy.org/computing/computer-programming"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.374Z",
-  "updatedAt": "2026-11-06T07:30:27.374Z"
+  "updatedAt": "2026-11-06T07:30:27.374Z",
+  "lastVerified": "2026-11-06T09:10:19.702Z",
+  "qualityScore": 52
 }

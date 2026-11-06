@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://transcript.lol/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.376Z",
-  "updatedAt": "2026-11-06T07:30:27.376Z"
+  "updatedAt": "2026-11-06T07:30:27.376Z",
+  "lastVerified": "2026-11-06T09:20:57.724Z",
+  "qualityScore": 52
 }

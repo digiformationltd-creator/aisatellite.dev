@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://requestbin.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.369Z",
-  "updatedAt": "2026-11-06T07:30:27.369Z"
+  "updatedAt": "2026-11-06T07:30:27.369Z",
+  "lastVerified": "2026-11-06T09:16:30.271Z",
+  "qualityScore": 52
 }

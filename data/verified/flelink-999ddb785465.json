@@ -1,0 +1,37 @@
+{
+  "id": "flelink-999ddb785465",
+  "canonicalUrl": "https://github.com/sirfyyn/flelink",
+  "name": "flelink",
+  "description": "FLE Link: run big local AI models in one command. DeepSeek V4.1 Flash at ~50 tok/s on one 32 GB GPU with the FLE engine and the Rin quant. OpenAI- and Anthropic-compatible API, desktop app, MIT.",
+  "category": "local-llm",
+  "tags": [
+    "anthropic-compatible",
+    "deepseek",
+    "desktop-app",
+    "gguf",
+    "llama-cpp",
+    "llm-inference",
+    "local-llm",
+    "mixture-of-experts",
+    "openai-compatible",
+    "self-hosted"
+  ],
+  "repositoryUrl": "https://github.com/sirfyyn/flelink",
+  "officialUrl": "https://flelink.run",
+  "documentationUrl": "https://flelink.run",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/sirfyyn/flelink/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-06T07:16:26Z",
+  "evidenceUrls": [
+    "https://github.com/sirfyyn/flelink"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-06T07:30:28.562Z",
+  "updatedAt": "2026-11-06T07:30:28.562Z",
+  "lastVerified": "2026-11-06T09:06:19.204Z",
+  "qualityScore": 89
+}

@@ -16,8 +16,10 @@
     "https://simplelogin.io/",
     "https://simplelogin.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.471Z",
   "updatedAt": "2026-11-06T07:30:29.069Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-06T09:18:10.029Z",
+  "qualityScore": 57
 }

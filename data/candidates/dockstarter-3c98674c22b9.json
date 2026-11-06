@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dockstarter.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.475Z",
-  "updatedAt": "2026-11-06T07:30:27.475Z"
+  "updatedAt": "2026-11-06T07:30:27.475Z",
+  "lastVerified": "2026-11-06T09:04:42.161Z",
+  "qualityScore": 52
 }

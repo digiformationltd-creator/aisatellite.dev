@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://airflow.apache.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.470Z",
-  "updatedAt": "2026-11-06T07:30:27.470Z"
+  "updatedAt": "2026-11-06T07:30:27.470Z",
+  "lastVerified": "2026-11-06T09:00:43.938Z",
+  "qualityScore": 52
 }

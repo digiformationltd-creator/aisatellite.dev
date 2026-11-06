@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/jgm/gitit"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.477Z",
-  "updatedAt": "2026-11-06T07:30:27.477Z"
+  "updatedAt": "2026-11-06T07:30:27.477Z",
+  "lastVerified": "2026-11-06T09:07:47.996Z",
+  "qualityScore": 55
 }

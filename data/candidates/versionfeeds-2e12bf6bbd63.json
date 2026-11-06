@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://versionfeeds.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.380Z",
-  "updatedAt": "2026-11-06T07:30:27.380Z"
+  "updatedAt": "2026-11-06T07:30:27.380Z",
+  "lastVerified": "2026-11-06T09:21:40.193Z",
+  "qualityScore": 52
 }

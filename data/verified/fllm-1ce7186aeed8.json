@@ -1,0 +1,38 @@
+{
+  "id": "fllm-1ce7186aeed8",
+  "canonicalUrl": "https://github.com/Marco-Lu2508/fLLM",
+  "name": "fLLM",
+  "description": "Local LLM inference engine in pure Rust: GGUF, OpenAI/Anthropic/Ollama-compatible API, CUDA (incl. NVFP4), Metal, Vulkan, CPU",
+  "category": "local-llm",
+  "tags": [
+    "cuda",
+    "gguf",
+    "huggingface",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "metal",
+    "nvfp4",
+    "openai-api",
+    "quantization",
+    "rust",
+    "vulkan"
+  ],
+  "repositoryUrl": "https://github.com/Marco-Lu2508/fLLM",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/Marco-Lu2508/fLLM/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-05T07:32:10Z",
+  "evidenceUrls": [
+    "https://github.com/Marco-Lu2508/fLLM"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-05T07:34:48.828Z",
+  "updatedAt": "2026-11-05T07:34:48.829Z",
+  "rejectionReason": "Canonical link unreachable",
+  "lastVerified": "2026-11-06T09:06:24.049Z",
+  "qualityScore": 78
+}

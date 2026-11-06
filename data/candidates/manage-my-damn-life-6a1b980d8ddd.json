@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://intri.in/manage-my-damn-life/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.470Z",
-  "updatedAt": "2026-11-06T07:30:27.470Z"
+  "updatedAt": "2026-11-06T07:30:27.470Z",
+  "lastVerified": "2026-11-06T09:11:43.478Z",
+  "qualityScore": 52
 }

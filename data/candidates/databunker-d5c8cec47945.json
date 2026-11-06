@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://databunker.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.471Z",
-  "updatedAt": "2026-11-06T07:30:27.471Z"
+  "updatedAt": "2026-11-06T07:30:27.471Z",
+  "lastVerified": "2026-11-06T09:03:53.926Z",
+  "qualityScore": 52
 }

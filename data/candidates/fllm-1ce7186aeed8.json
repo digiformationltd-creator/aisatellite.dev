@@ -29,8 +29,10 @@
   "evidenceUrls": [
     "https://github.com/Marco-Lu2508/fLLM"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:48.828Z",
   "updatedAt": "2026-11-05T07:34:48.829Z",
-  "rejectionReason": "Canonical link unreachable"
+  "rejectionReason": "Canonical link unreachable",
+  "lastVerified": "2026-11-06T09:06:24.049Z",
+  "qualityScore": 78
 }

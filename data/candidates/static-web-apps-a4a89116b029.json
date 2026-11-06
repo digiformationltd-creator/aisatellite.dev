@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/pricing/details/app-service/static/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.367Z",
-  "updatedAt": "2026-11-06T07:30:27.367Z"
+  "updatedAt": "2026-11-06T07:30:27.367Z",
+  "lastVerified": "2026-11-06T09:19:12.123Z",
+  "qualityScore": 52
 }

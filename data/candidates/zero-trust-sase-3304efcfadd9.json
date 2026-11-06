@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.cloudflare.com/plans/zero-trust-services/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.367Z",
-  "updatedAt": "2026-11-06T07:30:27.367Z"
+  "updatedAt": "2026-11-06T07:30:27.367Z",
+  "lastVerified": "2026-11-06T09:22:55.891Z",
+  "qualityScore": 52
 }

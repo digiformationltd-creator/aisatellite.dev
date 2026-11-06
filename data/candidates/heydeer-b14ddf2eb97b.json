@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://heydeer.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.370Z",
-  "updatedAt": "2026-11-06T07:30:27.370Z"
+  "updatedAt": "2026-11-06T07:30:27.370Z",
+  "lastVerified": "2026-11-06T09:08:30.216Z",
+  "qualityScore": 52
 }

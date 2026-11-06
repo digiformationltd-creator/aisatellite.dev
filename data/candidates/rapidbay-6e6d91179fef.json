@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/hauxir/rapidbay/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.474Z",
-  "updatedAt": "2026-11-06T07:30:27.474Z"
+  "updatedAt": "2026-11-06T07:30:27.474Z",
+  "lastVerified": "2026-11-06T09:16:04.087Z",
+  "qualityScore": 55
 }

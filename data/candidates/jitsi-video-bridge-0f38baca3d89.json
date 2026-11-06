@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://jitsi.org/Projects/JitsiVideobridge"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.471Z",
-  "updatedAt": "2026-11-06T07:30:27.471Z"
+  "updatedAt": "2026-11-06T07:30:27.471Z",
+  "lastVerified": "2026-11-06T09:10:00.404Z",
+  "qualityScore": 52
 }

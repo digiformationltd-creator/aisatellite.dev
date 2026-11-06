@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.aikido.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.371Z",
-  "updatedAt": "2026-11-06T07:30:27.371Z"
+  "updatedAt": "2026-11-06T07:30:27.371Z",
+  "lastVerified": "2026-11-06T09:00:15.404Z",
+  "qualityScore": 52
 }

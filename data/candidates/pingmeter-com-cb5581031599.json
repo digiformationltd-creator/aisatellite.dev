@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pingmeter.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.374Z",
-  "updatedAt": "2026-11-06T07:30:27.374Z"
+  "updatedAt": "2026-11-06T07:30:27.374Z",
+  "lastVerified": "2026-11-06T09:14:56.034Z",
+  "qualityScore": 52
 }

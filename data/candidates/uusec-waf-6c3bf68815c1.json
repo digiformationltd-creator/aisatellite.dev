@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://waf.uusec.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.477Z",
-  "updatedAt": "2026-11-06T07:30:27.477Z"
+  "updatedAt": "2026-11-06T07:30:27.477Z",
+  "lastVerified": "2026-11-06T09:21:29.412Z",
+  "qualityScore": 52
 }

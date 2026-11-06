@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://teamwork.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.377Z",
-  "updatedAt": "2026-11-06T07:30:27.377Z"
+  "updatedAt": "2026-11-06T07:30:27.377Z",
+  "lastVerified": "2026-11-06T09:20:05.672Z",
+  "qualityScore": 52
 }

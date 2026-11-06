@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://vanilla-cookbook.readthedocs.io/en/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.475Z",
-  "updatedAt": "2026-11-06T07:30:27.475Z"
+  "updatedAt": "2026-11-06T07:30:27.475Z",
+  "lastVerified": "2026-11-06T09:21:32.549Z",
+  "qualityScore": 52
 }

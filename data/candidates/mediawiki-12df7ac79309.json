@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mediawiki.org/wiki/MediaWiki"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.477Z",
-  "updatedAt": "2026-11-06T07:30:27.477Z"
+  "updatedAt": "2026-11-06T07:30:27.477Z",
+  "lastVerified": "2026-11-06T09:11:58.238Z",
+  "qualityScore": 52
 }

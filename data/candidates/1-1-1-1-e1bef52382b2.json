@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://developers.cloudflare.com/1.1.1.1/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.377Z",
-  "updatedAt": "2026-11-06T07:30:27.377Z"
+  "updatedAt": "2026-11-06T07:30:27.377Z",
+  "lastVerified": "2026-11-06T08:59:48.010Z",
+  "qualityScore": 52
 }

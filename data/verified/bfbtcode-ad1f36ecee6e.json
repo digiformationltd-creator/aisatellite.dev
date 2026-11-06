@@ -1,0 +1,43 @@
+{
+  "id": "bfbtcode-ad1f36ecee6e",
+  "canonicalUrl": "https://github.com/dongfutong/BFBTCode",
+  "name": "BFBTCode",
+  "description": "BFBT Code is an AI coding agent and coding assistant for Windows, macOS (Apple Silicon), and Linux. Installers and user docs. Trial or membership required. Phone remote via DTworkeasy.",
+  "category": "ai-coding",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-coding",
+    "ai-coding-agent",
+    "bfbt",
+    "coding-agent",
+    "coding-agents",
+    "coding-assistant",
+    "desktop-app",
+    "developer-tools",
+    "dtrony",
+    "installer",
+    "linux",
+    "llm",
+    "macos",
+    "remote-control",
+    "tui",
+    "windows"
+  ],
+  "repositoryUrl": "https://github.com/dongfutong/BFBTCode",
+  "officialUrl": "https://www.dtrony.com",
+  "documentationUrl": "https://www.dtrony.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-06T07:02:11Z",
+  "evidenceUrls": [
+    "https://github.com/dongfutong/BFBTCode"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-06T07:30:29.067Z",
+  "updatedAt": "2026-11-06T07:30:29.067Z",
+  "lastVerified": "2026-11-06T09:01:38.820Z",
+  "qualityScore": 75
+}

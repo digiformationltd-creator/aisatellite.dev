@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://theboroer.github.io/localtunnel-www/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.377Z",
-  "updatedAt": "2026-11-06T07:30:27.377Z"
+  "updatedAt": "2026-11-06T07:30:27.377Z",
+  "lastVerified": "2026-11-06T09:11:13.417Z",
+  "qualityScore": 52
 }

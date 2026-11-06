@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://houndci.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.370Z",
-  "updatedAt": "2026-11-06T07:30:27.370Z"
+  "updatedAt": "2026-11-06T07:30:27.370Z",
+  "lastVerified": "2026-11-06T09:08:46.837Z",
+  "qualityScore": 52
 }

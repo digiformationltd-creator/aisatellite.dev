@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://baserow.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.471Z",
-  "updatedAt": "2026-11-06T07:30:27.471Z"
+  "updatedAt": "2026-11-06T07:30:27.471Z",
+  "lastVerified": "2026-11-06T09:01:29.040Z",
+  "qualityScore": 52
 }

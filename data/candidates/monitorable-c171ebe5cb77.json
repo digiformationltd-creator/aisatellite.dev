@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://monitorable.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.374Z",
-  "updatedAt": "2026-11-06T07:30:27.374Z"
+  "updatedAt": "2026-11-06T07:30:27.374Z",
+  "lastVerified": "2026-11-06T09:12:37.244Z",
+  "qualityScore": 52
 }

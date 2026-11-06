@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/services/search/#features"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.367Z",
-  "updatedAt": "2026-11-06T07:30:27.367Z"
+  "updatedAt": "2026-11-06T07:30:27.367Z",
+  "lastVerified": "2026-11-06T09:03:08.963Z",
+  "qualityScore": 52
 }

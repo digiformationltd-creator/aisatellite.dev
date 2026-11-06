@@ -35,7 +35,9 @@
   "evidenceUrls": [
     "https://github.com/dongfutong/BFBTCode"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:29.067Z",
-  "updatedAt": "2026-11-06T07:30:29.067Z"
+  "updatedAt": "2026-11-06T07:30:29.067Z",
+  "lastVerified": "2026-11-06T09:01:38.820Z",
+  "qualityScore": 75
 }

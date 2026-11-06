@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/products/service-bus/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.367Z",
-  "updatedAt": "2026-11-06T07:30:27.367Z"
+  "updatedAt": "2026-11-06T07:30:27.367Z",
+  "lastVerified": "2026-11-06T09:17:50.119Z",
+  "qualityScore": 52
 }

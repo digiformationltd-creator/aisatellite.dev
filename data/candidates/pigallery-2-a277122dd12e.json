@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bpatrik.github.io/pigallery2/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.475Z",
-  "updatedAt": "2026-11-06T07:30:27.475Z"
+  "updatedAt": "2026-11-06T07:30:27.475Z",
+  "lastVerified": "2026-11-06T09:14:49.933Z",
+  "qualityScore": 52
 }

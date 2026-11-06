@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://blynk.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.380Z",
-  "updatedAt": "2026-11-06T07:30:27.380Z"
+  "updatedAt": "2026-11-06T07:30:27.380Z",
+  "lastVerified": "2026-11-06T09:01:53.003Z",
+  "qualityScore": 52
 }

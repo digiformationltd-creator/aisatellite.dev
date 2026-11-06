@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/we-promise/sure"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.474Z",
-  "updatedAt": "2026-11-06T07:30:27.474Z"
+  "updatedAt": "2026-11-06T07:30:27.474Z",
+  "lastVerified": "2026-11-06T09:19:38.649Z",
+  "qualityScore": 55
 }

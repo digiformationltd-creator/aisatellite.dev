@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://remark42.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.471Z",
-  "updatedAt": "2026-11-06T07:30:27.471Z"
+  "updatedAt": "2026-11-06T07:30:27.471Z",
+  "lastVerified": "2026-11-06T09:16:23.313Z",
+  "qualityScore": 52
 }

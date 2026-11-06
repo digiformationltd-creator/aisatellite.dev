@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.zentao.pm/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.476Z",
-  "updatedAt": "2026-11-06T07:30:27.476Z"
+  "updatedAt": "2026-11-06T07:30:27.476Z",
+  "lastVerified": "2026-11-06T09:22:53.827Z",
+  "qualityScore": 52
 }

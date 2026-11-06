@@ -1,0 +1,36 @@
+{
+  "id": "deepseeker-code-b7223fd56c7d",
+  "canonicalUrl": "https://github.com/xknk/deepseeker-code",
+  "name": "deepseeker-code",
+  "description": "Local-first AI coding assistant powered by DeepSeek. One agentic engine, three entries: VS Code extension, terminal CLI, local HTTP API.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "coding-assistant",
+    "deepseek",
+    "developer-tools",
+    "mcp",
+    "terminal",
+    "vscode-extension"
+  ],
+  "repositoryUrl": "https://github.com/xknk/deepseeker-code",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/xknk/deepseeker-code/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-05T07:23:24Z",
+  "evidenceUrls": [
+    "https://github.com/xknk/deepseeker-code"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-05T07:34:49.440Z",
+  "updatedAt": "2026-11-05T07:34:49.440Z",
+  "rejectionReason": "Canonical link unreachable",
+  "lastVerified": "2026-11-06T09:04:05.794Z",
+  "qualityScore": 78
+}

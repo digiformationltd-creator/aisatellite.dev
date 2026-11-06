@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://avo.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.379Z",
-  "updatedAt": "2026-11-06T07:30:27.379Z"
+  "updatedAt": "2026-11-06T07:30:27.379Z",
+  "lastVerified": "2026-11-06T09:01:13.061Z",
+  "qualityScore": 52
 }

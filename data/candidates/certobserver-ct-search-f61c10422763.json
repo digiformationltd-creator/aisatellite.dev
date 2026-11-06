@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://certobserver.com/ct-search"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.371Z",
-  "updatedAt": "2026-11-06T07:30:27.371Z"
+  "updatedAt": "2026-11-06T07:30:27.371Z",
+  "lastVerified": "2026-11-06T09:02:28.663Z",
+  "qualityScore": 52
 }

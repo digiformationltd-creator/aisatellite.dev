@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cnc.js.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.473Z",
-  "updatedAt": "2026-11-06T07:30:27.473Z"
+  "updatedAt": "2026-11-06T07:30:27.473Z",
+  "lastVerified": "2026-11-06T09:03:00.110Z",
+  "qualityScore": 52
 }

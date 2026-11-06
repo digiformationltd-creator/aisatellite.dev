@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://rhodecode.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:27.476Z",
-  "updatedAt": "2026-11-06T07:30:27.476Z"
+  "updatedAt": "2026-11-06T07:30:27.476Z",
+  "lastVerified": "2026-11-06T09:16:39.222Z",
+  "qualityScore": 52
 }
