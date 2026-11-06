@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sharry-2a1807f588f8-guide",
+  "title": "How to Deploy Sharry in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sharry-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sharry.",
+  "targetKeywords": [
+    "Sharry",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sharry.live/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sharry with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-librephotos-b5e0e2e9ab66-guide",
+  "title": "How to Deploy LibrePhotos in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-librephotos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LibrePhotos.",
+  "targetKeywords": [
+    "LibrePhotos",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/LibrePhotos/librephotos"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting LibrePhotos with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

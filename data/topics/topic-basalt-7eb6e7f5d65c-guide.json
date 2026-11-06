@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-basalt-7eb6e7f5d65c-guide",
+  "title": "How to Deploy basalt in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-basalt-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for basalt.",
+  "targetKeywords": [
+    "basalt",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/goodmai/basalt"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting basalt with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

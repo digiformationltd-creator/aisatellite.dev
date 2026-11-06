@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-prismix-3fce99160285-guide",
+  "title": "How to Deploy Prismix in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-prismix-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Prismix.",
+  "targetKeywords": [
+    "Prismix",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://prismix.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Prismix with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

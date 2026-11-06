@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hookdeck-258c11eac97e-guide",
+  "title": "How to Deploy Hookdeck in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hookdeck-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hookdeck.",
+  "targetKeywords": [
+    "Hookdeck",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hookdeck.com/pricing"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hookdeck with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

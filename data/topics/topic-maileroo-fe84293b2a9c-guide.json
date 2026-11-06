@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-maileroo-fe84293b2a9c-guide",
+  "title": "How to Deploy Maileroo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-maileroo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Maileroo.",
+  "targetKeywords": [
+    "Maileroo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://maileroo.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Maileroo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

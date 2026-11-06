@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-traefik-ae02566fdadb-guide",
+  "title": "How to Deploy Traefik in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-traefik-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Traefik.",
+  "targetKeywords": [
+    "Traefik",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://traefik.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Traefik with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

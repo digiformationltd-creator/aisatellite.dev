@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vegacode-7ceb5e14bf6b-guide",
+  "title": "How to Deploy vegacode in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vegacode-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for vegacode.",
+  "targetKeywords": [
+    "vegacode",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/isaacfrett/vegacode"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting vegacode with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

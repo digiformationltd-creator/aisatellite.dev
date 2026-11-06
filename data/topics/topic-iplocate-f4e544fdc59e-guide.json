@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-iplocate-f4e544fdc59e-guide",
+  "title": "How to Deploy IPLocate in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-iplocate-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IPLocate.",
+  "targetKeywords": [
+    "IPLocate",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.iplocate.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IPLocate with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-everydocs-313d6082b37c-guide",
+  "title": "How to Deploy EveryDocs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-everydocs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for EveryDocs.",
+  "targetKeywords": [
+    "EveryDocs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/jonashellmann/everydocs-core"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting EveryDocs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

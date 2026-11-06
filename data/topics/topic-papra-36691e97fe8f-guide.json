@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-papra-36691e97fe8f-guide",
+  "title": "How to Deploy Papra in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-papra-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Papra.",
+  "targetKeywords": [
+    "Papra",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://papra.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Papra with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-requestly-4613a1d82de6-guide",
+  "title": "How to Deploy Requestly in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-requestly-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Requestly.",
+  "targetKeywords": [
+    "Requestly",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://requestly.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Requestly with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

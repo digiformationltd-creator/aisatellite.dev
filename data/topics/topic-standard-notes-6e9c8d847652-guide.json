@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-standard-notes-6e9c8d847652-guide",
+  "title": "How to Deploy Standard Notes in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-standard-notes-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Standard Notes.",
+  "targetKeywords": [
+    "Standard Notes",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.standardnotes.com/self-hosting/getting-started"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Standard Notes with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

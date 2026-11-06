@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-myspec-dev-87a0593a2428-guide",
+  "title": "How to Deploy myspec.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-myspec-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for myspec.dev.",
+  "targetKeywords": [
+    "myspec.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://myspec.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting myspec.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

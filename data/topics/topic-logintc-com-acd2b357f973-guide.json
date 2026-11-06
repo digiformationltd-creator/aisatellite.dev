@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-logintc-com-acd2b357f973-guide",
+  "title": "How to Deploy logintc.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-logintc-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for logintc.com.",
+  "targetKeywords": [
+    "logintc.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.logintc.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting logintc.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

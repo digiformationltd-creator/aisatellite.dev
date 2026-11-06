@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-v0-dev-e8b28fd1c0bb-guide",
+  "title": "How to Deploy v0.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-v0-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for v0.dev.",
+  "targetKeywords": [
+    "v0.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://v0.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting v0.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

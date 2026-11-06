@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-maxim-ai-fd2e66afb2ce-guide",
+  "title": "How to Deploy Maxim AI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-maxim-ai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Maxim AI.",
+  "targetKeywords": [
+    "Maxim AI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://getmaxim.ai/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Maxim AI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

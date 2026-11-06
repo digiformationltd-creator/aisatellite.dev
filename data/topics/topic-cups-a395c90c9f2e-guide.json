@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cups-a395c90c9f2e-guide",
+  "title": "How to Deploy CUPS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cups-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CUPS.",
+  "targetKeywords": [
+    "CUPS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cups.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CUPS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

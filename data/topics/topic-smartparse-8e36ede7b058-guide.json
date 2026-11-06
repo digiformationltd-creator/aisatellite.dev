@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smartparse-8e36ede7b058-guide",
+  "title": "How to Deploy SmartParse in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smartparse-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SmartParse.",
+  "targetKeywords": [
+    "SmartParse",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://smartparse.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SmartParse with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

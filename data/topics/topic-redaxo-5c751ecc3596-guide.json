@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-redaxo-5c751ecc3596-guide",
+  "title": "How to Deploy REDAXO in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-redaxo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for REDAXO.",
+  "targetKeywords": [
+    "REDAXO",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.redaxo.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting REDAXO with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-p-nskelisten-4b20c7c3d4ff-guide",
+  "title": "How to Deploy Pønskelisten in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-p-nskelisten-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pønskelisten.",
+  "targetKeywords": [
+    "Pønskelisten",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/aunefyren/poenskelisten"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Pønskelisten with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

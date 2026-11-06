@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zoho-assist-6ab69827e537-guide",
+  "title": "How to Deploy Zoho Assist in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zoho-assist-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zoho Assist.",
+  "targetKeywords": [
+    "Zoho Assist",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.zoho.com/assist"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zoho Assist with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.293Z"
+}

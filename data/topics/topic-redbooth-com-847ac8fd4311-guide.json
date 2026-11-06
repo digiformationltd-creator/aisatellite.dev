@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-redbooth-com-847ac8fd4311-guide",
+  "title": "How to Deploy redbooth.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-redbooth-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for redbooth.com.",
+  "targetKeywords": [
+    "redbooth.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://redbooth.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting redbooth.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

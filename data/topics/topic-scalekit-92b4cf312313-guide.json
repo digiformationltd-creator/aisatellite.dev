@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-scalekit-92b4cf312313-guide",
+  "title": "How to Deploy Scalekit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-scalekit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Scalekit.",
+  "targetKeywords": [
+    "Scalekit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://scalekit.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Scalekit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

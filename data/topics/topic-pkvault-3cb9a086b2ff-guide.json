@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pkvault-3cb9a086b2ff-guide",
+  "title": "How to Deploy PKVault in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pkvault-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PKVault.",
+  "targetKeywords": [
+    "PKVault",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Chnapy/PKVault"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting PKVault with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-assertible-com-fbb10c3d821b-guide",
+  "title": "How to Deploy assertible.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-assertible-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for assertible.com.",
+  "targetKeywords": [
+    "assertible.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://assertible.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting assertible.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

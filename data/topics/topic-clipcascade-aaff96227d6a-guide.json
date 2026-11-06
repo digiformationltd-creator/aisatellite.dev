@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-clipcascade-aaff96227d6a-guide",
+  "title": "How to Deploy ClipCascade in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-clipcascade-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ClipCascade.",
+  "targetKeywords": [
+    "ClipCascade",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Sathvik-Rao/ClipCascade"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting ClipCascade with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

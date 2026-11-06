@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-inspect-software-5249039364a2-guide",
+  "title": "How to Deploy inspect.software in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-inspect-software-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for inspect.software.",
+  "targetKeywords": [
+    "inspect.software",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://inspect.software/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting inspect.software with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-manubes-98342f0ab31c-guide",
+  "title": "How to Deploy manubes in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-manubes-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for manubes.",
+  "targetKeywords": [
+    "manubes",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.manubes.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting manubes with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

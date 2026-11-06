@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-seatsurfing-f1fc5bf4f1df-guide",
+  "title": "How to Deploy Seatsurfing in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-seatsurfing-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Seatsurfing.",
+  "targetKeywords": [
+    "Seatsurfing",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://seatsurfing.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Seatsurfing with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-codeberg-8de53ed9dcd5-guide",
+  "title": "How to Deploy Codeberg in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-codeberg-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Codeberg.",
+  "targetKeywords": [
+    "Codeberg",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://codeberg.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Codeberg with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

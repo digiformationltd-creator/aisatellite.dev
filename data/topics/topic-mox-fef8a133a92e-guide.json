@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mox-fef8a133a92e-guide",
+  "title": "How to Deploy Mox in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mox-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mox.",
+  "targetKeywords": [
+    "Mox",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.xmox.nl/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mox with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

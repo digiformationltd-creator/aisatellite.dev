@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fluidd-be7c5184a930-guide",
+  "title": "How to Deploy Fluidd in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fluidd-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Fluidd.",
+  "targetKeywords": [
+    "Fluidd",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.fluidd.xyz/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Fluidd with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

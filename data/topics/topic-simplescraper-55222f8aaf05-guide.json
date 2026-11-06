@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-simplescraper-55222f8aaf05-guide",
+  "title": "How to Deploy Simplescraper in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-simplescraper-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Simplescraper.",
+  "targetKeywords": [
+    "Simplescraper",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://simplescraper.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Simplescraper with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

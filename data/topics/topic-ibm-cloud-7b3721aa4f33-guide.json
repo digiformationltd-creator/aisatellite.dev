@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ibm-cloud-7b3721aa4f33-guide",
+  "title": "How to Deploy IBM Cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ibm-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IBM Cloud.",
+  "targetKeywords": [
+    "IBM Cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.ibm.com/cloud/free/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting IBM Cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

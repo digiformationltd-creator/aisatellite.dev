@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-statuscake-com-d1b84f536d6a-guide",
+  "title": "How to Deploy statuscake.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-statuscake-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for statuscake.com.",
+  "targetKeywords": [
+    "statuscake.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.statuscake.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting statuscake.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

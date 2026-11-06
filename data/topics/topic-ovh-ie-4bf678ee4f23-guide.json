@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ovh-ie-4bf678ee4f23-guide",
+  "title": "How to Deploy ovh.ie in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ovh-ie-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ovh.ie.",
+  "targetKeywords": [
+    "ovh.ie",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.ovh.ie/ssl-gateway/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ovh.ie with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-logflare-app-b6237716b151-guide",
+  "title": "How to Deploy logflare.app in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-logflare-app-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for logflare.app.",
+  "targetKeywords": [
+    "logflare.app",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://logflare.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting logflare.app with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

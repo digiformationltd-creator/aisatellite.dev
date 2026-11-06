@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localscreenshot-8de7efe7b5af-guide",
+  "title": "How to Deploy localscreenshot in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localscreenshot-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for localscreenshot.",
+  "targetKeywords": [
+    "localscreenshot",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://localscreenshot.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting localscreenshot with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

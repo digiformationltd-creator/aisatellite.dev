@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-linkace-2a05469facae-guide",
+  "title": "How to Deploy LinkAce in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-linkace-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LinkAce.",
+  "targetKeywords": [
+    "LinkAce",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.linkace.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LinkAce with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

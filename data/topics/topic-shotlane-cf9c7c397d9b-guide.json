@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shotlane-cf9c7c397d9b-guide",
+  "title": "How to Deploy Shotlane in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shotlane-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Shotlane.",
+  "targetKeywords": [
+    "Shotlane",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://shotlane.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Shotlane with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

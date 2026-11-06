@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sylius-a3ea9fc9f4a8-guide",
+  "title": "How to Deploy Sylius in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sylius-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sylius.",
+  "targetKeywords": [
+    "Sylius",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sylius.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sylius with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

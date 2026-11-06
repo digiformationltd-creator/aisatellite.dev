@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openolat-b3aca6fba116-guide",
+  "title": "How to Deploy OpenOLAT in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openolat-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenOLAT.",
+  "targetKeywords": [
+    "OpenOLAT",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.openolat.com/?lang=en"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenOLAT with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

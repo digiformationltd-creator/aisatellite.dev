@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mayan-edms-bbbb45559dc1-guide",
+  "title": "How to Deploy Mayan EDMS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mayan-edms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mayan EDMS.",
+  "targetKeywords": [
+    "Mayan EDMS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mayan-edms.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mayan EDMS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

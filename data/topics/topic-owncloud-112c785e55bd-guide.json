@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-owncloud-112c785e55bd-guide",
+  "title": "How to Deploy ownCloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-owncloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ownCloud.",
+  "targetKeywords": [
+    "ownCloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://owncloud.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ownCloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

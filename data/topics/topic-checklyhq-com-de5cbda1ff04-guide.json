@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-checklyhq-com-de5cbda1ff04-guide",
+  "title": "How to Deploy checklyhq.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-checklyhq-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for checklyhq.com.",
+  "targetKeywords": [
+    "checklyhq.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://checklyhq.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting checklyhq.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

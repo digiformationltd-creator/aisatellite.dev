@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pendulums-fc74fbaf900a-guide",
+  "title": "How to Deploy Pendulums in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pendulums-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pendulums.",
+  "targetKeywords": [
+    "Pendulums",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pendulums.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pendulums with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pixelfed-444365c7d8a7-guide",
+  "title": "How to Deploy PixelFed in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pixelfed-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PixelFed.",
+  "targetKeywords": [
+    "PixelFed",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pixelfed.social"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PixelFed with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

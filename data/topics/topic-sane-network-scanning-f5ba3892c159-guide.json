@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sane-network-scanning-f5ba3892c159-guide",
+  "title": "How to Deploy SANE Network Scanning in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sane-network-scanning-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SANE Network Scanning.",
+  "targetKeywords": [
+    "SANE Network Scanning",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "http://sane-project.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SANE Network Scanning with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

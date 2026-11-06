@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-freescout-4e5985188742-guide",
+  "title": "How to Deploy FreeScout in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-freescout-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FreeScout.",
+  "targetKeywords": [
+    "FreeScout",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://freescout.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FreeScout with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

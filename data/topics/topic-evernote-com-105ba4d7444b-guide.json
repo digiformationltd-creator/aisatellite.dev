@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-evernote-com-105ba4d7444b-guide",
+  "title": "How to Deploy evernote.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-evernote-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for evernote.com.",
+  "targetKeywords": [
+    "evernote.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://evernote.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting evernote.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

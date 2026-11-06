@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-neonlink-12686b1afccc-guide",
+  "title": "How to Deploy NeonLink in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-neonlink-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for NeonLink.",
+  "targetKeywords": [
+    "NeonLink",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/AlexSciFier/neonlink"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting NeonLink with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

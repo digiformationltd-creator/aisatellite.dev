@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-homebox-sysadminsmedia-ab9c34875ae4-guide",
+  "title": "How to Deploy HomeBox (SysAdminsMedia) in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-homebox-sysadminsmedia--production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HomeBox (SysAdminsMedia).",
+  "targetKeywords": [
+    "HomeBox (SysAdminsMedia)",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://homebox.software/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HomeBox (SysAdminsMedia) with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

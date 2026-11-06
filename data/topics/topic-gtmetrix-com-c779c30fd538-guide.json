@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gtmetrix-com-c779c30fd538-guide",
+  "title": "How to Deploy gtmetrix.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gtmetrix-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for gtmetrix.com.",
+  "targetKeywords": [
+    "gtmetrix.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gtmetrix.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting gtmetrix.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mailsac-com-d72f7aa28c9c-guide",
+  "title": "How to Deploy mailsac.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mailsac-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mailsac.com.",
+  "targetKeywords": [
+    "mailsac.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mailsac.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mailsac.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

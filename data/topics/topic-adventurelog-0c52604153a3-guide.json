@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-adventurelog-0c52604153a3-guide",
+  "title": "How to Deploy AdventureLog in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-adventurelog-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AdventureLog.",
+  "targetKeywords": [
+    "AdventureLog",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://adventurelog.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AdventureLog with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.284Z"
+}

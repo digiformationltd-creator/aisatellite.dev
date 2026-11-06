@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rss-bridge-4cd0d3c251bd-guide",
+  "title": "How to Deploy RSS-Bridge in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rss-bridge-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RSS-Bridge.",
+  "targetKeywords": [
+    "RSS-Bridge",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/RSS-Bridge/rss-bridge"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting RSS-Bridge with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

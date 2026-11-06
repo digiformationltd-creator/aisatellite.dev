@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-brandicons-d58da91230de-guide",
+  "title": "How to Deploy BrandIcons in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-brandicons-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BrandIcons.",
+  "targetKeywords": [
+    "BrandIcons",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://brandicons.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BrandIcons with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

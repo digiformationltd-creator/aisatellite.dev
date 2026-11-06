@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fontget-bd25e8a5c14e-guide",
+  "title": "How to Deploy FontGet in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fontget-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FontGet.",
+  "targetKeywords": [
+    "FontGet",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.fontget.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FontGet with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

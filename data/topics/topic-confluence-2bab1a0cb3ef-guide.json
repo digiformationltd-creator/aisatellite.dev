@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-confluence-2bab1a0cb3ef-guide",
+  "title": "How to Deploy Confluence in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-confluence-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Confluence.",
+  "targetKeywords": [
+    "Confluence",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.atlassian.com/software/confluence"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Confluence with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cytube-5b2a10ed2634-guide",
+  "title": "How to Deploy CyTube in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cytube-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CyTube.",
+  "targetKeywords": [
+    "CyTube",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/calzoneman/sync"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting CyTube with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

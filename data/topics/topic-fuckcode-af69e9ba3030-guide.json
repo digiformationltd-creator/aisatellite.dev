@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fuckcode-af69e9ba3030-guide",
+  "title": "How to Deploy fuckcode in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fuckcode-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for fuckcode.",
+  "targetKeywords": [
+    "fuckcode",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/NoNFake/fuckcode"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting fuckcode with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

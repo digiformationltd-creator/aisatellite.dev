@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pimcore-e1abd9b6e6a8-guide",
+  "title": "How to Deploy Pimcore in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pimcore-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pimcore.",
+  "targetKeywords": [
+    "Pimcore",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "http://www.pimcore.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pimcore with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-glauca-75e50ba540c1-guide",
+  "title": "How to Deploy Glauca in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-glauca-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Glauca.",
+  "targetKeywords": [
+    "Glauca",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.glauca.digital/hexdns/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Glauca with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

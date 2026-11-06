@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-difftext-86263c8f4b78-guide",
+  "title": "How to Deploy DiffText in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-difftext-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DiffText.",
+  "targetKeywords": [
+    "DiffText",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://difftext.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DiffText with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

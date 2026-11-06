@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-toggled-dev-05998fc940c2-guide",
+  "title": "How to Deploy Toggled.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-toggled-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Toggled.dev.",
+  "targetKeywords": [
+    "Toggled.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.toggled.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Toggled.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

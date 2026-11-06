@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-multi-exit-ip-address-checker-4d93a7e947df-guide",
+  "title": "How to Deploy Multi-Exit IP Address Checker in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-multi-exit-ip-address-checker-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Multi-Exit IP Address Checker.",
+  "targetKeywords": [
+    "Multi-Exit IP Address Checker",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ip.alstra.ca/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Multi-Exit IP Address Checker with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

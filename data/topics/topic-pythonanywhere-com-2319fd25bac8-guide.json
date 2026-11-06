@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pythonanywhere-com-2319fd25bac8-guide",
+  "title": "How to Deploy pythonanywhere.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pythonanywhere-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pythonanywhere.com.",
+  "targetKeywords": [
+    "pythonanywhere.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.pythonanywhere.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting pythonanywhere.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

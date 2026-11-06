@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-omeka-8f96f8b2efed-guide",
+  "title": "How to Deploy Omeka in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-omeka-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Omeka.",
+  "targetKeywords": [
+    "Omeka",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://omeka.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Omeka with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

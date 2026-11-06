@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-s-cart-612eed62c104-guide",
+  "title": "How to Deploy s-cart in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-s-cart-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for s-cart.",
+  "targetKeywords": [
+    "s-cart",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://s-cart.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting s-cart with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

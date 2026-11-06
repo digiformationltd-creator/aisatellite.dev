@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-couchbase-capella-134505d22f48-guide",
+  "title": "How to Deploy Couchbase Capella in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-couchbase-capella-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Couchbase Capella.",
+  "targetKeywords": [
+    "Couchbase Capella",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.couchbase.com/products/capella/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Couchbase Capella with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

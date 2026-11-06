@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-radmin-vpn-643949a5b28a-guide",
+  "title": "How to Deploy Radmin VPN in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-radmin-vpn-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Radmin VPN.",
+  "targetKeywords": [
+    "Radmin VPN",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.radmin-vpn.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Radmin VPN with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

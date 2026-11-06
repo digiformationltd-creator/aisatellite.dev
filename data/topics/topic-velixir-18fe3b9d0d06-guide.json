@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-velixir-18fe3b9d0d06-guide",
+  "title": "How to Deploy velixir in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-velixir-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for velixir.",
+  "targetKeywords": [
+    "velixir",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://velixir.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting velixir with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

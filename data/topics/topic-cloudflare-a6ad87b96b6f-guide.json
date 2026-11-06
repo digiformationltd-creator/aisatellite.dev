@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloudflare-a6ad87b96b6f-guide",
+  "title": "How to Deploy Cloudflare in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloudflare-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloudflare.",
+  "targetKeywords": [
+    "Cloudflare",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cloudflare.com/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Cloudflare with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

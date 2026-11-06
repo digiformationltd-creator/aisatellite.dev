@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-publora-ae6899216e82-guide",
+  "title": "How to Deploy Publora in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-publora-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Publora.",
+  "targetKeywords": [
+    "Publora",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://publora.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Publora with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

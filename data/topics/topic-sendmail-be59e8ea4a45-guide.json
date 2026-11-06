@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sendmail-be59e8ea4a45-guide",
+  "title": "How to Deploy Sendmail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sendmail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sendmail.",
+  "targetKeywords": [
+    "Sendmail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.proofpoint.com/us/products/email-protection/open-source-email-solution"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sendmail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

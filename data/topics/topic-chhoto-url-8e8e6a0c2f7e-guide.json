@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-chhoto-url-8e8e6a0c2f7e-guide",
+  "title": "How to Deploy Chhoto URL in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-chhoto-url-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Chhoto URL.",
+  "targetKeywords": [
+    "Chhoto URL",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://chhoto.link"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Chhoto URL with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

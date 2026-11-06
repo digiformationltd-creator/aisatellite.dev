@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lemonade-fc47010f5db8-guide",
+  "title": "How to Deploy lemonade in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lemonade-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for lemonade.",
+  "targetKeywords": [
+    "lemonade",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/lemonade-sdk/lemonade"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting lemonade with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

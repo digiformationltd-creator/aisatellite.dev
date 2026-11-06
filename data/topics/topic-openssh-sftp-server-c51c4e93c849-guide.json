@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openssh-sftp-server-c51c4e93c849-guide",
+  "title": "How to Deploy OpenSSH SFTP server in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openssh-sftp-server-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenSSH SFTP server.",
+  "targetKeywords": [
+    "OpenSSH SFTP server",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.openssh.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenSSH SFTP server with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

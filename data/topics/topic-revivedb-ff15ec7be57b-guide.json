@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-revivedb-ff15ec7be57b-guide",
+  "title": "How to Deploy ReviveDB in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-revivedb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ReviveDB.",
+  "targetKeywords": [
+    "ReviveDB",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://revivedb.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ReviveDB with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

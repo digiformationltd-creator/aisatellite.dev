@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localtonet-e616a4456f3c-guide",
+  "title": "How to Deploy localtonet in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localtonet-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for localtonet.",
+  "targetKeywords": [
+    "localtonet",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://localtonet.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting localtonet with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

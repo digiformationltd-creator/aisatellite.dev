@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-writefreely-8571af08cb3e-guide",
+  "title": "How to Deploy WriteFreely in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-writefreely-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WriteFreely.",
+  "targetKeywords": [
+    "WriteFreely",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://writefreely.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting WriteFreely with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.293Z"
+}

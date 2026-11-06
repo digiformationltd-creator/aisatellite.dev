@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-frontegg-a8bed79960d0-guide",
+  "title": "How to Deploy Frontegg in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-frontegg-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Frontegg.",
+  "targetKeywords": [
+    "Frontegg",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://frontegg.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Frontegg with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

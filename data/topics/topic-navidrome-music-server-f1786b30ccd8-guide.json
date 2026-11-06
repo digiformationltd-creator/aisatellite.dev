@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-navidrome-music-server-f1786b30ccd8-guide",
+  "title": "How to Deploy Navidrome Music Server in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-navidrome-music-server-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Navidrome Music Server.",
+  "targetKeywords": [
+    "Navidrome Music Server",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.navidrome.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Navidrome Music Server with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

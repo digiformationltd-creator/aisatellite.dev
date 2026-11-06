@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-string-is-e4cfcf5343b0-guide",
+  "title": "How to Deploy string.is in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-string-is-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for string.is.",
+  "targetKeywords": [
+    "string.is",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://string.is/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting string.is with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

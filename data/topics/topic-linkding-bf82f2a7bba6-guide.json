@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-linkding-bf82f2a7bba6-guide",
+  "title": "How to Deploy linkding in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-linkding-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for linkding.",
+  "targetKeywords": [
+    "linkding",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://linkding.link/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting linkding with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

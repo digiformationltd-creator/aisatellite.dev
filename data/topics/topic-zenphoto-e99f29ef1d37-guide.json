@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zenphoto-e99f29ef1d37-guide",
+  "title": "How to Deploy Zenphoto in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zenphoto-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zenphoto.",
+  "targetKeywords": [
+    "Zenphoto",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.zenphoto.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zenphoto with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.293Z"
+}

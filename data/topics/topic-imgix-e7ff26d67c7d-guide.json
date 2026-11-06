@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-imgix-e7ff26d67c7d-guide",
+  "title": "How to Deploy imgix in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-imgix-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for imgix.",
+  "targetKeywords": [
+    "imgix",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.imgix.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting imgix with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

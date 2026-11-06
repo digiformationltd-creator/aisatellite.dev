@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dotenv-85c4fd253419-guide",
+  "title": "How to Deploy Dotenv in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dotenv-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dotenv.",
+  "targetKeywords": [
+    "Dotenv",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dotenv.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dotenv with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

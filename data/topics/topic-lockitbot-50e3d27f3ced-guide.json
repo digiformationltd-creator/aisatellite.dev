@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lockitbot-50e3d27f3ced-guide",
+  "title": "How to Deploy Lockitbot in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lockitbot-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lockitbot.",
+  "targetKeywords": [
+    "Lockitbot",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.lockitbot.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lockitbot with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

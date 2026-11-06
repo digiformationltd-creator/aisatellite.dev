@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pinepods-cf39f28be8e9-guide",
+  "title": "How to Deploy Pinepods in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pinepods-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pinepods.",
+  "targetKeywords": [
+    "Pinepods",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.pinepods.online/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pinepods with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

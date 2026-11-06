@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fllm-1ce7186aeed8-guide",
+  "title": "How to Deploy fLLM in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fllm-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for fLLM.",
+  "targetKeywords": [
+    "fLLM",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Marco-Lu2508/fLLM"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting fLLM with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

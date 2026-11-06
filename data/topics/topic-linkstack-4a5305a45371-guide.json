@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-linkstack-4a5305a45371-guide",
+  "title": "How to Deploy LinkStack in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-linkstack-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LinkStack.",
+  "targetKeywords": [
+    "LinkStack",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://linkstack.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LinkStack with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

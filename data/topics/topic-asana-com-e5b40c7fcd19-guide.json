@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-asana-com-e5b40c7fcd19-guide",
+  "title": "How to Deploy asana.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-asana-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for asana.com.",
+  "targetKeywords": [
+    "asana.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://asana.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting asana.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-agenta-75abfec879d3-guide",
+  "title": "How to Deploy Agenta in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-agenta-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Agenta.",
+  "targetKeywords": [
+    "Agenta",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://agenta.ai/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Agenta with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.284Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-clever-cloud-86c4d80c7883-guide",
+  "title": "How to Deploy Clever Cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-clever-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Clever Cloud.",
+  "targetKeywords": [
+    "Clever Cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://clever.cloud"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Clever Cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

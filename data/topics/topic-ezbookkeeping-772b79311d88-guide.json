@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ezbookkeeping-772b79311d88-guide",
+  "title": "How to Deploy ezbookkeeping in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ezbookkeeping-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ezbookkeeping.",
+  "targetKeywords": [
+    "ezbookkeeping",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ezbookkeeping.mayswind.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ezbookkeeping with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

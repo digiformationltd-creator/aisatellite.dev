@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-flelink-999ddb785465-guide",
+  "title": "How to Deploy flelink in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-flelink-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for flelink.",
+  "targetKeywords": [
+    "flelink",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/sirfyyn/flelink"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting flelink with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

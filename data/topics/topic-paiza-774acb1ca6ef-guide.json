@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-paiza-774acb1ca6ef-guide",
+  "title": "How to Deploy Paiza in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-paiza-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Paiza.",
+  "targetKeywords": [
+    "Paiza",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://paiza.cloud/en/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Paiza with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

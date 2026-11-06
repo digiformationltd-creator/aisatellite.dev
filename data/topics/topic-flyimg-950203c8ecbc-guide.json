@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-flyimg-950203c8ecbc-guide",
+  "title": "How to Deploy Flyimg in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-flyimg-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Flyimg.",
+  "targetKeywords": [
+    "Flyimg",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://flyimg.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Flyimg with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

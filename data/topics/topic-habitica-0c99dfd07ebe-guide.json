@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-habitica-0c99dfd07ebe-guide",
+  "title": "How to Deploy Habitica in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-habitica-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Habitica.",
+  "targetKeywords": [
+    "Habitica",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://habitica.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Habitica with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

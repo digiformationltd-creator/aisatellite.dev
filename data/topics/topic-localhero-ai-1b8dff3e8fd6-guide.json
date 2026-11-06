@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localhero-ai-1b8dff3e8fd6-guide",
+  "title": "How to Deploy Localhero.ai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localhero-ai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Localhero.ai.",
+  "targetKeywords": [
+    "Localhero.ai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://localhero.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Localhero.ai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

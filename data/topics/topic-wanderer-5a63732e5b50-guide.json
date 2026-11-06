@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wanderer-5a63732e5b50-guide",
+  "title": "How to Deploy wanderer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wanderer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for wanderer.",
+  "targetKeywords": [
+    "wanderer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/open-wanderer/wanderer"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting wanderer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.293Z"
+}

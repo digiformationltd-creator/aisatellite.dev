@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ghost-8cb88f3e0d64-guide",
+  "title": "How to Deploy Ghost in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ghost-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ghost.",
+  "targetKeywords": [
+    "Ghost",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ghost.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ghost with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

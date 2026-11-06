@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bump-6437d374c3c9-guide",
+  "title": "How to Deploy Bump in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bump-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bump.",
+  "targetKeywords": [
+    "Bump",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bump.email/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bump with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

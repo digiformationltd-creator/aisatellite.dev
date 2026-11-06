@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cname-dev-06e09977eeeb-guide",
+  "title": "How to Deploy cname.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cname-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cname.dev.",
+  "targetKeywords": [
+    "cname.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cname.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cname.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

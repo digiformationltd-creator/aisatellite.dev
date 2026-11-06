@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-immich-kiosk-2b6d49676239-guide",
+  "title": "How to Deploy Immich Kiosk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-immich-kiosk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Immich Kiosk.",
+  "targetKeywords": [
+    "Immich Kiosk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/damongolding/immich-kiosk"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Immich Kiosk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

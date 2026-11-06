@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-prisme-analytics-f82e23c952ef-guide",
+  "title": "How to Deploy Prisme Analytics in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-prisme-analytics-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Prisme Analytics.",
+  "targetKeywords": [
+    "Prisme Analytics",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.prismeanalytics.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Prisme Analytics with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

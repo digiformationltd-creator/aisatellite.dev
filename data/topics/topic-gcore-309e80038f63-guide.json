@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gcore-309e80038f63-guide",
+  "title": "How to Deploy Gcore in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gcore-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gcore.",
+  "targetKeywords": [
+    "Gcore",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gcorelabs.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Gcore with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

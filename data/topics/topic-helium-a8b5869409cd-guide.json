@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-helium-a8b5869409cd-guide",
+  "title": "How to Deploy Helium in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-helium-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Helium.",
+  "targetKeywords": [
+    "Helium",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.heliumedu.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Helium with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

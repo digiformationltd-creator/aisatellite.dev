@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-imgduck-com-008ab3e4d87c-guide",
+  "title": "How to Deploy imgduck.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-imgduck-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for imgduck.com.",
+  "targetKeywords": [
+    "imgduck.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://imgduck.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting imgduck.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

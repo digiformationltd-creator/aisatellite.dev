@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hivemq-c8320c7f2383-guide",
+  "title": "How to Deploy HiveMQ in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hivemq-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HiveMQ.",
+  "targetKeywords": [
+    "HiveMQ",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.hivemq.com/mqtt-cloud-broker/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HiveMQ with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

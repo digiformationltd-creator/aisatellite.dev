@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-teleporthq-9b7f65bd4c53-guide",
+  "title": "How to Deploy TeleportHQ in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-teleporthq-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TeleportHQ.",
+  "targetKeywords": [
+    "TeleportHQ",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://teleporthq.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TeleportHQ with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

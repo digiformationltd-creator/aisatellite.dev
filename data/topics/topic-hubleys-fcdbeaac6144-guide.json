@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hubleys-fcdbeaac6144-guide",
+  "title": "How to Deploy Hubleys in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hubleys-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hubleys.",
+  "targetKeywords": [
+    "Hubleys",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/knrdl/hubleys-dashboard"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Hubleys with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

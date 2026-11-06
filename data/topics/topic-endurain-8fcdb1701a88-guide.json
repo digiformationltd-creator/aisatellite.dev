@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-endurain-8fcdb1701a88-guide",
+  "title": "How to Deploy Endurain in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-endurain-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Endurain.",
+  "targetKeywords": [
+    "Endurain",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.endurain.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Endurain with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-puter-2ff67ccc2ed3-guide",
+  "title": "How to Deploy Puter in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-puter-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Puter.",
+  "targetKeywords": [
+    "Puter",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://puter.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Puter with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-whimsical-com-0769dc5c4e2e-guide",
+  "title": "How to Deploy whimsical.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-whimsical-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for whimsical.com.",
+  "targetKeywords": [
+    "whimsical.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://whimsical.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting whimsical.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.293Z"
+}

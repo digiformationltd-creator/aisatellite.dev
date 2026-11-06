@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jarr-ab6e70d8a999-guide",
+  "title": "How to Deploy JARR in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jarr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for JARR.",
+  "targetKeywords": [
+    "JARR",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://1pxsolidblack.pl/jarr-en.html"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting JARR with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

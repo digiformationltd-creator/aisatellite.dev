@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-trello-com-24ac848c2368-guide",
+  "title": "How to Deploy trello.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-trello-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for trello.com.",
+  "targetKeywords": [
+    "trello.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://trello.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting trello.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

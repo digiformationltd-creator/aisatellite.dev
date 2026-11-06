@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-depay-f57259178399-guide",
+  "title": "How to Deploy DePay in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-depay-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DePay.",
+  "targetKeywords": [
+    "DePay",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://depay.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DePay with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

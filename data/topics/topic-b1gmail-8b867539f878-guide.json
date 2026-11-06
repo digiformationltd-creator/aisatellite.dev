@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-b1gmail-8b867539f878-guide",
+  "title": "How to Deploy b1gMail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-b1gmail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for b1gMail.",
+  "targetKeywords": [
+    "b1gMail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.b1gmail.eu"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting b1gMail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

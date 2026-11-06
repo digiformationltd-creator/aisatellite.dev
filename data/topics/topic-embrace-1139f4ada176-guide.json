@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-embrace-1139f4ada176-guide",
+  "title": "How to Deploy Embrace in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-embrace-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Embrace.",
+  "targetKeywords": [
+    "Embrace",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://embrace.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Embrace with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

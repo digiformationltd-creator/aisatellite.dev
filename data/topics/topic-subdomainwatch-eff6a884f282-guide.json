@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-subdomainwatch-eff6a884f282-guide",
+  "title": "How to Deploy SubdomainWatch in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-subdomainwatch-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SubdomainWatch.",
+  "targetKeywords": [
+    "SubdomainWatch",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.subdomainwatch.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SubdomainWatch with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

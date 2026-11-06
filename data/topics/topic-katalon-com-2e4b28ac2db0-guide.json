@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-katalon-com-2e4b28ac2db0-guide",
+  "title": "How to Deploy katalon.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-katalon-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for katalon.com.",
+  "targetKeywords": [
+    "katalon.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://katalon.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting katalon.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

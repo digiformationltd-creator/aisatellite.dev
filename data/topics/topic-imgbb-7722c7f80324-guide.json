@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-imgbb-7722c7f80324-guide",
+  "title": "How to Deploy ImgBB in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-imgbb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ImgBB.",
+  "targetKeywords": [
+    "ImgBB",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://imgbb.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ImgBB with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

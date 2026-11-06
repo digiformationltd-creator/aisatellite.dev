@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wger-040dc82abed7-guide",
+  "title": "How to Deploy wger in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wger-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for wger.",
+  "targetKeywords": [
+    "wger",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wger.de/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting wger with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.293Z"
+}

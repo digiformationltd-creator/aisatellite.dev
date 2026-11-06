@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-qoddi-6f3bd501e05e-guide",
+  "title": "How to Deploy Qoddi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-qoddi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Qoddi.",
+  "targetKeywords": [
+    "Qoddi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://qoddi.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Qoddi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

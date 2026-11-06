@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lastping-35f12889ac93-guide",
+  "title": "How to Deploy LastPing in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lastping-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LastPing.",
+  "targetKeywords": [
+    "LastPing",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://lastping.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LastPing with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

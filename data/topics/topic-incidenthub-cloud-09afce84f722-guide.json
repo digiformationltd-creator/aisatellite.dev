@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-incidenthub-cloud-09afce84f722-guide",
+  "title": "How to Deploy incidenthub.cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-incidenthub-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for incidenthub.cloud.",
+  "targetKeywords": [
+    "incidenthub.cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://incidenthub.cloud/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting incidenthub.cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

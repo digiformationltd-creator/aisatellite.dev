@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-alwaysdata-94560d0a5dd5-guide",
+  "title": "How to Deploy Alwaysdata in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-alwaysdata-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Alwaysdata.",
+  "targetKeywords": [
+    "Alwaysdata",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.alwaysdata.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Alwaysdata with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

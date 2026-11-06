@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-androidfilehost-d7cc4e3985fa-guide",
+  "title": "How to Deploy AndroidFileHost in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-androidfilehost-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AndroidFileHost.",
+  "targetKeywords": [
+    "AndroidFileHost",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://androidfilehost.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AndroidFileHost with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gotify-f52781a4750e-guide",
+  "title": "How to Deploy Gotify in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gotify-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gotify.",
+  "targetKeywords": [
+    "Gotify",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gotify.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Gotify with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

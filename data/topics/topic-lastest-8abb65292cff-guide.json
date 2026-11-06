@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lastest-8abb65292cff-guide",
+  "title": "How to Deploy Lastest in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lastest-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lastest.",
+  "targetKeywords": [
+    "Lastest",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://lastest.cloud"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lastest with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

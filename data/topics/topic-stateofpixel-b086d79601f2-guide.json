@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stateofpixel-b086d79601f2-guide",
+  "title": "How to Deploy stateofpixel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stateofpixel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for stateofpixel.",
+  "targetKeywords": [
+    "stateofpixel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stateofpixel.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting stateofpixel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

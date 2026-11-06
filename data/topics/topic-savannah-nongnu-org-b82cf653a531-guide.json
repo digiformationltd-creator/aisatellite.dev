@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-savannah-nongnu-org-b82cf653a531-guide",
+  "title": "How to Deploy savannah.nongnu.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-savannah-nongnu-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for savannah.nongnu.org.",
+  "targetKeywords": [
+    "savannah.nongnu.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://savannah.nongnu.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting savannah.nongnu.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

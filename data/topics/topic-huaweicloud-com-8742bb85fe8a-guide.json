@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-huaweicloud-com-8742bb85fe8a-guide",
+  "title": "How to Deploy huaweicloud.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-huaweicloud-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for huaweicloud.com.",
+  "targetKeywords": [
+    "huaweicloud.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.huaweicloud.com/intl/en-us/product/dns.html"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting huaweicloud.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.287Z"
+}

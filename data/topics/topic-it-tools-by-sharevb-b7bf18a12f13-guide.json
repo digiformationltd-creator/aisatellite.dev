@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-it-tools-by-sharevb-b7bf18a12f13-guide",
+  "title": "How to Deploy IT-Tools by sharevb in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-it-tools-by-sharevb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IT-Tools by sharevb.",
+  "targetKeywords": [
+    "IT-Tools by sharevb",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/sharevb/it-tools"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting IT-Tools by sharevb with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

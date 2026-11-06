@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dev-to-28e74c8168d0-guide",
+  "title": "How to Deploy Dev.to in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dev-to-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dev.to.",
+  "targetKeywords": [
+    "Dev.to",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dev.to/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dev.to with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

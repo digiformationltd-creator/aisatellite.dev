@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tldraw-com-f9f1bbbdc8cf-guide",
+  "title": "How to Deploy tldraw.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tldraw-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for tldraw.com.",
+  "targetKeywords": [
+    "tldraw.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tldraw.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting tldraw.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.292Z"
+}

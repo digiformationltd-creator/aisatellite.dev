@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-emitlo-3945aba2821b-guide",
+  "title": "How to Deploy Emitlo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-emitlo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Emitlo.",
+  "targetKeywords": [
+    "Emitlo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://emitlo.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Emitlo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kutt-1b8494469401-guide",
+  "title": "How to Deploy Kutt in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kutt-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kutt.",
+  "targetKeywords": [
+    "Kutt",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kutt.to"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kutt with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.290Z"
+}

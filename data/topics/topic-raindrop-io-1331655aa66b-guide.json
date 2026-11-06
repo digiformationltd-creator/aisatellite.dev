@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-raindrop-io-1331655aa66b-guide",
+  "title": "How to Deploy Raindrop.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-raindrop-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Raindrop.io.",
+  "targetKeywords": [
+    "Raindrop.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://raindrop.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Raindrop.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

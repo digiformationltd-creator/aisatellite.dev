@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bootform-1c53faa307f7-guide",
+  "title": "How to Deploy BootForm in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bootform-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BootForm.",
+  "targetKeywords": [
+    "BootForm",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bootform.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BootForm with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}

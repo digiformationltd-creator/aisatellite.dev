@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-1984-is-c7ef4c267ca6-guide",
+  "title": "How to Deploy 1984.is in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-1984-is-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for 1984.is.",
+  "targetKeywords": [
+    "1984.is",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.1984.is/product/freedns/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting 1984.is with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.284Z"
+}

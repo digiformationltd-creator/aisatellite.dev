@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-docbeacon-6c44e5332773-guide",
+  "title": "How to Deploy DocBeacon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-docbeacon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DocBeacon.",
+  "targetKeywords": [
+    "DocBeacon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docbeacon.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DocBeacon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.286Z"
+}

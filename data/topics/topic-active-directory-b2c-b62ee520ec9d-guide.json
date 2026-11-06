@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-active-directory-b2c-b62ee520ec9d-guide",
+  "title": "How to Deploy Active Directory B2C in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-active-directory-b2c-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Active Directory B2C.",
+  "targetKeywords": [
+    "Active Directory B2C",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/active-directory/external-identities/b2c/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Active Directory B2C with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.284Z"
+}

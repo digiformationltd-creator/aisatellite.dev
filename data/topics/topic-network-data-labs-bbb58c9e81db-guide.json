@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-network-data-labs-bbb58c9e81db-guide",
+  "title": "How to Deploy Network Data Labs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-network-data-labs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Network Data Labs.",
+  "targetKeywords": [
+    "Network Data Labs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.networkdatalabs.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Network Data Labs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.291Z"
+}

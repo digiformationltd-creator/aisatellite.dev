@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cosmic-c5eb18a9d412-guide",
+  "title": "How to Deploy Cosmic in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cosmic-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cosmic.",
+  "targetKeywords": [
+    "Cosmic",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cosmicjs.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cosmic with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-06T11:52:49.285Z"
+}
