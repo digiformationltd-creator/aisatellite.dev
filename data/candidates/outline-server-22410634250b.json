@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://getoutline.org/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:27.475Z",
-  "updatedAt": "2026-11-06T07:30:27.475Z",
-  "lastVerified": "2026-11-06T09:14:18.036Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.406Z",
+  "updatedAt": "2026-11-07T06:43:50.406Z"
 }

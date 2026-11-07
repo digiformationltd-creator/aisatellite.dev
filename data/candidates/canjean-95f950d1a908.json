@@ -1,0 +1,20 @@
+{
+  "id": "canjean-95f950d1a908",
+  "canonicalUrl": "https://canjean.com/exchange-rate-api",
+  "name": "Canjean",
+  "description": "Free exchange rate API for 150+ currencies in JSON, CSV and plain text, no API key or sign-up.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://canjean.com/exchange-rate-api",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://canjean.com/exchange-rate-api"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.297Z",
+  "updatedAt": "2026-11-07T06:43:50.297Z"
+}

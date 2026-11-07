@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/clangen/musikcube"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:27.473Z",
-  "updatedAt": "2026-11-06T07:30:27.473Z",
-  "lastVerified": "2026-11-06T09:12:47.921Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.405Z",
+  "updatedAt": "2026-11-07T06:43:50.405Z"
 }

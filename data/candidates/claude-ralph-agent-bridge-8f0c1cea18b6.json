@@ -30,13 +30,11 @@
   "freeTierLimitations": [],
   "githubStars": 0,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-06T00:41:07Z",
+  "lastRepositoryUpdate": "2026-11-07T01:33:25Z",
   "evidenceUrls": [
     "https://github.com/victorfs1234/claude-ralph-agent-bridge"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:29.067Z",
-  "updatedAt": "2026-11-06T07:30:29.067Z",
-  "lastVerified": "2026-11-06T09:02:44.467Z",
-  "qualityScore": 64
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:51.899Z",
+  "updatedAt": "2026-11-07T06:43:51.899Z"
 }

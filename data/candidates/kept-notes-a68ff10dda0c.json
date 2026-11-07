@@ -1,0 +1,20 @@
+{
+  "id": "kept-notes-a68ff10dda0c",
+  "canonicalUrl": "https://keepitkept.xyz/",
+  "name": "Kept Notes",
+  "description": "A notes app built for quick capture: text notes, checklists, images, drawings, links, attachments, labels, colors, and reminders (alternative to Google Keep). ([Source Code](https://github.com/ericerkz/kept)) `AGPL-3.0/MIT` `Nodejs/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://keepitkept.xyz",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://keepitkept.xyz"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.407Z",
+  "updatedAt": "2026-11-07T06:43:50.407Z"
+}

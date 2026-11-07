@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.tooljet.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:27.376Z",
-  "updatedAt": "2026-11-06T07:30:27.376Z",
-  "lastVerified": "2026-11-06T09:20:47.475Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.294Z",
+  "updatedAt": "2026-11-07T06:43:50.294Z"
 }

@@ -1,0 +1,30 @@
+{
+  "id": "kiagent-core-e671358f941b",
+  "canonicalUrl": "https://github.com/edjafarov/kiagent-core",
+  "name": "kiagent-core",
+  "description": "kiagent-core — open-source personal AI brain — local, open source, speaks MCP",
+  "category": "local-llm",
+  "tags": [
+    "llm",
+    "llm-agent",
+    "llm-agents",
+    "llm-inference",
+    "llm-tools"
+  ],
+  "repositoryUrl": "https://github.com/edjafarov/kiagent-core",
+  "officialUrl": "https://localkiagent.com/",
+  "documentationUrl": "https://localkiagent.com/",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/edjafarov/kiagent-core/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 7,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-07T06:36:14Z",
+  "evidenceUrls": [
+    "https://github.com/edjafarov/kiagent-core"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:51.434Z",
+  "updatedAt": "2026-11-07T06:43:51.434Z"
+}

@@ -33,13 +33,11 @@
   "freeTierLimitations": [],
   "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-06T07:08:44Z",
+  "lastRepositoryUpdate": "2026-11-07T04:32:31Z",
   "evidenceUrls": [
     "https://github.com/ragnarwestad/aide"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:29.067Z",
-  "updatedAt": "2026-11-06T07:30:29.067Z",
-  "lastVerified": "2026-11-06T09:00:15.283Z",
-  "qualityScore": 78
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:51.899Z",
+  "updatedAt": "2026-11-07T06:43:51.899Z"
 }

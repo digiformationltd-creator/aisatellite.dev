@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://kutt.to"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:27.477Z",
-  "updatedAt": "2026-11-06T07:30:27.477Z",
-  "lastVerified": "2026-11-06T09:10:30.589Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.407Z",
+  "updatedAt": "2026-11-07T06:43:50.407Z"
 }

@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/TobySuch/Shifter"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:27.472Z",
-  "updatedAt": "2026-11-06T07:30:27.472Z",
-  "lastVerified": "2026-11-06T09:17:56.790Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.403Z",
+  "updatedAt": "2026-11-07T06:43:50.403Z"
 }

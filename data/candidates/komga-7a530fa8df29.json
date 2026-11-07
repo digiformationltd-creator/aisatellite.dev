@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://komga.org"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:27.472Z",
-  "updatedAt": "2026-11-06T07:30:27.472Z",
-  "lastVerified": "2026-11-06T09:10:27.368Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.403Z",
+  "updatedAt": "2026-11-07T06:43:50.403Z"
 }

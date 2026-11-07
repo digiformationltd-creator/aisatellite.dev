@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://snapenv.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:27.372Z",
-  "updatedAt": "2026-11-06T07:30:27.372Z",
-  "lastVerified": "2026-11-06T09:18:42.171Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.287Z",
+  "updatedAt": "2026-11-07T06:43:50.287Z"
 }

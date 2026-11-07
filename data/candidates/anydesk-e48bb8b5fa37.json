@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://anydesk.com"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-06T07:30:27.380Z",
-  "updatedAt": "2026-11-06T07:30:27.380Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.297Z",
+  "updatedAt": "2026-11-07T06:43:50.297Z"
 }

@@ -1,0 +1,42 @@
+{
+  "id": "eureka-engine-c46709c4fae8",
+  "canonicalUrl": "https://github.com/phenomenon0/eureka-engine",
+  "name": "eureka-engine",
+  "description": "One local AI engine for chat, vision, speech, and transcription. Runs on Linux, macOS, iOS, Android, and the web, behind one OpenAI-compatible API. Your models, your device, no cloud. Written in Bend.",
+  "category": "local-llm",
+  "tags": [
+    "android",
+    "bend",
+    "computer-vision",
+    "cuda",
+    "gguf",
+    "ios",
+    "linux",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "macos",
+    "metal",
+    "on-device-ai",
+    "openai-compatible",
+    "qwen",
+    "speech-to-text",
+    "text-to-speech",
+    "webgpu",
+    "windows"
+  ],
+  "repositoryUrl": "https://github.com/phenomenon0/eureka-engine",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/phenomenon0/eureka-engine/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-07T05:03:43Z",
+  "evidenceUrls": [
+    "https://github.com/phenomenon0/eureka-engine"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:51.434Z",
+  "updatedAt": "2026-11-07T06:43:51.434Z"
+}

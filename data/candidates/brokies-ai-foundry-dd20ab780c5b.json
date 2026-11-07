@@ -25,13 +25,11 @@
   "freeTierLimitations": [],
   "githubStars": 126,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-06T03:08:09Z",
+  "lastRepositoryUpdate": "2026-11-07T04:37:16Z",
   "evidenceUrls": [
     "https://github.com/Caplet1989/Brokies-AI-Foundry"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:28.089Z",
-  "updatedAt": "2026-11-06T07:30:28.089Z",
-  "lastVerified": "2026-11-06T09:02:01.502Z",
-  "qualityScore": 67
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.896Z",
+  "updatedAt": "2026-11-07T06:43:50.896Z"
 }

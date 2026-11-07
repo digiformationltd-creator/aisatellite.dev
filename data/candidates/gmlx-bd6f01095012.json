@@ -1,0 +1,42 @@
+{
+  "id": "gmlx-bd6f01095012",
+  "canonicalUrl": "https://github.com/asher/gmlx",
+  "name": "gmlx",
+  "description": "Local inference platform for K/IQ-quant GGUF models on Apple Silicon",
+  "category": "local-llm",
+  "tags": [
+    "anthropic-api",
+    "apple-silicon",
+    "gguf",
+    "gguf-model-support",
+    "gguf-runner",
+    "inference",
+    "inference-engine",
+    "llm",
+    "llm-inference",
+    "lora",
+    "metal",
+    "mlx",
+    "mtp",
+    "openai-api",
+    "quantization",
+    "speculative-decoding",
+    "voice-ai",
+    "voice-assistant",
+    "voice-chat"
+  ],
+  "repositoryUrl": "https://github.com/asher/gmlx",
+  "officialUrl": "https://asher.github.io/gmlx/",
+  "documentationUrl": "https://asher.github.io/gmlx/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 48,
+  "githubForks": 3,
+  "lastRepositoryUpdate": "2026-11-07T05:55:39Z",
+  "evidenceUrls": [
+    "https://github.com/asher/gmlx"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:51.434Z",
+  "updatedAt": "2026-11-07T06:43:51.434Z"
+}

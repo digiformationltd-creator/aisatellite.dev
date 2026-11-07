@@ -1,0 +1,38 @@
+{
+  "id": "agent-skills-6f6fefab8cf6",
+  "canonicalUrl": "https://github.com/lizliz404/agent-skills",
+  "name": "agent-skills",
+  "description": "Downloadable agent skills for AI coding assistants — landing page replication, WebGL Three.js backgrounds, Doubao TTS & podcasts, video scripts, GEO job hunting, DESIGN.md visual systems. Unzip and use. MIT.",
+  "category": "ai-coding",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "claude-skills",
+    "cursor",
+    "llm",
+    "prompt-engineering",
+    "seo",
+    "skill-pack",
+    "threejs",
+    "tts",
+    "webgl"
+  ],
+  "repositoryUrl": "https://github.com/lizliz404/agent-skills",
+  "officialUrl": "https://lizliz.xyz/skills",
+  "documentationUrl": "https://lizliz.xyz/skills",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/lizliz404/agent-skills/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 2,
+  "lastRepositoryUpdate": "2026-11-07T06:43:15Z",
+  "evidenceUrls": [
+    "https://github.com/lizliz404/agent-skills"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:51.899Z",
+  "updatedAt": "2026-11-07T06:43:51.899Z"
+}

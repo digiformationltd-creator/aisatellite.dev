@@ -31,13 +31,11 @@
   "freeTierLimitations": [],
   "githubStars": 3,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-06T02:41:30Z",
+  "lastRepositoryUpdate": "2026-11-07T04:12:59Z",
   "evidenceUrls": [
     "https://github.com/shenald-dev/shen-ai"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:29.067Z",
-  "updatedAt": "2026-11-06T07:30:29.067Z",
-  "lastVerified": "2026-11-06T09:17:54.700Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:51.899Z",
+  "updatedAt": "2026-11-07T06:43:51.899Z"
 }

@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://datelist.io"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:27.380Z",
-  "updatedAt": "2026-11-06T07:30:27.380Z",
-  "lastVerified": "2026-11-06T09:03:58.219Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-07T06:43:50.297Z",
+  "updatedAt": "2026-11-07T06:43:50.297Z"
 }
