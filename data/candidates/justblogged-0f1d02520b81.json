@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://justblogged.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.297Z",
-  "updatedAt": "2026-11-07T06:43:50.297Z"
+  "updatedAt": "2026-11-07T06:43:50.297Z",
+  "lastVerified": "2026-11-07T08:38:04.380Z",
+  "qualityScore": 52
 }

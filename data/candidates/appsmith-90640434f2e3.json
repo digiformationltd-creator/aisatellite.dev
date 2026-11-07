@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://www.appsmith.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.407Z",
   "updatedAt": "2026-11-07T06:43:51.902Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-07T08:29:37.766Z",
+  "qualityScore": 52
 }

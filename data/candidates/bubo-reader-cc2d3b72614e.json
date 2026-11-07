@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/georgemandis/bubo-rss"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:30:32.554Z",
+  "qualityScore": 55
 }

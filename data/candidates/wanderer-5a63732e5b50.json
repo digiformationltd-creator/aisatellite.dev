@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/open-wanderer/wanderer"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.404Z",
-  "updatedAt": "2026-11-07T06:43:50.404Z"
+  "updatedAt": "2026-11-07T06:43:50.404Z",
+  "lastVerified": "2026-11-07T08:49:03.674Z",
+  "qualityScore": 55
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gforge.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.294Z",
-  "updatedAt": "2026-11-07T06:43:50.294Z"
+  "updatedAt": "2026-11-07T06:43:50.294Z",
+  "lastVerified": "2026-11-07T08:35:46.449Z",
+  "qualityScore": 52
 }

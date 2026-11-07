@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.285Z",
-  "updatedAt": "2026-11-07T06:43:50.285Z"
+  "updatedAt": "2026-11-07T06:43:50.285Z",
+  "lastVerified": "2026-11-07T08:31:29.125Z",
+  "qualityScore": 52
 }

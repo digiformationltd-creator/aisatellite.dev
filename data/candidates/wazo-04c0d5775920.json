@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wazo-platform.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.402Z",
-  "updatedAt": "2026-11-07T06:43:50.402Z"
+  "updatedAt": "2026-11-07T06:43:50.402Z",
+  "lastVerified": "2026-11-07T08:49:09.341Z",
+  "qualityScore": 52
 }

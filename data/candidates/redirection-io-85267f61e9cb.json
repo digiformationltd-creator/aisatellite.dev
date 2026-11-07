@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://redirection.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.297Z",
-  "updatedAt": "2026-11-07T06:43:50.297Z"
+  "updatedAt": "2026-11-07T06:43:50.297Z",
+  "lastVerified": "2026-11-07T08:43:51.514Z",
+  "qualityScore": 52
 }

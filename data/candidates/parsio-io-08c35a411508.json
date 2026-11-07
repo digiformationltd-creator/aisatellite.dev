@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://parsio.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.292Z",
-  "updatedAt": "2026-11-07T06:43:50.292Z"
+  "updatedAt": "2026-11-07T06:43:50.292Z",
+  "lastVerified": "2026-11-07T08:42:08.612Z",
+  "qualityScore": 52
 }

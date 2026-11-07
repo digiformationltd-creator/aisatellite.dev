@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pumble.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.285Z",
-  "updatedAt": "2026-11-07T06:43:50.285Z"
+  "updatedAt": "2026-11-07T06:43:50.285Z",
+  "lastVerified": "2026-11-07T08:43:20.324Z",
+  "qualityScore": 52
 }

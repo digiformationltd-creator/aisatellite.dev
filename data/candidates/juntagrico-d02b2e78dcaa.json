@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://juntagrico.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.402Z",
-  "updatedAt": "2026-11-07T06:43:50.402Z"
+  "updatedAt": "2026-11-07T06:43:50.402Z",
+  "lastVerified": "2026-11-07T08:38:03.967Z",
+  "qualityScore": 52
 }

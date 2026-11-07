@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.fluidd.xyz/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.404Z",
-  "updatedAt": "2026-11-07T06:43:50.404Z"
+  "updatedAt": "2026-11-07T06:43:50.404Z",
+  "lastVerified": "2026-11-07T08:34:35.323Z",
+  "qualityScore": 52
 }

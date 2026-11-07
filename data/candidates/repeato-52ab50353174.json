@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://repeato.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.286Z",
-  "updatedAt": "2026-11-07T06:43:50.286Z"
+  "updatedAt": "2026-11-07T06:43:50.286Z",
+  "lastVerified": "2026-11-07T08:44:00.631Z",
+  "qualityScore": 52
 }

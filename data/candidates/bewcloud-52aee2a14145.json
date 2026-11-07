@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bewcloud.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:30:11.180Z",
+  "qualityScore": 52
 }

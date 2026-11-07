@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.dataimporter.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.283Z",
-  "updatedAt": "2026-11-07T06:43:50.283Z"
+  "updatedAt": "2026-11-07T06:43:50.283Z",
+  "lastVerified": "2026-11-07T08:32:17.017Z",
+  "qualityScore": 52
 }

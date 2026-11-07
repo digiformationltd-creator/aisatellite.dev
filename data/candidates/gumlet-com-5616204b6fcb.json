@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.gumlet.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.295Z",
-  "updatedAt": "2026-11-07T06:43:50.295Z"
+  "updatedAt": "2026-11-07T06:43:50.295Z",
+  "lastVerified": "2026-11-07T08:36:24.034Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.roic.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.284Z",
-  "updatedAt": "2026-11-07T06:43:50.284Z"
+  "updatedAt": "2026-11-07T06:43:50.284Z",
+  "lastVerified": "2026-11-07T08:44:17.528Z",
+  "qualityScore": 52
 }

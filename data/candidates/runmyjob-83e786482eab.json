@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://runmyjob.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.286Z",
-  "updatedAt": "2026-11-07T06:43:50.286Z"
+  "updatedAt": "2026-11-07T06:43:50.286Z",
+  "lastVerified": "2026-11-07T08:44:27.291Z",
+  "qualityScore": 52
 }

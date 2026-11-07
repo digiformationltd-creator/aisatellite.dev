@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/9001/copyparty"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.404Z",
-  "updatedAt": "2026-11-07T06:43:50.404Z"
+  "updatedAt": "2026-11-07T06:43:50.404Z",
+  "lastVerified": "2026-11-07T08:31:49.703Z",
+  "qualityScore": 55
 }

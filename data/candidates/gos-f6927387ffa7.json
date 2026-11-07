@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codeberg.org/stv0g/gose"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:36:14.532Z",
+  "qualityScore": 52
 }

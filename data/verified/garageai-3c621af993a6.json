@@ -1,0 +1,35 @@
+{
+  "id": "garageai-3c621af993a6",
+  "canonicalUrl": "https://github.com/magnusfroste/garageai",
+  "name": "garageai",
+  "description": "GarageAI: local AI inference for Europe. Garage owners offer GPUs they own, buyers call them through one OpenAI-compatible API. GarageAI Bridge (garageai CLI), the EU gateway, and the site at garageai.eu.",
+  "category": "local-llm",
+  "tags": [
+    "ai-infrastructure",
+    "developer-tools",
+    "distributed-ai",
+    "edge-computing",
+    "llm-inference",
+    "open-source",
+    "sovereign-ai",
+    "sustainable-ai"
+  ],
+  "repositoryUrl": "https://github.com/magnusfroste/garageai",
+  "officialUrl": "https://www.garageai.eu",
+  "documentationUrl": "https://www.garageai.eu",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/magnusfroste/garageai/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-07T00:52:20Z",
+  "evidenceUrls": [
+    "https://github.com/magnusfroste/garageai"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-07T06:43:51.434Z",
+  "updatedAt": "2026-11-07T06:43:51.434Z",
+  "lastVerified": "2026-11-07T08:35:25.191Z",
+  "qualityScore": 89
+}

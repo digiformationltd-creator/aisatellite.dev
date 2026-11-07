@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bonsai.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.291Z",
-  "updatedAt": "2026-11-07T06:43:50.291Z"
+  "updatedAt": "2026-11-07T06:43:50.291Z",
+  "lastVerified": "2026-11-07T08:30:25.706Z",
+  "qualityScore": 52
 }

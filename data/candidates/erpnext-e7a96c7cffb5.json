@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://frappe.io/erpnext"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.406Z",
-  "updatedAt": "2026-11-07T06:43:50.406Z"
+  "updatedAt": "2026-11-07T06:43:50.406Z",
+  "lastVerified": "2026-11-07T08:33:53.211Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wiki.znc.in/ZNC"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.402Z",
-  "updatedAt": "2026-11-07T06:43:50.402Z"
+  "updatedAt": "2026-11-07T06:43:50.402Z",
+  "lastVerified": "2026-11-07T08:50:05.181Z",
+  "qualityScore": 52
 }

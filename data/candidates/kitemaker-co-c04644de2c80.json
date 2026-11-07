@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kitemaker.co"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.294Z",
-  "updatedAt": "2026-11-07T06:43:50.294Z"
+  "updatedAt": "2026-11-07T06:43:50.294Z",
+  "lastVerified": "2026-11-07T08:38:16.116Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://thelia.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:47:43.960Z",
+  "qualityScore": 52
 }

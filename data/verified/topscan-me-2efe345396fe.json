@@ -1,0 +1,22 @@
+{
+  "id": "topscan-me-2efe345396fe",
+  "canonicalUrl": "https://topscan.me/free-plan",
+  "name": "Topscan.me",
+  "description": "SaaS vulnerability scanning platform. Free: a full infrastructure scan of one host every week, Discovery and Attack Surface for everything around it, one repository, one user, findings with a fix and a Security Score.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://topscan.me/free-plan",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://topscan.me/free-plan"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-07T06:43:50.286Z",
+  "updatedAt": "2026-11-07T06:43:50.287Z",
+  "lastVerified": "2026-11-07T08:48:01.521Z",
+  "qualityScore": 52
+}

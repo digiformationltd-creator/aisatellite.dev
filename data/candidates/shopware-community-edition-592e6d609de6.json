@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.shopware.com/en/community/community-edition/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:45:33.660Z",
+  "qualityScore": 52
 }

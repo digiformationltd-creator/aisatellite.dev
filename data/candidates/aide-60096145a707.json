@@ -37,7 +37,9 @@
   "evidenceUrls": [
     "https://github.com/ragnarwestad/aide"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:51.899Z",
-  "updatedAt": "2026-11-07T06:43:51.899Z"
+  "updatedAt": "2026-11-07T06:43:51.899Z",
+  "lastVerified": "2026-11-07T08:29:04.877Z",
+  "qualityScore": 78
 }

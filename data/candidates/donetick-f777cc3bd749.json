@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://donetick.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.407Z",
-  "updatedAt": "2026-11-07T06:43:50.407Z"
+  "updatedAt": "2026-11-07T06:43:50.407Z",
+  "lastVerified": "2026-11-07T08:33:11.384Z",
+  "qualityScore": 52
 }

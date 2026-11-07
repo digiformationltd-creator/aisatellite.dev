@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://c2c.mirotalk.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.402Z",
-  "updatedAt": "2026-11-07T06:43:50.402Z"
+  "updatedAt": "2026-11-07T06:43:50.402Z",
+  "lastVerified": "2026-11-07T08:40:07.077Z",
+  "qualityScore": 52
 }

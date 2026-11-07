@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.bitrise.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.286Z",
-  "updatedAt": "2026-11-07T06:43:50.286Z"
+  "updatedAt": "2026-11-07T06:43:50.286Z",
+  "lastVerified": "2026-11-07T08:30:18.431Z",
+  "qualityScore": 52
 }

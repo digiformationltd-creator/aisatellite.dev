@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/thomas4019/expressa"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.402Z",
-  "updatedAt": "2026-11-07T06:43:50.402Z"
+  "updatedAt": "2026-11-07T06:43:50.402Z",
+  "lastVerified": "2026-11-07T08:34:05.968Z",
+  "qualityScore": 55
 }

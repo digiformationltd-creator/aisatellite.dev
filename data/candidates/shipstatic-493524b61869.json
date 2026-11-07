@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://shipstatic.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.294Z",
-  "updatedAt": "2026-11-07T06:43:50.294Z"
+  "updatedAt": "2026-11-07T06:43:50.294Z",
+  "lastVerified": "2026-11-07T08:45:31.437Z",
+  "qualityScore": 52
 }

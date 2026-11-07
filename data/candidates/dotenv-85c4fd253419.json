@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dotenv.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.286Z",
-  "updatedAt": "2026-11-07T06:43:50.286Z"
+  "updatedAt": "2026-11-07T06:43:50.286Z",
+  "lastVerified": "2026-11-07T08:33:12.634Z",
+  "qualityScore": 52
 }

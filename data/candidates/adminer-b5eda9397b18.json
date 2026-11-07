@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.adminer.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:29:00.253Z",
+  "qualityScore": 52
 }

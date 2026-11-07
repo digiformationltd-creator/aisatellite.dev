@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/notifo-io/notifo"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.401Z",
-  "updatedAt": "2026-11-07T06:43:50.401Z"
+  "updatedAt": "2026-11-07T06:43:50.401Z",
+  "lastVerified": "2026-11-07T08:40:55.058Z",
+  "qualityScore": 55
 }

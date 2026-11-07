@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.honeybadger.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.289Z",
-  "updatedAt": "2026-11-07T06:43:50.289Z"
+  "updatedAt": "2026-11-07T06:43:50.289Z",
+  "lastVerified": "2026-11-07T08:36:48.724Z",
+  "qualityScore": 52
 }

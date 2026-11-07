@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://yunohost.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.406Z",
-  "updatedAt": "2026-11-07T06:43:50.406Z"
+  "updatedAt": "2026-11-07T06:43:50.406Z",
+  "lastVerified": "2026-11-07T08:49:52.067Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://localcert.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.294Z",
-  "updatedAt": "2026-11-07T06:43:50.294Z"
+  "updatedAt": "2026-11-07T06:43:50.294Z",
+  "lastVerified": "2026-11-07T08:38:57.946Z",
+  "qualityScore": 52
 }

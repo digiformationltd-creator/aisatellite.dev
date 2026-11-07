@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dbeaver.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:31:18.030Z",
+  "qualityScore": 52
 }

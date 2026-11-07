@@ -14,8 +14,10 @@
   "evidenceUrls": [
     "https://www.fraudlabspro.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.297Z",
   "updatedAt": "2026-11-07T06:43:51.901Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-07T08:35:02.551Z",
+  "qualityScore": 52
 }

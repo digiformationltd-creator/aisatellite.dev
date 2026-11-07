@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.smartlook.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.297Z",
-  "updatedAt": "2026-11-07T06:43:50.297Z"
+  "updatedAt": "2026-11-07T06:43:50.297Z",
+  "lastVerified": "2026-11-07T08:45:59.720Z",
+  "qualityScore": 52
 }

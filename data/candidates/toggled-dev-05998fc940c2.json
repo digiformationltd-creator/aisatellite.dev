@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.toggled.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.292Z",
-  "updatedAt": "2026-11-07T06:43:50.292Z"
+  "updatedAt": "2026-11-07T06:43:50.292Z",
+  "lastVerified": "2026-11-07T08:47:59.185Z",
+  "qualityScore": 52
 }

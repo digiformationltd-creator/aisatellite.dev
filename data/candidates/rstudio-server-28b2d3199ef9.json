@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.rstudio.com/products/rstudio/#Server"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.406Z",
-  "updatedAt": "2026-11-07T06:43:50.406Z"
+  "updatedAt": "2026-11-07T06:43:50.406Z",
+  "lastVerified": "2026-11-07T08:44:24.811Z",
+  "qualityScore": 52
 }

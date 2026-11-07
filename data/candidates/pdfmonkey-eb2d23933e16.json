@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.pdfmonkey.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.297Z",
-  "updatedAt": "2026-11-07T06:43:50.297Z"
+  "updatedAt": "2026-11-07T06:43:50.297Z",
+  "lastVerified": "2026-11-07T08:42:15.252Z",
+  "qualityScore": 52
 }

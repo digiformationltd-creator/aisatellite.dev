@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://goharbor.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:36:28.502Z",
+  "qualityScore": 52
 }

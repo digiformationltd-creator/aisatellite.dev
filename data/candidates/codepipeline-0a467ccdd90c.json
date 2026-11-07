@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aws.amazon.com/codepipeline/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.282Z",
-  "updatedAt": "2026-11-07T06:43:50.282Z"
+  "updatedAt": "2026-11-07T06:43:50.282Z",
+  "lastVerified": "2026-11-07T08:31:33.510Z",
+  "qualityScore": 47
 }

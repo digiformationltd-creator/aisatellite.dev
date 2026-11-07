@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pusher.com/beams"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.293Z",
-  "updatedAt": "2026-11-07T06:43:50.293Z"
+  "updatedAt": "2026-11-07T06:43:50.293Z",
+  "lastVerified": "2026-11-07T08:43:21.075Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://twist.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.285Z",
-  "updatedAt": "2026-11-07T06:43:50.285Z"
+  "updatedAt": "2026-11-07T06:43:50.285Z",
+  "lastVerified": "2026-11-07T08:48:24.491Z",
+  "qualityScore": 52
 }

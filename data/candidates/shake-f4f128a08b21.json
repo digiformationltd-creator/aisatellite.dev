@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.shakebugs.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.295Z",
-  "updatedAt": "2026-11-07T06:43:50.295Z"
+  "updatedAt": "2026-11-07T06:43:50.295Z",
+  "lastVerified": "2026-11-07T08:45:26.355Z",
+  "qualityScore": 52
 }

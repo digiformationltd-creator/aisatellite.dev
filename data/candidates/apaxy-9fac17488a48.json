@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://oupala.github.io/apaxy/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:29:29.371Z",
+  "qualityScore": 52
 }

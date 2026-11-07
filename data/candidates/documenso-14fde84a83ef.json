@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://documenso.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:33:07.716Z",
+  "qualityScore": 52
 }

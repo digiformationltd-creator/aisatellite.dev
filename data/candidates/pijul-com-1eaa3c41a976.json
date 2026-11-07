@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pijul.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.282Z",
-  "updatedAt": "2026-11-07T06:43:50.282Z"
+  "updatedAt": "2026-11-07T06:43:50.282Z",
+  "lastVerified": "2026-11-07T08:42:27.312Z",
+  "qualityScore": 52
 }

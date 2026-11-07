@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.cortezaproject.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:31:54.976Z",
+  "qualityScore": 52
 }

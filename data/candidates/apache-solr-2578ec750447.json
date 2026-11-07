@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://lucene.apache.org/solr/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.406Z",
-  "updatedAt": "2026-11-07T06:43:50.406Z"
+  "updatedAt": "2026-11-07T06:43:50.406Z",
+  "lastVerified": "2026-11-07T08:29:29.170Z",
+  "qualityScore": 52
 }

@@ -36,7 +36,9 @@
   "evidenceUrls": [
     "https://github.com/asher/gmlx"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:51.434Z",
-  "updatedAt": "2026-11-07T06:43:51.434Z"
+  "updatedAt": "2026-11-07T06:43:51.434Z",
+  "lastVerified": "2026-11-07T08:36:01.954Z",
+  "qualityScore": 77
 }

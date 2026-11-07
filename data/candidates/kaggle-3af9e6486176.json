@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.kaggle.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.281Z",
-  "updatedAt": "2026-11-07T06:43:50.281Z"
+  "updatedAt": "2026-11-07T06:43:50.281Z",
+  "lastVerified": "2026-11-07T08:38:04.583Z",
+  "qualityScore": 52
 }

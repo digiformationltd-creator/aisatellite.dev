@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cloud.wundergraph.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.293Z",
-  "updatedAt": "2026-11-07T06:43:50.293Z"
+  "updatedAt": "2026-11-07T06:43:50.293Z",
+  "lastVerified": "2026-11-07T08:49:41.808Z",
+  "qualityScore": 52
 }

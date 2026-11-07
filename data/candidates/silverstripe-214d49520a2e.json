@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.silverstripe.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:45:39.555Z",
+  "qualityScore": 52
 }

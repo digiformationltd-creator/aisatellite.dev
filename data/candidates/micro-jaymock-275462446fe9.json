@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://micro-jaymock.now.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.296Z",
-  "updatedAt": "2026-11-07T06:43:50.296Z"
+  "updatedAt": "2026-11-07T06:43:50.296Z",
+  "lastVerified": "2026-11-07T08:39:56.400Z",
+  "qualityScore": 52
 }

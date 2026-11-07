@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/aunefyren/poenskelisten"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.405Z",
-  "updatedAt": "2026-11-07T06:43:50.405Z"
+  "updatedAt": "2026-11-07T06:43:50.405Z",
+  "lastVerified": "2026-11-07T08:42:01.002Z",
+  "qualityScore": 55
 }

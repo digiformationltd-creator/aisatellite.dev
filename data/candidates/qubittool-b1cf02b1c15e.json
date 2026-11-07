@@ -39,7 +39,9 @@
   "evidenceUrls": [
     "https://github.com/qubittool/qubittool"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.896Z",
-  "updatedAt": "2026-11-07T06:43:50.896Z"
+  "updatedAt": "2026-11-07T06:43:50.896Z",
+  "lastVerified": "2026-11-07T08:43:36.942Z",
+  "qualityScore": 89
 }

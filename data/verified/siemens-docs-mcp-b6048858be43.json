@@ -1,0 +1,42 @@
+{
+  "id": "siemens-docs-mcp-b6048858be43",
+  "canonicalUrl": "https://github.com/Czarnak/siemens-docs-mcp",
+  "name": "siemens-docs-mcp",
+  "description": "An MCP server that lets an AI assistant search and read Siemens documentation live.",
+  "category": "ai-coding",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-coding",
+    "ai-tools",
+    "claude",
+    "claude-code",
+    "codex",
+    "codex-cli",
+    "codex-plugin",
+    "mcp",
+    "mcp-protocol",
+    "mcp-server",
+    "mcp-tools",
+    "siemens",
+    "tia-openness",
+    "tia-portal"
+  ],
+  "repositoryUrl": "https://github.com/Czarnak/siemens-docs-mcp",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/Czarnak/siemens-docs-mcp/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-07T00:31:33Z",
+  "evidenceUrls": [
+    "https://github.com/Czarnak/siemens-docs-mcp"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-07T06:43:51.899Z",
+  "updatedAt": "2026-11-07T06:43:51.899Z",
+  "lastVerified": "2026-11-07T08:45:35.564Z",
+  "qualityScore": 78
+}

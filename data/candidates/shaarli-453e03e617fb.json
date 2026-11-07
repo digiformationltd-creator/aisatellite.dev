@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/shaarli/Shaarli"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.401Z",
-  "updatedAt": "2026-11-07T06:43:50.401Z"
+  "updatedAt": "2026-11-07T06:43:50.401Z",
+  "lastVerified": "2026-11-07T08:45:26.102Z",
+  "qualityScore": 55
 }

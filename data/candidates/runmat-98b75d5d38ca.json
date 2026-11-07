@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://runmat.com/sandbox"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.296Z",
-  "updatedAt": "2026-11-07T06:43:50.296Z"
+  "updatedAt": "2026-11-07T06:43:50.296Z",
+  "lastVerified": "2026-11-07T08:44:26.278Z",
+  "qualityScore": 52
 }

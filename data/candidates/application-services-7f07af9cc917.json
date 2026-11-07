@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.cloudflare.com/plans/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.282Z",
-  "updatedAt": "2026-11-07T06:43:50.282Z"
+  "updatedAt": "2026-11-07T06:43:50.282Z",
+  "lastVerified": "2026-11-07T08:29:36.371Z",
+  "qualityScore": 52
 }

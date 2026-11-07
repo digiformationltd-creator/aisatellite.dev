@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sqlint.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.295Z",
-  "updatedAt": "2026-11-07T06:43:50.295Z"
+  "updatedAt": "2026-11-07T06:43:50.295Z",
+  "lastVerified": "2026-11-07T08:46:26.246Z",
+  "qualityScore": 52
 }

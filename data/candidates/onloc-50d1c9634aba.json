@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://onloc.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.404Z",
-  "updatedAt": "2026-11-07T06:43:50.404Z"
+  "updatedAt": "2026-11-07T06:43:50.404Z",
+  "lastVerified": "2026-11-07T08:41:14.631Z",
+  "qualityScore": 52
 }

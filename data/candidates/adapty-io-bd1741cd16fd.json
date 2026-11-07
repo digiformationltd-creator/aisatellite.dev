@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://adapty.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.297Z",
-  "updatedAt": "2026-11-07T06:43:50.297Z"
+  "updatedAt": "2026-11-07T06:43:50.297Z",
+  "lastVerified": "2026-11-07T08:28:57.868Z",
+  "qualityScore": 52
 }

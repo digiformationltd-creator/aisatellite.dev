@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://inspect.software/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.286Z",
-  "updatedAt": "2026-11-07T06:43:50.286Z"
+  "updatedAt": "2026-11-07T06:43:50.286Z",
+  "lastVerified": "2026-11-07T08:37:24.242Z",
+  "qualityScore": 52
 }

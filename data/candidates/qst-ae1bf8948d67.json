@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://qstonline.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.404Z",
-  "updatedAt": "2026-11-07T06:43:50.404Z"
+  "updatedAt": "2026-11-07T06:43:50.404Z",
+  "lastVerified": "2026-11-07T08:43:27.304Z",
+  "qualityScore": 52
 }

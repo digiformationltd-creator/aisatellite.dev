@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.privydrop.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:43:07.451Z",
+  "qualityScore": 52
 }

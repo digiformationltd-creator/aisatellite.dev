@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.cis.upenn.edu/~bcpierce/unison/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z"
+  "updatedAt": "2026-11-07T06:43:50.403Z",
+  "lastVerified": "2026-11-07T08:48:29.710Z",
+  "qualityScore": 52
 }

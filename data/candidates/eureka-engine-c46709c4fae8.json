@@ -36,7 +36,9 @@
   "evidenceUrls": [
     "https://github.com/phenomenon0/eureka-engine"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:51.434Z",
-  "updatedAt": "2026-11-07T06:43:51.434Z"
+  "updatedAt": "2026-11-07T06:43:51.434Z",
+  "lastVerified": "2026-11-07T08:33:57.654Z",
+  "qualityScore": 78
 }

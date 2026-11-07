@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tox.chat/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.402Z",
-  "updatedAt": "2026-11-07T06:43:50.402Z"
+  "updatedAt": "2026-11-07T06:43:50.402Z",
+  "lastVerified": "2026-11-07T08:48:02.867Z",
+  "qualityScore": 52
 }

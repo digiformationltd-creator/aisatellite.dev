@@ -34,7 +34,9 @@
   "evidenceUrls": [
     "https://github.com/victorfs1234/claude-ralph-agent-bridge"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:51.899Z",
-  "updatedAt": "2026-11-07T06:43:51.899Z"
+  "updatedAt": "2026-11-07T06:43:51.899Z",
+  "lastVerified": "2026-11-07T08:31:10.840Z",
+  "qualityScore": 64
 }

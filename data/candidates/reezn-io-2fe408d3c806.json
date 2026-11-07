@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://reezn.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.285Z",
-  "updatedAt": "2026-11-07T06:43:50.285Z"
+  "updatedAt": "2026-11-07T06:43:50.285Z",
+  "lastVerified": "2026-11-07T08:43:53.213Z",
+  "qualityScore": 52
 }

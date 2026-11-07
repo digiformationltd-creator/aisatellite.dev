@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://appflowy.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.407Z",
-  "updatedAt": "2026-11-07T06:43:50.407Z"
+  "updatedAt": "2026-11-07T06:43:50.407Z",
+  "lastVerified": "2026-11-07T08:29:34.427Z",
+  "qualityScore": 52
 }

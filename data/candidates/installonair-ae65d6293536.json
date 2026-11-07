@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.installonair.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.287Z",
-  "updatedAt": "2026-11-07T06:43:50.287Z"
+  "updatedAt": "2026-11-07T06:43:50.287Z",
+  "lastVerified": "2026-11-07T08:37:25.032Z",
+  "qualityScore": 52
 }

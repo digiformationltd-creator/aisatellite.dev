@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.overleaf.com/latex/templates/tagged/cv"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.291Z",
-  "updatedAt": "2026-11-07T06:43:50.291Z"
+  "updatedAt": "2026-11-07T06:43:50.291Z",
+  "lastVerified": "2026-11-07T08:35:05.296Z",
+  "qualityScore": 52
 }

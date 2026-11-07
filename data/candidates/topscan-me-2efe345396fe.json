@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://topscan.me/free-plan"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.286Z",
-  "updatedAt": "2026-11-07T06:43:50.287Z"
+  "updatedAt": "2026-11-07T06:43:50.287Z",
+  "lastVerified": "2026-11-07T08:48:01.521Z",
+  "qualityScore": 52
 }

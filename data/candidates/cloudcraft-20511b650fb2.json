@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cloudcraft.co/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.294Z",
-  "updatedAt": "2026-11-07T06:43:50.294Z"
+  "updatedAt": "2026-11-07T06:43:50.294Z",
+  "lastVerified": "2026-11-07T08:31:18.575Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.fusionpbx.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:50.402Z",
-  "updatedAt": "2026-11-07T06:43:50.402Z"
+  "updatedAt": "2026-11-07T06:43:50.402Z",
+  "lastVerified": "2026-11-07T08:35:18.490Z",
+  "qualityScore": 52
 }
