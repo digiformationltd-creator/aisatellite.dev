@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-revenuecat-4ed65d50dd4f-guide",
+  "title": "How to Deploy RevenueCat in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-revenuecat-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RevenueCat.",
+  "targetKeywords": [
+    "RevenueCat",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.revenuecat.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RevenueCat with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

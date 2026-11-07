@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-templatefox-0bb7df6fc153-guide",
+  "title": "How to Deploy TemplateFox in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-templatefox-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TemplateFox.",
+  "targetKeywords": [
+    "TemplateFox",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pdftemplateapi.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TemplateFox with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mindwendel-5393f62142a3-guide",
+  "title": "How to Deploy Mindwendel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mindwendel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mindwendel.",
+  "targetKeywords": [
+    "Mindwendel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mindwendel.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mindwendel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

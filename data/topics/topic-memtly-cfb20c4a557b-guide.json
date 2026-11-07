@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-memtly-cfb20c4a557b-guide",
+  "title": "How to Deploy Memtly in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-memtly-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Memtly.",
+  "targetKeywords": [
+    "Memtly",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.memtly.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Memtly with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

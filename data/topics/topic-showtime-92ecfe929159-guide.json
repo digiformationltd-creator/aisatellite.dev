@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-showtime-92ecfe929159-guide",
+  "title": "How to Deploy Showtime in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-showtime-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Showtime.",
+  "targetKeywords": [
+    "Showtime",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zoho.com/showtime"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Showtime with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

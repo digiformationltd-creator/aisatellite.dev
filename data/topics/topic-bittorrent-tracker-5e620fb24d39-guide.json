@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bittorrent-tracker-5e620fb24d39-guide",
+  "title": "How to Deploy bittorrent-tracker in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bittorrent-tracker-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for bittorrent-tracker.",
+  "targetKeywords": [
+    "bittorrent-tracker",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://webtorrent.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting bittorrent-tracker with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

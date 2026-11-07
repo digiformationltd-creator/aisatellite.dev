@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gonic-e06126ba4a50-guide",
+  "title": "How to Deploy gonic in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gonic-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for gonic.",
+  "targetKeywords": [
+    "gonic",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/sentriz/gonic"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting gonic with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.049Z"
+}

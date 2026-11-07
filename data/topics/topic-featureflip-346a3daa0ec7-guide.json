@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-featureflip-346a3daa0ec7-guide",
+  "title": "How to Deploy Featureflip in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-featureflip-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Featureflip.",
+  "targetKeywords": [
+    "Featureflip",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://featureflip.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Featureflip with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.049Z"
+}

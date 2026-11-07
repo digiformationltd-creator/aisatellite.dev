@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-better-stack-b9afebe08002-guide",
+  "title": "How to Deploy Better Stack in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-better-stack-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Better Stack.",
+  "targetKeywords": [
+    "Better Stack",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://betterstack.com/better-uptime"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Better Stack with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

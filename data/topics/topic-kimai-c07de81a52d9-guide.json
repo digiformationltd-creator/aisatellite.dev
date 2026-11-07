@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kimai-c07de81a52d9-guide",
+  "title": "How to Deploy Kimai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kimai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kimai.",
+  "targetKeywords": [
+    "Kimai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.kimai.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kimai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

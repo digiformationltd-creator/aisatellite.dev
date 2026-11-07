@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-trip-c7fe4592fc77-guide",
+  "title": "How to Deploy TRIP in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-trip-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TRIP.",
+  "targetKeywords": [
+    "TRIP",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://itskovacs-trip.netlify.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TRIP with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

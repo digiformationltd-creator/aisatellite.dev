@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-alf-io-8a542ad68a76-guide",
+  "title": "How to Deploy Alf.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-alf-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Alf.io.",
+  "targetKeywords": [
+    "Alf.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://alf.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Alf.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.047Z"
+}

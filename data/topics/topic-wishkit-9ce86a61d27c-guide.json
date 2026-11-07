@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wishkit-9ce86a61d27c-guide",
+  "title": "How to Deploy WishKit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wishkit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WishKit.",
+  "targetKeywords": [
+    "WishKit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.wishkit.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting WishKit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.052Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deployment-io-e695f9d7b6cb-guide",
+  "title": "How to Deploy deployment.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deployment-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for deployment.io.",
+  "targetKeywords": [
+    "deployment.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://deployment.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting deployment.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

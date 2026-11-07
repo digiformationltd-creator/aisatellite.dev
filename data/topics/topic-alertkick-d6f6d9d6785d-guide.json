@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-alertkick-d6f6d9d6785d-guide",
+  "title": "How to Deploy AlertKick in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-alertkick-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AlertKick.",
+  "targetKeywords": [
+    "AlertKick",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.alertkick.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AlertKick with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.047Z"
+}

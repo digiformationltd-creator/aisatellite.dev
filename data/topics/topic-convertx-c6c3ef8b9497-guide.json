@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-convertx-c6c3ef8b9497-guide",
+  "title": "How to Deploy ConvertX in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-convertx-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ConvertX.",
+  "targetKeywords": [
+    "ConvertX",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/C4illin/ConvertX"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting ConvertX with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

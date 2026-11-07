@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kinto-5052326d4375-guide",
+  "title": "How to Deploy Kinto in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kinto-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kinto.",
+  "targetKeywords": [
+    "Kinto",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kinto.readthedocs.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kinto with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

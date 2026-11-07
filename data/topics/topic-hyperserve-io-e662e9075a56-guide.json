@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hyperserve-io-e662e9075a56-guide",
+  "title": "How to Deploy hyperserve.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hyperserve-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for hyperserve.io.",
+  "targetKeywords": [
+    "hyperserve.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hyperserve.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting hyperserve.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

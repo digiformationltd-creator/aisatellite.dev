@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-moode-audio-37ecf528699f-guide",
+  "title": "How to Deploy moOde Audio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-moode-audio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for moOde Audio.",
+  "targetKeywords": [
+    "moOde Audio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://moodeaudio.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting moOde Audio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

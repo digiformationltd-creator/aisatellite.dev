@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-anchr-c8d93e3dc309-guide",
+  "title": "How to Deploy Anchr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-anchr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Anchr.",
+  "targetKeywords": [
+    "Anchr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://anchr.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Anchr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.047Z"
+}

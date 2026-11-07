@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-phorge-0e5e1ea4a19b-guide",
+  "title": "How to Deploy Phorge in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-phorge-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Phorge.",
+  "targetKeywords": [
+    "Phorge",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://we.phorge.it/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Phorge with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

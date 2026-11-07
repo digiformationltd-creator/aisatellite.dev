@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-galette-fcb56754297b-guide",
+  "title": "How to Deploy Galette in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-galette-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Galette.",
+  "targetKeywords": [
+    "Galette",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://galette.eu/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Galette with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.049Z"
+}

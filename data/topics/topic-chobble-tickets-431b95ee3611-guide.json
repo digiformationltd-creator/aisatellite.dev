@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-chobble-tickets-431b95ee3611-guide",
+  "title": "How to Deploy Chobble Tickets in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-chobble-tickets-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Chobble Tickets.",
+  "targetKeywords": [
+    "Chobble Tickets",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tickets.chobble.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Chobble Tickets with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

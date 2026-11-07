@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dlvr-sh-d6733dfd127b-guide",
+  "title": "How to Deploy dlvr.sh in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dlvr-sh-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for dlvr.sh.",
+  "targetKeywords": [
+    "dlvr.sh",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dlvr.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting dlvr.sh with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

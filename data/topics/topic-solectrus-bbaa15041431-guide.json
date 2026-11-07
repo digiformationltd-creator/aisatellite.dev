@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-solectrus-bbaa15041431-guide",
+  "title": "How to Deploy SOLECTRUS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-solectrus-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SOLECTRUS.",
+  "targetKeywords": [
+    "SOLECTRUS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://solectrus.de"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SOLECTRUS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-publify-1076b5a5ed52-guide",
+  "title": "How to Deploy Publify in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-publify-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Publify.",
+  "targetKeywords": [
+    "Publify",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://publify.github.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Publify with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

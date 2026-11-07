@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-numa-dc3b6d93b3bd-guide",
+  "title": "How to Deploy Numa in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-numa-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Numa.",
+  "targetKeywords": [
+    "Numa",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://numa.rs/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Numa with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-agent-skills-6f6fefab8cf6-guide",
+  "title": "How to Deploy agent-skills in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-agent-skills-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for agent-skills.",
+  "targetKeywords": [
+    "agent-skills",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/lizliz404/agent-skills"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting agent-skills with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.047Z"
+}

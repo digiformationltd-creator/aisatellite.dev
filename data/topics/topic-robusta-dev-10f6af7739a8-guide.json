@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-robusta-dev-10f6af7739a8-guide",
+  "title": "How to Deploy robusta.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-robusta-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for robusta.dev.",
+  "targetKeywords": [
+    "robusta.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://home.robusta.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting robusta.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

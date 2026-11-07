@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-reactive-resume-801610fee70f-guide",
+  "title": "How to Deploy Reactive Resume in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-reactive-resume-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Reactive Resume.",
+  "targetKeywords": [
+    "Reactive Resume",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://rxresu.me",
+    "https://rxresu.me/"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting Reactive Resume with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

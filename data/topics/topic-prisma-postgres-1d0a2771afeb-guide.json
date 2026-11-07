@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-prisma-postgres-1d0a2771afeb-guide",
+  "title": "How to Deploy Prisma Postgres in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-prisma-postgres-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Prisma Postgres.",
+  "targetKeywords": [
+    "Prisma Postgres",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://prisma.io/postgres"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Prisma Postgres with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

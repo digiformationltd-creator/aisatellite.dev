@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-supysonic-8732189f226e-guide",
+  "title": "How to Deploy Supysonic in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-supysonic-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Supysonic.",
+  "targetKeywords": [
+    "Supysonic",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/spl0k/supysonic"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Supysonic with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

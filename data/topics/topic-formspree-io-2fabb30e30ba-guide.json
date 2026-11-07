@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-formspree-io-2fabb30e30ba-guide",
+  "title": "How to Deploy Formspree.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-formspree-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Formspree.io.",
+  "targetKeywords": [
+    "Formspree.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://formspree.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Formspree.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.049Z"
+}

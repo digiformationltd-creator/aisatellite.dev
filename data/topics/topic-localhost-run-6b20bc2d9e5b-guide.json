@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localhost-run-6b20bc2d9e5b-guide",
+  "title": "How to Deploy localhost.run in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localhost-run-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for localhost.run.",
+  "targetKeywords": [
+    "localhost.run",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://localhost.run/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting localhost.run with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

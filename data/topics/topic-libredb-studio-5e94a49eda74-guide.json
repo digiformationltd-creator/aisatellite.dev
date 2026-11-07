@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-libredb-studio-5e94a49eda74-guide",
+  "title": "How to Deploy LibreDB Studio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-libredb-studio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LibreDB Studio.",
+  "targetKeywords": [
+    "LibreDB Studio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://libredb.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LibreDB Studio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

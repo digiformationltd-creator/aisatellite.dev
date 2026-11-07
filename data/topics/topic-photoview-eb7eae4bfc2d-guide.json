@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-photoview-eb7eae4bfc2d-guide",
+  "title": "How to Deploy Photoview in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-photoview-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Photoview.",
+  "targetKeywords": [
+    "Photoview",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://photoview.github.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Photoview with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

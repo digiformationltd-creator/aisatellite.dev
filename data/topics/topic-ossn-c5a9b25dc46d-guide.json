@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ossn-c5a9b25dc46d-guide",
+  "title": "How to Deploy OSSN in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ossn-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OSSN.",
+  "targetKeywords": [
+    "OSSN",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.opensource-socialnetwork.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OSSN with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

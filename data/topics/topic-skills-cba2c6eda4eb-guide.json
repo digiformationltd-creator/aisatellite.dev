@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-skills-cba2c6eda4eb-guide",
+  "title": "How to Deploy skills in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-skills-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for skills.",
+  "targetKeywords": [
+    "skills",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/agustinusnathaniel/skills"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting skills with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

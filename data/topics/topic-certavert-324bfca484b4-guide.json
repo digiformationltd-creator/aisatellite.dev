@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-certavert-324bfca484b4-guide",
+  "title": "How to Deploy CertAvert in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-certavert-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CertAvert.",
+  "targetKeywords": [
+    "CertAvert",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://certavert.com/monitoring"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CertAvert with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

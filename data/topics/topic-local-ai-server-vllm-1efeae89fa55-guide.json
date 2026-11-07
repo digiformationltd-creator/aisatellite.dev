@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-local-ai-server-vllm-1efeae89fa55-guide",
+  "title": "How to Deploy local-ai-server-vllm in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-local-ai-server-vllm-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for local-ai-server-vllm.",
+  "targetKeywords": [
+    "local-ai-server-vllm",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/hossbit/local-ai-server-vllm"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting local-ai-server-vllm with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

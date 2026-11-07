@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-citadel-e1d399f6bbaa-guide",
+  "title": "How to Deploy Citadel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-citadel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Citadel.",
+  "targetKeywords": [
+    "Citadel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.citadel.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Citadel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

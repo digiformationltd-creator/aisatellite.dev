@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tiny-file-manager-dee32bc24ec4-guide",
+  "title": "How to Deploy Tiny File Manager in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tiny-file-manager-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tiny File Manager.",
+  "targetKeywords": [
+    "Tiny File Manager",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tinyfilemanager.github.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tiny File Manager with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

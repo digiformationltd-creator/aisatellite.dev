@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-youtrack-41e8b07b7b99-guide",
+  "title": "How to Deploy YouTrack in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-youtrack-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for YouTrack.",
+  "targetKeywords": [
+    "YouTrack",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.jetbrains.com/youtrack/buy/#edition=incloud"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting YouTrack with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.052Z"
+}

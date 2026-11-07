@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-microsoft-ajax-1c9ec3e95307-guide",
+  "title": "How to Deploy Microsoft Ajax in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-microsoft-ajax-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Microsoft Ajax.",
+  "targetKeywords": [
+    "Microsoft Ajax",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Microsoft Ajax with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

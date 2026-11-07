@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mockaroo-e76eee9dea15-guide",
+  "title": "How to Deploy mockaroo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mockaroo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mockaroo.",
+  "targetKeywords": [
+    "mockaroo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mockaroo.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mockaroo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

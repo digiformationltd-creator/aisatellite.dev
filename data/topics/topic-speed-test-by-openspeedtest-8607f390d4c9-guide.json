@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-speed-test-by-openspeedtest-8607f390d4c9-guide",
+  "title": "How to Deploy Speed Test by OpenSpeedTest™ in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-speed-test-by-openspeedtest--production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Speed Test by OpenSpeedTest™.",
+  "targetKeywords": [
+    "Speed Test by OpenSpeedTest™",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://openspeedtest.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Speed Test by OpenSpeedTest™ with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

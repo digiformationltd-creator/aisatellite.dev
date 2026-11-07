@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wiki-js-3341a03d5625-guide",
+  "title": "How to Deploy Wiki.js in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wiki-js-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Wiki.js.",
+  "targetKeywords": [
+    "Wiki.js",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://js.wiki/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Wiki.js with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.052Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-getpantry-cloud-962f7f182762-guide",
+  "title": "How to Deploy getpantry.cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-getpantry-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for getpantry.cloud.",
+  "targetKeywords": [
+    "getpantry.cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://getpantry.cloud/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting getpantry.cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.049Z"
+}

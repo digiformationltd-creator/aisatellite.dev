@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mobilizon-0b65fa61b02c-guide",
+  "title": "How to Deploy Mobilizon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mobilizon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mobilizon.",
+  "targetKeywords": [
+    "Mobilizon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mobilizon.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mobilizon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

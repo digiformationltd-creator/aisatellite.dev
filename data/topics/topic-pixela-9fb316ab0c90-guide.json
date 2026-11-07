@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pixela-9fb316ab0c90-guide",
+  "title": "How to Deploy Pixela in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pixela-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pixela.",
+  "targetKeywords": [
+    "Pixela",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pixe.la/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pixela with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

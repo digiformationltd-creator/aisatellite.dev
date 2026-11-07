@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-timetagger-f5990b9f8527-guide",
+  "title": "How to Deploy TimeTagger in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-timetagger-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TimeTagger.",
+  "targetKeywords": [
+    "TimeTagger",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://timetagger.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TimeTagger with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-application-services-7f07af9cc917-guide",
+  "title": "How to Deploy Application Services in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-application-services-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Application Services.",
+  "targetKeywords": [
+    "Application Services",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cloudflare.com/plans/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Application Services with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

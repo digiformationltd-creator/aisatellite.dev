@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-intodns-ai-8a7aa1a71402-guide",
+  "title": "How to Deploy IntoDNS.ai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-intodns-ai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IntoDNS.ai.",
+  "targetKeywords": [
+    "IntoDNS.ai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://intodns.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IntoDNS.ai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

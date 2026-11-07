@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-surfer-a2154404bcb4-guide",
+  "title": "How to Deploy Surfer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-surfer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Surfer.",
+  "targetKeywords": [
+    "Surfer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://git.cloudron.io/cloudron/surfer"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Surfer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

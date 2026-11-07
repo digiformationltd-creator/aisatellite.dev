@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wakatime-com-e271cc3da2de-guide",
+  "title": "How to Deploy wakatime.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wakatime-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for wakatime.com.",
+  "targetKeywords": [
+    "wakatime.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wakatime.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting wakatime.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

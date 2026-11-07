@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-brevo-c7bdb0241ddc-guide",
+  "title": "How to Deploy Brevo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-brevo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Brevo.",
+  "targetKeywords": [
+    "Brevo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.brevo.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Brevo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

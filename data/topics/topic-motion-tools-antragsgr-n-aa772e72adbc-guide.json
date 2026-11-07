@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-motion-tools-antragsgr-n-aa772e72adbc-guide",
+  "title": "How to Deploy motion.tools (Antragsgrün) in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-motion-tools-antragsgr-n--production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for motion.tools (Antragsgrün).",
+  "targetKeywords": [
+    "motion.tools (Antragsgrün)",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://motion.tools/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting motion.tools (Antragsgrün) with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

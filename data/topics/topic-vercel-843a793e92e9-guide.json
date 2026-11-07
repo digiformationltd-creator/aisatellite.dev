@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vercel-843a793e92e9-guide",
+  "title": "How to Deploy Vercel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vercel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Vercel.",
+  "targetKeywords": [
+    "Vercel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vercel.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Vercel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

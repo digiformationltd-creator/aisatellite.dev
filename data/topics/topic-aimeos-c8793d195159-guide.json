@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aimeos-c8793d195159-guide",
+  "title": "How to Deploy Aimeos in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aimeos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Aimeos.",
+  "targetKeywords": [
+    "Aimeos",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://aimeos.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Aimeos with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.047Z"
+}

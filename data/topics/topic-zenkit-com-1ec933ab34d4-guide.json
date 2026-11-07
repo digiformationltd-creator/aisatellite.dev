@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zenkit-com-1ec933ab34d4-guide",
+  "title": "How to Deploy zenkit.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zenkit-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for zenkit.com.",
+  "targetKeywords": [
+    "zenkit.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zenkit.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting zenkit.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.052Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sendbridge-mail-tester-7235f0ae051b-guide",
+  "title": "How to Deploy SendBridge Mail Tester in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sendbridge-mail-tester-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SendBridge Mail Tester.",
+  "targetKeywords": [
+    "SendBridge Mail Tester",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sendbridge.com/mail-tester"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SendBridge Mail Tester with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

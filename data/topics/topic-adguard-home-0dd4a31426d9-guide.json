@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-adguard-home-0dd4a31426d9-guide",
+  "title": "How to Deploy AdGuard Home in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-adguard-home-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AdGuard Home.",
+  "targetKeywords": [
+    "AdGuard Home",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://adguard.com/en/adguard-home/overview.html"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AdGuard Home with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.047Z"
+}

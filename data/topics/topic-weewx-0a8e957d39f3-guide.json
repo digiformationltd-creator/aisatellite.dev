@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-weewx-0a8e957d39f3-guide",
+  "title": "How to Deploy WeeWX in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-weewx-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WeeWX.",
+  "targetKeywords": [
+    "WeeWX",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://weewx.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting WeeWX with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.052Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-freetoken-rdna3-5947c514c781-guide",
+  "title": "How to Deploy freetoken-rdna3 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-freetoken-rdna3-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for freetoken-rdna3.",
+  "targetKeywords": [
+    "freetoken-rdna3",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Cedriceuh/freetoken-rdna3"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting freetoken-rdna3 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.049Z"
+}

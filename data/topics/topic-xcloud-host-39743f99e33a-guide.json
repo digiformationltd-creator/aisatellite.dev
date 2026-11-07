@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-xcloud-host-39743f99e33a-guide",
+  "title": "How to Deploy xcloud.host in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-xcloud-host-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for xcloud.host.",
+  "targetKeywords": [
+    "xcloud.host",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://xcloud.host"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting xcloud.host with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.052Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sigmastudio-460cbebf7958-guide",
+  "title": "How to Deploy SigmaStudio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sigmastudio-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SigmaStudio.",
+  "targetKeywords": [
+    "SigmaStudio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Sigmanih/SigmaStudio"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting SigmaStudio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

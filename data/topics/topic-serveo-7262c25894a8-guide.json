@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-serveo-7262c25894a8-guide",
+  "title": "How to Deploy serveo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-serveo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for serveo.",
+  "targetKeywords": [
+    "serveo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://serveo.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting serveo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-spacelift-be86e5a55e7f-guide",
+  "title": "How to Deploy Spacelift in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-spacelift-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Spacelift.",
+  "targetKeywords": [
+    "Spacelift",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://spacelift.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Spacelift with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

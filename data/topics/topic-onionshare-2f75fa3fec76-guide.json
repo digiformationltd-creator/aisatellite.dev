@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-onionshare-2f75fa3fec76-guide",
+  "title": "How to Deploy OnionShare in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-onionshare-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OnionShare.",
+  "targetKeywords": [
+    "OnionShare",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/onionshare/onionshare"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting OnionShare with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

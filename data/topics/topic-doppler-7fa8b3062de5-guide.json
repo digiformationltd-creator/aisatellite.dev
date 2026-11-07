@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-doppler-7fa8b3062de5-guide",
+  "title": "How to Deploy Doppler in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-doppler-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Doppler.",
+  "targetKeywords": [
+    "Doppler",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://doppler.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Doppler with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

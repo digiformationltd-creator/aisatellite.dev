@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jetlog-9f120a67cd6d-guide",
+  "title": "How to Deploy jetlog in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jetlog-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for jetlog.",
+  "targetKeywords": [
+    "jetlog",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/pbogre/jetlog"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting jetlog with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

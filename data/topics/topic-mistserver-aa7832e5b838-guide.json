@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mistserver-aa7832e5b838-guide",
+  "title": "How to Deploy MistServer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mistserver-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MistServer.",
+  "targetKeywords": [
+    "MistServer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mistserver.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MistServer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

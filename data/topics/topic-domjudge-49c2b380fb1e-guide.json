@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-domjudge-49c2b380fb1e-guide",
+  "title": "How to Deploy DOMJudge in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-domjudge-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DOMJudge.",
+  "targetKeywords": [
+    "DOMJudge",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.domjudge.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DOMJudge with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

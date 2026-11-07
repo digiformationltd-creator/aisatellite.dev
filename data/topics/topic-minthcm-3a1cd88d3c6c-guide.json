@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-minthcm-3a1cd88d3c6c-guide",
+  "title": "How to Deploy MintHCM in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-minthcm-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MintHCM.",
+  "targetKeywords": [
+    "MintHCM",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://minthcm.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MintHCM with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

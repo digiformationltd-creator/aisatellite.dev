@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mlmmj-ddd41bd7c034-guide",
+  "title": "How to Deploy mlmmj in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mlmmj-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mlmmj.",
+  "targetKeywords": [
+    "mlmmj",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mlmmj.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mlmmj with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

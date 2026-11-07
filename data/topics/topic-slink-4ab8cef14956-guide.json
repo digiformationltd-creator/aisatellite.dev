@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-slink-4ab8cef14956-guide",
+  "title": "How to Deploy Slink in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-slink-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Slink.",
+  "targetKeywords": [
+    "Slink",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.slinkapp.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Slink with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

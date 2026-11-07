@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-quay-io-8aa6b1c7cb58-guide",
+  "title": "How to Deploy quay.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-quay-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for quay.io.",
+  "targetKeywords": [
+    "quay.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://quay.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting quay.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

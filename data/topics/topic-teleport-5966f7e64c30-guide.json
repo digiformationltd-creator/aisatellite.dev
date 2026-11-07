@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-teleport-5966f7e64c30-guide",
+  "title": "How to Deploy Teleport in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-teleport-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Teleport.",
+  "targetKeywords": [
+    "Teleport",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://goteleport.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Teleport with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

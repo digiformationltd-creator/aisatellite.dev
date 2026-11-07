@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-flowctl-af5a458d1c88-guide",
+  "title": "How to Deploy flowctl in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-flowctl-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for flowctl.",
+  "targetKeywords": [
+    "flowctl",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://flowctl.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting flowctl with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.049Z"
+}

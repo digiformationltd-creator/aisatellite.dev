@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-timelogic-api-346a2031fc95-guide",
+  "title": "How to Deploy TimeLogic API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-timelogic-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TimeLogic API.",
+  "targetKeywords": [
+    "TimeLogic API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://timelogicapi.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TimeLogic API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

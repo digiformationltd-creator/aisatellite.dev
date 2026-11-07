@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-drupal-commerce-fd559fb80702-guide",
+  "title": "How to Deploy Drupal Commerce in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-drupal-commerce-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Drupal Commerce.",
+  "targetKeywords": [
+    "Drupal Commerce",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://drupalcommerce.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Drupal Commerce with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

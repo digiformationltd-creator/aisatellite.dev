@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-service-bus-3c6a8e882c3e-guide",
+  "title": "How to Deploy Service Bus in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-service-bus-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Service Bus.",
+  "targetKeywords": [
+    "Service Bus",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/products/service-bus/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Service Bus with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

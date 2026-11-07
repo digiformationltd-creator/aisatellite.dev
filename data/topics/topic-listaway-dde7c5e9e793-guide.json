@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-listaway-dde7c5e9e793-guide",
+  "title": "How to Deploy Listaway in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-listaway-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Listaway.",
+  "targetKeywords": [
+    "Listaway",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/jeffrpowell/listaway/"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Listaway with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

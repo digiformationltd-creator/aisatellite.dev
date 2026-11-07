@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-invoiceplane-f73a211cccea-guide",
+  "title": "How to Deploy InvoicePlane in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-invoiceplane-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for InvoicePlane.",
+  "targetKeywords": [
+    "InvoicePlane",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.invoiceplane.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting InvoicePlane with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

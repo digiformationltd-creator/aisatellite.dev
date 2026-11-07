@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-davical-dd21039d48a4-guide",
+  "title": "How to Deploy DAViCal in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-davical-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DAViCal.",
+  "targetKeywords": [
+    "DAViCal",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.davical.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DAViCal with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-docker-mailserver-7fec045b3e07-guide",
+  "title": "How to Deploy docker-mailserver in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-docker-mailserver-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for docker-mailserver.",
+  "targetKeywords": [
+    "docker-mailserver",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docker-mailserver.github.io/docker-mailserver/edge/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting docker-mailserver with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

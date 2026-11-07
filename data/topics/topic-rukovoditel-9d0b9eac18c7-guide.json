@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rukovoditel-9d0b9eac18c7-guide",
+  "title": "How to Deploy Rukovoditel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rukovoditel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Rukovoditel.",
+  "targetKeywords": [
+    "Rukovoditel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.rukovoditel.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Rukovoditel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

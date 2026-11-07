@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-roundup-issue-tracker-b98290013841-guide",
+  "title": "How to Deploy Roundup Issue Tracker in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-roundup-issue-tracker-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Roundup Issue Tracker.",
+  "targetKeywords": [
+    "Roundup Issue Tracker",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.roundup-tracker.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Roundup Issue Tracker with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

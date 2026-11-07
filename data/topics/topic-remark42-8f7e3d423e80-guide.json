@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-remark42-8f7e3d423e80-guide",
+  "title": "How to Deploy remark42 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-remark42-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for remark42.",
+  "targetKeywords": [
+    "remark42",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://remark42.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting remark42 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

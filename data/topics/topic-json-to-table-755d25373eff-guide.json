@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-json-to-table-755d25373eff-guide",
+  "title": "How to Deploy JSON to Table in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-json-to-table-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for JSON to Table.",
+  "targetKeywords": [
+    "JSON to Table",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jsontotable.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting JSON to Table with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

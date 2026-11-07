@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-trophy-87ea0e450638-guide",
+  "title": "How to Deploy Trophy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-trophy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Trophy.",
+  "targetKeywords": [
+    "Trophy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://trophy.so"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Trophy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

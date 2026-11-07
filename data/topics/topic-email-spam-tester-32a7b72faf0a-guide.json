@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-email-spam-tester-32a7b72faf0a-guide",
+  "title": "How to Deploy Email Spam Tester in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-email-spam-tester-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Email Spam Tester.",
+  "targetKeywords": [
+    "Email Spam Tester",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://email-spam-tester.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Email Spam Tester with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-canny-pigeons-8722af83b96e-guide",
+  "title": "How to Deploy Canny Pigeons in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-canny-pigeons-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Canny Pigeons.",
+  "targetKeywords": [
+    "Canny Pigeons",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cannypigeons.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Canny Pigeons with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

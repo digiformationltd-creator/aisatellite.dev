@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-privydrop-512e74951805-guide",
+  "title": "How to Deploy PrivyDrop in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-privydrop-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PrivyDrop.",
+  "targetKeywords": [
+    "PrivyDrop",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.privydrop.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PrivyDrop with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

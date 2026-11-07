@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pushword-45a623613cb0-guide",
+  "title": "How to Deploy Pushword in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pushword-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pushword.",
+  "targetKeywords": [
+    "Pushword",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pushword.piedweb.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pushword with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

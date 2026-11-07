@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wormhol-org-6e5844b8e7af-guide",
+  "title": "How to Deploy wormhol.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wormhol-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for wormhol.org.",
+  "targetKeywords": [
+    "wormhol.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.wormhol.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting wormhol.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.052Z"
+}

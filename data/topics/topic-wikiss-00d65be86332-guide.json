@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wikiss-00d65be86332-guide",
+  "title": "How to Deploy WiKiss in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wikiss-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WiKiss.",
+  "targetKeywords": [
+    "WiKiss",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wikiss.tuxfamily.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting WiKiss with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.052Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-alfresco-community-edition-567d2d1c4382-guide",
+  "title": "How to Deploy Alfresco Community Edition in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-alfresco-community-edition-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Alfresco Community Edition.",
+  "targetKeywords": [
+    "Alfresco Community Edition",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.alfresco.com/products/community/download"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Alfresco Community Edition with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.047Z"
+}

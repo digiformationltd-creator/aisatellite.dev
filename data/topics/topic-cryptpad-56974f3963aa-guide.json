@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cryptpad-56974f3963aa-guide",
+  "title": "How to Deploy CryptPad in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cryptpad-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CryptPad.",
+  "targetKeywords": [
+    "CryptPad",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cryptpad.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CryptPad with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

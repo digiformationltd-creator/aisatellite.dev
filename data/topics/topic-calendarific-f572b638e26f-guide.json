@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-calendarific-f572b638e26f-guide",
+  "title": "How to Deploy Calendarific in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-calendarific-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Calendarific.",
+  "targetKeywords": [
+    "Calendarific",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://calendarific.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Calendarific with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

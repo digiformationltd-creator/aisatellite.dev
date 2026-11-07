@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tooljet-1698d65b75f6-guide",
+  "title": "How to Deploy ToolJet in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tooljet-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ToolJet.",
+  "targetKeywords": [
+    "ToolJet",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.tooljet.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ToolJet with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

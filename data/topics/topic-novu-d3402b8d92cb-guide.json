@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-novu-d3402b8d92cb-guide",
+  "title": "How to Deploy Novu in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-novu-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Novu.",
+  "targetKeywords": [
+    "Novu",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://novu.co",
+    "https://novu.co/"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting Novu with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

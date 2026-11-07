@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-anonaddy-f418a232183d-guide",
+  "title": "How to Deploy AnonAddy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-anonaddy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AnonAddy.",
+  "targetKeywords": [
+    "AnonAddy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://anonaddy.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AnonAddy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.047Z"
+}

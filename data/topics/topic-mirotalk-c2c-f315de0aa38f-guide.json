@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mirotalk-c2c-f315de0aa38f-guide",
+  "title": "How to Deploy MiroTalk C2C in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mirotalk-c2c-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MiroTalk C2C.",
+  "targetKeywords": [
+    "MiroTalk C2C",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://c2c.mirotalk.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MiroTalk C2C with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

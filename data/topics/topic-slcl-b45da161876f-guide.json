@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-slcl-b45da161876f-guide",
+  "title": "How to Deploy slcl in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-slcl-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for slcl.",
+  "targetKeywords": [
+    "slcl",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://codeberg.org/xavidcr/slcl"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting slcl with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

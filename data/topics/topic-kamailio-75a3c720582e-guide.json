@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kamailio-75a3c720582e-guide",
+  "title": "How to Deploy Kamailio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kamailio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kamailio.",
+  "targetKeywords": [
+    "Kamailio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.kamailio.org/w/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kamailio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

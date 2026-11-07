@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bicimon-9b59c279600a-guide",
+  "title": "How to Deploy Bicimon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bicimon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bicimon.",
+  "targetKeywords": [
+    "Bicimon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/knrdl/bicimon"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Bicimon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

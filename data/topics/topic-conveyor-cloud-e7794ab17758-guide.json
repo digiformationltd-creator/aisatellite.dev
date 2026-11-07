@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-conveyor-cloud-e7794ab17758-guide",
+  "title": "How to Deploy conveyor.cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-conveyor-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for conveyor.cloud.",
+  "targetKeywords": [
+    "conveyor.cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://conveyor.cloud/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting conveyor.cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

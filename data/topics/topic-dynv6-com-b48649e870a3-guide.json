@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dynv6-com-b48649e870a3-guide",
+  "title": "How to Deploy Dynv6.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dynv6-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dynv6.com.",
+  "targetKeywords": [
+    "Dynv6.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dynv6.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dynv6.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

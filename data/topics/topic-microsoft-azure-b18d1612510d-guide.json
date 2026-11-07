@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-microsoft-azure-b18d1612510d-guide",
+  "title": "How to Deploy Microsoft Azure in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-microsoft-azure-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Microsoft Azure.",
+  "targetKeywords": [
+    "Microsoft Azure",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Microsoft Azure with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

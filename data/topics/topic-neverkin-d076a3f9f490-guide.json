@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-neverkin-d076a3f9f490-guide",
+  "title": "How to Deploy Neverkin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-neverkin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Neverkin.",
+  "targetKeywords": [
+    "Neverkin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://neverkin.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Neverkin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-technitium-dns-server-12dbbbb2931e-guide",
+  "title": "How to Deploy Technitium DNS Server in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-technitium-dns-server-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Technitium DNS Server.",
+  "targetKeywords": [
+    "Technitium DNS Server",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://technitium.com/dns/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Technitium DNS Server with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

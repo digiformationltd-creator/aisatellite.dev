@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-brokies-ai-foundry-dd20ab780c5b-guide",
+  "title": "How to Deploy Brokies-AI-Foundry in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-brokies-ai-foundry-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Brokies-AI-Foundry.",
+  "targetKeywords": [
+    "Brokies-AI-Foundry",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Caplet1989/Brokies-AI-Foundry"
+  ],
+  "priorityScore": 77,
+  "contentGapRationale": "High developer demand for self-hosting Brokies-AI-Foundry with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

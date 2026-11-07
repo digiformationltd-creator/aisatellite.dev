@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mastodon-b8e1cec7dd69-guide",
+  "title": "How to Deploy Mastodon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mastodon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mastodon.",
+  "targetKeywords": [
+    "Mastodon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://joinmastodon.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mastodon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

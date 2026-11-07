@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-meet-jit-si-a7b8b3e78b3d-guide",
+  "title": "How to Deploy meet.jit.si in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-meet-jit-si-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for meet.jit.si.",
+  "targetKeywords": [
+    "meet.jit.si",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://meet.jit.si/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting meet.jit.si with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

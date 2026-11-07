@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-storage-1d7d578d2499-guide",
+  "title": "How to Deploy Storage in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-storage-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Storage.",
+  "targetKeywords": [
+    "Storage",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/storage/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Storage with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

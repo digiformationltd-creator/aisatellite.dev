@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-improvmx-f056897b6339-guide",
+  "title": "How to Deploy ImprovMX in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-improvmx-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ImprovMX.",
+  "targetKeywords": [
+    "ImprovMX",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://improvmx.com"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting ImprovMX with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

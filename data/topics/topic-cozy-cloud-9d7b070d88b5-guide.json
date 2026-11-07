@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cozy-cloud-9d7b070d88b5-guide",
+  "title": "How to Deploy Cozy Cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cozy-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cozy Cloud.",
+  "targetKeywords": [
+    "Cozy Cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cozy.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cozy Cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

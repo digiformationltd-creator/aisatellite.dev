@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-adminer-b5eda9397b18-guide",
+  "title": "How to Deploy Adminer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-adminer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Adminer.",
+  "targetKeywords": [
+    "Adminer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.adminer.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Adminer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.047Z"
+}

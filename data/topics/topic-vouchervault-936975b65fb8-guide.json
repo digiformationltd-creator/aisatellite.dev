@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vouchervault-936975b65fb8-guide",
+  "title": "How to Deploy VoucherVault in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vouchervault-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for VoucherVault.",
+  "targetKeywords": [
+    "VoucherVault",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/l4rm4nd/VoucherVault"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting VoucherVault with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.051Z"
+}

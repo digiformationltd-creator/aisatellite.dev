@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-makeform-94eb8757ea7a-guide",
+  "title": "How to Deploy Makeform in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-makeform-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Makeform.",
+  "targetKeywords": [
+    "Makeform",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.makeform.ai/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Makeform with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

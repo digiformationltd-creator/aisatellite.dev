@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-image-charts-com-cc1323a7a37d-guide",
+  "title": "How to Deploy image-charts.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-image-charts-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for image-charts.com.",
+  "targetKeywords": [
+    "image-charts.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.image-charts.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting image-charts.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

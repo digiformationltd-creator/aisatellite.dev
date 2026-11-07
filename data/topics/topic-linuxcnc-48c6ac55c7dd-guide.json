@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-linuxcnc-48c6ac55c7dd-guide",
+  "title": "How to Deploy LinuxCNC in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-linuxcnc-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LinuxCNC.",
+  "targetKeywords": [
+    "LinuxCNC",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.linuxcnc.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LinuxCNC with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-eforward-7882f91b4485-guide",
+  "title": "How to Deploy eForward in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-eforward-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for eForward.",
+  "targetKeywords": [
+    "eForward",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://eforward.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting eForward with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}

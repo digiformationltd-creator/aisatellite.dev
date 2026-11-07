@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ip-api-f17ce2d2deaf-guide",
+  "title": "How to Deploy ip-api in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ip-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ip-api.",
+  "targetKeywords": [
+    "ip-api",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ip-api.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ip-api with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

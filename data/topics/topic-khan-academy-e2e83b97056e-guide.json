@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-khan-academy-e2e83b97056e-guide",
+  "title": "How to Deploy Khan Academy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-khan-academy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Khan Academy.",
+  "targetKeywords": [
+    "Khan Academy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.khanacademy.org/computing/computer-programming"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Khan Academy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.050Z"
+}

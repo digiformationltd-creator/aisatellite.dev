@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-churnkey-df01426e6a86-guide",
+  "title": "How to Deploy Churnkey in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-churnkey-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Churnkey.",
+  "targetKeywords": [
+    "Churnkey",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://churnkey.co"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Churnkey with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-07T10:54:54.048Z"
+}
