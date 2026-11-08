@@ -1,0 +1,32 @@
+[2026-11-08T22:45:40.888Z] [INFO] [Script:MonitorFreshness] Starting Content Freshness & Link Health Audit...
+[2026-11-08T22:45:40.890Z] [INFO] [FreshnessMonitor] Starting freshness and link integrity audit
+[2026-11-08T23:07:21.130Z] [INFO] [FreshnessMonitor] Audit complete. Monitored: 2567, Broken: 22, Stale: 1
+[2026-11-08T23:07:21.131Z] [INFO] [Script:MonitorFreshness] Audit Summary:
+[2026-11-08T23:07:21.131Z] [INFO] [Script:MonitorFreshness] - Total Resources Monitored: 2567
+[2026-11-08T23:07:21.131Z] [INFO] [Script:MonitorFreshness] - Healthy Resources: 2544
+[2026-11-08T23:07:21.131Z] [INFO] [Script:MonitorFreshness] - Stale (>90 days): 1
+[2026-11-08T23:07:21.131Z] [INFO] [Script:MonitorFreshness] - Broken URLs: 22
+[2026-11-08T23:07:21.131Z] [WARN] [Script:MonitorFreshness] Flagged Items requiring attention:
+[2026-11-08T23:07:21.131Z] [WARN] [Script:MonitorFreshness]   * [chobble-tickets-431b95ee3611] https://tickets.chobble.com/ - Broken or unreachable URL: Timeout
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [compare-json-ec05d16935d1] https://comparejson.com/ - Broken or unreachable URL: fetch failed
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [financial-data-dfefd0ee5044] https://financialdata.net/ - Broken or unreachable URL: HTTP 403
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [firefly-iii-dcb2329ab32e] https://firefly-iii.org/ - Broken or unreachable URL: HTTP 403
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [focus-flow-57df9ae96cda] https://github.com/francesco-gaglione/focus_flow_cloud - Broken or unreachable URL: HTTP 404
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [font-of-web-557c4cc4de67] https://fontofweb.com/ - Broken or unreachable URL: HTTP 451
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [freetools-site-2ca7ad704cf3] https://freetools.site/ - Broken or unreachable URL: HTTP 403
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [icecast-2-7ddaaf8c1e63] https://icecast.org/ - Broken or unreachable URL: fetch failed
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [isitdownstatus-com-9e6c3e06d70b] https://isitdownstatus.com/ - Broken or unreachable URL: HTTP 429
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [kamailio-75a3c720582e] https://www.kamailio.org/w - Broken or unreachable URL: Timeout
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [landen-co-2c7320a22fb7] https://www.landen.co/ - Broken or unreachable URL: Timeout
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [owncloud-112c785e55bd] https://owncloud.org/ - Broken or unreachable URL: Timeout
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [pydio-0a464b58ca78] https://pydio.com/ - Broken or unreachable URL: HTTP 404
+[2026-11-08T23:07:21.132Z] [WARN] [Script:MonitorFreshness]   * [quidlo-timesheets-f6346011eaa0] https://www.quidlo.com/timesheets - Broken or unreachable URL: HTTP 404
+[2026-11-08T23:07:21.133Z] [WARN] [Script:MonitorFreshness]   * [redaxo-5c751ecc3596] https://www.redaxo.org/ - Broken or unreachable URL: fetch failed
+[2026-11-08T23:07:21.133Z] [WARN] [Script:MonitorFreshness]   * [salut-toi-a07e469a5009] https://www.salut-a-toi.org/ - Broken or unreachable URL: Timeout
+[2026-11-08T23:07:21.133Z] [WARN] [Script:MonitorFreshness]   * [test-stale-tool] https://aisatellite.pages.dev - Verification is older than 90 days (Last verified: 2026-07-24). Enters re-verification queue.
+[2026-11-08T23:07:21.133Z] [WARN] [Script:MonitorFreshness]   * [test-stale-tool] https://aisatellite.pages.dev - Broken or unreachable URL: fetch failed
+[2026-11-08T23:07:21.133Z] [WARN] [Script:MonitorFreshness]   * [tool-idempotency-test] https://github.com/org/test-tool - Broken or unreachable URL: HTTP 404
+[2026-11-08T23:07:21.133Z] [WARN] [Script:MonitorFreshness]   * [vibe-pilot-d222ab3f20ef] https://github.com/Gatsuke/vibe-pilot - Broken or unreachable URL: HTTP 404
+[2026-11-08T23:07:21.133Z] [WARN] [Script:MonitorFreshness]   * [vvveb-cms-58ca0762887b] https://www.vvveb.com/ - Broken or unreachable URL: Timeout
+[2026-11-08T23:07:21.133Z] [WARN] [Script:MonitorFreshness]   * [wikifactory-90d16ab255b7] https://wikifactory.com/ - Broken or unreachable URL: HTTP 500
+[2026-11-08T23:07:21.133Z] [WARN] [Script:MonitorFreshness]   * [wikisuite-dff31ff358e3] https://wikisuite.org/ - Broken or unreachable URL: fetch failed
