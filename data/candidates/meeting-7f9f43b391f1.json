@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zoho.com/meeting"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.879Z",
-  "updatedAt": "2026-11-08T06:50:16.879Z"
+  "updatedAt": "2026-11-08T06:50:16.879Z",
+  "lastVerified": "2026-11-08T09:06:41.851Z",
+  "qualityScore": 52
 }

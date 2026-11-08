@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ombi.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.045Z",
-  "updatedAt": "2026-11-08T06:50:17.045Z"
+  "updatedAt": "2026-11-08T06:50:17.045Z",
+  "lastVerified": "2026-11-08T09:09:40.371Z",
+  "qualityScore": 52
 }

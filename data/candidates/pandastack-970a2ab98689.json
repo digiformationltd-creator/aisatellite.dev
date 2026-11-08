@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.pandastack.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.892Z",
-  "updatedAt": "2026-11-08T06:50:16.892Z"
+  "updatedAt": "2026-11-08T06:50:16.892Z",
+  "lastVerified": "2026-11-08T09:11:18.980Z",
+  "qualityScore": 52
 }

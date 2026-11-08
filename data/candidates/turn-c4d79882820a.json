@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://developers.cloudflare.com/calls/turn/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.879Z",
-  "updatedAt": "2026-11-08T06:50:16.879Z"
+  "updatedAt": "2026-11-08T06:50:16.879Z",
+  "lastVerified": "2026-11-08T09:26:03.502Z",
+  "qualityScore": 52
 }

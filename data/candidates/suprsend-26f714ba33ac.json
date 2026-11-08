@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.suprsend.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.885Z",
-  "updatedAt": "2026-11-08T06:50:16.885Z"
+  "updatedAt": "2026-11-08T06:50:16.885Z",
+  "lastVerified": "2026-11-08T09:22:43.115Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zoho.com/desk"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.879Z",
-  "updatedAt": "2026-11-08T06:50:16.879Z"
+  "updatedAt": "2026-11-08T06:50:16.879Z",
+  "lastVerified": "2026-11-08T08:50:45.152Z",
+  "qualityScore": 52
 }

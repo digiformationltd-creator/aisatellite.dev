@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://feathery.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.891Z",
-  "updatedAt": "2026-11-08T06:50:16.891Z"
+  "updatedAt": "2026-11-08T06:50:16.891Z",
+  "lastVerified": "2026-11-08T08:54:00.442Z",
+  "qualityScore": 52
 }

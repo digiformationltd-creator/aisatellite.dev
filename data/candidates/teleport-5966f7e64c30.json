@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://goteleport.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.046Z",
-  "updatedAt": "2026-11-08T06:50:17.046Z"
+  "updatedAt": "2026-11-08T06:50:17.046Z",
+  "lastVerified": "2026-11-08T09:24:15.114Z",
+  "qualityScore": 52
 }

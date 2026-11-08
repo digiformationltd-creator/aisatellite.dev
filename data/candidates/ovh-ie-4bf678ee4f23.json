@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.ovh.ie/ssl-gateway/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.891Z",
-  "updatedAt": "2026-11-08T06:50:16.891Z"
+  "updatedAt": "2026-11-08T06:50:16.891Z",
+  "lastVerified": "2026-11-08T09:10:58.731Z",
+  "qualityScore": 52
 }

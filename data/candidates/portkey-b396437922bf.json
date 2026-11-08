@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://portkey.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.891Z",
-  "updatedAt": "2026-11-08T06:50:16.891Z"
+  "updatedAt": "2026-11-08T06:50:16.891Z",
+  "lastVerified": "2026-11-08T09:12:58.253Z",
+  "qualityScore": 52
 }

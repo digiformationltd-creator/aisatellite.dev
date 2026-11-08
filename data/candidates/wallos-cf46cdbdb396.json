@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wallosapp.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.046Z",
-  "updatedAt": "2026-11-08T06:50:17.046Z"
+  "updatedAt": "2026-11-08T06:50:17.046Z",
+  "lastVerified": "2026-11-08T09:27:45.406Z",
+  "qualityScore": 52
 }

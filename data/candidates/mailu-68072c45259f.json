@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mailu.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.040Z",
-  "updatedAt": "2026-11-08T06:50:17.040Z"
+  "updatedAt": "2026-11-08T06:50:17.040Z",
+  "lastVerified": "2026-11-08T09:05:50.091Z",
+  "qualityScore": 52
 }

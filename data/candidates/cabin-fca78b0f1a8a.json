@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://withcabin.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.895Z",
-  "updatedAt": "2026-11-08T06:50:16.895Z"
+  "updatedAt": "2026-11-08T06:50:16.895Z",
+  "lastVerified": "2026-11-08T08:46:29.709Z",
+  "qualityScore": 52
 }

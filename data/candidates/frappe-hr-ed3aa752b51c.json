@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://frappe.io/hr"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.044Z",
-  "updatedAt": "2026-11-08T06:50:17.044Z"
+  "updatedAt": "2026-11-08T06:50:17.044Z",
+  "lastVerified": "2026-11-08T08:55:26.908Z",
+  "qualityScore": 52
 }

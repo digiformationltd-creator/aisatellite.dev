@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://smartparse.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.880Z",
-  "updatedAt": "2026-11-08T06:50:16.880Z"
+  "updatedAt": "2026-11-08T06:50:16.880Z",
+  "lastVerified": "2026-11-08T09:19:58.436Z",
+  "qualityScore": 52
 }

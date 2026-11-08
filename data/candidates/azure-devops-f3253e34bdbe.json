@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/services/devops/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.878Z",
-  "updatedAt": "2026-11-08T06:50:16.878Z"
+  "updatedAt": "2026-11-08T06:50:16.878Z",
+  "lastVerified": "2026-11-08T08:43:58.782Z",
+  "qualityScore": 52
 }

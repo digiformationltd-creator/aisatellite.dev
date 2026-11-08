@@ -37,7 +37,8 @@
   "evidenceUrls": [
     "https://github.com/nikomarinovic/awesome-links"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-08T06:50:17.628Z",
-  "updatedAt": "2026-11-08T06:50:17.628Z"
+  "updatedAt": "2026-11-08T06:50:17.628Z",
+  "rejectionReason": "Canonical link unreachable"
 }

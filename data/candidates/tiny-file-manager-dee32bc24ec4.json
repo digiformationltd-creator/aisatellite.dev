@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tinyfilemanager.github.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.044Z",
-  "updatedAt": "2026-11-08T06:50:17.044Z"
+  "updatedAt": "2026-11-08T06:50:17.044Z",
+  "lastVerified": "2026-11-08T09:25:08.421Z",
+  "qualityScore": 52
 }

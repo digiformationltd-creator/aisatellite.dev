@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tldraw.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.882Z",
-  "updatedAt": "2026-11-08T06:50:16.882Z"
+  "updatedAt": "2026-11-08T06:50:16.882Z",
+  "lastVerified": "2026-11-08T09:25:17.732Z",
+  "qualityScore": 52
 }

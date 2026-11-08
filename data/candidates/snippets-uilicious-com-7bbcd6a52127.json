@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://snippets.uilicious.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.883Z",
-  "updatedAt": "2026-11-08T06:50:16.883Z"
+  "updatedAt": "2026-11-08T06:50:16.883Z",
+  "lastVerified": "2026-11-08T09:20:29.943Z",
+  "qualityScore": 52
 }

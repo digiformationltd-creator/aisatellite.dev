@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://clockify.me"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.893Z",
-  "updatedAt": "2026-11-08T06:50:16.893Z"
+  "updatedAt": "2026-11-08T06:50:16.893Z",
+  "lastVerified": "2026-11-08T08:47:58.135Z",
+  "qualityScore": 52
 }

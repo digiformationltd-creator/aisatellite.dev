@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://parsec.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.897Z",
-  "updatedAt": "2026-11-08T06:50:16.897Z"
+  "updatedAt": "2026-11-08T06:50:16.897Z",
+  "lastVerified": "2026-11-08T09:11:20.980Z",
+  "qualityScore": 52
 }

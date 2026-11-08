@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.backblaze.com/b2/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.892Z",
-  "updatedAt": "2026-11-08T06:50:16.892Z"
+  "updatedAt": "2026-11-08T06:50:16.892Z",
+  "lastVerified": "2026-11-08T08:44:08.158Z",
+  "qualityScore": 52
 }

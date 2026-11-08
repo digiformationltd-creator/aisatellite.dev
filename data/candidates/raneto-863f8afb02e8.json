@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://raneto.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.048Z",
-  "updatedAt": "2026-11-08T06:50:17.048Z"
+  "updatedAt": "2026-11-08T06:50:17.048Z",
+  "lastVerified": "2026-11-08T09:14:26.919Z",
+  "qualityScore": 52
 }

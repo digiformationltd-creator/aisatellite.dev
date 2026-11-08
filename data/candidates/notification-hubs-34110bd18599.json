@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/services/notification-hubs/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.878Z",
-  "updatedAt": "2026-11-08T06:50:16.878Z"
+  "updatedAt": "2026-11-08T06:50:16.878Z",
+  "lastVerified": "2026-11-08T09:09:05.775Z",
+  "qualityScore": 47
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.drawdb.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.042Z",
-  "updatedAt": "2026-11-08T06:50:17.042Z"
+  "updatedAt": "2026-11-08T06:50:17.042Z",
+  "lastVerified": "2026-11-08T08:51:52.084Z",
+  "qualityScore": 52
 }

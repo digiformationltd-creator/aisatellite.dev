@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.dagu.cloud/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.039Z",
-  "updatedAt": "2026-11-08T06:50:17.039Z"
+  "updatedAt": "2026-11-08T06:50:17.039Z",
+  "lastVerified": "2026-11-08T08:49:46.986Z",
+  "qualityScore": 52
 }

@@ -38,7 +38,8 @@
   "evidenceUrls": [
     "https://github.com/Indras-Mirror/Xolotl"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-08T06:50:18.119Z",
-  "updatedAt": "2026-11-08T06:50:18.119Z"
+  "updatedAt": "2026-11-08T06:50:18.119Z",
+  "rejectionReason": "Canonical link unreachable"
 }

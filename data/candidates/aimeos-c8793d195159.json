@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aimeos.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.042Z",
-  "updatedAt": "2026-11-08T06:50:17.042Z"
+  "updatedAt": "2026-11-08T06:50:17.042Z",
+  "lastVerified": "2026-11-08T08:42:16.967Z",
+  "qualityScore": 52
 }

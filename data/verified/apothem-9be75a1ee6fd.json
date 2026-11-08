@@ -32,14 +32,13 @@
   "freeTierLimitations": [],
   "githubStars": 0,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-03T07:24:19Z",
+  "lastRepositoryUpdate": "2026-11-08T06:49:43Z",
   "evidenceUrls": [
     "https://github.com/Ahmed-G-Gad/apothem"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:47.248Z",
-  "updatedAt": "2026-11-03T07:24:47.248Z",
-  "lastVerified": "2026-11-07T08:29:31.983Z",
-  "qualityScore": 89,
-  "rejectionReason": "Canonical link unreachable"
+  "discoveredAt": "2026-11-08T06:50:18.480Z",
+  "updatedAt": "2026-11-08T06:50:18.480Z",
+  "lastVerified": "2026-11-08T08:42:45.810Z",
+  "qualityScore": 89
 }

@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://clyo.cloud/"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-08T06:50:17.043Z",
-  "updatedAt": "2026-11-08T06:50:17.043Z"
+  "updatedAt": "2026-11-08T06:50:17.043Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://fluxer.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.040Z",
-  "updatedAt": "2026-11-08T06:50:17.040Z"
+  "updatedAt": "2026-11-08T06:50:17.040Z",
+  "lastVerified": "2026-11-08T08:55:01.503Z",
+  "qualityScore": 52
 }

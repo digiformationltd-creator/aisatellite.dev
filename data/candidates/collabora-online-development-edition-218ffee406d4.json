@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.collaboraoffice.com/code"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.046Z",
-  "updatedAt": "2026-11-08T06:50:17.046Z"
+  "updatedAt": "2026-11-08T06:50:17.046Z",
+  "lastVerified": "2026-11-08T08:48:33.493Z",
+  "qualityScore": 52
 }

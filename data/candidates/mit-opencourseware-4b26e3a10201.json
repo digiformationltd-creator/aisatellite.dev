@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ocw.mit.edu/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.889Z",
-  "updatedAt": "2026-11-08T06:50:16.889Z"
+  "updatedAt": "2026-11-08T06:50:16.889Z",
+  "lastVerified": "2026-11-08T09:07:38.754Z",
+  "qualityScore": 52
 }

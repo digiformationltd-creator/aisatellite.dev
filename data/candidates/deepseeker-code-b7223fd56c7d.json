@@ -27,7 +27,7 @@
   "evidenceUrls": [
     "https://github.com/xknk/deepseeker-code"
   ],
-  "status": "verified",
+  "status": "rejected",
   "discoveredAt": "2026-11-05T07:34:49.440Z",
   "updatedAt": "2026-11-05T07:34:49.440Z",
   "rejectionReason": "Canonical link unreachable",

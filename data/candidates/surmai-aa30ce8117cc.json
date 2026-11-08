@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://surmai.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.048Z",
-  "updatedAt": "2026-11-08T06:50:17.048Z"
+  "updatedAt": "2026-11-08T06:50:17.048Z",
+  "lastVerified": "2026-11-08T09:22:58.733Z",
+  "qualityScore": 52
 }

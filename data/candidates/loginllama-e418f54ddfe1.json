@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://loginllama.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.880Z",
-  "updatedAt": "2026-11-08T06:50:16.880Z"
+  "updatedAt": "2026-11-08T06:50:16.880Z",
+  "lastVerified": "2026-11-08T09:05:16.149Z",
+  "qualityScore": 52
 }

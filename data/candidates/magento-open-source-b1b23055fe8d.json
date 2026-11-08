@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://business.adobe.com/products/magento/magento-commerce.html"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.042Z",
-  "updatedAt": "2026-11-08T06:50:17.042Z"
+  "updatedAt": "2026-11-08T06:50:17.042Z",
+  "lastVerified": "2026-11-08T09:05:30.052Z",
+  "qualityScore": 52
 }

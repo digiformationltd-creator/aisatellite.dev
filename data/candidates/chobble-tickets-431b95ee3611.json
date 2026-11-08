@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tickets.chobble.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.040Z",
-  "updatedAt": "2026-11-08T06:50:17.040Z"
+  "updatedAt": "2026-11-08T06:50:17.040Z",
+  "lastVerified": "2026-11-08T08:47:15.834Z",
+  "qualityScore": 52
 }

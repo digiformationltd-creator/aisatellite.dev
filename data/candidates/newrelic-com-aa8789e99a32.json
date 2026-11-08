@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.newrelic.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.886Z",
-  "updatedAt": "2026-11-08T06:50:16.886Z"
+  "updatedAt": "2026-11-08T06:50:16.886Z",
+  "lastVerified": "2026-11-08T09:08:41.346Z",
+  "qualityScore": 52
 }

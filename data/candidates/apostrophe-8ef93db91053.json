@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://apostrophecms.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.041Z",
-  "updatedAt": "2026-11-08T06:50:17.041Z"
+  "updatedAt": "2026-11-08T06:50:17.041Z",
+  "lastVerified": "2026-11-08T08:42:42.973Z",
+  "qualityScore": 52
 }

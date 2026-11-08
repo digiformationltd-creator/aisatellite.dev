@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.landen.co"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.894Z",
-  "updatedAt": "2026-11-08T06:50:16.894Z"
+  "updatedAt": "2026-11-08T06:50:16.894Z",
+  "lastVerified": "2026-11-08T09:02:37.270Z",
+  "qualityScore": 52
 }

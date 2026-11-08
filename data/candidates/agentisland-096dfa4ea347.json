@@ -25,7 +25,9 @@
   "evidenceUrls": [
     "https://github.com/R3dra1n/AgentIsland"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:18.480Z",
-  "updatedAt": "2026-11-08T06:50:18.480Z"
+  "updatedAt": "2026-11-08T06:50:18.480Z",
+  "lastVerified": "2026-11-08T08:42:13.038Z",
+  "qualityScore": 78
 }

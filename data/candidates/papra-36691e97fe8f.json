@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://papra.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.042Z",
-  "updatedAt": "2026-11-08T06:50:17.042Z"
+  "updatedAt": "2026-11-08T06:50:17.042Z",
+  "lastVerified": "2026-11-08T09:11:19.948Z",
+  "qualityScore": 52
 }

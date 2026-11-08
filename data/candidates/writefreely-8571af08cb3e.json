@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://writefreely.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.039Z",
-  "updatedAt": "2026-11-08T06:50:17.039Z"
+  "updatedAt": "2026-11-08T06:50:17.039Z",
+  "lastVerified": "2026-11-08T09:29:41.813Z",
+  "qualityScore": 52
 }

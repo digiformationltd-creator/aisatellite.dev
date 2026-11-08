@@ -1,0 +1,23 @@
+{
+  "id": "zeitio-e2f5e0eaad1d",
+  "canonicalUrl": "https://zeitio.com/",
+  "name": "Zeitio",
+  "description": "Time tracking and invoicing for freelancers and small teams. Free plan includes 1 user, 3 active projects and 3 invoices per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://zeitio.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://zeitio.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-04T07:06:45.607Z",
+  "updatedAt": "2026-11-04T07:06:45.607Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown",
+  "lastVerified": "2026-11-08T09:30:39.464Z",
+  "qualityScore": 52
+}

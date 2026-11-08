@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://depado.github.io/goploader/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.043Z",
-  "updatedAt": "2026-11-08T06:50:17.043Z"
+  "updatedAt": "2026-11-08T06:50:17.043Z",
+  "lastVerified": "2026-11-08T08:58:34.456Z",
+  "qualityScore": 52
 }

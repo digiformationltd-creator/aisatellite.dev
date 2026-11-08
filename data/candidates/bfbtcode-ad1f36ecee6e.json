@@ -35,9 +35,10 @@
   "evidenceUrls": [
     "https://github.com/dongfutong/BFBTCode"
   ],
-  "status": "verified",
+  "status": "rejected",
   "discoveredAt": "2026-11-06T07:30:29.067Z",
   "updatedAt": "2026-11-06T07:30:29.067Z",
   "lastVerified": "2026-11-07T08:30:11.818Z",
-  "qualityScore": 75
+  "qualityScore": 75,
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

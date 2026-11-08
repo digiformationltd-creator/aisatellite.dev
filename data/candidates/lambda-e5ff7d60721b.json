@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aws.amazon.com/lambda/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.878Z",
-  "updatedAt": "2026-11-08T06:50:16.878Z"
+  "updatedAt": "2026-11-08T06:50:16.878Z",
+  "lastVerified": "2026-11-08T09:02:32.776Z",
+  "qualityScore": 47
 }

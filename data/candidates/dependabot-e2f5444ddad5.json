@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://dependabot.com/"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-08T06:50:16.883Z",
-  "updatedAt": "2026-11-08T06:50:16.883Z"
+  "updatedAt": "2026-11-08T06:50:16.883Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://clicky.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.895Z",
-  "updatedAt": "2026-11-08T06:50:16.895Z"
+  "updatedAt": "2026-11-08T06:50:16.895Z",
+  "lastVerified": "2026-11-08T08:47:49.111Z",
+  "qualityScore": 52
 }

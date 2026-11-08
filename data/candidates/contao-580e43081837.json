@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://contao.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.041Z",
-  "updatedAt": "2026-11-08T06:50:17.041Z"
+  "updatedAt": "2026-11-08T06:50:17.041Z",
+  "lastVerified": "2026-11-08T08:48:40.105Z",
+  "qualityScore": 52
 }

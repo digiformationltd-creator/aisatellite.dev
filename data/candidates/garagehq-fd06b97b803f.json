@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://garagehq.deuxfleurs.fr/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.043Z",
-  "updatedAt": "2026-11-08T06:50:17.043Z"
+  "updatedAt": "2026-11-08T06:50:17.043Z",
+  "lastVerified": "2026-11-08T08:56:31.230Z",
+  "qualityScore": 52
 }

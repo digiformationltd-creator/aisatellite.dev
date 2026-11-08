@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mailcatcher.me/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.890Z",
-  "updatedAt": "2026-11-08T06:50:16.890Z"
+  "updatedAt": "2026-11-08T06:50:16.890Z",
+  "lastVerified": "2026-11-08T09:05:38.398Z",
+  "qualityScore": 52
 }

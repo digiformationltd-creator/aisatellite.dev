@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.sogo.nu/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.044Z",
-  "updatedAt": "2026-11-08T06:50:17.044Z"
+  "updatedAt": "2026-11-08T06:50:17.044Z",
+  "lastVerified": "2026-11-08T09:20:46.012Z",
+  "qualityScore": 52
 }

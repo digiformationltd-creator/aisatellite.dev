@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://uiverify.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.883Z",
-  "updatedAt": "2026-11-08T06:50:16.883Z"
+  "updatedAt": "2026-11-08T06:50:16.883Z",
+  "lastVerified": "2026-11-08T09:26:16.566Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wso2.com/asgardeo"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.884Z",
-  "updatedAt": "2026-11-08T06:50:16.884Z"
+  "updatedAt": "2026-11-08T06:50:16.884Z",
+  "lastVerified": "2026-11-08T08:43:03.935Z",
+  "qualityScore": 52
 }

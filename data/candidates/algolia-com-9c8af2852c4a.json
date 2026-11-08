@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.algolia.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.887Z",
-  "updatedAt": "2026-11-08T06:50:16.887Z"
+  "updatedAt": "2026-11-08T06:50:16.887Z",
+  "lastVerified": "2026-11-08T08:42:22.890Z",
+  "qualityScore": 52
 }

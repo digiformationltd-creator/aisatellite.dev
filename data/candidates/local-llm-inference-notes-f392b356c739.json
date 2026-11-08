@@ -29,9 +29,10 @@
   "evidenceUrls": [
     "https://github.com/Danielkgr/local-llm-inference-notes"
   ],
-  "status": "verified",
+  "status": "rejected",
   "discoveredAt": "2026-11-03T07:24:46.664Z",
   "updatedAt": "2026-11-03T07:24:46.664Z",
   "lastVerified": "2026-11-07T08:38:57.364Z",
-  "qualityScore": 78
+  "qualityScore": 78,
+  "rejectionReason": "Canonical link unreachable"
 }

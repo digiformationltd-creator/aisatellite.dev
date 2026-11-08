@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://miniflux.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.043Z",
-  "updatedAt": "2026-11-08T06:50:17.043Z"
+  "updatedAt": "2026-11-08T06:50:17.043Z",
+  "lastVerified": "2026-11-08T09:07:18.601Z",
+  "qualityScore": 52
 }

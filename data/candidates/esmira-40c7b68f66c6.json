@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://esmira.kl.ac.at"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.046Z",
-  "updatedAt": "2026-11-08T06:50:17.046Z"
+  "updatedAt": "2026-11-08T06:50:17.046Z",
+  "lastVerified": "2026-11-08T08:52:52.696Z",
+  "qualityScore": 52
 }

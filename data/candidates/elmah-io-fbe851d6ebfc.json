@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://elmah.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.887Z",
-  "updatedAt": "2026-11-08T06:50:16.887Z"
+  "updatedAt": "2026-11-08T06:50:16.887Z",
+  "lastVerified": "2026-11-08T08:52:26.683Z",
+  "qualityScore": 52
 }

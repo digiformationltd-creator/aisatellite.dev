@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codeberg.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.879Z",
-  "updatedAt": "2026-11-08T06:50:16.879Z"
+  "updatedAt": "2026-11-08T06:50:16.879Z",
+  "lastVerified": "2026-11-08T08:48:27.538Z",
+  "qualityScore": 52
 }

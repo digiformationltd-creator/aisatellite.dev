@@ -33,9 +33,10 @@
   "evidenceUrls": [
     "https://github.com/Sigmanih/SigmaStudio"
   ],
-  "status": "verified",
+  "status": "rejected",
   "discoveredAt": "2026-11-03T07:24:46.665Z",
   "updatedAt": "2026-11-03T07:24:46.665Z",
   "lastVerified": "2026-11-07T08:45:36.303Z",
-  "qualityScore": 64
+  "qualityScore": 64,
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

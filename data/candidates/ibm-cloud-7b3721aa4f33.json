@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.ibm.com/cloud/free/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.878Z",
-  "updatedAt": "2026-11-08T06:50:16.878Z"
+  "updatedAt": "2026-11-08T06:50:16.878Z",
+  "lastVerified": "2026-11-08T09:00:17.994Z",
+  "qualityScore": 47
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pingwise.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.886Z",
-  "updatedAt": "2026-11-08T06:50:16.886Z"
+  "updatedAt": "2026-11-08T06:50:16.886Z",
+  "lastVerified": "2026-11-08T09:12:08.626Z",
+  "qualityScore": 52
 }

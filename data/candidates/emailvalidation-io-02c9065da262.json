@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://emailvalidation.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.889Z",
-  "updatedAt": "2026-11-08T06:50:16.889Z"
+  "updatedAt": "2026-11-08T06:50:16.889Z",
+  "lastVerified": "2026-11-08T08:52:30.867Z",
+  "qualityScore": 52
 }

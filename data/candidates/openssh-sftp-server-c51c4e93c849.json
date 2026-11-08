@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.openssh.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.043Z",
-  "updatedAt": "2026-11-08T06:50:17.043Z"
+  "updatedAt": "2026-11-08T06:50:17.043Z",
+  "lastVerified": "2026-11-08T09:10:36.819Z",
+  "qualityScore": 52
 }

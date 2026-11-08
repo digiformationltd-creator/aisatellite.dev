@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://restdb.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.893Z",
-  "updatedAt": "2026-11-08T06:50:16.893Z"
+  "updatedAt": "2026-11-08T06:50:16.893Z",
+  "lastVerified": "2026-11-08T09:15:22.389Z",
+  "qualityScore": 52
 }

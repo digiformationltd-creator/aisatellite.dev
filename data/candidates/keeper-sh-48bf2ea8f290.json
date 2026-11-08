@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://keeper.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.040Z",
-  "updatedAt": "2026-11-08T06:50:17.040Z"
+  "updatedAt": "2026-11-08T06:50:17.040Z",
+  "lastVerified": "2026-11-08T09:01:52.914Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sfu.mirotalk.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.041Z",
-  "updatedAt": "2026-11-08T06:50:17.041Z"
+  "updatedAt": "2026-11-08T06:50:17.041Z",
+  "lastVerified": "2026-11-08T09:07:36.764Z",
+  "qualityScore": 52
 }

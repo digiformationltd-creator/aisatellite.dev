@@ -33,9 +33,10 @@
   "evidenceUrls": [
     "https://github.com/Marqlo-C/mailpilot"
   ],
-  "status": "verified",
+  "status": "rejected",
   "discoveredAt": "2026-11-04T07:06:46.912Z",
   "updatedAt": "2026-11-04T07:06:46.912Z",
   "lastVerified": "2026-11-07T08:39:26.958Z",
-  "qualityScore": 75
+  "qualityScore": 75,
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

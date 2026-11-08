@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.couchbase.com/products/capella/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.892Z",
-  "updatedAt": "2026-11-08T06:50:16.892Z"
+  "updatedAt": "2026-11-08T06:50:16.892Z",
+  "lastVerified": "2026-11-08T08:49:03.827Z",
+  "qualityScore": 52
 }

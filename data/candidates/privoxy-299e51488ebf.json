@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.privoxy.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.047Z",
-  "updatedAt": "2026-11-08T06:50:17.047Z"
+  "updatedAt": "2026-11-08T06:50:17.047Z",
+  "lastVerified": "2026-11-08T09:13:16.007Z",
+  "qualityScore": 52
 }

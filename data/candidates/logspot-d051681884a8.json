@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://logspot.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.895Z",
-  "updatedAt": "2026-11-08T06:50:16.895Z"
+  "updatedAt": "2026-11-08T06:50:16.895Z",
+  "lastVerified": "2026-11-08T09:05:17.071Z",
+  "qualityScore": 52
 }

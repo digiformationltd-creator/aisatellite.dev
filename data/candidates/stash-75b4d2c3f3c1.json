@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://stashapp.cc"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.046Z",
-  "updatedAt": "2026-11-08T06:50:17.046Z"
+  "updatedAt": "2026-11-08T06:50:17.046Z",
+  "lastVerified": "2026-11-08T09:21:45.524Z",
+  "qualityScore": 52
 }

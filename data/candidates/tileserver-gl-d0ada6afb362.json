@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tileserver.readthedocs.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.045Z",
-  "updatedAt": "2026-11-08T06:50:17.045Z"
+  "updatedAt": "2026-11-08T06:50:17.045Z",
+  "lastVerified": "2026-11-08T09:24:58.637Z",
+  "qualityScore": 52
 }

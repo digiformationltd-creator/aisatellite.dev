@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wiki.mumble.info/wiki/Main_Page"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.040Z",
-  "updatedAt": "2026-11-08T06:50:17.040Z"
+  "updatedAt": "2026-11-08T06:50:17.040Z",
+  "lastVerified": "2026-11-08T09:08:19.601Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://backlog.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.893Z",
-  "updatedAt": "2026-11-08T06:50:16.893Z"
+  "updatedAt": "2026-11-08T06:50:16.893Z",
+  "lastVerified": "2026-11-08T08:44:09.106Z",
+  "qualityScore": 52
 }

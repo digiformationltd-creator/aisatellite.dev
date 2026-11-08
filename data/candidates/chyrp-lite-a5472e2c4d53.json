@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://chyrplite.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.039Z",
-  "updatedAt": "2026-11-08T06:50:17.039Z"
+  "updatedAt": "2026-11-08T06:50:17.039Z",
+  "lastVerified": "2026-11-08T08:47:24.272Z",
+  "qualityScore": 52
 }

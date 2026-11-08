@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://recipes.musicavis.ca"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.047Z",
-  "updatedAt": "2026-11-08T06:50:17.047Z"
+  "updatedAt": "2026-11-08T06:50:17.047Z",
+  "lastVerified": "2026-11-08T09:14:59.130Z",
+  "qualityScore": 52
 }

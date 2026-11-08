@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://itskovacs-trip.netlify.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.045Z",
-  "updatedAt": "2026-11-08T06:50:17.045Z"
+  "updatedAt": "2026-11-08T06:50:17.045Z",
+  "lastVerified": "2026-11-08T09:25:59.600Z",
+  "qualityScore": 52
 }

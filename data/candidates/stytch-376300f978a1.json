@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.stytch.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.885Z",
-  "updatedAt": "2026-11-08T06:50:16.885Z"
+  "updatedAt": "2026-11-08T06:50:16.885Z",
+  "lastVerified": "2026-11-08T09:22:23.700Z",
+  "qualityScore": 52
 }

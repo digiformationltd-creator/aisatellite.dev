@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kwes.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.891Z",
-  "updatedAt": "2026-11-08T06:50:16.891Z"
+  "updatedAt": "2026-11-08T06:50:16.891Z",
+  "lastVerified": "2026-11-08T09:02:24.701Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aws.amazon.com/cloudwatch/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.878Z",
-  "updatedAt": "2026-11-08T06:50:16.878Z"
+  "updatedAt": "2026-11-08T06:50:16.878Z",
+  "lastVerified": "2026-11-08T08:48:02.482Z",
+  "qualityScore": 52
 }

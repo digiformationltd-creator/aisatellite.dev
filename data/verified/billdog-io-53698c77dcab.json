@@ -1,0 +1,22 @@
+{
+  "id": "billdog-io-53698c77dcab",
+  "canonicalUrl": "https://billdog.io/",
+  "name": "BillDog.io",
+  "description": "In-app subscription paywalls, A/B testing, product analytics, and messaging with SDKs for iOS, Android, React Native, Flutter, Unity, and web. Free up to $3k/mo in tracked revenue and 1M monthly analytics events.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://billdog.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://billdog.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-08T06:50:16.896Z",
+  "updatedAt": "2026-11-08T06:50:16.896Z",
+  "lastVerified": "2026-11-08T08:44:54.643Z",
+  "qualityScore": 52
+}

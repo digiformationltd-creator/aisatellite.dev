@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cronhooks.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.897Z",
-  "updatedAt": "2026-11-08T06:50:16.897Z"
+  "updatedAt": "2026-11-08T06:50:16.897Z",
+  "lastVerified": "2026-11-08T08:49:14.391Z",
+  "qualityScore": 52
 }

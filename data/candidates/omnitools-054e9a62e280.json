@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://omnitools.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.046Z",
-  "updatedAt": "2026-11-08T06:50:17.046Z"
+  "updatedAt": "2026-11-08T06:50:17.046Z",
+  "lastVerified": "2026-11-08T09:09:41.041Z",
+  "qualityScore": 52
 }

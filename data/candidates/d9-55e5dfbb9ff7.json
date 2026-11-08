@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://d9.webcapsule.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.042Z",
-  "updatedAt": "2026-11-08T06:50:17.042Z"
+  "updatedAt": "2026-11-08T06:50:17.042Z",
+  "lastVerified": "2026-11-08T08:49:45.939Z",
+  "qualityScore": 52
 }

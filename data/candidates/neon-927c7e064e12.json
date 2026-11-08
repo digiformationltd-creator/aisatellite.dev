@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://neon.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.893Z",
-  "updatedAt": "2026-11-08T06:50:16.893Z"
+  "updatedAt": "2026-11-08T06:50:16.893Z",
+  "lastVerified": "2026-11-08T09:08:31.834Z",
+  "qualityScore": 52
 }

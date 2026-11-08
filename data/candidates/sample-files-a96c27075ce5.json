@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mzeeshan.me/tools/sample-files"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.883Z",
-  "updatedAt": "2026-11-08T06:50:16.883Z"
+  "updatedAt": "2026-11-08T06:50:16.883Z",
+  "lastVerified": "2026-11-08T09:16:36.889Z",
+  "qualityScore": 52
 }

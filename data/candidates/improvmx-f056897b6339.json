@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://improvmx.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.890Z",
-  "updatedAt": "2026-11-08T06:50:16.890Z"
+  "updatedAt": "2026-11-08T06:50:16.890Z",
+  "lastVerified": "2026-11-08T09:00:55.188Z",
+  "qualityScore": 47
 }

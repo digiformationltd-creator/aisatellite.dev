@@ -14,8 +14,10 @@
   "evidenceUrls": [
     "https://microlink.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:16.896Z",
   "updatedAt": "2026-11-08T06:50:18.482Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-08T09:07:08.256Z",
+  "qualityScore": 52
 }

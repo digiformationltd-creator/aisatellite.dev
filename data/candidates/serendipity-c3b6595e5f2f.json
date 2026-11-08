@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.s9y.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.039Z",
-  "updatedAt": "2026-11-08T06:50:17.039Z"
+  "updatedAt": "2026-11-08T06:50:17.039Z",
+  "lastVerified": "2026-11-08T09:17:31.136Z",
+  "qualityScore": 52
 }

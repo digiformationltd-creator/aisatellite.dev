@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://misago-project.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.040Z",
-  "updatedAt": "2026-11-08T06:50:17.040Z"
+  "updatedAt": "2026-11-08T06:50:17.040Z",
+  "lastVerified": "2026-11-08T09:07:37.951Z",
+  "qualityScore": 52
 }

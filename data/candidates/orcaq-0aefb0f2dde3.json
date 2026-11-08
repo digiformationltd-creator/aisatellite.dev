@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://orca-q.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:17.042Z",
-  "updatedAt": "2026-11-08T06:50:17.042Z"
+  "updatedAt": "2026-11-08T06:50:17.042Z",
+  "lastVerified": "2026-11-08T09:10:39.736Z",
+  "qualityScore": 52
 }
