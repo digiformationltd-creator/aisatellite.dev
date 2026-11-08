@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-crystallize-6d5d3680180a-guide",
+  "title": "How to Deploy Crystallize in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-crystallize-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Crystallize.",
+  "targetKeywords": [
+    "Crystallize",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://crystallize.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Crystallize with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

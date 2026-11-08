@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rustypaste-22bffd05ef86-guide",
+  "title": "How to Deploy rustypaste in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rustypaste-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for rustypaste.",
+  "targetKeywords": [
+    "rustypaste",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/orhun/rustypaste"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting rustypaste with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

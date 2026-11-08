@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-google-ai-studio-86e7d7fc8c8b-guide",
+  "title": "How to Deploy Google AI Studio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-google-ai-studio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Google AI Studio.",
+  "targetKeywords": [
+    "Google AI Studio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://aistudio.google.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Google AI Studio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

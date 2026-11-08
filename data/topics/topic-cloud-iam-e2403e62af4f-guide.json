@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloud-iam-e2403e62af4f-guide",
+  "title": "How to Deploy Cloud-IAM in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloud-iam-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloud-IAM.",
+  "targetKeywords": [
+    "Cloud-IAM",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cloud-iam.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cloud-IAM with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

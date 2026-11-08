@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-photopea-com-873756fbe97a-guide",
+  "title": "How to Deploy photopea.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-photopea-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for photopea.com.",
+  "targetKeywords": [
+    "photopea.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.photopea.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting photopea.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

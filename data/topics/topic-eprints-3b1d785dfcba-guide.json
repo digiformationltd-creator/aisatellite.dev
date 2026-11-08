@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-eprints-3b1d785dfcba-guide",
+  "title": "How to Deploy EPrints in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-eprints-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for EPrints.",
+  "targetKeywords": [
+    "EPrints",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.eprints.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting EPrints with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

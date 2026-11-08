@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-redhat-for-developers-3f28cf1a757e-guide",
+  "title": "How to Deploy RedHat for Developers in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-redhat-for-developers-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RedHat for Developers.",
+  "targetKeywords": [
+    "RedHat for Developers",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developers.redhat.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RedHat for Developers with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

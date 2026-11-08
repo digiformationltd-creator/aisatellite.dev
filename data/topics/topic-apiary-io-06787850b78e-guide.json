@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-apiary-io-06787850b78e-guide",
+  "title": "How to Deploy apiary.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-apiary-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for apiary.io.",
+  "targetKeywords": [
+    "apiary.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://apiary.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting apiary.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-triliumnext-notes-79dd24c198db-guide",
+  "title": "How to Deploy TriliumNext Notes in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-triliumnext-notes-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TriliumNext Notes.",
+  "targetKeywords": [
+    "TriliumNext Notes",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/TriliumNext/Trilium"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting TriliumNext Notes with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

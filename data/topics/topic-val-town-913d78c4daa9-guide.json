@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-val-town-913d78c4daa9-guide",
+  "title": "How to Deploy Val Town in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-val-town-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Val Town.",
+  "targetKeywords": [
+    "Val Town",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.val.town"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Val Town with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

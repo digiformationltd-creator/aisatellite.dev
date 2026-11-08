@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-geoapify-com-a07d0a855553-guide",
+  "title": "How to Deploy geoapify.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-geoapify-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for geoapify.com.",
+  "targetKeywords": [
+    "geoapify.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.geoapify.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting geoapify.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

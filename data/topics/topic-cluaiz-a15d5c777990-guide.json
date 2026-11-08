@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cluaiz-a15d5c777990-guide",
+  "title": "How to Deploy cluaiz in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cluaiz-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cluaiz.",
+  "targetKeywords": [
+    "cluaiz",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/cluaiz/cluaiz"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting cluaiz with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

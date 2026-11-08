@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-task-5fc1bc5bb453-guide",
+  "title": "How to Deploy µTask in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy--task-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for µTask.",
+  "targetKeywords": [
+    "µTask",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/ovh/utask"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting µTask with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

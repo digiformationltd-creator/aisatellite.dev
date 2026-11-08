@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-imageengine-87d3da0f617b-guide",
+  "title": "How to Deploy ImageEngine in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-imageengine-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ImageEngine.",
+  "targetKeywords": [
+    "ImageEngine",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://imageengine.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ImageEngine with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

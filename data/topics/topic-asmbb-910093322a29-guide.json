@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-asmbb-910093322a29-guide",
+  "title": "How to Deploy AsmBB in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-asmbb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AsmBB.",
+  "targetKeywords": [
+    "AsmBB",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://board.asm32.info"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AsmBB with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

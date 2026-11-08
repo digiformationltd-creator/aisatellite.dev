@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-red-eclipse-2-f7ca0ede604a-guide",
+  "title": "How to Deploy Red Eclipse 2 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-red-eclipse-2-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Red Eclipse 2.",
+  "targetKeywords": [
+    "Red Eclipse 2",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.redeclipse.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Red Eclipse 2 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

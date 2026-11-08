@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stellate-4413b431d214-guide",
+  "title": "How to Deploy Stellate in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stellate-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Stellate.",
+  "targetKeywords": [
+    "Stellate",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stellate.co/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Stellate with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

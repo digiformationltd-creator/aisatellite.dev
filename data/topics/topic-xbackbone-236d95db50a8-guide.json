@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-xbackbone-236d95db50a8-guide",
+  "title": "How to Deploy XBackBone in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-xbackbone-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for XBackBone.",
+  "targetKeywords": [
+    "XBackBone",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://xbackbone.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting XBackBone with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.092Z"
+}

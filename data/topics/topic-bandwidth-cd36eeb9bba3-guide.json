@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bandwidth-cd36eeb9bba3-guide",
+  "title": "How to Deploy Bandwidth in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bandwidth-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bandwidth.",
+  "targetKeywords": [
+    "Bandwidth",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/pricing/details/bandwidth/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Bandwidth with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

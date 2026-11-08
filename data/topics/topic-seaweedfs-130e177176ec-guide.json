@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-seaweedfs-130e177176ec-guide",
+  "title": "How to Deploy SeaweedFS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-seaweedfs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SeaweedFS.",
+  "targetKeywords": [
+    "SeaweedFS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/seaweedfs/seaweedfs"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting SeaweedFS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

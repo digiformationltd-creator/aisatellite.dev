@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-commafeed-9bab7e6bf77f-guide",
+  "title": "How to Deploy CommaFeed in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-commafeed-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CommaFeed.",
+  "targetKeywords": [
+    "CommaFeed",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.commafeed.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CommaFeed with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

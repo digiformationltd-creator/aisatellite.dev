@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tailscale-04fdaa1e2144-guide",
+  "title": "How to Deploy Tailscale in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tailscale-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tailscale.",
+  "targetKeywords": [
+    "Tailscale",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tailscale.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tailscale with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

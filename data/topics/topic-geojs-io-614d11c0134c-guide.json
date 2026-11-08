@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-geojs-io-614d11c0134c-guide",
+  "title": "How to Deploy geojs.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-geojs-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for geojs.io.",
+  "targetKeywords": [
+    "geojs.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.geojs.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting geojs.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

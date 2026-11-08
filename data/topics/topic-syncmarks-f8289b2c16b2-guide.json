@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-syncmarks-f8289b2c16b2-guide",
+  "title": "How to Deploy SyncMarks in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-syncmarks-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SyncMarks.",
+  "targetKeywords": [
+    "SyncMarks",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://codeberg.org/Offerel/SyncMarks-Webapp"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SyncMarks with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

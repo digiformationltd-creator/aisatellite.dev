@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-country-state-city-microservice-api-c5dd127a0ca8-guide",
+  "title": "How to Deploy Country-State-City Microservice API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-country-state-city-microservice-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Country-State-City Microservice API.",
+  "targetKeywords": [
+    "Country-State-City Microservice API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://country-state-city.rebuscando.info/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Country-State-City Microservice API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

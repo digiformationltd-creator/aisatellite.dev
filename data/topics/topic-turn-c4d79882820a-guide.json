@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-turn-c4d79882820a-guide",
+  "title": "How to Deploy TURN in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-turn-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TURN.",
+  "targetKeywords": [
+    "TURN",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developers.cloudflare.com/calls/turn/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TURN with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

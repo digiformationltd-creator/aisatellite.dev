@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-maddy-mail-server-f1f1fc118088-guide",
+  "title": "How to Deploy Maddy Mail Server in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-maddy-mail-server-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Maddy Mail Server.",
+  "targetKeywords": [
+    "Maddy Mail Server",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://maddy.email/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Maddy Mail Server with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

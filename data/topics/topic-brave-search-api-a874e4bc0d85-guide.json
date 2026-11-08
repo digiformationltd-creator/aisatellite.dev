@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-brave-search-api-a874e4bc0d85-guide",
+  "title": "How to Deploy Brave Search API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-brave-search-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Brave Search API.",
+  "targetKeywords": [
+    "Brave Search API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://brave.com/search/api/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Brave Search API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

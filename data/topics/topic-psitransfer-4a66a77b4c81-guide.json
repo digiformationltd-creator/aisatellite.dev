@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-psitransfer-4a66a77b4c81-guide",
+  "title": "How to Deploy PsiTransfer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-psitransfer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PsiTransfer.",
+  "targetKeywords": [
+    "PsiTransfer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/psi-4ward/psitransfer"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting PsiTransfer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

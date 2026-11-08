@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-skypack-de3f96d7d134-guide",
+  "title": "How to Deploy Skypack in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-skypack-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Skypack.",
+  "targetKeywords": [
+    "Skypack",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.skypack.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Skypack with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

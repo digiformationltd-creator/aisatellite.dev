@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-test-stale-tool-guide",
+  "title": "How to Deploy StaleTool in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-staletool-production",
+  "category": "databases",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for StaleTool.",
+  "targetKeywords": [
+    "StaleTool",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://aisatellite.pages.dev"
+  ],
+  "priorityScore": 70,
+  "contentGapRationale": "High developer demand for self-hosting StaleTool with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-embed-ly-1ec383faeb50-guide",
+  "title": "How to Deploy embed.ly in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-embed-ly-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for embed.ly.",
+  "targetKeywords": [
+    "embed.ly",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://embed.ly/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting embed.ly with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

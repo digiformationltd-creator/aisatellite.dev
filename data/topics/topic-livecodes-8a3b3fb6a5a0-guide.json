@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-livecodes-8a3b3fb6a5a0-guide",
+  "title": "How to Deploy LiveCodes in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-livecodes-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LiveCodes.",
+  "targetKeywords": [
+    "LiveCodes",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://livecodes.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LiveCodes with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

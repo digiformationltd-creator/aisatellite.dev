@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-backendless-com-e1c109d383be-guide",
+  "title": "How to Deploy backendless.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-backendless-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for backendless.com.",
+  "targetKeywords": [
+    "backendless.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://backendless.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting backendless.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

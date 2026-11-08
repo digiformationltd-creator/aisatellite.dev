@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gerbera-a0131b11647a-guide",
+  "title": "How to Deploy Gerbera in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gerbera-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gerbera.",
+  "targetKeywords": [
+    "Gerbera",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gerbera.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Gerbera with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

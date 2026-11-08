@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dawarich-1e1259c29eee-guide",
+  "title": "How to Deploy Dawarich in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dawarich-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dawarich.",
+  "targetKeywords": [
+    "Dawarich",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dawarich.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dawarich with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

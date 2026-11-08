@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-synapse-56d6a3a6945d-guide",
+  "title": "How to Deploy Synapse in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-synapse-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Synapse.",
+  "targetKeywords": [
+    "Synapse",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://element-hq.github.io/synapse/latest/index.html"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Synapse with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-binshare-net-e2a474e7937a-guide",
+  "title": "How to Deploy BinShare.net in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-binshare-net-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BinShare.net.",
+  "targetKeywords": [
+    "BinShare.net",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://binshare.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BinShare.net with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

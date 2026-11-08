@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shipstatic-493524b61869-guide",
+  "title": "How to Deploy ShipStatic in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shipstatic-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ShipStatic.",
+  "targetKeywords": [
+    "ShipStatic",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://shipstatic.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ShipStatic with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

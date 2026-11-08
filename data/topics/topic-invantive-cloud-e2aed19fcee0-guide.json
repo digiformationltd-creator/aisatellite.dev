@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-invantive-cloud-e2aed19fcee0-guide",
+  "title": "How to Deploy Invantive Cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-invantive-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Invantive Cloud.",
+  "targetKeywords": [
+    "Invantive Cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.invantive.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Invantive Cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

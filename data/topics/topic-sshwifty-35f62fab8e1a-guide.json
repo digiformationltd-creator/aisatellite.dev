@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sshwifty-35f62fab8e1a-guide",
+  "title": "How to Deploy Sshwifty in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sshwifty-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sshwifty.",
+  "targetKeywords": [
+    "Sshwifty",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/nirui/sshwifty"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Sshwifty with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

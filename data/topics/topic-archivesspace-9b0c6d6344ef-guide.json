@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-archivesspace-9b0c6d6344ef-guide",
+  "title": "How to Deploy ArchivesSpace in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-archivesspace-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ArchivesSpace.",
+  "targetKeywords": [
+    "ArchivesSpace",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://archivesspace.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ArchivesSpace with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

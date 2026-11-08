@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fusion-95b0ade63324-guide",
+  "title": "How to Deploy Fusion in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fusion-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Fusion.",
+  "targetKeywords": [
+    "Fusion",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/0x2E/fusion"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Fusion with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

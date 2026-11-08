@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wistia-com-5695d041a775-guide",
+  "title": "How to Deploy wistia.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wistia-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for wistia.com.",
+  "targetKeywords": [
+    "wistia.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wistia.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting wistia.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.092Z"
+}

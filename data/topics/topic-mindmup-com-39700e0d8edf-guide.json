@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mindmup-com-39700e0d8edf-guide",
+  "title": "How to Deploy Mindmup.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mindmup-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mindmup.com.",
+  "targetKeywords": [
+    "Mindmup.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mindmup.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mindmup.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

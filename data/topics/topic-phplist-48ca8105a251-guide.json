@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-phplist-48ca8105a251-guide",
+  "title": "How to Deploy phpList in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-phplist-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for phpList.",
+  "targetKeywords": [
+    "phpList",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.phplist.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting phpList with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

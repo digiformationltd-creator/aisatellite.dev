@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-karaoke-eternal-73f5f8334b3e-guide",
+  "title": "How to Deploy Karaoke Eternal in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-karaoke-eternal-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Karaoke Eternal.",
+  "targetKeywords": [
+    "Karaoke Eternal",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.karaoke-eternal.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Karaoke Eternal with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

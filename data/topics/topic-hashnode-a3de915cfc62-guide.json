@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hashnode-a3de915cfc62-guide",
+  "title": "How to Deploy Hashnode in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hashnode-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hashnode.",
+  "targetKeywords": [
+    "Hashnode",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hashnode.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hashnode with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

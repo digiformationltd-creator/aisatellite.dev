@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fossil-326665a3cf85-guide",
+  "title": "How to Deploy Fossil in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fossil-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Fossil.",
+  "targetKeywords": [
+    "Fossil",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Fossil with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

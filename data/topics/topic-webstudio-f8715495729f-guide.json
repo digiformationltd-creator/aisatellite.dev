@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-webstudio-f8715495729f-guide",
+  "title": "How to Deploy Webstudio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-webstudio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Webstudio.",
+  "targetKeywords": [
+    "Webstudio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://webstudio.is/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Webstudio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.092Z"
+}

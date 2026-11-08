@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dataimporter-io-308bc2eb2b01-guide",
+  "title": "How to Deploy Dataimporter.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dataimporter-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dataimporter.io.",
+  "targetKeywords": [
+    "Dataimporter.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.dataimporter.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dataimporter.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

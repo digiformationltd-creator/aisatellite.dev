@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vaultwarden-4b5ff39c88f9-guide",
+  "title": "How to Deploy Vaultwarden in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vaultwarden-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Vaultwarden.",
+  "targetKeywords": [
+    "Vaultwarden",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/dani-garcia/vaultwarden"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Vaultwarden with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

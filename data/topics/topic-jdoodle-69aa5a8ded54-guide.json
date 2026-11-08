@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jdoodle-69aa5a8ded54-guide",
+  "title": "How to Deploy JDoodle in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jdoodle-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for JDoodle.",
+  "targetKeywords": [
+    "JDoodle",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.jdoodle.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting JDoodle with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

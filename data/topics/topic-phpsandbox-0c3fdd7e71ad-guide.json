@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-phpsandbox-0c3fdd7e71ad-guide",
+  "title": "How to Deploy PHPSandbox in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-phpsandbox-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PHPSandbox.",
+  "targetKeywords": [
+    "PHPSandbox",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://phpsandbox.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PHPSandbox with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

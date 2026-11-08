@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sweetuptime-66bf56c34bbc-guide",
+  "title": "How to Deploy SweetUptime in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sweetuptime-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SweetUptime.",
+  "targetKeywords": [
+    "SweetUptime",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dicloud.net/sweetuptime-server-uptime-monitoring/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SweetUptime with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

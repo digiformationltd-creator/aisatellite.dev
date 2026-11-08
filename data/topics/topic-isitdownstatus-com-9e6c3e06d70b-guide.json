@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-isitdownstatus-com-9e6c3e06d70b-guide",
+  "title": "How to Deploy isitdownstatus.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-isitdownstatus-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for isitdownstatus.com.",
+  "targetKeywords": [
+    "isitdownstatus.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://isitdownstatus.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting isitdownstatus.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

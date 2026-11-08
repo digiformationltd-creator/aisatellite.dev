@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-taskwarrior-b8478b89f4b9-guide",
+  "title": "How to Deploy Taskwarrior in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-taskwarrior-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Taskwarrior.",
+  "targetKeywords": [
+    "Taskwarrior",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://taskwarrior.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Taskwarrior with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

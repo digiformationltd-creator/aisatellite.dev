@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-magento-open-source-b1b23055fe8d-guide",
+  "title": "How to Deploy Magento Open Source in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-magento-open-source-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Magento Open Source.",
+  "targetKeywords": [
+    "Magento Open Source",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://business.adobe.com/products/magento/magento-commerce.html"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Magento Open Source with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vanilla-cookbook-6ab76071d7fd-guide",
+  "title": "How to Deploy Vanilla Cookbook in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vanilla-cookbook-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Vanilla Cookbook.",
+  "targetKeywords": [
+    "Vanilla Cookbook",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vanilla-cookbook.readthedocs.io/en/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Vanilla Cookbook with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

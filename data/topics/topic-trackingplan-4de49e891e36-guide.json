@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-trackingplan-4de49e891e36-guide",
+  "title": "How to Deploy Trackingplan in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-trackingplan-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Trackingplan.",
+  "targetKeywords": [
+    "Trackingplan",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.trackingplan.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Trackingplan with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

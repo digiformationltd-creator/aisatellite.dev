@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dnsexit-15d846a4fc2d-guide",
+  "title": "How to Deploy DNSExit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dnsexit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DNSExit.",
+  "targetKeywords": [
+    "DNSExit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dnsexit.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DNSExit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

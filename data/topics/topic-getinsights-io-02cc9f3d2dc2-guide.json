@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-getinsights-io-02cc9f3d2dc2-guide",
+  "title": "How to Deploy getinsights.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-getinsights-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for getinsights.io.",
+  "targetKeywords": [
+    "getinsights.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://getinsights.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting getinsights.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

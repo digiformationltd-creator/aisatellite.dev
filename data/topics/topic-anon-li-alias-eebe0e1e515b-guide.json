@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-anon-li-alias-eebe0e1e515b-guide",
+  "title": "How to Deploy anon.li Alias in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-anon-li-alias-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for anon.li Alias.",
+  "targetKeywords": [
+    "anon.li Alias",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://anon.li/alias"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting anon.li Alias with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

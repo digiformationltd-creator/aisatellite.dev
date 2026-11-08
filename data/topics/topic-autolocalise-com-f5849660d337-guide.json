@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-autolocalise-com-f5849660d337-guide",
+  "title": "How to Deploy AutoLocalise.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-autolocalise-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AutoLocalise.com.",
+  "targetKeywords": [
+    "AutoLocalise.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.autolocalise.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AutoLocalise.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

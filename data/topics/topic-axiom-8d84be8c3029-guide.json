@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-axiom-8d84be8c3029-guide",
+  "title": "How to Deploy Axiom in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-axiom-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Axiom.",
+  "targetKeywords": [
+    "Axiom",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://axiom.co/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Axiom with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

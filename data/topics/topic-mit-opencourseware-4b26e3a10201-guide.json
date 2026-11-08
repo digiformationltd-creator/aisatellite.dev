@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mit-opencourseware-4b26e3a10201-guide",
+  "title": "How to Deploy MIT OpenCourseWare in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mit-opencourseware-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MIT OpenCourseWare.",
+  "targetKeywords": [
+    "MIT OpenCourseWare",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ocw.mit.edu/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MIT OpenCourseWare with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

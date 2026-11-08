@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-free-ai-tools-alternatives",
+  "title": "Best Open-Source Alternatives in free-ai-tools: Evaluated Feature Parity & Security",
+  "slug": "top-open-source-alternatives-to-proprietary-free-ai-tools",
+  "category": "free-ai-tools",
+  "searchIntent": "Comparison of top open-source alternatives in free-ai-tools with verified licensing.",
+  "targetKeywords": [
+    "open source alternatives",
+    "free-ai-tools",
+    "self-hosted software",
+    "FOSS"
+  ],
+  "evidenceReferences": [
+    "https://github.com/w932635477-bit/aicalc"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "Provides verified migration paths from proprietary SaaS to open-source software in free-ai-tools.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

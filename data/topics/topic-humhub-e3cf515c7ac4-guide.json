@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-humhub-e3cf515c7ac4-guide",
+  "title": "How to Deploy HumHub in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-humhub-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HumHub.",
+  "targetKeywords": [
+    "HumHub",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.humhub.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HumHub with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-transmute-34d5863e891c-guide",
+  "title": "How to Deploy Transmute in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-transmute-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Transmute.",
+  "targetKeywords": [
+    "Transmute",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://transmute.sh"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Transmute with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

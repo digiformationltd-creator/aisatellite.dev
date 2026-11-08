@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-is-it-disposable-4a4da84c0ff1-guide",
+  "title": "How to Deploy Is It Disposable in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-is-it-disposable-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Is It Disposable.",
+  "targetKeywords": [
+    "Is It Disposable",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://isitdisposable.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Is It Disposable with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

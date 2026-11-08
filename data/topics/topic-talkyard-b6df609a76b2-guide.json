@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-talkyard-b6df609a76b2-guide",
+  "title": "How to Deploy Talkyard in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-talkyard-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Talkyard.",
+  "targetKeywords": [
+    "Talkyard",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.talkyard.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Talkyard with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

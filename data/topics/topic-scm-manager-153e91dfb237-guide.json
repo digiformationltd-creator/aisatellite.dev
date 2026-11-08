@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-scm-manager-153e91dfb237-guide",
+  "title": "How to Deploy SCM Manager in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-scm-manager-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SCM Manager.",
+  "targetKeywords": [
+    "SCM Manager",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.scm-manager.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SCM Manager with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

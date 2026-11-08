@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-siyuan-5e7cc0883b76-guide",
+  "title": "How to Deploy SiYuan in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-siyuan-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SiYuan.",
+  "targetKeywords": [
+    "SiYuan",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://b3log.org/siyuan/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SiYuan with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

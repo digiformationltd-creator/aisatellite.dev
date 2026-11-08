@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-privoxy-299e51488ebf-guide",
+  "title": "How to Deploy Privoxy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-privoxy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Privoxy.",
+  "targetKeywords": [
+    "Privoxy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.privoxy.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Privoxy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

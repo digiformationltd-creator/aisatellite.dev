@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-plone-aad020b3369a-guide",
+  "title": "How to Deploy Plone in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-plone-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Plone.",
+  "targetKeywords": [
+    "Plone",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://plone.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Plone with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

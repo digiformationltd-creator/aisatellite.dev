@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-salut-toi-a07e469a5009-guide",
+  "title": "How to Deploy Salut à Toi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-salut-toi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Salut à Toi.",
+  "targetKeywords": [
+    "Salut à Toi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.salut-a-toi.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Salut à Toi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

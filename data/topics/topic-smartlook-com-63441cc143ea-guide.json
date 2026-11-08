@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smartlook-com-63441cc143ea-guide",
+  "title": "How to Deploy smartlook.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smartlook-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for smartlook.com.",
+  "targetKeywords": [
+    "smartlook.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.smartlook.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting smartlook.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ethiodeploy-c0db2b858c75-guide",
+  "title": "How to Deploy EthioDeploy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ethiodeploy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for EthioDeploy.",
+  "targetKeywords": [
+    "EthioDeploy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ethiodeploy.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting EthioDeploy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ddracenetwork-9354e45b4f37-guide",
+  "title": "How to Deploy DDraceNetwork in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ddracenetwork-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DDraceNetwork.",
+  "targetKeywords": [
+    "DDraceNetwork",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ddnet.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DDraceNetwork with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

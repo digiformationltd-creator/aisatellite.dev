@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-quickchart-3d384d2d3034-guide",
+  "title": "How to Deploy QuickChart in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-quickchart-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for QuickChart.",
+  "targetKeywords": [
+    "QuickChart",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://quickchart.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting QuickChart with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

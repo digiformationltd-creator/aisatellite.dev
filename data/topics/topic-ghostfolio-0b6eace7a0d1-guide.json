@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ghostfolio-0b6eace7a0d1-guide",
+  "title": "How to Deploy Ghostfolio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ghostfolio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ghostfolio.",
+  "targetKeywords": [
+    "Ghostfolio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ghostfol.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ghostfolio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

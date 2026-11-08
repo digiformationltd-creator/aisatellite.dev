@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-crowdin-com-cad9ec2c1307-guide",
+  "title": "How to Deploy crowdin.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-crowdin-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for crowdin.com.",
+  "targetKeywords": [
+    "crowdin.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://crowdin.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting crowdin.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

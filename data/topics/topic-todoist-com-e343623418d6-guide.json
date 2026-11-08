@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-todoist-com-e343623418d6-guide",
+  "title": "How to Deploy todoist.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-todoist-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for todoist.com.",
+  "targetKeywords": [
+    "todoist.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://todoist.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting todoist.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

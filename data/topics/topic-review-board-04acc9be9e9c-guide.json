@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-review-board-04acc9be9e9c-guide",
+  "title": "How to Deploy Review Board in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-review-board-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Review Board.",
+  "targetKeywords": [
+    "Review Board",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.reviewboard.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Review Board with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

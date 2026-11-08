@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-diagrams-net-b829fabaec24-guide",
+  "title": "How to Deploy diagrams.net in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-diagrams-net-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for diagrams.net.",
+  "targetKeywords": [
+    "diagrams.net",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://app.diagrams.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting diagrams.net with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

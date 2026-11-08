@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fxratesapi-df1975b011af-guide",
+  "title": "How to Deploy FxRatesAPI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fxratesapi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FxRatesAPI.",
+  "targetKeywords": [
+    "FxRatesAPI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fxratesapi.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FxRatesAPI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

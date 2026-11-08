@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-freetools-site-2ca7ad704cf3-guide",
+  "title": "How to Deploy freetools.site in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-freetools-site-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for freetools.site.",
+  "targetKeywords": [
+    "freetools.site",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://freetools.site/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting freetools.site with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

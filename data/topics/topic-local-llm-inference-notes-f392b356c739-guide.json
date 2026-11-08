@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-local-llm-inference-notes-f392b356c739-guide",
+  "title": "How to Deploy local-llm-inference-notes in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-local-llm-inference-notes-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for local-llm-inference-notes.",
+  "targetKeywords": [
+    "local-llm-inference-notes",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Danielkgr/local-llm-inference-notes"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting local-llm-inference-notes with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-1-1-1-1-e1bef52382b2-guide",
+  "title": "How to Deploy 1.1.1.1 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-1-1-1-1-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for 1.1.1.1.",
+  "targetKeywords": [
+    "1.1.1.1",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developers.cloudflare.com/1.1.1.1/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting 1.1.1.1 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-polaris-bd10a105276e-guide",
+  "title": "How to Deploy Polaris in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-polaris-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Polaris.",
+  "targetKeywords": [
+    "Polaris",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/agersant/polaris"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Polaris with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

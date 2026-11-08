@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mindustry-d50c29d5360c-guide",
+  "title": "How to Deploy Mindustry in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mindustry-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mindustry.",
+  "targetKeywords": [
+    "Mindustry",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mindustrygame.github.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mindustry with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

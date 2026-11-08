@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-calendly-678953964196-guide",
+  "title": "How to Deploy Calendly in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-calendly-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Calendly.",
+  "targetKeywords": [
+    "Calendly",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://calendly.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Calendly with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

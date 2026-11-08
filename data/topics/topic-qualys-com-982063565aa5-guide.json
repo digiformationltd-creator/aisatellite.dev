@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-qualys-com-982063565aa5-guide",
+  "title": "How to Deploy qualys.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-qualys-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for qualys.com.",
+  "targetKeywords": [
+    "qualys.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.qualys.com/community-edition"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting qualys.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

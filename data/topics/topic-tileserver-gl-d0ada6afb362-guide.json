@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tileserver-gl-d0ada6afb362-guide",
+  "title": "How to Deploy TileServer GL in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tileserver-gl-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TileServer GL.",
+  "targetKeywords": [
+    "TileServer GL",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tileserver.readthedocs.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TileServer GL with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

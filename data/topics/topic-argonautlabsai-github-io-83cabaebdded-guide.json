@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-argonautlabsai-github-io-83cabaebdded-guide",
+  "title": "How to Deploy argonautlabsai.github.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-argonautlabsai-github-io-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for argonautlabsai.github.io.",
+  "targetKeywords": [
+    "argonautlabsai.github.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/argonautlabsai/argonautlabsai.github.io"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting argonautlabsai.github.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

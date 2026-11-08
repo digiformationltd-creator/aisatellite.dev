@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-the-odin-project-172e867b7a50-guide",
+  "title": "How to Deploy The Odin Project in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-the-odin-project-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for The Odin Project.",
+  "targetKeywords": [
+    "The Odin Project",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.theodinproject.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting The Odin Project with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

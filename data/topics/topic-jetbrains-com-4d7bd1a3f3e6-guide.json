@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jetbrains-com-4d7bd1a3f3e6-guide",
+  "title": "How to Deploy jetbrains.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jetbrains-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for jetbrains.com.",
+  "targetKeywords": [
+    "jetbrains.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jetbrains.com/products.html"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting jetbrains.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

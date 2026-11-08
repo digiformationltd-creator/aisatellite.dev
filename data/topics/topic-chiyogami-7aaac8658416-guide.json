@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-chiyogami-7aaac8658416-guide",
+  "title": "How to Deploy Chiyogami in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-chiyogami-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Chiyogami.",
+  "targetKeywords": [
+    "Chiyogami",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/rhee876527/chiyogami"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Chiyogami with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

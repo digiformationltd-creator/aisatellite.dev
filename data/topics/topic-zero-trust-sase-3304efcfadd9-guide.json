@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zero-trust-sase-3304efcfadd9-guide",
+  "title": "How to Deploy Zero Trust & SASE in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zero-trust-sase-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zero Trust & SASE.",
+  "targetKeywords": [
+    "Zero Trust & SASE",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cloudflare.com/plans/zero-trust-services/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zero Trust & SASE with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.092Z"
+}

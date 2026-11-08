@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pretix-66ad4eed7da3-guide",
+  "title": "How to Deploy Pretix in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pretix-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pretix.",
+  "targetKeywords": [
+    "Pretix",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pretix.eu/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pretix with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

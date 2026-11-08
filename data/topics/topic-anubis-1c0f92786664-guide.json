@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-anubis-1c0f92786664-guide",
+  "title": "How to Deploy Anubis in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-anubis-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Anubis.",
+  "targetKeywords": [
+    "Anubis",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://anubis.techaro.lol/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Anubis with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pastefy-7b0fbd9b3ae2-guide",
+  "title": "How to Deploy Pastefy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pastefy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pastefy.",
+  "targetKeywords": [
+    "Pastefy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pastefy.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pastefy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

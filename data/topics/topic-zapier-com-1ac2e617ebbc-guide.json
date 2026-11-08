@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zapier-com-1ac2e617ebbc-guide",
+  "title": "How to Deploy zapier.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zapier-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for zapier.com.",
+  "targetKeywords": [
+    "zapier.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zapier.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting zapier.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.092Z"
+}

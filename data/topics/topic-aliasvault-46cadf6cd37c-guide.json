@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aliasvault-46cadf6cd37c-guide",
+  "title": "How to Deploy AliasVault in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aliasvault-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AliasVault.",
+  "targetKeywords": [
+    "AliasVault",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.aliasvault.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AliasVault with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

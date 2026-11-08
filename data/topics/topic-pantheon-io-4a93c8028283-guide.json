@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pantheon-io-4a93c8028283-guide",
+  "title": "How to Deploy pantheon.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pantheon-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pantheon.io.",
+  "targetKeywords": [
+    "pantheon.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pantheon.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting pantheon.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-espial-00edfaacc7fd-guide",
+  "title": "How to Deploy Espial in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-espial-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Espial.",
+  "targetKeywords": [
+    "Espial",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/jonschoning/espial"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Espial with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

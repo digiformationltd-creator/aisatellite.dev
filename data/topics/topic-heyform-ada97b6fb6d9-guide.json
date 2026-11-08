@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-heyform-ada97b6fb6d9-guide",
+  "title": "How to Deploy HeyForm in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-heyform-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HeyForm.",
+  "targetKeywords": [
+    "HeyForm",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://heyform.net/",
+    "https://heyform.net"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting HeyForm with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

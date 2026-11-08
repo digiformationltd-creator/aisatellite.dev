@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-servervana-0d7d96a05b1b-guide",
+  "title": "How to Deploy Servervana in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-servervana-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Servervana.",
+  "targetKeywords": [
+    "Servervana",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://servervana.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Servervana with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

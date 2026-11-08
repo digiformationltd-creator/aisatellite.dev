@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-snapdeploy-853a36d2f0be-guide",
+  "title": "How to Deploy SnapDeploy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-snapdeploy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SnapDeploy.",
+  "targetKeywords": [
+    "SnapDeploy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://snapdeploy.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SnapDeploy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

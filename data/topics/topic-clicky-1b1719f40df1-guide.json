@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-clicky-1b1719f40df1-guide",
+  "title": "How to Deploy Clicky in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-clicky-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Clicky.",
+  "targetKeywords": [
+    "Clicky",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://clicky.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Clicky with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

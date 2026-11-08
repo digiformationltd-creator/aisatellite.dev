@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openemr-7f0c6ce72fab-guide",
+  "title": "How to Deploy OpenEMR in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openemr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenEMR.",
+  "targetKeywords": [
+    "OpenEMR",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.open-emr.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenEMR with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

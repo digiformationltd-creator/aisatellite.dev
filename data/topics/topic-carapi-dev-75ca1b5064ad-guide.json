@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-carapi-dev-75ca1b5064ad-guide",
+  "title": "How to Deploy CarAPI.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-carapi-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CarAPI.dev.",
+  "targetKeywords": [
+    "CarAPI.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://carapi.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CarAPI.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

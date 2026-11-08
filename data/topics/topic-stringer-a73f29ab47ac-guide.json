@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stringer-a73f29ab47ac-guide",
+  "title": "How to Deploy Stringer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stringer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Stringer.",
+  "targetKeywords": [
+    "Stringer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/stringer-rss/stringer"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Stringer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

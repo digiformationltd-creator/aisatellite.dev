@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-apaxy-9fac17488a48-guide",
+  "title": "How to Deploy Apaxy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-apaxy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Apaxy.",
+  "targetKeywords": [
+    "Apaxy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://oupala.github.io/apaxy/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Apaxy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

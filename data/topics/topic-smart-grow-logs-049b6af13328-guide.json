@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smart-grow-logs-049b6af13328-guide",
+  "title": "How to Deploy Smart Grow Logs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smart-grow-logs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Smart Grow Logs.",
+  "targetKeywords": [
+    "Smart Grow Logs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://logs.smart-grow.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Smart Grow Logs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

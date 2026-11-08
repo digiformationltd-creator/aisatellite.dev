@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-swag-secure-web-application-gateway-98571d893782-guide",
+  "title": "How to Deploy SWAG (Secure Web Application Gateway) in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-swag-secure-web-application-gateway--production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SWAG (Secure Web Application Gateway).",
+  "targetKeywords": [
+    "SWAG (Secure Web Application Gateway)",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/linuxserver/docker-swag"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting SWAG (Secure Web Application Gateway) with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

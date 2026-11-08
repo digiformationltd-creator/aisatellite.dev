@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rygel-530213cfee43-guide",
+  "title": "How to Deploy Rygel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rygel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Rygel.",
+  "targetKeywords": [
+    "Rygel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gnome.pages.gitlab.gnome.org/rygel/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Rygel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

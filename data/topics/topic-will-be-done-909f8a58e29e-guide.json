@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-will-be-done-909f8a58e29e-guide",
+  "title": "How to Deploy Will Be Done in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-will-be-done-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Will Be Done.",
+  "targetKeywords": [
+    "Will Be Done",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://will-be-done.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Will Be Done with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.092Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-clappia-6e6aef8dd3b8-guide",
+  "title": "How to Deploy Clappia in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-clappia-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Clappia.",
+  "targetKeywords": [
+    "Clappia",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.clappia.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Clappia with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

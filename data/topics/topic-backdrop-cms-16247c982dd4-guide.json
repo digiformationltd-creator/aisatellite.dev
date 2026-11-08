@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-backdrop-cms-16247c982dd4-guide",
+  "title": "How to Deploy Backdrop CMS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-backdrop-cms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Backdrop CMS.",
+  "targetKeywords": [
+    "Backdrop CMS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://backdropcms.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Backdrop CMS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

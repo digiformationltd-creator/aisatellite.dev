@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-codspeed-7067e71a917f-guide",
+  "title": "How to Deploy CodSpeed in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-codspeed-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CodSpeed.",
+  "targetKeywords": [
+    "CodSpeed",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://codspeed.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CodSpeed with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

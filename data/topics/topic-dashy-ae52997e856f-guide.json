@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dashy-ae52997e856f-guide",
+  "title": "How to Deploy Dashy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dashy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dashy.",
+  "targetKeywords": [
+    "Dashy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dashy.to/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dashy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

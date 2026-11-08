@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-samvera-hyrax-94f7bf436390-guide",
+  "title": "How to Deploy Samvera Hyrax in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-samvera-hyrax-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Samvera Hyrax.",
+  "targetKeywords": [
+    "Samvera Hyrax",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://samvera.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Samvera Hyrax with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

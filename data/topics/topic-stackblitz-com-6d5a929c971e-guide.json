@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stackblitz-com-6d5a929c971e-guide",
+  "title": "How to Deploy stackblitz.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stackblitz-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for stackblitz.com.",
+  "targetKeywords": [
+    "stackblitz.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stackblitz.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting stackblitz.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

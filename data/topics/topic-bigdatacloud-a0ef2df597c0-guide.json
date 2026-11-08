@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bigdatacloud-a0ef2df597c0-guide",
+  "title": "How to Deploy BigDataCloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bigdatacloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BigDataCloud.",
+  "targetKeywords": [
+    "BigDataCloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.bigdatacloud.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BigDataCloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

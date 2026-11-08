@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cdox-d22277b48ac6-guide",
+  "title": "How to Deploy cDox in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cdox-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cDox.",
+  "targetKeywords": [
+    "cDox",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cdox.ca"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cDox with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

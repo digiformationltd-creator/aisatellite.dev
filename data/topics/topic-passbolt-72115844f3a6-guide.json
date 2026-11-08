@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-passbolt-72115844f3a6-guide",
+  "title": "How to Deploy Passbolt in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-passbolt-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Passbolt.",
+  "targetKeywords": [
+    "Passbolt",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.passbolt.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Passbolt with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-azure-kubernetes-service-a07fa3b2b0e0-guide",
+  "title": "How to Deploy Azure Kubernetes Service in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-azure-kubernetes-service-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Azure Kubernetes Service.",
+  "targetKeywords": [
+    "Azure Kubernetes Service",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/kubernetes-service/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Azure Kubernetes Service with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

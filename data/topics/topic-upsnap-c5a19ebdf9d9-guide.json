@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-upsnap-c5a19ebdf9d9-guide",
+  "title": "How to Deploy Upsnap in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-upsnap-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Upsnap.",
+  "targetKeywords": [
+    "Upsnap",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/seriousm4x/UpSnap"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Upsnap with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

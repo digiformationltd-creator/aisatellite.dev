@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-coupler-09c2f809aebd-guide",
+  "title": "How to Deploy Coupler in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-coupler-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Coupler.",
+  "targetKeywords": [
+    "Coupler",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.coupler.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Coupler with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

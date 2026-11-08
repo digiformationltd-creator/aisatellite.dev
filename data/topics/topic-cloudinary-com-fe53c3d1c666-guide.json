@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloudinary-com-fe53c3d1c666-guide",
+  "title": "How to Deploy cloudinary.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloudinary-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cloudinary.com.",
+  "targetKeywords": [
+    "cloudinary.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloudinary.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cloudinary.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

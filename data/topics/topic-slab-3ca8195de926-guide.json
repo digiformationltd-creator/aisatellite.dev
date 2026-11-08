@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-slab-3ca8195de926-guide",
+  "title": "How to Deploy Slab in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-slab-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Slab.",
+  "targetKeywords": [
+    "Slab",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://slab.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Slab with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

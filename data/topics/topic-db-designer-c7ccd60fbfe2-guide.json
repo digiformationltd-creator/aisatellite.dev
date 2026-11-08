@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-db-designer-c7ccd60fbfe2-guide",
+  "title": "How to Deploy DB Designer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-db-designer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DB Designer.",
+  "targetKeywords": [
+    "DB Designer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.dbdesigner.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DB Designer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

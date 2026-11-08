@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zoneedit-com-4932303b3e67-guide",
+  "title": "How to Deploy zoneedit.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zoneedit-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for zoneedit.com.",
+  "targetKeywords": [
+    "zoneedit.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.zoneedit.com/free-dns/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting zoneedit.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.092Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-transmission-5bf3361680ce-guide",
+  "title": "How to Deploy Transmission in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-transmission-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Transmission.",
+  "targetKeywords": [
+    "Transmission",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://transmissionbt.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Transmission with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

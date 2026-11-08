@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sure-2f31f6b854b3-guide",
+  "title": "How to Deploy Sure in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sure-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sure.",
+  "targetKeywords": [
+    "Sure",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/we-promise/sure"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Sure with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

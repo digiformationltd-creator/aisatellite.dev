@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-readthedocs-org-347eee381de4-guide",
+  "title": "How to Deploy readthedocs.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-readthedocs-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for readthedocs.org.",
+  "targetKeywords": [
+    "readthedocs.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://readthedocs.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting readthedocs.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

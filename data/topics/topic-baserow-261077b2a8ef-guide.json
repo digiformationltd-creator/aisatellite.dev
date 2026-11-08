@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-baserow-261077b2a8ef-guide",
+  "title": "How to Deploy Baserow in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-baserow-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Baserow.",
+  "targetKeywords": [
+    "Baserow",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://baserow.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Baserow with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

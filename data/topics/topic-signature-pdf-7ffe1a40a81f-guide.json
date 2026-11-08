@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-signature-pdf-7ffe1a40a81f-guide",
+  "title": "How to Deploy Signature PDF in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-signature-pdf-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Signature PDF.",
+  "targetKeywords": [
+    "Signature PDF",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/24eme/signaturepdf"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Signature PDF with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

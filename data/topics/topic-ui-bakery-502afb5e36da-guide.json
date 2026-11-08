@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ui-bakery-502afb5e36da-guide",
+  "title": "How to Deploy UI Bakery in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ui-bakery-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for UI Bakery.",
+  "targetKeywords": [
+    "UI Bakery",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://uibakery.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting UI Bakery with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

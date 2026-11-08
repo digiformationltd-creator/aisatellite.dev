@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-handbrake-web-a43c2630d4aa-guide",
+  "title": "How to Deploy HandBrake Web in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-handbrake-web-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HandBrake Web.",
+  "targetKeywords": [
+    "HandBrake Web",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/TheNickOfTime/handbrake-web"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting HandBrake Web with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.090Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fusio-d2d58f37ea65-guide",
+  "title": "How to Deploy Fusio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fusio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Fusio.",
+  "targetKeywords": [
+    "Fusio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.fusio-project.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Fusio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

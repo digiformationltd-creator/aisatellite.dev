@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-tyk-d5e311d9f54a-guide",
+  "title": "How to Deploy Tyk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tyk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tyk.",
+  "targetKeywords": [
+    "Tyk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tyk.io/",
+    "https://tyk.io"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting Tyk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

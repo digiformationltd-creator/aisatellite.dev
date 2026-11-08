@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-activepieces-2c0e8fad4caa-guide",
+  "title": "How to Deploy Activepieces in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-activepieces-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Activepieces.",
+  "targetKeywords": [
+    "Activepieces",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.activepieces.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Activepieces with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

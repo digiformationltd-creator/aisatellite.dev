@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tiki-da2dacb4fe40-guide",
+  "title": "How to Deploy Tiki in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tiki-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tiki.",
+  "targetKeywords": [
+    "Tiki",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tiki.org/HomePage"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tiki with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

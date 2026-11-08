@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openhab-663623ea2b38-guide",
+  "title": "How to Deploy openHAB in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openhab-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for openHAB.",
+  "targetKeywords": [
+    "openHAB",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.openhab.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting openHAB with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

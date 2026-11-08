@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bunny-d9a40d08b5b8-guide",
+  "title": "How to Deploy Bunny in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bunny-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bunny.",
+  "targetKeywords": [
+    "Bunny",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fonts.bunny.net"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Bunny with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-squidex-e01cd5d8f54a-guide",
+  "title": "How to Deploy Squidex in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-squidex-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Squidex.",
+  "targetKeywords": [
+    "Squidex",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://squidex.io/",
+    "https://squidex.io"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting Squidex with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

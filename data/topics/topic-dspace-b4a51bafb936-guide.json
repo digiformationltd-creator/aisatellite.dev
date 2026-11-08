@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dspace-b4a51bafb936-guide",
+  "title": "How to Deploy DSpace in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dspace-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DSpace.",
+  "targetKeywords": [
+    "DSpace",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "http://www.dspace.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DSpace with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.089Z"
+}

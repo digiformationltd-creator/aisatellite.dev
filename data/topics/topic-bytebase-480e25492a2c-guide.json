@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bytebase-480e25492a2c-guide",
+  "title": "How to Deploy Bytebase in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bytebase-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bytebase.",
+  "targetKeywords": [
+    "Bytebase",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.bytebase.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bytebase with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.088Z"
+}

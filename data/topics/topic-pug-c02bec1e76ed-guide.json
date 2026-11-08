@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pug-c02bec1e76ed-guide",
+  "title": "How to Deploy Pug in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pug-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pug.",
+  "targetKeywords": [
+    "Pug",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pug.sh"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pug with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}

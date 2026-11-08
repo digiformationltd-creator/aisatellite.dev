@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-restdb-io-cc5b1a898847-guide",
+  "title": "How to Deploy restdb.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-restdb-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for restdb.io.",
+  "targetKeywords": [
+    "restdb.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://restdb.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting restdb.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-08T11:06:02.091Z"
+}
