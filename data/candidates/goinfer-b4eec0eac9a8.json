@@ -32,13 +32,11 @@
   "freeTierLimitations": [],
   "githubStars": 26,
   "githubForks": 6,
-  "lastRepositoryUpdate": "2026-11-06T06:22:50Z",
+  "lastRepositoryUpdate": "2026-11-08T05:54:39Z",
   "evidenceUrls": [
     "https://github.com/townsendmerino/goinfer"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:28.562Z",
-  "updatedAt": "2026-11-06T07:30:28.562Z",
-  "lastVerified": "2026-11-07T08:36:08.862Z",
-  "qualityScore": 80
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:18.119Z",
+  "updatedAt": "2026-11-08T06:50:18.119Z"
 }

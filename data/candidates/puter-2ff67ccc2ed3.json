@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://puter.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z",
-  "lastVerified": "2026-11-07T08:43:21.437Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:17.043Z",
+  "updatedAt": "2026-11-08T06:50:17.043Z"
 }

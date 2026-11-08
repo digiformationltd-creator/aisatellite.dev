@@ -1,0 +1,38 @@
+{
+  "id": "hearth-webui-ai-4201c12886da",
+  "canonicalUrl": "https://github.com/smasvel/hearth.webui.ai",
+  "name": "hearth.webui.ai",
+  "description": "Hearth — Free Local AI WebUI, access anywhere for Agentic Workflows and Model Testing with Tailscale connection",
+  "category": "local-llm",
+  "tags": [
+    "https-proxy",
+    "llm",
+    "llm-agents",
+    "llm-evaluation",
+    "llm-inference",
+    "llm-security",
+    "llm-tools",
+    "local-ai",
+    "localhost",
+    "openai",
+    "openai-api",
+    "opencode",
+    "opencode-ai",
+    "opencode-go",
+    "opencode-skills",
+    "tailscale-exit-node",
+    "webui"
+  ],
+  "repositoryUrl": "https://github.com/smasvel/hearth.webui.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-08T04:32:32Z",
+  "evidenceUrls": [
+    "https://github.com/smasvel/hearth.webui.ai"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:18.119Z",
+  "updatedAt": "2026-11-08T06:50:18.119Z"
+}

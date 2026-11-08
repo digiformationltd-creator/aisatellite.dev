@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/root-gg/plik"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.403Z",
-  "updatedAt": "2026-11-07T06:43:50.403Z",
-  "lastVerified": "2026-11-07T08:42:37.816Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:17.043Z",
+  "updatedAt": "2026-11-08T06:50:17.043Z"
 }

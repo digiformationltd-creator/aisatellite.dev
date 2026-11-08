@@ -1,0 +1,31 @@
+{
+  "id": "agentisland-096dfa4ea347",
+  "canonicalUrl": "https://github.com/R3dra1n/AgentIsland",
+  "name": "AgentIsland",
+  "description": "Dynamic-Island-style macOS HUD for AI coding assistants (Codex, Antigravity, Claude Code) · macOS 灵动岛式 AI 编程助手状态悬浮窗",
+  "category": "ai-coding",
+  "tags": [
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "dynamic-island",
+    "macos",
+    "menu-bar",
+    "swift",
+    "swiftui"
+  ],
+  "repositoryUrl": "https://github.com/R3dra1n/AgentIsland",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/R3dra1n/AgentIsland/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-08T05:08:30Z",
+  "evidenceUrls": [
+    "https://github.com/R3dra1n/AgentIsland"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:18.480Z",
+  "updatedAt": "2026-11-08T06:50:18.480Z"
+}

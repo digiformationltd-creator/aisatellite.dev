@@ -1,0 +1,42 @@
+{
+  "id": "aix-vault-74d775a63f69",
+  "canonicalUrl": "https://github.com/hariharan-uiux/aix-vault",
+  "name": "aix-vault",
+  "description": "AIX Vault is your all‑in‑one dashboard for discovering the best developer and design tools—search, filter, and explore 125+ hand‑picked resources instantly in a clean, single‑screen interface that keeps your workflow fast and inspired.",
+  "category": "free-ai-tools",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "coding",
+    "coding-agent",
+    "collection",
+    "design",
+    "design-system",
+    "design-tool",
+    "design-tools",
+    "designer",
+    "developer-tools",
+    "devops-tools",
+    "devtools",
+    "free",
+    "freetools",
+    "repository",
+    "resources",
+    "vault"
+  ],
+  "repositoryUrl": "https://github.com/hariharan-uiux/aix-vault",
+  "officialUrl": "https://hello.aixvault.workers.dev/",
+  "documentationUrl": "https://hello.aixvault.workers.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-07T17:54:25Z",
+  "evidenceUrls": [
+    "https://github.com/hariharan-uiux/aix-vault"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:17.627Z",
+  "updatedAt": "2026-11-08T06:50:17.627Z"
+}

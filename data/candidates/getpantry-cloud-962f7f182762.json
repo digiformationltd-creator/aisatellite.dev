@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://getpantry.cloud/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.295Z",
-  "updatedAt": "2026-11-07T06:43:50.295Z",
-  "lastVerified": "2026-11-07T08:35:42.460Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:16.893Z",
+  "updatedAt": "2026-11-08T06:50:16.893Z"
 }

@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://docs.standardnotes.com/self-hosting/getting-started"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.406Z",
-  "updatedAt": "2026-11-07T06:43:50.406Z",
-  "lastVerified": "2026-11-07T08:46:35.529Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:17.046Z",
+  "updatedAt": "2026-11-08T06:50:17.046Z"
 }

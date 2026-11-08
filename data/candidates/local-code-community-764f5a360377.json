@@ -29,15 +29,13 @@
   "licenseEvidenceUrl": "https://github.com/drawthingsai/local-code-community/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 126,
+  "githubStars": 127,
   "githubForks": 10,
-  "lastRepositoryUpdate": "2026-11-07T03:54:33Z",
+  "lastRepositoryUpdate": "2026-11-08T05:57:03Z",
   "evidenceUrls": [
     "https://github.com/drawthingsai/local-code-community"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:51.434Z",
-  "updatedAt": "2026-11-07T06:43:51.434Z",
-  "lastVerified": "2026-11-07T08:38:54.083Z",
-  "qualityScore": 92
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:18.119Z",
+  "updatedAt": "2026-11-08T06:50:18.119Z"
 }

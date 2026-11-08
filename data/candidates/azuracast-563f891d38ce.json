@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.azuracast.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.405Z",
-  "updatedAt": "2026-11-07T06:43:50.405Z",
-  "lastVerified": "2026-11-07T08:29:56.661Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:17.045Z",
+  "updatedAt": "2026-11-08T06:50:17.045Z"
 }

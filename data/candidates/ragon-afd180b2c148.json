@@ -29,13 +29,11 @@
   "freeTierLimitations": [],
   "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-06T07:14:05Z",
+  "lastRepositoryUpdate": "2026-11-08T05:40:39Z",
   "evidenceUrls": [
     "https://github.com/dreamference/ragon"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:28.562Z",
-  "updatedAt": "2026-11-06T07:30:28.562Z",
-  "lastVerified": "2026-11-07T08:43:41.368Z",
-  "qualityScore": 78
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:18.119Z",
+  "updatedAt": "2026-11-08T06:50:18.119Z"
 }

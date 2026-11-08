@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://lastping.dev"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.288Z",
-  "updatedAt": "2026-11-07T06:43:50.288Z",
-  "lastVerified": "2026-11-07T08:38:26.825Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:16.886Z",
+  "updatedAt": "2026-11-08T06:50:16.886Z"
 }

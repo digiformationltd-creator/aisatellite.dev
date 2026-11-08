@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/Sathvik-Rao/ClipCascade"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.405Z",
-  "updatedAt": "2026-11-07T06:43:50.405Z",
-  "lastVerified": "2026-11-07T08:31:16.191Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:17.046Z",
+  "updatedAt": "2026-11-08T06:50:17.046Z"
 }

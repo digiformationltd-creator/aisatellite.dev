@@ -24,13 +24,11 @@
   "freeTierLimitations": [],
   "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-06T17:14:17Z",
+  "lastRepositoryUpdate": "2026-11-07T16:08:24Z",
   "evidenceUrls": [
     "https://github.com/w932635477-bit/aicalc"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.896Z",
-  "updatedAt": "2026-11-07T06:43:50.896Z",
-  "lastVerified": "2026-11-07T08:29:04.303Z",
-  "qualityScore": 78
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:17.627Z",
+  "updatedAt": "2026-11-08T06:50:17.627Z"
 }

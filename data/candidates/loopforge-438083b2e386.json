@@ -1,0 +1,43 @@
+{
+  "id": "loopforge-438083b2e386",
+  "canonicalUrl": "https://github.com/Tencent/LoopForge",
+  "name": "LoopForge",
+  "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+  "category": "ai-coding",
+  "tags": [
+    "agent-orchestration",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "code-review",
+    "codebuddy",
+    "codex",
+    "coding-agents",
+    "cursor",
+    "developer-tools",
+    "human-on-the-loop",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "sdlc",
+    "self-hosted",
+    "sop",
+    "workflow-automation",
+    "workflow-engine"
+  ],
+  "repositoryUrl": "https://github.com/Tencent/LoopForge",
+  "officialUrl": "https://loopforge.cn",
+  "documentationUrl": "https://loopforge.cn",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 148,
+  "githubForks": 28,
+  "lastRepositoryUpdate": "2026-11-08T05:06:32Z",
+  "evidenceUrls": [
+    "https://github.com/Tencent/LoopForge"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:18.480Z",
+  "updatedAt": "2026-11-08T06:50:18.480Z"
+}

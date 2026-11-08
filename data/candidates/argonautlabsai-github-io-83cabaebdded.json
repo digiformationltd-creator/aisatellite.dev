@@ -1,0 +1,29 @@
+{
+  "id": "argonautlabsai-github-io-83cabaebdded",
+  "canonicalUrl": "https://github.com/argonautlabsai/argonautlabsai.github.io",
+  "name": "argonautlabsai.github.io",
+  "description": "Argonaut Labs: local AI inference research, Kimi 3.1 on one GPU, DeepSeek and GLM benchmarks, CUDA and NVMe expert streaming. Source for argonautlabs.ai.",
+  "category": "local-llm",
+  "tags": [
+    "benchmarks",
+    "cuda",
+    "kimi-k3-1",
+    "llm-inference",
+    "local-ai",
+    "nvme"
+  ],
+  "repositoryUrl": "https://github.com/argonautlabsai/argonautlabsai.github.io",
+  "officialUrl": "https://argonautlabs.ai/",
+  "documentationUrl": "https://argonautlabs.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-08T06:10:59Z",
+  "evidenceUrls": [
+    "https://github.com/argonautlabsai/argonautlabsai.github.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:18.118Z",
+  "updatedAt": "2026-11-08T06:50:18.118Z"
+}

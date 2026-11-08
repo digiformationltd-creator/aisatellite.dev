@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.typeform.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.293Z",
-  "updatedAt": "2026-11-07T06:43:50.293Z",
-  "lastVerified": "2026-11-07T08:48:25.165Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:16.891Z",
+  "updatedAt": "2026-11-08T06:50:16.891Z"
 }

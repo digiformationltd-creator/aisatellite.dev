@@ -1,0 +1,20 @@
+{
+  "id": "uppcoder-4c4e1a9ee654",
+  "canonicalUrl": "https://portal.uppcoder.com/",
+  "name": "Uppcoder",
+  "description": "Full stack development environment hosted on own infrastructure with selectable framework, db engine behind https with ssh access, vscode + terminal in the editor. Free tier: always on, 2GB disk and 2GB ram. No card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://portal.uppcoder.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://portal.uppcoder.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:16.892Z",
+  "updatedAt": "2026-11-08T06:50:16.892Z"
+}

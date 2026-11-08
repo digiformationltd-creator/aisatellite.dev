@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://haraka.github.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.402Z",
-  "updatedAt": "2026-11-07T06:43:50.402Z",
-  "lastVerified": "2026-11-07T08:36:28.335Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:17.040Z",
+  "updatedAt": "2026-11-08T06:50:17.040Z"
 }

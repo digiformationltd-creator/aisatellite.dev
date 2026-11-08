@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://httpd.apache.org/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.407Z",
-  "updatedAt": "2026-11-07T06:43:50.407Z",
-  "lastVerified": "2026-11-07T08:29:29.122Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:17.048Z",
+  "updatedAt": "2026-11-08T06:50:17.048Z"
 }

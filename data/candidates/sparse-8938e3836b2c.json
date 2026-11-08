@@ -1,0 +1,28 @@
+{
+  "id": "sparse-8938e3836b2c",
+  "canonicalUrl": "https://github.com/Sparse-Agent/Sparse",
+  "name": "Sparse",
+  "description": "AI assistant and coding agent that picks the right model for every task: fast, cheap models for routine work, frontier models for the hard parts. Plans, edits and checks code as reviewable diffs. Desktop app, CLI and MCP server.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-agent",
+    "ai-coding",
+    "developer-tools",
+    "electron",
+    "llm",
+    "mcp",
+    "openrouter"
+  ],
+  "repositoryUrl": "https://github.com/Sparse-Agent/Sparse",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-08T05:07:02Z",
+  "evidenceUrls": [
+    "https://github.com/Sparse-Agent/Sparse"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:18.480Z",
+  "updatedAt": "2026-11-08T06:50:18.480Z"
+}

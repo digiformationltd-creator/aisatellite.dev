@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://scalekit.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:50.287Z",
-  "updatedAt": "2026-11-07T06:43:50.287Z",
-  "lastVerified": "2026-11-07T08:44:58.359Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-08T06:50:16.885Z",
+  "updatedAt": "2026-11-08T06:50:16.885Z"
 }
