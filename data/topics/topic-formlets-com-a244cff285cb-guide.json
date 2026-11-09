@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-formlets-com-a244cff285cb-guide",
+  "title": "How to Deploy formlets.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-formlets-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for formlets.com.",
+  "targetKeywords": [
+    "formlets.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://formlets.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting formlets.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-umbraco-d13006c76bbf-guide",
+  "title": "How to Deploy Umbraco in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-umbraco-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Umbraco.",
+  "targetKeywords": [
+    "Umbraco",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://umbraco.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Umbraco with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

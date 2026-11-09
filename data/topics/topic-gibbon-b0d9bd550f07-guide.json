@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gibbon-b0d9bd550f07-guide",
+  "title": "How to Deploy Gibbon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gibbon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gibbon.",
+  "targetKeywords": [
+    "Gibbon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gibbonedu.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Gibbon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.306Z"
+}

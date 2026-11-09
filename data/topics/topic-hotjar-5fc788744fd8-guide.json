@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hotjar-5fc788744fd8-guide",
+  "title": "How to Deploy Hotjar in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hotjar-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hotjar.",
+  "targetKeywords": [
+    "Hotjar",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hotjar.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hotjar with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

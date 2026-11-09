@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sync-in-d252621bdb27-guide",
+  "title": "How to Deploy Sync-in in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sync-in-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sync-in.",
+  "targetKeywords": [
+    "Sync-in",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sync-in.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sync-in with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

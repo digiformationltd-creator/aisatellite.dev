@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pijul-com-1eaa3c41a976-guide",
+  "title": "How to Deploy pijul.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pijul-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pijul.com.",
+  "targetKeywords": [
+    "pijul.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pijul.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting pijul.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

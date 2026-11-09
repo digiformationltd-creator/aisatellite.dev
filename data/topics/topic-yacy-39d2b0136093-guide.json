@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-yacy-39d2b0136093-guide",
+  "title": "How to Deploy Yacy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-yacy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Yacy.",
+  "targetKeywords": [
+    "Yacy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://yacy.net/en/index.html"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Yacy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

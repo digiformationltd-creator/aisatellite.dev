@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-noip-at-0b6f3a399b8a-guide",
+  "title": "How to Deploy noip.at in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-noip-at-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for noip.at.",
+  "targetKeywords": [
+    "noip.at",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://noip.at/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting noip.at with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

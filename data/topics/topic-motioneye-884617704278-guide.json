@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-motioneye-884617704278-guide",
+  "title": "How to Deploy motionEye in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-motioneye-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for motionEye.",
+  "targetKeywords": [
+    "motionEye",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/motioneye-project/motioneye"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting motionEye with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

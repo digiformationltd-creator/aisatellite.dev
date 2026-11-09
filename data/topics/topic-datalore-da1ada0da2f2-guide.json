@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-datalore-da1ada0da2f2-guide",
+  "title": "How to Deploy Datalore in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-datalore-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Datalore.",
+  "targetKeywords": [
+    "Datalore",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://datalore.jetbrains.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Datalore with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-langwatch-ad1b97c279b9-guide",
+  "title": "How to Deploy LangWatch in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-langwatch-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LangWatch.",
+  "targetKeywords": [
+    "LangWatch",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://langwatch.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LangWatch with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

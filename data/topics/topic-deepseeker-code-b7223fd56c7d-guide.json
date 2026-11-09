@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deepseeker-code-b7223fd56c7d-guide",
+  "title": "How to Deploy deepseeker-code in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deepseeker-code-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for deepseeker-code.",
+  "targetKeywords": [
+    "deepseeker-code",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/xknk/deepseeker-code"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting deepseeker-code with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-genealogy-7b8ea84d873c-guide",
+  "title": "How to Deploy Genealogy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-genealogy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Genealogy.",
+  "targetKeywords": [
+    "Genealogy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://genealogy.kreaweb.be/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Genealogy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.306Z"
+}

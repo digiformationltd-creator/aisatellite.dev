@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-keila-d6a0d14009a1-guide",
+  "title": "How to Deploy Keila in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-keila-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Keila.",
+  "targetKeywords": [
+    "Keila",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.keila.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Keila with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

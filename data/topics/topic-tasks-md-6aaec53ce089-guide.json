@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tasks-md-6aaec53ce089-guide",
+  "title": "How to Deploy Tasks.md in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tasks-md-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tasks.md.",
+  "targetKeywords": [
+    "Tasks.md",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/BaldissaraMatheus/Tasks.md"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Tasks.md with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

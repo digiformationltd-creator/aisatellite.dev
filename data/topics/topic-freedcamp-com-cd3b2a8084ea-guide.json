@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-freedcamp-com-cd3b2a8084ea-guide",
+  "title": "How to Deploy freedcamp.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-freedcamp-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for freedcamp.com.",
+  "targetKeywords": [
+    "freedcamp.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://freedcamp.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting freedcamp.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

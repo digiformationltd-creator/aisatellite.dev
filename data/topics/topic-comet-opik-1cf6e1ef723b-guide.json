@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-comet-opik-1cf6e1ef723b-guide",
+  "title": "How to Deploy Comet Opik in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-comet-opik-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Comet Opik.",
+  "targetKeywords": [
+    "Comet Opik",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.comet.com/site/products/opik/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Comet Opik with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

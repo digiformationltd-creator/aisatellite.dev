@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kavita-1290a07a0a8a-guide",
+  "title": "How to Deploy Kavita in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kavita-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kavita.",
+  "targetKeywords": [
+    "Kavita",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.kavitareader.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kavita with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

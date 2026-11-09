@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-snapshooter-6e1c20f7b24a-guide",
+  "title": "How to Deploy SnapShooter in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-snapshooter-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SnapShooter.",
+  "targetKeywords": [
+    "SnapShooter",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://snapshooter.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SnapShooter with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-artalk-845e82aee35b-guide",
+  "title": "How to Deploy Artalk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-artalk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Artalk.",
+  "targetKeywords": [
+    "Artalk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://artalk.js.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Artalk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

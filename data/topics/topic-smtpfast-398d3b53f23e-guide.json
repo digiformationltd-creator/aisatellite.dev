@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smtpfast-398d3b53f23e-guide",
+  "title": "How to Deploy SMTPfast in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smtpfast-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SMTPfast.",
+  "targetKeywords": [
+    "SMTPfast",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://smtpfa.st/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SMTPfast with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

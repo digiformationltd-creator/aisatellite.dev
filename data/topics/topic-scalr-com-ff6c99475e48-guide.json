@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-scalr-com-ff6c99475e48-guide",
+  "title": "How to Deploy scalr.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-scalr-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for scalr.com.",
+  "targetKeywords": [
+    "scalr.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://scalr.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting scalr.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-beampipe-io-9184158c1f5a-guide",
+  "title": "How to Deploy Beampipe.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-beampipe-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Beampipe.io.",
+  "targetKeywords": [
+    "Beampipe.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://beampipe.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Beampipe.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

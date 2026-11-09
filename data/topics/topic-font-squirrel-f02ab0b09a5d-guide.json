@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-font-squirrel-f02ab0b09a5d-guide",
+  "title": "How to Deploy Font Squirrel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-font-squirrel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Font Squirrel.",
+  "targetKeywords": [
+    "Font Squirrel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.fontsquirrel.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Font Squirrel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

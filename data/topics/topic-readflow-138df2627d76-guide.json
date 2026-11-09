@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-readflow-138df2627d76-guide",
+  "title": "How to Deploy Readflow in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-readflow-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Readflow.",
+  "targetKeywords": [
+    "Readflow",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://readflow.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Readflow with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

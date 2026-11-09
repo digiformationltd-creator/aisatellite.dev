@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-databases-alternatives",
+  "title": "Best Open-Source Alternatives in databases: Evaluated Feature Parity & Security",
+  "slug": "top-open-source-alternatives-to-proprietary-databases",
+  "category": "databases",
+  "searchIntent": "Comparison of top open-source alternatives in databases with verified licensing.",
+  "targetKeywords": [
+    "open source alternatives",
+    "databases",
+    "self-hosted software",
+    "FOSS"
+  ],
+  "evidenceReferences": [
+    "https://aisatellite.pages.dev"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "Provides verified migration paths from proprietary SaaS to open-source software in databases.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ip-geolocation-1570fa7bb936-guide",
+  "title": "How to Deploy IP Geolocation in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ip-geolocation-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IP Geolocation.",
+  "targetKeywords": [
+    "IP Geolocation",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ipgeolocation.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IP Geolocation with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

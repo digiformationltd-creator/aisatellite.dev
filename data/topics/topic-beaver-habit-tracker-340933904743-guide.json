@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-beaver-habit-tracker-340933904743-guide",
+  "title": "How to Deploy Beaver Habit Tracker in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-beaver-habit-tracker-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Beaver Habit Tracker.",
+  "targetKeywords": [
+    "Beaver Habit Tracker",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/daya0576/beaverhabits"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Beaver Habit Tracker with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

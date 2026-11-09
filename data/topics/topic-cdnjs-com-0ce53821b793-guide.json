@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cdnjs-com-0ce53821b793-guide",
+  "title": "How to Deploy cdnjs.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cdnjs-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cdnjs.com.",
+  "targetKeywords": [
+    "cdnjs.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cdnjs.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cdnjs.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

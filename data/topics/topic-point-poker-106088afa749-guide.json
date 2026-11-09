@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-point-poker-106088afa749-guide",
+  "title": "How to Deploy point.poker in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-point-poker-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for point.poker.",
+  "targetKeywords": [
+    "point.poker",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.point.poker/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting point.poker with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

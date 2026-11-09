@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aleph-f478c5de1ec7-guide",
+  "title": "How to Deploy Aleph in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aleph-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Aleph.",
+  "targetKeywords": [
+    "Aleph",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://aleph.occrp.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Aleph with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mjlab-ai-migration-toolkit-f3be101a29fb-guide",
+  "title": "How to Deploy mjlab-ai-migration-toolkit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mjlab-ai-migration-toolkit-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mjlab-ai-migration-toolkit.",
+  "targetKeywords": [
+    "mjlab-ai-migration-toolkit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/chaitanya-aws/mjlab-ai-migration-toolkit"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting mjlab-ai-migration-toolkit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

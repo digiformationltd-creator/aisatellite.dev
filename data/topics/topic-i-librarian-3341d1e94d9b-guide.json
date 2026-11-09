@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-i-librarian-3341d1e94d9b-guide",
+  "title": "How to Deploy I, Librarian in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-i-librarian-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for I, Librarian.",
+  "targetKeywords": [
+    "I, Librarian",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://i-librarian.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting I, Librarian with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

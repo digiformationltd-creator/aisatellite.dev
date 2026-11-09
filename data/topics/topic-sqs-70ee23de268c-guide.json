@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sqs-70ee23de268c-guide",
+  "title": "How to Deploy SQS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sqs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SQS.",
+  "targetKeywords": [
+    "SQS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://aws.amazon.com/sqs/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SQS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

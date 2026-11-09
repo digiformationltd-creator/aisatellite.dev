@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cyrus-imap-7ce20ab9a86f-guide",
+  "title": "How to Deploy Cyrus IMAP in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cyrus-imap-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cyrus IMAP.",
+  "targetKeywords": [
+    "Cyrus IMAP",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cyrusimap.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cyrus IMAP with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dynamic-document-api-d6138425f6e4-guide",
+  "title": "How to Deploy Dynamic Document API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dynamic-document-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dynamic Document API.",
+  "targetKeywords": [
+    "Dynamic Document API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dynamicdocumentapi.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dynamic Document API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

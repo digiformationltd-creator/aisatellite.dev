@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-known-55d02655a879-guide",
+  "title": "How to Deploy Known in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-known-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Known.",
+  "targetKeywords": [
+    "Known",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://withknown.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Known with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

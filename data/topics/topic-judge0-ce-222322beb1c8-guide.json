@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-judge0-ce-222322beb1c8-guide",
+  "title": "How to Deploy Judge0 CE in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-judge0-ce-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Judge0 CE.",
+  "targetKeywords": [
+    "Judge0 CE",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://judge0.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Judge0 CE with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

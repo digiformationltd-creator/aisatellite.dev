@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hortusfox-a7b7d8f4cd79-guide",
+  "title": "How to Deploy HortusFox in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hortusfox-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HortusFox.",
+  "targetKeywords": [
+    "HortusFox",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hortusfox.github.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HortusFox with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

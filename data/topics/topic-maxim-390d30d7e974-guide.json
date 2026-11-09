@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-maxim-390d30d7e974-guide",
+  "title": "How to Deploy Maxim in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-maxim-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Maxim.",
+  "targetKeywords": [
+    "Maxim",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.getmaxim.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Maxim with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-google-colab-0e02299d261e-guide",
+  "title": "How to Deploy Google Colab in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-google-colab-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Google Colab.",
+  "targetKeywords": [
+    "Google Colab",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://colab.research.google.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Google Colab with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.306Z"
+}

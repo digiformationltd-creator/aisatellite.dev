@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sucuri-sitecheck-fbc382ca64f7-guide",
+  "title": "How to Deploy Sucuri SiteCheck in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sucuri-sitecheck-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sucuri SiteCheck.",
+  "targetKeywords": [
+    "Sucuri SiteCheck",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sitecheck.sucuri.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sucuri SiteCheck with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

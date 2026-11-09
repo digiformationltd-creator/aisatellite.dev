@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-farmos-3fc281a4a25d-guide",
+  "title": "How to Deploy farmOS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-farmos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for farmOS.",
+  "targetKeywords": [
+    "farmOS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://farmos.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting farmOS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

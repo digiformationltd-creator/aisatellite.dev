@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sender-5bb9b25d5309-guide",
+  "title": "How to Deploy Sender in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sender-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sender.",
+  "targetKeywords": [
+    "Sender",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.sender.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sender with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

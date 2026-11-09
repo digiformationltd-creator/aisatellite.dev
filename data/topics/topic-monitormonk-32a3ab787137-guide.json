@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-monitormonk-32a3ab787137-guide",
+  "title": "How to Deploy MonitorMonk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-monitormonk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MonitorMonk.",
+  "targetKeywords": [
+    "MonitorMonk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://monitormonk.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MonitorMonk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

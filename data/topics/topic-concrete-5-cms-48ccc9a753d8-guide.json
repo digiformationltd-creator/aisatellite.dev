@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-concrete-5-cms-48ccc9a753d8-guide",
+  "title": "How to Deploy Concrete 5 CMS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-concrete-5-cms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Concrete 5 CMS.",
+  "targetKeywords": [
+    "Concrete 5 CMS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.concretecms.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Concrete 5 CMS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

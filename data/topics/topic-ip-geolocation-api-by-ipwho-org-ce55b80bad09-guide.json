@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ip-geolocation-api-by-ipwho-org-ce55b80bad09-guide",
+  "title": "How to Deploy IP Geolocation API by ipwho.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ip-geolocation-api-by-ipwho-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IP Geolocation API by ipwho.org.",
+  "targetKeywords": [
+    "IP Geolocation API by ipwho.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ipwho.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IP Geolocation API by ipwho.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

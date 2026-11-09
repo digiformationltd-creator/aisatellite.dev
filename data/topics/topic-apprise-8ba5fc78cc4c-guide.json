@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-apprise-8ba5fc78cc4c-guide",
+  "title": "How to Deploy Apprise in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-apprise-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Apprise.",
+  "targetKeywords": [
+    "Apprise",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/caronc/apprise"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Apprise with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

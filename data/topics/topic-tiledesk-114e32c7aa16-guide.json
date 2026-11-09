@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tiledesk-114e32c7aa16-guide",
+  "title": "How to Deploy Tiledesk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tiledesk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tiledesk.",
+  "targetKeywords": [
+    "Tiledesk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tiledesk.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tiledesk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

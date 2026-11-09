@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cybershield-studio-2c5d6fcb1104-guide",
+  "title": "How to Deploy CyberShield Studio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cybershield-studio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CyberShield Studio.",
+  "targetKeywords": [
+    "CyberShield Studio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cybershieldstudio.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CyberShield Studio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

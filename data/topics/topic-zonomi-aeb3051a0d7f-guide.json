@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zonomi-aeb3051a0d7f-guide",
+  "title": "How to Deploy Zonomi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zonomi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zonomi.",
+  "targetKeywords": [
+    "Zonomi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zonomi.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zonomi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

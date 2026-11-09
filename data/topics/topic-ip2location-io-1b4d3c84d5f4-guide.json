@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ip2location-io-1b4d3c84d5f4-guide",
+  "title": "How to Deploy IP2Location.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ip2location-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IP2Location.io.",
+  "targetKeywords": [
+    "IP2Location.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.ip2location.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IP2Location.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

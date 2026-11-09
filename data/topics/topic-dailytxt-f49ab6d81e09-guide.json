@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dailytxt-f49ab6d81e09-guide",
+  "title": "How to Deploy DailyTxT in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dailytxt-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DailyTxT.",
+  "targetKeywords": [
+    "DailyTxT",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/PhiTux/DailyTxT"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting DailyTxT with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

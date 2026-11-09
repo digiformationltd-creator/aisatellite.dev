@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gobookmarks-8a6817373de9-guide",
+  "title": "How to Deploy gobookmarks in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gobookmarks-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for gobookmarks.",
+  "targetKeywords": [
+    "gobookmarks",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/arran4/gobookmarks"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting gobookmarks with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.306Z"
+}

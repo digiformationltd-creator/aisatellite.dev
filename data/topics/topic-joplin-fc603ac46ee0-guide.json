@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-joplin-fc603ac46ee0-guide",
+  "title": "How to Deploy Joplin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-joplin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Joplin.",
+  "targetKeywords": [
+    "Joplin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://joplinapp.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Joplin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

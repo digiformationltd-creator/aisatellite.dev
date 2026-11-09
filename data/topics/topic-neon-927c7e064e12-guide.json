@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-neon-927c7e064e12-guide",
+  "title": "How to Deploy Neon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-neon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Neon.",
+  "targetKeywords": [
+    "Neon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://neon.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Neon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-positionstack-9c0e8bf9c24b-guide",
+  "title": "How to Deploy positionstack in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-positionstack-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for positionstack.",
+  "targetKeywords": [
+    "positionstack",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://positionstack.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting positionstack with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

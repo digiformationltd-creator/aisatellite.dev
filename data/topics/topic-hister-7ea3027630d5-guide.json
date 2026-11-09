@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hister-7ea3027630d5-guide",
+  "title": "How to Deploy Hister in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hister-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hister.",
+  "targetKeywords": [
+    "Hister",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hister.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hister with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

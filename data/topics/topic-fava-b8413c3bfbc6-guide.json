@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fava-b8413c3bfbc6-guide",
+  "title": "How to Deploy Fava in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fava-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Fava.",
+  "targetKeywords": [
+    "Fava",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://beancount.github.io/fava/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Fava with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fluidforms-2eaddee22735-guide",
+  "title": "How to Deploy FluidForms in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fluidforms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FluidForms.",
+  "targetKeywords": [
+    "FluidForms",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fluidforms.ai/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FluidForms with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

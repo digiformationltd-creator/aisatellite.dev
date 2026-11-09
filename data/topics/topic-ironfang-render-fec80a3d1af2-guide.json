@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ironfang-render-fec80a3d1af2-guide",
+  "title": "How to Deploy Ironfang Render in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ironfang-render-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ironfang Render.",
+  "targetKeywords": [
+    "Ironfang Render",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ironfang.com/render"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ironfang Render with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kiwi-irc-904ad8a424b0-guide",
+  "title": "How to Deploy Kiwi IRC in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kiwi-irc-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kiwi IRC.",
+  "targetKeywords": [
+    "Kiwi IRC",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kiwiirc.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kiwi IRC with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

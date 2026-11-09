@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jsoning-005c3e5cf24a-guide",
+  "title": "How to Deploy JSONing in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jsoning-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for JSONing.",
+  "targetKeywords": [
+    "JSONing",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jsoning.com/api/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting JSONing with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

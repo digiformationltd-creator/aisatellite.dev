@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-container-registry-service-366aabfbb41d-guide",
+  "title": "How to Deploy Container Registry Service in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-container-registry-service-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Container Registry Service.",
+  "targetKeywords": [
+    "Container Registry Service",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://container-registry.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Container Registry Service with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-loomio-ddb78a2fe1c4-guide",
+  "title": "How to Deploy Loomio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-loomio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Loomio.",
+  "targetKeywords": [
+    "Loomio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.loomio.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Loomio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

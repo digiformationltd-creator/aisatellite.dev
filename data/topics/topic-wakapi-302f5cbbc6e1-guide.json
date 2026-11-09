@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wakapi-302f5cbbc6e1-guide",
+  "title": "How to Deploy Wakapi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wakapi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Wakapi.",
+  "targetKeywords": [
+    "Wakapi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wakapi.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Wakapi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

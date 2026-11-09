@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kiwix-serve-62476485b3b5-guide",
+  "title": "How to Deploy kiwix-serve in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kiwix-serve-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for kiwix-serve.",
+  "targetKeywords": [
+    "kiwix-serve",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/kiwix/kiwix-tools"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting kiwix-serve with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

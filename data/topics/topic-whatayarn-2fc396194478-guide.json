@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-whatayarn-2fc396194478-guide",
+  "title": "How to Deploy whatayarn in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-whatayarn-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for whatayarn.",
+  "targetKeywords": [
+    "whatayarn",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://whatayarn.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting whatayarn with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

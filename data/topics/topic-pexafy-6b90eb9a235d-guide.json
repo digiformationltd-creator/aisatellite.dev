@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pexafy-6b90eb9a235d-guide",
+  "title": "How to Deploy Pexafy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pexafy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pexafy.",
+  "targetKeywords": [
+    "Pexafy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.pexafy.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pexafy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

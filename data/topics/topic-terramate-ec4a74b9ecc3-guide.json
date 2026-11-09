@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-terramate-ec4a74b9ecc3-guide",
+  "title": "How to Deploy Terramate in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-terramate-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Terramate.",
+  "targetKeywords": [
+    "Terramate",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://terramate.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Terramate with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

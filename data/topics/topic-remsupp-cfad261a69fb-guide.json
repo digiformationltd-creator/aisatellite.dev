@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-remsupp-cfad261a69fb-guide",
+  "title": "How to Deploy RemSupp in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-remsupp-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RemSupp.",
+  "targetKeywords": [
+    "RemSupp",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://remsupp.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RemSupp with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cacoo-com-8849dfd1a7de-guide",
+  "title": "How to Deploy cacoo.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cacoo-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cacoo.com.",
+  "targetKeywords": [
+    "cacoo.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cacoo.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cacoo.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-esper-c76322a72f71-guide",
+  "title": "How to Deploy Esper in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-esper-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Esper.",
+  "targetKeywords": [
+    "Esper",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://esper.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Esper with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-syncthing-8b39515aa6bc-guide",
+  "title": "How to Deploy Syncthing in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-syncthing-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Syncthing.",
+  "targetKeywords": [
+    "Syncthing",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://syncthing.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Syncthing with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

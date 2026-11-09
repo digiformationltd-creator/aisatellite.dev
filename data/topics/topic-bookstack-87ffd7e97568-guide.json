@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bookstack-87ffd7e97568-guide",
+  "title": "How to Deploy BookStack in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bookstack-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BookStack.",
+  "targetKeywords": [
+    "BookStack",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.bookstackapp.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BookStack with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

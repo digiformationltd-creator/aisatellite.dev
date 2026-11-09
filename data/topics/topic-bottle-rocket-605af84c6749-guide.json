@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bottle-rocket-605af84c6749-guide",
+  "title": "How to Deploy Bottle Rocket in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bottle-rocket-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bottle Rocket.",
+  "targetKeywords": [
+    "Bottle Rocket",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bottle-rocket.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bottle Rocket with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

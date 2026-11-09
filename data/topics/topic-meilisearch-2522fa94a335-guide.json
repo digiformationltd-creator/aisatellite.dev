@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-meilisearch-2522fa94a335-guide",
+  "title": "How to Deploy MeiliSearch in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-meilisearch-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MeiliSearch.",
+  "targetKeywords": [
+    "MeiliSearch",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.meilisearch.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MeiliSearch with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

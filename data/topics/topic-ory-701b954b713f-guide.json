@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ory-701b954b713f-guide",
+  "title": "How to Deploy Ory in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ory-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ory.",
+  "targetKeywords": [
+    "Ory",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ory.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ory with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

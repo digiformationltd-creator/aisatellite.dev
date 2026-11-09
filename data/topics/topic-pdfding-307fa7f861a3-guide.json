@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pdfding-307fa7f861a3-guide",
+  "title": "How to Deploy PdfDing in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pdfding-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PdfDing.",
+  "targetKeywords": [
+    "PdfDing",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.pdfding.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PdfDing with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

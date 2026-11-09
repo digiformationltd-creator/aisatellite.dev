@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kyoo-bd59d1b1c55e-guide",
+  "title": "How to Deploy Kyoo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kyoo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kyoo.",
+  "targetKeywords": [
+    "Kyoo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/zoriya/kyoo"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Kyoo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

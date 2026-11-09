@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ipapi-cc9d46e63229-guide",
+  "title": "How to Deploy ipapi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ipapi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ipapi.",
+  "targetKeywords": [
+    "ipapi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ipapi.co/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ipapi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

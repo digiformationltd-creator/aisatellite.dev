@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-piler-53dc3006ea1b-guide",
+  "title": "How to Deploy Piler in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-piler-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Piler.",
+  "targetKeywords": [
+    "Piler",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mailpiler.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Piler with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

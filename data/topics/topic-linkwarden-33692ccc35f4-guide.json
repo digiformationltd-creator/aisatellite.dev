@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-linkwarden-33692ccc35f4-guide",
+  "title": "How to Deploy LinkWarden in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-linkwarden-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LinkWarden.",
+  "targetKeywords": [
+    "LinkWarden",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://linkwarden.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LinkWarden with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

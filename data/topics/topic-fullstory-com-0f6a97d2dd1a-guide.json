@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fullstory-com-0f6a97d2dd1a-guide",
+  "title": "How to Deploy FullStory.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fullstory-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FullStory.com.",
+  "targetKeywords": [
+    "FullStory.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.fullstory.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FullStory.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.306Z"
+}

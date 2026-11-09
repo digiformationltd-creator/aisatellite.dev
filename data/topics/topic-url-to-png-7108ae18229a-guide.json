@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-url-to-png-7108ae18229a-guide",
+  "title": "How to Deploy URL-to-PNG in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-url-to-png-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for URL-to-PNG.",
+  "targetKeywords": [
+    "URL-to-PNG",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/jasonraimondi/url-to-png"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting URL-to-PNG with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

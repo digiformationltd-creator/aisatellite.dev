@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-orsiktop-5596b8256b25-guide",
+  "title": "How to Deploy OrsikTop in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-orsiktop-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OrsikTop.",
+  "targetKeywords": [
+    "OrsikTop",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/exclude-barrier/OrsikTop"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting OrsikTop with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

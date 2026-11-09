@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pumble-b7bbeb6073e6-guide",
+  "title": "How to Deploy Pumble in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pumble-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pumble.",
+  "targetKeywords": [
+    "Pumble",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pumble.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pumble with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

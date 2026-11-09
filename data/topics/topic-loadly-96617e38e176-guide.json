@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-loadly-96617e38e176-guide",
+  "title": "How to Deploy Loadly in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-loadly-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Loadly.",
+  "targetKeywords": [
+    "Loadly",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://loadly.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Loadly with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

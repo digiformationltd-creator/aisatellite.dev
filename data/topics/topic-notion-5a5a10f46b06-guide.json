@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-notion-5a5a10f46b06-guide",
+  "title": "How to Deploy Notion in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-notion-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Notion.",
+  "targetKeywords": [
+    "Notion",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.notion.so/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Notion with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

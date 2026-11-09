@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-canvas-lms-3b3b201ea79c-guide",
+  "title": "How to Deploy Canvas LMS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-canvas-lms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Canvas LMS.",
+  "targetKeywords": [
+    "Canvas LMS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.instructure.com/canvas/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Canvas LMS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

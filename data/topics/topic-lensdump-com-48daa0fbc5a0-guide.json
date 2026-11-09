@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lensdump-com-48daa0fbc5a0-guide",
+  "title": "How to Deploy lensdump.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lensdump-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for lensdump.com.",
+  "targetKeywords": [
+    "lensdump.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://lensdump.com/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting lensdump.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

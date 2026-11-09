@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-counter-dev-fd1bcc0c311d-guide",
+  "title": "How to Deploy counter.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-counter-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for counter.dev.",
+  "targetKeywords": [
+    "counter.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://counter.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting counter.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-keploy-6e94bfeda12b-guide",
+  "title": "How to Deploy Keploy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-keploy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Keploy.",
+  "targetKeywords": [
+    "Keploy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://keploy.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Keploy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

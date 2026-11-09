@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-webscraping-ai-9f5edbb251c4-guide",
+  "title": "How to Deploy WebScraping.AI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-webscraping-ai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WebScraping.AI.",
+  "targetKeywords": [
+    "WebScraping.AI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://webscraping.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting WebScraping.AI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

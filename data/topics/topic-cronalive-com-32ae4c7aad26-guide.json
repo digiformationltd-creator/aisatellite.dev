@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cronalive-com-32ae4c7aad26-guide",
+  "title": "How to Deploy cronalive.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cronalive-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cronalive.com.",
+  "targetKeywords": [
+    "cronalive.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cronalive.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cronalive.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

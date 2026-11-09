@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-g3proxy-134311cb4b47-guide",
+  "title": "How to Deploy g3proxy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-g3proxy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for g3proxy.",
+  "targetKeywords": [
+    "g3proxy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://g3-project.readthedocs.io/projects/g3proxy/en/latest/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting g3proxy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.306Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pin-feed-dcb835c9ac83-guide",
+  "title": "How to Deploy Pin Feed in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pin-feed-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pin Feed.",
+  "targetKeywords": [
+    "Pin Feed",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pinfeed.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pin Feed with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

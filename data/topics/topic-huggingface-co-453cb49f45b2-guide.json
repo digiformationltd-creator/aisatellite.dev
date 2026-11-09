@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-huggingface-co-453cb49f45b2-guide",
+  "title": "How to Deploy huggingface.co in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-huggingface-co-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for huggingface.co.",
+  "targetKeywords": [
+    "huggingface.co",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://huggingface.co"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting huggingface.co with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-screenshot-scout-8dc493577ce1-guide",
+  "title": "How to Deploy Screenshot Scout in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-screenshot-scout-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Screenshot Scout.",
+  "targetKeywords": [
+    "Screenshot Scout",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://screenshotscout.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Screenshot Scout with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

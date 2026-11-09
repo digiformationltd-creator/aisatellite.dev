@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-billdog-io-53698c77dcab-guide",
+  "title": "How to Deploy BillDog.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-billdog-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BillDog.io.",
+  "targetKeywords": [
+    "BillDog.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://billdog.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BillDog.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

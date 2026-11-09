@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bugfender-com-90237f31420a-guide",
+  "title": "How to Deploy bugfender.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bugfender-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for bugfender.com.",
+  "targetKeywords": [
+    "bugfender.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bugfender.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting bugfender.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

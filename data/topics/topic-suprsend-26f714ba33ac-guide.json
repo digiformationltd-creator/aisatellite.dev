@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-suprsend-26f714ba33ac-guide",
+  "title": "How to Deploy SuprSend in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-suprsend-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SuprSend.",
+  "targetKeywords": [
+    "SuprSend",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.suprsend.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SuprSend with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

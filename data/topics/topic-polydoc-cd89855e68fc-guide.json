@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-polydoc-cd89855e68fc-guide",
+  "title": "How to Deploy PolyDoc in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-polydoc-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PolyDoc.",
+  "targetKeywords": [
+    "PolyDoc",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://polydoc.tech"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PolyDoc with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

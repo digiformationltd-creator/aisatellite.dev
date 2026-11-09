@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-chasquid-eee68b6e66a6-guide",
+  "title": "How to Deploy chasquid in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-chasquid-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for chasquid.",
+  "targetKeywords": [
+    "chasquid",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://blitiri.com.ar/p/chasquid/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting chasquid with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

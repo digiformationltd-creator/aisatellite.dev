@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-everything-fonts-ef1cb08dcc18-guide",
+  "title": "How to Deploy Everything Fonts in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-everything-fonts-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Everything Fonts.",
+  "targetKeywords": [
+    "Everything Fonts",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://everythingfonts.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Everything Fonts with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

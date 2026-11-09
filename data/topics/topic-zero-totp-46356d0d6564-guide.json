@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zero-totp-46356d0d6564-guide",
+  "title": "How to Deploy Zero-TOTP in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zero-totp-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zero-TOTP.",
+  "targetKeywords": [
+    "Zero-TOTP",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zero-totp.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zero-TOTP with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tomorrow-io-weather-api-55237b9fb0ac-guide",
+  "title": "How to Deploy Tomorrow.io Weather API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tomorrow-io-weather-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tomorrow.io Weather API.",
+  "targetKeywords": [
+    "Tomorrow.io Weather API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.tomorrow.io/weather-api/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tomorrow.io Weather API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

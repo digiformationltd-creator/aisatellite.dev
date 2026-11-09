@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gair-63c326f4bc34-guide",
+  "title": "How to Deploy Gairė in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gair--production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gairė.",
+  "targetKeywords": [
+    "Gairė",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gaire.lt/en"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Gairė with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.306Z"
+}

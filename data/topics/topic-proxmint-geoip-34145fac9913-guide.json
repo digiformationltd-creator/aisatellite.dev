@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-proxmint-geoip-34145fac9913-guide",
+  "title": "How to Deploy Proxmint GeoIP in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-proxmint-geoip-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Proxmint GeoIP.",
+  "targetKeywords": [
+    "Proxmint GeoIP",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://proxmint.com/tools/ip-lookup"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Proxmint GeoIP with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

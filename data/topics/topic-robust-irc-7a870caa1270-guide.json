@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-robust-irc-7a870caa1270-guide",
+  "title": "How to Deploy Robust IRC in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-robust-irc-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Robust IRC.",
+  "targetKeywords": [
+    "Robust IRC",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://robustirc.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Robust IRC with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

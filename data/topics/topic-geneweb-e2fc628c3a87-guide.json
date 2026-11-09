@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-geneweb-e2fc628c3a87-guide",
+  "title": "How to Deploy GeneWeb in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-geneweb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GeneWeb.",
+  "targetKeywords": [
+    "GeneWeb",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/geneweb/geneweb/wiki"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting GeneWeb with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.306Z"
+}

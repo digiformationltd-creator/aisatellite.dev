@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-booklogr-a52dbd8193f0-guide",
+  "title": "How to Deploy BookLogr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-booklogr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BookLogr.",
+  "targetKeywords": [
+    "BookLogr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Mozzo1000/booklogr"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting BookLogr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

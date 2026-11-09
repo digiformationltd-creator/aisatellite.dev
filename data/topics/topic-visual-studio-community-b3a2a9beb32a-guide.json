@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-visual-studio-community-b3a2a9beb32a-guide",
+  "title": "How to Deploy Visual Studio Community in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-visual-studio-community-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Visual Studio Community.",
+  "targetKeywords": [
+    "Visual Studio Community",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://visualstudio.microsoft.com/vs/community/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Visual Studio Community with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

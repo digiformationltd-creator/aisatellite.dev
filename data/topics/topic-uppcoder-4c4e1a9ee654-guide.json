@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-uppcoder-4c4e1a9ee654-guide",
+  "title": "How to Deploy Uppcoder in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-uppcoder-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Uppcoder.",
+  "targetKeywords": [
+    "Uppcoder",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://portal.uppcoder.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Uppcoder with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

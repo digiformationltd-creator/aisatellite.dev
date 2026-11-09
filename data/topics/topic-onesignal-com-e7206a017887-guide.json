@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-onesignal-com-e7206a017887-guide",
+  "title": "How to Deploy onesignal.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-onesignal-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for onesignal.com.",
+  "targetKeywords": [
+    "onesignal.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://onesignal.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting onesignal.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

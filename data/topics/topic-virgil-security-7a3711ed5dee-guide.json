@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-virgil-security-7a3711ed5dee-guide",
+  "title": "How to Deploy Virgil Security in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-virgil-security-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Virgil Security.",
+  "targetKeywords": [
+    "Virgil Security",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://virgilsecurity.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Virgil Security with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

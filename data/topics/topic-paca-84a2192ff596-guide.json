@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-paca-84a2192ff596-guide",
+  "title": "How to Deploy Paca in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-paca-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Paca.",
+  "targetKeywords": [
+    "Paca",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://paca-ai.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Paca with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

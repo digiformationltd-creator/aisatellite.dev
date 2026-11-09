@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zenko-cloudserver-9c63500f5a8e-guide",
+  "title": "How to Deploy Zenko CloudServer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zenko-cloudserver-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zenko CloudServer.",
+  "targetKeywords": [
+    "Zenko CloudServer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.zenko.io/cloudserver"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zenko CloudServer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

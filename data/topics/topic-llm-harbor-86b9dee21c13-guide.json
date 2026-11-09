@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-llm-harbor-86b9dee21c13-guide",
+  "title": "How to Deploy LLM Harbor in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-llm-harbor-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LLM Harbor.",
+  "targetKeywords": [
+    "LLM Harbor",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/av/harbor"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting LLM Harbor with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

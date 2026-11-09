@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-silverbullet-d244fab8e5b0-guide",
+  "title": "How to Deploy SilverBullet in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-silverbullet-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SilverBullet.",
+  "targetKeywords": [
+    "SilverBullet",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://silverbullet.md/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SilverBullet with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

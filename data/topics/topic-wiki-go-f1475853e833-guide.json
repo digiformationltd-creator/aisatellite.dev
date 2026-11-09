@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wiki-go-f1475853e833-guide",
+  "title": "How to Deploy Wiki-Go in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wiki-go-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Wiki-Go.",
+  "targetKeywords": [
+    "Wiki-Go",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://leomoon.com/downloads/web-apps/wiki-go/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Wiki-Go with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

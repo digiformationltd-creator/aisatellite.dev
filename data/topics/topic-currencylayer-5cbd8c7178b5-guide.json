@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-currencylayer-5cbd8c7178b5-guide",
+  "title": "How to Deploy currencylayer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-currencylayer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for currencylayer.",
+  "targetKeywords": [
+    "currencylayer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://currencylayer.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting currencylayer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

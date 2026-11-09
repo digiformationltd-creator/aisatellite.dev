@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-influxdb-079615f6cbb1-guide",
+  "title": "How to Deploy InfluxDB in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-influxdb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for InfluxDB.",
+  "targetKeywords": [
+    "InfluxDB",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.influxdata.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting InfluxDB with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

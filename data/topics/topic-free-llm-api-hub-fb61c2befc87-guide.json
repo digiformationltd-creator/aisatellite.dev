@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-free-llm-api-hub-fb61c2befc87-guide",
+  "title": "How to Deploy free-llm-api-hub in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-free-llm-api-hub-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for free-llm-api-hub.",
+  "targetKeywords": [
+    "free-llm-api-hub",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/pacocartones/free-llm-api-hub"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting free-llm-api-hub with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

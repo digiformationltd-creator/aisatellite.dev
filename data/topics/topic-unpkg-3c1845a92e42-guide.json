@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-unpkg-3c1845a92e42-guide",
+  "title": "How to Deploy UNPKG in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-unpkg-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for UNPKG.",
+  "targetKeywords": [
+    "UNPKG",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://unpkg.com/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting UNPKG with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

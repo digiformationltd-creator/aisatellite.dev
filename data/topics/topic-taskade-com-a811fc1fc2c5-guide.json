@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-taskade-com-a811fc1fc2c5-guide",
+  "title": "How to Deploy taskade.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-taskade-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for taskade.com.",
+  "targetKeywords": [
+    "taskade.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.taskade.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting taskade.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

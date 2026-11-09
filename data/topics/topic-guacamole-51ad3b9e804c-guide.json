@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-guacamole-51ad3b9e804c-guide",
+  "title": "How to Deploy Guacamole in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-guacamole-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Guacamole.",
+  "targetKeywords": [
+    "Guacamole",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://guacamole.apache.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Guacamole with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

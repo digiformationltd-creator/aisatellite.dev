@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cohesivity-34b630d8eb08-guide",
+  "title": "How to Deploy Cohesivity in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cohesivity-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cohesivity.",
+  "targetKeywords": [
+    "Cohesivity",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cohesivity.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cohesivity with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

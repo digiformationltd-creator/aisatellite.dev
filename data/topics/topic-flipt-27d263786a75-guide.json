@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-flipt-27d263786a75-guide",
+  "title": "How to Deploy Flipt in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-flipt-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Flipt.",
+  "targetKeywords": [
+    "Flipt",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://flipt.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Flipt with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

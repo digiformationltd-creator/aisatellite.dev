@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-canjean-95f950d1a908-guide",
+  "title": "How to Deploy Canjean in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-canjean-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Canjean.",
+  "targetKeywords": [
+    "Canjean",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://canjean.com/exchange-rate-api"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Canjean with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-plugnpin-c63f3b5d2f7f-guide",
+  "title": "How to Deploy PlugNPiN in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-plugnpin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PlugNPiN.",
+  "targetKeywords": [
+    "PlugNPiN",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://deepspace2.github.io/PlugNPiN"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PlugNPiN with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-garagehq-fd06b97b803f-guide",
+  "title": "How to Deploy GarageHQ in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-garagehq-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GarageHQ.",
+  "targetKeywords": [
+    "GarageHQ",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://garagehq.deuxfleurs.fr/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GarageHQ with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.306Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shopware-community-edition-592e6d609de6-guide",
+  "title": "How to Deploy Shopware Community Edition in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shopware-community-edition-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Shopware Community Edition.",
+  "targetKeywords": [
+    "Shopware Community Edition",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.shopware.com/en/community/community-edition/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Shopware Community Edition with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

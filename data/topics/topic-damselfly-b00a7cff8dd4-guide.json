@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-damselfly-b00a7cff8dd4-guide",
+  "title": "How to Deploy Damselfly in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-damselfly-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Damselfly.",
+  "targetKeywords": [
+    "Damselfly",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://damselfly.info"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Damselfly with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

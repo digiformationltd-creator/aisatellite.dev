@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lubelogger-f77f4c5b9627-guide",
+  "title": "How to Deploy LubeLogger in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lubelogger-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LubeLogger.",
+  "targetKeywords": [
+    "LubeLogger",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://lubelogger.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LubeLogger with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

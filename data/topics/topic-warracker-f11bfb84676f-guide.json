@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-warracker-f11bfb84676f-guide",
+  "title": "How to Deploy Warracker in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-warracker-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Warracker.",
+  "targetKeywords": [
+    "Warracker",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://warracker.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Warracker with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dockstarter-3c98674c22b9-guide",
+  "title": "How to Deploy DockSTARTer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dockstarter-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DockSTARTer.",
+  "targetKeywords": [
+    "DockSTARTer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dockstarter.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DockSTARTer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

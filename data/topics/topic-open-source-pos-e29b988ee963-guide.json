@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-open-source-pos-e29b988ee963-guide",
+  "title": "How to Deploy Open Source POS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-open-source-pos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Open Source POS.",
+  "targetKeywords": [
+    "Open Source POS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/opensourcepos/opensourcepos"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Open Source POS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.308Z"
+}

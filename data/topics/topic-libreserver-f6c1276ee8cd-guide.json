@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-libreserver-f6c1276ee8cd-guide",
+  "title": "How to Deploy LibreServer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-libreserver-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LibreServer.",
+  "targetKeywords": [
+    "LibreServer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://libreserver.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LibreServer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.307Z"
+}

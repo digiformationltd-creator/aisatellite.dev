@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fonts-xz-style-030daa6c89de-guide",
+  "title": "How to Deploy fonts.xz.style in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fonts-xz-style-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for fonts.xz.style.",
+  "targetKeywords": [
+    "fonts.xz.style",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fonts.xz.style/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting fonts.xz.style with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aide-60096145a707-guide",
+  "title": "How to Deploy aide in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aide-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for aide.",
+  "targetKeywords": [
+    "aide",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/ragnarwestad/aide"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting aide with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}

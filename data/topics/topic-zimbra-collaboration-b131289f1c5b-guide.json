@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zimbra-collaboration-b131289f1c5b-guide",
+  "title": "How to Deploy Zimbra Collaboration in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zimbra-collaboration-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zimbra Collaboration.",
+  "targetKeywords": [
+    "Zimbra Collaboration",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.zimbra.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zimbra Collaboration with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.309Z"
+}

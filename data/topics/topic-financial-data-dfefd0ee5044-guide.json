@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-financial-data-dfefd0ee5044-guide",
+  "title": "How to Deploy Financial Data in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-financial-data-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Financial Data.",
+  "targetKeywords": [
+    "Financial Data",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://financialdata.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Financial Data with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.305Z"
+}

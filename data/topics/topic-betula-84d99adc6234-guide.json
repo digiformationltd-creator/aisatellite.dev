@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-betula-84d99adc6234-guide",
+  "title": "How to Deploy Betula in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-betula-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Betula.",
+  "targetKeywords": [
+    "Betula",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://joinbetula.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Betula with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-09T12:36:14.304Z"
+}
