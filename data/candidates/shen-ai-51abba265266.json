@@ -35,10 +35,10 @@
   "evidenceUrls": [
     "https://github.com/shenald-dev/shen-ai"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:51.899Z",
   "updatedAt": "2026-11-07T06:43:51.899Z",
-  "lastVerified": "2026-11-07T08:45:28.557Z",
+  "lastVerified": "2026-11-09T09:37:15.206Z",
   "qualityScore": 89,
   "rejectionReason": "Canonical link unreachable"
 }

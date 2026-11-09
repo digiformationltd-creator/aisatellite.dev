@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/services/cosmos-db/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.585Z",
-  "updatedAt": "2026-11-09T07:28:34.585Z"
+  "updatedAt": "2026-11-09T07:28:34.585Z",
+  "lastVerified": "2026-11-09T09:23:47.184Z",
+  "qualityScore": 52
 }

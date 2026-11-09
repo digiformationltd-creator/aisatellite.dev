@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://formspree.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.591Z",
-  "updatedAt": "2026-11-09T07:28:34.591Z"
+  "updatedAt": "2026-11-09T07:28:34.591Z",
+  "lastVerified": "2026-11-09T09:26:48.761Z",
+  "qualityScore": 52
 }

@@ -30,8 +30,10 @@
   "evidenceUrls": [
     "https://github.com/shenxingy/Clade"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:18.480Z",
   "updatedAt": "2026-11-08T06:50:18.480Z",
-  "rejectionReason": "Canonical link unreachable"
+  "rejectionReason": "Canonical link unreachable",
+  "lastVerified": "2026-11-09T09:23:01.053Z",
+  "qualityScore": 89
 }

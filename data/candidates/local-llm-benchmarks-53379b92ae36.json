@@ -37,10 +37,10 @@
   "evidenceUrls": [
     "https://github.com/kr4ckhe4d/local-llm-benchmarks"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:28.562Z",
   "updatedAt": "2026-11-06T07:30:28.562Z",
-  "lastVerified": "2026-11-07T08:38:56.740Z",
+  "lastVerified": "2026-11-09T09:30:55.842Z",
   "qualityScore": 80,
   "rejectionReason": "Canonical link unreachable"
 }

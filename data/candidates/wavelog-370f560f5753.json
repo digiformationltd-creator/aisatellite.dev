@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.wavelog.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.697Z",
-  "updatedAt": "2026-11-09T07:28:34.697Z"
+  "updatedAt": "2026-11-09T07:28:34.697Z",
+  "lastVerified": "2026-11-09T09:41:22.461Z",
+  "qualityScore": 52
 }

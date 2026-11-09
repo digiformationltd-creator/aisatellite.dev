@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/bastienwirtz/homer"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.697Z",
-  "updatedAt": "2026-11-09T07:28:34.697Z"
+  "updatedAt": "2026-11-09T07:28:34.697Z",
+  "lastVerified": "2026-11-09T09:28:38.385Z",
+  "qualityScore": 55
 }

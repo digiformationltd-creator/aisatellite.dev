@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://container-registry.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.594Z",
-  "updatedAt": "2026-11-09T07:28:34.594Z"
+  "updatedAt": "2026-11-09T07:28:34.594Z",
+  "lastVerified": "2026-11-09T09:23:33.508Z",
+  "qualityScore": 52
 }

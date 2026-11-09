@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tuwunel.chat"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.694Z",
-  "updatedAt": "2026-11-09T07:28:34.694Z"
+  "updatedAt": "2026-11-09T07:28:34.694Z",
+  "lastVerified": "2026-11-09T09:40:34.260Z",
+  "qualityScore": 52
 }

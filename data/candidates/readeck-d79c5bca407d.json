@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://readeck.org/en/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.693Z",
-  "updatedAt": "2026-11-09T07:28:34.693Z"
+  "updatedAt": "2026-11-09T07:28:34.693Z",
+  "lastVerified": "2026-11-09T09:35:38.880Z",
+  "qualityScore": 52
 }

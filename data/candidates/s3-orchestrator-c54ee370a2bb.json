@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://s3-orchestrator.munchbox.cc"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.695Z",
-  "updatedAt": "2026-11-09T07:28:34.695Z"
+  "updatedAt": "2026-11-09T07:28:34.695Z",
+  "lastVerified": "2026-11-09T09:36:26.834Z",
+  "qualityScore": 52
 }

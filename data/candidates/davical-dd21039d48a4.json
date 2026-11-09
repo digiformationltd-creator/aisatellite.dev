@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.davical.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.693Z",
-  "updatedAt": "2026-11-09T07:28:34.693Z"
+  "updatedAt": "2026-11-09T07:28:34.693Z",
+  "lastVerified": "2026-11-09T09:24:13.726Z",
+  "qualityScore": 52
 }

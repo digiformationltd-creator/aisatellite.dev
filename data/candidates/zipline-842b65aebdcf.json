@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/diced/zipline"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.695Z",
-  "updatedAt": "2026-11-09T07:28:34.695Z"
+  "updatedAt": "2026-11-09T07:28:34.695Z",
+  "lastVerified": "2026-11-09T09:42:19.021Z",
+  "qualityScore": 55
 }

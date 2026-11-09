@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://samvera.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.694Z",
-  "updatedAt": "2026-11-09T07:28:34.694Z"
+  "updatedAt": "2026-11-09T07:28:34.694Z",
+  "lastVerified": "2026-11-09T09:36:39.259Z",
+  "qualityScore": 52
 }

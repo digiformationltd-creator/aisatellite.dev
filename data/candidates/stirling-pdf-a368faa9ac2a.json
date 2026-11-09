@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/Stirling-Tools/Stirling-PDF"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.694Z",
-  "updatedAt": "2026-11-09T07:28:34.694Z"
+  "updatedAt": "2026-11-09T07:28:34.694Z",
+  "lastVerified": "2026-11-09T09:38:32.221Z",
+  "qualityScore": 55
 }

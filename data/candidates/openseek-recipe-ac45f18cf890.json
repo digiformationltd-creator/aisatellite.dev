@@ -24,10 +24,10 @@
   "evidenceUrls": [
     "https://github.com/LichAmnesia/openseek-recipe"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-05T07:34:48.829Z",
   "updatedAt": "2026-11-05T07:34:48.829Z",
-  "lastVerified": "2026-11-07T08:41:38.755Z",
+  "lastVerified": "2026-11-09T09:33:40.907Z",
   "qualityScore": 78,
   "rejectionReason": "Canonical link unreachable"
 }

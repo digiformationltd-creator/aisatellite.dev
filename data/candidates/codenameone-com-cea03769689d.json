@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.codenameone.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.592Z",
-  "updatedAt": "2026-11-09T07:28:34.592Z"
+  "updatedAt": "2026-11-09T07:28:34.592Z",
+  "lastVerified": "2026-11-09T09:23:23.035Z",
+  "qualityScore": 52
 }

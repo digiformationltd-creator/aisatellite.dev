@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ploi.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.589Z",
-  "updatedAt": "2026-11-09T07:28:34.589Z"
+  "updatedAt": "2026-11-09T07:28:34.589Z",
+  "lastVerified": "2026-11-09T09:34:42.581Z",
+  "qualityScore": 52
 }

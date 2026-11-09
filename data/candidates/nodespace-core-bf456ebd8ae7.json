@@ -33,10 +33,10 @@
   "evidenceUrls": [
     "https://github.com/NodeSpaceAI/nodespace-core"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-06T07:30:29.067Z",
   "updatedAt": "2026-11-06T07:30:29.067Z",
-  "lastVerified": "2026-11-07T08:40:49.141Z",
+  "lastVerified": "2026-11-09T09:32:53.374Z",
   "qualityScore": 75,
   "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

@@ -31,7 +31,9 @@
   "evidenceUrls": [
     "https://github.com/1HUNZ/AI-Codebase-Vectorizer"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:36.231Z",
-  "updatedAt": "2026-11-09T07:28:36.231Z"
+  "updatedAt": "2026-11-09T07:28:36.231Z",
+  "lastVerified": "2026-11-09T09:20:47.237Z",
+  "qualityScore": 64
 }

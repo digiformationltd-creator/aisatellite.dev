@@ -32,10 +32,10 @@
   "evidenceUrls": [
     "https://github.com/vipera-iso/vipera"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:46.912Z",
   "updatedAt": "2026-11-04T07:06:46.912Z",
-  "lastVerified": "2026-11-07T08:48:53.991Z",
+  "lastVerified": "2026-11-09T09:41:07.738Z",
   "qualityScore": 78,
   "rejectionReason": "Canonical link unreachable"
 }

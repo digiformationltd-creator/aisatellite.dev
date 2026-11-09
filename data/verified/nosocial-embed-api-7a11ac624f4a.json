@@ -1,0 +1,22 @@
+{
+  "id": "nosocial-embed-api-7a11ac624f4a",
+  "canonicalUrl": "https://nosocial.eu/api-docs",
+  "name": "nosocial Embed API",
+  "description": "A free API for developers to embed public posts from X, Instagram, TikTok, YouTube, Bluesky, Threads, Facebook, Telegram, Reddit, and LinkedIn on their websites. It returns the embed HTML and any required scripts as JSON. No API key and no request limits.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://nosocial.eu/api-docs",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nosocial.eu/api-docs"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-09T07:28:34.586Z",
+  "updatedAt": "2026-11-09T07:28:34.586Z",
+  "lastVerified": "2026-11-09T09:32:56.962Z",
+  "qualityScore": 52
+}

@@ -32,10 +32,10 @@
   "evidenceUrls": [
     "https://github.com/Suryadimerantikab/Pennywise-Content-Curator"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:51.899Z",
   "updatedAt": "2026-11-07T06:43:51.899Z",
-  "lastVerified": "2026-11-07T08:42:18.143Z",
+  "lastVerified": "2026-11-09T09:34:21.451Z",
   "qualityScore": 64,
   "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

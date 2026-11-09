@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codspeed.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.587Z",
-  "updatedAt": "2026-11-09T07:28:34.587Z"
+  "updatedAt": "2026-11-09T07:28:34.587Z",
+  "lastVerified": "2026-11-09T09:23:24.121Z",
+  "qualityScore": 52
 }

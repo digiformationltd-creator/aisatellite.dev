@@ -22,8 +22,10 @@
   "evidenceUrls": [
     "https://github.com/Sparse-Agent/Sparse"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:18.480Z",
   "updatedAt": "2026-11-08T06:50:18.480Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown",
+  "lastVerified": "2026-11-09T09:38:11.578Z",
+  "qualityScore": 64
 }

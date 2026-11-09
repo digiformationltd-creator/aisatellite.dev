@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://howuku.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.594Z",
-  "updatedAt": "2026-11-09T07:28:34.594Z"
+  "updatedAt": "2026-11-09T07:28:34.594Z",
+  "lastVerified": "2026-11-09T09:28:41.756Z",
+  "qualityScore": 52
 }

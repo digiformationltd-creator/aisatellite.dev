@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://remotedesktop.google.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.585Z",
-  "updatedAt": "2026-11-09T07:28:34.585Z"
+  "updatedAt": "2026-11-09T07:28:34.585Z",
+  "lastVerified": "2026-11-09T09:22:56.248Z",
+  "qualityScore": 52
 }

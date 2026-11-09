@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/rfsbraz/deleterr"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.696Z",
-  "updatedAt": "2026-11-09T07:28:34.696Z"
+  "updatedAt": "2026-11-09T07:28:34.696Z",
+  "lastVerified": "2026-11-09T09:24:21.431Z",
+  "qualityScore": 55
 }

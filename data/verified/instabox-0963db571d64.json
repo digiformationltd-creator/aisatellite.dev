@@ -1,0 +1,22 @@
+{
+  "id": "instabox-0963db571d64",
+  "canonicalUrl": "https://instabox.sh/",
+  "name": "InstaBox",
+  "description": "Cloud Linux machine for AI agents and developers, running on Firecracker microVMs with Docker and common toolchains preinstalled. Free plan: one 4 vCPU / 8 GiB machine, 20 GiB disk, 5 snapshots and 100 GiB egress per month, no credit card required. Not a persistent VPS: a free machine pauses after 30 minutes idle and runs at most 8 hours per session.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://instabox.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://instabox.sh/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-09T07:28:34.592Z",
+  "updatedAt": "2026-11-09T07:28:34.592Z",
+  "lastVerified": "2026-11-09T09:29:12.810Z",
+  "qualityScore": 52
+}

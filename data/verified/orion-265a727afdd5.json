@@ -1,0 +1,41 @@
+{
+  "id": "orion-265a727afdd5",
+  "canonicalUrl": "https://github.com/concrete-sangminlee/orion",
+  "name": "orion",
+  "description": "Orion - AI-Powered Coding Assistant & IDE. 71 CLI commands. 707 tests. Claude, GPT, Ollama. Cross-platform. Open source.",
+  "category": "ai-coding",
+  "tags": [
+    "ai",
+    "ai-coding",
+    "claude",
+    "cli",
+    "coding-assistant",
+    "copilot-alternative",
+    "developer-tools",
+    "electron",
+    "ide",
+    "ollama",
+    "open-source",
+    "openai",
+    "terminal",
+    "typescript"
+  ],
+  "repositoryUrl": "https://github.com/concrete-sangminlee/orion",
+  "officialUrl": "https://github.com/concrete-sangminlee/orion",
+  "documentationUrl": "https://github.com/concrete-sangminlee/orion",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/concrete-sangminlee/orion/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-09T07:22:41Z",
+  "evidenceUrls": [
+    "https://github.com/concrete-sangminlee/orion"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-09T07:28:36.231Z",
+  "updatedAt": "2026-11-09T07:28:36.231Z",
+  "lastVerified": "2026-11-09T09:33:48.686Z",
+  "qualityScore": 89
+}

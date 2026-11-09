@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://isso-comments.de/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.694Z",
-  "updatedAt": "2026-11-09T07:28:34.694Z"
+  "updatedAt": "2026-11-09T07:28:34.694Z",
+  "lastVerified": "2026-11-09T09:29:34.485Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gitdailies.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.586Z",
-  "updatedAt": "2026-11-09T07:28:34.586Z"
+  "updatedAt": "2026-11-09T07:28:34.586Z",
+  "lastVerified": "2026-11-09T09:27:41.365Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://otobo.io/en/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.698Z",
-  "updatedAt": "2026-11-09T07:28:34.698Z"
+  "updatedAt": "2026-11-09T07:28:34.698Z",
+  "lastVerified": "2026-11-09T09:33:54.341Z",
+  "qualityScore": 52
 }

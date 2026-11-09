@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.bestpractical.com/rt/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.698Z",
-  "updatedAt": "2026-11-09T07:28:34.698Z"
+  "updatedAt": "2026-11-09T07:28:34.698Z",
+  "lastVerified": "2026-11-09T09:35:56.590Z",
+  "qualityScore": 52
 }

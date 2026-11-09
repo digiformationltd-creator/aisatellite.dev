@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/notclickable-jordan/starbase-80"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.697Z",
-  "updatedAt": "2026-11-09T07:28:34.697Z"
+  "updatedAt": "2026-11-09T07:28:34.697Z",
+  "lastVerified": "2026-11-09T09:38:25.956Z",
+  "qualityScore": 55
 }

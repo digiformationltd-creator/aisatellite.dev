@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.logintc.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.589Z",
-  "updatedAt": "2026-11-09T07:28:34.589Z"
+  "updatedAt": "2026-11-09T07:28:34.589Z",
+  "lastVerified": "2026-11-09T09:31:04.512Z",
+  "qualityScore": 52
 }

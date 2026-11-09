@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://fess.codelibs.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.698Z",
-  "updatedAt": "2026-11-09T07:28:34.698Z"
+  "updatedAt": "2026-11-09T07:28:34.698Z",
+  "lastVerified": "2026-11-09T09:26:13.721Z",
+  "qualityScore": 52
 }

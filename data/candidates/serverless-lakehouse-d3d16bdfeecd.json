@@ -33,10 +33,10 @@
   "evidenceUrls": [
     "https://github.com/ashwinsreedhar28/serverless-lakehouse"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:46.664Z",
   "updatedAt": "2026-11-03T07:24:46.664Z",
-  "lastVerified": "2026-11-07T08:45:24.460Z",
+  "lastVerified": "2026-11-09T09:37:10.341Z",
   "qualityScore": 89,
   "rejectionReason": "Canonical link unreachable"
 }

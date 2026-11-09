@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://syagent.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.590Z",
-  "updatedAt": "2026-11-09T07:28:34.590Z"
+  "updatedAt": "2026-11-09T07:28:34.590Z",
+  "lastVerified": "2026-11-09T09:39:02.744Z",
+  "qualityScore": 52
 }

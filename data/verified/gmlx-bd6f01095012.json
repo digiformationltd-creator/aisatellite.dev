@@ -32,13 +32,14 @@
   "freeTierLimitations": [],
   "githubStars": 48,
   "githubForks": 3,
-  "lastRepositoryUpdate": "2026-11-07T05:55:39Z",
+  "lastRepositoryUpdate": "2026-11-08T04:31:19Z",
   "evidenceUrls": [
     "https://github.com/asher/gmlx"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:51.434Z",
-  "updatedAt": "2026-11-07T06:43:51.434Z",
-  "lastVerified": "2026-11-07T08:36:01.954Z",
+  "discoveredAt": "2026-11-08T06:50:18.119Z",
+  "updatedAt": "2026-11-08T06:50:18.119Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown",
+  "lastVerified": "2026-11-09T09:27:51.814Z",
   "qualityScore": 77
 }

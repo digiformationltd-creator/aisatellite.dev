@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://analytics.google.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.594Z",
-  "updatedAt": "2026-11-09T07:28:34.594Z"
+  "updatedAt": "2026-11-09T07:28:34.594Z",
+  "lastVerified": "2026-11-09T09:28:01.460Z",
+  "qualityScore": 47
 }

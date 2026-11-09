@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.pulumi.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.585Z",
-  "updatedAt": "2026-11-09T07:28:34.585Z"
+  "updatedAt": "2026-11-09T07:28:34.585Z",
+  "lastVerified": "2026-11-09T09:35:19.540Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://will-be-done.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.698Z",
-  "updatedAt": "2026-11-09T07:28:34.698Z"
+  "updatedAt": "2026-11-09T07:28:34.698Z",
+  "lastVerified": "2026-11-09T09:41:48.389Z",
+  "qualityScore": 52
 }

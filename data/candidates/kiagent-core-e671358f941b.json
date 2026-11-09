@@ -24,10 +24,10 @@
   "evidenceUrls": [
     "https://github.com/edjafarov/kiagent-core"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:51.434Z",
   "updatedAt": "2026-11-07T06:43:51.434Z",
-  "lastVerified": "2026-11-07T08:38:13.349Z",
+  "lastVerified": "2026-11-09T09:30:02.168Z",
   "qualityScore": 89,
   "rejectionReason": "Canonical link unreachable"
 }

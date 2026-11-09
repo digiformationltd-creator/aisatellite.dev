@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/motioneye-project/motioneye"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.699Z",
-  "updatedAt": "2026-11-09T07:28:34.699Z"
+  "updatedAt": "2026-11-09T07:28:34.699Z",
+  "lastVerified": "2026-11-09T09:32:28.483Z",
+  "qualityScore": 55
 }

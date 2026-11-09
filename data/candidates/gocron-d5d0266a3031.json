@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/flohoss/gocron"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.693Z",
-  "updatedAt": "2026-11-09T07:28:34.693Z"
+  "updatedAt": "2026-11-09T07:28:34.693Z",
+  "lastVerified": "2026-11-09T09:27:56.479Z",
+  "qualityScore": 55
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://git.crueter.xyz/crueter/pacebin"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.697Z",
-  "updatedAt": "2026-11-09T07:28:34.697Z"
+  "updatedAt": "2026-11-09T07:28:34.697Z",
+  "lastVerified": "2026-11-09T09:34:05.510Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://runframe.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.590Z",
-  "updatedAt": "2026-11-09T07:28:34.590Z"
+  "updatedAt": "2026-11-09T07:28:34.590Z",
+  "lastVerified": "2026-11-09T09:36:17.999Z",
+  "qualityScore": 52
 }

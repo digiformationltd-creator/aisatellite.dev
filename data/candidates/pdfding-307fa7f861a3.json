@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.pdfding.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.694Z",
-  "updatedAt": "2026-11-09T07:28:34.694Z"
+  "updatedAt": "2026-11-09T07:28:34.694Z",
+  "lastVerified": "2026-11-09T09:34:18.429Z",
+  "qualityScore": 52
 }

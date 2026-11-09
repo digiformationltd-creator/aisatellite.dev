@@ -36,7 +36,9 @@
   "evidenceUrls": [
     "https://github.com/exclude-barrier/OrsikTop"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:35.804Z",
-  "updatedAt": "2026-11-09T07:28:35.804Z"
+  "updatedAt": "2026-11-09T07:28:35.804Z",
+  "lastVerified": "2026-11-09T09:33:50.252Z",
+  "qualityScore": 78
 }

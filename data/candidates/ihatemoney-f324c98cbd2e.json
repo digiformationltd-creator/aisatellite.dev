@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ihatemoney.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.697Z",
-  "updatedAt": "2026-11-09T07:28:34.697Z"
+  "updatedAt": "2026-11-09T07:28:34.697Z",
+  "lastVerified": "2026-11-09T09:28:59.067Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://paste.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.586Z",
-  "updatedAt": "2026-11-09T07:28:34.586Z"
+  "updatedAt": "2026-11-09T07:28:34.586Z",
+  "lastVerified": "2026-11-09T09:34:16.217Z",
+  "qualityScore": 52
 }

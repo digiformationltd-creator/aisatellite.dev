@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.everystep-automation.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.588Z",
-  "updatedAt": "2026-11-09T07:28:34.588Z"
+  "updatedAt": "2026-11-09T07:28:34.588Z",
+  "lastVerified": "2026-11-09T09:26:00.891Z",
+  "qualityScore": 52
 }

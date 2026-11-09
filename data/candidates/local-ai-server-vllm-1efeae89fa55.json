@@ -28,10 +28,10 @@
   "evidenceUrls": [
     "https://github.com/hossbit/local-ai-server-vllm"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-03T07:24:46.664Z",
   "updatedAt": "2026-11-03T07:24:46.664Z",
-  "lastVerified": "2026-11-07T08:38:53.632Z",
+  "lastVerified": "2026-11-09T09:30:52.444Z",
   "qualityScore": 89,
   "rejectionReason": "Canonical link unreachable"
 }

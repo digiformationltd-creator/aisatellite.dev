@@ -34,10 +34,10 @@
   "evidenceUrls": [
     "https://github.com/Czarnak/siemens-docs-mcp"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-07T06:43:51.899Z",
   "updatedAt": "2026-11-07T06:43:51.899Z",
-  "lastVerified": "2026-11-07T08:45:35.564Z",
+  "lastVerified": "2026-11-09T09:37:23.300Z",
   "qualityScore": 78,
   "rejectionReason": "Canonical link unreachable"
 }

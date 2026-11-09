@@ -14,8 +14,10 @@
   "evidenceUrls": [
     "https://hey.space"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-04T07:06:45.606Z",
   "updatedAt": "2026-11-04T07:06:45.606Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown",
+  "lastVerified": "2026-11-09T09:28:29.950Z",
+  "qualityScore": 52
 }

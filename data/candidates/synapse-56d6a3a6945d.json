@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://element-hq.github.io/synapse/latest/index.html"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.694Z",
-  "updatedAt": "2026-11-09T07:28:34.694Z"
+  "updatedAt": "2026-11-09T07:28:34.694Z",
+  "lastVerified": "2026-11-09T09:39:04.681Z",
+  "qualityScore": 52
 }

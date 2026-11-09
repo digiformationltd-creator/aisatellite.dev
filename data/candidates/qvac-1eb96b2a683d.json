@@ -39,7 +39,9 @@
   "evidenceUrls": [
     "https://github.com/tetherto/qvac"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:35.804Z",
-  "updatedAt": "2026-11-09T07:28:35.804Z"
+  "updatedAt": "2026-11-09T07:28:35.804Z",
+  "lastVerified": "2026-11-09T09:35:31.714Z",
+  "qualityScore": 92
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/psi-4ward/psitransfer"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.695Z",
-  "updatedAt": "2026-11-09T07:28:34.695Z"
+  "updatedAt": "2026-11-09T07:28:34.695Z",
+  "lastVerified": "2026-11-09T09:35:15.801Z",
+  "qualityScore": 55
 }

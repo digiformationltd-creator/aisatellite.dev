@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://anon.li/alias"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.590Z",
-  "updatedAt": "2026-11-09T07:28:34.590Z"
+  "updatedAt": "2026-11-09T07:28:34.590Z",
+  "lastVerified": "2026-11-09T09:21:09.068Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://developer.deepar.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.585Z",
-  "updatedAt": "2026-11-09T07:28:34.585Z"
+  "updatedAt": "2026-11-09T07:28:34.585Z",
+  "lastVerified": "2026-11-09T09:24:18.845Z",
+  "qualityScore": 52
 }

@@ -29,7 +29,9 @@
   "evidenceUrls": [
     "https://github.com/Caplet1989/Brokies-AI-Foundry"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:35.361Z",
-  "updatedAt": "2026-11-09T07:28:35.361Z"
+  "updatedAt": "2026-11-09T07:28:35.361Z",
+  "lastVerified": "2026-11-09T09:22:23.459Z",
+  "qualityScore": 67
 }

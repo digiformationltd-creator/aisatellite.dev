@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.authgear.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.589Z",
-  "updatedAt": "2026-11-09T07:28:34.589Z"
+  "updatedAt": "2026-11-09T07:28:34.589Z",
+  "lastVerified": "2026-11-09T09:21:34.921Z",
+  "qualityScore": 52
 }

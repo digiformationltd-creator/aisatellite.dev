@@ -38,6 +38,7 @@
   "status": "verified",
   "discoveredAt": "2026-11-05T07:34:48.829Z",
   "updatedAt": "2026-11-05T07:34:48.829Z",
-  "lastVerified": "2026-11-07T08:35:14.845Z",
-  "qualityScore": 78
+  "lastVerified": "2026-11-09T09:27:11.276Z",
+  "qualityScore": 78,
+  "rejectionReason": "Canonical link unreachable"
 }

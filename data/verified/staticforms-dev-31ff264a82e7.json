@@ -1,0 +1,22 @@
+{
+  "id": "staticforms-dev-31ff264a82e7",
+  "canonicalUrl": "https://www.staticforms.dev/",
+  "name": "staticforms.dev",
+  "description": "Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.staticforms.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.staticforms.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-09T07:28:34.591Z",
+  "updatedAt": "2026-11-09T07:28:34.591Z",
+  "lastVerified": "2026-11-09T09:38:28.666Z",
+  "qualityScore": 52
+}

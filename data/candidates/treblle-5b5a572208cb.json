@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.treblle.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.586Z",
-  "updatedAt": "2026-11-09T07:28:34.586Z"
+  "updatedAt": "2026-11-09T07:28:34.586Z",
+  "lastVerified": "2026-11-09T09:40:22.456Z",
+  "qualityScore": 52
 }

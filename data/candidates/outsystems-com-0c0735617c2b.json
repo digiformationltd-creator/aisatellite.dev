@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.outsystems.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.592Z",
-  "updatedAt": "2026-11-09T07:28:34.592Z"
+  "updatedAt": "2026-11-09T07:28:34.592Z",
+  "lastVerified": "2026-11-09T09:33:59.213Z",
+  "qualityScore": 52
 }

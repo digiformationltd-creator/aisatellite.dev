@@ -36,8 +36,10 @@
   "evidenceUrls": [
     "https://github.com/asher/gmlx"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-08T06:50:18.119Z",
   "updatedAt": "2026-11-08T06:50:18.119Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown",
+  "lastVerified": "2026-11-09T09:27:51.814Z",
+  "qualityScore": 77
 }

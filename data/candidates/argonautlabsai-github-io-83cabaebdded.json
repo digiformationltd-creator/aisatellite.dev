@@ -23,7 +23,9 @@
   "evidenceUrls": [
     "https://github.com/argonautlabsai/argonautlabsai.github.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:35.804Z",
-  "updatedAt": "2026-11-09T07:28:35.804Z"
+  "updatedAt": "2026-11-09T07:28:35.804Z",
+  "lastVerified": "2026-11-09T09:21:27.377Z",
+  "qualityScore": 75
 }

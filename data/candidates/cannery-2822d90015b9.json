@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cannery.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-09T07:28:34.695Z",
-  "updatedAt": "2026-11-09T07:28:34.695Z"
+  "updatedAt": "2026-11-09T07:28:34.695Z",
+  "lastVerified": "2026-11-09T09:22:39.049Z",
+  "qualityScore": 52
 }
