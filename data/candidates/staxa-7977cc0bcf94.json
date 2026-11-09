@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://staxa.dev/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:16.892Z",
-  "updatedAt": "2026-11-08T06:50:16.892Z",
-  "lastVerified": "2026-11-08T09:21:49.404Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.592Z",
+  "updatedAt": "2026-11-09T07:28:34.592Z"
 }

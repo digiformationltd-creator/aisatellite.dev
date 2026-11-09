@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://cname.dev/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:16.893Z",
-  "updatedAt": "2026-11-08T06:50:16.893Z",
-  "lastVerified": "2026-11-08T08:48:17.469Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.592Z",
+  "updatedAt": "2026-11-09T07:28:34.592Z"
 }

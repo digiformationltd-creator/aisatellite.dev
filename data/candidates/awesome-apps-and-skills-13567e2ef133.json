@@ -30,13 +30,12 @@
   "freeClassification": "unknown",
   "freeTierLimitations": [],
   "githubStars": 4,
-  "githubForks": 23,
-  "lastRepositoryUpdate": "2026-11-07T11:24:52Z",
+  "githubForks": 24,
+  "lastRepositoryUpdate": "2026-11-08T16:24:16Z",
   "evidenceUrls": [
     "https://github.com/nishkohli96/awesome-apps-and-skills"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-08T06:50:17.627Z",
-  "updatedAt": "2026-11-08T06:50:17.627Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:35.361Z",
+  "updatedAt": "2026-11-09T07:28:35.361Z"
 }

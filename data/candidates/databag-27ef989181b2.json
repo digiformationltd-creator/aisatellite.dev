@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://github.com/balzack/databag"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-08T06:50:17.040Z",
-  "updatedAt": "2026-11-08T06:50:17.040Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.693Z",
+  "updatedAt": "2026-11-09T07:28:34.693Z"
 }

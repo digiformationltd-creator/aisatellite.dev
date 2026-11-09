@@ -25,16 +25,13 @@
   "licenseEvidenceUrl": "https://github.com/wwoosshh/GeulPUv2/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 4,
+  "githubStars": 5,
   "githubForks": 1,
-  "lastRepositoryUpdate": "2026-11-05T06:21:02Z",
+  "lastRepositoryUpdate": "2026-11-09T07:24:25Z",
   "evidenceUrls": [
     "https://github.com/wwoosshh/GeulPUv2"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-05T07:34:48.829Z",
-  "updatedAt": "2026-11-05T07:34:48.829Z",
-  "lastVerified": "2026-11-07T08:35:45.905Z",
-  "qualityScore": 78,
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:35.804Z",
+  "updatedAt": "2026-11-09T07:28:35.804Z"
 }

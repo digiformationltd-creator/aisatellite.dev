@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/Bubka/2FAuth"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:17.046Z",
-  "updatedAt": "2026-11-08T06:50:17.046Z",
-  "lastVerified": "2026-11-08T08:41:48.566Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.696Z",
+  "updatedAt": "2026-11-09T07:28:34.696Z"
 }

@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://jitsi.org/Projects/JitsiMeet"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:17.041Z",
-  "updatedAt": "2026-11-08T06:50:17.041Z",
-  "lastVerified": "2026-11-08T09:01:39.834Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.694Z",
+  "updatedAt": "2026-11-09T07:28:34.694Z"
 }

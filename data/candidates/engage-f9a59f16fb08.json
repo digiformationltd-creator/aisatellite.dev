@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://engage.so/"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-08T06:50:16.885Z",
-  "updatedAt": "2026-11-08T06:50:16.885Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.589Z",
+  "updatedAt": "2026-11-09T07:28:34.589Z"
 }

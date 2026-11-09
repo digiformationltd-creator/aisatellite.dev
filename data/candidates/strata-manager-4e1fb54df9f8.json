@@ -1,0 +1,31 @@
+{
+  "id": "strata-manager-4e1fb54df9f8",
+  "canonicalUrl": "https://github.com/hongfaqiu/strata-manager",
+  "name": "strata-manager",
+  "description": "Strata Manager makes Niko1221/Strata, the local LLM inference engine, easier to set up and use. Manage local models and services, monitor hardware and API usage, chat and tune inference. Open-source desktop app for Windows / Linux x64.",
+  "category": "local-llm",
+  "tags": [
+    "llm-inference",
+    "local-llm",
+    "model-management",
+    "model-monitoring",
+    "qwen3-8-flash-next",
+    "strata"
+  ],
+  "repositoryUrl": "https://github.com/hongfaqiu/strata-manager",
+  "officialUrl": "https://strata-manager.cosfoc.com",
+  "documentationUrl": "https://strata-manager.cosfoc.com",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/hongfaqiu/strata-manager/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 56,
+  "githubForks": 7,
+  "lastRepositoryUpdate": "2026-11-09T06:01:05Z",
+  "evidenceUrls": [
+    "https://github.com/hongfaqiu/strata-manager"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:35.805Z",
+  "updatedAt": "2026-11-09T07:28:35.805Z"
+}

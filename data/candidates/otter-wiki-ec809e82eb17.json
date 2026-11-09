@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://otterwiki.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:17.048Z",
-  "updatedAt": "2026-11-08T06:50:17.048Z",
-  "lastVerified": "2026-11-08T09:10:46.586Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.699Z",
+  "updatedAt": "2026-11-09T07:28:34.699Z"
 }

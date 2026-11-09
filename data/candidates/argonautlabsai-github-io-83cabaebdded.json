@@ -19,13 +19,11 @@
   "freeTierLimitations": [],
   "githubStars": 0,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-08T06:10:59Z",
+  "lastRepositoryUpdate": "2026-11-09T06:15:52Z",
   "evidenceUrls": [
     "https://github.com/argonautlabsai/argonautlabsai.github.io"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:18.118Z",
-  "updatedAt": "2026-11-08T06:50:18.118Z",
-  "lastVerified": "2026-11-08T08:43:01.936Z",
-  "qualityScore": 75
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:35.804Z",
+  "updatedAt": "2026-11-09T07:28:35.804Z"
 }

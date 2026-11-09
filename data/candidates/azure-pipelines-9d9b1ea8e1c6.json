@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/services/devops/pipelines/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:16.878Z",
-  "updatedAt": "2026-11-08T06:50:16.878Z",
-  "lastVerified": "2026-11-08T08:43:59.081Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.585Z",
+  "updatedAt": "2026-11-09T07:28:34.585Z"
 }

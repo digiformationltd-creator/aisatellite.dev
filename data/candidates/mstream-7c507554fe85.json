@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://mstream.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:17.045Z",
-  "updatedAt": "2026-11-08T06:50:17.045Z",
-  "lastVerified": "2026-11-08T09:08:17.896Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.696Z",
+  "updatedAt": "2026-11-09T07:28:34.696Z"
 }

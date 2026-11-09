@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://currencyfreaks.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:16.896Z",
-  "updatedAt": "2026-11-08T06:50:16.896Z",
-  "lastVerified": "2026-11-08T08:49:24.630Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:34.594Z",
+  "updatedAt": "2026-11-09T07:28:34.594Z"
 }

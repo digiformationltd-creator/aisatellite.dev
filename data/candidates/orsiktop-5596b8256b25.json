@@ -1,0 +1,42 @@
+{
+  "id": "orsiktop-5596b8256b25",
+  "canonicalUrl": "https://github.com/exclude-barrier/OrsikTop",
+  "name": "OrsikTop",
+  "description": "OrsikTop is a fast Rust TUI for monitoring local LLM inference.",
+  "category": "local-llm",
+  "tags": [
+    "amd",
+    "dashboard",
+    "gpu-monitoring",
+    "intel",
+    "linux",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "monitoring",
+    "nvidia",
+    "observability",
+    "process-monitoring",
+    "ratatui",
+    "rust",
+    "strata",
+    "system-monitoring",
+    "terminal",
+    "tui"
+  ],
+  "repositoryUrl": "https://github.com/exclude-barrier/OrsikTop",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/exclude-barrier/OrsikTop/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-09T06:39:51Z",
+  "evidenceUrls": [
+    "https://github.com/exclude-barrier/OrsikTop"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:35.804Z",
+  "updatedAt": "2026-11-09T07:28:35.804Z"
+}

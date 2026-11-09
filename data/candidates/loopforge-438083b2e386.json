@@ -31,14 +31,13 @@
   "documentationUrl": "https://loopforge.cn",
   "freeClassification": "unknown",
   "freeTierLimitations": [],
-  "githubStars": 148,
-  "githubForks": 28,
-  "lastRepositoryUpdate": "2026-11-08T05:06:32Z",
+  "githubStars": 166,
+  "githubForks": 30,
+  "lastRepositoryUpdate": "2026-11-09T07:19:37Z",
   "evidenceUrls": [
     "https://github.com/Tencent/LoopForge"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-08T06:50:18.480Z",
-  "updatedAt": "2026-11-08T06:50:18.480Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-09T07:28:36.231Z",
+  "updatedAt": "2026-11-09T07:28:36.231Z"
 }
