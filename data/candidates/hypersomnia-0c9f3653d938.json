@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/TeamHypersomnia/Hypersomnia"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.415Z",
-  "updatedAt": "2026-11-10T07:54:20.415Z"
+  "updatedAt": "2026-11-10T07:54:20.415Z",
+  "lastVerified": "2026-11-10T09:42:13.729Z",
+  "qualityScore": 55
 }

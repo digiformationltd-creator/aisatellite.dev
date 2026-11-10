@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://openelis-global.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.416Z",
-  "updatedAt": "2026-11-10T07:54:20.416Z"
+  "updatedAt": "2026-11-10T07:54:20.416Z",
+  "lastVerified": "2026-11-10T09:50:08.485Z",
+  "qualityScore": 52
 }

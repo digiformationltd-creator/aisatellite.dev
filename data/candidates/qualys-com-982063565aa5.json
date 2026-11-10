@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.qualys.com/community-edition"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.328Z",
-  "updatedAt": "2026-11-10T07:54:20.328Z"
+  "updatedAt": "2026-11-10T07:54:20.328Z",
+  "lastVerified": "2026-11-10T09:53:18.409Z",
+  "qualityScore": 52
 }

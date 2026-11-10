@@ -1,0 +1,37 @@
+{
+  "id": "animus-470a76db3450",
+  "canonicalUrl": "https://github.com/railstracks/animus",
+  "name": "animus",
+  "description": "A framework to run persistent, evolving AI agents.",
+  "category": "ai-coding",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-coding",
+    "ai-tools",
+    "artificial-intelligence",
+    "assistant"
+  ],
+  "repositoryUrl": "https://github.com/railstracks/animus",
+  "officialUrl": "https://animus.steadyfort.com/",
+  "documentationUrl": "https://animus.steadyfort.com/",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/railstracks/animus/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-10T06:43:43Z",
+  "evidenceUrls": [
+    "https://github.com/railstracks/animus"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-10T07:54:22.023Z",
+  "updatedAt": "2026-11-10T07:54:22.023Z",
+  "lastVerified": "2026-11-10T09:26:19.376Z",
+  "qualityScore": 89
+}

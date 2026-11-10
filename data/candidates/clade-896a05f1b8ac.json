@@ -30,7 +30,9 @@
   "evidenceUrls": [
     "https://github.com/shenxingy/Clade"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:22.023Z",
-  "updatedAt": "2026-11-10T07:54:22.023Z"
+  "updatedAt": "2026-11-10T07:54:22.023Z",
+  "lastVerified": "2026-11-10T09:29:55.164Z",
+  "qualityScore": 89
 }

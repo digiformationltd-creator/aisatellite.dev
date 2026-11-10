@@ -1,0 +1,22 @@
+{
+  "id": "notifysphere-net-61e6e12b57aa",
+  "canonicalUrl": "https://notifysphere.net/",
+  "name": "notifysphere.net",
+  "description": "All-in-one Customer Engagement and Automation Tool ( push notifications, whatsapp messages, helpdesk, tracker link and events tracking) for SaaS. Free for up to 1,000 active users per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://notifysphere.net/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://notifysphere.net/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-10T07:54:20.329Z",
+  "updatedAt": "2026-11-10T07:54:20.329Z",
+  "lastVerified": "2026-11-10T09:49:18.306Z",
+  "qualityScore": 52
+}

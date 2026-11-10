@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/cmintey/wishlist"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.417Z",
-  "updatedAt": "2026-11-10T07:54:20.417Z"
+  "updatedAt": "2026-11-10T07:54:20.417Z",
+  "lastVerified": "2026-11-10T10:04:53.823Z",
+  "qualityScore": 55
 }

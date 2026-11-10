@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mailerlite.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.333Z",
-  "updatedAt": "2026-11-10T07:54:20.333Z"
+  "updatedAt": "2026-11-10T07:54:20.333Z",
+  "lastVerified": "2026-11-10T09:46:21.090Z",
+  "qualityScore": 52
 }

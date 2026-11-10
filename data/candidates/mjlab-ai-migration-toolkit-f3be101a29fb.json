@@ -32,7 +32,9 @@
   "evidenceUrls": [
     "https://github.com/chaitanya-aws/mjlab-ai-migration-toolkit"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:22.023Z",
-  "updatedAt": "2026-11-10T07:54:22.023Z"
+  "updatedAt": "2026-11-10T07:54:22.023Z",
+  "lastVerified": "2026-11-10T09:48:01.907Z",
+  "qualityScore": 64
 }

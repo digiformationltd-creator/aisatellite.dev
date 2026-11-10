@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://expose.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.336Z",
-  "updatedAt": "2026-11-10T07:54:20.336Z"
+  "updatedAt": "2026-11-10T07:54:20.336Z",
+  "lastVerified": "2026-11-10T09:35:47.528Z",
+  "qualityScore": 52
 }

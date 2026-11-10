@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://supabase.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.335Z",
-  "updatedAt": "2026-11-10T07:54:20.335Z"
+  "updatedAt": "2026-11-10T07:54:20.335Z",
+  "lastVerified": "2026-11-10T09:58:53.585Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://formfeed.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.324Z",
-  "updatedAt": "2026-11-10T07:54:20.324Z"
+  "updatedAt": "2026-11-10T07:54:20.324Z",
+  "lastVerified": "2026-11-10T09:37:21.603Z",
+  "qualityScore": 52
 }

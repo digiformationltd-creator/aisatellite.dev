@@ -14,8 +14,10 @@
   "evidenceUrls": [
     "https://onesignal.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.335Z",
   "updatedAt": "2026-11-10T07:54:22.025Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-10T09:49:42.503Z",
+  "qualityScore": 52
 }

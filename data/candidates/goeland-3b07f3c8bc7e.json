@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/slurdge/goeland"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.414Z",
-  "updatedAt": "2026-11-10T07:54:20.414Z"
+  "updatedAt": "2026-11-10T07:54:20.414Z",
+  "lastVerified": "2026-11-10T09:40:09.056Z",
+  "qualityScore": 55
 }

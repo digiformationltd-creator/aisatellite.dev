@@ -22,7 +22,9 @@
   "evidenceUrls": [
     "https://github.com/Sparse-Agent/Sparse"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:22.023Z",
-  "updatedAt": "2026-11-10T07:54:22.023Z"
+  "updatedAt": "2026-11-10T07:54:22.023Z",
+  "lastVerified": "2026-11-10T09:58:01.572Z",
+  "qualityScore": 64
 }

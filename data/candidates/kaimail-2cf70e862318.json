@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kaimail.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.333Z",
-  "updatedAt": "2026-11-10T07:54:20.333Z"
+  "updatedAt": "2026-11-10T07:54:20.333Z",
+  "lastVerified": "2026-11-10T09:43:36.241Z",
+  "qualityScore": 52
 }

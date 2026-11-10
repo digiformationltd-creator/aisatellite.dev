@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.transfernow.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.326Z",
-  "updatedAt": "2026-11-10T07:54:20.326Z"
+  "updatedAt": "2026-11-10T07:54:20.326Z",
+  "lastVerified": "2026-11-10T10:01:32.554Z",
+  "qualityScore": 52
 }

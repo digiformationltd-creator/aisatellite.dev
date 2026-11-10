@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://clerk.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.328Z",
-  "updatedAt": "2026-11-10T07:54:20.328Z"
+  "updatedAt": "2026-11-10T07:54:20.328Z",
+  "lastVerified": "2026-11-10T09:29:59.497Z",
+  "qualityScore": 52
 }

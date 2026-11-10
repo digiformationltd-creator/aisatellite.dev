@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://withknown.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.410Z",
-  "updatedAt": "2026-11-10T07:54:20.410Z"
+  "updatedAt": "2026-11-10T07:54:20.410Z",
+  "lastVerified": "2026-11-10T09:43:57.126Z",
+  "qualityScore": 52
 }

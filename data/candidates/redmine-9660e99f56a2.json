@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.redmine.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.419Z",
-  "updatedAt": "2026-11-10T07:54:20.419Z"
+  "updatedAt": "2026-11-10T07:54:20.419Z",
+  "lastVerified": "2026-11-10T09:54:03.157Z",
+  "qualityScore": 52
 }

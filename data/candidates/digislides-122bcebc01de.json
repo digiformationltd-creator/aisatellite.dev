@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ladigitale.dev/digislides/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.418Z",
-  "updatedAt": "2026-11-10T07:54:20.418Z"
+  "updatedAt": "2026-11-10T07:54:20.418Z",
+  "lastVerified": "2026-11-10T09:33:23.729Z",
+  "qualityScore": 52
 }

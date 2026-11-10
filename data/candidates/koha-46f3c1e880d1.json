@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://koha-community.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.413Z",
-  "updatedAt": "2026-11-10T07:54:20.413Z"
+  "updatedAt": "2026-11-10T07:54:20.413Z",
+  "lastVerified": "2026-11-10T09:43:58.287Z",
+  "qualityScore": 52
 }

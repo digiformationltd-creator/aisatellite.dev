@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.getontracks.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.419Z",
-  "updatedAt": "2026-11-10T07:54:20.419Z"
+  "updatedAt": "2026-11-10T07:54:20.419Z",
+  "lastVerified": "2026-11-10T10:01:20.010Z",
+  "qualityScore": 52
 }

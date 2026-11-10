@@ -28,7 +28,9 @@
   "evidenceUrls": [
     "https://github.com/Vcvzgbzz/hearth"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:21.545Z",
-  "updatedAt": "2026-11-10T07:54:21.545Z"
+  "updatedAt": "2026-11-10T07:54:21.545Z",
+  "lastVerified": "2026-11-10T09:41:02.835Z",
+  "qualityScore": 89
 }

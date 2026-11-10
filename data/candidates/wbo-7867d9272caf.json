@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/lovasoa/whitebophir"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.411Z",
-  "updatedAt": "2026-11-10T07:54:20.411Z"
+  "updatedAt": "2026-11-10T07:54:20.411Z",
+  "lastVerified": "2026-11-10T10:04:08.970Z",
+  "qualityScore": 55
 }

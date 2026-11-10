@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://formbricks.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.418Z",
-  "updatedAt": "2026-11-10T07:54:20.418Z"
+  "updatedAt": "2026-11-10T07:54:20.418Z",
+  "lastVerified": "2026-11-10T09:37:20.994Z",
+  "qualityScore": 52
 }

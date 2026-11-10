@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kestra.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.410Z",
-  "updatedAt": "2026-11-10T07:54:20.410Z"
+  "updatedAt": "2026-11-10T07:54:20.410Z",
+  "lastVerified": "2026-11-10T09:43:43.834Z",
+  "qualityScore": 52
 }

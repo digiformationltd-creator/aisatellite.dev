@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/sE2EEnd/sE2EEnd"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.415Z",
-  "updatedAt": "2026-11-10T07:54:20.415Z"
+  "updatedAt": "2026-11-10T07:54:20.415Z",
+  "lastVerified": "2026-11-10T09:55:34.895Z",
+  "qualityScore": 55
 }

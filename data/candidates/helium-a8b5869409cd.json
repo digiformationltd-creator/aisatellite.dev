@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.heliumedu.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.416Z",
-  "updatedAt": "2026-11-10T07:54:20.416Z"
+  "updatedAt": "2026-11-10T07:54:20.416Z",
+  "lastVerified": "2026-11-10T09:41:09.973Z",
+  "qualityScore": 52
 }

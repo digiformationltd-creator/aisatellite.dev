@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pelican.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.415Z",
-  "updatedAt": "2026-11-10T07:54:20.415Z"
+  "updatedAt": "2026-11-10T07:54:20.415Z",
+  "lastVerified": "2026-11-10T09:51:27.634Z",
+  "qualityScore": 52
 }

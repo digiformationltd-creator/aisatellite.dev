@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/misterunknown/ifm"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.415Z",
-  "updatedAt": "2026-11-10T07:54:20.415Z"
+  "updatedAt": "2026-11-10T07:54:20.415Z",
+  "lastVerified": "2026-11-10T09:42:22.930Z",
+  "qualityScore": 55
 }

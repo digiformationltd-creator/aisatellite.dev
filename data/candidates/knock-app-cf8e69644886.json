@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://knock.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.329Z",
-  "updatedAt": "2026-11-10T07:54:20.329Z"
+  "updatedAt": "2026-11-10T07:54:20.329Z",
+  "lastVerified": "2026-11-10T09:43:55.783Z",
+  "qualityScore": 52
 }

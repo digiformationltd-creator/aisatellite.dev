@@ -18,14 +18,13 @@
   "freeTierLimitations": [],
   "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-08T05:07:02Z",
+  "lastRepositoryUpdate": "2026-11-10T05:31:04Z",
   "evidenceUrls": [
     "https://github.com/Sparse-Agent/Sparse"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:18.480Z",
-  "updatedAt": "2026-11-08T06:50:18.480Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown",
-  "lastVerified": "2026-11-09T09:38:11.578Z",
+  "discoveredAt": "2026-11-10T07:54:22.023Z",
+  "updatedAt": "2026-11-10T07:54:22.023Z",
+  "lastVerified": "2026-11-10T09:58:01.572Z",
   "qualityScore": 64
 }

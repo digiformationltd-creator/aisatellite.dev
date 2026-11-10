@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cloud.google.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.322Z",
-  "updatedAt": "2026-11-10T07:54:20.322Z"
+  "updatedAt": "2026-11-10T07:54:20.322Z",
+  "lastVerified": "2026-11-10T09:40:28.390Z",
+  "qualityScore": 52
 }

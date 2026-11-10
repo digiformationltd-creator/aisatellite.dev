@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/onionshare/onionshare"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.414Z",
-  "updatedAt": "2026-11-10T07:54:20.414Z"
+  "updatedAt": "2026-11-10T07:54:20.414Z",
+  "lastVerified": "2026-11-10T09:49:46.145Z",
+  "qualityScore": 55
 }

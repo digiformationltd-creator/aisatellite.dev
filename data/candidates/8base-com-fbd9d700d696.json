@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.8base.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.336Z",
-  "updatedAt": "2026-11-10T07:54:20.336Z"
+  "updatedAt": "2026-11-10T07:54:20.336Z",
+  "lastVerified": "2026-11-10T09:25:00.322Z",
+  "qualityScore": 52
 }

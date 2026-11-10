@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/mother-of-all-self-hosting/mash-playbook"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.418Z",
-  "updatedAt": "2026-11-10T07:54:20.418Z"
+  "updatedAt": "2026-11-10T07:54:20.418Z",
+  "lastVerified": "2026-11-10T09:48:18.788Z",
+  "qualityScore": 55
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.bookstackapp.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.420Z",
-  "updatedAt": "2026-11-10T07:54:20.420Z"
+  "updatedAt": "2026-11-10T07:54:20.420Z",
+  "lastVerified": "2026-11-10T09:28:35.136Z",
+  "qualityScore": 52
 }

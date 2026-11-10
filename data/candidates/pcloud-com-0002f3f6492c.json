@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.pcloud.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.338Z",
-  "updatedAt": "2026-11-10T07:54:20.338Z"
+  "updatedAt": "2026-11-10T07:54:20.338Z",
+  "lastVerified": "2026-11-10T09:51:24.363Z",
+  "qualityScore": 52
 }

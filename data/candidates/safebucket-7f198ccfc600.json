@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.safebucket.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.415Z",
-  "updatedAt": "2026-11-10T07:54:20.415Z"
+  "updatedAt": "2026-11-10T07:54:20.415Z",
+  "lastVerified": "2026-11-10T09:55:00.056Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.iobroker.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.416Z",
-  "updatedAt": "2026-11-10T07:54:20.416Z"
+  "updatedAt": "2026-11-10T07:54:20.416Z",
+  "lastVerified": "2026-11-10T09:43:00.711Z",
+  "qualityScore": 52
 }

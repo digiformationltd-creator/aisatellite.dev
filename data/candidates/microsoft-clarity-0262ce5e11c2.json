@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://clarity.microsoft.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.341Z",
-  "updatedAt": "2026-11-10T07:54:20.341Z"
+  "updatedAt": "2026-11-10T07:54:20.341Z",
+  "lastVerified": "2026-11-10T09:47:36.698Z",
+  "qualityScore": 52
 }

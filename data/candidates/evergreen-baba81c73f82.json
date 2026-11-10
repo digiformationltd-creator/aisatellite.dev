@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://evergreen-ils.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-10T07:54:20.413Z",
-  "updatedAt": "2026-11-10T07:54:20.413Z"
+  "updatedAt": "2026-11-10T07:54:20.413Z",
+  "lastVerified": "2026-11-10T09:35:33.037Z",
+  "qualityScore": 52
 }
