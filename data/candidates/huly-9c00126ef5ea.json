@@ -16,10 +16,8 @@
     "https://huly.io/",
     "https://huly.io"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-09T07:28:34.698Z",
-  "updatedAt": "2026-11-09T07:28:36.234Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-09T09:28:47.991Z",
-  "qualityScore": 57
+  "status": "discovered",
+  "discoveredAt": "2026-11-10T07:54:20.419Z",
+  "updatedAt": "2026-11-10T07:54:22.027Z",
+  "githubStars": 0
 }

@@ -1,0 +1,34 @@
+{
+  "id": "hearth-27a3f999215a",
+  "canonicalUrl": "https://github.com/Vcvzgbzz/hearth",
+  "name": "hearth",
+  "description": "A queue in front of your local inference server, and an optional way to lend the spare capacity to someone you trust.",
+  "category": "local-llm",
+  "tags": [
+    "gpu",
+    "llama-cpp",
+    "llama-swap",
+    "llm-inference",
+    "local-llm",
+    "ollama",
+    "openai-api",
+    "queue",
+    "self-hosted"
+  ],
+  "repositoryUrl": "https://github.com/Vcvzgbzz/hearth",
+  "officialUrl": "https://www.npmjs.com/package/@vcvzgbzz/hearth",
+  "documentationUrl": "https://www.npmjs.com/package/@vcvzgbzz/hearth",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/Vcvzgbzz/hearth/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 3,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-10T05:08:52Z",
+  "evidenceUrls": [
+    "https://github.com/Vcvzgbzz/hearth"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-10T07:54:21.545Z",
+  "updatedAt": "2026-11-10T07:54:21.545Z"
+}

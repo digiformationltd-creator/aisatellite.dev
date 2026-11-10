@@ -1,0 +1,33 @@
+{
+  "id": "code-smash-teti-8878c73424d5",
+  "canonicalUrl": "https://github.com/nightguard-labs/code-smash-teti",
+  "name": "code-smash-teti",
+  "description": "A layered local coding brain: 122B MoE on a 32 GB Mac, streamed from SSD in native Swift + MLX",
+  "category": "local-llm",
+  "tags": [
+    "apple-silicon",
+    "llm-inference",
+    "local-llm",
+    "metal",
+    "mixture-of-experts",
+    "mlx",
+    "qwen",
+    "swift"
+  ],
+  "repositoryUrl": "https://github.com/nightguard-labs/code-smash-teti",
+  "officialUrl": "https://nightguard-labs.github.io",
+  "documentationUrl": "https://nightguard-labs.github.io",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/nightguard-labs/code-smash-teti/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-10T06:46:17Z",
+  "evidenceUrls": [
+    "https://github.com/nightguard-labs/code-smash-teti"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-10T07:54:21.545Z",
+  "updatedAt": "2026-11-10T07:54:21.545Z"
+}

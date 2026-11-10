@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://airtrail.johan.ohly.dk"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-09T07:28:34.696Z",
-  "updatedAt": "2026-11-09T07:28:34.696Z",
-  "lastVerified": "2026-11-09T09:20:50.925Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-10T07:54:20.416Z",
+  "updatedAt": "2026-11-10T07:54:20.416Z"
 }

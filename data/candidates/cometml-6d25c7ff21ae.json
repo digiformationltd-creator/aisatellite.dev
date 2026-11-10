@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.comet.com/site/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-09T07:28:34.585Z",
-  "updatedAt": "2026-11-09T07:28:34.585Z",
-  "lastVerified": "2026-11-09T09:23:27.816Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-10T07:54:20.323Z",
+  "updatedAt": "2026-11-10T07:54:20.323Z"
 }

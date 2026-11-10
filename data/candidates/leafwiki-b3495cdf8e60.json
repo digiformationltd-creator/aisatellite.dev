@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/perber/leafwiki"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-09T07:28:34.699Z",
-  "updatedAt": "2026-11-09T07:28:34.699Z",
-  "lastVerified": "2026-11-09T09:30:24.217Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-10T07:54:20.420Z",
+  "updatedAt": "2026-11-10T07:54:20.420Z"
 }
