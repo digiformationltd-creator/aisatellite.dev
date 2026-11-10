@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-libretime-4c0efe6edf05-guide",
+  "title": "How to Deploy LibreTime in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-libretime-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LibreTime.",
+  "targetKeywords": [
+    "LibreTime",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://libretime.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LibreTime with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

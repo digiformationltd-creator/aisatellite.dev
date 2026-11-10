@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-apply-build-21344d9ffc98-guide",
+  "title": "How to Deploy Apply.build in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-apply-build-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Apply.build.",
+  "targetKeywords": [
+    "Apply.build",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://apply.build/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Apply.build with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

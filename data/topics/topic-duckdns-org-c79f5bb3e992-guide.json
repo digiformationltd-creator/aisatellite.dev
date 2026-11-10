@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-duckdns-org-c79f5bb3e992-guide",
+  "title": "How to Deploy duckdns.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-duckdns-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for duckdns.org.",
+  "targetKeywords": [
+    "duckdns.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.duckdns.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting duckdns.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

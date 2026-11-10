@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-maza-ad-blocking-7dcf64544304-guide",
+  "title": "How to Deploy Maza ad blocking in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-maza-ad-blocking-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Maza ad blocking.",
+  "targetKeywords": [
+    "Maza ad blocking",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://maza-ad-blocking.andros.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Maza ad blocking with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

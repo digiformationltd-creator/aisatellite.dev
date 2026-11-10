@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-flaky-ba06aade4255-guide",
+  "title": "How to Deploy flaky in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-flaky-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for flaky.",
+  "targetKeywords": [
+    "flaky",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://flakyapi.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting flaky with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.509Z"
+}

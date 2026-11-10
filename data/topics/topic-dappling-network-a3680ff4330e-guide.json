@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dappling-network-a3680ff4330e-guide",
+  "title": "How to Deploy dAppling Network in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dappling-network-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for dAppling Network.",
+  "targetKeywords": [
+    "dAppling Network",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.dappling.network/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting dAppling Network with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

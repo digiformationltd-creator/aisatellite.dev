@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kodi-859cb168cbbf-guide",
+  "title": "How to Deploy Kodi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kodi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kodi.",
+  "targetKeywords": [
+    "Kodi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kodi.tv/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kodi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

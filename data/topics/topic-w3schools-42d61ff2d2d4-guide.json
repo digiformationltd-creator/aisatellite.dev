@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-w3schools-42d61ff2d2d4-guide",
+  "title": "How to Deploy W3Schools in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-w3schools-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for W3Schools.",
+  "targetKeywords": [
+    "W3Schools",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.w3schools.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting W3Schools with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

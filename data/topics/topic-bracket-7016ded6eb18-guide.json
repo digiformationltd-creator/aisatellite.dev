@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bracket-7016ded6eb18-guide",
+  "title": "How to Deploy Bracket in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bracket-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bracket.",
+  "targetKeywords": [
+    "Bracket",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.bracketapp.nl/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bracket with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

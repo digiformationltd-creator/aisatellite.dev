@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-minus-games-1d9b4e94e32e-guide",
+  "title": "How to Deploy Minus Games in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-minus-games-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Minus Games.",
+  "targetKeywords": [
+    "Minus Games",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://accessory.github.io/minus_games_user_guide"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Minus Games with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

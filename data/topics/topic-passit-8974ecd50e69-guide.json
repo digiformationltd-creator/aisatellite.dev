@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-passit-8974ecd50e69-guide",
+  "title": "How to Deploy PassIt in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-passit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PassIt.",
+  "targetKeywords": [
+    "PassIt",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://passit.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PassIt with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

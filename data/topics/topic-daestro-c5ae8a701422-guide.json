@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-daestro-c5ae8a701422-guide",
+  "title": "How to Deploy Daestro in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-daestro-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Daestro.",
+  "targetKeywords": [
+    "Daestro",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://daestro.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Daestro with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

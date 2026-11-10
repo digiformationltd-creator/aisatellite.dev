@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-formboost-app-88a821b318e1-guide",
+  "title": "How to Deploy Formboost.app in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-formboost-app-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Formboost.app.",
+  "targetKeywords": [
+    "Formboost.app",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://formboost.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Formboost.app with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.509Z"
+}

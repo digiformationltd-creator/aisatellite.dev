@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-graphweaver-f57e9d41b959-guide",
+  "title": "How to Deploy Graphweaver in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-graphweaver-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Graphweaver.",
+  "targetKeywords": [
+    "Graphweaver",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://graphweaver.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Graphweaver with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

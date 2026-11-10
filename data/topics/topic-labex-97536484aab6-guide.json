@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-labex-97536484aab6-guide",
+  "title": "How to Deploy LabEx in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-labex-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LabEx.",
+  "targetKeywords": [
+    "LabEx",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://labex.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LabEx with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

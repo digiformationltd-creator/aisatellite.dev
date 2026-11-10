@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-justblogged-0f1d02520b81-guide",
+  "title": "How to Deploy JustBlogged in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-justblogged-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for JustBlogged.",
+  "targetKeywords": [
+    "JustBlogged",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://justblogged.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting JustBlogged with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

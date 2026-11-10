@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-houndci-com-263ef6403b9e-guide",
+  "title": "How to Deploy houndci.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-houndci-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for houndci.com.",
+  "targetKeywords": [
+    "houndci.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://houndci.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting houndci.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

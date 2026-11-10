@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vikunja-b376465e573e-guide",
+  "title": "How to Deploy Vikunja in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vikunja-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Vikunja.",
+  "targetKeywords": [
+    "Vikunja",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vikunja.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Vikunja with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

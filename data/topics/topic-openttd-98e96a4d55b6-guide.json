@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openttd-98e96a4d55b6-guide",
+  "title": "How to Deploy OpenTTD in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openttd-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenTTD.",
+  "targetKeywords": [
+    "OpenTTD",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.openttd.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenTTD with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

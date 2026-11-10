@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-evcc-04c309098075-guide",
+  "title": "How to Deploy evcc in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-evcc-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for evcc.",
+  "targetKeywords": [
+    "evcc",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://evcc.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting evcc with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

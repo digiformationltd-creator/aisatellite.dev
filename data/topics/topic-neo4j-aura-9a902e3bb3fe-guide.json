@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-neo4j-aura-9a902e3bb3fe-guide",
+  "title": "How to Deploy Neo4j Aura in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-neo4j-aura-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Neo4j Aura.",
+  "targetKeywords": [
+    "Neo4j Aura",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://neo4j.com/cloud/aura/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Neo4j Aura with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

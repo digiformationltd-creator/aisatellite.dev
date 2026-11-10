@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ampache-b23d1b54abe2-guide",
+  "title": "How to Deploy Ampache in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ampache-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ampache.",
+  "targetKeywords": [
+    "Ampache",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ampache.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ampache with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

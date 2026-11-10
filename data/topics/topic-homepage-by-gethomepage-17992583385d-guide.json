@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-homepage-by-gethomepage-17992583385d-guide",
+  "title": "How to Deploy Homepage by gethomepage in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-homepage-by-gethomepage-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Homepage by gethomepage.",
+  "targetKeywords": [
+    "Homepage by gethomepage",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/gethomepage/homepage"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Homepage by gethomepage with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

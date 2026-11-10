@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jamf-com-0788948b04f1-guide",
+  "title": "How to Deploy jamf.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jamf-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for jamf.com.",
+  "targetKeywords": [
+    "jamf.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.jamf.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting jamf.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-weights-biases-14e0e033867b-guide",
+  "title": "How to Deploy Weights & Biases in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-weights-biases-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Weights & Biases.",
+  "targetKeywords": [
+    "Weights & Biases",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wandb.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Weights & Biases with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

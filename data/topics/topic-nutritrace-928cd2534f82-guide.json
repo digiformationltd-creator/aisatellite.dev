@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-nutritrace-928cd2534f82-guide",
+  "title": "How to Deploy NutriTrace in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-nutritrace-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for NutriTrace.",
+  "targetKeywords": [
+    "NutriTrace",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://traceapps.github.io/docs/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting NutriTrace with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

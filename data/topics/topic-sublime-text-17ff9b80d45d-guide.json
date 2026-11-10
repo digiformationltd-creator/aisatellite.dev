@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sublime-text-17ff9b80d45d-guide",
+  "title": "How to Deploy Sublime Text in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sublime-text-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sublime Text.",
+  "targetKeywords": [
+    "Sublime Text",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.sublimetext.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sublime Text with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

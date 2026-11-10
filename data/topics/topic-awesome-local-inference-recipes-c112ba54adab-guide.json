@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-awesome-local-inference-recipes-c112ba54adab-guide",
+  "title": "How to Deploy awesome-local-inference-recipes in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-awesome-local-inference-recipes-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for awesome-local-inference-recipes.",
+  "targetKeywords": [
+    "awesome-local-inference-recipes",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/raytone-lab/awesome-local-inference-recipes"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting awesome-local-inference-recipes with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

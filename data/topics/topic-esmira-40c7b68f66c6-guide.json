@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-esmira-40c7b68f66c6-guide",
+  "title": "How to Deploy ESMira in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-esmira-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ESMira.",
+  "targetKeywords": [
+    "ESMira",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://esmira.kl.ac.at"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ESMira with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

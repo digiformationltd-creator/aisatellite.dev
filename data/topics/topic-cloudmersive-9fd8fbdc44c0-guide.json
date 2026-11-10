@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloudmersive-9fd8fbdc44c0-guide",
+  "title": "How to Deploy Cloudmersive in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloudmersive-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloudmersive.",
+  "targetKeywords": [
+    "Cloudmersive",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloudmersive.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cloudmersive with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

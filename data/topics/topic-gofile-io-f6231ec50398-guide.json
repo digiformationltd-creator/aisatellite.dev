@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gofile-io-f6231ec50398-guide",
+  "title": "How to Deploy GoFile.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gofile-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GoFile.io.",
+  "targetKeywords": [
+    "GoFile.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gofile.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GoFile.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

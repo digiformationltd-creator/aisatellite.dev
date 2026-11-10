@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-phase-two-dbde00b8750c-guide",
+  "title": "How to Deploy Phase Two in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-phase-two-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Phase Two.",
+  "targetKeywords": [
+    "Phase Two",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://phasetwo.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Phase Two with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

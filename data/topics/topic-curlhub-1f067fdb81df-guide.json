@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-curlhub-1f067fdb81df-guide",
+  "title": "How to Deploy CurlHub in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-curlhub-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CurlHub.",
+  "targetKeywords": [
+    "CurlHub",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://curlhub.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CurlHub with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

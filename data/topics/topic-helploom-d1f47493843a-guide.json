@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-helploom-d1f47493843a-guide",
+  "title": "How to Deploy Helploom in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-helploom-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Helploom.",
+  "targetKeywords": [
+    "Helploom",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://helploom.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Helploom with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

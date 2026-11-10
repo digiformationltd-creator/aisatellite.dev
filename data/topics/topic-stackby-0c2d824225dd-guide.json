@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stackby-0c2d824225dd-guide",
+  "title": "How to Deploy StackBy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stackby-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for StackBy.",
+  "targetKeywords": [
+    "StackBy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stackby.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting StackBy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

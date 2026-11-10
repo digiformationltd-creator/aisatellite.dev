@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tool-idempotency-test-guide",
+  "title": "How to Deploy IdempotencyTestTool in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-idempotencytesttool-production",
+  "category": "databases",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IdempotencyTestTool.",
+  "targetKeywords": [
+    "IdempotencyTestTool",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/org/test-tool"
+  ],
+  "priorityScore": 70,
+  "contentGapRationale": "High developer demand for self-hosting IdempotencyTestTool with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

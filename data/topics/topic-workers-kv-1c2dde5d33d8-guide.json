@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-workers-kv-1c2dde5d33d8-guide",
+  "title": "How to Deploy Workers KV in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-workers-kv-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Workers KV.",
+  "targetKeywords": [
+    "Workers KV",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developers.cloudflare.com/kv"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Workers KV with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

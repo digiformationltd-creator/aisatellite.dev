@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-authgear-13d7531bf549-guide",
+  "title": "How to Deploy Authgear in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-authgear-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Authgear.",
+  "targetKeywords": [
+    "Authgear",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.authgear.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Authgear with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

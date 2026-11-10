@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloudamqp-com-521be9201f61-guide",
+  "title": "How to Deploy cloudamqp.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloudamqp-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cloudamqp.com.",
+  "targetKeywords": [
+    "cloudamqp.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cloudamqp.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cloudamqp.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

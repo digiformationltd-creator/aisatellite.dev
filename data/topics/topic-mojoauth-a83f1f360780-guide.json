@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mojoauth-a83f1f360780-guide",
+  "title": "How to Deploy MojoAuth in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mojoauth-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MojoAuth.",
+  "targetKeywords": [
+    "MojoAuth",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mojoauth.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MojoAuth with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

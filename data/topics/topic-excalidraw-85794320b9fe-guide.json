@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-excalidraw-85794320b9fe-guide",
+  "title": "How to Deploy Excalidraw in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-excalidraw-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Excalidraw.",
+  "targetKeywords": [
+    "Excalidraw",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://excalidraw.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Excalidraw with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-immich-fa4fb83a8939-guide",
+  "title": "How to Deploy Immich in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-immich-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Immich.",
+  "targetKeywords": [
+    "Immich",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://immich.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Immich with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

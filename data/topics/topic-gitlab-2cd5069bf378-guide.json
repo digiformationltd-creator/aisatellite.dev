@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-gitlab-2cd5069bf378-guide",
+  "title": "How to Deploy GitLab in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gitlab-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GitLab.",
+  "targetKeywords": [
+    "GitLab",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://about.gitlab.com/",
+    "https://about.gitlab.com"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting GitLab with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

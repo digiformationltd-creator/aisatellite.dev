@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-geo2tz-24a0b47e3951-guide",
+  "title": "How to Deploy Geo2tz in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-geo2tz-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Geo2tz.",
+  "targetKeywords": [
+    "Geo2tz",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/noandrea/geo2tz"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Geo2tz with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.509Z"
+}

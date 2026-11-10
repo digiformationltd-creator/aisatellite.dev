@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mockplus-idoc-9ec962ac66a8-guide",
+  "title": "How to Deploy Mockplus iDoc in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mockplus-idoc-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mockplus iDoc.",
+  "targetKeywords": [
+    "Mockplus iDoc",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mockplus.com/idoc"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mockplus iDoc with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

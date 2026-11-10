@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-circleci-1985eb6c1a04-guide",
+  "title": "How to Deploy CircleCI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-circleci-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CircleCI.",
+  "targetKeywords": [
+    "CircleCI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://circleci.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CircleCI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-neos-9068e312b4f9-guide",
+  "title": "How to Deploy Neos in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-neos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Neos.",
+  "targetKeywords": [
+    "Neos",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.neos.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Neos with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

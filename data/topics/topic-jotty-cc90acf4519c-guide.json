@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jotty-cc90acf4519c-guide",
+  "title": "How to Deploy Jotty in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jotty-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Jotty.",
+  "targetKeywords": [
+    "Jotty",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jotty.page"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Jotty with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

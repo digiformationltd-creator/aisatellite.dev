@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sama-63e6d55ec936-guide",
+  "title": "How to Deploy SAMA in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sama-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SAMA.",
+  "targetKeywords": [
+    "SAMA",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://samacloud.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SAMA with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

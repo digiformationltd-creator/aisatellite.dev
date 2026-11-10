@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-haven-990f504fc1dc-guide",
+  "title": "How to Deploy Haven in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-haven-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Haven.",
+  "targetKeywords": [
+    "Haven",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://havenweb.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Haven with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

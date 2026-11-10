@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-osmnames-1a730d230378-guide",
+  "title": "How to Deploy osmnames in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-osmnames-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for osmnames.",
+  "targetKeywords": [
+    "osmnames",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://osmnames.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting osmnames with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ech0-b9edfa63acb2-guide",
+  "title": "How to Deploy Ech0 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ech0-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ech0.",
+  "targetKeywords": [
+    "Ech0",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ech0.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ech0 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

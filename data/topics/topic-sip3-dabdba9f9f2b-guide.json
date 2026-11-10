@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sip3-dabdba9f9f2b-guide",
+  "title": "How to Deploy SIP3 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sip3-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SIP3.",
+  "targetKeywords": [
+    "SIP3",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sip3.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SIP3 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

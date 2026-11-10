@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gigalixir-com-2502a9a8109b-guide",
+  "title": "How to Deploy gigalixir.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gigalixir-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for gigalixir.com.",
+  "targetKeywords": [
+    "gigalixir.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gigalixir.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting gigalixir.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.510Z"
+}

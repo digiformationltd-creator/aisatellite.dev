@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bencher-13f5f539ea85-guide",
+  "title": "How to Deploy Bencher in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bencher-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bencher.",
+  "targetKeywords": [
+    "Bencher",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bencher.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bencher with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

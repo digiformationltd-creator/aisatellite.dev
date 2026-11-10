@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-collabora-online-development-edition-218ffee406d4-guide",
+  "title": "How to Deploy Collabora Online Development Edition in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-collabora-online-development-edition-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Collabora Online Development Edition.",
+  "targetKeywords": [
+    "Collabora Online Development Edition",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.collaboraoffice.com/code"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Collabora Online Development Edition with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

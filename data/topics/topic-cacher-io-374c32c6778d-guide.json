@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cacher-io-374c32c6778d-guide",
+  "title": "How to Deploy cacher.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cacher-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cacher.io.",
+  "targetKeywords": [
+    "cacher.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cacher.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cacher.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

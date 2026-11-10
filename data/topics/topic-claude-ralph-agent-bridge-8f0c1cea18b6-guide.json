@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-claude-ralph-agent-bridge-8f0c1cea18b6-guide",
+  "title": "How to Deploy claude-ralph-agent-bridge in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-claude-ralph-agent-bridge-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for claude-ralph-agent-bridge.",
+  "targetKeywords": [
+    "claude-ralph-agent-bridge",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/victorfs1234/claude-ralph-agent-bridge"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting claude-ralph-agent-bridge with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

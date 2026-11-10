@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-posio-7eefe285da07-guide",
+  "title": "How to Deploy Posio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-posio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Posio.",
+  "targetKeywords": [
+    "Posio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/abrenaut/posio"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Posio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

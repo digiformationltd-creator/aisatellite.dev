@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-joydemo-dd10a1d50413-guide",
+  "title": "How to Deploy JoyDemo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-joydemo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for JoyDemo.",
+  "targetKeywords": [
+    "JoyDemo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://joydemo.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting JoyDemo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

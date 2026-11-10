@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gomodel-6654c81a11bb-guide",
+  "title": "How to Deploy GoModel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gomodel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GoModel.",
+  "targetKeywords": [
+    "GoModel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gomodel.enterpilot.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GoModel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

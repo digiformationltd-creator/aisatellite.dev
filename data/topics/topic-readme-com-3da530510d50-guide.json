@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-readme-com-3da530510d50-guide",
+  "title": "How to Deploy readme.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-readme-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for readme.com.",
+  "targetKeywords": [
+    "readme.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://readme.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting readme.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

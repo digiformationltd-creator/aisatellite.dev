@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-antville-8b5629e99a38-guide",
+  "title": "How to Deploy Antville in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-antville-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Antville.",
+  "targetKeywords": [
+    "Antville",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://antville.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Antville with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

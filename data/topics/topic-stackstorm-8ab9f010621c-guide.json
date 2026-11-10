@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stackstorm-8ab9f010621c-guide",
+  "title": "How to Deploy StackStorm in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stackstorm-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for StackStorm.",
+  "targetKeywords": [
+    "StackStorm",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stackstorm.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting StackStorm with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

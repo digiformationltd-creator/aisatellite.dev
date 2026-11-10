@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mail-tester-com-5c1120bea0c4-guide",
+  "title": "How to Deploy mail-tester.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mail-tester-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mail-tester.com.",
+  "targetKeywords": [
+    "mail-tester.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mail-tester.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mail-tester.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

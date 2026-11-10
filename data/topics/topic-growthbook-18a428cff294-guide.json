@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-growthbook-18a428cff294-guide",
+  "title": "How to Deploy GrowthBook in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-growthbook-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GrowthBook.",
+  "targetKeywords": [
+    "GrowthBook",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://growthbook.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GrowthBook with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

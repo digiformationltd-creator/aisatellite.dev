@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-buddy-works-fed4f92817b8-guide",
+  "title": "How to Deploy buddy.works in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-buddy-works-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for buddy.works.",
+  "targetKeywords": [
+    "buddy.works",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://buddy.works/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting buddy.works with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

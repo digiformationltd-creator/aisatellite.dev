@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vaocherapp-qr-code-generator-58eba93099c4-guide",
+  "title": "How to Deploy VaocherApp QR Code Generator in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vaocherapp-qr-code-generator-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for VaocherApp QR Code Generator.",
+  "targetKeywords": [
+    "VaocherApp QR Code Generator",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.vaocherapp.com/qr-code-generator"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting VaocherApp QR Code Generator with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

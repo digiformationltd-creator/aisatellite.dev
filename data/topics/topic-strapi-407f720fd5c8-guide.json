@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-strapi-407f720fd5c8-guide",
+  "title": "How to Deploy Strapi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-strapi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Strapi.",
+  "targetKeywords": [
+    "Strapi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://strapi.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Strapi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-manageengine-log360-cloud-e4c0576cdd2b-guide",
+  "title": "How to Deploy ManageEngine Log360 Cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-manageengine-log360-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ManageEngine Log360 Cloud.",
+  "targetKeywords": [
+    "ManageEngine Log360 Cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.manageengine.com/cloud-siem/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ManageEngine Log360 Cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

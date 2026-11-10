@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-disease-sh-f9a31409d07c-guide",
+  "title": "How to Deploy Disease.sh in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-disease-sh-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Disease.sh.",
+  "targetKeywords": [
+    "Disease.sh",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://disease.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Disease.sh with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

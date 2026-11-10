@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pocket-alert-77f6062ed19b-guide",
+  "title": "How to Deploy Pocket Alert in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pocket-alert-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pocket Alert.",
+  "targetKeywords": [
+    "Pocket Alert",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pocketalert.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pocket Alert with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

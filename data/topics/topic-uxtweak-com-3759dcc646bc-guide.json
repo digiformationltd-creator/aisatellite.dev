@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-uxtweak-com-3759dcc646bc-guide",
+  "title": "How to Deploy UXtweak.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-uxtweak-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for UXtweak.com.",
+  "targetKeywords": [
+    "UXtweak.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.uxtweak.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting UXtweak.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

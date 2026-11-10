@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-form-taxi-ce4500d0a819-guide",
+  "title": "How to Deploy Form.taxi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-form-taxi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Form.taxi.",
+  "targetKeywords": [
+    "Form.taxi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://form.taxi/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Form.taxi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.509Z"
+}

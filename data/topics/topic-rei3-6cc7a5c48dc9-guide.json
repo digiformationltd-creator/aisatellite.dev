@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rei3-6cc7a5c48dc9-guide",
+  "title": "How to Deploy REI3 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rei3-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for REI3.",
+  "targetKeywords": [
+    "REI3",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://rei3.de/home_en/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting REI3 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

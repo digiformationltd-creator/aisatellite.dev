@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cliq-fb368c1df34a-guide",
+  "title": "How to Deploy Cliq in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cliq-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cliq.",
+  "targetKeywords": [
+    "Cliq",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zoho.com/cliq"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cliq with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

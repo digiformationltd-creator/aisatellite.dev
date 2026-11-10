@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-trackwith-dicloud-b71f25aa253b-guide",
+  "title": "How to Deploy TrackWith Dicloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-trackwith-dicloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TrackWith Dicloud.",
+  "targetKeywords": [
+    "TrackWith Dicloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dicloud.net/trackwith-privacy-focused-analytics/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TrackWith Dicloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

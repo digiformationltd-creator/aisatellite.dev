@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ente-a0b1d078210c-guide",
+  "title": "How to Deploy Ente in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ente-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ente.",
+  "targetKeywords": [
+    "Ente",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ente.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ente with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

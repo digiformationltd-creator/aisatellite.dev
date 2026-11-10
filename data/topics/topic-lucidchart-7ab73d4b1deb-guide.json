@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lucidchart-7ab73d4b1deb-guide",
+  "title": "How to Deploy Lucidchart in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lucidchart-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lucidchart.",
+  "targetKeywords": [
+    "Lucidchart",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.lucidchart.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lucidchart with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

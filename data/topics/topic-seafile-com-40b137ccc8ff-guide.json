@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-seafile-com-40b137ccc8ff-guide",
+  "title": "How to Deploy seafile.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-seafile-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for seafile.com.",
+  "targetKeywords": [
+    "seafile.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.seafile.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting seafile.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

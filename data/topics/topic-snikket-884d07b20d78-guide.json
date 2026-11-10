@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-snikket-884d07b20d78-guide",
+  "title": "How to Deploy Snikket in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-snikket-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Snikket.",
+  "targetKeywords": [
+    "Snikket",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://snikket.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Snikket with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

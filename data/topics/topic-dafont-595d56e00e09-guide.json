@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dafont-595d56e00e09-guide",
+  "title": "How to Deploy dafont in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dafont-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for dafont.",
+  "targetKeywords": [
+    "dafont",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.dafont.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting dafont with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

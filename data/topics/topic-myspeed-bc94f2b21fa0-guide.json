@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-myspeed-bc94f2b21fa0-guide",
+  "title": "How to Deploy MySpeed in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-myspeed-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MySpeed.",
+  "targetKeywords": [
+    "MySpeed",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://myspeed.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MySpeed with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

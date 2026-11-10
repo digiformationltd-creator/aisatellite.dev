@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-feeds-fun-432343eeb4fa-guide",
+  "title": "How to Deploy Feeds Fun in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-feeds-fun-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Feeds Fun.",
+  "targetKeywords": [
+    "Feeds Fun",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://feeds.fun/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Feeds Fun with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

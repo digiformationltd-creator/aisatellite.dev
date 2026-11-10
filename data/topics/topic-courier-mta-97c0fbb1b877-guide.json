@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-courier-mta-97c0fbb1b877-guide",
+  "title": "How to Deploy Courier MTA in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-courier-mta-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Courier MTA.",
+  "targetKeywords": [
+    "Courier MTA",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.courier-mta.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Courier MTA with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-halo-1e56582d871e-guide",
+  "title": "How to Deploy Halo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-halo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Halo.",
+  "targetKeywords": [
+    "Halo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.halo.run"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Halo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

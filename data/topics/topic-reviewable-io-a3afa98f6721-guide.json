@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-reviewable-io-a3afa98f6721-guide",
+  "title": "How to Deploy reviewable.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-reviewable-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for reviewable.io.",
+  "targetKeywords": [
+    "reviewable.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://reviewable.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting reviewable.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

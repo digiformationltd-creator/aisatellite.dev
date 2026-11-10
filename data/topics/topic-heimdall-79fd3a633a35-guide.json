@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-heimdall-79fd3a633a35-guide",
+  "title": "How to Deploy Heimdall in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-heimdall-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Heimdall.",
+  "targetKeywords": [
+    "Heimdall",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://heimdall.site/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Heimdall with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

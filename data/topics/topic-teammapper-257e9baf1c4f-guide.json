@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-teammapper-257e9baf1c4f-guide",
+  "title": "How to Deploy TeamMapper in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-teammapper-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TeamMapper.",
+  "targetKeywords": [
+    "TeamMapper",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/b310-digital/teammapper"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting TeamMapper with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

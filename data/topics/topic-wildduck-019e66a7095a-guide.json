@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wildduck-019e66a7095a-guide",
+  "title": "How to Deploy wildduck in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wildduck-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for wildduck.",
+  "targetKeywords": [
+    "wildduck",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wildduck.email/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting wildduck with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-courier-com-c7f2eab337fc-guide",
+  "title": "How to Deploy courier.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-courier-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for courier.com.",
+  "targetKeywords": [
+    "courier.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.courier.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting courier.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

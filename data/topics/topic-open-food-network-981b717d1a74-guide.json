@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-open-food-network-981b717d1a74-guide",
+  "title": "How to Deploy Open Food Network in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-open-food-network-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Open Food Network.",
+  "targetKeywords": [
+    "Open Food Network",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.openfoodnetwork.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Open Food Network with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

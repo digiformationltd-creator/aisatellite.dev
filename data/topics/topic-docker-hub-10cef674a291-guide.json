@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-docker-hub-10cef674a291-guide",
+  "title": "How to Deploy Docker Hub in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-docker-hub-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Docker Hub.",
+  "targetKeywords": [
+    "Docker Hub",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hub.docker.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Docker Hub with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

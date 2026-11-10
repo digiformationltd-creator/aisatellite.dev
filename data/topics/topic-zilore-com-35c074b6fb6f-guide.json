@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zilore-com-35c074b6fb6f-guide",
+  "title": "How to Deploy zilore.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zilore-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for zilore.com.",
+  "targetKeywords": [
+    "zilore.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zilore.com/en/dns"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting zilore.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

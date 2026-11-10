@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-simperium-com-b0cd5660a39c-guide",
+  "title": "How to Deploy simperium.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-simperium-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for simperium.com.",
+  "targetKeywords": [
+    "simperium.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://simperium.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting simperium.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

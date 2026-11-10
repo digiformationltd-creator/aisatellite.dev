@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-codeground-aa3f4b51436f-guide",
+  "title": "How to Deploy Codeground in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-codeground-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Codeground.",
+  "targetKeywords": [
+    "Codeground",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://codeground.ai/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Codeground with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

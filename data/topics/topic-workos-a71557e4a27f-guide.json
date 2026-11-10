@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-workos-a71557e4a27f-guide",
+  "title": "How to Deploy WorkOS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-workos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WorkOS.",
+  "targetKeywords": [
+    "WorkOS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://workos.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting WorkOS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

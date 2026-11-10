@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-spec-driven-ai-assistant-7075c0fb815f-guide",
+  "title": "How to Deploy spec-driven-ai-assistant in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-spec-driven-ai-assistant-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for spec-driven-ai-assistant.",
+  "targetKeywords": [
+    "spec-driven-ai-assistant",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/vishnu1432/spec-driven-ai-assistant"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting spec-driven-ai-assistant with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

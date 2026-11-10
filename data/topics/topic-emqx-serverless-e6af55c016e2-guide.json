@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-emqx-serverless-e6af55c016e2-guide",
+  "title": "How to Deploy EMQX Serverless in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-emqx-serverless-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for EMQX Serverless.",
+  "targetKeywords": [
+    "EMQX Serverless",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.emqx.com/en/cloud/serverless-mqtt"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting EMQX Serverless with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

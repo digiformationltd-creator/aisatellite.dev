@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ip2geo-dev-9c87dabba4ee-guide",
+  "title": "How to Deploy ip2geo.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ip2geo-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ip2geo.dev.",
+  "targetKeywords": [
+    "ip2geo.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ip2geo.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ip2geo.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

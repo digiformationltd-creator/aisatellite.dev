@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-catalyst-by-zoho-2045802a16f6-guide",
+  "title": "How to Deploy Catalyst by Zoho in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-catalyst-by-zoho-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Catalyst by Zoho.",
+  "targetKeywords": [
+    "Catalyst by Zoho",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://catalyst.zoho.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Catalyst by Zoho with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.507Z"
+}

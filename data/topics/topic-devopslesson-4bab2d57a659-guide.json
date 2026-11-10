@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-devopslesson-4bab2d57a659-guide",
+  "title": "How to Deploy DevOpsLesson in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-devopslesson-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DevOpsLesson.",
+  "targetKeywords": [
+    "DevOpsLesson",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://devopslesson.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DevOpsLesson with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

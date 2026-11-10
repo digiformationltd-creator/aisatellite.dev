@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cronitor-io-e02f2c04accd-guide",
+  "title": "How to Deploy cronitor.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cronitor-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cronitor.io.",
+  "targetKeywords": [
+    "cronitor.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cronitor.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cronitor.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

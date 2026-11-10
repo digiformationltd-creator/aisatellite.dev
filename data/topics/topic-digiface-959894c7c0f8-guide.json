@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-digiface-959894c7c0f8-guide",
+  "title": "How to Deploy Digiface in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-digiface-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Digiface.",
+  "targetKeywords": [
+    "Digiface",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ladigitale.dev/digiface/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Digiface with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

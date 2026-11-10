@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-traduora-0d42df5cde08-guide",
+  "title": "How to Deploy Traduora in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-traduora-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Traduora.",
+  "targetKeywords": [
+    "Traduora",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://traduora.co"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Traduora with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

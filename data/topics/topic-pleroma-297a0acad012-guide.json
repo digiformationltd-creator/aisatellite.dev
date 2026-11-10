@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pleroma-297a0acad012-guide",
+  "title": "How to Deploy Pleroma in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pleroma-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pleroma.",
+  "targetKeywords": [
+    "Pleroma",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pleroma.social"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pleroma with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-reqbin-29f288b7c18e-guide",
+  "title": "How to Deploy ReqBin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-reqbin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ReqBin.",
+  "targetKeywords": [
+    "ReqBin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://reqbin.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ReqBin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

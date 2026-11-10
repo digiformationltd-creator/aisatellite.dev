@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-feedback-fish-6d67ae3567ea-guide",
+  "title": "How to Deploy feedback.fish in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-feedback-fish-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for feedback.fish.",
+  "targetKeywords": [
+    "feedback.fish",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://feedback.fish/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting feedback.fish with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

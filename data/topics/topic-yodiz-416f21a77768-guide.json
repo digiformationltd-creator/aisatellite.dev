@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-yodiz-416f21a77768-guide",
+  "title": "How to Deploy Yodiz in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-yodiz-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Yodiz.",
+  "targetKeywords": [
+    "Yodiz",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.yodiz.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Yodiz with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

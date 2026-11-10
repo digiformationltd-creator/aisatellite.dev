@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stardesk-c78a24c93339-guide",
+  "title": "How to Deploy StarDesk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stardesk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for StarDesk.",
+  "targetKeywords": [
+    "StarDesk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.stardesk.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting StarDesk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

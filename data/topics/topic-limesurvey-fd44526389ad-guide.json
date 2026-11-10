@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-limesurvey-fd44526389ad-guide",
+  "title": "How to Deploy LimeSurvey in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-limesurvey-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LimeSurvey.",
+  "targetKeywords": [
+    "LimeSurvey",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.limesurvey.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LimeSurvey with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

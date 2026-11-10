@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sendstreak-ab076d8ab0c1-guide",
+  "title": "How to Deploy SendStreak in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sendstreak-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SendStreak.",
+  "targetKeywords": [
+    "SendStreak",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.sendstreak.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SendStreak with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-currencyapi-94cdb250d83e-guide",
+  "title": "How to Deploy Currencyapi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-currencyapi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Currencyapi.",
+  "targetKeywords": [
+    "Currencyapi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://currencyapi.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Currencyapi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

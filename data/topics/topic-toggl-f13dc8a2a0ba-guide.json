@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-toggl-f13dc8a2a0ba-guide",
+  "title": "How to Deploy Toggl in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-toggl-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Toggl.",
+  "targetKeywords": [
+    "Toggl",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://toggl.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Toggl with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

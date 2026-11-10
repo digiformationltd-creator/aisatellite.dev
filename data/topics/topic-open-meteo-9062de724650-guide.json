@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-open-meteo-9062de724650-guide",
+  "title": "How to Deploy Open-Meteo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-open-meteo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Open-Meteo.",
+  "targetKeywords": [
+    "Open-Meteo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://open-meteo.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Open-Meteo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

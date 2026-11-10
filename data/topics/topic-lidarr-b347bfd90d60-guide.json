@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lidarr-b347bfd90d60-guide",
+  "title": "How to Deploy Lidarr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lidarr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lidarr.",
+  "targetKeywords": [
+    "Lidarr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://lidarr.audio/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lidarr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

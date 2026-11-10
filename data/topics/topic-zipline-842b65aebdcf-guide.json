@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zipline-842b65aebdcf-guide",
+  "title": "How to Deploy Zipline in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zipline-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zipline.",
+  "targetKeywords": [
+    "Zipline",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/diced/zipline"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Zipline with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

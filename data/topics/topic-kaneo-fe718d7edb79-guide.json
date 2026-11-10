@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kaneo-fe718d7edb79-guide",
+  "title": "How to Deploy Kaneo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kaneo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kaneo.",
+  "targetKeywords": [
+    "Kaneo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kaneo.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kaneo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

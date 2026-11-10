@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-teamsort-0f907f01d4a4-guide",
+  "title": "How to Deploy TeamSort in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-teamsort-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TeamSort.",
+  "targetKeywords": [
+    "TeamSort",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://teamsort.world"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TeamSort with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

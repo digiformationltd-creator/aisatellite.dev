@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-d8a-tech-78ff4c29d060-guide",
+  "title": "How to Deploy d8a.tech in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-d8a-tech-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for d8a.tech.",
+  "targetKeywords": [
+    "d8a.tech",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://d8a.tech"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting d8a.tech with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gleek-io-d1c3a388fb0c-guide",
+  "title": "How to Deploy gleek.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gleek-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for gleek.io.",
+  "targetKeywords": [
+    "gleek.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.gleek.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting gleek.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

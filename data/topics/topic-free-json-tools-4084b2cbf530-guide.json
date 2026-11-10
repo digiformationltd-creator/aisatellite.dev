@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-free-json-tools-4084b2cbf530-guide",
+  "title": "How to Deploy free-json-tools in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-free-json-tools-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for free-json-tools.",
+  "targetKeywords": [
+    "free-json-tools",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/CloudConsultant2/free-json-tools"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting free-json-tools with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.509Z"
+}

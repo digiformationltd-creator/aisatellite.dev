@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-poeditor-f60d6b33061e-guide",
+  "title": "How to Deploy POEditor in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-poeditor-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for POEditor.",
+  "targetKeywords": [
+    "POEditor",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://poeditor.com/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting POEditor with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

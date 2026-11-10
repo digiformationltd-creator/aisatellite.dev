@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zenable-86bd6f644a39-guide",
+  "title": "How to Deploy Zenable in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zenable-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zenable.",
+  "targetKeywords": [
+    "Zenable",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zenable.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zenable with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.514Z"
+}

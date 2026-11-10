@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-srs-2190e72bc76b-guide",
+  "title": "How to Deploy SRS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-srs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SRS.",
+  "targetKeywords": [
+    "SRS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ossrs.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SRS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

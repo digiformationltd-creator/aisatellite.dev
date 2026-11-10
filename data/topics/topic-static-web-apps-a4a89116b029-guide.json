@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-static-web-apps-a4a89116b029-guide",
+  "title": "How to Deploy Static Web Apps in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-static-web-apps-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Static Web Apps.",
+  "targetKeywords": [
+    "Static Web Apps",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/pricing/details/app-service/static/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Static Web Apps with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.513Z"
+}

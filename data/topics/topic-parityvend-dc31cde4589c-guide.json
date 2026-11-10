@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-parityvend-dc31cde4589c-guide",
+  "title": "How to Deploy ParityVend in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-parityvend-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ParityVend.",
+  "targetKeywords": [
+    "ParityVend",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.ambeteco.com/ParityVend/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ParityVend with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.512Z"
+}

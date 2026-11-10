@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kanbanflow-com-79d3c81a5481-guide",
+  "title": "How to Deploy kanbanflow.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kanbanflow-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for kanbanflow.com.",
+  "targetKeywords": [
+    "kanbanflow.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kanbanflow.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting kanbanflow.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.511Z"
+}

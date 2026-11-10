@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-earnings-feed-002451d914c4-guide",
+  "title": "How to Deploy Earnings Feed in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-earnings-feed-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Earnings Feed.",
+  "targetKeywords": [
+    "Earnings Feed",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://earningsfeed.com/api"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Earnings Feed with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-continuwuity-083088d0ccf7-guide",
+  "title": "How to Deploy Continuwuity in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-continuwuity-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Continuwuity.",
+  "targetKeywords": [
+    "Continuwuity",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://continuwuity.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Continuwuity with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-10T12:14:54.508Z"
+}
