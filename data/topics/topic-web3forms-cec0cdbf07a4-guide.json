@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-web3forms-cec0cdbf07a4-guide",
+  "title": "How to Deploy Web3Forms in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-web3forms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Web3Forms.",
+  "targetKeywords": [
+    "Web3Forms",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://web3forms.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Web3Forms with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.332Z"
+}

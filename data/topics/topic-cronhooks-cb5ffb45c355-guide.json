@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cronhooks-cb5ffb45c355-guide",
+  "title": "How to Deploy Cronhooks in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cronhooks-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cronhooks.",
+  "targetKeywords": [
+    "Cronhooks",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cronhooks.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cronhooks with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

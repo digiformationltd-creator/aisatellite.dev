@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-digislides-122bcebc01de-guide",
+  "title": "How to Deploy Digislides in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-digislides-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Digislides.",
+  "targetKeywords": [
+    "Digislides",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ladigitale.dev/digislides/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Digislides with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

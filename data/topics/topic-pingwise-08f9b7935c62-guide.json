@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pingwise-08f9b7935c62-guide",
+  "title": "How to Deploy PingWise in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pingwise-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PingWise.",
+  "targetKeywords": [
+    "PingWise",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pingwise.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PingWise with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

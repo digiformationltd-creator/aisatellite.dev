@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hamsterbase-tasks-e62847404b64-guide",
+  "title": "How to Deploy HamsterBase Tasks in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hamsterbase-tasks-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HamsterBase Tasks.",
+  "targetKeywords": [
+    "HamsterBase Tasks",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tasks.hamsterbase.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HamsterBase Tasks with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-edx-125a32b62590-guide",
+  "title": "How to Deploy edX in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-edx-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for edX.",
+  "targetKeywords": [
+    "edX",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.edx.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting edX with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.327Z"
+}

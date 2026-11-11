@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-auth0-51017da681cd-guide",
+  "title": "How to Deploy Auth0 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-auth0-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Auth0.",
+  "targetKeywords": [
+    "Auth0",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://auth0.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Auth0 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

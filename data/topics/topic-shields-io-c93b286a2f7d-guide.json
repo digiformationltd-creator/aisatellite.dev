@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shields-io-c93b286a2f7d-guide",
+  "title": "How to Deploy shields.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shields-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for shields.io.",
+  "targetKeywords": [
+    "shields.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://shields.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting shields.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-xwiki-4410cb78f4c2-guide",
+  "title": "How to Deploy XWiki in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-xwiki-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for XWiki.",
+  "targetKeywords": [
+    "XWiki",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.xwiki.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting XWiki with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.332Z"
+}

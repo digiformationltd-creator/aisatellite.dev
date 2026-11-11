@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-suitecrm-e9245ac54793-guide",
+  "title": "How to Deploy SuiteCRM in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-suitecrm-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SuiteCRM.",
+  "targetKeywords": [
+    "SuiteCRM",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://suitecrm.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SuiteCRM with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

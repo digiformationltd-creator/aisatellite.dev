@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloud-cost-analyzer-85fbf3d4afc9-guide",
+  "title": "How to Deploy Cloud Cost Analyzer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloud-cost-analyzer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloud Cost Analyzer.",
+  "targetKeywords": [
+    "Cloud Cost Analyzer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cca.dragonfractal.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cloud Cost Analyzer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

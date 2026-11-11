@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ssr-server-side-rendering-checker-4d3c3dc25e85-guide",
+  "title": "How to Deploy SSR (Server-side Rendering) Checker in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ssr-server-side-rendering-checker-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SSR (Server-side Rendering) Checker.",
+  "targetKeywords": [
+    "SSR (Server-side Rendering) Checker",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.crawlably.com/ssr-checker/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SSR (Server-side Rendering) Checker with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

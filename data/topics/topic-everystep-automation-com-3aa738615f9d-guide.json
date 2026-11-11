@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-everystep-automation-com-3aa738615f9d-guide",
+  "title": "How to Deploy everystep-automation.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-everystep-automation-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for everystep-automation.com.",
+  "targetKeywords": [
+    "everystep-automation.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.everystep-automation.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting everystep-automation.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.327Z"
+}

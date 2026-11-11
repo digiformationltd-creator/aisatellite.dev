@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-agentisland-096dfa4ea347-guide",
+  "title": "How to Deploy AgentIsland in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-agentisland-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AgentIsland.",
+  "targetKeywords": [
+    "AgentIsland",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/R3dra1n/AgentIsland"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting AgentIsland with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

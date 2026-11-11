@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-forms-app-ecb3af87ac61-guide",
+  "title": "How to Deploy forms.app in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-forms-app-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for forms.app.",
+  "targetKeywords": [
+    "forms.app",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://forms.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting forms.app with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.327Z"
+}

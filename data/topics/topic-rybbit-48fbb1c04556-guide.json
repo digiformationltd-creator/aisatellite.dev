@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rybbit-48fbb1c04556-guide",
+  "title": "How to Deploy Rybbit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rybbit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Rybbit.",
+  "targetKeywords": [
+    "Rybbit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://rybbit.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Rybbit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

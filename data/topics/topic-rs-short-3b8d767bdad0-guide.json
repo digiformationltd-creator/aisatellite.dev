@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rs-short-3b8d767bdad0-guide",
+  "title": "How to Deploy rs-short in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rs-short-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for rs-short.",
+  "targetKeywords": [
+    "rs-short",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://git.42l.fr/42l/rs-short"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting rs-short with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

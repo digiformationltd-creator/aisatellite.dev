@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aicalc-bb2bc169e72c-guide",
+  "title": "How to Deploy aicalc in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aicalc-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for aicalc.",
+  "targetKeywords": [
+    "aicalc",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/w932635477-bit/aicalc"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting aicalc with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

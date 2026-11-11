@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-labelixa-135199c558d9-guide",
+  "title": "How to Deploy Labelixa in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-labelixa-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Labelixa.",
+  "targetKeywords": [
+    "Labelixa",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://labelixa.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Labelixa with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

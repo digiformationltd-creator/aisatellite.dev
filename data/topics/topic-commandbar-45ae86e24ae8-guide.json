@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-commandbar-45ae86e24ae8-guide",
+  "title": "How to Deploy CommandBar in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-commandbar-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CommandBar.",
+  "targetKeywords": [
+    "CommandBar",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.commandbar.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CommandBar with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

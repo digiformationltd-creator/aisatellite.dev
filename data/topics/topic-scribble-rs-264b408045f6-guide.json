@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-scribble-rs-264b408045f6-guide",
+  "title": "How to Deploy Scribble.rs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-scribble-rs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Scribble.rs.",
+  "targetKeywords": [
+    "Scribble.rs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/scribble-rs/scribble.rs"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Scribble.rs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

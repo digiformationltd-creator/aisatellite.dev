@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-memfault-com-68da8f5d1658-guide",
+  "title": "How to Deploy memfault.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-memfault-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for memfault.com.",
+  "targetKeywords": [
+    "memfault.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://memfault.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting memfault.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

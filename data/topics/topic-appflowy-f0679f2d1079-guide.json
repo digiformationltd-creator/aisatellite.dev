@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-appflowy-f0679f2d1079-guide",
+  "title": "How to Deploy AppFlowy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-appflowy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AppFlowy.",
+  "targetKeywords": [
+    "AppFlowy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://appflowy.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AppFlowy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

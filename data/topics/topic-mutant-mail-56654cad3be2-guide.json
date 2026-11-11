@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mutant-mail-56654cad3be2-guide",
+  "title": "How to Deploy Mutant Mail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mutant-mail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mutant Mail.",
+  "targetKeywords": [
+    "Mutant Mail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mutantmail.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mutant Mail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

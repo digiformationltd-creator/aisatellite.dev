@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-languagetool-9b0e8351b8b9-guide",
+  "title": "How to Deploy LanguageTool in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-languagetool-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LanguageTool.",
+  "targetKeywords": [
+    "LanguageTool",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://languagetool.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LanguageTool with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

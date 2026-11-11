@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rendi-f3b2e94a2507-guide",
+  "title": "How to Deploy Rendi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rendi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Rendi.",
+  "targetKeywords": [
+    "Rendi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://rendi.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Rendi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

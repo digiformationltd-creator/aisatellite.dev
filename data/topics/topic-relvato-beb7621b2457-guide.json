@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-relvato-beb7621b2457-guide",
+  "title": "How to Deploy Relvato in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-relvato-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Relvato.",
+  "targetKeywords": [
+    "Relvato",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.relvato.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Relvato with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

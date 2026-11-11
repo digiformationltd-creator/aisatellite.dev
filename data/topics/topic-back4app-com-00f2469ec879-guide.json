@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-back4app-com-00f2469ec879-guide",
+  "title": "How to Deploy back4app.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-back4app-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for back4app.com.",
+  "targetKeywords": [
+    "back4app.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.back4app.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting back4app.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

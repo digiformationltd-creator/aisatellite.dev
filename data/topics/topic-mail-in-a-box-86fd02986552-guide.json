@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mail-in-a-box-86fd02986552-guide",
+  "title": "How to Deploy Mail-in-a-Box in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mail-in-a-box-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mail-in-a-Box.",
+  "targetKeywords": [
+    "Mail-in-a-Box",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mailinabox.email/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mail-in-a-Box with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

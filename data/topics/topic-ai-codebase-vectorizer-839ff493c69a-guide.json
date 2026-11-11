@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ai-codebase-vectorizer-839ff493c69a-guide",
+  "title": "How to Deploy AI-Codebase-Vectorizer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ai-codebase-vectorizer-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AI-Codebase-Vectorizer.",
+  "targetKeywords": [
+    "AI-Codebase-Vectorizer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/1HUNZ/AI-Codebase-Vectorizer"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting AI-Codebase-Vectorizer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

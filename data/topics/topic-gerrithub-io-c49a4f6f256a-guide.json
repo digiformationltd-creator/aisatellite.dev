@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gerrithub-io-c49a4f6f256a-guide",
+  "title": "How to Deploy gerrithub.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gerrithub-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for gerrithub.io.",
+  "targetKeywords": [
+    "gerrithub.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://review.gerrithub.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting gerrithub.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.328Z"
+}

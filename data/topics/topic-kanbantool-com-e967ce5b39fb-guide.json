@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kanbantool-com-e967ce5b39fb-guide",
+  "title": "How to Deploy kanbantool.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kanbantool-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for kanbantool.com.",
+  "targetKeywords": [
+    "kanbantool.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kanbantool.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting kanbantool.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

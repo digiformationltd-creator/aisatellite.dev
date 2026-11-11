@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-druid-f541b3041cff-guide",
+  "title": "How to Deploy Druid in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-druid-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Druid.",
+  "targetKeywords": [
+    "Druid",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://druid.apache.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Druid with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

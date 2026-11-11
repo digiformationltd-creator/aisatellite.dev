@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-solidus-1c2130efb2e1-guide",
+  "title": "How to Deploy Solidus in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-solidus-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Solidus.",
+  "targetKeywords": [
+    "Solidus",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://solidus.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Solidus with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

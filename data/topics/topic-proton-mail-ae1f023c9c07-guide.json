@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-proton-mail-ae1f023c9c07-guide",
+  "title": "How to Deploy Proton Mail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-proton-mail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Proton Mail.",
+  "targetKeywords": [
+    "Proton Mail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://proton.me/mail"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Proton Mail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vipera-f952df05f82f-guide",
+  "title": "How to Deploy vipera in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vipera-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for vipera.",
+  "targetKeywords": [
+    "vipera",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/vipera-iso/vipera"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting vipera with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.332Z"
+}

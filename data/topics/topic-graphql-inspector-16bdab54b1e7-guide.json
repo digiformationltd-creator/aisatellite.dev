@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-graphql-inspector-16bdab54b1e7-guide",
+  "title": "How to Deploy GraphQL Inspector in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-graphql-inspector-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GraphQL Inspector.",
+  "targetKeywords": [
+    "GraphQL Inspector",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/marketplace/graphql-inspector"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting GraphQL Inspector with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

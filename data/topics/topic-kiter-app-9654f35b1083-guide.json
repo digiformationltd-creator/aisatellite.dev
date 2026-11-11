@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kiter-app-9654f35b1083-guide",
+  "title": "How to Deploy Kiter.app in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kiter-app-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kiter.app.",
+  "targetKeywords": [
+    "Kiter.app",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.kiter.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kiter.app with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

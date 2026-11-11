@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ifttt-f1af73261f0a-guide",
+  "title": "How to Deploy IFTTT in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ifttt-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IFTTT.",
+  "targetKeywords": [
+    "IFTTT",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ifttt.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IFTTT with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

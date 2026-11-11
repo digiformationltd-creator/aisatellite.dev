@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-medusajs-938b9d4a4a30-guide",
+  "title": "How to Deploy MedusaJs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-medusajs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MedusaJs.",
+  "targetKeywords": [
+    "MedusaJs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://medusajs.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MedusaJs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

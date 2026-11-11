@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-landen-co-2c7320a22fb7-guide",
+  "title": "How to Deploy landen.co in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-landen-co-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for landen.co.",
+  "targetKeywords": [
+    "landen.co",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.landen.co"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting landen.co with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

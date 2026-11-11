@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-personal-management-system-f73c0afb5eb1-guide",
+  "title": "How to Deploy Personal Management System in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-personal-management-system-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Personal Management System.",
+  "targetKeywords": [
+    "Personal Management System",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://volmarg.github.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Personal Management System with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-git-annex-49743ceab7f4-guide",
+  "title": "How to Deploy Git Annex in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-git-annex-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Git Annex.",
+  "targetKeywords": [
+    "Git Annex",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://git-annex.branchable.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Git Annex with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.328Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-live-helper-chat-a7b75b91ede3-guide",
+  "title": "How to Deploy Live Helper Chat in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-live-helper-chat-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Live Helper Chat.",
+  "targetKeywords": [
+    "Live Helper Chat",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://livehelperchat.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Live Helper Chat with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

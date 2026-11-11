@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-d1-0af1a6f04e31-guide",
+  "title": "How to Deploy D1 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-d1-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for D1.",
+  "targetKeywords": [
+    "D1",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developers.cloudflare.com/d1/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting D1 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

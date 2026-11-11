@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sslip-io-bc75d1d96196-guide",
+  "title": "How to Deploy sslip.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sslip-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for sslip.io.",
+  "targetKeywords": [
+    "sslip.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sslip.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting sslip.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

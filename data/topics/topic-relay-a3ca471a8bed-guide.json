@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-relay-a3ca471a8bed-guide",
+  "title": "How to Deploy relay in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-relay-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for relay.",
+  "targetKeywords": [
+    "relay",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/badlinuxuser/relay"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting relay with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

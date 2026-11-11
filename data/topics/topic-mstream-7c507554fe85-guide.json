@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mstream-7c507554fe85-guide",
+  "title": "How to Deploy mStream in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mstream-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mStream.",
+  "targetKeywords": [
+    "mStream",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mstream.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mStream with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-iredmail-af627fcbd5a9-guide",
+  "title": "How to Deploy iRedMail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-iredmail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for iRedMail.",
+  "targetKeywords": [
+    "iRedMail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.iredmail.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting iRedMail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

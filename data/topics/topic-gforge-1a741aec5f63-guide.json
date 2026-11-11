@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gforge-1a741aec5f63-guide",
+  "title": "How to Deploy GForge in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gforge-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GForge.",
+  "targetKeywords": [
+    "GForge",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gforge.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GForge with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.328Z"
+}

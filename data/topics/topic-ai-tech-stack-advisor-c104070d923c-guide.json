@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ai-tech-stack-advisor-c104070d923c-guide",
+  "title": "How to Deploy ai-tech-stack-advisor in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ai-tech-stack-advisor-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ai-tech-stack-advisor.",
+  "targetKeywords": [
+    "ai-tech-stack-advisor",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/stargirl97/ai-tech-stack-advisor"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting ai-tech-stack-advisor with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

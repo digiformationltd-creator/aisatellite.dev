@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hi-events-4243df2ced5a-guide",
+  "title": "How to Deploy Hi.Events in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hi-events-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hi.Events.",
+  "targetKeywords": [
+    "Hi.Events",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hi.events"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hi.Events with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

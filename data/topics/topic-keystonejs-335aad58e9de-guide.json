@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-keystonejs-335aad58e9de-guide",
+  "title": "How to Deploy KeystoneJS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-keystonejs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for KeystoneJS.",
+  "targetKeywords": [
+    "KeystoneJS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://keystonejs.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting KeystoneJS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

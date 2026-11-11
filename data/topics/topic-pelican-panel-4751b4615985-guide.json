@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pelican-panel-4751b4615985-guide",
+  "title": "How to Deploy Pelican Panel in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pelican-panel-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pelican Panel.",
+  "targetKeywords": [
+    "Pelican Panel",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pelican.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pelican Panel with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

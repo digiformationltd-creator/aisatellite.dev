@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-canary-tokens-2c946b377cf5-guide",
+  "title": "How to Deploy Canary Tokens in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-canary-tokens-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Canary Tokens.",
+  "targetKeywords": [
+    "Canary Tokens",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://canarytokens.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Canary Tokens with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

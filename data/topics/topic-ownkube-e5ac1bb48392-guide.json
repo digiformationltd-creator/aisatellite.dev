@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ownkube-e5ac1bb48392-guide",
+  "title": "How to Deploy Ownkube in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ownkube-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ownkube.",
+  "targetKeywords": [
+    "Ownkube",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ownkube.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ownkube with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

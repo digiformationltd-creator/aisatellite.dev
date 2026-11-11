@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-retrom-4e9a49749d41-guide",
+  "title": "How to Deploy Retrom in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-retrom-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Retrom.",
+  "targetKeywords": [
+    "Retrom",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/JMBeresford/retrom"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Retrom with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

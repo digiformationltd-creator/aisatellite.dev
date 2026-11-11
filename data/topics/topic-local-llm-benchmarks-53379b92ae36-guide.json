@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-local-llm-benchmarks-53379b92ae36-guide",
+  "title": "How to Deploy local-llm-benchmarks in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-local-llm-benchmarks-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for local-llm-benchmarks.",
+  "targetKeywords": [
+    "local-llm-benchmarks",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/kr4ckhe4d/local-llm-benchmarks"
+  ],
+  "priorityScore": 90,
+  "contentGapRationale": "High developer demand for self-hosting local-llm-benchmarks with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

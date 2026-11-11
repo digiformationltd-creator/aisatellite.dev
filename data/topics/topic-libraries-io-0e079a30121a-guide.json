@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-libraries-io-0e079a30121a-guide",
+  "title": "How to Deploy libraries.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-libraries-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for libraries.io.",
+  "targetKeywords": [
+    "libraries.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://libraries.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting libraries.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

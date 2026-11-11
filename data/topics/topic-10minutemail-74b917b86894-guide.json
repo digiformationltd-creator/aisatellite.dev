@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-10minutemail-74b917b86894-guide",
+  "title": "How to Deploy 10minutemail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-10minutemail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for 10minutemail.",
+  "targetKeywords": [
+    "10minutemail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://10minutemail.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting 10minutemail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

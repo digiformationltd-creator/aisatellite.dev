@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-note-mark-c9962aabe4dd-guide",
+  "title": "How to Deploy Note Mark in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-note-mark-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Note Mark.",
+  "targetKeywords": [
+    "Note Mark",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://notemark.docs.enchantedcode.co.uk/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Note Mark with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

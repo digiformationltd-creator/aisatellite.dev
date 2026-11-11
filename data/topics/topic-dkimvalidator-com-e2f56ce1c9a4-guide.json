@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dkimvalidator-com-e2f56ce1c9a4-guide",
+  "title": "How to Deploy dkimvalidator.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dkimvalidator-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for dkimvalidator.com.",
+  "targetKeywords": [
+    "dkimvalidator.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dkimvalidator.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting dkimvalidator.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

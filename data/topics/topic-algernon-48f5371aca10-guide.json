@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-algernon-48f5371aca10-guide",
+  "title": "How to Deploy Algernon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-algernon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Algernon.",
+  "targetKeywords": [
+    "Algernon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://algernon.roboticoverlords.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Algernon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

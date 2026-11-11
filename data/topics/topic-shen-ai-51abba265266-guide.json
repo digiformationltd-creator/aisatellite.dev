@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shen-ai-51abba265266-guide",
+  "title": "How to Deploy shen-ai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shen-ai-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for shen-ai.",
+  "targetKeywords": [
+    "shen-ai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/shenald-dev/shen-ai"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting shen-ai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-botwave-0fff2e126894-guide",
+  "title": "How to Deploy BotWave in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-botwave-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BotWave.",
+  "targetKeywords": [
+    "BotWave",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://botwave.dpip.lol"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BotWave with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.325Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-yeti-switch-e0cd8b2a9517-guide",
+  "title": "How to Deploy Yeti-Switch in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-yeti-switch-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Yeti-Switch.",
+  "targetKeywords": [
+    "Yeti-Switch",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://yeti-switch.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Yeti-Switch with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.332Z"
+}

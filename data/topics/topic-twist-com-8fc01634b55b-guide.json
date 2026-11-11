@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-twist-com-8fc01634b55b-guide",
+  "title": "How to Deploy twist.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-twist-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for twist.com.",
+  "targetKeywords": [
+    "twist.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://twist.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting twist.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.332Z"
+}

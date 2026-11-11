@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-packagecloud-io-c022b3d11bdc-guide",
+  "title": "How to Deploy packagecloud.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-packagecloud-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for packagecloud.io.",
+  "targetKeywords": [
+    "packagecloud.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://packagecloud.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting packagecloud.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

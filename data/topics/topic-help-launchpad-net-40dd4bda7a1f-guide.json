@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-help-launchpad-net-40dd4bda7a1f-guide",
+  "title": "How to Deploy help.launchpad.net in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-help-launchpad-net-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for help.launchpad.net.",
+  "targetKeywords": [
+    "help.launchpad.net",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://help.launchpad.net/Packaging"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting help.launchpad.net with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

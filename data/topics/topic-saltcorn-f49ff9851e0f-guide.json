@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-saltcorn-f49ff9851e0f-guide",
+  "title": "How to Deploy Saltcorn in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-saltcorn-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Saltcorn.",
+  "targetKeywords": [
+    "Saltcorn",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://saltcorn.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Saltcorn with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

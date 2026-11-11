@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-copr-fedorainfracloud-org-00944da56099-guide",
+  "title": "How to Deploy copr.fedorainfracloud.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-copr-fedorainfracloud-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for copr.fedorainfracloud.org.",
+  "targetKeywords": [
+    "copr.fedorainfracloud.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://copr.fedorainfracloud.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting copr.fedorainfracloud.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

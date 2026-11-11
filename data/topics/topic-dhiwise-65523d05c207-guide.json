@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dhiwise-65523d05c207-guide",
+  "title": "How to Deploy DhiWise in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dhiwise-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DhiWise.",
+  "targetKeywords": [
+    "DhiWise",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.dhiwise.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DhiWise with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.326Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-koha-46f3c1e880d1-guide",
+  "title": "How to Deploy Koha in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-koha-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Koha.",
+  "targetKeywords": [
+    "Koha",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://koha-community.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Koha with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

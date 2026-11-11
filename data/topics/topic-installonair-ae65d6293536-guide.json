@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-installonair-ae65d6293536-guide",
+  "title": "How to Deploy InstallOnAir in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-installonair-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for InstallOnAir.",
+  "targetKeywords": [
+    "InstallOnAir",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.installonair.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting InstallOnAir with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

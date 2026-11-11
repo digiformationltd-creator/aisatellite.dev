@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-screenshotbase-com-6786254dc49a-guide",
+  "title": "How to Deploy screenshotbase.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-screenshotbase-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for screenshotbase.com.",
+  "targetKeywords": [
+    "screenshotbase.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://screenshotbase.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting screenshotbase.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

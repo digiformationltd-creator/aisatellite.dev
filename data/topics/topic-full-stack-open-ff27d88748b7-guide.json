@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-full-stack-open-ff27d88748b7-guide",
+  "title": "How to Deploy Full Stack Open in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-full-stack-open-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Full Stack Open.",
+  "targetKeywords": [
+    "Full Stack Open",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fullstackopen.com/en/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Full Stack Open with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.328Z"
+}

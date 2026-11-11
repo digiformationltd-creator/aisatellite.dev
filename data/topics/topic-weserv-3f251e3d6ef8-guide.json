@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-weserv-3f251e3d6ef8-guide",
+  "title": "How to Deploy weserv in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-weserv-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for weserv.",
+  "targetKeywords": [
+    "weserv",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://images.weserv.nl/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting weserv with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.332Z"
+}

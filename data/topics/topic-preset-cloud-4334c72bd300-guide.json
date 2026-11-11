@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-preset-cloud-4334c72bd300-guide",
+  "title": "How to Deploy Preset Cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-preset-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Preset Cloud.",
+  "targetKeywords": [
+    "Preset Cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://preset.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Preset Cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

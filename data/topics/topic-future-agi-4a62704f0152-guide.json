@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-future-agi-4a62704f0152-guide",
+  "title": "How to Deploy Future AGI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-future-agi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Future AGI.",
+  "targetKeywords": [
+    "Future AGI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://futureagi.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Future AGI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.328Z"
+}

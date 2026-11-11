@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mailchannels-com-c32885601962-guide",
+  "title": "How to Deploy mailchannels.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mailchannels-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mailchannels.com.",
+  "targetKeywords": [
+    "mailchannels.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mailchannels.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mailchannels.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.329Z"
+}

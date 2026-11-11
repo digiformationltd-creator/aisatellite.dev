@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tabularedge-7b-9353fe8b592c-guide",
+  "title": "How to Deploy TabularEdge-7B in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tabularedge-7b-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TabularEdge-7B.",
+  "targetKeywords": [
+    "TabularEdge-7B",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/1034592/TabularEdge-7B"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting TabularEdge-7B with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

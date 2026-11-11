@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-resourcespace-09e581126868-guide",
+  "title": "How to Deploy ResourceSpace in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-resourcespace-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ResourceSpace.",
+  "targetKeywords": [
+    "ResourceSpace",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.resourcespace.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ResourceSpace with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

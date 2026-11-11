@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-titra-5a14985e7323-guide",
+  "title": "How to Deploy Titra in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-titra-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Titra.",
+  "targetKeywords": [
+    "Titra",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://titra.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Titra with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.332Z"
+}

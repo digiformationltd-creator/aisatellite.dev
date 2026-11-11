@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-opencloud-6fa53311bfb6-guide",
+  "title": "How to Deploy OpenCloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-opencloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenCloud.",
+  "targetKeywords": [
+    "OpenCloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.opencloud.eu/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenCloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

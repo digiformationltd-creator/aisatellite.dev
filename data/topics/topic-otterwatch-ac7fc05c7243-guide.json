@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-otterwatch-ac7fc05c7243-guide",
+  "title": "How to Deploy Otterwatch in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-otterwatch-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Otterwatch.",
+  "targetKeywords": [
+    "Otterwatch",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://otterwatch.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Otterwatch with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}

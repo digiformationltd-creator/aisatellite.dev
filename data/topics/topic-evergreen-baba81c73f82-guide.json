@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-evergreen-baba81c73f82-guide",
+  "title": "How to Deploy Evergreen in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-evergreen-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Evergreen.",
+  "targetKeywords": [
+    "Evergreen",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://evergreen-ils.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Evergreen with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.327Z"
+}

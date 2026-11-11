@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-uusec-waf-6c3bf68815c1-guide",
+  "title": "How to Deploy UUSEC WAF in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-uusec-waf-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for UUSEC WAF.",
+  "targetKeywords": [
+    "UUSEC WAF",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://waf.uusec.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting UUSEC WAF with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.332Z"
+}

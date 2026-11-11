@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-revolt-chat-1b79564a972d-guide",
+  "title": "How to Deploy Revolt.chat in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-revolt-chat-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Revolt.chat.",
+  "targetKeywords": [
+    "Revolt.chat",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://revolt.chat/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Revolt.chat with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.331Z"
+}

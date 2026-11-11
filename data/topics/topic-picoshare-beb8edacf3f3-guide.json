@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-picoshare-beb8edacf3f3-guide",
+  "title": "How to Deploy PicoShare in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-picoshare-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PicoShare.",
+  "targetKeywords": [
+    "PicoShare",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/mtlynch/picoshare"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting PicoShare with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-11T11:43:08.330Z"
+}
