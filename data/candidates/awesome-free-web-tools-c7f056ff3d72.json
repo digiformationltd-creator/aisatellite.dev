@@ -37,7 +37,9 @@
   "evidenceUrls": [
     "https://github.com/TanbirAhamed/awesome-free-web-tools"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.832Z",
-  "updatedAt": "2026-11-11T07:22:40.832Z"
+  "updatedAt": "2026-11-11T07:22:40.832Z",
+  "lastVerified": "2026-11-11T08:59:15.810Z",
+  "qualityScore": 75
 }

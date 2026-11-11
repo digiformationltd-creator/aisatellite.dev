@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://events.indieweb.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.272Z",
-  "updatedAt": "2026-11-11T07:22:40.272Z"
+  "updatedAt": "2026-11-11T07:22:40.272Z",
+  "lastVerified": "2026-11-11T09:07:12.000Z",
+  "qualityScore": 52
 }

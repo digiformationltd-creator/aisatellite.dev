@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://mylar.nerdfirehurricane.com/"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-11T07:22:40.267Z",
-  "updatedAt": "2026-11-11T07:22:40.267Z"
+  "updatedAt": "2026-11-11T07:22:40.267Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

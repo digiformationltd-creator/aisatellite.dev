@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tellor.cc/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.273Z",
-  "updatedAt": "2026-11-11T07:22:40.273Z"
+  "updatedAt": "2026-11-11T07:22:40.273Z",
+  "lastVerified": "2026-11-11T09:13:41.108Z",
+  "qualityScore": 52
 }

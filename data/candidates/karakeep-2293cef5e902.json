@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://karakeep.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.267Z",
-  "updatedAt": "2026-11-11T07:22:40.267Z"
+  "updatedAt": "2026-11-11T07:22:40.267Z",
+  "lastVerified": "2026-11-11T09:05:44.975Z",
+  "qualityScore": 52
 }

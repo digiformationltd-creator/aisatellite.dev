@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://calendly.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.168Z",
-  "updatedAt": "2026-11-11T07:22:40.168Z"
+  "updatedAt": "2026-11-11T07:22:40.168Z",
+  "lastVerified": "2026-11-11T08:59:56.781Z",
+  "qualityScore": 52
 }

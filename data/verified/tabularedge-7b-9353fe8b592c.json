@@ -1,0 +1,37 @@
+{
+  "id": "tabularedge-7b-9353fe8b592c",
+  "canonicalUrl": "https://github.com/1034592/TabularEdge-7B",
+  "name": "TabularEdge-7B",
+  "description": "Privacy-first edge LLM & native streaming execution engine for local spreadsheets (Qwen2.5-Coder-7B + ROME surgery + streaming OOXML).",
+  "category": "local-llm",
+  "tags": [
+    "edge-llm",
+    "gguf",
+    "llm-inference",
+    "mechanistic-interpretability",
+    "model-editing",
+    "offline-ai",
+    "ooxml",
+    "privacy-first",
+    "python",
+    "qwen2-5",
+    "rome",
+    "spreadsheet"
+  ],
+  "repositoryUrl": "https://github.com/1034592/TabularEdge-7B",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/1034592/TabularEdge-7B/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-11T07:08:40Z",
+  "evidenceUrls": [
+    "https://github.com/1034592/TabularEdge-7B"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-11T07:22:41.291Z",
+  "updatedAt": "2026-11-11T07:22:41.291Z",
+  "lastVerified": "2026-11-11T09:13:30.086Z",
+  "qualityScore": 78
+}

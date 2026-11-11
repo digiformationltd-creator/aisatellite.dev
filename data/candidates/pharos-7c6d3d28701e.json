@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pharos.email"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.173Z",
-  "updatedAt": "2026-11-11T07:22:40.173Z"
+  "updatedAt": "2026-11-11T07:22:40.173Z",
+  "lastVerified": "2026-11-11T09:09:18.148Z",
+  "qualityScore": 52
 }

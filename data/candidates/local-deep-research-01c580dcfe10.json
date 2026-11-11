@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/LearningCircuit/local-deep-research"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.270Z",
-  "updatedAt": "2026-11-11T07:22:40.270Z"
+  "updatedAt": "2026-11-11T07:22:40.270Z",
+  "lastVerified": "2026-11-11T09:06:29.055Z",
+  "qualityScore": 55
 }

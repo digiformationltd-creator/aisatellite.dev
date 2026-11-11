@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.awardspace.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.174Z",
-  "updatedAt": "2026-11-11T07:22:40.174Z"
+  "updatedAt": "2026-11-11T07:22:40.174Z",
+  "lastVerified": "2026-11-11T08:59:14.903Z",
+  "qualityScore": 52
 }

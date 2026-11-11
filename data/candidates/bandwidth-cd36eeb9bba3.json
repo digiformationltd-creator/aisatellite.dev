@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/pricing/details/bandwidth/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.166Z",
-  "updatedAt": "2026-11-11T07:22:40.166Z"
+  "updatedAt": "2026-11-11T07:22:40.166Z",
+  "lastVerified": "2026-11-11T08:59:24.264Z",
+  "qualityScore": 47
 }

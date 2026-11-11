@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://daestro.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.174Z",
-  "updatedAt": "2026-11-11T07:22:40.174Z"
+  "updatedAt": "2026-11-11T07:22:40.174Z",
+  "lastVerified": "2026-11-11T09:01:07.347Z",
+  "qualityScore": 52
 }

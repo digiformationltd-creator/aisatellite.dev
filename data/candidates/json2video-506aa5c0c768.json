@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://json2video.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.167Z",
-  "updatedAt": "2026-11-11T07:22:40.167Z"
+  "updatedAt": "2026-11-11T07:22:40.167Z",
+  "lastVerified": "2026-11-11T09:05:35.628Z",
+  "qualityScore": 52
 }

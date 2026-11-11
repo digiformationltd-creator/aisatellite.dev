@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sylius.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.269Z",
-  "updatedAt": "2026-11-11T07:22:40.269Z"
+  "updatedAt": "2026-11-11T07:22:40.269Z",
+  "lastVerified": "2026-11-11T09:13:25.087Z",
+  "qualityScore": 52
 }

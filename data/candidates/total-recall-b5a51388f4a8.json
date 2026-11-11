@@ -26,7 +26,9 @@
   "evidenceUrls": [
     "https://github.com/strvmarv/total-recall"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:41.759Z",
-  "updatedAt": "2026-11-11T07:22:41.759Z"
+  "updatedAt": "2026-11-11T07:22:41.759Z",
+  "lastVerified": "2026-11-11T09:14:07.502Z",
+  "qualityScore": 80
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://libretime.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.271Z",
-  "updatedAt": "2026-11-11T07:22:40.271Z"
+  "updatedAt": "2026-11-11T07:22:40.271Z",
+  "lastVerified": "2026-11-11T09:06:13.138Z",
+  "qualityScore": 52
 }

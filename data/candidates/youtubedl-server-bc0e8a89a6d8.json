@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/nbr23/youtube-dl-server"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.271Z",
-  "updatedAt": "2026-11-11T07:22:40.271Z"
+  "updatedAt": "2026-11-11T07:22:40.271Z",
+  "lastVerified": "2026-11-11T09:15:29.597Z",
+  "qualityScore": 55
 }

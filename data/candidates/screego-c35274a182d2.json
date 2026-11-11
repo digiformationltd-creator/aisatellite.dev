@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://screego.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.267Z",
-  "updatedAt": "2026-11-11T07:22:40.267Z"
+  "updatedAt": "2026-11-11T07:22:40.267Z",
+  "lastVerified": "2026-11-11T09:11:32.764Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,34 @@
+{
+  "id": "total-recall-b5a51388f4a8",
+  "canonicalUrl": "https://github.com/strvmarv/total-recall",
+  "name": "total-recall",
+  "description": "Multi-tiered memory and knowledge base plugin for TUI coding assistants (Claude Code, Copilot CLI, OpenCode, Cline, Cursor)",
+  "category": "ai-coding",
+  "tags": [
+    "ai-coding",
+    "claude-code",
+    "copilot-cli",
+    "knowledge-base",
+    "mcp",
+    "memory",
+    "sqlite",
+    "tui",
+    "vector-search"
+  ],
+  "repositoryUrl": "https://github.com/strvmarv/total-recall",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/strvmarv/total-recall/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 15,
+  "githubForks": 5,
+  "lastRepositoryUpdate": "2026-11-11T03:29:54Z",
+  "evidenceUrls": [
+    "https://github.com/strvmarv/total-recall"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-11T07:22:41.759Z",
+  "updatedAt": "2026-11-11T07:22:41.759Z",
+  "lastVerified": "2026-11-11T09:14:07.502Z",
+  "qualityScore": 80
+}

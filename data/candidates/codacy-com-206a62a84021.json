@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.codacy.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.168Z",
-  "updatedAt": "2026-11-11T07:22:40.168Z"
+  "updatedAt": "2026-11-11T07:22:40.168Z",
+  "lastVerified": "2026-11-11T09:00:33.607Z",
+  "qualityScore": 52
 }

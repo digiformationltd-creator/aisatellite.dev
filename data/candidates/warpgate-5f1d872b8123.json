@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/warp-tech/warpgate"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.272Z",
-  "updatedAt": "2026-11-11T07:22:40.272Z"
+  "updatedAt": "2026-11-11T07:22:40.272Z",
+  "lastVerified": "2026-11-11T09:14:56.452Z",
+  "qualityScore": 55
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://webstudio.is/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.176Z",
-  "updatedAt": "2026-11-11T07:22:40.176Z"
+  "updatedAt": "2026-11-11T07:22:40.176Z",
+  "lastVerified": "2026-11-11T09:15:05.722Z",
+  "qualityScore": 52
 }

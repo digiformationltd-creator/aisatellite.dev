@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.manageengine.com/cloud-siem/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.171Z",
-  "updatedAt": "2026-11-11T07:22:40.171Z"
+  "updatedAt": "2026-11-11T07:22:40.171Z",
+  "lastVerified": "2026-11-11T09:06:55.182Z",
+  "qualityScore": 52
 }

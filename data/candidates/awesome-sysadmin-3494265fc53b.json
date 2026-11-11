@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/awesome-foss/awesome-sysadmin"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.273Z",
-  "updatedAt": "2026-11-11T07:22:40.273Z"
+  "updatedAt": "2026-11-11T07:22:40.273Z",
+  "lastVerified": "2026-11-11T08:59:17.974Z",
+  "qualityScore": 55
 }

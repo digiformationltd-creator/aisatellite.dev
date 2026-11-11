@@ -20,14 +20,13 @@
   "freeTierLimitations": [],
   "githubStars": 7,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-07T06:36:14Z",
+  "lastRepositoryUpdate": "2026-11-11T06:22:02Z",
   "evidenceUrls": [
     "https://github.com/edjafarov/kiagent-core"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:51.434Z",
-  "updatedAt": "2026-11-07T06:43:51.434Z",
-  "lastVerified": "2026-11-10T09:43:48.793Z",
-  "qualityScore": 89,
-  "rejectionReason": "Canonical link unreachable"
+  "discoveredAt": "2026-11-11T07:22:41.291Z",
+  "updatedAt": "2026-11-11T07:22:41.291Z",
+  "lastVerified": "2026-11-11T09:05:48.514Z",
+  "qualityScore": 89
 }

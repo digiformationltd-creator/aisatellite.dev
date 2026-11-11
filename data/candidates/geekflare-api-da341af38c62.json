@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://geekflare.com/api/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.167Z",
-  "updatedAt": "2026-11-11T07:22:40.167Z"
+  "updatedAt": "2026-11-11T07:22:40.167Z",
+  "lastVerified": "2026-11-11T09:03:47.663Z",
+  "qualityScore": 52
 }

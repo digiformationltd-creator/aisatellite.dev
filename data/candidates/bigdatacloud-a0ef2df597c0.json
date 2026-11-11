@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.bigdatacloud.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.167Z",
-  "updatedAt": "2026-11-11T07:22:40.167Z"
+  "updatedAt": "2026-11-11T07:22:40.167Z",
+  "lastVerified": "2026-11-11T08:59:31.670Z",
+  "qualityScore": 52
 }

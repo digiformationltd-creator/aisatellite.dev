@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://barassistant.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.272Z",
-  "updatedAt": "2026-11-11T07:22:40.272Z"
+  "updatedAt": "2026-11-11T07:22:40.272Z",
+  "lastVerified": "2026-11-11T08:59:24.500Z",
+  "qualityScore": 52
 }

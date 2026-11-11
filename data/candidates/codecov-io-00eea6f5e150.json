@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codecov.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.168Z",
-  "updatedAt": "2026-11-11T07:22:40.168Z"
+  "updatedAt": "2026-11-11T07:22:40.168Z",
+  "lastVerified": "2026-11-11T09:00:36.715Z",
+  "qualityScore": 52
 }

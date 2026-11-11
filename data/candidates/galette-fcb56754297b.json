@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://galette.eu/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.271Z",
-  "updatedAt": "2026-11-11T07:22:40.271Z"
+  "updatedAt": "2026-11-11T07:22:40.271Z",
+  "lastVerified": "2026-11-11T09:03:43.035Z",
+  "qualityScore": 52
 }

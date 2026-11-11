@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://traceapps.github.io/docs/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.270Z",
-  "updatedAt": "2026-11-11T07:22:40.270Z"
+  "updatedAt": "2026-11-11T07:22:40.270Z",
+  "lastVerified": "2026-11-11T09:08:21.181Z",
+  "qualityScore": 52
 }

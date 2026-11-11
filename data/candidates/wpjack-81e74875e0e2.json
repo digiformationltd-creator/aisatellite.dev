@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wpjack.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.168Z",
-  "updatedAt": "2026-11-11T07:22:40.168Z"
+  "updatedAt": "2026-11-11T07:22:40.168Z",
+  "lastVerified": "2026-11-11T09:15:19.095Z",
+  "qualityScore": 52
 }

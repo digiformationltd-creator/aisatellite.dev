@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dietpi.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.272Z",
-  "updatedAt": "2026-11-11T07:22:40.272Z"
+  "updatedAt": "2026-11-11T07:22:40.272Z",
+  "lastVerified": "2026-11-11T09:01:29.621Z",
+  "qualityScore": 52
 }

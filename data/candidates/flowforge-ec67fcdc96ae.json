@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://flowforge.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.270Z",
-  "updatedAt": "2026-11-11T07:22:40.270Z"
+  "updatedAt": "2026-11-11T07:22:40.270Z",
+  "lastVerified": "2026-11-11T09:03:10.617Z",
+  "qualityScore": 52
 }

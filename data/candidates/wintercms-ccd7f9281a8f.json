@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wintercms.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.268Z",
-  "updatedAt": "2026-11-11T07:22:40.268Z"
+  "updatedAt": "2026-11-11T07:22:40.268Z",
+  "lastVerified": "2026-11-11T09:15:16.550Z",
+  "qualityScore": 52
 }

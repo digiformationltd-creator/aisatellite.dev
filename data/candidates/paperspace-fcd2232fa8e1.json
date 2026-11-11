@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.paperspace.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.168Z",
-  "updatedAt": "2026-11-11T07:22:40.168Z"
+  "updatedAt": "2026-11-11T07:22:40.168Z",
+  "lastVerified": "2026-11-11T09:09:08.397Z",
+  "qualityScore": 52
 }

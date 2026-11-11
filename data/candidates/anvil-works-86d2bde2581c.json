@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://anvil.works"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.174Z",
-  "updatedAt": "2026-11-11T07:22:40.174Z"
+  "updatedAt": "2026-11-11T07:22:40.174Z",
+  "lastVerified": "2026-11-11T08:58:56.902Z",
+  "qualityScore": 52
 }

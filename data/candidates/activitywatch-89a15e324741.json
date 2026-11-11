@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://activitywatch.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.273Z",
-  "updatedAt": "2026-11-11T07:22:40.273Z"
+  "updatedAt": "2026-11-11T07:22:40.273Z",
+  "lastVerified": "2026-11-11T08:58:31.236Z",
+  "qualityScore": 52
 }

@@ -23,7 +23,9 @@
   "evidenceUrls": [
     "https://github.com/Assault-Consulting/Palimpsests"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:41.291Z",
-  "updatedAt": "2026-11-11T07:22:41.291Z"
+  "updatedAt": "2026-11-11T07:22:41.291Z",
+  "lastVerified": "2026-11-11T09:09:07.669Z",
+  "qualityScore": 89
 }

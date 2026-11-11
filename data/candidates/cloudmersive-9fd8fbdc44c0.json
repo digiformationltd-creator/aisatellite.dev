@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cloudmersive.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.167Z",
-  "updatedAt": "2026-11-11T07:22:40.167Z"
+  "updatedAt": "2026-11-11T07:22:40.167Z",
+  "lastVerified": "2026-11-11T09:00:30.142Z",
+  "qualityScore": 52
 }

@@ -20,14 +20,13 @@
   "freeTierLimitations": [],
   "githubStars": 4,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-03T03:16:17Z",
+  "lastRepositoryUpdate": "2026-11-11T04:10:58Z",
   "evidenceUrls": [
     "https://github.com/821869798/aitoolplus"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:47.248Z",
-  "updatedAt": "2026-11-03T07:24:47.248Z",
-  "lastVerified": "2026-11-10T09:25:51.977Z",
-  "qualityScore": 64,
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "discoveredAt": "2026-11-11T07:22:41.759Z",
+  "updatedAt": "2026-11-11T07:22:41.759Z",
+  "lastVerified": "2026-11-11T08:58:40.421Z",
+  "qualityScore": 64
 }

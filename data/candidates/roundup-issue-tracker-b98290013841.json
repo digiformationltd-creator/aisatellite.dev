@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.roundup-tracker.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.273Z",
-  "updatedAt": "2026-11-11T07:22:40.273Z"
+  "updatedAt": "2026-11-11T07:22:40.273Z",
+  "lastVerified": "2026-11-11T09:10:53.674Z",
+  "qualityScore": 52
 }

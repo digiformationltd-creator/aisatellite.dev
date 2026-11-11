@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://himitsushell.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.170Z",
-  "updatedAt": "2026-11-11T07:22:40.170Z"
+  "updatedAt": "2026-11-11T07:22:40.170Z",
+  "lastVerified": "2026-11-11T09:04:39.293Z",
+  "qualityScore": 52
 }

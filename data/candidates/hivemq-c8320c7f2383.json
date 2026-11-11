@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.hivemq.com/mqtt-cloud-broker/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.171Z",
-  "updatedAt": "2026-11-11T07:22:40.171Z"
+  "updatedAt": "2026-11-11T07:22:40.171Z",
+  "lastVerified": "2026-11-11T09:04:41.308Z",
+  "qualityScore": 52
 }

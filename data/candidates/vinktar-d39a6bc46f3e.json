@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://vinktar.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-11T07:22:40.172Z",
-  "updatedAt": "2026-11-11T07:22:40.172Z"
+  "updatedAt": "2026-11-11T07:22:40.172Z",
+  "lastVerified": "2026-11-11T09:14:47.229Z",
+  "qualityScore": 52
 }

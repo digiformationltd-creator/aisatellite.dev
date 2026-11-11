@@ -1,0 +1,42 @@
+{
+  "id": "spellbook-795a8ed398e0",
+  "canonicalUrl": "https://github.com/axiomantic/spellbook",
+  "name": "spellbook",
+  "description": "Multi-platform AI assistant skills and workflows. Serious engineering. Also fun.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-assistant",
+    "ai-coding",
+    "claude",
+    "cli",
+    "codex",
+    "developer-tools",
+    "gemini-cli",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "opencode",
+    "prompt-engineering",
+    "python",
+    "skills",
+    "spellbook"
+  ],
+  "repositoryUrl": "https://github.com/axiomantic/spellbook",
+  "officialUrl": "https://axiomantic.github.io/spellbook/latest/",
+  "documentationUrl": "https://axiomantic.github.io/spellbook/latest/",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/axiomantic/spellbook/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 13,
+  "githubForks": 7,
+  "lastRepositoryUpdate": "2026-11-11T04:44:30Z",
+  "evidenceUrls": [
+    "https://github.com/axiomantic/spellbook"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-11T07:22:41.759Z",
+  "updatedAt": "2026-11-11T07:22:41.759Z",
+  "lastVerified": "2026-11-11T09:12:41.262Z",
+  "qualityScore": 91
+}
