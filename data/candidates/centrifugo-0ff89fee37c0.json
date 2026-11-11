@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://centrifugal.dev/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-10T07:54:20.411Z",
-  "updatedAt": "2026-11-10T07:54:20.411Z",
-  "lastVerified": "2026-11-10T09:29:23.523Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-11T07:22:40.267Z",
+  "updatedAt": "2026-11-11T07:22:40.267Z"
 }

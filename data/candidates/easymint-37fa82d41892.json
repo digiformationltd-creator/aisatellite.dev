@@ -28,16 +28,13 @@
   "licenseEvidenceUrl": "https://github.com/tianemon/EasyMint/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 85,
+  "githubStars": 87,
   "githubForks": 5,
-  "lastRepositoryUpdate": "2026-11-05T07:29:27Z",
+  "lastRepositoryUpdate": "2026-11-11T06:20:02Z",
   "evidenceUrls": [
     "https://github.com/tianemon/EasyMint"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-05T07:34:49.440Z",
-  "updatedAt": "2026-11-05T07:34:49.440Z",
-  "lastVerified": "2026-11-10T09:34:27.977Z",
-  "qualityScore": 91,
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-11T07:22:41.758Z",
+  "updatedAt": "2026-11-11T07:22:41.758Z"
 }

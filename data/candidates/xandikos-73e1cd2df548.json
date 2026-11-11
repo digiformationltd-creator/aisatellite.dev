@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/jelmer/xandikos"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-10T07:54:20.411Z",
-  "updatedAt": "2026-11-10T07:54:20.411Z",
-  "lastVerified": "2026-11-10T10:05:11.324Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-11T07:22:40.267Z",
+  "updatedAt": "2026-11-11T07:22:40.267Z"
 }

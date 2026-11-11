@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://mailsac.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-10T07:54:20.333Z",
-  "updatedAt": "2026-11-10T07:54:20.333Z",
-  "lastVerified": "2026-11-10T09:46:31.626Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-11T07:22:40.173Z",
+  "updatedAt": "2026-11-11T07:22:40.173Z"
 }

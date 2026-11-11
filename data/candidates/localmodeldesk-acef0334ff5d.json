@@ -1,0 +1,32 @@
+{
+  "id": "localmodeldesk-acef0334ff5d",
+  "canonicalUrl": "https://github.com/uyujkk/LocalModelDesk",
+  "name": "LocalModelDesk",
+  "description": "Windows desktop app for local Strata models, OpenCode, and NVIDIA GPU power controls",
+  "category": "local-llm",
+  "tags": [
+    "desktop-app",
+    "llm-inference",
+    "local-llm",
+    "nvidia",
+    "opencode",
+    "pyside6",
+    "qwen",
+    "strata",
+    "windows"
+  ],
+  "repositoryUrl": "https://github.com/uyujkk/LocalModelDesk",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/uyujkk/LocalModelDesk/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-11T06:01:22Z",
+  "evidenceUrls": [
+    "https://github.com/uyujkk/LocalModelDesk"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-11T07:22:41.291Z",
+  "updatedAt": "2026-11-11T07:22:41.291Z"
+}

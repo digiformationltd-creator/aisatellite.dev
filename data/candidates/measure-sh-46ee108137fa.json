@@ -1,0 +1,20 @@
+{
+  "id": "measure-sh-46ee108137fa",
+  "canonicalUrl": "https://measure.sh/",
+  "name": "measure.sh",
+  "description": "Mobile app monitoring with errors, performance tracking and session replays. 5 GB data per month free. No limits if self-hosted.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://measure.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://measure.sh/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-11T07:22:40.172Z",
+  "updatedAt": "2026-11-11T07:22:40.172Z"
+}
