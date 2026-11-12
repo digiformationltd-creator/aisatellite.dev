@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mediamtx.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.252Z",
-  "updatedAt": "2026-11-12T07:52:27.252Z"
+  "updatedAt": "2026-11-12T07:52:27.252Z",
+  "lastVerified": "2026-11-12T09:35:18.208Z",
+  "qualityScore": 52
 }

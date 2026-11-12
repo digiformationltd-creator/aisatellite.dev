@@ -15,8 +15,8 @@
     "https://azure.microsoft.com/services/kubernetes-service/"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.166Z",
-  "updatedAt": "2026-11-11T07:22:40.166Z",
-  "lastVerified": "2026-11-11T08:59:19.690Z",
+  "discoveredAt": "2026-11-12T07:52:27.113Z",
+  "updatedAt": "2026-11-12T07:52:27.113Z",
+  "lastVerified": "2026-11-12T09:26:51.058Z",
   "qualityScore": 52
 }

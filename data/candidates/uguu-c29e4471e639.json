@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/nokonoko/uguu"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.251Z",
-  "updatedAt": "2026-11-12T07:52:27.251Z"
+  "updatedAt": "2026-11-12T07:52:27.251Z",
+  "lastVerified": "2026-11-12T09:42:40.538Z",
+  "qualityScore": 55
 }

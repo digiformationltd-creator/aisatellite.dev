@@ -16,8 +16,10 @@
     "https://heyform.net/",
     "https://heyform.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.253Z",
   "updatedAt": "2026-11-12T07:52:28.968Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-12T09:32:09.156Z",
+  "qualityScore": 57
 }

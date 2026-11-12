@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.barebones.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.124Z",
-  "updatedAt": "2026-11-12T07:52:27.124Z"
+  "updatedAt": "2026-11-12T07:52:27.124Z",
+  "lastVerified": "2026-11-12T09:26:56.539Z",
+  "qualityScore": 52
 }

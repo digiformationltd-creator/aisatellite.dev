@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://deluge-torrent.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.251Z",
-  "updatedAt": "2026-11-12T07:52:27.251Z"
+  "updatedAt": "2026-11-12T07:52:27.251Z",
+  "lastVerified": "2026-11-12T09:28:49.332Z",
+  "qualityScore": 52
 }

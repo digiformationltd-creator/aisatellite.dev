@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mockplus.com/idoc"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.123Z",
-  "updatedAt": "2026-11-12T07:52:27.123Z"
+  "updatedAt": "2026-11-12T07:52:27.123Z",
+  "lastVerified": "2026-11-12T09:35:45.035Z",
+  "qualityScore": 52
 }

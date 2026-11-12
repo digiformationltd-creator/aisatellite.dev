@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://retroshare.cc"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.250Z",
-  "updatedAt": "2026-11-12T07:52:27.250Z"
+  "updatedAt": "2026-11-12T07:52:27.250Z",
+  "lastVerified": "2026-11-12T09:38:55.634Z",
+  "qualityScore": 52
 }

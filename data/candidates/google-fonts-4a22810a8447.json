@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://fonts.google.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.121Z",
-  "updatedAt": "2026-11-12T07:52:27.121Z"
+  "updatedAt": "2026-11-12T07:52:27.121Z",
+  "lastVerified": "2026-11-12T09:31:47.437Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.group-office.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.252Z",
-  "updatedAt": "2026-11-12T07:52:27.252Z"
+  "updatedAt": "2026-11-12T07:52:27.252Z",
+  "lastVerified": "2026-11-12T09:31:55.805Z",
+  "qualityScore": 52
 }

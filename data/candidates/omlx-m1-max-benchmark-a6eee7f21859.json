@@ -29,7 +29,9 @@
   "evidenceUrls": [
     "https://github.com/mahirfatih/omlx-m1-max-benchmark"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:28.433Z",
-  "updatedAt": "2026-11-12T07:52:28.433Z"
+  "updatedAt": "2026-11-12T07:52:28.433Z",
+  "lastVerified": "2026-11-12T09:36:39.876Z",
+  "qualityScore": 78
 }

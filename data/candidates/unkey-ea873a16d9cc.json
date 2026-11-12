@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.unkey.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.118Z",
-  "updatedAt": "2026-11-12T07:52:27.118Z"
+  "updatedAt": "2026-11-12T07:52:27.118Z",
+  "lastVerified": "2026-11-12T09:42:42.037Z",
+  "qualityScore": 52
 }

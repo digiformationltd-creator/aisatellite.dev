@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.pictshare.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.251Z",
-  "updatedAt": "2026-11-12T07:52:27.251Z"
+  "updatedAt": "2026-11-12T07:52:27.251Z",
+  "lastVerified": "2026-11-12T09:37:42.824Z",
+  "qualityScore": 52
 }

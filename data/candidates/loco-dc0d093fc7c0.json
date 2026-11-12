@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://localise.biz/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.119Z",
-  "updatedAt": "2026-11-12T07:52:27.119Z"
+  "updatedAt": "2026-11-12T07:52:27.119Z",
+  "lastVerified": "2026-11-12T09:34:48.790Z",
+  "qualityScore": 52
 }

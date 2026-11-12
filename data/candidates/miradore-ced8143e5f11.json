@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://miradore.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.118Z",
-  "updatedAt": "2026-11-12T07:52:27.118Z"
+  "updatedAt": "2026-11-12T07:52:27.118Z",
+  "lastVerified": "2026-11-12T09:35:35.549Z",
+  "qualityScore": 52
 }

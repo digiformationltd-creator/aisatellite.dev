@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://litlyx.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.249Z",
-  "updatedAt": "2026-11-12T07:52:27.249Z"
+  "updatedAt": "2026-11-12T07:52:27.249Z",
+  "lastVerified": "2026-11-12T09:34:32.579Z",
+  "qualityScore": 52
 }

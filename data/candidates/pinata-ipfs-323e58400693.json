@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pinata.cloud"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.123Z",
-  "updatedAt": "2026-11-12T07:52:27.123Z"
+  "updatedAt": "2026-11-12T07:52:27.123Z",
+  "lastVerified": "2026-11-12T09:37:46.409Z",
+  "qualityScore": 52
 }

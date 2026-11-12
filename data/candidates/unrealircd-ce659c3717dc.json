@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.unrealircd.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.250Z",
-  "updatedAt": "2026-11-12T07:52:27.250Z"
+  "updatedAt": "2026-11-12T07:52:27.250Z",
+  "lastVerified": "2026-11-12T09:42:42.461Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://chronoframe.bh8.ga/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.253Z",
-  "updatedAt": "2026-11-12T07:52:27.253Z"
+  "updatedAt": "2026-11-12T07:52:27.253Z",
+  "lastVerified": "2026-11-12T09:27:46.328Z",
+  "qualityScore": 52
 }

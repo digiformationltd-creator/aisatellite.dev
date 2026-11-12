@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.noip.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.122Z",
-  "updatedAt": "2026-11-12T07:52:27.122Z"
+  "updatedAt": "2026-11-12T07:52:27.122Z",
+  "lastVerified": "2026-11-12T09:36:19.919Z",
+  "qualityScore": 52
 }

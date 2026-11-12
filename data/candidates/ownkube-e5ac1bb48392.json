@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ownkube.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.122Z",
-  "updatedAt": "2026-11-12T07:52:27.122Z"
+  "updatedAt": "2026-11-12T07:52:27.122Z",
+  "lastVerified": "2026-11-12T09:37:23.392Z",
+  "qualityScore": 52
 }

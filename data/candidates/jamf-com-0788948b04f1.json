@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.jamf.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.118Z",
-  "updatedAt": "2026-11-12T07:52:27.118Z"
+  "updatedAt": "2026-11-12T07:52:27.118Z",
+  "lastVerified": "2026-11-12T09:33:12.893Z",
+  "qualityScore": 52
 }

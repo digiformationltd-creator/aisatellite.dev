@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/RSS-Bridge/rss-bridge"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.251Z",
-  "updatedAt": "2026-11-12T07:52:27.251Z"
+  "updatedAt": "2026-11-12T07:52:27.251Z",
+  "lastVerified": "2026-11-12T09:39:06.445Z",
+  "qualityScore": 55
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://jsontotable.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.114Z",
-  "updatedAt": "2026-11-12T07:52:27.114Z"
+  "updatedAt": "2026-11-12T07:52:27.114Z",
+  "lastVerified": "2026-11-12T09:33:20.324Z",
+  "qualityScore": 52
 }

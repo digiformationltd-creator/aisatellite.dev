@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codetrain.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.120Z",
-  "updatedAt": "2026-11-12T07:52:27.120Z"
+  "updatedAt": "2026-11-12T07:52:27.120Z",
+  "lastVerified": "2026-11-12T09:28:07.113Z",
+  "qualityScore": 52
 }

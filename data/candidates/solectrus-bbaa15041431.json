@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://solectrus.de"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.252Z",
-  "updatedAt": "2026-11-12T07:52:27.252Z"
+  "updatedAt": "2026-11-12T07:52:27.252Z",
+  "lastVerified": "2026-11-12T09:40:42.598Z",
+  "qualityScore": 52
 }

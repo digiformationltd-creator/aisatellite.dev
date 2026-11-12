@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://fmd-foss.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.252Z",
-  "updatedAt": "2026-11-12T07:52:27.252Z"
+  "updatedAt": "2026-11-12T07:52:27.252Z",
+  "lastVerified": "2026-11-12T09:30:35.541Z",
+  "qualityScore": 52
 }

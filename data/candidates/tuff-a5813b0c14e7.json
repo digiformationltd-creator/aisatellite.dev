@@ -39,7 +39,9 @@
   "evidenceUrls": [
     "https://github.com/tuff-app/TUFF"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:28.433Z",
-  "updatedAt": "2026-11-12T07:52:28.433Z"
+  "updatedAt": "2026-11-12T07:52:28.433Z",
+  "lastVerified": "2026-11-12T09:42:32.990Z",
+  "qualityScore": 91
 }

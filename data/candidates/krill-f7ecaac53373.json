@@ -29,7 +29,9 @@
   "evidenceUrls": [
     "https://github.com/srvsngh99/Krill"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:28.433Z",
-  "updatedAt": "2026-11-12T07:52:28.433Z"
+  "updatedAt": "2026-11-12T07:52:28.433Z",
+  "lastVerified": "2026-11-12T09:33:48.770Z",
+  "qualityScore": 89
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://helpcenter.onlyoffice.com/faq/server-opensource.aspx"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.253Z",
-  "updatedAt": "2026-11-12T07:52:27.253Z"
+  "updatedAt": "2026-11-12T07:52:27.253Z",
+  "lastVerified": "2026-11-12T09:36:42.515Z",
+  "qualityScore": 52
 }

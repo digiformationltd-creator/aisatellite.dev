@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://colab.research.google.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.112Z",
-  "updatedAt": "2026-11-12T07:52:27.112Z"
+  "updatedAt": "2026-11-12T07:52:27.112Z",
+  "lastVerified": "2026-11-12T09:31:47.228Z",
+  "qualityScore": 52
 }

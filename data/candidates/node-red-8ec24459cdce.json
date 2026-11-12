@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://nodered.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.252Z",
-  "updatedAt": "2026-11-12T07:52:27.252Z"
+  "updatedAt": "2026-11-12T07:52:27.252Z",
+  "lastVerified": "2026-11-12T09:36:18.767Z",
+  "qualityScore": 52
 }

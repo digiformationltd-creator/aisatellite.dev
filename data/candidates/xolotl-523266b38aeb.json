@@ -38,7 +38,9 @@
   "evidenceUrls": [
     "https://github.com/Indras-Mirror/Xolotl"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:28.433Z",
-  "updatedAt": "2026-11-12T07:52:28.433Z"
+  "updatedAt": "2026-11-12T07:52:28.433Z",
+  "lastVerified": "2026-11-12T09:43:43.241Z",
+  "qualityScore": 92
 }

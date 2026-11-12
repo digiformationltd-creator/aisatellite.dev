@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://formplume.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.121Z",
-  "updatedAt": "2026-11-12T07:52:27.121Z"
+  "updatedAt": "2026-11-12T07:52:27.121Z",
+  "lastVerified": "2026-11-12T09:30:38.789Z",
+  "qualityScore": 52
 }

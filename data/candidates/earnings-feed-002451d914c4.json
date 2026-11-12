@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://earningsfeed.com/api"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.113Z",
-  "updatedAt": "2026-11-12T07:52:27.113Z"
+  "updatedAt": "2026-11-12T07:52:27.113Z",
+  "lastVerified": "2026-11-12T09:29:28.533Z",
+  "qualityScore": 52
 }

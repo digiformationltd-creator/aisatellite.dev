@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.kimai.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.254Z",
-  "updatedAt": "2026-11-12T07:52:27.254Z"
+  "updatedAt": "2026-11-12T07:52:27.254Z",
+  "lastVerified": "2026-11-12T09:33:35.545Z",
+  "qualityScore": 52
 }

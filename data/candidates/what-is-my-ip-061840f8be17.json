@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://whatismyip.help"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.114Z",
-  "updatedAt": "2026-11-12T07:52:27.114Z"
+  "updatedAt": "2026-11-12T07:52:27.114Z",
+  "lastVerified": "2026-11-12T09:43:22.565Z",
+  "qualityScore": 52
 }

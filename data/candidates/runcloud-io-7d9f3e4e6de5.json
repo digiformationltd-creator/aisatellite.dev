@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://runcloud.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.118Z",
-  "updatedAt": "2026-11-12T07:52:27.118Z"
+  "updatedAt": "2026-11-12T07:52:27.118Z",
+  "lastVerified": "2026-11-12T09:39:09.608Z",
+  "qualityScore": 52
 }

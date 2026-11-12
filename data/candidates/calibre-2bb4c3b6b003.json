@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://calibre-ebook.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.251Z",
-  "updatedAt": "2026-11-12T07:52:27.251Z"
+  "updatedAt": "2026-11-12T07:52:27.251Z",
+  "lastVerified": "2026-11-12T09:27:28.682Z",
+  "qualityScore": 52
 }

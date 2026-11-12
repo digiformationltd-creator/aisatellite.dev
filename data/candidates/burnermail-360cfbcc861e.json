@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://burnermail.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.120Z",
-  "updatedAt": "2026-11-12T07:52:27.120Z"
+  "updatedAt": "2026-11-12T07:52:27.120Z",
+  "lastVerified": "2026-11-12T09:27:25.008Z",
+  "qualityScore": 52
 }

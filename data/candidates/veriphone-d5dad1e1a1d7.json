@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://veriphone.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.124Z",
-  "updatedAt": "2026-11-12T07:52:27.124Z"
+  "updatedAt": "2026-11-12T07:52:27.124Z",
+  "lastVerified": "2026-11-12T09:42:57.098Z",
+  "qualityScore": 52
 }

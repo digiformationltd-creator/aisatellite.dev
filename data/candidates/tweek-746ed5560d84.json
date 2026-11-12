@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tweek.so/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.123Z",
-  "updatedAt": "2026-11-12T07:52:27.123Z"
+  "updatedAt": "2026-11-12T07:52:27.123Z",
+  "lastVerified": "2026-11-12T09:42:36.531Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://FormNX.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.121Z",
-  "updatedAt": "2026-11-12T07:52:27.121Z"
+  "updatedAt": "2026-11-12T07:52:27.121Z",
+  "lastVerified": "2026-11-12T09:30:44.339Z",
+  "qualityScore": 52
 }

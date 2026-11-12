@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://adinhodovic.github.io/compass/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.253Z",
-  "updatedAt": "2026-11-12T07:52:27.253Z"
+  "updatedAt": "2026-11-12T07:52:27.253Z",
+  "lastVerified": "2026-11-12T09:28:11.181Z",
+  "qualityScore": 52
 }

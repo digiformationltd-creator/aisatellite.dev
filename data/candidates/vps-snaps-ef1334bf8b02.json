@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://vpssnaps.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.125Z",
-  "updatedAt": "2026-11-12T07:52:27.125Z"
+  "updatedAt": "2026-11-12T07:52:27.125Z",
+  "lastVerified": "2026-11-12T09:43:02.808Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://w.club1.fr"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.254Z",
-  "updatedAt": "2026-11-12T07:52:27.254Z"
+  "updatedAt": "2026-11-12T07:52:27.254Z",
+  "lastVerified": "2026-11-12T09:43:03.729Z",
+  "qualityScore": 52
 }

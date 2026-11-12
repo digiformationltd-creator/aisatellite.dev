@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.openproject.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.254Z",
-  "updatedAt": "2026-11-12T07:52:27.254Z"
+  "updatedAt": "2026-11-12T07:52:27.254Z",
+  "lastVerified": "2026-11-12T09:36:58.207Z",
+  "qualityScore": 52
 }

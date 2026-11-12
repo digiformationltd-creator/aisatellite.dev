@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://simperium.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.122Z",
-  "updatedAt": "2026-11-12T07:52:27.122Z"
+  "updatedAt": "2026-11-12T07:52:27.122Z",
+  "lastVerified": "2026-11-12T09:40:09.385Z",
+  "qualityScore": 52
 }

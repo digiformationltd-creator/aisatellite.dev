@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.kavitareader.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.251Z",
-  "updatedAt": "2026-11-12T07:52:27.251Z"
+  "updatedAt": "2026-11-12T07:52:27.251Z",
+  "lastVerified": "2026-11-12T09:33:28.691Z",
+  "qualityScore": 52
 }

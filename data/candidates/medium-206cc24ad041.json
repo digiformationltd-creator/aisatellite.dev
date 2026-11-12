@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://medium.com/"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-12T07:52:27.125Z",
-  "updatedAt": "2026-11-12T07:52:27.125Z"
+  "updatedAt": "2026-11-12T07:52:27.125Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

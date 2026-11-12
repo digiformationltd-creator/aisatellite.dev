@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gethopp.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.254Z",
-  "updatedAt": "2026-11-12T07:52:27.254Z"
+  "updatedAt": "2026-11-12T07:52:27.254Z",
+  "lastVerified": "2026-11-12T09:32:17.684Z",
+  "qualityScore": 52
 }

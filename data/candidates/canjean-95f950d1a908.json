@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://canjean.com/exchange-rate-api"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.125Z",
-  "updatedAt": "2026-11-12T07:52:27.125Z"
+  "updatedAt": "2026-11-12T07:52:27.125Z",
+  "lastVerified": "2026-11-12T09:27:31.456Z",
+  "qualityScore": 52
 }

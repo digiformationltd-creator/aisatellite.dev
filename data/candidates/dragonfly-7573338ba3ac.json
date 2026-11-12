@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/corecode/dma"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.250Z",
-  "updatedAt": "2026-11-12T07:52:27.250Z"
+  "updatedAt": "2026-11-12T07:52:27.250Z",
+  "lastVerified": "2026-11-12T09:29:23.319Z",
+  "qualityScore": 55
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.layercall.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.114Z",
-  "updatedAt": "2026-11-12T07:52:27.114Z"
+  "updatedAt": "2026-11-12T07:52:27.114Z",
+  "lastVerified": "2026-11-12T09:34:05.681Z",
+  "qualityScore": 52
 }

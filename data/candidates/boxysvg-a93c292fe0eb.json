@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://boxy-svg.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.123Z",
-  "updatedAt": "2026-11-12T07:52:27.123Z"
+  "updatedAt": "2026-11-12T07:52:27.123Z",
+  "lastVerified": "2026-11-12T09:27:15.642Z",
+  "qualityScore": 52
 }

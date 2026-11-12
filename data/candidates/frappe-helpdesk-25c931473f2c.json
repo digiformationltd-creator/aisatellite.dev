@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://frappe.io/helpdesk"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.254Z",
-  "updatedAt": "2026-11-12T07:52:27.254Z"
+  "updatedAt": "2026-11-12T07:52:27.254Z",
+  "lastVerified": "2026-11-12T09:30:50.219Z",
+  "qualityScore": 52
 }

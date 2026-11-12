@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dicloud.net/sweetuptime-server-uptime-monitoring/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.119Z",
-  "updatedAt": "2026-11-12T07:52:27.119Z"
+  "updatedAt": "2026-11-12T07:52:27.119Z",
+  "lastVerified": "2026-11-12T09:41:32.021Z",
+  "qualityScore": 52
 }

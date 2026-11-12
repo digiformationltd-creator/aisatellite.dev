@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://hister.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.254Z",
-  "updatedAt": "2026-11-12T07:52:27.254Z"
+  "updatedAt": "2026-11-12T07:52:27.254Z",
+  "lastVerified": "2026-11-12T09:32:10.985Z",
+  "qualityScore": 52
 }

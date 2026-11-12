@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://g3-project.readthedocs.io/projects/g3proxy/en/latest/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.253Z",
-  "updatedAt": "2026-11-12T07:52:27.253Z"
+  "updatedAt": "2026-11-12T07:52:27.253Z",
+  "lastVerified": "2026-11-12T09:31:07.765Z",
+  "qualityScore": 52
 }

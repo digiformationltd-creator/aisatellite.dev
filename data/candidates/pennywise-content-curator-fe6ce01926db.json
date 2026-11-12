@@ -32,7 +32,9 @@
   "evidenceUrls": [
     "https://github.com/Suryadimerantikab/Pennywise-Content-Curator"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:28.965Z",
-  "updatedAt": "2026-11-12T07:52:28.965Z"
+  "updatedAt": "2026-11-12T07:52:28.965Z",
+  "lastVerified": "2026-11-12T09:37:37.028Z",
+  "qualityScore": 64
 }

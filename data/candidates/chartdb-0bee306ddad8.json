@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://chartdb.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.251Z",
-  "updatedAt": "2026-11-12T07:52:27.251Z"
+  "updatedAt": "2026-11-12T07:52:27.251Z",
+  "lastVerified": "2026-11-12T09:27:42.019Z",
+  "qualityScore": 52
 }

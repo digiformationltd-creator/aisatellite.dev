@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zoho.com/subscriptions"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.113Z",
-  "updatedAt": "2026-11-12T07:52:27.113Z"
+  "updatedAt": "2026-11-12T07:52:27.113Z",
+  "lastVerified": "2026-11-12T09:41:13.089Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bottle-rocket.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.251Z",
-  "updatedAt": "2026-11-12T07:52:27.251Z"
+  "updatedAt": "2026-11-12T07:52:27.251Z",
+  "lastVerified": "2026-11-12T09:27:15.135Z",
+  "qualityScore": 52
 }

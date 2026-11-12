@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.halo.run"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.254Z",
-  "updatedAt": "2026-11-12T07:52:27.254Z"
+  "updatedAt": "2026-11-12T07:52:27.254Z",
+  "lastVerified": "2026-11-12T09:31:58.308Z",
+  "qualityScore": 52
 }

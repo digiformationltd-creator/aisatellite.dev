@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sosse.readthedocs.io/en/stable/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.254Z",
-  "updatedAt": "2026-11-12T07:52:27.254Z"
+  "updatedAt": "2026-11-12T07:52:27.254Z",
+  "lastVerified": "2026-11-12T09:40:45.846Z",
+  "qualityScore": 52
 }

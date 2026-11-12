@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.rosariosis.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.252Z",
-  "updatedAt": "2026-11-12T07:52:27.252Z"
+  "updatedAt": "2026-11-12T07:52:27.252Z",
+  "lastVerified": "2026-11-12T09:39:03.272Z",
+  "qualityScore": 52
 }

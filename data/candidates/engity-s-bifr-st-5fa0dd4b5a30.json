@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bifroest.engity.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.253Z",
-  "updatedAt": "2026-11-12T07:52:27.253Z"
+  "updatedAt": "2026-11-12T07:52:27.253Z",
+  "lastVerified": "2026-11-12T09:29:53.253Z",
+  "qualityScore": 52
 }

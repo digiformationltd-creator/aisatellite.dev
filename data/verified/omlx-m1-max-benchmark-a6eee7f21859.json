@@ -1,0 +1,37 @@
+{
+  "id": "omlx-m1-max-benchmark-a6eee7f21859",
+  "canonicalUrl": "https://github.com/mahirfatih/omlx-m1-max-benchmark",
+  "name": "omlx-m1-max-benchmark",
+  "description": "Benchmark of 6 local LLMs on oMLX (Apple M1 Max, 64 GB): decode throughput, model sizes, uncensored/heretic classification, and tuned inference profiles.",
+  "category": "local-llm",
+  "tags": [
+    "apple-silicon",
+    "benchmark",
+    "gemma",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "m1-max",
+    "macos",
+    "mlx",
+    "omlx",
+    "qwen",
+    "uncensored"
+  ],
+  "repositoryUrl": "https://github.com/mahirfatih/omlx-m1-max-benchmark",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/mahirfatih/omlx-m1-max-benchmark/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-12T07:49:58Z",
+  "evidenceUrls": [
+    "https://github.com/mahirfatih/omlx-m1-max-benchmark"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-12T07:52:28.433Z",
+  "updatedAt": "2026-11-12T07:52:28.433Z",
+  "lastVerified": "2026-11-12T09:36:39.876Z",
+  "qualityScore": 78
+}

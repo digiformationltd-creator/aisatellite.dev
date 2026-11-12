@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.inspector.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.119Z",
-  "updatedAt": "2026-11-12T07:52:27.119Z"
+  "updatedAt": "2026-11-12T07:52:27.119Z",
+  "lastVerified": "2026-11-12T09:32:48.866Z",
+  "qualityScore": 52
 }

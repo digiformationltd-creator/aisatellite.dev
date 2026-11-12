@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mapbox.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.123Z",
-  "updatedAt": "2026-11-12T07:52:27.123Z"
+  "updatedAt": "2026-11-12T07:52:27.123Z",
+  "lastVerified": "2026-11-12T09:35:08.536Z",
+  "qualityScore": 52
 }

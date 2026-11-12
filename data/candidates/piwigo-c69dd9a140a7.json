@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://piwigo.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.253Z",
-  "updatedAt": "2026-11-12T07:52:27.253Z"
+  "updatedAt": "2026-11-12T07:52:27.253Z",
+  "lastVerified": "2026-11-12T09:37:49.599Z",
+  "qualityScore": 52
 }

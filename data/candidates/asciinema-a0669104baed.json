@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://asciinema.org/"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-12T07:52:27.252Z",
-  "updatedAt": "2026-11-12T07:52:27.252Z"
+  "updatedAt": "2026-11-12T07:52:27.252Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

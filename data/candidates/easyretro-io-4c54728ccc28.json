@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.easyretro.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.123Z",
-  "updatedAt": "2026-11-12T07:52:27.123Z"
+  "updatedAt": "2026-11-12T07:52:27.123Z",
+  "lastVerified": "2026-11-12T09:29:29.726Z",
+  "qualityScore": 52
 }

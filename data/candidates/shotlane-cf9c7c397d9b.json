@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://shotlane.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-12T07:52:27.125Z",
-  "updatedAt": "2026-11-12T07:52:27.125Z"
+  "updatedAt": "2026-11-12T07:52:27.125Z",
+  "lastVerified": "2026-11-12T09:40:04.368Z",
+  "qualityScore": 52
 }
