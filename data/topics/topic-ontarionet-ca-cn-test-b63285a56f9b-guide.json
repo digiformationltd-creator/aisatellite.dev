@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ontarionet-ca-cn-test-b63285a56f9b-guide",
+  "title": "How to Deploy OntarioNet.ca CN Test in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ontarionet-ca-cn-test-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OntarioNet.ca CN Test.",
+  "targetKeywords": [
+    "OntarioNet.ca CN Test",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cntest.ontarionet.ca"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OntarioNet.ca CN Test with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

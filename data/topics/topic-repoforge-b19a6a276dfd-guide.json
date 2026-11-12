@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-repoforge-b19a6a276dfd-guide",
+  "title": "How to Deploy RepoForge in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-repoforge-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RepoForge.",
+  "targetKeywords": [
+    "RepoForge",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://repoforge.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RepoForge with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

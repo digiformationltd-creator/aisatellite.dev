@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gitit-77e6e3455650-guide",
+  "title": "How to Deploy Gitit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gitit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gitit.",
+  "targetKeywords": [
+    "Gitit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/jgm/gitit"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Gitit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.871Z"
+}

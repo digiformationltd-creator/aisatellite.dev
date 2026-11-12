@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-statically-io-5761acc3b0bd-guide",
+  "title": "How to Deploy statically.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-statically-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for statically.io.",
+  "targetKeywords": [
+    "statically.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://statically.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting statically.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

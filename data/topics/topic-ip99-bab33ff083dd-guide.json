@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ip99-bab33ff083dd-guide",
+  "title": "How to Deploy IP99 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ip99-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IP99.",
+  "targetKeywords": [
+    "IP99",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ip99.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IP99 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

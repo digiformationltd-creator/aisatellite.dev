@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tuff-a5813b0c14e7-guide",
+  "title": "How to Deploy TUFF in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tuff-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TUFF.",
+  "targetKeywords": [
+    "TUFF",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/tuff-app/TUFF"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting TUFF with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

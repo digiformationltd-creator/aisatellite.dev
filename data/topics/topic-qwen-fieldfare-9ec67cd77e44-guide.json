@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-qwen-fieldfare-9ec67cd77e44-guide",
+  "title": "How to Deploy qwen-fieldfare in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-qwen-fieldfare-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for qwen-fieldfare.",
+  "targetKeywords": [
+    "qwen-fieldfare",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/tanishqpatil/qwen-fieldfare"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting qwen-fieldfare with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

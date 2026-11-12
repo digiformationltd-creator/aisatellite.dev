@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-calagopus-757d8b4f5aac-guide",
+  "title": "How to Deploy Calagopus in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-calagopus-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Calagopus.",
+  "targetKeywords": [
+    "Calagopus",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://calagopus.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Calagopus with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

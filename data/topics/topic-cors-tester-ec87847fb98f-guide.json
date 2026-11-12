@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cors-tester-ec87847fb98f-guide",
+  "title": "How to Deploy CORS-Tester in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cors-tester-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CORS-Tester.",
+  "targetKeywords": [
+    "CORS-Tester",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cors-error.dev/cors-tester/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CORS-Tester with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

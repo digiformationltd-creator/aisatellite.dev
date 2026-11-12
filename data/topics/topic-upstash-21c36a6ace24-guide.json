@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-upstash-21c36a6ace24-guide",
+  "title": "How to Deploy Upstash in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-upstash-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Upstash.",
+  "targetKeywords": [
+    "Upstash",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://upstash.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Upstash with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

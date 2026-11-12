@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-serendipity-c3b6595e5f2f-guide",
+  "title": "How to Deploy Serendipity in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-serendipity-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Serendipity.",
+  "targetKeywords": [
+    "Serendipity",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.s9y.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Serendipity with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

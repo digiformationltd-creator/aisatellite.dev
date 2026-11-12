@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bitrise-io-cc115a5a1895-guide",
+  "title": "How to Deploy bitrise.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bitrise-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for bitrise.io.",
+  "targetKeywords": [
+    "bitrise.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.bitrise.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting bitrise.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

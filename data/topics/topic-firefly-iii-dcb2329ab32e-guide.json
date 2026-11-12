@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-firefly-iii-dcb2329ab32e-guide",
+  "title": "How to Deploy Firefly III in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-firefly-iii-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Firefly III.",
+  "targetKeywords": [
+    "Firefly III",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://firefly-iii.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Firefly III with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

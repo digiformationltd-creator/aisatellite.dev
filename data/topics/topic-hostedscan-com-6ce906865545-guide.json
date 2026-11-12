@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hostedscan-com-6ce906865545-guide",
+  "title": "How to Deploy hostedscan.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hostedscan-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for hostedscan.com.",
+  "targetKeywords": [
+    "hostedscan.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hostedscan.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting hostedscan.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-claper-2eee198aeca4-guide",
+  "title": "How to Deploy Claper in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-claper-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Claper.",
+  "targetKeywords": [
+    "Claper",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://claper.co/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Claper with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

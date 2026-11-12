@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-awesome-free-web-tools-c7f056ff3d72-guide",
+  "title": "How to Deploy awesome-free-web-tools in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-awesome-free-web-tools-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for awesome-free-web-tools.",
+  "targetKeywords": [
+    "awesome-free-web-tools",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/TanbirAhamed/awesome-free-web-tools"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting awesome-free-web-tools with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

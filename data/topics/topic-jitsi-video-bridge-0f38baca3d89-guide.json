@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jitsi-video-bridge-0f38baca3d89-guide",
+  "title": "How to Deploy Jitsi Video Bridge in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jitsi-video-bridge-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Jitsi Video Bridge.",
+  "targetKeywords": [
+    "Jitsi Video Bridge",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jitsi.org/Projects/JitsiVideobridge"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Jitsi Video Bridge with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

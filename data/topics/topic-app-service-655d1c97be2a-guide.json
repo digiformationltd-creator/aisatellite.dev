@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-app-service-655d1c97be2a-guide",
+  "title": "How to Deploy App Service in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-app-service-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for App Service.",
+  "targetKeywords": [
+    "App Service",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/app-service/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting App Service with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

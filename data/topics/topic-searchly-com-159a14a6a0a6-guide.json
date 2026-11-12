@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-searchly-com-159a14a6a0a6-guide",
+  "title": "How to Deploy searchly.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-searchly-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for searchly.com.",
+  "targetKeywords": [
+    "searchly.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.searchly.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting searchly.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

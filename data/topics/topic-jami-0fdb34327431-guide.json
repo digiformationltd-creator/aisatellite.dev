@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jami-0fdb34327431-guide",
+  "title": "How to Deploy Jami in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jami-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Jami.",
+  "targetKeywords": [
+    "Jami",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jami.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Jami with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

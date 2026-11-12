@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cally-com-d1c45efdd7df-guide",
+  "title": "How to Deploy cally.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cally-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cally.com.",
+  "targetKeywords": [
+    "cally.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cally.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cally.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

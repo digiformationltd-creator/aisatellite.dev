@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-orshot-2c0a86fd0e29-guide",
+  "title": "How to Deploy Orshot in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-orshot-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Orshot.",
+  "targetKeywords": [
+    "Orshot",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://orshot.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Orshot with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

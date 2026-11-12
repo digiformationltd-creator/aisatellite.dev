@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-alphaai-05530357e339-guide",
+  "title": "How to Deploy AlphaAI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-alphaai-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AlphaAI.",
+  "targetKeywords": [
+    "AlphaAI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://alphai.io/developers"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AlphaAI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

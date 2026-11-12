@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gravex-chat-6dd72215294d-guide",
+  "title": "How to Deploy GravEx Chat in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gravex-chat-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GravEx Chat.",
+  "targetKeywords": [
+    "GravEx Chat",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://chat.gravex.app/en/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GravEx Chat with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

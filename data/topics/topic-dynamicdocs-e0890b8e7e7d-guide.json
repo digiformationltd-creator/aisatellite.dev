@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dynamicdocs-e0890b8e7e7d-guide",
+  "title": "How to Deploy DynamicDocs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dynamicdocs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DynamicDocs.",
+  "targetKeywords": [
+    "DynamicDocs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://advicement.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DynamicDocs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

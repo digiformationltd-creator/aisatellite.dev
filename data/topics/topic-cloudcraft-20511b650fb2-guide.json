@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloudcraft-20511b650fb2-guide",
+  "title": "How to Deploy Cloudcraft in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloudcraft-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloudcraft.",
+  "targetKeywords": [
+    "Cloudcraft",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloudcraft.co/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cloudcraft with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

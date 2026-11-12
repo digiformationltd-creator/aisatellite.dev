@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-listmonk-79e5d0b3cc87-guide",
+  "title": "How to Deploy Listmonk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-listmonk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Listmonk.",
+  "targetKeywords": [
+    "Listmonk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://listmonk.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Listmonk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

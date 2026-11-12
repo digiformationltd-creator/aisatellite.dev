@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-feather-wiki-d7c0f1e224e4-guide",
+  "title": "How to Deploy Feather Wiki in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-feather-wiki-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Feather Wiki.",
+  "targetKeywords": [
+    "Feather Wiki",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://feather.wiki"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Feather Wiki with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

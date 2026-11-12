@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dj-checkup-e53b859000ae-guide",
+  "title": "How to Deploy DJ Checkup in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dj-checkup-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DJ Checkup.",
+  "targetKeywords": [
+    "DJ Checkup",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://djcheckup.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DJ Checkup with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

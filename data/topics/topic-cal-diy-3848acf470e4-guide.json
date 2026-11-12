@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cal-diy-3848acf470e4-guide",
+  "title": "How to Deploy Cal.diy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cal-diy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cal.diy.",
+  "targetKeywords": [
+    "Cal.diy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cal.diy/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cal.diy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-newspipe-ea502aa9ad3f-guide",
+  "title": "How to Deploy Newspipe in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-newspipe-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Newspipe.",
+  "targetKeywords": [
+    "Newspipe",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://git.sr.ht/~cedric/newspipe"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Newspipe with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

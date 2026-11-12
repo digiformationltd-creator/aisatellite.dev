@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-homepage-by-tomershvueli-9c24dda88e7e-guide",
+  "title": "How to Deploy Homepage by tomershvueli in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-homepage-by-tomershvueli-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Homepage by tomershvueli.",
+  "targetKeywords": [
+    "Homepage by tomershvueli",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/tomershvueli/homepage"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Homepage by tomershvueli with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

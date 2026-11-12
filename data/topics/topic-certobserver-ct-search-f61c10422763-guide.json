@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-certobserver-ct-search-f61c10422763-guide",
+  "title": "How to Deploy CertObserver CT Search in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-certobserver-ct-search-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CertObserver CT Search.",
+  "targetKeywords": [
+    "CertObserver CT Search",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://certobserver.com/ct-search"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CertObserver CT Search with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

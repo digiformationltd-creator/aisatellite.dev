@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-free-po-editor-dc1197775925-guide",
+  "title": "How to Deploy Free PO editor in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-free-po-editor-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Free PO editor.",
+  "targetKeywords": [
+    "Free PO editor",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pofile.net/free-po-editor"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Free PO editor with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

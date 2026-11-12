@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-instabox-0963db571d64-guide",
+  "title": "How to Deploy InstaBox in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-instabox-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for InstaBox.",
+  "targetKeywords": [
+    "InstaBox",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://instabox.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting InstaBox with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

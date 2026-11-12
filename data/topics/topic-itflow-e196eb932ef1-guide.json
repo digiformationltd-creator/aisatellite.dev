@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-itflow-e196eb932ef1-guide",
+  "title": "How to Deploy ITFlow in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-itflow-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ITFlow.",
+  "targetKeywords": [
+    "ITFlow",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://itflow.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ITFlow with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

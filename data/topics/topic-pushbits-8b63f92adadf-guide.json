@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pushbits-8b63f92adadf-guide",
+  "title": "How to Deploy PushBits in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pushbits-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PushBits.",
+  "targetKeywords": [
+    "PushBits",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/pushbits/server"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting PushBits with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

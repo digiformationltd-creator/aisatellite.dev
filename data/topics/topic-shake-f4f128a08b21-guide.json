@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shake-f4f128a08b21-guide",
+  "title": "How to Deploy Shake in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shake-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Shake.",
+  "targetKeywords": [
+    "Shake",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.shakebugs.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Shake with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

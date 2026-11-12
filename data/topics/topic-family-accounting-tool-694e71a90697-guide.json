@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-family-accounting-tool-694e71a90697-guide",
+  "title": "How to Deploy Family Accounting Tool in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-family-accounting-tool-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Family Accounting Tool.",
+  "targetKeywords": [
+    "Family Accounting Tool",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/nymanjens/facto"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Family Accounting Tool with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

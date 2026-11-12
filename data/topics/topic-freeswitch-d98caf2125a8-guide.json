@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-freeswitch-d98caf2125a8-guide",
+  "title": "How to Deploy FreeSWITCH in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-freeswitch-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FreeSWITCH.",
+  "targetKeywords": [
+    "FreeSWITCH",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://freeswitch.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FreeSWITCH with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

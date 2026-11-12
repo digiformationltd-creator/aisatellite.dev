@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-code-smash-teti-8878c73424d5-guide",
+  "title": "How to Deploy code-smash-teti in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-code-smash-teti-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for code-smash-teti.",
+  "targetKeywords": [
+    "code-smash-teti",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/nightguard-labs/code-smash-teti"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting code-smash-teti with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mafl-506016b75e11-guide",
+  "title": "How to Deploy Mafl in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mafl-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mafl.",
+  "targetKeywords": [
+    "Mafl",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mafl.hywax.space/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mafl with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

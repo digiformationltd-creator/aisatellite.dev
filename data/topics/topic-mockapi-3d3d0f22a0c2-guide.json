@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mockapi-3d3d0f22a0c2-guide",
+  "title": "How to Deploy MockAPI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mockapi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MockAPI.",
+  "targetKeywords": [
+    "MockAPI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mockapi.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MockAPI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

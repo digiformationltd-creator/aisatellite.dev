@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bolt-cms-c115753b9381-guide",
+  "title": "How to Deploy Bolt CMS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bolt-cms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bolt CMS.",
+  "targetKeywords": [
+    "Bolt CMS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://boltcms.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bolt CMS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-inboxen-035cc9387026-guide",
+  "title": "How to Deploy Inboxen in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-inboxen-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Inboxen.",
+  "targetKeywords": [
+    "Inboxen",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://inboxen.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Inboxen with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

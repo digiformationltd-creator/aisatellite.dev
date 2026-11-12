@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-grafana-cloud-b113dbeaa352-guide",
+  "title": "How to Deploy Grafana Cloud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-grafana-cloud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Grafana Cloud.",
+  "targetKeywords": [
+    "Grafana Cloud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://grafana.com/products/cloud/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Grafana Cloud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

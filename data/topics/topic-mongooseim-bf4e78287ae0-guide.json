@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mongooseim-bf4e78287ae0-guide",
+  "title": "How to Deploy MongooseIM in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mongooseim-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MongooseIM.",
+  "targetKeywords": [
+    "MongooseIM",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.erlang-solutions.com/products/mongooseim.html"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MongooseIM with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

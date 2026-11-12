@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-holistic-dev-01adc3212116-guide",
+  "title": "How to Deploy holistic.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-holistic-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for holistic.dev.",
+  "targetKeywords": [
+    "holistic.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://holistic.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting holistic.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

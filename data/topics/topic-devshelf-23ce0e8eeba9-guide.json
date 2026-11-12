@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-devshelf-23ce0e8eeba9-guide",
+  "title": "How to Deploy DevShelf in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-devshelf-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DevShelf.",
+  "targetKeywords": [
+    "DevShelf",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/RitualDev-Lab/DevShelf"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting DevShelf with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hasura-aa184767cbeb-guide",
+  "title": "How to Deploy Hasura in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hasura-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hasura.",
+  "targetKeywords": [
+    "Hasura",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hasura.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hasura with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

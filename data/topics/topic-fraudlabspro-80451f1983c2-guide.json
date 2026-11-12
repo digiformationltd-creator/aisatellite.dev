@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fraudlabspro-80451f1983c2-guide",
+  "title": "How to Deploy FraudLabsPRO in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fraudlabspro-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FraudLabsPRO.",
+  "targetKeywords": [
+    "FraudLabsPRO",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.fraudlabspro.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FraudLabsPRO with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

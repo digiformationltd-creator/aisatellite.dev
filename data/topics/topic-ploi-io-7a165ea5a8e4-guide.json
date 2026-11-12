@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ploi-io-7a165ea5a8e4-guide",
+  "title": "How to Deploy ploi.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ploi-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ploi.io.",
+  "targetKeywords": [
+    "ploi.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ploi.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ploi.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

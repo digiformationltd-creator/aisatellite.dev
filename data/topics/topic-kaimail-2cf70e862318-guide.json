@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kaimail-2cf70e862318-guide",
+  "title": "How to Deploy KaiMail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kaimail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for KaiMail.",
+  "targetKeywords": [
+    "KaiMail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kaimail.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting KaiMail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

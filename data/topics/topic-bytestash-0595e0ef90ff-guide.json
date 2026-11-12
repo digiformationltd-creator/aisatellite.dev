@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bytestash-0595e0ef90ff-guide",
+  "title": "How to Deploy ByteStash in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bytestash-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ByteStash.",
+  "targetKeywords": [
+    "ByteStash",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/jordan-dalby/ByteStash"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting ByteStash with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

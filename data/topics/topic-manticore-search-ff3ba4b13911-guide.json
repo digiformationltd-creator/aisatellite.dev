@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-manticore-search-ff3ba4b13911-guide",
+  "title": "How to Deploy Manticore Search in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-manticore-search-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Manticore Search.",
+  "targetKeywords": [
+    "Manticore Search",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/manticoresoftware/manticoresearch/"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Manticore Search with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

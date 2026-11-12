@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-acp-admin-3974ec2968d2-guide",
+  "title": "How to Deploy ACP Admin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-acp-admin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ACP Admin.",
+  "targetKeywords": [
+    "ACP Admin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://acp-admin.ch/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ACP Admin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

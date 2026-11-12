@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sample-files-a96c27075ce5-guide",
+  "title": "How to Deploy Sample Files in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sample-files-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sample Files.",
+  "targetKeywords": [
+    "Sample Files",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mzeeshan.me/tools/sample-files"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sample Files with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dolibarr-2d7059c2a1ad-guide",
+  "title": "How to Deploy Dolibarr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dolibarr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dolibarr.",
+  "targetKeywords": [
+    "Dolibarr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.dolibarr.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dolibarr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

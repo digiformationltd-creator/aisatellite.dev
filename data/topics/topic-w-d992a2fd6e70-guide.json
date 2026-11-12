@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-w-d992a2fd6e70-guide",
+  "title": "How to Deploy W in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-w-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for W.",
+  "targetKeywords": [
+    "W",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://w.club1.fr"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting W with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

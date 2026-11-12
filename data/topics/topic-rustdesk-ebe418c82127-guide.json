@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rustdesk-ebe418c82127-guide",
+  "title": "How to Deploy RustDesk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rustdesk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RustDesk.",
+  "targetKeywords": [
+    "RustDesk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://rustdesk.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RustDesk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

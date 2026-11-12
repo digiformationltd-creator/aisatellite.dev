@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-uuid-generator-3d65ff1f46de-guide",
+  "title": "How to Deploy UUID Generator in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-uuid-generator-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for UUID Generator.",
+  "targetKeywords": [
+    "UUID Generator",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://newuuid.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting UUID Generator with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

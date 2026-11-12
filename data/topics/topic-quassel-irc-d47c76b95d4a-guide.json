@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-quassel-irc-d47c76b95d4a-guide",
+  "title": "How to Deploy Quassel IRC in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-quassel-irc-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Quassel IRC.",
+  "targetKeywords": [
+    "Quassel IRC",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://quassel-irc.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Quassel IRC with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-certpost-e56d842ac1af-guide",
+  "title": "How to Deploy CertPost in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-certpost-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CertPost.",
+  "targetKeywords": [
+    "CertPost",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.certpost.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CertPost with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

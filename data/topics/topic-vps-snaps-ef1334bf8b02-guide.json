@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vps-snaps-ef1334bf8b02-guide",
+  "title": "How to Deploy VPS Snaps in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vps-snaps-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for VPS Snaps.",
+  "targetKeywords": [
+    "VPS Snaps",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vpssnaps.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting VPS Snaps with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

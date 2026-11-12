@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-opensearch-a2e938019834-guide",
+  "title": "How to Deploy OpenSearch in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-opensearch-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenSearch.",
+  "targetKeywords": [
+    "OpenSearch",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://opensearch.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenSearch with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

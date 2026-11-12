@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-coral-99fd8728c028-guide",
+  "title": "How to Deploy Coral in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-coral-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Coral.",
+  "targetKeywords": [
+    "Coral",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://coralproject.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Coral with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

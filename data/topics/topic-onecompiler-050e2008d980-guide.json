@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-onecompiler-050e2008d980-guide",
+  "title": "How to Deploy OneCompiler in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-onecompiler-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OneCompiler.",
+  "targetKeywords": [
+    "OneCompiler",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://onecompiler.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OneCompiler with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

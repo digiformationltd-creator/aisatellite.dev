@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-routr-40ca4af83447-guide",
+  "title": "How to Deploy Routr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-routr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Routr.",
+  "targetKeywords": [
+    "Routr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://routr.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Routr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

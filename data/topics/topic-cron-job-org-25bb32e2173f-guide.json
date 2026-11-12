@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cron-job-org-25bb32e2173f-guide",
+  "title": "How to Deploy cron-job.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cron-job-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cron-job.org.",
+  "targetKeywords": [
+    "cron-job.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cron-job.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cron-job.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

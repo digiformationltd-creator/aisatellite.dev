@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-reducto-f19748bec7c5-guide",
+  "title": "How to Deploy Reducto in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-reducto-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Reducto.",
+  "targetKeywords": [
+    "Reducto",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://reducto.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Reducto with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

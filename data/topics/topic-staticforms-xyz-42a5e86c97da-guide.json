@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-staticforms-xyz-42a5e86c97da-guide",
+  "title": "How to Deploy staticforms.xyz in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-staticforms-xyz-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for staticforms.xyz.",
+  "targetKeywords": [
+    "staticforms.xyz",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.staticforms.xyz/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting staticforms.xyz with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

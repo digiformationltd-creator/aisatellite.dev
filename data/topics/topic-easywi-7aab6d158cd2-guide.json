@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-easywi-7aab6d158cd2-guide",
+  "title": "How to Deploy EasyWI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-easywi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for EasyWI.",
+  "targetKeywords": [
+    "EasyWI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://easy-wi.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting EasyWI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-qase-io-56b07d876f3f-guide",
+  "title": "How to Deploy qase.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-qase-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for qase.io.",
+  "targetKeywords": [
+    "qase.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://qase.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting qase.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

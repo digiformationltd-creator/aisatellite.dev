@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-eureka-engine-c46709c4fae8-guide",
+  "title": "How to Deploy eureka-engine in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-eureka-engine-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for eureka-engine.",
+  "targetKeywords": [
+    "eureka-engine",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/phenomenon0/eureka-engine"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting eureka-engine with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-emaillabs-io-0448f4b91df3-guide",
+  "title": "How to Deploy EmailLabs.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-emaillabs-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for EmailLabs.io.",
+  "targetKeywords": [
+    "EmailLabs.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://emaillabs.io/en"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting EmailLabs.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-accent-52965f282a20-guide",
+  "title": "How to Deploy Accent in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-accent-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Accent.",
+  "targetKeywords": [
+    "Accent",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.accent.reviews/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Accent with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-codedthemes-9f036c088591-guide",
+  "title": "How to Deploy CodedThemes in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-codedthemes-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CodedThemes.",
+  "targetKeywords": [
+    "CodedThemes",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://codedthemes.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CodedThemes with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

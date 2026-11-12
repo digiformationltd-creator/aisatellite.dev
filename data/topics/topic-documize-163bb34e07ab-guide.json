@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-documize-163bb34e07ab-guide",
+  "title": "How to Deploy Documize in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-documize-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Documize.",
+  "targetKeywords": [
+    "Documize",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://documize.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Documize with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

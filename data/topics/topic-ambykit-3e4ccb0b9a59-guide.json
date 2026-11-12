@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ambykit-3e4ccb0b9a59-guide",
+  "title": "How to Deploy AmbyKit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ambykit-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AmbyKit.",
+  "targetKeywords": [
+    "AmbyKit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/ambystechcom/AmbyKit"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting AmbyKit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

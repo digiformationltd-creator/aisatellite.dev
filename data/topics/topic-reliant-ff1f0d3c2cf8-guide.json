@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-reliant-ff1f0d3c2cf8-guide",
+  "title": "How to Deploy Reliant in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-reliant-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Reliant.",
+  "targetKeywords": [
+    "Reliant",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://reliantlabs.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Reliant with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

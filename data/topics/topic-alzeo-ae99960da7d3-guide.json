@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-alzeo-ae99960da7d3-guide",
+  "title": "How to Deploy alzeo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-alzeo-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for alzeo.",
+  "targetKeywords": [
+    "alzeo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/hasso5703/alzeo"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting alzeo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

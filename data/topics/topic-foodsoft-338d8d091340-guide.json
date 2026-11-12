@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-foodsoft-338d8d091340-guide",
+  "title": "How to Deploy Foodsoft in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-foodsoft-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Foodsoft.",
+  "targetKeywords": [
+    "Foodsoft",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://foodcoops.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Foodsoft with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

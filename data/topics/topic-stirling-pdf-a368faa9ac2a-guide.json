@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stirling-pdf-a368faa9ac2a-guide",
+  "title": "How to Deploy Stirling-PDF in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stirling-pdf-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Stirling-PDF.",
+  "targetKeywords": [
+    "Stirling-PDF",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Stirling-Tools/Stirling-PDF"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Stirling-PDF with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

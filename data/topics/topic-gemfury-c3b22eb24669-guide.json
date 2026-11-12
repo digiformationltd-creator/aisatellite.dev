@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gemfury-c3b22eb24669-guide",
+  "title": "How to Deploy Gemfury in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gemfury-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gemfury.",
+  "targetKeywords": [
+    "Gemfury",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gemfury.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Gemfury with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.871Z"
+}

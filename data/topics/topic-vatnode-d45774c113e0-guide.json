@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vatnode-d45774c113e0-guide",
+  "title": "How to Deploy vatnode in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vatnode-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for vatnode.",
+  "targetKeywords": [
+    "vatnode",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vatnode.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting vatnode with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

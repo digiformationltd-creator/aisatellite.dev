@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wekan-270380097451-guide",
+  "title": "How to Deploy Wekan in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wekan-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Wekan.",
+  "targetKeywords": [
+    "Wekan",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wekan.github.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Wekan with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

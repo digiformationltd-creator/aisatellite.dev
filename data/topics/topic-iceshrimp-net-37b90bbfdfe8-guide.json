@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-iceshrimp-net-37b90bbfdfe8-guide",
+  "title": "How to Deploy Iceshrimp.NET in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-iceshrimp-net-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Iceshrimp.NET.",
+  "targetKeywords": [
+    "Iceshrimp.NET",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://iceshrimp.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Iceshrimp.NET with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

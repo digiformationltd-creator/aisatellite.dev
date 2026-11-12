@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-netalertx-dc608bc0d1d8-guide",
+  "title": "How to Deploy NetAlertX in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-netalertx-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for NetAlertX.",
+  "targetKeywords": [
+    "NetAlertX",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://netalertx.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting NetAlertX with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

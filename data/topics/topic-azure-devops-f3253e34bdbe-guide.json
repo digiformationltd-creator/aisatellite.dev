@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-azure-devops-f3253e34bdbe-guide",
+  "title": "How to Deploy Azure DevOps in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-azure-devops-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Azure DevOps.",
+  "targetKeywords": [
+    "Azure DevOps",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/devops/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Azure DevOps with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

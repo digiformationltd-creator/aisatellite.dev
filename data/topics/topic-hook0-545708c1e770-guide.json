@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hook0-545708c1e770-guide",
+  "title": "How to Deploy Hook0 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hook0-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hook0.",
+  "targetKeywords": [
+    "Hook0",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.hook0.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hook0 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

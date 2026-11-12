@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-egroupware-4a43f19b423f-guide",
+  "title": "How to Deploy egroupware in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-egroupware-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for egroupware.",
+  "targetKeywords": [
+    "egroupware",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.egroupware.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting egroupware with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

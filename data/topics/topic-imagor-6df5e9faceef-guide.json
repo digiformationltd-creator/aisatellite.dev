@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-imagor-6df5e9faceef-guide",
+  "title": "How to Deploy imagor in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-imagor-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for imagor.",
+  "targetKeywords": [
+    "imagor",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/cshum/imagor"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting imagor with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

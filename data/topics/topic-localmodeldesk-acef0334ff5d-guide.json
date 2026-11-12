@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localmodeldesk-acef0334ff5d-guide",
+  "title": "How to Deploy LocalModelDesk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localmodeldesk-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LocalModelDesk.",
+  "targetKeywords": [
+    "LocalModelDesk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/uyujkk/LocalModelDesk"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting LocalModelDesk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

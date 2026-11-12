@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pingbreak-com-b386412d7b65-guide",
+  "title": "How to Deploy pingbreak.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pingbreak-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pingbreak.com.",
+  "targetKeywords": [
+    "pingbreak.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pingbreak.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting pingbreak.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

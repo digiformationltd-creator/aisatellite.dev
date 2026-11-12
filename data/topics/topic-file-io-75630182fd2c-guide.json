@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-file-io-75630182fd2c-guide",
+  "title": "How to Deploy file.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-file-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for file.io.",
+  "targetKeywords": [
+    "file.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.file.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting file.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

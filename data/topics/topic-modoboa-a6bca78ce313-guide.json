@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-modoboa-a6bca78ce313-guide",
+  "title": "How to Deploy Modoboa in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-modoboa-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Modoboa.",
+  "targetKeywords": [
+    "Modoboa",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://modoboa.org/en/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Modoboa with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

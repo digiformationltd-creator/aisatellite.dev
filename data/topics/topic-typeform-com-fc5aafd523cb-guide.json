@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-typeform-com-fc5aafd523cb-guide",
+  "title": "How to Deploy Typeform.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-typeform-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Typeform.com.",
+  "targetKeywords": [
+    "Typeform.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.typeform.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Typeform.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

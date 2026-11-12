@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dietpi-c99386c0062b-guide",
+  "title": "How to Deploy DietPi in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dietpi-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DietPi.",
+  "targetKeywords": [
+    "DietPi",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dietpi.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DietPi with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

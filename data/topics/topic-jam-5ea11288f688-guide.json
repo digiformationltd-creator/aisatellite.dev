@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jam-5ea11288f688-guide",
+  "title": "How to Deploy Jam in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jam-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Jam.",
+  "targetKeywords": [
+    "Jam",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jam.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Jam with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

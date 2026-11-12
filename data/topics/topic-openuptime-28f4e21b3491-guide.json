@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openuptime-28f4e21b3491-guide",
+  "title": "How to Deploy OpenUptime in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openuptime-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenUptime.",
+  "targetKeywords": [
+    "OpenUptime",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://openuptime.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenUptime with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

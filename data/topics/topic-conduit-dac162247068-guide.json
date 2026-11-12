@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-conduit-dac162247068-guide",
+  "title": "How to Deploy Conduit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-conduit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Conduit.",
+  "targetKeywords": [
+    "Conduit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://conduit.email/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Conduit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

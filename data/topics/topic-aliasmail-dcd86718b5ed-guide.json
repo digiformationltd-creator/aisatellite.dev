@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aliasmail-dcd86718b5ed-guide",
+  "title": "How to Deploy AliasMail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aliasmail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AliasMail.",
+  "targetKeywords": [
+    "AliasMail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://aliasmail.space/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AliasMail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

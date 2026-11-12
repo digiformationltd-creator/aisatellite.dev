@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-data-fetcher-8e6a5e22ce2a-guide",
+  "title": "How to Deploy Data Fetcher in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-data-fetcher-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Data Fetcher.",
+  "targetKeywords": [
+    "Data Fetcher",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://datafetcher.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Data Fetcher with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

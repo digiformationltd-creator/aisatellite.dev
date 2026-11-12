@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bar-assistant-627b2e89c2f3-guide",
+  "title": "How to Deploy Bar Assistant in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bar-assistant-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bar Assistant.",
+  "targetKeywords": [
+    "Bar Assistant",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://barassistant.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bar Assistant with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

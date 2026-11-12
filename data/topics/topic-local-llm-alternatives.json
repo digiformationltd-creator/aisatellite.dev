@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-local-llm-alternatives",
+  "title": "Best Open-Source Alternatives in local-llm: Evaluated Feature Parity & Security",
+  "slug": "top-open-source-alternatives-to-proprietary-local-llm",
+  "category": "local-llm",
+  "searchIntent": "Comparison of top open-source alternatives in local-llm with verified licensing.",
+  "targetKeywords": [
+    "open source alternatives",
+    "local-llm",
+    "self-hosted software",
+    "FOSS"
+  ],
+  "evidenceReferences": [
+    "https://github.com/hasso5703/alzeo"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "Provides verified migration paths from proprietary SaaS to open-source software in local-llm.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

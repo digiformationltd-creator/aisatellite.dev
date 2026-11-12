@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-harbor-c8ad159d7512-guide",
+  "title": "How to Deploy Harbor in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-harbor-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Harbor.",
+  "targetKeywords": [
+    "Harbor",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://goharbor.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Harbor with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

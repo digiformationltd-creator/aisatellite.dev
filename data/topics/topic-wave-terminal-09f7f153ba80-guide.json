@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wave-terminal-09f7f153ba80-guide",
+  "title": "How to Deploy Wave Terminal in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wave-terminal-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Wave Terminal.",
+  "targetKeywords": [
+    "Wave Terminal",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://waveterm.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Wave Terminal with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

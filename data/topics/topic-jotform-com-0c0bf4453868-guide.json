@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jotform-com-0c0bf4453868-guide",
+  "title": "How to Deploy Jotform.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jotform-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Jotform.com.",
+  "targetKeywords": [
+    "Jotform.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://jotform.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Jotform.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-skyvia-com-d623cf86c3c9-guide",
+  "title": "How to Deploy skyvia.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-skyvia-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for skyvia.com.",
+  "targetKeywords": [
+    "skyvia.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://skyvia.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting skyvia.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

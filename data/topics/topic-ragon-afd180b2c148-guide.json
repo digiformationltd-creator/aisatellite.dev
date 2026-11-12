@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ragon-afd180b2c148-guide",
+  "title": "How to Deploy ragon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ragon-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ragon.",
+  "targetKeywords": [
+    "ragon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/dreamference/ragon"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting ragon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

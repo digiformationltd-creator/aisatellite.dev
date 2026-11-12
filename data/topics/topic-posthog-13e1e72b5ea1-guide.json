@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-posthog-13e1e72b5ea1-guide",
+  "title": "How to Deploy PostHog in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-posthog-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PostHog.",
+  "targetKeywords": [
+    "PostHog",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://posthog.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PostHog with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

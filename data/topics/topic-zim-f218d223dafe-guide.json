@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zim-f218d223dafe-guide",
+  "title": "How to Deploy Zim in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zim-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zim.",
+  "targetKeywords": [
+    "Zim",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zim-wiki.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zim with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

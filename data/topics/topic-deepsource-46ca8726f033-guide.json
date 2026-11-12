@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deepsource-46ca8726f033-guide",
+  "title": "How to Deploy DeepSource in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deepsource-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DeepSource.",
+  "targetKeywords": [
+    "DeepSource",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://deepsource.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DeepSource with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

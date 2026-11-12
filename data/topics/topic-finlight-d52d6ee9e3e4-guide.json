@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-finlight-d52d6ee9e3e4-guide",
+  "title": "How to Deploy finlight in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-finlight-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for finlight.",
+  "targetKeywords": [
+    "finlight",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://finlight.me"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting finlight with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

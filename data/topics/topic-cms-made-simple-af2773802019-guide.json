@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cms-made-simple-af2773802019-guide",
+  "title": "How to Deploy CMS Made Simple in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cms-made-simple-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CMS Made Simple.",
+  "targetKeywords": [
+    "CMS Made Simple",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cmsmadesimple.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CMS Made Simple with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

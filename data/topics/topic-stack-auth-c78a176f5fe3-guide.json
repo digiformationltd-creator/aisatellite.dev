@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stack-auth-c78a176f5fe3-guide",
+  "title": "How to Deploy Stack Auth in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stack-auth-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Stack Auth.",
+  "targetKeywords": [
+    "Stack Auth",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stack-auth.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Stack Auth with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

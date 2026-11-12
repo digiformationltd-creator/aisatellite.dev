@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-r2-27fe2a6da2d4-guide",
+  "title": "How to Deploy R2 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-r2-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for R2.",
+  "targetKeywords": [
+    "R2",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developers.cloudflare.com/r2/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting R2 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

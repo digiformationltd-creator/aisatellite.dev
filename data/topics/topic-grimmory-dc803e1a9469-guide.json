@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-grimmory-dc803e1a9469-guide",
+  "title": "How to Deploy Grimmory in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-grimmory-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Grimmory.",
+  "targetKeywords": [
+    "Grimmory",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://grimmory.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Grimmory with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

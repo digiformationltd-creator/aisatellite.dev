@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-imagekit-io-2a1b78da3cc3-guide",
+  "title": "How to Deploy imagekit.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-imagekit-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for imagekit.io.",
+  "targetKeywords": [
+    "imagekit.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://imagekit.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting imagekit.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

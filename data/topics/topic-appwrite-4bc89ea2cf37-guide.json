@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-appwrite-4bc89ea2cf37-guide",
+  "title": "How to Deploy Appwrite in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-appwrite-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Appwrite.",
+  "targetKeywords": [
+    "Appwrite",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://appwrite.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Appwrite with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

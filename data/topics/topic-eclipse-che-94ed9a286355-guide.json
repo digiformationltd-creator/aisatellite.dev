@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-eclipse-che-94ed9a286355-guide",
+  "title": "How to Deploy Eclipse Che in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-eclipse-che-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Eclipse Che.",
+  "targetKeywords": [
+    "Eclipse Che",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.eclipse.org/che/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Eclipse Che with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

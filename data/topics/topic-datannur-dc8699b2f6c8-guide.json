@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-datannur-dc8699b2f6c8-guide",
+  "title": "How to Deploy datannur in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-datannur-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for datannur.",
+  "targetKeywords": [
+    "datannur",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://datannur.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting datannur with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

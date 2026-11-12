@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-realuptime-4503f48ff9fa-guide",
+  "title": "How to Deploy RealUptime in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-realuptime-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RealUptime.",
+  "targetKeywords": [
+    "RealUptime",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://realuptime.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RealUptime with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

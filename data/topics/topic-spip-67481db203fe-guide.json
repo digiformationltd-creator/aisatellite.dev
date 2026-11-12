@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-spip-67481db203fe-guide",
+  "title": "How to Deploy SPIP in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-spip-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SPIP.",
+  "targetKeywords": [
+    "SPIP",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.spip.net/fr"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SPIP with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

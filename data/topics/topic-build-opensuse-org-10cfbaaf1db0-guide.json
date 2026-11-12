@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-build-opensuse-org-10cfbaaf1db0-guide",
+  "title": "How to Deploy build.opensuse.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-build-opensuse-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for build.opensuse.org.",
+  "targetKeywords": [
+    "build.opensuse.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://build.opensuse.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting build.opensuse.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

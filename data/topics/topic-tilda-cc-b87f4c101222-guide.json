@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tilda-cc-b87f4c101222-guide",
+  "title": "How to Deploy tilda.cc in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tilda-cc-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for tilda.cc.",
+  "targetKeywords": [
+    "tilda.cc",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tilda.cc/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting tilda.cc with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-formbricks-7f51d6e7dcf1-guide",
+  "title": "How to Deploy Formbricks in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-formbricks-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Formbricks.",
+  "targetKeywords": [
+    "Formbricks",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://formbricks.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Formbricks with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

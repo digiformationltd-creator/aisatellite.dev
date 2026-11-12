@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-flat-social-0875948e9c4e-guide",
+  "title": "How to Deploy flat.social in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-flat-social-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for flat.social.",
+  "targetKeywords": [
+    "flat.social",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://flat.social"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting flat.social with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.870Z"
+}

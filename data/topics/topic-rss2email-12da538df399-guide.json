@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rss2email-12da538df399-guide",
+  "title": "How to Deploy RSS2EMail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rss2email-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RSS2EMail.",
+  "targetKeywords": [
+    "RSS2EMail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/rss2email/rss2email"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting RSS2EMail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.874Z"
+}

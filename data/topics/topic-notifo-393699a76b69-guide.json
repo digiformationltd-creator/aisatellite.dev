@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-notifo-393699a76b69-guide",
+  "title": "How to Deploy Notifo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-notifo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Notifo.",
+  "targetKeywords": [
+    "Notifo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/notifo-io/notifo"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Notifo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

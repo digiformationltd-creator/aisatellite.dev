@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zero-k-24b122f2a297-guide",
+  "title": "How to Deploy Zero-K in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zero-k-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Zero-K.",
+  "targetKeywords": [
+    "Zero-K",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zero-k.info/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Zero-K with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}

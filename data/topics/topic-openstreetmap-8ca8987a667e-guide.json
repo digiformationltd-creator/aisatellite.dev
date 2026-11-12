@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openstreetmap-8ca8987a667e-guide",
+  "title": "How to Deploy OpenStreetMap in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openstreetmap-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenStreetMap.",
+  "targetKeywords": [
+    "OpenStreetMap",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.openstreetmap.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenStreetMap with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.873Z"
+}

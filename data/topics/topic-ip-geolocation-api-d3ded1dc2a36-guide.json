@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ip-geolocation-api-d3ded1dc2a36-guide",
+  "title": "How to Deploy IP Geolocation API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ip-geolocation-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IP Geolocation API.",
+  "targetKeywords": [
+    "IP Geolocation API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.abstractapi.com/ip-geolocation-api"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IP Geolocation API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

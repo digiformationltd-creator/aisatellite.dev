@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dashbeam-fb3555cd2cfe-guide",
+  "title": "How to Deploy DashBeam in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dashbeam-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DashBeam.",
+  "targetKeywords": [
+    "DashBeam",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://dashbeam.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DashBeam with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.869Z"
+}

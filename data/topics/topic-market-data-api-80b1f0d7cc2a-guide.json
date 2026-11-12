@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-market-data-api-80b1f0d7cc2a-guide",
+  "title": "How to Deploy Market Data API in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-market-data-api-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Market Data API.",
+  "targetKeywords": [
+    "Market Data API",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.marketdata.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Market Data API with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.872Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bitbucket-39625eb27383-guide",
+  "title": "How to Deploy Bitbucket in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bitbucket-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bitbucket.",
+  "targetKeywords": [
+    "Bitbucket",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bitbucket.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Bitbucket with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.868Z"
+}

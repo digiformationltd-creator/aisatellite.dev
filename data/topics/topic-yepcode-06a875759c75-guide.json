@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-yepcode-06a875759c75-guide",
+  "title": "How to Deploy YepCode in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-yepcode-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for YepCode.",
+  "targetKeywords": [
+    "YepCode",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://yepcode.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting YepCode with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-12T12:17:30.875Z"
+}
