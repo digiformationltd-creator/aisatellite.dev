@@ -1,0 +1,20 @@
+{
+  "id": "rudderstack-efe9377d46b9",
+  "canonicalUrl": "https://rudderstack.com/",
+  "name": "RudderStack",
+  "description": "Event streaming to 200+ destinations and data warehouse, plus reverse ETL. Comes with MCP server and CLI for AI agents. Free forever for 250k events/month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://rudderstack.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rudderstack.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.124Z",
+  "updatedAt": "2026-11-12T07:52:27.124Z"
+}

@@ -35,13 +35,11 @@
   "freeTierLimitations": [],
   "githubStars": 14,
   "githubForks": 16,
-  "lastRepositoryUpdate": "2026-11-10T20:26:14Z",
+  "lastRepositoryUpdate": "2026-11-11T08:43:50Z",
   "evidenceUrls": [
     "https://github.com/RitualDev-Lab/DevShelf"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.832Z",
-  "updatedAt": "2026-11-11T07:22:40.832Z",
-  "lastVerified": "2026-11-11T09:01:27.388Z",
-  "qualityScore": 91
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.918Z",
+  "updatedAt": "2026-11-12T07:52:27.918Z"
 }

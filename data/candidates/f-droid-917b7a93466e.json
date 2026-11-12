@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://f-droid.org"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.271Z",
-  "updatedAt": "2026-11-11T07:22:40.271Z",
-  "lastVerified": "2026-11-11T09:02:50.177Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.252Z",
+  "updatedAt": "2026-11-12T07:52:27.252Z"
 }

@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.reactflow.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.177Z",
-  "updatedAt": "2026-11-11T07:22:40.177Z",
-  "lastVerified": "2026-11-11T09:10:25.272Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.124Z",
+  "updatedAt": "2026-11-12T07:52:27.124Z"
 }

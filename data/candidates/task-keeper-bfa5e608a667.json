@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/nymanjens/piga"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.272Z",
-  "updatedAt": "2026-11-11T07:22:40.272Z",
-  "lastVerified": "2026-11-11T09:13:34.297Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.254Z",
+  "updatedAt": "2026-11-12T07:52:27.254Z"
 }

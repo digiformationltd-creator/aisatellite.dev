@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/algolia/sup3rS3cretMes5age"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.272Z",
-  "updatedAt": "2026-11-11T07:22:40.272Z",
-  "lastVerified": "2026-11-11T09:13:05.516Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.253Z",
+  "updatedAt": "2026-11-12T07:52:27.253Z"
 }

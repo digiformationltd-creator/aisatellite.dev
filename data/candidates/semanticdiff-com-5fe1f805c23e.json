@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://app.semanticdiff.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.169Z",
-  "updatedAt": "2026-11-11T07:22:40.169Z",
-  "lastVerified": "2026-11-11T09:11:42.058Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.115Z",
+  "updatedAt": "2026-11-12T07:52:27.115Z"
 }

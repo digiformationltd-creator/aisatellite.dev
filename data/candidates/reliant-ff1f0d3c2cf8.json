@@ -1,0 +1,20 @@
+{
+  "id": "reliant-ff1f0d3c2cf8",
+  "canonicalUrl": "https://reliantlabs.io/",
+  "name": "Reliant",
+  "description": "Host, monitor, and deploy your services with production best practices. Tracing, continuous profiling, metrics, and logs fully baked in and correlated with each release allow you to identify and auto rollback on demand. One free static site per organization, 1 GiB of storage, 10 GiB of traffic a month, CDN with HTTPS, custom domains, no card needed, deployed with the open-source forge CLI.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://reliantlabs.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://reliantlabs.io"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.122Z",
+  "updatedAt": "2026-11-12T07:52:27.122Z"
+}

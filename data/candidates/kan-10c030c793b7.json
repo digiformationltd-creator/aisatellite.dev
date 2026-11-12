@@ -15,10 +15,8 @@
   "evidenceUrls": [
     "https://kan.bn/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.272Z",
-  "updatedAt": "2026-11-11T07:22:41.762Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-11T09:05:43.746Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.254Z",
+  "updatedAt": "2026-11-12T07:52:28.968Z",
+  "githubStars": 0
 }

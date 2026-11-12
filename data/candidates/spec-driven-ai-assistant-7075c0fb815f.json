@@ -30,14 +30,11 @@
   "freeTierLimitations": [],
   "githubStars": 0,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-08T03:54:59Z",
+  "lastRepositoryUpdate": "2026-11-12T07:39:54Z",
   "evidenceUrls": [
     "https://github.com/vishnu1432/spec-driven-ai-assistant"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-08T06:50:18.480Z",
-  "updatedAt": "2026-11-08T06:50:18.480Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown",
-  "lastVerified": "2026-11-11T09:12:39.257Z",
-  "qualityScore": 64
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:28.965Z",
+  "updatedAt": "2026-11-12T07:52:28.965Z"
 }

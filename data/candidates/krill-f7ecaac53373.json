@@ -1,0 +1,35 @@
+{
+  "id": "krill-f7ecaac53373",
+  "canonicalUrl": "https://github.com/srvsngh99/Krill",
+  "name": "Krill",
+  "description": "Ollama runs a model. Claude Code drives one. Krill does both, in one binary on your Mac: a local LLM engine (MLX; OpenAI/Ollama/Anthropic APIs) and its own coding agent. No Python.",
+  "category": "local-llm",
+  "tags": [
+    "apple-silicon",
+    "gemma",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "macos",
+    "mlx",
+    "ollama",
+    "on-device-ai",
+    "swift"
+  ],
+  "repositoryUrl": "https://github.com/srvsngh99/Krill",
+  "officialUrl": "https://souravailabs.ai",
+  "documentationUrl": "https://souravailabs.ai",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/srvsngh99/Krill/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 7,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-12T07:18:44Z",
+  "evidenceUrls": [
+    "https://github.com/srvsngh99/Krill"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:28.433Z",
+  "updatedAt": "2026-11-12T07:52:28.433Z"
+}

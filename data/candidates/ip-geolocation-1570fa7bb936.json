@@ -14,10 +14,8 @@
   "evidenceUrls": [
     "https://ipgeolocation.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.176Z",
-  "updatedAt": "2026-11-11T07:22:41.760Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-11T09:05:19.863Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.123Z",
+  "updatedAt": "2026-11-12T07:52:28.966Z",
+  "githubStars": 0
 }

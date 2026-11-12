@@ -1,0 +1,20 @@
+{
+  "id": "gravex-chat-6dd72215294d",
+  "canonicalUrl": "https://chat.gravex.app/en",
+  "name": "GravEx Chat",
+  "description": "Free chat sdk that works for any client, like web, Android, iOS or whatever. Create API key and hand it over to your own Agent(Claude, Codex...) with [llms.txt](https://chat.gravex.app/en/llms.txt), then you get your messenger to your service. It's that simple.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://chat.gravex.app/en/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://chat.gravex.app/en/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.119Z",
+  "updatedAt": "2026-11-12T07:52:27.119Z"
+}

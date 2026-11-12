@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.xmox.nl/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.267Z",
-  "updatedAt": "2026-11-11T07:22:40.267Z",
-  "lastVerified": "2026-11-11T09:07:42.482Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.250Z",
+  "updatedAt": "2026-11-12T07:52:27.250Z"
 }

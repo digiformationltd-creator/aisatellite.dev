@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://mojoauth.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:40.171Z",
-  "updatedAt": "2026-11-11T07:22:40.171Z",
-  "lastVerified": "2026-11-11T09:07:36.051Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:27.118Z",
+  "updatedAt": "2026-11-12T07:52:27.118Z"
 }

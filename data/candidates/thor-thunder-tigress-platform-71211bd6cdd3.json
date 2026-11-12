@@ -1,0 +1,36 @@
+{
+  "id": "thor-thunder-tigress-platform-71211bd6cdd3",
+  "canonicalUrl": "https://github.com/arpanpathak/thor-thunder-tigress-platform",
+  "name": "thor-thunder-tigress-platform",
+  "description": "Fine-tune a local model on an NVIDIA Jetson to stop writing AI slop, in prose and in Rust. Book: https://arpanpathak.github.io/thor-thunder-tigress-platform/",
+  "category": "local-llm",
+  "tags": [
+    "dataset-generation",
+    "edge-ai",
+    "fine-tuning",
+    "jetson",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "nvidia",
+    "rust",
+    "self-hosted"
+  ],
+  "repositoryUrl": "https://github.com/arpanpathak/thor-thunder-tigress-platform",
+  "officialUrl": "https://arpanpathak.github.io/thor-thunder-tigress-platform/",
+  "documentationUrl": "https://arpanpathak.github.io/thor-thunder-tigress-platform/",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/arpanpathak/thor-thunder-tigress-platform/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-12T07:42:33Z",
+  "evidenceUrls": [
+    "https://github.com/arpanpathak/thor-thunder-tigress-platform"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-12T07:52:28.433Z",
+  "updatedAt": "2026-11-12T07:52:28.433Z"
+}
