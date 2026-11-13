@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://emailqo.com/email-grader"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.902Z",
-  "updatedAt": "2026-11-13T07:28:53.902Z"
+  "updatedAt": "2026-11-13T07:28:53.902Z",
+  "lastVerified": "2026-11-13T09:18:39.744Z",
+  "qualityScore": 52
 }

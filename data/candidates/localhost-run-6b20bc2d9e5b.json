@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://localhost.run/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.903Z",
-  "updatedAt": "2026-11-13T07:28:53.903Z"
+  "updatedAt": "2026-11-13T07:28:53.903Z",
+  "lastVerified": "2026-11-13T09:23:53.278Z",
+  "qualityScore": 52
 }

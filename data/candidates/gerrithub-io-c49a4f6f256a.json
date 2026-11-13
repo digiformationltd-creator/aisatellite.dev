@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://review.gerrithub.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.898Z",
-  "updatedAt": "2026-11-13T07:28:53.898Z"
+  "updatedAt": "2026-11-13T07:28:53.898Z",
+  "lastVerified": "2026-11-13T09:20:28.312Z",
+  "qualityScore": 52
 }

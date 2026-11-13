@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "http://superset.apache.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.983Z",
-  "updatedAt": "2026-11-13T07:28:53.983Z"
+  "updatedAt": "2026-11-13T07:28:53.983Z",
+  "lastVerified": "2026-11-13T09:32:10.367Z",
+  "qualityScore": 52
 }

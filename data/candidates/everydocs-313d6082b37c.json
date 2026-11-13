@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/jonashellmann/everydocs-core"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.984Z",
-  "updatedAt": "2026-11-13T07:28:53.984Z"
+  "updatedAt": "2026-11-13T07:28:53.984Z",
+  "lastVerified": "2026-11-13T09:19:03.200Z",
+  "qualityScore": 55
 }

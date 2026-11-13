@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://snapshooter.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.905Z",
-  "updatedAt": "2026-11-13T07:28:53.905Z"
+  "updatedAt": "2026-11-13T07:28:53.905Z",
+  "lastVerified": "2026-11-13T09:31:18.035Z",
+  "qualityScore": 52
 }

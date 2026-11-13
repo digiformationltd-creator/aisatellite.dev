@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://serveo.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.903Z",
-  "updatedAt": "2026-11-13T07:28:53.903Z"
+  "updatedAt": "2026-11-13T07:28:53.903Z",
+  "lastVerified": "2026-11-13T09:30:26.174Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://axiom.co/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.901Z",
-  "updatedAt": "2026-11-13T07:28:53.901Z"
+  "updatedAt": "2026-11-13T07:28:53.901Z",
+  "lastVerified": "2026-11-13T09:15:00.020Z",
+  "qualityScore": 52
 }

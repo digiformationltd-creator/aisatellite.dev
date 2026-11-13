@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.pufferpanel.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.985Z",
-  "updatedAt": "2026-11-13T07:28:53.985Z"
+  "updatedAt": "2026-11-13T07:28:53.985Z",
+  "lastVerified": "2026-11-13T09:28:33.218Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,22 @@
+{
+  "id": "rizamo-8c4220bf70c9",
+  "canonicalUrl": "https://rizamo.com/",
+  "name": "Rizamo",
+  "description": "Social media publishing API: schedule and publish to Instagram, Facebook, TikTok, Threads, YouTube and more over REST, webhooks or an MCP server for AI agents, with comment inbox and analytics. Free forever for 2 connected accounts, unlimited posts, every feature included, no credit card.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://rizamo.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rizamo.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-13T07:28:53.898Z",
+  "updatedAt": "2026-11-13T07:28:53.898Z",
+  "lastVerified": "2026-11-13T09:29:21.837Z",
+  "qualityScore": 52
+}

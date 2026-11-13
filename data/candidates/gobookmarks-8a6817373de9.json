@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/arran4/gobookmarks"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.987Z",
-  "updatedAt": "2026-11-13T07:28:53.987Z"
+  "updatedAt": "2026-11-13T07:28:53.987Z",
+  "lastVerified": "2026-11-13T09:20:48.942Z",
+  "qualityScore": 55
 }

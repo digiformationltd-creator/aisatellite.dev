@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://icecast.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.986Z",
-  "updatedAt": "2026-11-13T07:28:53.986Z"
+  "updatedAt": "2026-11-13T07:28:53.986Z",
+  "lastVerified": "2026-11-13T09:21:47.976Z",
+  "qualityScore": 52
 }

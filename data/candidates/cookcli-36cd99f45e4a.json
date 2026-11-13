@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cooklang.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.987Z",
-  "updatedAt": "2026-11-13T07:28:53.987Z"
+  "updatedAt": "2026-11-13T07:28:53.987Z",
+  "lastVerified": "2026-11-13T09:16:45.456Z",
+  "qualityScore": 52
 }

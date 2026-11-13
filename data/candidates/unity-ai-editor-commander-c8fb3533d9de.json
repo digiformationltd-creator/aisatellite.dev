@@ -33,7 +33,9 @@
   "evidenceUrls": [
     "https://github.com/barrioscb/unity-ai-editor-commander"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:55.615Z",
-  "updatedAt": "2026-11-13T07:28:55.615Z"
+  "updatedAt": "2026-11-13T07:28:55.615Z",
+  "lastVerified": "2026-11-13T09:33:42.161Z",
+  "qualityScore": 64
 }

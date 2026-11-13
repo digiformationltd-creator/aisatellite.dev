@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sendpulse.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.902Z",
-  "updatedAt": "2026-11-13T07:28:53.902Z"
+  "updatedAt": "2026-11-13T07:28:53.902Z",
+  "lastVerified": "2026-11-13T09:30:23.221Z",
+  "qualityScore": 52
 }

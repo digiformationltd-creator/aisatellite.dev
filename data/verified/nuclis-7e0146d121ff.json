@@ -1,0 +1,36 @@
+{
+  "id": "nuclis-7e0146d121ff",
+  "canonicalUrl": "https://github.com/tildaslashalef/nuclis",
+  "name": "nuclis",
+  "description": "Local LLM inference engine  in Zig with a Metal backend",
+  "category": "local-llm",
+  "tags": [
+    "apple-silicon",
+    "gemma",
+    "gguf",
+    "llama-cpp",
+    "llm-inference",
+    "metal",
+    "moe",
+    "qwen",
+    "zig"
+  ],
+  "repositoryUrl": "https://github.com/tildaslashalef/nuclis",
+  "officialUrl": "https://engine.nuclis.dev",
+  "documentationUrl": "https://engine.nuclis.dev",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/tildaslashalef/nuclis/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-13T06:40:26Z",
+  "evidenceUrls": [
+    "https://github.com/tildaslashalef/nuclis"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-13T07:28:55.160Z",
+  "updatedAt": "2026-11-13T07:28:55.160Z",
+  "lastVerified": "2026-11-13T09:25:59.745Z",
+  "qualityScore": 89
+}

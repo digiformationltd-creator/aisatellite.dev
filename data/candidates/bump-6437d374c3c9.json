@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bump.email/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.901Z",
-  "updatedAt": "2026-11-13T07:28:53.901Z"
+  "updatedAt": "2026-11-13T07:28:53.901Z",
+  "lastVerified": "2026-11-13T09:15:42.194Z",
+  "qualityScore": 52
 }

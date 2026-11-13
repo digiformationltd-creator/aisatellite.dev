@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/TheNickOfTime/handbrake-web"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.983Z",
-  "updatedAt": "2026-11-13T07:28:53.983Z"
+  "updatedAt": "2026-11-13T07:28:53.983Z",
+  "lastVerified": "2026-11-13T09:21:10.065Z",
+  "qualityScore": 55
 }

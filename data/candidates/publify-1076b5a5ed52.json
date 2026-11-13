@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://publify.github.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.984Z",
-  "updatedAt": "2026-11-13T07:28:53.984Z"
+  "updatedAt": "2026-11-13T07:28:53.984Z",
+  "lastVerified": "2026-11-13T09:28:32.082Z",
+  "qualityScore": 52
 }

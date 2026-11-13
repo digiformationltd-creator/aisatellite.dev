@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://freedns.afraid.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.903Z",
-  "updatedAt": "2026-11-13T07:28:53.903Z"
+  "updatedAt": "2026-11-13T07:28:53.903Z",
+  "lastVerified": "2026-11-13T09:19:59.202Z",
+  "qualityScore": 52
 }

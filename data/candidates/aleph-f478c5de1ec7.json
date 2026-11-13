@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aleph.occrp.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.987Z",
-  "updatedAt": "2026-11-13T07:28:53.987Z"
+  "updatedAt": "2026-11-13T07:28:53.987Z",
+  "lastVerified": "2026-11-13T09:13:59.508Z",
+  "qualityScore": 52
 }

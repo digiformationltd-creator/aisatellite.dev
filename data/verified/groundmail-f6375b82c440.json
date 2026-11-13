@@ -1,0 +1,22 @@
+{
+  "id": "groundmail-f6375b82c440",
+  "canonicalUrl": "https://groundmail.dev/",
+  "name": "Groundmail",
+  "description": "Transactional email API and SMTP relay. 3,000 emails/month free (100/day), three domains, three agent mailboxes, inbound email included.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://groundmail.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://groundmail.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-13T07:28:53.902Z",
+  "updatedAt": "2026-11-13T07:28:53.902Z",
+  "lastVerified": "2026-11-13T09:21:04.558Z",
+  "qualityScore": 52
+}

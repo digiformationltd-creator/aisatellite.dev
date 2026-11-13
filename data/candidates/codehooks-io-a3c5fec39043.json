@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codehooks.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.903Z",
-  "updatedAt": "2026-11-13T07:28:53.903Z"
+  "updatedAt": "2026-11-13T07:28:53.903Z",
+  "lastVerified": "2026-11-13T09:16:30.188Z",
+  "qualityScore": 52
 }

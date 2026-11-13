@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://forwardemail.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.902Z",
-  "updatedAt": "2026-11-13T07:28:53.902Z"
+  "updatedAt": "2026-11-13T07:28:53.902Z",
+  "lastVerified": "2026-11-13T09:19:51.045Z",
+  "qualityScore": 52
 }

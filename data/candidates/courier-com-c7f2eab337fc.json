@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.courier.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.900Z",
-  "updatedAt": "2026-11-13T07:28:53.900Z"
+  "updatedAt": "2026-11-13T07:28:53.900Z",
+  "lastVerified": "2026-11-13T09:16:59.040Z",
+  "qualityScore": 52
 }

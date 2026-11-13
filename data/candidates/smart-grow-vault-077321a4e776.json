@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://vault.smart-grow.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.899Z",
-  "updatedAt": "2026-11-13T07:28:53.899Z"
+  "updatedAt": "2026-11-13T07:28:53.899Z",
+  "lastVerified": "2026-11-13T09:31:05.256Z",
+  "qualityScore": 52
 }

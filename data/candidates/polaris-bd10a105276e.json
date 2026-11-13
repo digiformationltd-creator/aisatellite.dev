@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/agersant/polaris"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.986Z",
-  "updatedAt": "2026-11-13T07:28:53.986Z"
+  "updatedAt": "2026-11-13T07:28:53.986Z",
+  "lastVerified": "2026-11-13T09:28:04.873Z",
+  "qualityScore": 55
 }

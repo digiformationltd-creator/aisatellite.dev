@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://socket.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.899Z",
-  "updatedAt": "2026-11-13T07:28:53.899Z"
+  "updatedAt": "2026-11-13T07:28:53.899Z",
+  "lastVerified": "2026-11-13T09:31:22.351Z",
+  "qualityScore": 52
 }

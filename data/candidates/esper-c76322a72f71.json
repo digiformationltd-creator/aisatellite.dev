@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://esper.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.899Z",
-  "updatedAt": "2026-11-13T07:28:53.899Z"
+  "updatedAt": "2026-11-13T07:28:53.899Z",
+  "lastVerified": "2026-11-13T09:18:56.741Z",
+  "qualityScore": 52
 }

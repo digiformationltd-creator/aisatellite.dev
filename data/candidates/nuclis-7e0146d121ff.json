@@ -28,7 +28,9 @@
   "evidenceUrls": [
     "https://github.com/tildaslashalef/nuclis"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:55.160Z",
-  "updatedAt": "2026-11-13T07:28:55.160Z"
+  "updatedAt": "2026-11-13T07:28:55.160Z",
+  "lastVerified": "2026-11-13T09:25:59.745Z",
+  "qualityScore": 89
 }

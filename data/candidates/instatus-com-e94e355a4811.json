@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://instatus.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.901Z",
-  "updatedAt": "2026-11-13T07:28:53.901Z"
+  "updatedAt": "2026-11-13T07:28:53.901Z",
+  "lastVerified": "2026-11-13T09:22:04.327Z",
+  "qualityScore": 52
 }

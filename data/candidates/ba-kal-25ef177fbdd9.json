@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sabre.io/baikal/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.983Z",
-  "updatedAt": "2026-11-13T07:28:53.983Z"
+  "updatedAt": "2026-11-13T07:28:53.983Z",
+  "lastVerified": "2026-11-13T09:15:03.628Z",
+  "qualityScore": 52
 }

@@ -31,16 +31,15 @@
   "licenseEvidenceUrl": "https://github.com/Cedriceuh/freetoken-rdna3/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 9,
+  "githubStars": 12,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-06T07:22:34Z",
+  "lastRepositoryUpdate": "2026-11-13T05:48:03Z",
   "evidenceUrls": [
     "https://github.com/Cedriceuh/freetoken-rdna3"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:28.562Z",
-  "updatedAt": "2026-11-06T07:30:28.562Z",
-  "lastVerified": "2026-11-12T09:30:59.593Z",
-  "qualityScore": 78,
-  "rejectionReason": "Canonical link unreachable"
+  "discoveredAt": "2026-11-13T07:28:55.160Z",
+  "updatedAt": "2026-11-13T07:28:55.160Z",
+  "lastVerified": "2026-11-13T09:20:02.659Z",
+  "qualityScore": 80
 }

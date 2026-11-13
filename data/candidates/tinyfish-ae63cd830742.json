@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.tinyfish.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.898Z",
-  "updatedAt": "2026-11-13T07:28:53.898Z"
+  "updatedAt": "2026-11-13T07:28:53.898Z",
+  "lastVerified": "2026-11-13T09:33:07.314Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://skillsforall.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.901Z",
-  "updatedAt": "2026-11-13T07:28:53.901Z"
+  "updatedAt": "2026-11-13T07:28:53.901Z",
+  "lastVerified": "2026-11-13T09:16:07.531Z",
+  "qualityScore": 52
 }

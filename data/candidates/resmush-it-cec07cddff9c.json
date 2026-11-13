@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://resmush.it"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.904Z",
-  "updatedAt": "2026-11-13T07:28:53.904Z"
+  "updatedAt": "2026-11-13T07:28:53.904Z",
+  "lastVerified": "2026-11-13T09:29:13.373Z",
+  "qualityScore": 52
 }

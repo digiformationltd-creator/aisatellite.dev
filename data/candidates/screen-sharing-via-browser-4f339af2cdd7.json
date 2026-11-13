@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://screensharing.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.898Z",
-  "updatedAt": "2026-11-13T07:28:53.898Z"
+  "updatedAt": "2026-11-13T07:28:53.898Z",
+  "lastVerified": "2026-11-13T09:30:06.941Z",
+  "qualityScore": 52
 }

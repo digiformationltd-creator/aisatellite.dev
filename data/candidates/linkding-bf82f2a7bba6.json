@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://linkding.link/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-13T07:28:53.983Z",
-  "updatedAt": "2026-11-13T07:28:53.983Z"
+  "updatedAt": "2026-11-13T07:28:53.983Z",
+  "lastVerified": "2026-11-13T09:23:36.992Z",
+  "qualityScore": 52
 }
