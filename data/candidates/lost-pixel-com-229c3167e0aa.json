@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://lost-pixel.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.116Z",
-  "updatedAt": "2026-11-12T07:52:27.116Z",
-  "lastVerified": "2026-11-12T09:34:52.894Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.899Z",
+  "updatedAt": "2026-11-13T07:28:53.899Z"
 }

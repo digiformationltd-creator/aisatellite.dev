@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.stumpapp.dev"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.251Z",
-  "updatedAt": "2026-11-12T07:52:27.251Z",
-  "lastVerified": "2026-11-12T09:41:10.300Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.984Z",
+  "updatedAt": "2026-11-13T07:28:53.984Z"
 }

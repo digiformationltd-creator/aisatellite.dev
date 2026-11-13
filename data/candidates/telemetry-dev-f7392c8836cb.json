@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://telemetry.dev"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.121Z",
-  "updatedAt": "2026-11-12T07:52:27.121Z",
-  "lastVerified": "2026-11-12T09:41:49.736Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.903Z",
+  "updatedAt": "2026-11-13T07:28:53.903Z"
 }

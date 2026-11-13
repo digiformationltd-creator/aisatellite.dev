@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.gerritcodereview.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.254Z",
-  "updatedAt": "2026-11-12T07:52:27.254Z",
-  "lastVerified": "2026-11-12T09:31:22.784Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.987Z",
+  "updatedAt": "2026-11-13T07:28:53.987Z"
 }

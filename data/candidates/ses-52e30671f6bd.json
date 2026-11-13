@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://aws.amazon.com/ses/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.112Z",
-  "updatedAt": "2026-11-12T07:52:27.112Z",
-  "lastVerified": "2026-11-12T09:39:55.620Z",
-  "qualityScore": 47
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.896Z",
+  "updatedAt": "2026-11-13T07:28:53.896Z"
 }

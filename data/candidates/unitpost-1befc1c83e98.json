@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.unitpost.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.120Z",
-  "updatedAt": "2026-11-12T07:52:27.120Z",
-  "lastVerified": "2026-11-12T09:42:41.835Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.901Z",
+  "updatedAt": "2026-11-13T07:28:53.901Z"
 }

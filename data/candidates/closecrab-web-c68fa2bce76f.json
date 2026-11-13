@@ -1,0 +1,28 @@
+{
+  "id": "closecrab-web-c68fa2bce76f",
+  "canonicalUrl": "https://github.com/Blitzball996/CloseCrab-Web",
+  "name": "CloseCrab-Web",
+  "description": "Mobile web interface for CloseCrab — control your AI coding assistant from your phone via Tailscale/ZeroTier.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-coding",
+    "mobile",
+    "nodejs",
+    "remote-control",
+    "terminal",
+    "web-ui",
+    "websocket"
+  ],
+  "repositoryUrl": "https://github.com/Blitzball996/CloseCrab-Web",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-13T06:26:01Z",
+  "evidenceUrls": [
+    "https://github.com/Blitzball996/CloseCrab-Web"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:55.615Z",
+  "updatedAt": "2026-11-13T07:28:55.615Z"
+}

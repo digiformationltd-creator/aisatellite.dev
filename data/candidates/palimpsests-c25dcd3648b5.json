@@ -19,13 +19,11 @@
   "freeTierLimitations": [],
   "githubStars": 0,
   "githubForks": 3,
-  "lastRepositoryUpdate": "2026-11-11T05:32:10Z",
+  "lastRepositoryUpdate": "2026-11-13T06:48:04Z",
   "evidenceUrls": [
     "https://github.com/Assault-Consulting/Palimpsests"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:41.291Z",
-  "updatedAt": "2026-11-11T07:22:41.291Z",
-  "lastVerified": "2026-11-12T09:37:28.993Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:55.160Z",
+  "updatedAt": "2026-11-13T07:28:55.160Z"
 }

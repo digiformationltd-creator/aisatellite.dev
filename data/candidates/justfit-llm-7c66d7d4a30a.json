@@ -1,0 +1,41 @@
+{
+  "id": "justfit-llm-7c66d7d4a30a",
+  "canonicalUrl": "https://github.com/YuhuaBillChen/justfit-llm",
+  "name": "justfit-llm",
+  "description": "Run Qwen3.8-27B with its full 256K context on a 24 GB Mac. Long-context local LLM serving for Apple silicon, built on Inco AI's Splash.  OpenAI-compatible API.",
+  "category": "local-llm",
+  "tags": [
+    "27b",
+    "apple-silicon",
+    "fast-inference",
+    "inference",
+    "inference-engine",
+    "inference-optimization",
+    "justfit-llm",
+    "llm",
+    "llm-agents",
+    "llm-inference",
+    "llms",
+    "local-ai",
+    "local-llm",
+    "memory-optimization",
+    "metal",
+    "qwen"
+  ],
+  "repositoryUrl": "https://github.com/YuhuaBillChen/justfit-llm",
+  "officialUrl": "https://yuhuachen.com/justfit",
+  "documentationUrl": "https://yuhuachen.com/justfit",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/YuhuaBillChen/justfit-llm/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 7,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-13T07:18:49Z",
+  "evidenceUrls": [
+    "https://github.com/YuhuaBillChen/justfit-llm"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:55.160Z",
+  "updatedAt": "2026-11-13T07:28:55.160Z"
+}

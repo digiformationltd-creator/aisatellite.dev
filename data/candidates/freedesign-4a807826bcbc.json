@@ -17,20 +17,19 @@
     "vue-components"
   ],
   "repositoryUrl": "https://github.com/AIPMAndy/FreeDesign",
+  "officialUrl": "https://github.com/AIPMAndy/FreeDesign",
+  "documentationUrl": "https://github.com/AIPMAndy/FreeDesign",
   "licenseSpdx": "MIT",
   "licenseEvidenceUrl": "https://github.com/AIPMAndy/FreeDesign/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 59,
+  "githubStars": 65,
   "githubForks": 5,
-  "lastRepositoryUpdate": "2026-10-31T06:46:36Z",
+  "lastRepositoryUpdate": "2026-11-12T16:53:07Z",
   "evidenceUrls": [
     "https://github.com/AIPMAndy/FreeDesign"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-06T07:30:28.089Z",
-  "updatedAt": "2026-11-06T07:30:28.089Z",
-  "lastVerified": "2026-11-12T09:30:56.395Z",
-  "qualityScore": 80,
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:54.615Z",
+  "updatedAt": "2026-11-13T07:28:54.615Z"
 }

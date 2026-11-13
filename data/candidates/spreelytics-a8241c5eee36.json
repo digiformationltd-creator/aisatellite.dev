@@ -1,0 +1,20 @@
+{
+  "id": "spreelytics-a8241c5eee36",
+  "canonicalUrl": "https://spreelytics.com/",
+  "name": "Spreelytics",
+  "description": "Privacy first website and product analytics SaaS that can trace your revenue sources. Free plan: 1 million events per month, unlimited projects and team members with most of the needed features like dashboard, goal, funnel, ai crawler, revenue, and much more.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://spreelytics.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://spreelytics.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.905Z",
+  "updatedAt": "2026-11-13T07:28:53.905Z"
+}

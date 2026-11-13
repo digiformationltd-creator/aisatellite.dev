@@ -1,0 +1,41 @@
+{
+  "id": "kindi-0fbf66614013",
+  "canonicalUrl": "https://github.com/ahtx/kindi",
+  "name": "kindi",
+  "description": "Kindi 0.6: fast local LLM inference on low-cost GPUs and CPUs. DeepSeek-V4.1-Flash (552B) at 18.7 tok/s on one RTX 3060 12 GB with a dual-Xeon DDR4 server. Ternary Bonsai 2B-27B, AH-Nanbeige4.3-33B, Nemotron 3.5 Lightning 30B-A3B. NVIDIA from the Quadro K420 to the RTX 50 series, AMD Radeon graphics, Windows and Linux. OpenAI-compatible server.",
+  "category": "local-llm",
+  "tags": [
+    "amd",
+    "ampere",
+    "cuda",
+    "deepseek",
+    "kepler",
+    "llm-inference",
+    "local-llm",
+    "low-cost-gpu",
+    "maxwell",
+    "mixture-of-experts",
+    "openai-compatible",
+    "pascal",
+    "rocm",
+    "speculative-decoding",
+    "ternary",
+    "windows"
+  ],
+  "repositoryUrl": "https://github.com/ahtx/kindi",
+  "officialUrl": "https://amirhusain.com/software/kindi/",
+  "documentationUrl": "https://amirhusain.com/software/kindi/",
+  "licenseSpdx": "AGPL-3.0",
+  "licenseEvidenceUrl": "https://github.com/ahtx/kindi/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 157,
+  "githubForks": 36,
+  "lastRepositoryUpdate": "2026-11-13T06:00:26Z",
+  "evidenceUrls": [
+    "https://github.com/ahtx/kindi"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:55.160Z",
+  "updatedAt": "2026-11-13T07:28:55.160Z"
+}

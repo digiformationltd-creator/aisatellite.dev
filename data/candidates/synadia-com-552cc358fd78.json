@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://synadia.com/ngs"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.119Z",
-  "updatedAt": "2026-11-12T07:52:27.119Z",
-  "lastVerified": "2026-11-12T09:41:34.608Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.900Z",
+  "updatedAt": "2026-11-13T07:28:53.900Z"
 }

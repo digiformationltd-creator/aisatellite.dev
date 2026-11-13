@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://seotest.me/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.116Z",
-  "updatedAt": "2026-11-12T07:52:27.116Z",
-  "lastVerified": "2026-11-12T09:39:52.625Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.899Z",
+  "updatedAt": "2026-11-13T07:28:53.899Z"
 }

@@ -15,10 +15,8 @@
   "evidenceUrls": [
     "https://www.activepieces.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.249Z",
-  "updatedAt": "2026-11-12T07:52:28.966Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-12T09:25:52.024Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.983Z",
+  "updatedAt": "2026-11-13T07:28:55.617Z",
+  "githubStars": 0
 }

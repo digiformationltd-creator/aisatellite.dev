@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://www.landen.co"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-12T07:52:27.123Z",
-  "updatedAt": "2026-11-12T07:52:27.123Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.904Z",
+  "updatedAt": "2026-11-13T07:28:53.904Z"
 }

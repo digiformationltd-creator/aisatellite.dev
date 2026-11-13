@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/neosy/elengrab"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:27.252Z",
-  "updatedAt": "2026-11-12T07:52:27.252Z",
-  "lastVerified": "2026-11-12T09:29:36.098Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.986Z",
+  "updatedAt": "2026-11-13T07:28:53.986Z"
 }

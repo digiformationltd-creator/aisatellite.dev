@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://www.oracle.com/cloud/"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-12T07:52:27.113Z",
-  "updatedAt": "2026-11-12T07:52:27.113Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:53.896Z",
+  "updatedAt": "2026-11-13T07:28:53.896Z"
 }

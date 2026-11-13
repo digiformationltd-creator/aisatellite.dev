@@ -32,15 +32,13 @@
   "licenseEvidenceUrl": "https://github.com/lemonade-sdk/lemonade/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 6166,
-  "githubForks": 560,
-  "lastRepositoryUpdate": "2026-11-10T07:25:08Z",
+  "githubStars": 6201,
+  "githubForks": 565,
+  "lastRepositoryUpdate": "2026-11-13T07:25:13Z",
   "evidenceUrls": [
     "https://github.com/lemonade-sdk/lemonade"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-10T07:54:21.545Z",
-  "updatedAt": "2026-11-10T07:54:21.545Z",
-  "lastVerified": "2026-11-12T09:34:15.110Z",
-  "qualityScore": 94
+  "status": "discovered",
+  "discoveredAt": "2026-11-13T07:28:55.160Z",
+  "updatedAt": "2026-11-13T07:28:55.160Z"
 }
