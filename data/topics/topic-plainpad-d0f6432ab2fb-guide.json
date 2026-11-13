@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-plainpad-d0f6432ab2fb-guide",
+  "title": "How to Deploy Plainpad in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-plainpad-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Plainpad.",
+  "targetKeywords": [
+    "Plainpad",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://plainpad.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Plainpad with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

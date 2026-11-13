@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-evidence-b28f036006ba-guide",
+  "title": "How to Deploy Evidence in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-evidence-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Evidence.",
+  "targetKeywords": [
+    "Evidence",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://evidence.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Evidence with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.205Z"
+}

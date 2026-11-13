@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-basecamp-7eb51b5948bc-guide",
+  "title": "How to Deploy Basecamp in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-basecamp-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Basecamp.",
+  "targetKeywords": [
+    "Basecamp",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://basecamp.com/personal"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Basecamp with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

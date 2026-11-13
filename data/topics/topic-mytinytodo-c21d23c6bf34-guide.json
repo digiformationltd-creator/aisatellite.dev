@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mytinytodo-c21d23c6bf34-guide",
+  "title": "How to Deploy myTinyTodo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mytinytodo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for myTinyTodo.",
+  "targetKeywords": [
+    "myTinyTodo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mytinytodo.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting myTinyTodo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

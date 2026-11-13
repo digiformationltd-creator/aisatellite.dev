@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ipbase-com-8412ab5804c1-guide",
+  "title": "How to Deploy ipbase.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ipbase-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ipbase.com.",
+  "targetKeywords": [
+    "ipbase.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ipbase.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ipbase.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

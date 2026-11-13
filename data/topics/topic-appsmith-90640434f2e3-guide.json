@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-appsmith-90640434f2e3-guide",
+  "title": "How to Deploy Appsmith in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-appsmith-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Appsmith.",
+  "targetKeywords": [
+    "Appsmith",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.appsmith.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Appsmith with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-chanty-com-b8a75936eb37-guide",
+  "title": "How to Deploy Chanty.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-chanty-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Chanty.com.",
+  "targetKeywords": [
+    "Chanty.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://chanty.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Chanty.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

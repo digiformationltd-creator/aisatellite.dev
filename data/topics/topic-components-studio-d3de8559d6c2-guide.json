@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-components-studio-d3de8559d6c2-guide",
+  "title": "How to Deploy Components.studio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-components-studio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Components.studio.",
+  "targetKeywords": [
+    "Components.studio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://webcomponents.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Components.studio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

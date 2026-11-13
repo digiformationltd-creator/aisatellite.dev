@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-webtrees-e7985c51a82d-guide",
+  "title": "How to Deploy webtrees in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-webtrees-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for webtrees.",
+  "targetKeywords": [
+    "webtrees",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.webtrees.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting webtrees with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

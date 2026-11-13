@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hypertune-4f5beb36d0b6-guide",
+  "title": "How to Deploy Hypertune in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hypertune-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hypertune.",
+  "targetKeywords": [
+    "Hypertune",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.hypertune.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hypertune with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

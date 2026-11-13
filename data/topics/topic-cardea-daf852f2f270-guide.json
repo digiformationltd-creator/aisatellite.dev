@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cardea-daf852f2f270-guide",
+  "title": "How to Deploy Cardea in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cardea-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cardea.",
+  "targetKeywords": [
+    "Cardea",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/hectorm/cardea"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Cardea with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

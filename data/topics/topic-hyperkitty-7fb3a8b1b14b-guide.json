@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hyperkitty-7fb3a8b1b14b-guide",
+  "title": "How to Deploy HyperKitty in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hyperkitty-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HyperKitty.",
+  "targetKeywords": [
+    "HyperKitty",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wiki.list.org/HyperKitty"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HyperKitty with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

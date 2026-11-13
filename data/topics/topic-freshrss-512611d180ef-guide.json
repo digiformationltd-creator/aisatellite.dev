@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-freshrss-512611d180ef-guide",
+  "title": "How to Deploy FreshRSS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-freshrss-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FreshRSS.",
+  "targetKeywords": [
+    "FreshRSS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://freshrss.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FreshRSS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.207Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-google-analytics-c53e989ac1d7-guide",
+  "title": "How to Deploy Google Analytics in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-google-analytics-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Google Analytics.",
+  "targetKeywords": [
+    "Google Analytics",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://analytics.google.com/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Google Analytics with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

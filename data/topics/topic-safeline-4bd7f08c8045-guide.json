@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-safeline-4bd7f08c8045-guide",
+  "title": "How to Deploy SafeLine in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-safeline-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SafeLine.",
+  "targetKeywords": [
+    "SafeLine",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://waf.chaitin.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SafeLine with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

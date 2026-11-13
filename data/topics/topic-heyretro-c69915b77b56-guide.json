@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-heyretro-c69915b77b56-guide",
+  "title": "How to Deploy HeyRetro in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-heyretro-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HeyRetro.",
+  "targetKeywords": [
+    "HeyRetro",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://heyretro.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HeyRetro with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

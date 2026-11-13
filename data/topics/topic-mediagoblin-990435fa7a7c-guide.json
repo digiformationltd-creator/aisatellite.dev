@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mediagoblin-990435fa7a7c-guide",
+  "title": "How to Deploy Mediagoblin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mediagoblin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mediagoblin.",
+  "targetKeywords": [
+    "Mediagoblin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mediagoblin.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mediagoblin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

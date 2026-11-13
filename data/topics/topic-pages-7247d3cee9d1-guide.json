@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pages-7247d3cee9d1-guide",
+  "title": "How to Deploy Pages in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pages-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pages.",
+  "targetKeywords": [
+    "Pages",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developers.cloudflare.com/pages/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pages with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

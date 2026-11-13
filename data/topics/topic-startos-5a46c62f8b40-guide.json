@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-startos-5a46c62f8b40-guide",
+  "title": "How to Deploy StartOS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-startos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for StartOS.",
+  "targetKeywords": [
+    "StartOS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://start9.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting StartOS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.213Z"
+}

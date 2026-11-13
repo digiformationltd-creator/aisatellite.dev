@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-datadoghq-com-2850f31e276b-guide",
+  "title": "How to Deploy datadoghq.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-datadoghq-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for datadoghq.com.",
+  "targetKeywords": [
+    "datadoghq.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.datadoghq.com/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting datadoghq.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.204Z"
+}

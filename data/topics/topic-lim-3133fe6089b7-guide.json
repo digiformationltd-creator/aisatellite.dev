@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lim-3133fe6089b7-guide",
+  "title": "How to Deploy lim in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lim-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for lim.",
+  "targetKeywords": [
+    "lim",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/statefullm/lim"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting lim with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

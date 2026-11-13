@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-converse-js-a4478f3f1cbc-guide",
+  "title": "How to Deploy Converse.js in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-converse-js-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Converse.js.",
+  "targetKeywords": [
+    "Converse.js",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://conversejs.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Converse.js with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

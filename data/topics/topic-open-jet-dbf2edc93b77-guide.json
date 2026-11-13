@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-open-jet-dbf2edc93b77-guide",
+  "title": "How to Deploy open-jet in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-open-jet-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for open-jet.",
+  "targetKeywords": [
+    "open-jet",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/L-Forster/open-jet"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting open-jet with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

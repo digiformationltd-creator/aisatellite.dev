@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-docs-a82f9f6ea01c-guide",
+  "title": "How to Deploy Docs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-docs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Docs.",
+  "targetKeywords": [
+    "Docs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.numerique.gouv.fr/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Docs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.204Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-devtest-labs-11aef68e2bf7-guide",
+  "title": "How to Deploy DevTest Labs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-devtest-labs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DevTest Labs.",
+  "targetKeywords": [
+    "DevTest Labs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/devtest-lab/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DevTest Labs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.204Z"
+}

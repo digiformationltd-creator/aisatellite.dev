@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dagu-142de2f387a9-guide",
+  "title": "How to Deploy Dagu in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dagu-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Dagu.",
+  "targetKeywords": [
+    "Dagu",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.dagu.cloud/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Dagu with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

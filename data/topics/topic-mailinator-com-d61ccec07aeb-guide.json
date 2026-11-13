@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mailinator-com-d61ccec07aeb-guide",
+  "title": "How to Deploy mailinator.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mailinator-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mailinator.com.",
+  "targetKeywords": [
+    "mailinator.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mailinator.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mailinator.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

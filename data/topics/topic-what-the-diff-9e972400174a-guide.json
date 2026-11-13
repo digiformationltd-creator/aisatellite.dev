@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-what-the-diff-9e972400174a-guide",
+  "title": "How to Deploy What The Diff in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-what-the-diff-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for What The Diff.",
+  "targetKeywords": [
+    "What The Diff",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://whatthediff.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting What The Diff with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

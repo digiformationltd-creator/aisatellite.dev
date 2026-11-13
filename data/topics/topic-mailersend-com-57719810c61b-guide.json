@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mailersend-com-57719810c61b-guide",
+  "title": "How to Deploy MailerSend.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mailersend-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MailerSend.com.",
+  "targetKeywords": [
+    "MailerSend.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mailersend.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MailerSend.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mailerlite-com-00571fdbcd6d-guide",
+  "title": "How to Deploy MailerLite.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mailerlite-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MailerLite.com.",
+  "targetKeywords": [
+    "MailerLite.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mailerlite.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MailerLite.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

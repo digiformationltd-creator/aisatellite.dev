@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-calibre-web-6b5ca73de5f1-guide",
+  "title": "How to Deploy Calibre Web in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-calibre-web-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Calibre Web.",
+  "targetKeywords": [
+    "Calibre Web",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/janeczku/calibre-web"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Calibre Web with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

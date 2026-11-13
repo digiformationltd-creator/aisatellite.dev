@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-docassemble-90cc06055fac-guide",
+  "title": "How to Deploy docassemble in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-docassemble-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for docassemble.",
+  "targetKeywords": [
+    "docassemble",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docassemble.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting docassemble with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.204Z"
+}

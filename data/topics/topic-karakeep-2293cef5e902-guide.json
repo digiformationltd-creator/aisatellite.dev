@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-karakeep-2293cef5e902-guide",
+  "title": "How to Deploy Karakeep in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-karakeep-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Karakeep.",
+  "targetKeywords": [
+    "Karakeep",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://karakeep.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Karakeep with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

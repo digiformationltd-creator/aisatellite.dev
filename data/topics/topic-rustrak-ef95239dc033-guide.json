@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rustrak-ef95239dc033-guide",
+  "title": "How to Deploy Rustrak in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rustrak-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Rustrak.",
+  "targetKeywords": [
+    "Rustrak",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://rustrak.github.io/rustrak/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Rustrak with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-justfit-llm-7c66d7d4a30a-guide",
+  "title": "How to Deploy justfit-llm in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-justfit-llm-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for justfit-llm.",
+  "targetKeywords": [
+    "justfit-llm",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/YuhuaBillChen/justfit-llm"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting justfit-llm with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

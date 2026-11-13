@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bitnami-com-a1b010074dee-guide",
+  "title": "How to Deploy bitnami.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bitnami-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for bitnami.com.",
+  "targetKeywords": [
+    "bitnami.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bitnami.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting bitnami.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

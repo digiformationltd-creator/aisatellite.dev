@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-convex-dev-5b9071c3e5d9-guide",
+  "title": "How to Deploy convex.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-convex-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for convex.dev.",
+  "targetKeywords": [
+    "convex.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://convex.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting convex.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

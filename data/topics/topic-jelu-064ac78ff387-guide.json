@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-jelu-064ac78ff387-guide",
+  "title": "How to Deploy Jelu in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-jelu-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Jelu.",
+  "targetKeywords": [
+    "Jelu",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://bayang.github.io/jelu-web"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Jelu with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

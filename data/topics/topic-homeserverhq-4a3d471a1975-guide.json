@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-homeserverhq-4a3d471a1975-guide",
+  "title": "How to Deploy HomeServerHQ in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-homeserverhq-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HomeServerHQ.",
+  "targetKeywords": [
+    "HomeServerHQ",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.homeserverhq.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HomeServerHQ with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

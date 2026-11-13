@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-loopforge-438083b2e386-guide",
+  "title": "How to Deploy LoopForge in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-loopforge-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LoopForge.",
+  "targetKeywords": [
+    "LoopForge",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Tencent/LoopForge"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting LoopForge with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

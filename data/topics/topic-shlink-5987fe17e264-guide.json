@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shlink-5987fe17e264-guide",
+  "title": "How to Deploy Shlink in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shlink-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Shlink.",
+  "targetKeywords": [
+    "Shlink",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://shlink.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Shlink with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-getupdraft-d626528526bd-guide",
+  "title": "How to Deploy GetUpdraft in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-getupdraft-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GetUpdraft.",
+  "targetKeywords": [
+    "GetUpdraft",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.getupdraft.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GetUpdraft with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.207Z"
+}

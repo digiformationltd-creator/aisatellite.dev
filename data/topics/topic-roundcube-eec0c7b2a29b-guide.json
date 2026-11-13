@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-roundcube-eec0c7b2a29b-guide",
+  "title": "How to Deploy Roundcube in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-roundcube-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Roundcube.",
+  "targetKeywords": [
+    "Roundcube",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://roundcube.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Roundcube with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-multi-scrobbler-61e424b3e30c-guide",
+  "title": "How to Deploy multi-scrobbler in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-multi-scrobbler-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for multi-scrobbler.",
+  "targetKeywords": [
+    "multi-scrobbler",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://foxxmd.github.io/multi-scrobbler"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting multi-scrobbler with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

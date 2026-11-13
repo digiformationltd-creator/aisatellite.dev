@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-the-vibe-hosting-fe613c4bd2d9-guide",
+  "title": "How to Deploy The Vibe Hosting in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-the-vibe-hosting-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for The Vibe Hosting.",
+  "targetKeywords": [
+    "The Vibe Hosting",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://thevibehosting.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting The Vibe Hosting with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.213Z"
+}

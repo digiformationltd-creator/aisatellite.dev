@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-userjot-a39b4dde6251-guide",
+  "title": "How to Deploy UserJot in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-userjot-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for UserJot.",
+  "targetKeywords": [
+    "UserJot",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://userjot.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting UserJot with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

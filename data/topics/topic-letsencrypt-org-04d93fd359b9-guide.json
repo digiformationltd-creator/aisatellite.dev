@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-letsencrypt-org-04d93fd359b9-guide",
+  "title": "How to Deploy letsencrypt.org in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-letsencrypt-org-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for letsencrypt.org.",
+  "targetKeywords": [
+    "letsencrypt.org",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://letsencrypt.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting letsencrypt.org with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

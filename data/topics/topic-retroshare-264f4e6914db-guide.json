@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-retroshare-264f4e6914db-guide",
+  "title": "How to Deploy RetroShare in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-retroshare-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RetroShare.",
+  "targetKeywords": [
+    "RetroShare",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://retroshare.cc"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RetroShare with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

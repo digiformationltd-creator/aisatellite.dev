@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-borgbase-com-3dfaa0ad87de-guide",
+  "title": "How to Deploy borgbase.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-borgbase-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for borgbase.com.",
+  "targetKeywords": [
+    "borgbase.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.borgbase.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting borgbase.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

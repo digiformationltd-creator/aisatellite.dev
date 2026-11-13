@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-maptiler-com-b127e43c23de-guide",
+  "title": "How to Deploy maptiler.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-maptiler-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for maptiler.com.",
+  "targetKeywords": [
+    "maptiler.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.maptiler.com/cloud/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting maptiler.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

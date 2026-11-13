@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tinyfeed-4f913d64df49-guide",
+  "title": "How to Deploy TinyFeed in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tinyfeed-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TinyFeed.",
+  "targetKeywords": [
+    "TinyFeed",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://feed.lovergne.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TinyFeed with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lyrion-music-server-cbe4e2293059-guide",
+  "title": "How to Deploy Lyrion Music Server in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lyrion-music-server-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lyrion Music Server.",
+  "targetKeywords": [
+    "Lyrion Music Server",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://lyrion.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lyrion Music Server with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

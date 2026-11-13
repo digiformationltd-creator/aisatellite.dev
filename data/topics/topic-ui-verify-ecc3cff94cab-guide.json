@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ui-verify-ecc3cff94cab-guide",
+  "title": "How to Deploy UI Verify in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ui-verify-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for UI Verify.",
+  "targetKeywords": [
+    "UI Verify",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://uiverify.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting UI Verify with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

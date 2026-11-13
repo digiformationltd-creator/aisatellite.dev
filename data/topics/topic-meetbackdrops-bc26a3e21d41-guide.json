@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-meetbackdrops-bc26a3e21d41-guide",
+  "title": "How to Deploy MeetBackdrops in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-meetbackdrops-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MeetBackdrops.",
+  "targetKeywords": [
+    "MeetBackdrops",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://meetbackdrops.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MeetBackdrops with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wrapapi-com-a5de8d39d626-guide",
+  "title": "How to Deploy wrapapi.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wrapapi-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for wrapapi.com.",
+  "targetKeywords": [
+    "wrapapi.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wrapapi.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting wrapapi.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

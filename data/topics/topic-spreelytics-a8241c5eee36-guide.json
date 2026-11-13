@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-spreelytics-a8241c5eee36-guide",
+  "title": "How to Deploy Spreelytics in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-spreelytics-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Spreelytics.",
+  "targetKeywords": [
+    "Spreelytics",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://spreelytics.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Spreelytics with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.213Z"
+}

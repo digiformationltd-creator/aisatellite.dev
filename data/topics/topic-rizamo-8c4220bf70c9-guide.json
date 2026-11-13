@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rizamo-8c4220bf70c9-guide",
+  "title": "How to Deploy Rizamo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rizamo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Rizamo.",
+  "targetKeywords": [
+    "Rizamo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://rizamo.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Rizamo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

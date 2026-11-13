@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-buildkite-ebb2fa61f8d4-guide",
+  "title": "How to Deploy Buildkite in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-buildkite-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Buildkite.",
+  "targetKeywords": [
+    "Buildkite",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://buildkite.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Buildkite with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

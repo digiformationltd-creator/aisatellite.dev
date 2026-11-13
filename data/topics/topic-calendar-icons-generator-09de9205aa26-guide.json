@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-calendar-icons-generator-09de9205aa26-guide",
+  "title": "How to Deploy Calendar Icons Generator in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-calendar-icons-generator-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Calendar Icons Generator.",
+  "targetKeywords": [
+    "Calendar Icons Generator",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://calendariconsgenerator.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Calendar Icons Generator with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

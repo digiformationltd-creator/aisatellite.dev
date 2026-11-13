@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-veriphone-d5dad1e1a1d7-guide",
+  "title": "How to Deploy veriphone in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-veriphone-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for veriphone.",
+  "targetKeywords": [
+    "veriphone",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://veriphone.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting veriphone with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-glitchtip-00baf062c1d8-guide",
+  "title": "How to Deploy GlitchTip in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-glitchtip-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GlitchTip.",
+  "targetKeywords": [
+    "GlitchTip",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://glitchtip.com/",
+    "https://glitchtip.com"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting GlitchTip with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

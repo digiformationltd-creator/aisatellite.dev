@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sqlpage-9e6a3fd69c90-guide",
+  "title": "How to Deploy SQLPage in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sqlpage-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SQLPage.",
+  "targetKeywords": [
+    "SQLPage",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sql-page.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SQLPage with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.213Z"
+}

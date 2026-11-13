@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-homelabos-f89cec16c651-guide",
+  "title": "How to Deploy HomelabOS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-homelabos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HomelabOS.",
+  "targetKeywords": [
+    "HomelabOS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://homelabos.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HomelabOS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

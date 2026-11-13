@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-linkok-com-498470304acd-guide",
+  "title": "How to Deploy linkok.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-linkok-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for linkok.com.",
+  "targetKeywords": [
+    "linkok.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://linkok.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting linkok.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

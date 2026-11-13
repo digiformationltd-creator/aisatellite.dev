@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-a-dark-room-1cb0df482003-guide",
+  "title": "How to Deploy A Dark Room in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-a-dark-room-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for A Dark Room.",
+  "targetKeywords": [
+    "A Dark Room",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/doublespeakgames/adarkroom"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting A Dark Room with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.201Z"
+}

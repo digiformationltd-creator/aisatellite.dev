@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hive-pal-4aa5900e9dcd-guide",
+  "title": "How to Deploy Hive-Pal in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hive-pal-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hive-Pal.",
+  "targetKeywords": [
+    "Hive-Pal",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hivepal.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hive-Pal with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

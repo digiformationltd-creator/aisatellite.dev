@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-apostrophe-8ef93db91053-guide",
+  "title": "How to Deploy Apostrophe in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-apostrophe-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Apostrophe.",
+  "targetKeywords": [
+    "Apostrophe",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://apostrophecms.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Apostrophe with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

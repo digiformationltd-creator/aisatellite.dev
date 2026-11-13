@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-omlx-m1-max-benchmark-a6eee7f21859-guide",
+  "title": "How to Deploy omlx-m1-max-benchmark in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-omlx-m1-max-benchmark-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for omlx-m1-max-benchmark.",
+  "targetKeywords": [
+    "omlx-m1-max-benchmark",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/mahirfatih/omlx-m1-max-benchmark"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting omlx-m1-max-benchmark with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

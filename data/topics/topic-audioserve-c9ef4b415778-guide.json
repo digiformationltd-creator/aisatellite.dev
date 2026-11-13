@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-audioserve-c9ef4b415778-guide",
+  "title": "How to Deploy Audioserve in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-audioserve-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Audioserve.",
+  "targetKeywords": [
+    "Audioserve",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/izderadicka/audioserve"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Audioserve with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

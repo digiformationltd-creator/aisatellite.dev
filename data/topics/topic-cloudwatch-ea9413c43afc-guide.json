@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloudwatch-ea9413c43afc-guide",
+  "title": "How to Deploy CloudWatch in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloudwatch-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CloudWatch.",
+  "targetKeywords": [
+    "CloudWatch",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://aws.amazon.com/cloudwatch/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CloudWatch with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

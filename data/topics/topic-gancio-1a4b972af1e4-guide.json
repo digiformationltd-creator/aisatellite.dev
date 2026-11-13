@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gancio-1a4b972af1e4-guide",
+  "title": "How to Deploy Gancio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gancio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gancio.",
+  "targetKeywords": [
+    "Gancio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gancio.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Gancio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.207Z"
+}

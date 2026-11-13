@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-analog-eb3c51052ae3-guide",
+  "title": "How to Deploy ANALOG in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-analog-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ANALOG.",
+  "targetKeywords": [
+    "ANALOG",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/orangecoloured/analog"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting ANALOG with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.201Z"
+}

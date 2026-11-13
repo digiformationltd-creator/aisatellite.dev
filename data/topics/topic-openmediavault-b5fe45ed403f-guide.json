@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openmediavault-b5fe45ed403f-guide",
+  "title": "How to Deploy OpenMediaVault in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openmediavault-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenMediaVault.",
+  "targetKeywords": [
+    "OpenMediaVault",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.openmediavault.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenMediaVault with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-micro-jaymock-275462446fe9-guide",
+  "title": "How to Deploy micro-jaymock in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-micro-jaymock-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for micro-jaymock.",
+  "targetKeywords": [
+    "micro-jaymock",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://micro-jaymock.now.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting micro-jaymock with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

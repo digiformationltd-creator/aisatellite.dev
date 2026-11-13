@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dragonfly-7573338ba3ac-guide",
+  "title": "How to Deploy DragonFly in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dragonfly-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DragonFly.",
+  "targetKeywords": [
+    "DragonFly",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/corecode/dma"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting DragonFly with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.204Z"
+}

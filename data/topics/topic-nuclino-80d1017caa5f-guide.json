@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-nuclino-80d1017caa5f-guide",
+  "title": "How to Deploy Nuclino in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-nuclino-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Nuclino.",
+  "targetKeywords": [
+    "Nuclino",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.nuclino.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Nuclino with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

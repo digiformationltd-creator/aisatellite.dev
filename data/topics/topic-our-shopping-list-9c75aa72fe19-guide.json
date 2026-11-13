@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-our-shopping-list-9c75aa72fe19-guide",
+  "title": "How to Deploy Our Shopping List in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-our-shopping-list-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Our Shopping List.",
+  "targetKeywords": [
+    "Our Shopping List",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://codeberg.org/nanawel/our-shopping-list"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Our Shopping List with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

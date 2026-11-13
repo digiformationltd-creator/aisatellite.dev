@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-radicale-58657465a00b-guide",
+  "title": "How to Deploy Radicale in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-radicale-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Radicale.",
+  "targetKeywords": [
+    "Radicale",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://radicale.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Radicale with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

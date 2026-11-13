@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-screenshotlayer-com-848663cba272-guide",
+  "title": "How to Deploy screenshotlayer.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-screenshotlayer-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for screenshotlayer.com.",
+  "targetKeywords": [
+    "screenshotlayer.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://screenshotlayer.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting screenshotlayer.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

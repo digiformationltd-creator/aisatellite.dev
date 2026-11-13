@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-anvil-works-86d2bde2581c-guide",
+  "title": "How to Deploy anvil.works in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-anvil-works-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for anvil.works.",
+  "targetKeywords": [
+    "anvil.works",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://anvil.works"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting anvil.works with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

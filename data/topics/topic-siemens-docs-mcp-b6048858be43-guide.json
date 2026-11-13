@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-siemens-docs-mcp-b6048858be43-guide",
+  "title": "How to Deploy siemens-docs-mcp in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-siemens-docs-mcp-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for siemens-docs-mcp.",
+  "targetKeywords": [
+    "siemens-docs-mcp",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Czarnak/siemens-docs-mcp"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting siemens-docs-mcp with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mybucks-online-a19592e54f23-guide",
+  "title": "How to Deploy Mybucks.online in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mybucks-online-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mybucks.online.",
+  "targetKeywords": [
+    "Mybucks.online",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mybucks.online"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mybucks.online with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

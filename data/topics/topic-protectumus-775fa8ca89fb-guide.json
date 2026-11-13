@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-protectumus-775fa8ca89fb-guide",
+  "title": "How to Deploy Protectumus in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-protectumus-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Protectumus.",
+  "targetKeywords": [
+    "Protectumus",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://protectumus.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Protectumus with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

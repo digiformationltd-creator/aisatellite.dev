@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-radarr-b68c0fefc62d-guide",
+  "title": "How to Deploy Radarr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-radarr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Radarr.",
+  "targetKeywords": [
+    "Radarr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://radarr.video/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Radarr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-google-fonts-4a22810a8447-guide",
+  "title": "How to Deploy Google Fonts in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-google-fonts-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Google Fonts.",
+  "targetKeywords": [
+    "Google Fonts",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fonts.google.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Google Fonts with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

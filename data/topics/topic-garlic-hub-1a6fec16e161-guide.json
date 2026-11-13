@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-garlic-hub-1a6fec16e161-guide",
+  "title": "How to Deploy Garlic-Hub in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-garlic-hub-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Garlic-Hub.",
+  "targetKeywords": [
+    "Garlic-Hub",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://garlic-signage.com/garlic-hub/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Garlic-Hub with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.207Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mantledb-809648605be4-guide",
+  "title": "How to Deploy MantleDB in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mantledb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MantleDB.",
+  "targetKeywords": [
+    "MantleDB",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mantledb.sh"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting MantleDB with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

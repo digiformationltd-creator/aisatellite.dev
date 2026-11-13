@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-yaffa-581153451bbc-guide",
+  "title": "How to Deploy YAFFA in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-yaffa-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for YAFFA.",
+  "targetKeywords": [
+    "YAFFA",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.yaffa.cc"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting YAFFA with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cronicle-5fbac6ea3f27-guide",
+  "title": "How to Deploy Cronicle in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cronicle-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cronicle.",
+  "targetKeywords": [
+    "Cronicle",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cronicle.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cronicle with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

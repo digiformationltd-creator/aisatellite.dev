@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-groundmail-f6375b82c440-guide",
+  "title": "How to Deploy Groundmail in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-groundmail-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Groundmail.",
+  "targetKeywords": [
+    "Groundmail",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://groundmail.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Groundmail with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

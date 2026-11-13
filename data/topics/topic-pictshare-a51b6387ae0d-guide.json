@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pictshare-a51b6387ae0d-guide",
+  "title": "How to Deploy PictShare in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pictshare-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PictShare.",
+  "targetKeywords": [
+    "PictShare",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.pictshare.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PictShare with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

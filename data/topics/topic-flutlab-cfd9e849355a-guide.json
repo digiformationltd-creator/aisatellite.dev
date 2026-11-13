@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-flutlab-cfd9e849355a-guide",
+  "title": "How to Deploy FlutLab in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-flutlab-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FlutLab.",
+  "targetKeywords": [
+    "FlutLab",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://flutlab.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FlutLab with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.205Z"
+}

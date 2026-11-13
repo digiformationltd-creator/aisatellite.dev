@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-loco-dc0d093fc7c0-guide",
+  "title": "How to Deploy Loco in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-loco-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Loco.",
+  "targetKeywords": [
+    "Loco",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://localise.biz/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Loco with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

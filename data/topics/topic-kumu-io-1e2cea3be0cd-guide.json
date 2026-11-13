@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-kumu-io-1e2cea3be0cd-guide",
+  "title": "How to Deploy Kumu.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-kumu-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Kumu.io.",
+  "targetKeywords": [
+    "Kumu.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://kumu.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Kumu.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

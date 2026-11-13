@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fittrackee-bc1903cd3056-guide",
+  "title": "How to Deploy FitTrackee in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fittrackee-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FitTrackee.",
+  "targetKeywords": [
+    "FitTrackee",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.fittrackee.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FitTrackee with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.205Z"
+}

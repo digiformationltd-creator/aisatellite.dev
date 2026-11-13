@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-screego-c35274a182d2-guide",
+  "title": "How to Deploy Screego in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-screego-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Screego.",
+  "targetKeywords": [
+    "Screego",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://screego.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Screego with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

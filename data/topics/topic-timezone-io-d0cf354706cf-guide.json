@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-timezone-io-d0cf354706cf-guide",
+  "title": "How to Deploy timezone.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-timezone-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for timezone.io.",
+  "targetKeywords": [
+    "timezone.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.timezone.io/docs/worldtimeapi"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting timezone.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

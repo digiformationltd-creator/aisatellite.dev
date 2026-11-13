@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mylar3-ffc63abfdd12-guide",
+  "title": "How to Deploy Mylar3 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mylar3-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mylar3.",
+  "targetKeywords": [
+    "Mylar3",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mylar.nerdfirehurricane.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mylar3 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

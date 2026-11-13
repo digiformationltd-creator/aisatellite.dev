@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-flarum-9b0729696bfc-guide",
+  "title": "How to Deploy Flarum in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-flarum-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Flarum.",
+  "targetKeywords": [
+    "Flarum",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://flarum.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Flarum with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.205Z"
+}

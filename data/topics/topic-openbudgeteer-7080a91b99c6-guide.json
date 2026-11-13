@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openbudgeteer-7080a91b99c6-guide",
+  "title": "How to Deploy OpenBudgeteer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openbudgeteer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenBudgeteer.",
+  "targetKeywords": [
+    "OpenBudgeteer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/TheAxelander/OpenBudgeteer"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting OpenBudgeteer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

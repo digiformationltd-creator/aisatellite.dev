@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-configcat-05acc6cd69fe-guide",
+  "title": "How to Deploy ConfigCat in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-configcat-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ConfigCat.",
+  "targetKeywords": [
+    "ConfigCat",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://configcat.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ConfigCat with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

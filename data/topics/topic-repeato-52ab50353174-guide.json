@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-repeato-52ab50353174-guide",
+  "title": "How to Deploy Repeato in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-repeato-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Repeato.",
+  "targetKeywords": [
+    "Repeato",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://repeato.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Repeato with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

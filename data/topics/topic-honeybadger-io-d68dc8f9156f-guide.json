@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-honeybadger-io-d68dc8f9156f-guide",
+  "title": "How to Deploy honeybadger.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-honeybadger-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for honeybadger.io.",
+  "targetKeywords": [
+    "honeybadger.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.honeybadger.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting honeybadger.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

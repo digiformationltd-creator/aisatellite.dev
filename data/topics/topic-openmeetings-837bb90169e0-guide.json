@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openmeetings-837bb90169e0-guide",
+  "title": "How to Deploy Openmeetings in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openmeetings-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Openmeetings.",
+  "targetKeywords": [
+    "Openmeetings",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://openmeetings.apache.org/index.html"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Openmeetings with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

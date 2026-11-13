@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-surge-sh-349336109828-guide",
+  "title": "How to Deploy surge.sh in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-surge-sh-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for surge.sh.",
+  "targetKeywords": [
+    "surge.sh",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://surge.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting surge.sh with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.213Z"
+}

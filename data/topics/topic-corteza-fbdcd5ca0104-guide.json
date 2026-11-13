@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-corteza-fbdcd5ca0104-guide",
+  "title": "How to Deploy Corteza in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-corteza-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Corteza.",
+  "targetKeywords": [
+    "Corteza",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.cortezaproject.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Corteza with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

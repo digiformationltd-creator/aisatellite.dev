@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-leon-a1db43492d48-guide",
+  "title": "How to Deploy Leon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-leon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Leon.",
+  "targetKeywords": [
+    "Leon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://getleon.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Leon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

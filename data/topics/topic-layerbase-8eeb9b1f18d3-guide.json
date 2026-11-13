@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-layerbase-8eeb9b1f18d3-guide",
+  "title": "How to Deploy Layerbase in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-layerbase-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Layerbase.",
+  "targetKeywords": [
+    "Layerbase",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://layerbase.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Layerbase with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

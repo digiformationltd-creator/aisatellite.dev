@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mongodb-atlas-11463113fcc0-guide",
+  "title": "How to Deploy MongoDB Atlas in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mongodb-atlas-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MongoDB Atlas.",
+  "targetKeywords": [
+    "MongoDB Atlas",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mongodb.com/cloud/atlas"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting MongoDB Atlas with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

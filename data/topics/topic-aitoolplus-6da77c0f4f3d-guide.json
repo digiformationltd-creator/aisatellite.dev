@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aitoolplus-6da77c0f4f3d-guide",
+  "title": "How to Deploy aitoolplus in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aitoolplus-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for aitoolplus.",
+  "targetKeywords": [
+    "aitoolplus",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/821869798/aitoolplus"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting aitoolplus with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.201Z"
+}

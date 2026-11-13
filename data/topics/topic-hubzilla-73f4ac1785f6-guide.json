@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hubzilla-73f4ac1785f6-guide",
+  "title": "How to Deploy Hubzilla in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hubzilla-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hubzilla.",
+  "targetKeywords": [
+    "Hubzilla",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hubzilla.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hubzilla with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

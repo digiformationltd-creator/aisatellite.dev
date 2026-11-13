@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pdfbolt-6ecd2ef1ceb3-guide",
+  "title": "How to Deploy PDFBolt in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pdfbolt-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PDFBolt.",
+  "targetKeywords": [
+    "PDFBolt",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pdfbolt.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PDFBolt with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

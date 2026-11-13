@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tracks-e749ca376db3-guide",
+  "title": "How to Deploy Tracks in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tracks-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tracks.",
+  "targetKeywords": [
+    "Tracks",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.getontracks.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tracks with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

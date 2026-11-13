@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mailjet-69817ed69703-guide",
+  "title": "How to Deploy Mailjet in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mailjet-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mailjet.",
+  "targetKeywords": [
+    "Mailjet",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.mailjet.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Mailjet with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

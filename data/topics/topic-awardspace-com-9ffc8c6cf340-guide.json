@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-awardspace-com-9ffc8c6cf340-guide",
+  "title": "How to Deploy Awardspace.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-awardspace-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Awardspace.com.",
+  "targetKeywords": [
+    "Awardspace.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.awardspace.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Awardspace.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

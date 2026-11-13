@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-go-doxy-03e193bddaab-guide",
+  "title": "How to Deploy go-doxy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-go-doxy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for go-doxy.",
+  "targetKeywords": [
+    "go-doxy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/yusing/godoxy"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting go-doxy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

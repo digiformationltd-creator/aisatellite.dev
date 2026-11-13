@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pterocos-95afc966430a-guide",
+  "title": "How to Deploy pterocos in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pterocos-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pterocos.",
+  "targetKeywords": [
+    "pterocos",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pterocos.eu.org"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting pterocos with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

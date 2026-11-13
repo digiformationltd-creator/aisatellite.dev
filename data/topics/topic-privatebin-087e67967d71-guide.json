@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-privatebin-087e67967d71-guide",
+  "title": "How to Deploy PrivateBin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-privatebin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PrivateBin.",
+  "targetKeywords": [
+    "PrivateBin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://privatebin.info/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting PrivateBin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-repoflow-66ed9cc3a22a-guide",
+  "title": "How to Deploy RepoFlow in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-repoflow-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RepoFlow.",
+  "targetKeywords": [
+    "RepoFlow",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://repoflow.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RepoFlow with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-projectlocker-com-3d471e561a02-guide",
+  "title": "How to Deploy projectlocker.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-projectlocker-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for projectlocker.com.",
+  "targetKeywords": [
+    "projectlocker.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://projectlocker.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting projectlocker.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

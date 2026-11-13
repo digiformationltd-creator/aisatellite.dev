@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openreplay-com-a649ee315c83-guide",
+  "title": "How to Deploy OpenReplay.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openreplay-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenReplay.com.",
+  "targetKeywords": [
+    "OpenReplay.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.openreplay.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenReplay.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

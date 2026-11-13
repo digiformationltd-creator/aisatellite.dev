@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-eversql-com-740801049afd-guide",
+  "title": "How to Deploy eversql.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-eversql-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for eversql.com.",
+  "targetKeywords": [
+    "eversql.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.eversql.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting eversql.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.205Z"
+}

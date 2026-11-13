@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wishlist-6f71cb2c7cbe-guide",
+  "title": "How to Deploy Wishlist in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wishlist-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Wishlist.",
+  "targetKeywords": [
+    "Wishlist",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/cmintey/wishlist"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Wishlist with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ttl-sh-1acf9244c980-guide",
+  "title": "How to Deploy ttl.sh in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ttl-sh-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ttl.sh.",
+  "targetKeywords": [
+    "ttl.sh",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ttl.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ttl.sh with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

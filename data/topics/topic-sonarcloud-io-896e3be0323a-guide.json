@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sonarcloud-io-896e3be0323a-guide",
+  "title": "How to Deploy sonarcloud.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sonarcloud-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for sonarcloud.io.",
+  "targetKeywords": [
+    "sonarcloud.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sonarcloud.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting sonarcloud.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.213Z"
+}

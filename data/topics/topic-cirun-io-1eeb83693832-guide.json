@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cirun-io-1eeb83693832-guide",
+  "title": "How to Deploy cirun.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cirun-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cirun.io.",
+  "targetKeywords": [
+    "cirun.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cirun.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting cirun.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

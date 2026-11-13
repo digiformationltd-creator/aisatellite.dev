@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pomerium-ba02e56bf5e8-guide",
+  "title": "How to Deploy Pomerium in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pomerium-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pomerium.",
+  "targetKeywords": [
+    "Pomerium",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.pomerium.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pomerium with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pomjs-525dbbc77ac5-guide",
+  "title": "How to Deploy POMjs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pomjs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for POMjs.",
+  "targetKeywords": [
+    "POMjs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://password.oppetmoln.se/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting POMjs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

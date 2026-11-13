@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deepnote-0879568923d7-guide",
+  "title": "How to Deploy Deepnote in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deepnote-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Deepnote.",
+  "targetKeywords": [
+    "Deepnote",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://deepnote.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Deepnote with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.204Z"
+}

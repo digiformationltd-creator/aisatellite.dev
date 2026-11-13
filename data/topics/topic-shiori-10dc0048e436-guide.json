@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shiori-10dc0048e436-guide",
+  "title": "How to Deploy Shiori in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shiori-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Shiori.",
+  "targetKeywords": [
+    "Shiori",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/go-shiori/shiori"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Shiori with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.212Z"
+}

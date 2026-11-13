@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-windmill-dev-92de85c180bd-guide",
+  "title": "How to Deploy windmill.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-windmill-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for windmill.dev.",
+  "targetKeywords": [
+    "windmill.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://windmill.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting windmill.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-disban-io-89cd7ab7508a-guide",
+  "title": "How to Deploy disban.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-disban-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for disban.io.",
+  "targetKeywords": [
+    "disban.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://disban.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting disban.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.204Z"
+}

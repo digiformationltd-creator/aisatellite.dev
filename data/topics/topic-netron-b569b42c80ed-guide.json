@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-netron-b569b42c80ed-guide",
+  "title": "How to Deploy Netron in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-netron-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Netron.",
+  "targetKeywords": [
+    "Netron",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://netron.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Netron with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-linuxgsm-17efb4b4e9cd-guide",
+  "title": "How to Deploy LinuxGSM in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-linuxgsm-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LinuxGSM.",
+  "targetKeywords": [
+    "LinuxGSM",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://linuxgsm.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LinuxGSM with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

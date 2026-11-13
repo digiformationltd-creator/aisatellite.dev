@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-aptabase-3127318291fc-guide",
+  "title": "How to Deploy Aptabase in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aptabase-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Aptabase.",
+  "targetKeywords": [
+    "Aptabase",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://aptabase.com",
+    "https://aptabase.com/"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting Aptabase with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.202Z"
+}

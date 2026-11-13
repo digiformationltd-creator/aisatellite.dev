@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-heyspace-f257e5a2def7-guide",
+  "title": "How to Deploy HeySpace in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-heyspace-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HeySpace.",
+  "targetKeywords": [
+    "HeySpace",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hey.space"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HeySpace with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

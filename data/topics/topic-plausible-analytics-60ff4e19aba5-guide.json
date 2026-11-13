@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-plausible-analytics-60ff4e19aba5-guide",
+  "title": "How to Deploy Plausible Analytics in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-plausible-analytics-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Plausible Analytics.",
+  "targetKeywords": [
+    "Plausible Analytics",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://plausible.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Plausible Analytics with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

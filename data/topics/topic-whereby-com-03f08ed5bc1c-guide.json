@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-whereby-com-03f08ed5bc1c-guide",
+  "title": "How to Deploy whereby.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-whereby-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for whereby.com.",
+  "targetKeywords": [
+    "whereby.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://whereby.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting whereby.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

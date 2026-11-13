@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ssllabs-com-37a5a774db71-guide",
+  "title": "How to Deploy ssllabs.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ssllabs-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ssllabs.com.",
+  "targetKeywords": [
+    "ssllabs.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.ssllabs.com/ssltest/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ssllabs.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.213Z"
+}

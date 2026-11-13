@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-xirsys-c760d6798ed6-guide",
+  "title": "How to Deploy Xirsys in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-xirsys-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Xirsys.",
+  "targetKeywords": [
+    "Xirsys",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.xirsys.com/pricing/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Xirsys with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

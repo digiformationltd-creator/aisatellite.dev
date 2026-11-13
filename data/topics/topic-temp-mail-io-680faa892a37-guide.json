@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-temp-mail-io-680faa892a37-guide",
+  "title": "How to Deploy temp-mail.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-temp-mail-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for temp-mail.io.",
+  "targetKeywords": [
+    "temp-mail.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://temp-mail.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting temp-mail.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.213Z"
+}

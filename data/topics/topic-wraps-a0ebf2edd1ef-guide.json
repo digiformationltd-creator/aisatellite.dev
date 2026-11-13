@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wraps-a0ebf2edd1ef-guide",
+  "title": "How to Deploy Wraps in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wraps-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Wraps.",
+  "targetKeywords": [
+    "Wraps",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wraps.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Wraps with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

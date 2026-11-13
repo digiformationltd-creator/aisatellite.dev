@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-howuku-com-33555eb3c57e-guide",
+  "title": "How to Deploy howuku.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-howuku-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for howuku.com.",
+  "targetKeywords": [
+    "howuku.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://howuku.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting howuku.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

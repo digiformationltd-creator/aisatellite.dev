@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ip-city-0b44b94380e5-guide",
+  "title": "How to Deploy IP.City in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ip-city-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IP.City.",
+  "targetKeywords": [
+    "IP.City",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ip.city"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IP.City with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

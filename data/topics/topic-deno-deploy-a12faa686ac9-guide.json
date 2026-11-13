@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deno-deploy-a12faa686ac9-guide",
+  "title": "How to Deploy Deno Deploy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deno-deploy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Deno Deploy.",
+  "targetKeywords": [
+    "Deno Deploy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://deno.com/deploy"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Deno Deploy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.204Z"
+}

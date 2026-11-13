@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ipaddress-sh-3817c8dc7bca-guide",
+  "title": "How to Deploy ipaddress.sh in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ipaddress-sh-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ipaddress.sh.",
+  "targetKeywords": [
+    "ipaddress.sh",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ipaddress.sh"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting ipaddress.sh with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

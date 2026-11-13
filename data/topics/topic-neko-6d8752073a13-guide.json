@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-neko-6d8752073a13-guide",
+  "title": "How to Deploy Neko in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-neko-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Neko.",
+  "targetKeywords": [
+    "Neko",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://neko.m1k1o.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Neko with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.210Z"
+}

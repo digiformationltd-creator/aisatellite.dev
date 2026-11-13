@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-1time-f2580fe3cc33-guide",
+  "title": "How to Deploy 1time in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-1time-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for 1time.",
+  "targetKeywords": [
+    "1time",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://1time.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting 1time with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.201Z"
+}

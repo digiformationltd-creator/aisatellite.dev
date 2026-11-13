@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tinypng-com-b962f490995e-guide",
+  "title": "How to Deploy tinypng.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tinypng-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for tinypng.com.",
+  "targetKeywords": [
+    "tinypng.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tinypng.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting tinypng.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

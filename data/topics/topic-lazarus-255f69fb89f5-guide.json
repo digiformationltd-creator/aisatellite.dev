@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lazarus-255f69fb89f5-guide",
+  "title": "How to Deploy Lazarus in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lazarus-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lazarus.",
+  "targetKeywords": [
+    "Lazarus",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.lazarus-ide.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lazarus with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

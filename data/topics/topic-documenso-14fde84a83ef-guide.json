@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-documenso-14fde84a83ef-guide",
+  "title": "How to Deploy Documenso in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-documenso-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Documenso.",
+  "targetKeywords": [
+    "Documenso",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://documenso.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Documenso with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.204Z"
+}

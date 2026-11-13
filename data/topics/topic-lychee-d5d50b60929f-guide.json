@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lychee-d5d50b60929f-guide",
+  "title": "How to Deploy Lychee in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lychee-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lychee.",
+  "targetKeywords": [
+    "Lychee",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://lycheeorg.github.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lychee with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}

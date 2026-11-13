@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-trac-2abdb145bada-guide",
+  "title": "How to Deploy Trac in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-trac-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Trac.",
+  "targetKeywords": [
+    "Trac",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://trac.edgewall.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Trac with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.214Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-inveniordm-bdab7413f8a7-guide",
+  "title": "How to Deploy InvenioRDM in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-inveniordm-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for InvenioRDM.",
+  "targetKeywords": [
+    "InvenioRDM",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://inveniordm.docs.cern.ch/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting InvenioRDM with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.208Z"
+}

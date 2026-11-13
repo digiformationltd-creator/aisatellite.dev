@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-plik-27ae55ed0e49-guide",
+  "title": "How to Deploy Plik in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-plik-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Plik.",
+  "targetKeywords": [
+    "Plik",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/root-gg/plik"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Plik with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.211Z"
+}

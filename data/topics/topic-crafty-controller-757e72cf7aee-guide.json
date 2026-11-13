@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-crafty-controller-757e72cf7aee-guide",
+  "title": "How to Deploy Crafty Controller in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-crafty-controller-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Crafty Controller.",
+  "targetKeywords": [
+    "Crafty Controller",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://craftycontrol.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Crafty Controller with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.203Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-janus-d7fa6c0d4982-guide",
+  "title": "How to Deploy Janus in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-janus-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Janus.",
+  "targetKeywords": [
+    "Janus",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://janus.conf.meetecho.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Janus with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-13T11:55:48.209Z"
+}
