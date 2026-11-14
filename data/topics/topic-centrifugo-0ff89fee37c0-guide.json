@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-centrifugo-0ff89fee37c0-guide",
+  "title": "How to Deploy Centrifugo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-centrifugo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Centrifugo.",
+  "targetKeywords": [
+    "Centrifugo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://centrifugal.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Centrifugo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localcert-0b663de0a943-guide",
+  "title": "How to Deploy LocalCert in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localcert-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LocalCert.",
+  "targetKeywords": [
+    "LocalCert",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://localcert.net"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LocalCert with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

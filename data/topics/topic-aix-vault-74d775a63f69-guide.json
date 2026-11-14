@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-aix-vault-74d775a63f69-guide",
+  "title": "How to Deploy aix-vault in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-aix-vault-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for aix-vault.",
+  "targetKeywords": [
+    "aix-vault",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/hariharan-uiux/aix-vault"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting aix-vault with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

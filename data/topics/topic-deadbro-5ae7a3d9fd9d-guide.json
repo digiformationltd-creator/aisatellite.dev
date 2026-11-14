@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deadbro-5ae7a3d9fd9d-guide",
+  "title": "How to Deploy DeadBro in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deadbro-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DeadBro.",
+  "targetKeywords": [
+    "DeadBro",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.deadbro.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DeadBro with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

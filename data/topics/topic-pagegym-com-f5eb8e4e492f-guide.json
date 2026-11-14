@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pagegym-com-f5eb8e4e492f-guide",
+  "title": "How to Deploy pagegym.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pagegym-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pagegym.com.",
+  "targetKeywords": [
+    "pagegym.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pagegym.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting pagegym.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

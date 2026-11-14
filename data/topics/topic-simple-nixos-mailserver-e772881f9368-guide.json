@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-simple-nixos-mailserver-e772881f9368-guide",
+  "title": "How to Deploy Simple NixOS Mailserver in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-simple-nixos-mailserver-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Simple NixOS Mailserver.",
+  "targetKeywords": [
+    "Simple NixOS Mailserver",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gitlab.com/simple-nixos-mailserver/nixos-mailserver"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Simple NixOS Mailserver with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

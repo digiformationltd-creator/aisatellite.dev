@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-request-tracker-219ba37da974-guide",
+  "title": "How to Deploy Request Tracker in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-request-tracker-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Request Tracker.",
+  "targetKeywords": [
+    "Request Tracker",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.bestpractical.com/rt/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Request Tracker with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

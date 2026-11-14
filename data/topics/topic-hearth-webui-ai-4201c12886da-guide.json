@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hearth-webui-ai-4201c12886da-guide",
+  "title": "How to Deploy hearth.webui.ai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hearth-webui-ai-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for hearth.webui.ai.",
+  "targetKeywords": [
+    "hearth.webui.ai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/smasvel/hearth.webui.ai"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting hearth.webui.ai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-node-red-8ec24459cdce-guide",
+  "title": "How to Deploy Node RED in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-node-red-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Node RED.",
+  "targetKeywords": [
+    "Node RED",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://nodered.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Node RED with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

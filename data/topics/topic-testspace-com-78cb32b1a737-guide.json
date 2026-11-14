@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-testspace-com-78cb32b1a737-guide",
+  "title": "How to Deploy Testspace.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-testspace-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Testspace.com.",
+  "targetKeywords": [
+    "Testspace.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://testspace.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Testspace.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tally-so-dda354e77410-guide",
+  "title": "How to Deploy Tally.so in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tally-so-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Tally.so.",
+  "targetKeywords": [
+    "Tally.so",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tally.so/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Tally.so with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

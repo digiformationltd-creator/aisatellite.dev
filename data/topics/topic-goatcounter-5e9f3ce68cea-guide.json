@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-goatcounter-5e9f3ce68cea-guide",
+  "title": "How to Deploy GoatCounter in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-goatcounter-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GoatCounter.",
+  "targetKeywords": [
+    "GoatCounter",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.goatcounter.com/",
+    "https://www.goatcounter.com"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting GoatCounter with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

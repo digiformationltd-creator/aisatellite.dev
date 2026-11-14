@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-terrateam-fe2718301651-guide",
+  "title": "How to Deploy Terrateam in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-terrateam-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Terrateam.",
+  "targetKeywords": [
+    "Terrateam",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://terrateam.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Terrateam with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

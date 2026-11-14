@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-photofield-1b496dd88e56-guide",
+  "title": "How to Deploy Photofield in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-photofield-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Photofield.",
+  "targetKeywords": [
+    "Photofield",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/SmilyOrg/photofield"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Photofield with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

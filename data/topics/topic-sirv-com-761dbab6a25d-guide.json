@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sirv-com-761dbab6a25d-guide",
+  "title": "How to Deploy sirv.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sirv-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for sirv.com.",
+  "targetKeywords": [
+    "sirv.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sirv.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting sirv.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

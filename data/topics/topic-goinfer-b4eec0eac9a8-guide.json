@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-goinfer-b4eec0eac9a8-guide",
+  "title": "How to Deploy goinfer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-goinfer-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for goinfer.",
+  "targetKeywords": [
+    "goinfer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/townsendmerino/goinfer"
+  ],
+  "priorityScore": 90,
+  "contentGapRationale": "High developer demand for self-hosting goinfer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

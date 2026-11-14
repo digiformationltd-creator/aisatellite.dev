@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-simplelogin-43a966575516-guide",
+  "title": "How to Deploy SimpleLogin in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-simplelogin-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SimpleLogin.",
+  "targetKeywords": [
+    "SimpleLogin",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://simplelogin.io/",
+    "https://simplelogin.io"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting SimpleLogin with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

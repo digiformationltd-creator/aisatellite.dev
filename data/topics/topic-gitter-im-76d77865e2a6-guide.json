@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gitter-im-76d77865e2a6-guide",
+  "title": "How to Deploy gitter.im in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gitter-im-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for gitter.im.",
+  "targetKeywords": [
+    "gitter.im",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gitter.im/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting gitter.im with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

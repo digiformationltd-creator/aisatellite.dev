@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gerrit-1bbd1f62a233-guide",
+  "title": "How to Deploy Gerrit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gerrit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Gerrit.",
+  "targetKeywords": [
+    "Gerrit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.gerritcodereview.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Gerrit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

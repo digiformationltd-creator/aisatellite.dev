@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cerbos-hub-b44e4e398656-guide",
+  "title": "How to Deploy Cerbos Hub in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cerbos-hub-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cerbos Hub.",
+  "targetKeywords": [
+    "Cerbos Hub",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.cerbos.dev/product-cerbos-hub"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cerbos Hub with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

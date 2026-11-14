@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-s3-orchestrator-c54ee370a2bb-guide",
+  "title": "How to Deploy s3-orchestrator in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-s3-orchestrator-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for s3-orchestrator.",
+  "targetKeywords": [
+    "s3-orchestrator",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://s3-orchestrator.munchbox.cc"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting s3-orchestrator with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

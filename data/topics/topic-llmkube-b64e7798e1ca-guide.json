@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-llmkube-b64e7798e1ca-guide",
+  "title": "How to Deploy LLMKube in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-llmkube-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LLMKube.",
+  "targetKeywords": [
+    "LLMKube",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://llmkube.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LLMKube with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

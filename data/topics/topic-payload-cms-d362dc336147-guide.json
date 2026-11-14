@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-payload-cms-d362dc336147-guide",
+  "title": "How to Deploy Payload CMS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-payload-cms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Payload CMS.",
+  "targetKeywords": [
+    "Payload CMS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://payloadcms.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Payload CMS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

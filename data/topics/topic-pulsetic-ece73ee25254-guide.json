@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pulsetic-ece73ee25254-guide",
+  "title": "How to Deploy Pulsetic in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pulsetic-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pulsetic.",
+  "targetKeywords": [
+    "Pulsetic",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pulsetic.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pulsetic with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

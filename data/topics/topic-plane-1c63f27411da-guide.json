@@ -1,0 +1,22 @@
+{
+  "topicId": "topic-plane-1c63f27411da-guide",
+  "title": "How to Deploy Plane in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-plane-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Plane.",
+  "targetKeywords": [
+    "Plane",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://plane.so/",
+    "https://plane.so"
+  ],
+  "priorityScore": 67,
+  "contentGapRationale": "High developer demand for self-hosting Plane with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-closecrab-web-c68fa2bce76f-guide",
+  "title": "How to Deploy CloseCrab-Web in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-closecrab-web-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CloseCrab-Web.",
+  "targetKeywords": [
+    "CloseCrab-Web",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Blitzball996/CloseCrab-Web"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting CloseCrab-Web with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-unicorn-platform-d3f397c96a11-guide",
+  "title": "How to Deploy Unicorn Platform in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-unicorn-platform-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Unicorn Platform.",
+  "targetKeywords": [
+    "Unicorn Platform",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://unicornplatform.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Unicorn Platform with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

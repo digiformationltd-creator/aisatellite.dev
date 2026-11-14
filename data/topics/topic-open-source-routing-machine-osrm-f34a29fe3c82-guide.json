@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-open-source-routing-machine-osrm-f34a29fe3c82-guide",
+  "title": "How to Deploy Open Source Routing Machine (OSRM) in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-open-source-routing-machine-osrm--production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Open Source Routing Machine (OSRM).",
+  "targetKeywords": [
+    "Open Source Routing Machine (OSRM)",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "http://project-osrm.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Open Source Routing Machine (OSRM) with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openolitor-673dad52a211-guide",
+  "title": "How to Deploy OpenOlitor in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openolitor-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenOlitor.",
+  "targetKeywords": [
+    "OpenOlitor",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://openolitor.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenOlitor with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

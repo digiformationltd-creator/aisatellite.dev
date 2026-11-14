@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mpd-f3f3dd136053-guide",
+  "title": "How to Deploy mpd in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mpd-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mpd.",
+  "targetKeywords": [
+    "mpd",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.musicpd.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mpd with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

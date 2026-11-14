@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ydl-api-ng-ca3c57ebacd6-guide",
+  "title": "How to Deploy ydl_api_ng in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ydl-api-ng-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ydl_api_ng.",
+  "targetKeywords": [
+    "ydl_api_ng",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Totonyus/ydl_api_ng"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting ydl_api_ng with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

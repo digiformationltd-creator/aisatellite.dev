@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-webvizio-7e520aecddce-guide",
+  "title": "How to Deploy Webvizio in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-webvizio-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Webvizio.",
+  "targetKeywords": [
+    "Webvizio",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://webvizio.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Webvizio with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-himitsushell-f2564912215a-guide",
+  "title": "How to Deploy HimitsuShell in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-himitsushell-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HimitsuShell.",
+  "targetKeywords": [
+    "HimitsuShell",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://himitsushell.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HimitsuShell with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

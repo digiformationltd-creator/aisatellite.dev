@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-filebase-com-05bdb95e309d-guide",
+  "title": "How to Deploy filebase.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-filebase-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for filebase.com.",
+  "targetKeywords": [
+    "filebase.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://filebase.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting filebase.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

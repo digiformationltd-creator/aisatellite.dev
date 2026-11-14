@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pusher-com-315761b024d7-guide",
+  "title": "How to Deploy pusher.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pusher-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pusher.com.",
+  "targetKeywords": [
+    "pusher.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pusher.com/beams"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting pusher.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

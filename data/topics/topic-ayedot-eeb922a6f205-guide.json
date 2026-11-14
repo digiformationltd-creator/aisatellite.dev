@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ayedot-eeb922a6f205-guide",
+  "title": "How to Deploy AyeDot in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ayedot-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AyeDot.",
+  "targetKeywords": [
+    "AyeDot",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ayedot.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting AyeDot with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

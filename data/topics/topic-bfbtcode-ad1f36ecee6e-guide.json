@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bfbtcode-ad1f36ecee6e-guide",
+  "title": "How to Deploy BFBTCode in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bfbtcode-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BFBTCode.",
+  "targetKeywords": [
+    "BFBTCode",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/dongfutong/BFBTCode"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting BFBTCode with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

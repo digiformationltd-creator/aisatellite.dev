@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-realuptime-errors-56cc81a023cd-guide",
+  "title": "How to Deploy RealUptime Errors in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-realuptime-errors-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RealUptime Errors.",
+  "targetKeywords": [
+    "RealUptime Errors",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://realuptime.io/errors"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RealUptime Errors with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

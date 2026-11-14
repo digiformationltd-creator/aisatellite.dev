@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-apitemplate-io-40822a6f05df-guide",
+  "title": "How to Deploy APITemplate.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-apitemplate-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for APITemplate.io.",
+  "targetKeywords": [
+    "APITemplate.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://apitemplate.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting APITemplate.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

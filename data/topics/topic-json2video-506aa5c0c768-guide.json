@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-json2video-506aa5c0c768-guide",
+  "title": "How to Deploy JSON2Video in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-json2video-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for JSON2Video.",
+  "targetKeywords": [
+    "JSON2Video",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://json2video.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting JSON2Video with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

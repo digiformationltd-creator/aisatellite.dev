@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ots-8334921deac7-guide",
+  "title": "How to Deploy OTS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ots-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OTS.",
+  "targetKeywords": [
+    "OTS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ots.fyi/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OTS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

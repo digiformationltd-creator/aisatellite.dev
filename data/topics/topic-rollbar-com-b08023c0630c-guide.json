@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rollbar-com-b08023c0630c-guide",
+  "title": "How to Deploy rollbar.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rollbar-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for rollbar.com.",
+  "targetKeywords": [
+    "rollbar.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://rollbar.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting rollbar.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

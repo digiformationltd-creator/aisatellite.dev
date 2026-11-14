@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-load-balancer-0527ea6711d7-guide",
+  "title": "How to Deploy Load Balancer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-load-balancer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Load Balancer.",
+  "targetKeywords": [
+    "Load Balancer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://azure.microsoft.com/services/load-balancer/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Load Balancer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

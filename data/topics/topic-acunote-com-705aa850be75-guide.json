@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-acunote-com-705aa850be75-guide",
+  "title": "How to Deploy acunote.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-acunote-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for acunote.com.",
+  "targetKeywords": [
+    "acunote.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.acunote.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting acunote.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

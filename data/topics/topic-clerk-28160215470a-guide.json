@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-clerk-28160215470a-guide",
+  "title": "How to Deploy Clerk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-clerk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Clerk.",
+  "targetKeywords": [
+    "Clerk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://clerk.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Clerk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

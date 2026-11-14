@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pinata-ipfs-323e58400693-guide",
+  "title": "How to Deploy Pinata IPFS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pinata-ipfs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pinata IPFS.",
+  "targetKeywords": [
+    "Pinata IPFS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pinata.cloud"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pinata IPFS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

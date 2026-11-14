@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-heydeer-b14ddf2eb97b-guide",
+  "title": "How to Deploy HeyDeer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-heydeer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HeyDeer.",
+  "targetKeywords": [
+    "HeyDeer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://heydeer.ai/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting HeyDeer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

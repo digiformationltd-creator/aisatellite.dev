@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-anypost-15ad698bb37f-guide",
+  "title": "How to Deploy Anypost in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-anypost-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Anypost.",
+  "targetKeywords": [
+    "Anypost",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://anypost.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Anypost with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

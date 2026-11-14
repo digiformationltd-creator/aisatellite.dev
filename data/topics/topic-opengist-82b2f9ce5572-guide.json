@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-opengist-82b2f9ce5572-guide",
+  "title": "How to Deploy Opengist in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-opengist-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Opengist.",
+  "targetKeywords": [
+    "Opengist",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://opengist.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Opengist with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

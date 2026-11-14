@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-choreo-bb6ec41f33f9-guide",
+  "title": "How to Deploy Choreo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-choreo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Choreo.",
+  "targetKeywords": [
+    "Choreo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://wso2.com/choreo/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Choreo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

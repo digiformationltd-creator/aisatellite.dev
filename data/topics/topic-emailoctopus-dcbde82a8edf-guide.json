@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-emailoctopus-dcbde82a8edf-guide",
+  "title": "How to Deploy EmailOctopus in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-emailoctopus-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for EmailOctopus.",
+  "targetKeywords": [
+    "EmailOctopus",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://emailoctopus.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting EmailOctopus with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

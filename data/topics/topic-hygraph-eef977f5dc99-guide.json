@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hygraph-eef977f5dc99-guide",
+  "title": "How to Deploy Hygraph in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hygraph-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hygraph.",
+  "targetKeywords": [
+    "Hygraph",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://hygraph.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hygraph with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

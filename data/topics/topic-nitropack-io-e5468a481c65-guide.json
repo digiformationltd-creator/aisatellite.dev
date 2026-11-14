@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-nitropack-io-e5468a481c65-guide",
+  "title": "How to Deploy nitropack.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-nitropack-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for nitropack.io.",
+  "targetKeywords": [
+    "nitropack.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://nitropack.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting nitropack.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

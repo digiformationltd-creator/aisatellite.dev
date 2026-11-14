@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ably-0a0ecaf5836a-guide",
+  "title": "How to Deploy Ably in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ably-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ably.",
+  "targetKeywords": [
+    "Ably",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.ably.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ably with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

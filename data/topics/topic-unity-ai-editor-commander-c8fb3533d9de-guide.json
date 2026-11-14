@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-unity-ai-editor-commander-c8fb3533d9de-guide",
+  "title": "How to Deploy unity-ai-editor-commander in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-unity-ai-editor-commander-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for unity-ai-editor-commander.",
+  "targetKeywords": [
+    "unity-ai-editor-commander",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/barrioscb/unity-ai-editor-commander"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting unity-ai-editor-commander with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

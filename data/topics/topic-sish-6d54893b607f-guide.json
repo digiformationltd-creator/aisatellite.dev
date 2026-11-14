@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sish-6d54893b607f-guide",
+  "title": "How to Deploy sish in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sish-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for sish.",
+  "targetKeywords": [
+    "sish",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/antoniomika/sish"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting sish with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

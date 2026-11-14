@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zoom-us-976eeac66264-guide",
+  "title": "How to Deploy zoom.us in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zoom-us-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for zoom.us.",
+  "targetKeywords": [
+    "zoom.us",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zoom.us/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting zoom.us with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

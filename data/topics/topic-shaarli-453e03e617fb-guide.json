@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shaarli-453e03e617fb-guide",
+  "title": "How to Deploy Shaarli in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shaarli-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Shaarli.",
+  "targetKeywords": [
+    "Shaarli",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/shaarli/Shaarli"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Shaarli with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

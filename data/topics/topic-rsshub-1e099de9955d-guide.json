@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rsshub-1e099de9955d-guide",
+  "title": "How to Deploy RSSHub in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rsshub-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RSSHub.",
+  "targetKeywords": [
+    "RSSHub",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.rsshub.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RSSHub with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

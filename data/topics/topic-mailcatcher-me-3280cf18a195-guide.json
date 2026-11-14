@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mailcatcher-me-3280cf18a195-guide",
+  "title": "How to Deploy mailcatcher.me in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mailcatcher-me-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for mailcatcher.me.",
+  "targetKeywords": [
+    "mailcatcher.me",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://mailcatcher.me/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting mailcatcher.me with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

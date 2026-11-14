@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-squid-6b7d90833cc6-guide",
+  "title": "How to Deploy Squid in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-squid-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Squid.",
+  "targetKeywords": [
+    "Squid",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "http://www.squid-cache.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Squid with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

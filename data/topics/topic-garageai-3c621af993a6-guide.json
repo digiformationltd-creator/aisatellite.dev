@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-garageai-3c621af993a6-guide",
+  "title": "How to Deploy garageai in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-garageai-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for garageai.",
+  "targetKeywords": [
+    "garageai",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/magnusfroste/garageai"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting garageai with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

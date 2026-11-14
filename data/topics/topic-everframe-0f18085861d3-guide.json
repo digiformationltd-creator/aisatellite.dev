@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-everframe-0f18085861d3-guide",
+  "title": "How to Deploy Everframe in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-everframe-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Everframe.",
+  "targetKeywords": [
+    "Everframe",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://everframe.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Everframe with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

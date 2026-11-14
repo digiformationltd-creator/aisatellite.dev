@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-infisical-community-edition-c34e9c0098e5-guide",
+  "title": "How to Deploy Infisical Community Edition in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-infisical-community-edition-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Infisical Community Edition.",
+  "targetKeywords": [
+    "Infisical Community Edition",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://infisical.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Infisical Community Edition with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

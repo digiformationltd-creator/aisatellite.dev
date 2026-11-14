@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sunrise-and-sunset-568d703c1e6b-guide",
+  "title": "How to Deploy Sunrise and Sunset in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sunrise-and-sunset-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sunrise and Sunset.",
+  "targetKeywords": [
+    "Sunrise and Sunset",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sunrisesunset.io/api/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sunrise and Sunset with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

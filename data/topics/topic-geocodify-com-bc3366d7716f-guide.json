@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-geocodify-com-bc3366d7716f-guide",
+  "title": "How to Deploy geocodify.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-geocodify-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for geocodify.com.",
+  "targetKeywords": [
+    "geocodify.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://geocodify.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting geocodify.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

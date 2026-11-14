@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sync-com-cda19becf30b-guide",
+  "title": "How to Deploy sync.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sync-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for sync.com.",
+  "targetKeywords": [
+    "sync.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.sync.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting sync.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

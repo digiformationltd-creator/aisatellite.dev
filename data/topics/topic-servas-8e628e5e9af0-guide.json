@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-servas-8e628e5e9af0-guide",
+  "title": "How to Deploy Servas in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-servas-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Servas.",
+  "targetKeywords": [
+    "Servas",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/beromir/Servas"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Servas with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

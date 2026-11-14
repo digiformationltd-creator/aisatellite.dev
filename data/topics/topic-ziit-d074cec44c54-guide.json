@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ziit-d074cec44c54-guide",
+  "title": "How to Deploy Ziit in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ziit-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Ziit.",
+  "targetKeywords": [
+    "Ziit",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://ziit.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Ziit with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

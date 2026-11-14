@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-algolia-com-9c8af2852c4a-guide",
+  "title": "How to Deploy algolia.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-algolia-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for algolia.com.",
+  "targetKeywords": [
+    "algolia.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.algolia.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting algolia.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

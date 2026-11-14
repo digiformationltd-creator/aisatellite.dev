@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-koyeb-75f95283d130-guide",
+  "title": "How to Deploy Koyeb in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-koyeb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Koyeb.",
+  "targetKeywords": [
+    "Koyeb",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.koyeb.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Koyeb with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

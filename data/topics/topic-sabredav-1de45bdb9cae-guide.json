@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sabredav-1de45bdb9cae-guide",
+  "title": "How to Deploy SabreDAV in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sabredav-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SabreDAV.",
+  "targetKeywords": [
+    "SabreDAV",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sabre.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SabreDAV with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

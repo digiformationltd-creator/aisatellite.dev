@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localxpose-27e04047d5de-guide",
+  "title": "How to Deploy LocalXpose in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localxpose-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LocalXpose.",
+  "targetKeywords": [
+    "LocalXpose",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://localxpose.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting LocalXpose with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bookings-30c2e58f0753-guide",
+  "title": "How to Deploy Bookings in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bookings-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bookings.",
+  "targetKeywords": [
+    "Bookings",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zoho.com/bookings"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Bookings with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

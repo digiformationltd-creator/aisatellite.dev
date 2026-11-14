@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-postorius-c242d96f26ba-guide",
+  "title": "How to Deploy Postorius in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-postorius-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Postorius.",
+  "targetKeywords": [
+    "Postorius",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://docs.mailman3.org/projects/postorius/en/latest/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Postorius with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

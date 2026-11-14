@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-opentripplanner-8b2831dbe2c8-guide",
+  "title": "How to Deploy OpenTripPlanner in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-opentripplanner-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OpenTripPlanner.",
+  "targetKeywords": [
+    "OpenTripPlanner",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.opentripplanner.org/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OpenTripPlanner with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

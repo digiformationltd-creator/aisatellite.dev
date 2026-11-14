@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-awesome-apps-and-skills-13567e2ef133-guide",
+  "title": "How to Deploy awesome-apps-and-skills in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-awesome-apps-and-skills-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for awesome-apps-and-skills.",
+  "targetKeywords": [
+    "awesome-apps-and-skills",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/nishkohli96/awesome-apps-and-skills"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting awesome-apps-and-skills with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

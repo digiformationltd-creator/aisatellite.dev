@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sonarr-72a7fbdbe59f-guide",
+  "title": "How to Deploy Sonarr in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sonarr-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sonarr.",
+  "targetKeywords": [
+    "Sonarr",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://sonarr.tv/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Sonarr with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

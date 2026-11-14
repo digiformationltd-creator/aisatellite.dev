@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cronmaster-4466e9dfb4e3-guide",
+  "title": "How to Deploy Cronmaster in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cronmaster-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cronmaster.",
+  "targetKeywords": [
+    "Cronmaster",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/fccview/cronmaster"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Cronmaster with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-codeac-io-b314ab86a2a1-guide",
+  "title": "How to Deploy Codeac.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-codeac-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Codeac.io.",
+  "targetKeywords": [
+    "Codeac.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Codeac.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

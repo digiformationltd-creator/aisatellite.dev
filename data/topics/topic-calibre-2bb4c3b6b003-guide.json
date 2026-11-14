@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-calibre-2bb4c3b6b003-guide",
+  "title": "How to Deploy Calibre in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-calibre-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Calibre.",
+  "targetKeywords": [
+    "Calibre",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://calibre-ebook.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Calibre with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.364Z"
+}

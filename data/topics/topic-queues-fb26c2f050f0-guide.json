@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-queues-fb26c2f050f0-guide",
+  "title": "How to Deploy Queues in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-queues-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Queues.",
+  "targetKeywords": [
+    "Queues",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://developers.cloudflare.com/queues/"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Queues with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

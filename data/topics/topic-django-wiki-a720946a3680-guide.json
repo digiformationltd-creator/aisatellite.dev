@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-django-wiki-a720946a3680-guide",
+  "title": "How to Deploy django-wiki in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-django-wiki-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for django-wiki.",
+  "targetKeywords": [
+    "django-wiki",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/django-wiki/django-wiki"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting django-wiki with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

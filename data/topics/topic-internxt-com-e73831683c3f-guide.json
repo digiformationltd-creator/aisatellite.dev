@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-internxt-com-e73831683c3f-guide",
+  "title": "How to Deploy internxt.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-internxt-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for internxt.com.",
+  "targetKeywords": [
+    "internxt.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://internxt.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting internxt.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}

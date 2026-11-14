@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-sparse-8938e3836b2c-guide",
+  "title": "How to Deploy Sparse in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-sparse-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Sparse.",
+  "targetKeywords": [
+    "Sparse",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Sparse-Agent/Sparse"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting Sparse with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-fossa-b31d8c87c651-guide",
+  "title": "How to Deploy FOSSA in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-fossa-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for FOSSA.",
+  "targetKeywords": [
+    "FOSSA",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://fossa.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting FOSSA with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.366Z"
+}

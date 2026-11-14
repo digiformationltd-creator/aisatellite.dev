@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stats4u-b6409c30e143-guide",
+  "title": "How to Deploy Stats4U in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stats4u-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Stats4U.",
+  "targetKeywords": [
+    "Stats4U",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.stats4u.net/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Stats4U with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

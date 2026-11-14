@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-clockwork-micro-242e6d1c77ad-guide",
+  "title": "How to Deploy Clockwork Micro in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-clockwork-micro-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Clockwork Micro.",
+  "targetKeywords": [
+    "Clockwork Micro",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://clockworkmicro.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Clockwork Micro with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

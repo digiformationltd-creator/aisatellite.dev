@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dense-moe-research-a2644e09a2cc-guide",
+  "title": "How to Deploy dense-moe-research in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dense-moe-research-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for dense-moe-research.",
+  "targetKeywords": [
+    "dense-moe-research",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/kr4ckhe4d/dense-moe-research"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting dense-moe-research with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

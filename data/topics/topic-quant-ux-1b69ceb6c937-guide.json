@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-quant-ux-1b69ceb6c937-guide",
+  "title": "How to Deploy Quant Ux in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-quant-ux-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Quant Ux.",
+  "targetKeywords": [
+    "Quant Ux",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://quant-ux.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Quant Ux with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

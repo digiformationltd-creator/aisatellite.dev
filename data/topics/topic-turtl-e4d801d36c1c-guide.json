@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-turtl-e4d801d36c1c-guide",
+  "title": "How to Deploy Turtl in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-turtl-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Turtl.",
+  "targetKeywords": [
+    "Turtl",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://turtl.it/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Turtl with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.368Z"
+}

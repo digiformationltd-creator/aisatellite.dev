@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cratedb-ec56b03009c9-guide",
+  "title": "How to Deploy CrateDB in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cratedb-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CrateDB.",
+  "targetKeywords": [
+    "CrateDB",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://crate.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CrateDB with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.365Z"
+}

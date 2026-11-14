@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-plunk-27be0389cf0b-guide",
+  "title": "How to Deploy Plunk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-plunk-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Plunk.",
+  "targetKeywords": [
+    "Plunk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://useplunk.com"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Plunk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-14T11:15:20.367Z"
+}
