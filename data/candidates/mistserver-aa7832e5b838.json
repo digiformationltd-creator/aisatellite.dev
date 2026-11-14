@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://mistserver.org/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-13T07:28:53.986Z",
-  "updatedAt": "2026-11-13T07:28:53.986Z",
-  "lastVerified": "2026-11-13T09:25:01.324Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:46.653Z",
+  "updatedAt": "2026-11-14T07:12:46.653Z"
 }

@@ -1,0 +1,43 @@
+{
+  "id": "owl-6a9d8bc03deb",
+  "canonicalUrl": "https://github.com/jwmoss/owl",
+  "name": "owl",
+  "description": "Ansible playbooks that turn an AMD Strix Halo (Ryzen AI Max+ 395, 128 GB) into a local LLM server: ROCm plus halogen, gufo, Strata or Project Maya, with an OpenAI-compatible API.",
+  "category": "local-llm",
+  "tags": [
+    "agent-skills",
+    "amd",
+    "ansible",
+    "ansible-playbook",
+    "deepseek",
+    "gfx1151",
+    "homelab",
+    "infrastructure-as-code",
+    "llm",
+    "llm-inference",
+    "llm-serving",
+    "local-llm",
+    "openai-api",
+    "qwen",
+    "radeon",
+    "rocm",
+    "ryzen-ai",
+    "self-hosted",
+    "strix-halo",
+    "ubuntu"
+  ],
+  "repositoryUrl": "https://github.com/jwmoss/owl",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/jwmoss/owl/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-14T06:41:46Z",
+  "evidenceUrls": [
+    "https://github.com/jwmoss/owl"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:47.692Z",
+  "updatedAt": "2026-11-14T07:12:47.692Z"
+}

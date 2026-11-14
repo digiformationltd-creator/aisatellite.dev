@@ -25,14 +25,11 @@
   "freeTierLimitations": [],
   "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-07T03:13:49Z",
+  "lastRepositoryUpdate": "2026-11-14T03:35:55Z",
   "evidenceUrls": [
     "https://github.com/Marco-Lu2508/fLLM"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:51.434Z",
-  "updatedAt": "2026-11-07T06:43:51.434Z",
-  "lastVerified": "2026-11-13T09:19:34.685Z",
-  "qualityScore": 78,
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:47.692Z",
+  "updatedAt": "2026-11-14T07:12:47.692Z"
 }

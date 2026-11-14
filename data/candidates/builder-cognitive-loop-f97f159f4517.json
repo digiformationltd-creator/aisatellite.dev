@@ -1,0 +1,27 @@
+{
+  "id": "builder-cognitive-loop-f97f159f4517",
+  "canonicalUrl": "https://github.com/Rbm3267/builder-cognitive-loop",
+  "name": "builder-cognitive-loop",
+  "description": "A 6-step build loop and 4 quality gates for working with AI coding assistants",
+  "category": "ai-coding",
+  "tags": [
+    "agent-skills",
+    "ai-coding",
+    "claude-code",
+    "workflow"
+  ],
+  "repositoryUrl": "https://github.com/Rbm3267/builder-cognitive-loop",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/Rbm3267/builder-cognitive-loop/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-14T04:23:24Z",
+  "evidenceUrls": [
+    "https://github.com/Rbm3267/builder-cognitive-loop"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:48.147Z",
+  "updatedAt": "2026-11-14T07:12:48.147Z"
+}

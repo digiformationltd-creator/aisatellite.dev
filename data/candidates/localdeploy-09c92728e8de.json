@@ -1,0 +1,38 @@
+{
+  "id": "localdeploy-09c92728e8de",
+  "canonicalUrl": "https://github.com/oney-erge/LocalDeploy",
+  "name": "LocalDeploy",
+  "description": "Find, deploy, manage, and benchmark local AI models for your hardware across Ollama, llama.cpp, and compatible runtimes.",
+  "category": "local-llm",
+  "tags": [
+    "gguf",
+    "gpu",
+    "llama-cpp",
+    "llm-benchmarking",
+    "llm-evaluation",
+    "llm-inference",
+    "local-ai",
+    "local-llm",
+    "ollama",
+    "openai-compatible-api",
+    "self-hosted",
+    "vram",
+    "web-ui"
+  ],
+  "repositoryUrl": "https://github.com/oney-erge/LocalDeploy",
+  "officialUrl": "https://oneyerge.com/#project-localdeploy-local-ai-models",
+  "documentationUrl": "https://oneyerge.com/#project-localdeploy-local-ai-models",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/oney-erge/LocalDeploy/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-14T01:11:01Z",
+  "evidenceUrls": [
+    "https://github.com/oney-erge/LocalDeploy"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:47.692Z",
+  "updatedAt": "2026-11-14T07:12:47.692Z"
+}

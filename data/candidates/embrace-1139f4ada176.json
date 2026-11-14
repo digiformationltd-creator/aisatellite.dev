@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://embrace.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-13T07:28:53.901Z",
-  "updatedAt": "2026-11-13T07:28:53.901Z",
-  "lastVerified": "2026-11-13T09:18:40.345Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:46.627Z",
+  "updatedAt": "2026-11-14T07:12:46.627Z"
 }

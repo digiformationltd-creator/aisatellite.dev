@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://tinybird.co"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-13T07:28:53.903Z",
-  "updatedAt": "2026-11-13T07:28:53.903Z",
-  "lastVerified": "2026-11-13T09:33:06.868Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:46.630Z",
+  "updatedAt": "2026-11-14T07:12:46.630Z"
 }

@@ -1,0 +1,35 @@
+{
+  "id": "swizzle-runtime-6e12fcb31911",
+  "canonicalUrl": "https://github.com/Swizzle-AI/swizzle-runtime",
+  "name": "swizzle-runtime",
+  "description": "High-performance bit-exact local LLM inference runtime in Rust (GGUF & .ktc) with Swizzle XOR shared-memory CUDA GEMM tiles, zero-copy GPU/CPU Shortlist, adaptive RAD-1 trees, Warm Start, and Convoy continuous batching.",
+  "category": "local-llm",
+  "tags": [
+    "cuda",
+    "gguf",
+    "inference-engine",
+    "llm-inference",
+    "local-llm",
+    "ollama",
+    "openai-api",
+    "rust",
+    "speculative-decoding",
+    "vulkan"
+  ],
+  "repositoryUrl": "https://github.com/Swizzle-AI/swizzle-runtime",
+  "officialUrl": "https://swizzle-ten.vercel.app",
+  "documentationUrl": "https://swizzle-ten.vercel.app",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/Swizzle-AI/swizzle-runtime/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-14T07:01:38Z",
+  "evidenceUrls": [
+    "https://github.com/Swizzle-AI/swizzle-runtime"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:47.692Z",
+  "updatedAt": "2026-11-14T07:12:47.692Z"
+}

@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://request-inbox.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-13T07:28:53.987Z",
-  "updatedAt": "2026-11-13T07:28:53.987Z",
-  "lastVerified": "2026-11-13T09:29:11.142Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:46.656Z",
+  "updatedAt": "2026-11-14T07:12:46.656Z"
 }

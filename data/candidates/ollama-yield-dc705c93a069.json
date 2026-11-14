@@ -1,0 +1,35 @@
+{
+  "id": "ollama-yield-dc705c93a069",
+  "canonicalUrl": "https://github.com/preston-bernstein/ollama-yield",
+  "name": "ollama-yield",
+  "description": "Stop your local LLM from holding the GPU when you start a game. Pauses and resumes Ollama around gaming and Plex transcodes. Works on any GPU, including AMD.",
+  "category": "local-llm",
+  "tags": [
+    "amd-gpu",
+    "golang",
+    "gpu",
+    "homelab",
+    "linux-gaming",
+    "llm-inference",
+    "local-llm",
+    "ollama",
+    "plex",
+    "rocm",
+    "self-hosted",
+    "vram"
+  ],
+  "repositoryUrl": "https://github.com/preston-bernstein/ollama-yield",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/preston-bernstein/ollama-yield/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-14T04:38:39Z",
+  "evidenceUrls": [
+    "https://github.com/preston-bernstein/ollama-yield"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:47.692Z",
+  "updatedAt": "2026-11-14T07:12:47.692Z"
+}

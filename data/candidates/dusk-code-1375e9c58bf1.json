@@ -1,0 +1,32 @@
+{
+  "id": "dusk-code-1375e9c58bf1",
+  "canonicalUrl": "https://github.com/DroBov1Tya/dusk_code",
+  "name": "dusk_code",
+  "description": "An AI agent system in Rust: one core library, thin clients. Full-screen terminal client, subagents, skills, compaction, crash-safe threads.",
+  "category": "ai-coding",
+  "tags": [
+    "agentic",
+    "ai",
+    "ai-coding",
+    "assistant",
+    "coding-agents",
+    "developer-tools",
+    "local-ai",
+    "rust",
+    "tui"
+  ],
+  "repositoryUrl": "https://github.com/DroBov1Tya/dusk_code",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/DroBov1Tya/dusk_code/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 4,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-14T07:06:45Z",
+  "evidenceUrls": [
+    "https://github.com/DroBov1Tya/dusk_code"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:48.147Z",
+  "updatedAt": "2026-11-14T07:12:48.147Z"
+}

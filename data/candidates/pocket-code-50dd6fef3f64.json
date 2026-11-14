@@ -1,0 +1,38 @@
+{
+  "id": "pocket-code-50dd6fef3f64",
+  "canonicalUrl": "https://github.com/bbesner/pocket-code",
+  "name": "pocket-code",
+  "description": "Self-hosted workspace for Claude Code and Codex: run many sessions at once in Developer mode, or use Assistant mode as a simple work assistant. Includes Inbox Watch, which reads your Gmail and keeps only what needs you in Pocket's Inbox. Projects, files, tasks and an encrypted vault. Desktop, tablet and phone.",
+  "category": "ai-coding",
+  "tags": [
+    "agent-workspace",
+    "ai-agents",
+    "ai-assistant",
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "developer-tools",
+    "email-assistant",
+    "gmail",
+    "memstem",
+    "mobile",
+    "productivity",
+    "pwa",
+    "self-hosted"
+  ],
+  "repositoryUrl": "https://github.com/bbesner/pocket-code",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/bbesner/pocket-code/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-14T02:26:08Z",
+  "evidenceUrls": [
+    "https://github.com/bbesner/pocket-code"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:48.147Z",
+  "updatedAt": "2026-11-14T07:12:48.147Z"
+}

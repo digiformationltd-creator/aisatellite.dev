@@ -1,0 +1,39 @@
+{
+  "id": "denvora-groundwork-mcp-2bd657b336d9",
+  "canonicalUrl": "https://github.com/ardenpratamamaskuri404/denvora-groundwork-mcp",
+  "name": "denvora-groundwork-mcp",
+  "description": "MCP server that helps AI coding assistants verify packages and APIs before using them, and turn ideas into checked plans.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-coding",
+    "anti-hallucination",
+    "brainstorming",
+    "denvora-groundwork-mcp",
+    "developer-tools",
+    "developer-tools-ai-agent",
+    "groundwork-technologies",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "next-gen-mcp",
+    "planning-tools",
+    "security-audit",
+    "vibe-coding"
+  ],
+  "repositoryUrl": "https://github.com/ardenpratamamaskuri404/denvora-groundwork-mcp",
+  "officialUrl": "https://github.com/ardenpratamamaskuri404/denvora-groundwork-mcp",
+  "documentationUrl": "https://github.com/ardenpratamamaskuri404/denvora-groundwork-mcp",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/ardenpratamamaskuri404/denvora-groundwork-mcp/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-14T03:54:54Z",
+  "evidenceUrls": [
+    "https://github.com/ardenpratamamaskuri404/denvora-groundwork-mcp"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:48.147Z",
+  "updatedAt": "2026-11-14T07:12:48.147Z"
+}

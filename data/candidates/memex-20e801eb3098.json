@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://memex-app.shibao.dev"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-13T07:28:53.985Z",
-  "updatedAt": "2026-11-13T07:28:53.985Z",
-  "lastVerified": "2026-11-13T09:24:41.661Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:46.653Z",
+  "updatedAt": "2026-11-14T07:12:46.653Z"
 }

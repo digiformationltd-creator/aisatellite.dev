@@ -35,13 +35,11 @@
   "freeTierLimitations": [],
   "githubStars": 7,
   "githubForks": 2,
-  "lastRepositoryUpdate": "2026-11-13T07:17:34Z",
+  "lastRepositoryUpdate": "2026-11-14T06:55:09Z",
   "evidenceUrls": [
     "https://github.com/1bit-MONSTER/engine"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-13T07:28:55.160Z",
-  "updatedAt": "2026-11-13T07:28:55.160Z",
-  "lastVerified": "2026-11-13T09:18:49.393Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:47.692Z",
+  "updatedAt": "2026-11-14T07:12:47.692Z"
 }

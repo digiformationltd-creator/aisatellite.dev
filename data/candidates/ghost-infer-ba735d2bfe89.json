@@ -1,0 +1,33 @@
+{
+  "id": "ghost-infer-ba735d2bfe89",
+  "canonicalUrl": "https://github.com/affifuddin-hazam/ghost-infer",
+  "name": "ghost-infer",
+  "description": "Fast local LLM inference for the GPU you already have: one Rust binary, GGUF models, an OpenAI-compatible server and a chat page with a ghost.",
+  "category": "local-llm",
+  "tags": [
+    "cuda",
+    "desktop-app",
+    "gguf",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "mixture-of-experts",
+    "openai-compatible-api",
+    "rust",
+    "windows"
+  ],
+  "repositoryUrl": "https://github.com/affifuddin-hazam/ghost-infer",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/affifuddin-hazam/ghost-infer/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 141,
+  "githubForks": 8,
+  "lastRepositoryUpdate": "2026-11-14T02:08:32Z",
+  "evidenceUrls": [
+    "https://github.com/affifuddin-hazam/ghost-infer"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:47.692Z",
+  "updatedAt": "2026-11-14T07:12:47.692Z"
+}

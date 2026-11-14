@@ -16,9 +16,8 @@
     "https://langfuse.com/",
     "https://langfuse.com"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-13T07:28:53.987Z",
-  "updatedAt": "2026-11-13T07:28:55.618Z",
-  "githubStars": 0,
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-14T07:12:46.656Z",
+  "updatedAt": "2026-11-14T07:12:48.150Z",
+  "githubStars": 0
 }
