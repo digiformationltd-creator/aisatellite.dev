@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ifttt.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.764Z",
-  "updatedAt": "2026-11-15T07:22:53.764Z"
+  "updatedAt": "2026-11-15T07:22:53.764Z",
+  "lastVerified": "2026-11-15T09:03:22.056Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://maza-ad-blocking.andros.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.803Z",
-  "updatedAt": "2026-11-15T07:22:53.803Z"
+  "updatedAt": "2026-11-15T07:22:53.803Z",
+  "lastVerified": "2026-11-15T09:05:48.093Z",
+  "qualityScore": 52
 }

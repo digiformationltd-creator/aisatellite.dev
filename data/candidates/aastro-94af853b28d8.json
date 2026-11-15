@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://voidrunner3074.github.io/aastro-docs"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.809Z",
-  "updatedAt": "2026-11-15T07:22:53.809Z"
+  "updatedAt": "2026-11-15T07:22:53.809Z",
+  "lastVerified": "2026-11-15T08:54:57.547Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,43 @@
+{
+  "id": "godbrain-f05c3b2cb4eb",
+  "canonicalUrl": "https://github.com/usrname1git/GodBrain",
+  "name": "GodBrain",
+  "description": "End goal is something similar to Jarvis from Iron Man.  A complete assistant that can do anything.",
+  "category": "ai-coding",
+  "tags": [
+    "ai",
+    "ai-coding",
+    "ai-model",
+    "cloud-infrastructure",
+    "debloat",
+    "debloat-script",
+    "debloat-windows",
+    "linux",
+    "llm",
+    "llm-inference",
+    "macos",
+    "optimization",
+    "powershell",
+    "pwsh",
+    "rag",
+    "rag-pipeline",
+    "sre-agent",
+    "troubleshooting",
+    "tweak",
+    "windows"
+  ],
+  "repositoryUrl": "https://github.com/usrname1git/GodBrain",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-15T05:44:46Z",
+  "evidenceUrls": [
+    "https://github.com/usrname1git/GodBrain"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:55.355Z",
+  "updatedAt": "2026-11-15T07:22:55.355Z",
+  "lastVerified": "2026-11-15T09:02:23.045Z",
+  "qualityScore": 64
+}

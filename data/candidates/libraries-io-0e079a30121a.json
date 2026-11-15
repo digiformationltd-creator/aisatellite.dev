@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://libraries.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.756Z",
-  "updatedAt": "2026-11-15T07:22:53.756Z"
+  "updatedAt": "2026-11-15T07:22:53.756Z",
+  "lastVerified": "2026-11-15T09:04:47.820Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.fizzy.do/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.755Z",
-  "updatedAt": "2026-11-15T07:22:53.755Z"
+  "updatedAt": "2026-11-15T07:22:53.755Z",
+  "lastVerified": "2026-11-15T09:00:51.955Z",
+  "qualityScore": 52
 }

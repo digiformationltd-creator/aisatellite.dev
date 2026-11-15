@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://incidenthub.cloud/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.760Z",
-  "updatedAt": "2026-11-15T07:22:53.760Z"
+  "updatedAt": "2026-11-15T07:22:53.760Z",
+  "lastVerified": "2026-11-15T09:03:30.748Z",
+  "qualityScore": 52
 }

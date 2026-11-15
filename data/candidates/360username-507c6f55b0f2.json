@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://360username.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.757Z",
-  "updatedAt": "2026-11-15T07:22:53.757Z"
+  "updatedAt": "2026-11-15T07:22:53.757Z",
+  "lastVerified": "2026-11-15T08:54:54.678Z",
+  "qualityScore": 52
 }

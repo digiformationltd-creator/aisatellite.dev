@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://krayincrm.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.803Z",
-  "updatedAt": "2026-11-15T07:22:53.803Z"
+  "updatedAt": "2026-11-15T07:22:53.803Z",
+  "lastVerified": "2026-11-15T09:04:29.389Z",
+  "qualityScore": 52
 }

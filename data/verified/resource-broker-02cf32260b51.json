@@ -1,0 +1,37 @@
+{
+  "id": "resource-broker-02cf32260b51",
+  "canonicalUrl": "https://github.com/preston-bernstein/resource-broker",
+  "name": "resource-broker",
+  "description": "Stop your local LLM from holding the GPU when you start a game. Pauses and resumes Ollama around gaming and Plex transcodes. Works on any GPU, including AMD.",
+  "category": "local-llm",
+  "tags": [
+    "amd-gpu",
+    "golang",
+    "gpu",
+    "homelab",
+    "linux-gaming",
+    "llm-inference",
+    "local-llm",
+    "ollama",
+    "plex",
+    "rocm",
+    "self-hosted",
+    "vram"
+  ],
+  "repositoryUrl": "https://github.com/preston-bernstein/resource-broker",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/preston-bernstein/resource-broker/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-15T05:02:50Z",
+  "evidenceUrls": [
+    "https://github.com/preston-bernstein/resource-broker"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:54.862Z",
+  "updatedAt": "2026-11-15T07:22:54.862Z",
+  "lastVerified": "2026-11-15T09:10:17.084Z",
+  "qualityScore": 78
+}

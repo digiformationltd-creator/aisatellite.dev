@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://deplexo.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.764Z",
-  "updatedAt": "2026-11-15T07:22:53.764Z"
+  "updatedAt": "2026-11-15T07:22:53.764Z",
+  "lastVerified": "2026-11-15T08:58:57.861Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.pexafy.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.754Z",
-  "updatedAt": "2026-11-15T07:22:53.754Z"
+  "updatedAt": "2026-11-15T07:22:53.754Z",
+  "lastVerified": "2026-11-15T09:08:32.456Z",
+  "qualityScore": 52
 }

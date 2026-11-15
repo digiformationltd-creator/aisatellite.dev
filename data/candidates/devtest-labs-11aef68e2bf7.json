@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/services/devtest-lab/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.753Z",
-  "updatedAt": "2026-11-15T07:22:53.753Z"
+  "updatedAt": "2026-11-15T07:22:53.753Z",
+  "lastVerified": "2026-11-15T08:59:03.938Z",
+  "qualityScore": 52
 }

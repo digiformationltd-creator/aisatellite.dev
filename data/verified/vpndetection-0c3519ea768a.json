@@ -1,0 +1,22 @@
+{
+  "id": "vpndetection-0c3519ea768a",
+  "canonicalUrl": "https://vpndetection.io/",
+  "name": "VPNDetection",
+  "description": "VPN, proxy and hosting detection API for any IP address. The free plan answers the VPN, Tor and relay flags, country and ASN, with no API key, signup or monthly cap.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://vpndetection.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://vpndetection.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:53.755Z",
+  "updatedAt": "2026-11-15T07:22:53.755Z",
+  "lastVerified": "2026-11-15T09:15:15.768Z",
+  "qualityScore": 52
+}

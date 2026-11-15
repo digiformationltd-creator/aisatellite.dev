@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://readflow.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.804Z",
-  "updatedAt": "2026-11-15T07:22:53.804Z"
+  "updatedAt": "2026-11-15T07:22:53.804Z",
+  "lastVerified": "2026-11-15T09:09:51.737Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://git.zx2c4.com/cgit/about/"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-15T07:22:53.809Z",
-  "updatedAt": "2026-11-15T07:22:53.809Z"
+  "updatedAt": "2026-11-15T07:22:53.809Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

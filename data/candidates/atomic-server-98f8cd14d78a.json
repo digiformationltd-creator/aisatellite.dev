@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://atomicserver.eu/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.805Z",
-  "updatedAt": "2026-11-15T07:22:53.805Z"
+  "updatedAt": "2026-11-15T07:22:53.805Z",
+  "lastVerified": "2026-11-15T08:56:03.636Z",
+  "qualityScore": 52
 }

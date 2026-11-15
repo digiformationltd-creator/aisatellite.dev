@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.opencloud.eu/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.804Z",
-  "updatedAt": "2026-11-15T07:22:53.804Z"
+  "updatedAt": "2026-11-15T07:22:53.804Z",
+  "lastVerified": "2026-11-15T09:07:37.518Z",
+  "qualityScore": 52
 }

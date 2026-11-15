@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.getupdraft.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.758Z",
-  "updatedAt": "2026-11-15T07:22:53.758Z"
+  "updatedAt": "2026-11-15T07:22:53.758Z",
+  "lastVerified": "2026-11-15T09:02:04.171Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://timetracker.drytrix.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.810Z",
-  "updatedAt": "2026-11-15T07:22:53.810Z"
+  "updatedAt": "2026-11-15T07:22:53.810Z",
+  "lastVerified": "2026-11-15T09:14:06.581Z",
+  "qualityScore": 52
 }

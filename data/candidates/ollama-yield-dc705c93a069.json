@@ -29,7 +29,9 @@
   "evidenceUrls": [
     "https://github.com/preston-bernstein/ollama-yield"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-14T07:12:47.692Z",
-  "updatedAt": "2026-11-14T07:12:47.692Z"
+  "updatedAt": "2026-11-14T07:12:47.692Z",
+  "lastVerified": "2026-11-15T09:07:22.154Z",
+  "qualityScore": 78
 }

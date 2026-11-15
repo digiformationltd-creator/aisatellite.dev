@@ -1,0 +1,22 @@
+{
+  "id": "usercheck-63bf043fbc43",
+  "canonicalUrl": "https://www.usercheck.com/",
+  "name": "UserCheck",
+  "description": "Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.usercheck.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.usercheck.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:53.762Z",
+  "updatedAt": "2026-11-15T07:22:53.762Z",
+  "lastVerified": "2026-11-15T09:14:53.160Z",
+  "qualityScore": 52
+}

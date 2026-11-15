@@ -30,7 +30,9 @@
   "evidenceUrls": [
     "https://github.com/jposluns/secureconfig"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:55.355Z",
-  "updatedAt": "2026-11-15T07:22:55.355Z"
+  "updatedAt": "2026-11-15T07:22:55.355Z",
+  "lastVerified": "2026-11-15T09:11:13.903Z",
+  "qualityScore": 89
 }

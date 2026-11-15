@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pkgscan.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.757Z",
-  "updatedAt": "2026-11-15T07:22:53.757Z"
+  "updatedAt": "2026-11-15T07:22:53.757Z",
+  "lastVerified": "2026-11-15T09:08:50.125Z",
+  "qualityScore": 52
 }

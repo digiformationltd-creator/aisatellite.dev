@@ -1,0 +1,22 @@
+{
+  "id": "beliq-7d978625cedc",
+  "canonicalUrl": "https://beliq.eu/",
+  "name": "Beliq",
+  "description": "European REST API platform for e-invoicing, including generating, validating and delivering e-invoices. The free plan includes 20 live documents/month, plus 400 sandbox documents/month (no card required).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://beliq.eu",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://beliq.eu"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:53.754Z",
+  "updatedAt": "2026-11-15T07:22:53.754Z",
+  "lastVerified": "2026-11-15T08:56:31.948Z",
+  "qualityScore": 52
+}

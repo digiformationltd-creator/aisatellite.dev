@@ -1,0 +1,22 @@
+{
+  "id": "out-plane-e5fe9316cb34",
+  "canonicalUrl": "https://outplane.com/",
+  "name": "Out Plane",
+  "description": "Cloud sandboxes for coding agents (Hangars) plus app hosting in Germany. Free: Hangars, cloud machines where agents like Claude Code, Codex and Cursor run, with no credit card required; the agent uses your own plan or API key. App hosting is paid, from $9/month with a 14-day free trial.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://outplane.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://outplane.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:53.765Z",
+  "updatedAt": "2026-11-15T07:22:53.765Z",
+  "lastVerified": "2026-11-15T09:08:08.687Z",
+  "qualityScore": 52
+}

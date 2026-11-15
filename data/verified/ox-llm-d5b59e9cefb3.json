@@ -1,0 +1,37 @@
+{
+  "id": "ox-llm-d5b59e9cefb3",
+  "canonicalUrl": "https://github.com/oxstack/ox-llm",
+  "name": "ox-llm",
+  "description": "ox-llm (dev preview): local LLM engine (oxe), controller (oxc) and coding agent (oxa) for Snapdragon X laptops. MIT.",
+  "category": "local-llm",
+  "tags": [
+    "aarch64",
+    "arm64",
+    "coding-agent",
+    "linux",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "mixture-of-experts",
+    "openai-api",
+    "rust",
+    "snapdragon",
+    "snapdragon-x"
+  ],
+  "repositoryUrl": "https://github.com/oxstack/ox-llm",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/oxstack/ox-llm/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-15T07:22:44Z",
+  "evidenceUrls": [
+    "https://github.com/oxstack/ox-llm"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:54.862Z",
+  "updatedAt": "2026-11-15T07:22:54.862Z",
+  "lastVerified": "2026-11-15T09:08:14.078Z",
+  "qualityScore": 78
+}

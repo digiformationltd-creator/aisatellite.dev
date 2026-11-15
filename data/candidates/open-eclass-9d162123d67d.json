@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.openeclass.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.805Z",
-  "updatedAt": "2026-11-15T07:22:53.805Z"
+  "updatedAt": "2026-11-15T07:22:53.805Z",
+  "lastVerified": "2026-11-15T09:07:31.309Z",
+  "qualityScore": 52
 }

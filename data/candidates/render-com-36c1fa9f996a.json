@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://render.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.764Z",
-  "updatedAt": "2026-11-15T07:22:53.764Z"
+  "updatedAt": "2026-11-15T07:22:53.764Z",
+  "lastVerified": "2026-11-15T09:10:10.565Z",
+  "qualityScore": 52
 }

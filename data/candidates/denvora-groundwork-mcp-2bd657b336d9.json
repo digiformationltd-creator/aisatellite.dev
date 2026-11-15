@@ -33,7 +33,9 @@
   "evidenceUrls": [
     "https://github.com/ardenpratamamaskuri404/denvora-groundwork-mcp"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-14T07:12:48.147Z",
-  "updatedAt": "2026-11-14T07:12:48.147Z"
+  "updatedAt": "2026-11-14T07:12:48.147Z",
+  "lastVerified": "2026-11-15T08:58:55.969Z",
+  "qualityScore": 89
 }

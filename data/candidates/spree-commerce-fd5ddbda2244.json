@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://spreecommerce.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.803Z",
-  "updatedAt": "2026-11-15T07:22:53.803Z"
+  "updatedAt": "2026-11-15T07:22:53.803Z",
+  "lastVerified": "2026-11-15T09:12:34.348Z",
+  "qualityScore": 52
 }

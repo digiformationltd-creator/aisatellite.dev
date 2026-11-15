@@ -1,0 +1,22 @@
+{
+  "id": "waivercat-0f58443c5e88",
+  "canonicalUrl": "https://waivercat.com/",
+  "name": "WaiverCat",
+  "description": "Electronic Signature platform with a REST API. You can receive notifications with webhooks. Free plan watermarks signed documents but allow unlimited envelopes + signatures.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://waivercat.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://waivercat.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:53.763Z",
+  "updatedAt": "2026-11-15T07:22:53.763Z",
+  "lastVerified": "2026-11-15T09:15:19.896Z",
+  "qualityScore": 52
+}

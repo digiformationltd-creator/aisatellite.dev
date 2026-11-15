@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://rudderstack.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.768Z",
-  "updatedAt": "2026-11-15T07:22:53.768Z"
+  "updatedAt": "2026-11-15T07:22:53.768Z",
+  "lastVerified": "2026-11-15T09:10:39.469Z",
+  "qualityScore": 52
 }

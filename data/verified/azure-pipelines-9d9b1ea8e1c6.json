@@ -2,7 +2,7 @@
   "id": "azure-pipelines-9d9b1ea8e1c6",
   "canonicalUrl": "https://azure.microsoft.com/services/devops/pipelines",
   "name": "Azure Pipelines",
-  "description": "10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows",
+  "description": "1 free job limited to 60 minutes per job, 1800 minutes per month for Linux, macOS, and Windows",
   "category": "free-tools",
   "tags": [
     "free-tools",
@@ -15,8 +15,8 @@
     "https://azure.microsoft.com/services/devops/pipelines/"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-13T07:28:53.896Z",
-  "updatedAt": "2026-11-13T07:28:53.896Z",
-  "lastVerified": "2026-11-13T09:15:01.631Z",
+  "discoveredAt": "2026-11-15T07:22:53.753Z",
+  "updatedAt": "2026-11-15T07:22:53.753Z",
+  "lastVerified": "2026-11-15T08:56:20.628Z",
   "qualityScore": 52
 }

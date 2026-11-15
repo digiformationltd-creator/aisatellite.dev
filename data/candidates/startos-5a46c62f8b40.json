@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://start9.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.809Z",
-  "updatedAt": "2026-11-15T07:22:53.809Z"
+  "updatedAt": "2026-11-15T07:22:53.809Z",
+  "lastVerified": "2026-11-15T09:12:45.363Z",
+  "qualityScore": 52
 }

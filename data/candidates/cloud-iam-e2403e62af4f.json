@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.cloud-iam.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.757Z",
-  "updatedAt": "2026-11-15T07:22:53.757Z"
+  "updatedAt": "2026-11-15T07:22:53.757Z",
+  "lastVerified": "2026-11-15T08:57:42.747Z",
+  "qualityScore": 52
 }

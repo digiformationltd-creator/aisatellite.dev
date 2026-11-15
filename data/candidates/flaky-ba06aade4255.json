@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://flakyapi.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.754Z",
-  "updatedAt": "2026-11-15T07:22:53.754Z"
+  "updatedAt": "2026-11-15T07:22:53.754Z",
+  "lastVerified": "2026-11-15T09:00:53.350Z",
+  "qualityScore": 52
 }

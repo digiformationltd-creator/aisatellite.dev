@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cdox.ca"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.755Z",
-  "updatedAt": "2026-11-15T07:22:53.755Z"
+  "updatedAt": "2026-11-15T07:22:53.755Z",
+  "lastVerified": "2026-11-15T08:57:14.439Z",
+  "qualityScore": 52
 }

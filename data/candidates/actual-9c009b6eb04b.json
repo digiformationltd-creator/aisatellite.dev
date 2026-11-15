@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://actualbudget.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.807Z",
-  "updatedAt": "2026-11-15T07:22:53.807Z"
+  "updatedAt": "2026-11-15T07:22:53.807Z",
+  "lastVerified": "2026-11-15T08:55:08.697Z",
+  "qualityScore": 52
 }

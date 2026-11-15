@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/msgwing/ZeroSMTP"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.762Z",
-  "updatedAt": "2026-11-15T07:22:53.762Z"
+  "updatedAt": "2026-11-15T07:22:53.762Z",
+  "lastVerified": "2026-11-15T09:16:13.884Z",
+  "qualityScore": 55
 }

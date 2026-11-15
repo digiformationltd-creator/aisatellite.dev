@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://revealjs.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.807Z",
-  "updatedAt": "2026-11-15T07:22:53.807Z"
+  "updatedAt": "2026-11-15T07:22:53.807Z",
+  "lastVerified": "2026-11-15T09:10:19.945Z",
+  "qualityScore": 52
 }

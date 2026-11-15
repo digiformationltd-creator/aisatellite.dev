@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.duckdns.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.764Z",
-  "updatedAt": "2026-11-15T07:22:53.764Z"
+  "updatedAt": "2026-11-15T07:22:53.764Z",
+  "lastVerified": "2026-11-15T08:59:46.921Z",
+  "qualityScore": 52
 }

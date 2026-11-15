@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bayang.github.io/jelu-web"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.807Z",
-  "updatedAt": "2026-11-15T07:22:53.807Z"
+  "updatedAt": "2026-11-15T07:22:53.807Z",
+  "lastVerified": "2026-11-15T09:03:58.250Z",
+  "qualityScore": 52
 }

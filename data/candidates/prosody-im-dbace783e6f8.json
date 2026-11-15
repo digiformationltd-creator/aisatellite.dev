@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://prosody.im/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.802Z",
-  "updatedAt": "2026-11-15T07:22:53.802Z"
+  "updatedAt": "2026-11-15T07:22:53.802Z",
+  "lastVerified": "2026-11-15T09:09:22.530Z",
+  "qualityScore": 52
 }

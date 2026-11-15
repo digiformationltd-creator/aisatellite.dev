@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://beste.co"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.766Z",
-  "updatedAt": "2026-11-15T07:22:53.766Z"
+  "updatedAt": "2026-11-15T07:22:53.766Z",
+  "lastVerified": "2026-11-15T08:56:32.581Z",
+  "qualityScore": 52
 }

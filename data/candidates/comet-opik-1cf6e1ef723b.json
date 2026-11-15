@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.comet.com/site/products/opik/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.763Z",
-  "updatedAt": "2026-11-15T07:22:53.763Z"
+  "updatedAt": "2026-11-15T07:22:53.763Z",
+  "lastVerified": "2026-11-15T08:58:01.845Z",
+  "qualityScore": 52
 }

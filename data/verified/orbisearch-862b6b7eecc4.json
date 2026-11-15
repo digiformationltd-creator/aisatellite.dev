@@ -1,0 +1,22 @@
+{
+  "id": "orbisearch-862b6b7eecc4",
+  "canonicalUrl": "https://orbisearch.com/",
+  "name": "Orbisearch",
+  "description": "Free bulk email validator, 100 validations per day, no signup required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://orbisearch.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://orbisearch.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:53.762Z",
+  "updatedAt": "2026-11-15T07:22:53.762Z",
+  "lastVerified": "2026-11-15T09:07:57.690Z",
+  "qualityScore": 52
+}

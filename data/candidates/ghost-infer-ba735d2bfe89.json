@@ -27,7 +27,9 @@
   "evidenceUrls": [
     "https://github.com/affifuddin-hazam/ghost-infer"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-14T07:12:47.692Z",
-  "updatedAt": "2026-11-14T07:12:47.692Z"
+  "updatedAt": "2026-11-14T07:12:47.692Z",
+  "lastVerified": "2026-11-15T09:02:06.461Z",
+  "qualityScore": 81
 }

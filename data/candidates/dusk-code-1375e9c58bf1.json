@@ -26,7 +26,9 @@
   "evidenceUrls": [
     "https://github.com/DroBov1Tya/dusk_code"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-14T07:12:48.147Z",
-  "updatedAt": "2026-11-14T07:12:48.147Z"
+  "updatedAt": "2026-11-14T07:12:48.147Z",
+  "lastVerified": "2026-11-15T08:59:47.807Z",
+  "qualityScore": 78
 }

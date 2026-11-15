@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://typebot.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.801Z",
-  "updatedAt": "2026-11-15T07:22:53.801Z"
+  "updatedAt": "2026-11-15T07:22:53.801Z",
+  "lastVerified": "2026-11-15T09:14:41.029Z",
+  "qualityScore": 52
 }

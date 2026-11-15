@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.kamailio.org/w/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.802Z",
-  "updatedAt": "2026-11-15T07:22:53.802Z"
+  "updatedAt": "2026-11-15T07:22:53.802Z",
+  "lastVerified": "2026-11-15T09:04:11.777Z",
+  "qualityScore": 52
 }

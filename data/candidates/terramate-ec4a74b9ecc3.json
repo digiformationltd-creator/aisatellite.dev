@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://terramate.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-15T07:22:53.756Z",
-  "updatedAt": "2026-11-15T07:22:53.756Z"
+  "updatedAt": "2026-11-15T07:22:53.756Z",
+  "lastVerified": "2026-11-15T09:13:46.240Z",
+  "qualityScore": 52
 }

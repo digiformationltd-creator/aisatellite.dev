@@ -1,0 +1,22 @@
+{
+  "id": "backforms-89ba75adfac5",
+  "canonicalUrl": "https://backforms.com/",
+  "name": "Backforms",
+  "description": "Multi-channel headless form backend offering 300 submissions per month, spam protection, and instant alerts via WhatsApp (BYOK), Telegram, Discord, and email on the free plan.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://backforms.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://backforms.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-15T07:22:53.763Z",
+  "updatedAt": "2026-11-15T07:22:53.763Z",
+  "lastVerified": "2026-11-15T08:56:24.176Z",
+  "qualityScore": 52
+}
