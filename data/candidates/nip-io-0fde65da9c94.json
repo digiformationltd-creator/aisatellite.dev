@@ -1,0 +1,20 @@
+{
+  "id": "nip-io-0fde65da9c94",
+  "canonicalUrl": "https://nip.io/",
+  "name": "nip.io",
+  "description": "Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://nip.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nip.io/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-15T07:22:53.764Z",
+  "updatedAt": "2026-11-15T07:22:53.764Z"
+}

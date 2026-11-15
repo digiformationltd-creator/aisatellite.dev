@@ -1,0 +1,20 @@
+{
+  "id": "stategraph-b179d52287f3",
+  "canonicalUrl": "https://stategraph.com/",
+  "name": "Stategraph",
+  "description": "GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://stategraph.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://stategraph.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-15T07:22:53.756Z",
+  "updatedAt": "2026-11-15T07:22:53.756Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "alias-email-cfec53670654",
+  "canonicalUrl": "https://alias.email/",
+  "name": "Alias Email",
+  "description": "Free 10 Bump email addresses, one custom domain",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://alias.email",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://alias.email"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-15T07:22:53.761Z",
+  "updatedAt": "2026-11-15T07:22:53.761Z"
+}
