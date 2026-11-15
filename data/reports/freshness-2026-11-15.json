@@ -1,0 +1,114 @@
+{
+  "checkedAt": "2026-11-15T23:42:23.890Z",
+  "totalMonitored": 2637,
+  "healthyCount": 2616,
+  "brokenLinkCount": 20,
+  "staleCount": 1,
+  "flaggedItems": [
+    {
+      "id": "active-directory-4232def6ab92",
+      "url": "https://azure.microsoft.com/services/active-directory",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "active-directory-b2c-b62ee520ec9d",
+      "url": "https://azure.microsoft.com/services/active-directory/external-identities/b2c",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "admidio-94431c911d21",
+      "url": "https://www.admidio.org/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "cacoo-com-8849dfd1a7de",
+      "url": "https://cacoo.com/",
+      "issue": "Broken or unreachable URL: HTTP 503"
+    },
+    {
+      "id": "compare-json-ec05d16935d1",
+      "url": "https://comparejson.com/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "financial-data-dfefd0ee5044",
+      "url": "https://financialdata.net/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "focus-flow-57df9ae96cda",
+      "url": "https://github.com/francesco-gaglione/focus_flow_cloud",
+      "issue": "Broken or unreachable URL: HTTP 404"
+    },
+    {
+      "id": "freetools-site-2ca7ad704cf3",
+      "url": "https://freetools.site/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "invantive-cloud-e2aed19fcee0",
+      "url": "https://cloud.invantive.com/",
+      "issue": "Broken or unreachable URL: HTTP 451"
+    },
+    {
+      "id": "isitdownstatus-com-9e6c3e06d70b",
+      "url": "https://isitdownstatus.com/",
+      "issue": "Broken or unreachable URL: HTTP 429"
+    },
+    {
+      "id": "localcert-0b663de0a943",
+      "url": "https://localcert.net/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "memex-20e801eb3098",
+      "url": "https://memex-app.shibao.dev/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "nirvati-0efbab6d6a0f",
+      "url": "https://nirvati.org/",
+      "issue": "Broken or unreachable URL: HTTP 502"
+    },
+    {
+      "id": "quassel-irc-d47c76b95d4a",
+      "url": "https://quassel-irc.org/",
+      "issue": "Broken or unreachable URL: fetch failed"
+    },
+    {
+      "id": "quidlo-timesheets-f6346011eaa0",
+      "url": "https://www.quidlo.com/timesheets",
+      "issue": "Broken or unreachable URL: HTTP 404"
+    },
+    {
+      "id": "sikkerkey-f19f383fed5d",
+      "url": "https://sikkerkey.com/",
+      "issue": "Broken or unreachable URL: HTTP 502"
+    },
+    {
+      "id": "test-stale-tool",
+      "url": "https://aisatellite.pages.dev",
+      "issue": "Verification is older than 90 days (Last verified: 2026-07-24). Enters re-verification queue."
+    },
+    {
+      "id": "test-stale-tool",
+      "url": "https://aisatellite.pages.dev",
+      "issue": "Broken or unreachable URL: fetch failed"
+    },
+    {
+      "id": "tool-idempotency-test",
+      "url": "https://github.com/org/test-tool",
+      "issue": "Broken or unreachable URL: HTTP 404"
+    },
+    {
+      "id": "vibe-pilot-d222ab3f20ef",
+      "url": "https://github.com/Gatsuke/vibe-pilot",
+      "issue": "Broken or unreachable URL: HTTP 404"
+    },
+    {
+      "id": "wikifactory-90d16ab255b7",
+      "url": "https://wikifactory.com/",
+      "issue": "Broken or unreachable URL: HTTP 500"
+    }
+  ]
+}

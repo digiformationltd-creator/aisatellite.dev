@@ -1,0 +1,30 @@
+[2026-11-15T23:21:40.214Z] [INFO] [Script:MonitorFreshness] Starting Content Freshness & Link Health Audit...
+[2026-11-15T23:21:40.215Z] [INFO] [FreshnessMonitor] Starting freshness and link integrity audit
+[2026-11-15T23:42:23.890Z] [INFO] [FreshnessMonitor] Audit complete. Monitored: 2637, Broken: 20, Stale: 1
+[2026-11-15T23:42:23.891Z] [INFO] [Script:MonitorFreshness] Audit Summary:
+[2026-11-15T23:42:23.891Z] [INFO] [Script:MonitorFreshness] - Total Resources Monitored: 2637
+[2026-11-15T23:42:23.891Z] [INFO] [Script:MonitorFreshness] - Healthy Resources: 2616
+[2026-11-15T23:42:23.891Z] [INFO] [Script:MonitorFreshness] - Stale (>90 days): 1
+[2026-11-15T23:42:23.891Z] [INFO] [Script:MonitorFreshness] - Broken URLs: 20
+[2026-11-15T23:42:23.891Z] [WARN] [Script:MonitorFreshness] Flagged Items requiring attention:
+[2026-11-15T23:42:23.891Z] [WARN] [Script:MonitorFreshness]   * [active-directory-4232def6ab92] https://azure.microsoft.com/services/active-directory - Broken or unreachable URL: Timeout
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [active-directory-b2c-b62ee520ec9d] https://azure.microsoft.com/services/active-directory/external-identities/b2c - Broken or unreachable URL: Timeout
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [admidio-94431c911d21] https://www.admidio.org/ - Broken or unreachable URL: HTTP 403
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [cacoo-com-8849dfd1a7de] https://cacoo.com/ - Broken or unreachable URL: HTTP 503
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [compare-json-ec05d16935d1] https://comparejson.com/ - Broken or unreachable URL: Timeout
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [financial-data-dfefd0ee5044] https://financialdata.net/ - Broken or unreachable URL: HTTP 403
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [focus-flow-57df9ae96cda] https://github.com/francesco-gaglione/focus_flow_cloud - Broken or unreachable URL: HTTP 404
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [freetools-site-2ca7ad704cf3] https://freetools.site/ - Broken or unreachable URL: HTTP 403
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [invantive-cloud-e2aed19fcee0] https://cloud.invantive.com/ - Broken or unreachable URL: HTTP 451
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [isitdownstatus-com-9e6c3e06d70b] https://isitdownstatus.com/ - Broken or unreachable URL: HTTP 429
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [localcert-0b663de0a943] https://localcert.net/ - Broken or unreachable URL: Timeout
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [memex-20e801eb3098] https://memex-app.shibao.dev/ - Broken or unreachable URL: HTTP 403
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [nirvati-0efbab6d6a0f] https://nirvati.org/ - Broken or unreachable URL: HTTP 502
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [quassel-irc-d47c76b95d4a] https://quassel-irc.org/ - Broken or unreachable URL: fetch failed
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [quidlo-timesheets-f6346011eaa0] https://www.quidlo.com/timesheets - Broken or unreachable URL: HTTP 404
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [sikkerkey-f19f383fed5d] https://sikkerkey.com/ - Broken or unreachable URL: HTTP 502
+[2026-11-15T23:42:23.892Z] [WARN] [Script:MonitorFreshness]   * [test-stale-tool] https://aisatellite.pages.dev - Verification is older than 90 days (Last verified: 2026-07-24). Enters re-verification queue.
+[2026-11-15T23:42:23.893Z] [WARN] [Script:MonitorFreshness]   * [test-stale-tool] https://aisatellite.pages.dev - Broken or unreachable URL: fetch failed
+[2026-11-15T23:42:23.893Z] [WARN] [Script:MonitorFreshness]   * [tool-idempotency-test] https://github.com/org/test-tool - Broken or unreachable URL: HTTP 404
+[2026-11-15T23:42:23.893Z] [WARN] [Script:MonitorFreshness]   * [vibe-pilot-d222ab3f20ef] https://github.com/Gatsuke/vibe-pilot - Broken or unreachable URL: HTTP 404
+[2026-11-15T23:42:23.893Z] [WARN] [Script:MonitorFreshness]   * [wikifactory-90d16ab255b7] https://wikifactory.com/ - Broken or unreachable URL: HTTP 500
