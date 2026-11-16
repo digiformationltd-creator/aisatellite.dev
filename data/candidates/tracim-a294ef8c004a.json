@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/tracim/tracim"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:53.805Z",
-  "updatedAt": "2026-11-15T07:22:53.805Z",
-  "lastVerified": "2026-11-15T09:14:18.953Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.782Z",
+  "updatedAt": "2026-11-16T07:28:40.782Z"
 }

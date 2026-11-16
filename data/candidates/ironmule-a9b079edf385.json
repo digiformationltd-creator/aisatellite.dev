@@ -35,13 +35,11 @@
   "freeTierLimitations": [],
   "githubStars": 2,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-15T05:54:26Z",
+  "lastRepositoryUpdate": "2026-11-16T06:28:03Z",
   "evidenceUrls": [
     "https://github.com/Tobayko/IronMule"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:54.862Z",
-  "updatedAt": "2026-11-15T07:22:54.862Z",
-  "lastVerified": "2026-11-15T09:03:51.413Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:42.161Z",
+  "updatedAt": "2026-11-16T07:28:42.161Z"
 }

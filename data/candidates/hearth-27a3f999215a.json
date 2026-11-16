@@ -24,13 +24,11 @@
   "freeTierLimitations": [],
   "githubStars": 3,
   "githubForks": 1,
-  "lastRepositoryUpdate": "2026-11-10T05:08:52Z",
+  "lastRepositoryUpdate": "2026-11-16T02:52:40Z",
   "evidenceUrls": [
     "https://github.com/Vcvzgbzz/hearth"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-10T07:54:21.545Z",
-  "updatedAt": "2026-11-10T07:54:21.545Z",
-  "lastVerified": "2026-11-15T09:02:47.608Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:42.161Z",
+  "updatedAt": "2026-11-16T07:28:42.161Z"
 }

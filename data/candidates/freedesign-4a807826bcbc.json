@@ -23,15 +23,13 @@
   "licenseEvidenceUrl": "https://github.com/AIPMAndy/FreeDesign/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 65,
+  "githubStars": 66,
   "githubForks": 5,
   "lastRepositoryUpdate": "2026-11-14T16:17:26Z",
   "evidenceUrls": [
     "https://github.com/AIPMAndy/FreeDesign"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:54.353Z",
-  "updatedAt": "2026-11-15T07:22:54.353Z",
-  "lastVerified": "2026-11-15T09:01:26.105Z",
-  "qualityScore": 91
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:41.643Z",
+  "updatedAt": "2026-11-16T07:28:41.643Z"
 }

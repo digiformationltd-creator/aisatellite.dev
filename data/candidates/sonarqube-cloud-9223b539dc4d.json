@@ -1,0 +1,20 @@
+{
+  "id": "sonarqube-cloud-9223b539dc4d",
+  "canonicalUrl": "https://sonarsouce.com/",
+  "name": "SonarQube Cloud",
+  "description": "Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sonarsouce.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sonarsouce.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.702Z",
+  "updatedAt": "2026-11-16T07:28:40.702Z"
+}

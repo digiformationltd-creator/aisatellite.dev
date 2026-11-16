@@ -1,0 +1,20 @@
+{
+  "id": "canva-c856050eb4cf",
+  "canonicalUrl": "https://www.canva.com/mockups",
+  "name": "Canva",
+  "description": "Create product mockups, 200 free mockups.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.canva.com/mockups/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.canva.com/mockups/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.709Z",
+  "updatedAt": "2026-11-16T07:28:40.709Z"
+}

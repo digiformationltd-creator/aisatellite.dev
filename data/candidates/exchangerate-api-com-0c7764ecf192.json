@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.exchangerate-api.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:53.768Z",
-  "updatedAt": "2026-11-15T07:22:53.768Z",
-  "lastVerified": "2026-11-15T09:00:32.133Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.710Z",
+  "updatedAt": "2026-11-16T07:28:40.710Z"
 }

@@ -1,0 +1,20 @@
+{
+  "id": "we-team-6daabfb242ac",
+  "canonicalUrl": "https://www.we.team/en",
+  "name": "We.Team",
+  "description": "Encrypt, share, copy, and move all your cloud storage files from one place. The basic plan provides unlimited file transfer with 250 MB max. file size and allows five encrypted files",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.we.team/en",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.we.team/en"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.709Z",
+  "updatedAt": "2026-11-16T07:28:40.709Z"
+}

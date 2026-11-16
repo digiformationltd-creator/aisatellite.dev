@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://jsoning.com/api/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:53.754Z",
-  "updatedAt": "2026-11-15T07:22:53.754Z",
-  "lastVerified": "2026-11-15T09:04:05.741Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.700Z",
+  "updatedAt": "2026-11-16T07:28:40.700Z"
 }

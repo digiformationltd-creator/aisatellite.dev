@@ -15,10 +15,8 @@
     "https://www.moesif.com",
     "https://www.moesif.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:53.768Z",
-  "updatedAt": "2026-11-15T07:22:55.357Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-15T09:06:22.497Z",
-  "qualityScore": 57
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.710Z",
+  "updatedAt": "2026-11-16T07:28:42.612Z",
+  "githubStars": 0
 }

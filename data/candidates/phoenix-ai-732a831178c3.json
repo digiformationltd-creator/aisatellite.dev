@@ -1,0 +1,37 @@
+{
+  "id": "phoenix-ai-732a831178c3",
+  "canonicalUrl": "https://github.com/MirakSalama/Phoenix-AI",
+  "name": "Phoenix-AI",
+  "description": "Local AI that puts every chip to work. Windows NPU chat and voice for first-generation AMD XDNA 1 on Ryzen AI Phoenix and Hawk Point.",
+  "category": "local-llm",
+  "tags": [
+    "amd-ryzen-ai",
+    "amd-xdna",
+    "heterogeneous-computing",
+    "kokoro-tts",
+    "llm-inference",
+    "local-ai",
+    "local-llm",
+    "mlir-aie",
+    "npu",
+    "npu-chat",
+    "on-device-ai",
+    "parakeet",
+    "ryzen-ai",
+    "windows",
+    "winui3",
+    "xdna1"
+  ],
+  "repositoryUrl": "https://github.com/MirakSalama/Phoenix-AI",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-16T03:11:45Z",
+  "evidenceUrls": [
+    "https://github.com/MirakSalama/Phoenix-AI"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:42.161Z",
+  "updatedAt": "2026-11-16T07:28:42.161Z"
+}

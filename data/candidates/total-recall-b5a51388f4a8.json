@@ -22,13 +22,11 @@
   "freeTierLimitations": [],
   "githubStars": 15,
   "githubForks": 5,
-  "lastRepositoryUpdate": "2026-11-14T05:28:31Z",
+  "lastRepositoryUpdate": "2026-11-16T04:02:34Z",
   "evidenceUrls": [
     "https://github.com/strvmarv/total-recall"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-14T07:12:48.147Z",
-  "updatedAt": "2026-11-14T07:12:48.147Z",
-  "lastVerified": "2026-11-15T09:14:16.773Z",
-  "qualityScore": 80
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:42.610Z",
+  "updatedAt": "2026-11-16T07:28:42.610Z"
 }

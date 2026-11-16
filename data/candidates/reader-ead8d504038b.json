@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/lemon24/reader"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:53.804Z",
-  "updatedAt": "2026-11-15T07:22:53.804Z",
-  "lastVerified": "2026-11-15T09:09:51.235Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.781Z",
+  "updatedAt": "2026-11-16T07:28:40.781Z"
 }

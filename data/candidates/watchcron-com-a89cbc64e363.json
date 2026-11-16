@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://watchcron.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:53.760Z",
-  "updatedAt": "2026-11-15T07:22:53.760Z",
-  "lastVerified": "2026-11-15T09:15:25.153Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.705Z",
+  "updatedAt": "2026-11-16T07:28:40.705Z"
 }

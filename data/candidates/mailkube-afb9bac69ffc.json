@@ -1,0 +1,20 @@
+{
+  "id": "mailkube-afb9bac69ffc",
+  "canonicalUrl": "https://mailkube.com/",
+  "name": "Mailkube",
+  "description": "Email infrastructure for developers, 4,000 emails/month free, unlimited domains included",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://mailkube.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://mailkube.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.706Z",
+  "updatedAt": "2026-11-16T07:28:40.706Z"
+}

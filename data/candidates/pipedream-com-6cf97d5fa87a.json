@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://pipedream.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:53.764Z",
-  "updatedAt": "2026-11-15T07:22:53.764Z",
-  "lastVerified": "2026-11-15T09:08:47.822Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.707Z",
+  "updatedAt": "2026-11-16T07:28:40.707Z"
 }

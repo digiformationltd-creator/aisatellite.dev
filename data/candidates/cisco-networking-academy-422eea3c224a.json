@@ -1,0 +1,20 @@
+{
+  "id": "cisco-networking-academy-422eea3c224a",
+  "canonicalUrl": "https://netacad.com/",
+  "name": "Cisco Networking Academy",
+  "description": "Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://netacad.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://netacad.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-16T07:28:40.705Z",
+  "updatedAt": "2026-11-16T07:28:40.705Z"
+}
