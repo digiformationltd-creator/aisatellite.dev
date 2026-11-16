@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-phoenix-ai-732a831178c3-guide",
+  "title": "How to Deploy Phoenix-AI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-phoenix-ai-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Phoenix-AI.",
+  "targetKeywords": [
+    "Phoenix-AI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/MirakSalama/Phoenix-AI"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting Phoenix-AI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-16T12:29:31.952Z"
+}

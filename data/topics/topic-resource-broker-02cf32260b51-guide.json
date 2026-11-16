@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-resource-broker-02cf32260b51-guide",
+  "title": "How to Deploy resource-broker in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-resource-broker-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for resource-broker.",
+  "targetKeywords": [
+    "resource-broker",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/preston-bernstein/resource-broker"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting resource-broker with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-16T12:29:31.952Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ghost-infer-ba735d2bfe89-guide",
+  "title": "How to Deploy ghost-infer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ghost-infer-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ghost-infer.",
+  "targetKeywords": [
+    "ghost-infer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/affifuddin-hazam/ghost-infer"
+  ],
+  "priorityScore": 91,
+  "contentGapRationale": "High developer demand for self-hosting ghost-infer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-16T12:29:31.950Z"
+}

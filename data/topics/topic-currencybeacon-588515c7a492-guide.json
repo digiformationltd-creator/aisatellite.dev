@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-currencybeacon-588515c7a492-guide",
+  "title": "How to Deploy CurrencyBeacon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-currencybeacon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CurrencyBeacon.",
+  "targetKeywords": [
+    "CurrencyBeacon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://currencyscoop.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CurrencyBeacon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-16T12:29:31.948Z"
+}

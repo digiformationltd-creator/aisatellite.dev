@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localdeploy-09c92728e8de-guide",
+  "title": "How to Deploy LocalDeploy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localdeploy-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LocalDeploy.",
+  "targetKeywords": [
+    "LocalDeploy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/oney-erge/LocalDeploy"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting LocalDeploy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-16T12:29:31.951Z"
+}
