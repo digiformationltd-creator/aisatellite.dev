@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://akkoma.social/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.781Z",
-  "updatedAt": "2026-11-16T07:28:40.781Z"
+  "updatedAt": "2026-11-16T07:28:40.781Z",
+  "lastVerified": "2026-11-16T09:08:01.324Z",
+  "qualityScore": 52
 }

@@ -6,6 +6,7 @@
   "category": "free-tools",
   "tags": [
     "free-tools",
+    "free-for-dev",
     "awesome-selfhosted"
   ],
   "officialUrl": "https://stoat.chat/",
@@ -15,8 +16,9 @@
     "https://stoat.chat/"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:53.801Z",
-  "updatedAt": "2026-11-15T07:22:53.801Z",
-  "lastVerified": "2026-11-15T09:12:51.486Z",
+  "discoveredAt": "2026-11-16T07:28:40.780Z",
+  "updatedAt": "2026-11-16T07:28:42.612Z",
+  "githubStars": 0,
+  "lastVerified": "2026-11-16T09:26:33.138Z",
   "qualityScore": 52
 }

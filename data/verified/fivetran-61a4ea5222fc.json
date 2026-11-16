@@ -1,0 +1,22 @@
+{
+  "id": "fivetran-61a4ea5222fc",
+  "canonicalUrl": "https://www.getcensus.com/",
+  "name": "FiveTran",
+  "description": "Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.getcensus.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.getcensus.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-16T07:28:40.710Z",
+  "updatedAt": "2026-11-16T07:28:40.710Z",
+  "lastVerified": "2026-11-16T09:13:59.051Z",
+  "qualityScore": 52
+}

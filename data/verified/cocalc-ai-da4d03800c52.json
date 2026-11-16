@@ -1,0 +1,22 @@
+{
+  "id": "cocalc-ai-da4d03800c52",
+  "canonicalUrl": "https://cocalc.ai/",
+  "name": "cocalc.ai",
+  "description": "Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cocalc.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cocalc.ai/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-16T07:28:40.710Z",
+  "updatedAt": "2026-11-16T07:28:40.710Z",
+  "lastVerified": "2026-11-16T09:10:39.928Z",
+  "qualityScore": 52
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cloudcertprep.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.705Z",
-  "updatedAt": "2026-11-16T07:28:40.705Z"
+  "updatedAt": "2026-11-16T07:28:40.705Z",
+  "lastVerified": "2026-11-16T09:10:33.397Z",
+  "qualityScore": 52
 }

@@ -16,8 +16,10 @@
     "https://novu.co",
     "https://novu.co/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.780Z",
   "updatedAt": "2026-11-16T07:28:42.612Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-16T09:20:40.949Z",
+  "qualityScore": 57
 }

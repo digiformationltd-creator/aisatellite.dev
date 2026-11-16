@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://linear.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.708Z",
-  "updatedAt": "2026-11-16T07:28:40.708Z"
+  "updatedAt": "2026-11-16T07:28:40.708Z",
+  "lastVerified": "2026-11-16T09:18:21.401Z",
+  "qualityScore": 52
 }

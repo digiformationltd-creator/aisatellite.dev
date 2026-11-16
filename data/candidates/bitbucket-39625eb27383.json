@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bitbucket.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.699Z",
-  "updatedAt": "2026-11-16T07:28:40.699Z"
+  "updatedAt": "2026-11-16T07:28:40.699Z",
+  "lastVerified": "2026-11-16T09:09:26.412Z",
+  "qualityScore": 52
 }

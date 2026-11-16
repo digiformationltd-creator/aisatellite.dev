@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/pietheinstrengholt/rssmonster"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.781Z",
-  "updatedAt": "2026-11-16T07:28:40.781Z"
+  "updatedAt": "2026-11-16T07:28:40.781Z",
+  "lastVerified": "2026-11-16T09:24:11.157Z",
+  "qualityScore": 55
 }

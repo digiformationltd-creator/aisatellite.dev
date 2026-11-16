@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/cshum/imagor"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.784Z",
-  "updatedAt": "2026-11-16T07:28:40.784Z"
+  "updatedAt": "2026-11-16T07:28:40.784Z",
+  "lastVerified": "2026-11-16T09:16:41.093Z",
+  "qualityScore": 55
 }

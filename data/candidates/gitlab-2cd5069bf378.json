@@ -16,8 +16,10 @@
     "https://about.gitlab.com/",
     "https://about.gitlab.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.785Z",
   "updatedAt": "2026-11-16T07:28:42.613Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-16T09:15:18.271Z",
+  "qualityScore": 57
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ratelog.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.782Z",
-  "updatedAt": "2026-11-16T07:28:40.782Z"
+  "updatedAt": "2026-11-16T07:28:40.782Z",
+  "lastVerified": "2026-11-16T09:23:29.070Z",
+  "qualityScore": 52
 }

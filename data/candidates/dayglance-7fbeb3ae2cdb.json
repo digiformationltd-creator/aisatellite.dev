@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dayglance.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.785Z",
-  "updatedAt": "2026-11-16T07:28:40.785Z"
+  "updatedAt": "2026-11-16T07:28:40.785Z",
+  "lastVerified": "2026-11-16T09:11:43.438Z",
+  "qualityScore": 52
 }

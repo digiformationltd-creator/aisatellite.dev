@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://anythingllm.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.782Z",
-  "updatedAt": "2026-11-16T07:28:40.782Z"
+  "updatedAt": "2026-11-16T07:28:40.782Z",
+  "lastVerified": "2026-11-16T09:08:31.285Z",
+  "qualityScore": 52
 }

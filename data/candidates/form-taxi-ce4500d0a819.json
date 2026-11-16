@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://form.taxi/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.707Z",
-  "updatedAt": "2026-11-16T07:28:40.707Z"
+  "updatedAt": "2026-11-16T07:28:40.707Z",
+  "lastVerified": "2026-11-16T09:14:20.128Z",
+  "qualityScore": 52
 }

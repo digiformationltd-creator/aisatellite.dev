@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://svdc1.github.io/mirumoji/docs"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.783Z",
-  "updatedAt": "2026-11-16T07:28:40.783Z"
+  "updatedAt": "2026-11-16T07:28:40.783Z",
+  "lastVerified": "2026-11-16T09:19:52.725Z",
+  "qualityScore": 52
 }

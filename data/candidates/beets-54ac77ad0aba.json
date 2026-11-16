@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://beets.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.783Z",
-  "updatedAt": "2026-11-16T07:28:40.783Z"
+  "updatedAt": "2026-11-16T07:28:40.783Z",
+  "lastVerified": "2026-11-16T09:09:16.871Z",
+  "qualityScore": 52
 }

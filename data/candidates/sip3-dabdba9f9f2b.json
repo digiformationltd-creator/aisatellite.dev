@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sip3.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.780Z",
-  "updatedAt": "2026-11-16T07:28:40.780Z"
+  "updatedAt": "2026-11-16T07:28:40.780Z",
+  "lastVerified": "2026-11-16T09:25:30.023Z",
+  "qualityScore": 52
 }

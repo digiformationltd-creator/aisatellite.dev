@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pika.style/templates/code-image"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.711Z",
-  "updatedAt": "2026-11-16T07:28:40.711Z"
+  "updatedAt": "2026-11-16T07:28:40.711Z",
+  "lastVerified": "2026-11-16T09:22:20.991Z",
+  "qualityScore": 52
 }

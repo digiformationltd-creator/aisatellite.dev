@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://reviewable.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.702Z",
-  "updatedAt": "2026-11-16T07:28:40.702Z"
+  "updatedAt": "2026-11-16T07:28:40.702Z",
+  "lastVerified": "2026-11-16T09:23:58.012Z",
+  "qualityScore": 52
 }

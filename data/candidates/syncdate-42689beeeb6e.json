@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://syncdate.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.711Z",
-  "updatedAt": "2026-11-16T07:28:40.711Z"
+  "updatedAt": "2026-11-16T07:28:40.711Z",
+  "lastVerified": "2026-11-16T09:27:18.525Z",
+  "qualityScore": 52
 }

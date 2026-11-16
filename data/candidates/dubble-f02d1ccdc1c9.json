@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dubble.so/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.701Z",
-  "updatedAt": "2026-11-16T07:28:40.701Z"
+  "updatedAt": "2026-11-16T07:28:40.701Z",
+  "lastVerified": "2026-11-16T09:12:51.285Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://domaincanary.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.706Z",
-  "updatedAt": "2026-11-16T07:28:40.706Z"
+  "updatedAt": "2026-11-16T07:28:40.706Z",
+  "lastVerified": "2026-11-16T09:12:36.865Z",
+  "qualityScore": 52
 }

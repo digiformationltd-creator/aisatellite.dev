@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "http://nyanko.ws/nymphcast.php"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.783Z",
-  "updatedAt": "2026-11-16T07:28:40.783Z"
+  "updatedAt": "2026-11-16T07:28:40.783Z",
+  "lastVerified": "2026-11-16T09:20:52.144Z",
+  "qualityScore": 52
 }

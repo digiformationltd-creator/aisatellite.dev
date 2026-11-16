@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://reducto.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.700Z",
-  "updatedAt": "2026-11-16T07:28:40.700Z"
+  "updatedAt": "2026-11-16T07:28:40.700Z",
+  "lastVerified": "2026-11-16T09:23:41.082Z",
+  "qualityScore": 52
 }

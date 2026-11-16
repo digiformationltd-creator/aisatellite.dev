@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://geolocated.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.700Z",
-  "updatedAt": "2026-11-16T07:28:40.700Z"
+  "updatedAt": "2026-11-16T07:28:40.700Z",
+  "lastVerified": "2026-11-16T09:15:03.955Z",
+  "qualityScore": 52
 }

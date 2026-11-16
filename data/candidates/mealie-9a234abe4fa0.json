@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://nightly.mealie.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.784Z",
-  "updatedAt": "2026-11-16T07:28:40.784Z"
+  "updatedAt": "2026-11-16T07:28:40.784Z",
+  "lastVerified": "2026-11-16T09:19:27.333Z",
+  "qualityScore": 52
 }

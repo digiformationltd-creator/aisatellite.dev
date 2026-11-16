@@ -1,0 +1,22 @@
+{
+  "id": "hexclave-c78a176f5fe3",
+  "canonicalUrl": "https://stack-auth.com/",
+  "name": "Hexclave",
+  "description": "Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://stack-auth.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://stack-auth.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-16T07:28:40.704Z",
+  "updatedAt": "2026-11-16T07:28:40.704Z",
+  "lastVerified": "2026-11-16T09:16:05.649Z",
+  "qualityScore": 52
+}

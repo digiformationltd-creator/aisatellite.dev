@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/mcarbonne/minimal-git-server"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.785Z",
-  "updatedAt": "2026-11-16T07:28:40.785Z"
+  "updatedAt": "2026-11-16T07:28:40.785Z",
+  "lastVerified": "2026-11-16T09:19:46.875Z",
+  "qualityScore": 55
 }

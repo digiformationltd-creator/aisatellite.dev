@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://seline.so"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.710Z",
-  "updatedAt": "2026-11-16T07:28:40.710Z"
+  "updatedAt": "2026-11-16T07:28:40.710Z",
+  "lastVerified": "2026-11-16T09:24:54.616Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mockerito.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.700Z",
-  "updatedAt": "2026-11-16T07:28:40.700Z"
+  "updatedAt": "2026-11-16T07:28:40.700Z",
+  "lastVerified": "2026-11-16T09:19:58.601Z",
+  "qualityScore": 52
 }

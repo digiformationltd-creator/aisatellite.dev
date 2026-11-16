@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://acp-admin.ch/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.781Z",
-  "updatedAt": "2026-11-16T07:28:40.781Z"
+  "updatedAt": "2026-11-16T07:28:40.781Z",
+  "lastVerified": "2026-11-16T09:07:46.589Z",
+  "qualityScore": 52
 }

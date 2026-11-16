@@ -1,0 +1,22 @@
+{
+  "id": "row-zero-d41da69e86ff",
+  "canonicalUrl": "https://rowzero.com/",
+  "name": "Row Zero",
+  "description": "Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. Three free (forever) workbooks.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://rowzero.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rowzero.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-16T07:28:40.710Z",
+  "updatedAt": "2026-11-16T07:28:40.710Z",
+  "lastVerified": "2026-11-16T09:24:08.120Z",
+  "qualityScore": 52
+}

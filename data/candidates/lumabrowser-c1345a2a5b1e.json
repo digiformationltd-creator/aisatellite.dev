@@ -37,7 +37,9 @@
   "evidenceUrls": [
     "https://github.com/amurgola/LumaBrowser"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:42.161Z",
-  "updatedAt": "2026-11-16T07:28:42.161Z"
+  "updatedAt": "2026-11-16T07:28:42.161Z",
+  "lastVerified": "2026-11-16T09:19:00.036Z",
+  "qualityScore": 78
 }
