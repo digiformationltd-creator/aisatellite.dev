@@ -27,15 +27,13 @@
   "licenseEvidenceUrl": "https://github.com/dreamference/ragon/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 1,
+  "githubStars": 2,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-11T06:16:33Z",
+  "lastRepositoryUpdate": "2026-11-17T07:22:40Z",
   "evidenceUrls": [
     "https://github.com/dreamference/ragon"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-11T07:22:41.291Z",
-  "updatedAt": "2026-11-11T07:22:41.291Z",
-  "lastVerified": "2026-11-16T09:23:27.399Z",
-  "qualityScore": 78
+  "status": "discovered",
+  "discoveredAt": "2026-11-17T08:42:08.899Z",
+  "updatedAt": "2026-11-17T08:42:08.899Z"
 }

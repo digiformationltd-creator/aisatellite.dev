@@ -1,0 +1,42 @@
+{
+  "id": "eca-89e2e2c30284",
+  "canonicalUrl": "https://github.com/editor-code-assistant/eca",
+  "name": "eca",
+  "description": "Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor",
+  "category": "ai-coding",
+  "tags": [
+    "ai",
+    "ai-coding",
+    "chat",
+    "clojure",
+    "code-assistant",
+    "completion",
+    "editor",
+    "emacs",
+    "hacktoberfest",
+    "intellij",
+    "jsonrpc",
+    "llm",
+    "neovim",
+    "open-source",
+    "protocol",
+    "tooling",
+    "vscode"
+  ],
+  "repositoryUrl": "https://github.com/editor-code-assistant/eca",
+  "officialUrl": "http://eca.dev",
+  "documentationUrl": "http://eca.dev",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/editor-code-assistant/eca/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1060,
+  "githubForks": 93,
+  "lastRepositoryUpdate": "2026-11-17T07:31:33Z",
+  "evidenceUrls": [
+    "https://github.com/editor-code-assistant/eca"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-17T08:42:09.428Z",
+  "updatedAt": "2026-11-17T08:42:09.428Z"
+}

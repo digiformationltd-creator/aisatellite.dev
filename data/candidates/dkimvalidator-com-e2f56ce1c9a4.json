@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://dkimvalidator.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-16T07:28:40.706Z",
-  "updatedAt": "2026-11-16T07:28:40.706Z",
-  "lastVerified": "2026-11-16T09:12:23.437Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-17T08:42:07.667Z",
+  "updatedAt": "2026-11-17T08:42:07.667Z"
 }

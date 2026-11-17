@@ -1,0 +1,20 @@
+{
+  "id": "relaytv-83ece684f907",
+  "canonicalUrl": "https://relaytv.app/",
+  "name": "RelayTV",
+  "description": "Turns a Linux box connected to a television into a local playback endpoint. Send links from a phone, browse Jellyfin or Emby libraries, play IPTV channels, and drive playback from Home Assistant or HTTP (alternative to Chromecast). ([Source Code](https://github.com/mcgeezy/relaytv), [Clients](https://github.com/mcgeezy/relaytv-android)) `GPL-3.0` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://relaytv.app",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://relaytv.app"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-17T08:42:07.765Z",
+  "updatedAt": "2026-11-17T08:42:07.765Z"
+}

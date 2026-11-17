@@ -16,10 +16,8 @@
     "https://tyk.io/",
     "https://tyk.io"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-16T07:28:40.784Z",
-  "updatedAt": "2026-11-16T07:28:42.613Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-16T09:28:34.381Z",
-  "qualityScore": 57
+  "status": "discovered",
+  "discoveredAt": "2026-11-17T08:42:07.766Z",
+  "updatedAt": "2026-11-17T08:42:09.430Z",
+  "githubStars": 0
 }

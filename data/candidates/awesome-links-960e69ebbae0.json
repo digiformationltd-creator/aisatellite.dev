@@ -32,14 +32,12 @@
   "freeClassification": "open_source",
   "freeTierLimitations": [],
   "githubStars": 1,
-  "githubForks": 7,
-  "lastRepositoryUpdate": "2026-11-07T12:40:06Z",
+  "githubForks": 8,
+  "lastRepositoryUpdate": "2026-11-16T13:41:54Z",
   "evidenceUrls": [
     "https://github.com/nikomarinovic/awesome-links"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-16T07:28:41.643Z",
-  "updatedAt": "2026-11-16T07:28:41.643Z",
-  "lastVerified": "2026-11-16T09:09:01.278Z",
-  "qualityScore": 78
+  "status": "discovered",
+  "discoveredAt": "2026-11-17T08:42:08.472Z",
+  "updatedAt": "2026-11-17T08:42:08.472Z"
 }

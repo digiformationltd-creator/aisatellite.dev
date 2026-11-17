@@ -30,16 +30,13 @@
   "licenseEvidenceUrl": "https://github.com/phenomenon0/eureka-engine/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 2,
+  "githubStars": 3,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-07T05:03:43Z",
+  "lastRepositoryUpdate": "2026-11-17T08:07:57Z",
   "evidenceUrls": [
     "https://github.com/phenomenon0/eureka-engine"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:51.434Z",
-  "updatedAt": "2026-11-07T06:43:51.434Z",
-  "lastVerified": "2026-11-16T09:13:30.424Z",
-  "qualityScore": 78,
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-17T08:42:08.899Z",
+  "updatedAt": "2026-11-17T08:42:08.899Z"
 }

@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://www.admidio.org/"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-16T07:28:40.782Z",
-  "updatedAt": "2026-11-16T07:28:40.782Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-17T08:42:07.764Z",
+  "updatedAt": "2026-11-17T08:42:07.764Z"
 }

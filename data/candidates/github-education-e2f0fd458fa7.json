@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://education.github.com/pack"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-16T07:28:40.711Z",
-  "updatedAt": "2026-11-16T07:28:40.711Z",
-  "lastVerified": "2026-11-16T09:15:17.625Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-17T08:42:07.675Z",
+  "updatedAt": "2026-11-17T08:42:07.675Z"
 }
