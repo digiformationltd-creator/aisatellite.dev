@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/l4rm4nd/VoucherVault"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.765Z",
-  "updatedAt": "2026-11-17T08:42:07.765Z"
+  "updatedAt": "2026-11-17T08:42:07.765Z",
+  "lastVerified": "2026-11-17T10:38:57.473Z",
+  "qualityScore": 55
 }

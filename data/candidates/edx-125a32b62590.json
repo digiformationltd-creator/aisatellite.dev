@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://www.edx.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.764Z",
   "updatedAt": "2026-11-17T08:42:09.430Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-17T10:24:51.956Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mendix.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.669Z",
-  "updatedAt": "2026-11-17T08:42:07.669Z"
+  "updatedAt": "2026-11-17T08:42:07.669Z",
+  "lastVerified": "2026-11-17T10:30:48.530Z",
+  "qualityScore": 52
 }

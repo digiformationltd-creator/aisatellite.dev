@@ -1,0 +1,22 @@
+{
+  "id": "onlinecompiler-io-be0bdc86421b",
+  "canonicalUrl": "https://onlinecompiler.io/",
+  "name": "OnlineCompiler.io",
+  "description": "Online compiler and code execution API for 46 languages. The editor is free with no sign-in, and the free API plan includes 100,000 runs a month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://onlinecompiler.io/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://onlinecompiler.io/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-17T08:42:07.674Z",
+  "updatedAt": "2026-11-17T08:42:07.674Z",
+  "lastVerified": "2026-11-17T10:32:10.763Z",
+  "qualityScore": 52
+}

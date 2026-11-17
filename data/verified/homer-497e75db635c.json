@@ -1,0 +1,22 @@
+{
+  "id": "homer-497e75db635c",
+  "canonicalUrl": "https://github.com/homer-dashboard/homer",
+  "name": "Homer",
+  "description": "Dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. ([Demo](https://homer-demo.netlify.app)) `Apache-2.0` `Docker/K8S/Nodejs`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "repositoryUrl": "https://github.com/homer-dashboard/homer",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://github.com/homer-dashboard/homer"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-17T08:42:07.765Z",
+  "updatedAt": "2026-11-17T08:42:07.765Z",
+  "lastVerified": "2026-11-17T10:27:34.627Z",
+  "qualityScore": 55
+}

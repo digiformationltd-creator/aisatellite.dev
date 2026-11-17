@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://get.localhost.direct"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.675Z",
-  "updatedAt": "2026-11-17T08:42:07.675Z"
+  "updatedAt": "2026-11-17T08:42:07.675Z",
+  "lastVerified": "2026-11-17T10:26:37.650Z",
+  "qualityScore": 52
 }

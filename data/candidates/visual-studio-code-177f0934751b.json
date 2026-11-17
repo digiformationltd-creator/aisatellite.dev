@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://code.visualstudio.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.674Z",
-  "updatedAt": "2026-11-17T08:42:07.674Z"
+  "updatedAt": "2026-11-17T08:42:07.674Z",
+  "lastVerified": "2026-11-17T10:38:56.258Z",
+  "qualityScore": 52
 }

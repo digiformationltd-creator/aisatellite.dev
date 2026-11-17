@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://atomicmail.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.667Z",
-  "updatedAt": "2026-11-17T08:42:07.667Z"
+  "updatedAt": "2026-11-17T08:42:07.667Z",
+  "lastVerified": "2026-11-17T10:21:29.449Z",
+  "qualityScore": 52
 }

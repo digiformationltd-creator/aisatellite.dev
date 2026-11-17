@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://posthog.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.761Z",
   "updatedAt": "2026-11-17T08:42:09.429Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-17T10:33:41.899Z",
+  "qualityScore": 52
 }

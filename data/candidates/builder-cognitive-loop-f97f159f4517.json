@@ -21,9 +21,10 @@
   "evidenceUrls": [
     "https://github.com/Rbm3267/builder-cognitive-loop"
   ],
-  "status": "verified",
+  "status": "rejected",
   "discoveredAt": "2026-11-14T07:12:48.147Z",
   "updatedAt": "2026-11-14T07:12:48.147Z",
   "lastVerified": "2026-11-16T09:09:45.493Z",
-  "qualityScore": 78
+  "qualityScore": 78,
+  "rejectionReason": "Canonical link unreachable"
 }

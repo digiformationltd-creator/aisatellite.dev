@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://opengist.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.765Z",
-  "updatedAt": "2026-11-17T08:42:07.765Z"
+  "updatedAt": "2026-11-17T08:42:07.765Z",
+  "lastVerified": "2026-11-17T10:32:24.640Z",
+  "qualityScore": 52
 }

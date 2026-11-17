@@ -36,7 +36,9 @@
   "evidenceUrls": [
     "https://github.com/editor-code-assistant/eca"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:09.428Z",
-  "updatedAt": "2026-11-17T08:42:09.428Z"
+  "updatedAt": "2026-11-17T08:42:09.428Z",
+  "lastVerified": "2026-11-17T10:24:49.793Z",
+  "qualityScore": 94
 }

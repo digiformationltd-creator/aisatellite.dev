@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cronalive.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.666Z",
-  "updatedAt": "2026-11-17T08:42:07.666Z"
+  "updatedAt": "2026-11-17T08:42:07.666Z",
+  "lastVerified": "2026-11-17T10:23:34.906Z",
+  "qualityScore": 52
 }

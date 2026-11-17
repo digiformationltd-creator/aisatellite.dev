@@ -1,0 +1,22 @@
+{
+  "id": "eclipse-che-f01628a8c5a5",
+  "canonicalUrl": "https://www.eclipse.dev/che",
+  "name": "Eclipse Che",
+  "description": "Web-based and Kubernetes-Native IDE for Developer Teams with multi-language support. Open Source and community-driven. An online instance hosted by Red Hat is available at [workspaces.openshift.com](https://workspaces.openshift.com/).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.eclipse.dev/che/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.eclipse.dev/che/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-17T08:42:07.674Z",
+  "updatedAt": "2026-11-17T08:42:07.674Z",
+  "lastVerified": "2026-11-17T10:24:50.858Z",
+  "qualityScore": 52
+}

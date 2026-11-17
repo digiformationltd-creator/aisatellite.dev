@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.figma.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.671Z",
-  "updatedAt": "2026-11-17T08:42:07.671Z"
+  "updatedAt": "2026-11-17T08:42:07.671Z",
+  "lastVerified": "2026-11-17T10:25:36.463Z",
+  "qualityScore": 52
 }

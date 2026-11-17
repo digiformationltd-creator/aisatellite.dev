@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://trophy.so"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.662Z",
-  "updatedAt": "2026-11-17T08:42:07.662Z"
+  "updatedAt": "2026-11-17T08:42:07.662Z",
+  "lastVerified": "2026-11-17T10:38:25.032Z",
+  "qualityScore": 52
 }

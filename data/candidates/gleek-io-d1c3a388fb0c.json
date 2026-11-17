@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.gleek.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.670Z",
-  "updatedAt": "2026-11-17T08:42:07.670Z"
+  "updatedAt": "2026-11-17T08:42:07.670Z",
+  "lastVerified": "2026-11-17T10:26:50.524Z",
+  "qualityScore": 52
 }

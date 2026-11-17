@@ -35,7 +35,9 @@
   "evidenceUrls": [
     "https://github.com/nishkohli96/awesome-apps-and-skills"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:08.472Z",
-  "updatedAt": "2026-11-17T08:42:08.472Z"
+  "updatedAt": "2026-11-17T08:42:08.472Z",
+  "lastVerified": "2026-11-17T10:21:41.848Z",
+  "qualityScore": 75
 }

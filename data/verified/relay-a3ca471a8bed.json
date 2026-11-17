@@ -18,18 +18,19 @@
     "tui"
   ],
   "repositoryUrl": "https://github.com/badlinuxuser/relay",
-  "freeClassification": "unknown",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/badlinuxuser/relay/blob/main/LICENSE",
+  "freeClassification": "open_source",
   "freeTierLimitations": [],
   "githubStars": 0,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-03T07:14:31Z",
+  "lastRepositoryUpdate": "2026-11-17T06:30:20Z",
   "evidenceUrls": [
     "https://github.com/badlinuxuser/relay"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-03T07:24:47.248Z",
-  "updatedAt": "2026-11-03T07:24:47.248Z",
-  "lastVerified": "2026-11-16T09:23:45.073Z",
-  "qualityScore": 64,
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "discoveredAt": "2026-11-17T08:42:09.428Z",
+  "updatedAt": "2026-11-17T08:42:09.428Z",
+  "lastVerified": "2026-11-17T10:34:33.589Z",
+  "qualityScore": 78
 }

@@ -1,0 +1,22 @@
+{
+  "id": "addy-io-1b4c42793b08",
+  "canonicalUrl": "https://addy.io/",
+  "name": "addy.io",
+  "description": "Open-source anonymous email forwarding, create unlimited email aliases for free",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://addy.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://addy.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-17T08:42:07.667Z",
+  "updatedAt": "2026-11-17T08:42:07.667Z",
+  "lastVerified": "2026-11-17T10:20:39.262Z",
+  "qualityScore": 52
+}

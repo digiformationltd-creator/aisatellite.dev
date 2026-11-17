@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://doppio.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.661Z",
-  "updatedAt": "2026-11-17T08:42:07.661Z"
+  "updatedAt": "2026-11-17T08:42:07.661Z",
+  "lastVerified": "2026-11-17T10:24:34.159Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://logflare.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.665Z",
-  "updatedAt": "2026-11-17T08:42:07.665Z"
+  "updatedAt": "2026-11-17T08:42:07.665Z",
+  "lastVerified": "2026-11-17T10:29:54.543Z",
+  "qualityScore": 52
 }

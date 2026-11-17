@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://verifalia.com/email-verification-api"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.668Z",
-  "updatedAt": "2026-11-17T08:42:07.668Z"
+  "updatedAt": "2026-11-17T08:42:07.668Z",
+  "lastVerified": "2026-11-17T10:38:51.192Z",
+  "qualityScore": 52
 }

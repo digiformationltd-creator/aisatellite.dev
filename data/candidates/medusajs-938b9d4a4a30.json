@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://medusajs.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.763Z",
-  "updatedAt": "2026-11-17T08:42:07.763Z"
+  "updatedAt": "2026-11-17T08:42:07.763Z",
+  "lastVerified": "2026-11-17T10:30:41.209Z",
+  "qualityScore": 52
 }

@@ -28,7 +28,9 @@
   "evidenceUrls": [
     "https://github.com/badlinuxuser/relay"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:09.428Z",
-  "updatedAt": "2026-11-17T08:42:09.428Z"
+  "updatedAt": "2026-11-17T08:42:09.428Z",
+  "lastVerified": "2026-11-17T10:34:33.589Z",
+  "qualityScore": 78
 }

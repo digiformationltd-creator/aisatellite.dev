@@ -16,8 +16,10 @@
     "https://aptabase.com",
     "https://aptabase.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.760Z",
   "updatedAt": "2026-11-17T08:42:09.429Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-17T10:21:25.448Z",
+  "qualityScore": 57
 }

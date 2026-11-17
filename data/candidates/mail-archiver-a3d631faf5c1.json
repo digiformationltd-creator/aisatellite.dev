@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/s1t5/mail-archiver"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.761Z",
-  "updatedAt": "2026-11-17T08:42:07.761Z"
+  "updatedAt": "2026-11-17T08:42:07.761Z",
+  "lastVerified": "2026-11-17T10:30:08.911Z",
+  "qualityScore": 55
 }

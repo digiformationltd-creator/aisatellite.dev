@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mockfly.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.662Z",
-  "updatedAt": "2026-11-17T08:42:07.662Z"
+  "updatedAt": "2026-11-17T08:42:07.662Z",
+  "lastVerified": "2026-11-17T10:31:13.682Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://hex.tech/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.661Z",
-  "updatedAt": "2026-11-17T08:42:07.661Z"
+  "updatedAt": "2026-11-17T08:42:07.661Z",
+  "lastVerified": "2026-11-17T10:27:25.747Z",
+  "qualityScore": 52
 }

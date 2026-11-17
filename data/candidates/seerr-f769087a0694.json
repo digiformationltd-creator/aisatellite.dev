@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/seerr-team/seerr"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.764Z",
-  "updatedAt": "2026-11-17T08:42:07.764Z"
+  "updatedAt": "2026-11-17T08:42:07.764Z",
+  "lastVerified": "2026-11-17T10:35:34.872Z",
+  "qualityScore": 55
 }

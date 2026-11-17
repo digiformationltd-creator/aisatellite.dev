@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kaneo.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.766Z",
-  "updatedAt": "2026-11-17T08:42:07.766Z"
+  "updatedAt": "2026-11-17T08:42:07.766Z",
+  "lastVerified": "2026-11-17T10:28:43.291Z",
+  "qualityScore": 52
 }

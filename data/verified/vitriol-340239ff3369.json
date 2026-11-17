@@ -1,0 +1,35 @@
+{
+  "id": "vitriol-340239ff3369",
+  "canonicalUrl": "https://github.com/Randozart/VITRIOL",
+  "name": "VITRIOL",
+  "description": "Experimental local LLM inference for old hardware: in-tree llama.cpp fork, sparse KV, MTP, VRAM governor, Rust tooling.",
+  "category": "local-llm",
+  "tags": [
+    "cuda",
+    "gguf",
+    "kv-cache",
+    "llama-cpp",
+    "llm-inference",
+    "local-llm",
+    "low-vram",
+    "monorepo",
+    "rust",
+    "speculative-decoding"
+  ],
+  "repositoryUrl": "https://github.com/Randozart/VITRIOL",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/Randozart/VITRIOL/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 39,
+  "githubForks": 3,
+  "lastRepositoryUpdate": "2026-11-17T08:01:44Z",
+  "evidenceUrls": [
+    "https://github.com/Randozart/VITRIOL"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-17T08:42:08.899Z",
+  "updatedAt": "2026-11-17T08:42:08.899Z",
+  "lastVerified": "2026-11-17T10:38:56.851Z",
+  "qualityScore": 80
+}

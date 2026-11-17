@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/jarun/Buku"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.761Z",
-  "updatedAt": "2026-11-17T08:42:07.761Z"
+  "updatedAt": "2026-11-17T08:42:07.761Z",
+  "lastVerified": "2026-11-17T10:22:16.772Z",
+  "qualityScore": 55
 }

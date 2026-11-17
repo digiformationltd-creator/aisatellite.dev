@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://allratestoday.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.674Z",
-  "updatedAt": "2026-11-17T08:42:07.674Z"
+  "updatedAt": "2026-11-17T08:42:07.674Z",
+  "lastVerified": "2026-11-17T10:20:57.016Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://titanapps.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.670Z",
-  "updatedAt": "2026-11-17T08:42:07.670Z"
+  "updatedAt": "2026-11-17T08:42:07.670Z",
+  "lastVerified": "2026-11-17T10:38:08.738Z",
+  "qualityScore": 52
 }

@@ -23,15 +23,15 @@
   "licenseEvidenceUrl": "https://github.com/oxstack/ox-llm/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 0,
+  "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-16T07:24:56Z",
+  "lastRepositoryUpdate": "2026-11-17T08:40:49Z",
   "evidenceUrls": [
     "https://github.com/oxstack/ox-llm"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-16T07:28:42.161Z",
-  "updatedAt": "2026-11-16T07:28:42.161Z",
-  "lastVerified": "2026-11-16T09:21:49.301Z",
+  "discoveredAt": "2026-11-17T08:42:08.899Z",
+  "updatedAt": "2026-11-17T08:42:08.899Z",
+  "lastVerified": "2026-11-17T10:32:51.498Z",
   "qualityScore": 78
 }

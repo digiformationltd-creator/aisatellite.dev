@@ -1,0 +1,22 @@
+{
+  "id": "raff-94d248590eb8",
+  "canonicalUrl": "https://rafftechnologies.com/products/managed-databases",
+  "name": "Raff",
+  "description": "Managed PostgreSQL, MySQL and Valkey, 1 free database per account with no expiry, 1 vCPU, 1 GB RAM and 2 GB storage (Valkey: 512 MB memory), 20 direct and 200 pooled connections on PostgreSQL, TLS on every database, pauses after 7 days without connections and resumes in about a minute. No egress fees.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://rafftechnologies.com/products/managed-databases",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://rafftechnologies.com/products/managed-databases"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-17T08:42:07.670Z",
+  "updatedAt": "2026-11-17T08:42:07.670Z",
+  "lastVerified": "2026-11-17T10:34:18.604Z",
+  "qualityScore": 52
+}

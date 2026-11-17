@@ -1,0 +1,22 @@
+{
+  "id": "gitgud-efccc575d1c5",
+  "canonicalUrl": "https://gitgud.io/",
+  "name": "GitGud",
+  "description": "Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. Includes CI/CD, Static Hosting, Container Registry, Project Management and Issue Tracking.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://gitgud.io",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://gitgud.io"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-17T08:42:07.661Z",
+  "updatedAt": "2026-11-17T08:42:07.661Z",
+  "lastVerified": "2026-11-17T10:26:44.396Z",
+  "qualityScore": 52
+}

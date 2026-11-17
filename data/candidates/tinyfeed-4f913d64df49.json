@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://feed.lovergne.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.763Z",
-  "updatedAt": "2026-11-17T08:42:07.763Z"
+  "updatedAt": "2026-11-17T08:42:07.763Z",
+  "lastVerified": "2026-11-17T10:38:06.595Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.ovhcloud.com/en-ie/security/ssl-gateway/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.669Z",
-  "updatedAt": "2026-11-17T08:42:07.669Z"
+  "updatedAt": "2026-11-17T08:42:07.669Z",
+  "lastVerified": "2026-11-17T10:32:48.068Z",
+  "qualityScore": 52
 }

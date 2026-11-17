@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.docuseal.co"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.762Z",
-  "updatedAt": "2026-11-17T08:42:07.762Z"
+  "updatedAt": "2026-11-17T08:42:07.762Z",
+  "lastVerified": "2026-11-17T10:24:31.483Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://country-state-city.rebuscando.info/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.661Z",
-  "updatedAt": "2026-11-17T08:42:07.661Z"
+  "updatedAt": "2026-11-17T08:42:07.661Z",
+  "lastVerified": "2026-11-17T10:23:32.601Z",
+  "qualityScore": 52
 }

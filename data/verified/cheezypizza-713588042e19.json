@@ -1,0 +1,22 @@
+{
+  "id": "cheezypizza-713588042e19",
+  "canonicalUrl": "https://www.cheezypizza.in/",
+  "name": "CheezyPizza",
+  "description": "Send files directly between browsers using WebRTC. No uploads, no cloud storage, and no middleman. Fast, secure, peer-to-peer file sharing. Forked from file.pizza. ([Demo](https://www.cheezypizza.in), [Source Code](https://github.com/hariharjeevan/cheezypizza)) `BSD-3-Clause` `Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://www.cheezypizza.in",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.cheezypizza.in"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-17T08:42:07.763Z",
+  "updatedAt": "2026-11-17T08:42:07.763Z",
+  "lastVerified": "2026-11-17T10:22:38.897Z",
+  "qualityScore": 52
+}

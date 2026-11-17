@@ -39,7 +39,9 @@
   "evidenceUrls": [
     "https://github.com/pacocartones/free-llm-api-hub"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:08.472Z",
-  "updatedAt": "2026-11-17T08:42:08.472Z"
+  "updatedAt": "2026-11-17T08:42:08.472Z",
+  "lastVerified": "2026-11-17T10:26:10.834Z",
+  "qualityScore": 92
 }

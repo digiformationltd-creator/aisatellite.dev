@@ -1,0 +1,39 @@
+{
+  "id": "llmtracefx-cda1e054181e",
+  "canonicalUrl": "https://github.com/Siddhant-K-code/LLMTraceFX",
+  "name": "LLMTraceFX",
+  "description": "Evidence-first tools to measure, verify, and optimize LLM inference across local GPUs and OpenAI-compatible APIs.",
+  "category": "local-llm",
+  "tags": [
+    "apple-silicon",
+    "benchmarking",
+    "gpu-profiling",
+    "inference-optimization",
+    "llm-inference",
+    "llm-observability",
+    "local-llm",
+    "metal",
+    "mlx",
+    "modal",
+    "openai-compatible",
+    "xctrace"
+  ],
+  "repositoryUrl": "https://github.com/Siddhant-K-code/LLMTraceFX",
+  "officialUrl": "https://siddhantkhare.com/writing?q=Inference+lab",
+  "documentationUrl": "https://siddhantkhare.com/writing?q=Inference+lab",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/Siddhant-K-code/LLMTraceFX/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 14,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-17T08:41:23Z",
+  "evidenceUrls": [
+    "https://github.com/Siddhant-K-code/LLMTraceFX"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-17T08:42:08.899Z",
+  "updatedAt": "2026-11-17T08:42:08.899Z",
+  "lastVerified": "2026-11-17T10:29:30.583Z",
+  "qualityScore": 91
+}

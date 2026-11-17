@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://rollbar.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.667Z",
-  "updatedAt": "2026-11-17T08:42:07.667Z"
+  "updatedAt": "2026-11-17T08:42:07.667Z",
+  "lastVerified": "2026-11-17T10:34:50.405Z",
+  "qualityScore": 52
 }
