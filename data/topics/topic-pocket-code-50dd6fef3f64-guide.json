@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pocket-code-50dd6fef3f64-guide",
+  "title": "How to Deploy pocket-code in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pocket-code-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for pocket-code.",
+  "targetKeywords": [
+    "pocket-code",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/bbesner/pocket-code"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting pocket-code with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-17T12:50:51.720Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-swizzle-runtime-6e12fcb31911-guide",
+  "title": "How to Deploy swizzle-runtime in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-swizzle-runtime-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for swizzle-runtime.",
+  "targetKeywords": [
+    "swizzle-runtime",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Swizzle-AI/swizzle-runtime"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting swizzle-runtime with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-17T12:50:51.721Z"
+}
