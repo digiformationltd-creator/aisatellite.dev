@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-dusk-code-1375e9c58bf1-guide",
+  "title": "How to Deploy dusk_code in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-dusk-code-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for dusk_code.",
+  "targetKeywords": [
+    "dusk_code",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/DroBov1Tya/dusk_code"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting dusk_code with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-18T12:43:30.804Z"
+}
