@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/noandrea/geo2tz"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:07.764Z",
-  "updatedAt": "2026-11-17T08:42:07.764Z",
-  "lastVerified": "2026-11-17T10:26:34.740Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.943Z",
+  "updatedAt": "2026-11-18T08:04:44.943Z"
 }

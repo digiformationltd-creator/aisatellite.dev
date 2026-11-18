@@ -1,0 +1,20 @@
+{
+  "id": "v0-879a793bdc60",
+  "canonicalUrl": "https://v0.app/",
+  "name": "v0",
+  "description": "Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. The free plan includes 7 messages per day, Design Mode and GitHub sync.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://v0.app/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://v0.app/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.903Z",
+  "updatedAt": "2026-11-18T08:04:44.903Z"
+}

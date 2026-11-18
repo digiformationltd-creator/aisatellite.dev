@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://log.dog/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:07.665Z",
-  "updatedAt": "2026-11-17T08:42:07.665Z",
-  "lastVerified": "2026-11-17T10:29:54.106Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.907Z",
+  "updatedAt": "2026-11-18T08:04:44.907Z"
 }

@@ -1,0 +1,20 @@
+{
+  "id": "picoshare-6744cac3e67a",
+  "canonicalUrl": "https://codefloe.com/mtlynch/picoshare",
+  "name": "PicoShare",
+  "description": "Minimalist, easy-to-host service for sharing images and other files. ([Clients](https://codefloe.com/mtlynch/picoshare#third-party-clients)) `AGPL-3.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://codefloe.com/mtlynch/picoshare",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://codefloe.com/mtlynch/picoshare"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.941Z",
+  "updatedAt": "2026-11-18T08:04:44.941Z"
+}

@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://qonversion.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:07.675Z",
-  "updatedAt": "2026-11-17T08:42:07.675Z",
-  "lastVerified": "2026-11-17T10:34:05.021Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.915Z",
+  "updatedAt": "2026-11-18T08:04:44.915Z"
 }

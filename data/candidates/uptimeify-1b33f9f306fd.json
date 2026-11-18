@@ -1,0 +1,20 @@
+{
+  "id": "uptimeify-1b33f9f306fd",
+  "canonicalUrl": "https://uptimeify.io/status-pages",
+  "name": "Uptimeify",
+  "description": "Permament free status pages including custom domain, subscribers (mail, slack, teams, webhook and rss) and maintenance with postmortems. Fully hosted inside the EU.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://uptimeify.io/status-pages",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://uptimeify.io/status-pages"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.907Z",
+  "updatedAt": "2026-11-18T08:04:44.907Z"
+}

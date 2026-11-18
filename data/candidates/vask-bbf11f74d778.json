@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://vask.dev"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:07.664Z",
-  "updatedAt": "2026-11-17T08:42:07.664Z",
-  "lastVerified": "2026-11-17T10:38:47.436Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.907Z",
+  "updatedAt": "2026-11-18T08:04:44.907Z"
 }

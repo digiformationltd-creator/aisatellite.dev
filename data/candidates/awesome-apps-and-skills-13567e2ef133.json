@@ -25,19 +25,17 @@
     "resources"
   ],
   "repositoryUrl": "https://github.com/nishkohli96/awesome-apps-and-skills",
-  "officialUrl": "https://awesome-apps-and-skills.vercel.app/",
-  "documentationUrl": "https://awesome-apps-and-skills.vercel.app/",
+  "officialUrl": "https://awesome-apps-and-skills.nishkohli.in/",
+  "documentationUrl": "https://awesome-apps-and-skills.nishkohli.in/",
   "freeClassification": "unknown",
   "freeTierLimitations": [],
   "githubStars": 4,
   "githubForks": 35,
-  "lastRepositoryUpdate": "2026-11-16T09:33:04Z",
+  "lastRepositoryUpdate": "2026-11-17T15:24:43Z",
   "evidenceUrls": [
     "https://github.com/nishkohli96/awesome-apps-and-skills"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:08.472Z",
-  "updatedAt": "2026-11-17T08:42:08.472Z",
-  "lastVerified": "2026-11-17T10:21:41.848Z",
-  "qualityScore": 75
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:45.693Z",
+  "updatedAt": "2026-11-18T08:04:45.693Z"
 }

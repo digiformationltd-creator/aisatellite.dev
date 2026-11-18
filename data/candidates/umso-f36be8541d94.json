@@ -1,0 +1,20 @@
+{
+  "id": "umso-f36be8541d94",
+  "canonicalUrl": "https://www.umso.com/",
+  "name": "Umso",
+  "description": "Generate, edit, and publish beautiful websites and landing pages for your startup, all without code. The free plan covers one site with a homepage, blog and free subdomain, with Umso branding.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.umso.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.umso.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.914Z",
+  "updatedAt": "2026-11-18T08:04:44.914Z"
+}

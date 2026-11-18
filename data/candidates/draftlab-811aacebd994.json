@@ -1,0 +1,36 @@
+{
+  "id": "draftlab-811aacebd994",
+  "canonicalUrl": "https://github.com/biscet/DraftLab",
+  "name": "DraftLab",
+  "description": "Research toolkit for speculative decoding on local language models. DFlash2 with D-PACE, offline EAGLE-3 training, GGUF feature capture, and draft benchmarking.",
+  "category": "local-llm",
+  "tags": [
+    "benchmarking",
+    "cuda",
+    "dflash",
+    "dflash2",
+    "eagle3",
+    "fine-tuning",
+    "gguf",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "llm-training",
+    "pytorch",
+    "speculative-decoding"
+  ],
+  "repositoryUrl": "https://github.com/biscet/DraftLab",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/biscet/DraftLab/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-18T05:28:16Z",
+  "evidenceUrls": [
+    "https://github.com/biscet/DraftLab"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:46.181Z",
+  "updatedAt": "2026-11-18T08:04:46.181Z"
+}

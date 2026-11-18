@@ -16,10 +16,8 @@
     "https://squidex.io/",
     "https://squidex.io"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:07.762Z",
-  "updatedAt": "2026-11-17T08:42:09.429Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-17T10:36:41.525Z",
-  "qualityScore": 57
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.940Z",
+  "updatedAt": "2026-11-18T08:04:46.605Z",
+  "githubStars": 0
 }

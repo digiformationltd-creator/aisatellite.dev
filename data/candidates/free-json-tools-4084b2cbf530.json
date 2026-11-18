@@ -37,9 +37,7 @@
   "evidenceUrls": [
     "https://github.com/CloudConsultant2/free-json-tools"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:08.472Z",
-  "updatedAt": "2026-11-17T08:42:08.472Z",
-  "lastVerified": "2026-11-17T10:26:10.134Z",
-  "qualityScore": 75
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:45.693Z",
+  "updatedAt": "2026-11-18T08:04:45.693Z"
 }

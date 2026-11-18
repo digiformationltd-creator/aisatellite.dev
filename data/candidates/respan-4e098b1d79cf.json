@@ -1,0 +1,20 @@
+{
+  "id": "respan-4e098b1d79cf",
+  "canonicalUrl": "https://www.respan.ai/",
+  "name": "Respan",
+  "description": "LLM observability and gateway with one format for 200+ models. The free plan includes 100,000 logs, 1,000 scores, five datasets, two evaluators and ten prompts per month, with no credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.respan.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.respan.ai/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.910Z",
+  "updatedAt": "2026-11-18T08:04:44.910Z"
+}

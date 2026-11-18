@@ -32,15 +32,13 @@
   "licenseEvidenceUrl": "https://github.com/Indras-Mirror/Xolotl/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 511,
-  "githubForks": 62,
-  "lastRepositoryUpdate": "2026-11-12T06:19:20Z",
+  "githubStars": 533,
+  "githubForks": 65,
+  "lastRepositoryUpdate": "2026-11-18T07:46:23Z",
   "evidenceUrls": [
     "https://github.com/Indras-Mirror/Xolotl"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-12T07:52:28.433Z",
-  "updatedAt": "2026-11-12T07:52:28.433Z",
-  "lastVerified": "2026-11-17T10:39:36.525Z",
-  "qualityScore": 92
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:46.181Z",
+  "updatedAt": "2026-11-18T08:04:46.181Z"
 }

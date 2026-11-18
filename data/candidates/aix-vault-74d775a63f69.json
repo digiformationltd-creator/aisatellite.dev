@@ -36,9 +36,7 @@
   "evidenceUrls": [
     "https://github.com/hariharan-uiux/aix-vault"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:08.472Z",
-  "updatedAt": "2026-11-17T08:42:08.472Z",
-  "lastVerified": "2026-11-17T10:20:50.649Z",
-  "qualityScore": 75
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:45.693Z",
+  "updatedAt": "2026-11-18T08:04:45.693Z"
 }

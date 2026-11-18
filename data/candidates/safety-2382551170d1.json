@@ -1,0 +1,20 @@
+{
+  "id": "safety-2382551170d1",
+  "canonicalUrl": "https://www.getsafety.com/",
+  "name": "Safety",
+  "description": "Software supply chain security for Python, JavaScript and Docker dependencies. The free plan covers one codebase and 100 scans per month for a single user, for non-commercial use.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.getsafety.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.getsafety.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.906Z",
+  "updatedAt": "2026-11-18T08:04:44.906Z"
+}

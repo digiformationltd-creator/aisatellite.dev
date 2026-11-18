@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://instabox.sh/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:07.670Z",
-  "updatedAt": "2026-11-17T08:42:07.670Z",
-  "lastVerified": "2026-11-17T10:27:59.135Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.912Z",
+  "updatedAt": "2026-11-18T08:04:44.912Z"
 }

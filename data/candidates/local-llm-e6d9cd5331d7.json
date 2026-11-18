@@ -1,0 +1,38 @@
+{
+  "id": "local-llm-e6d9cd5331d7",
+  "canonicalUrl": "https://github.com/evanwtf/local-llm",
+  "name": "local-llm",
+  "description": "Which model + engine + agent harness runs a coding agent best on local hardware? Real-repo agent benchmarks, pass rates and wall time, measured on an M5 Max MacBook Pro and a two-node DGX Spark cluster. OpenCode is the primary harness.",
+  "category": "local-llm",
+  "tags": [
+    "agentic-coding",
+    "ai-agents",
+    "apple-silicon",
+    "benchmark",
+    "coding-agent",
+    "dgx-spark",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "mlx",
+    "nvfp4",
+    "ollama",
+    "opencode",
+    "vllm"
+  ],
+  "repositoryUrl": "https://github.com/evanwtf/local-llm",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/evanwtf/local-llm/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 6,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-18T05:33:58Z",
+  "evidenceUrls": [
+    "https://github.com/evanwtf/local-llm"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:46.181Z",
+  "updatedAt": "2026-11-18T08:04:46.181Z"
+}

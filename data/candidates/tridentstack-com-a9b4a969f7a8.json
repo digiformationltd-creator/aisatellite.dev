@@ -1,0 +1,20 @@
+{
+  "id": "tridentstack-com-a9b4a969f7a8",
+  "canonicalUrl": "https://tridentstack.com/",
+  "name": "tridentstack.com",
+  "description": "Patch, vulnerability and compliance management for Windows, macOS and Linux endpoints. Free forever for up to 200 endpoints with every feature included, no credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tridentstack.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tridentstack.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.906Z",
+  "updatedAt": "2026-11-18T08:04:44.906Z"
+}

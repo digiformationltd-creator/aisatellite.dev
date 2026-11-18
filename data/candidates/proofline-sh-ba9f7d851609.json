@@ -1,0 +1,20 @@
+{
+  "id": "proofline-sh-ba9f7d851609",
+  "canonicalUrl": "https://proofline.sh/",
+  "name": "proofline.sh",
+  "description": "AI code review for GitHub pull requests, with infrastructure-aware checks when connected to a deployment environment. Free forever for open repos, and no subscription required if you BYOK on any private repo.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://proofline.sh/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://proofline.sh/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-18T08:04:44.903Z",
+  "updatedAt": "2026-11-18T08:04:44.903Z"
+}
