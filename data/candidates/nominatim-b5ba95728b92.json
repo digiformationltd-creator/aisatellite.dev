@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://nominatim.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.943Z",
   "updatedAt": "2026-11-18T08:04:46.605Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-18T10:04:16.009Z",
+  "qualityScore": 52
 }

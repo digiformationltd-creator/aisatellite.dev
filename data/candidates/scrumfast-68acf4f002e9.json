@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.scrumfast.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.913Z",
-  "updatedAt": "2026-11-18T08:04:44.913Z"
+  "updatedAt": "2026-11-18T08:04:44.913Z",
+  "lastVerified": "2026-11-18T10:09:08.635Z",
+  "qualityScore": 52
 }

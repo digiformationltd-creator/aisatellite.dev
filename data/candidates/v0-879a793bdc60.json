@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://v0.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.903Z",
-  "updatedAt": "2026-11-18T08:04:44.903Z"
+  "updatedAt": "2026-11-18T08:04:44.903Z",
+  "lastVerified": "2026-11-18T10:13:28.521Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,22 @@
+{
+  "id": "fivetran-fc9525a0befd",
+  "canonicalUrl": "https://www.fivetran.com/",
+  "name": "Fivetran",
+  "description": "Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.fivetran.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.fivetran.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-18T08:04:44.915Z",
+  "updatedAt": "2026-11-18T08:04:44.915Z",
+  "lastVerified": "2026-11-18T09:57:12.083Z",
+  "qualityScore": 52
+}

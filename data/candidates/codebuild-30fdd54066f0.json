@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aws.amazon.com/codebuild/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.898Z",
-  "updatedAt": "2026-11-18T08:04:44.898Z"
+  "updatedAt": "2026-11-18T08:04:44.898Z",
+  "lastVerified": "2026-11-18T09:54:00.922Z",
+  "qualityScore": 47
 }

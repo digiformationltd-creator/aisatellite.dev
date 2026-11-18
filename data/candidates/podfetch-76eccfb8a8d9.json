@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://samtv12345.github.io/PodFetch"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.943Z",
-  "updatedAt": "2026-11-18T08:04:44.943Z"
+  "updatedAt": "2026-11-18T08:04:44.943Z",
+  "lastVerified": "2026-11-18T10:06:39.978Z",
+  "qualityScore": 52
 }

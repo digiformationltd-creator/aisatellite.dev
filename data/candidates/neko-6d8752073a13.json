@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://neko.m1k1o.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.943Z",
-  "updatedAt": "2026-11-18T08:04:44.943Z"
+  "updatedAt": "2026-11-18T08:04:44.943Z",
+  "lastVerified": "2026-11-18T10:03:59.001Z",
+  "qualityScore": 52
 }

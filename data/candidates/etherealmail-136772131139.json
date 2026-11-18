@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ethereal.email"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.909Z",
-  "updatedAt": "2026-11-18T08:04:44.909Z"
+  "updatedAt": "2026-11-18T08:04:44.909Z",
+  "lastVerified": "2026-11-18T09:56:44.159Z",
+  "qualityScore": 52
 }

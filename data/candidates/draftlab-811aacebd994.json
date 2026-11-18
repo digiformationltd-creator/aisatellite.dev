@@ -30,7 +30,9 @@
   "evidenceUrls": [
     "https://github.com/biscet/DraftLab"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:46.181Z",
-  "updatedAt": "2026-11-18T08:04:46.181Z"
+  "updatedAt": "2026-11-18T08:04:46.181Z",
+  "lastVerified": "2026-11-18T09:55:58.324Z",
+  "qualityScore": 78
 }

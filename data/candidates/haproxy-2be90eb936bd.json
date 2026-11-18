@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.haproxy.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.945Z",
-  "updatedAt": "2026-11-18T08:04:44.945Z"
+  "updatedAt": "2026-11-18T08:04:44.945Z",
+  "lastVerified": "2026-11-18T09:59:13.344Z",
+  "qualityScore": 52
 }

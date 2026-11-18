@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://nonaconfig.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.944Z",
-  "updatedAt": "2026-11-18T08:04:44.944Z"
+  "updatedAt": "2026-11-18T08:04:44.944Z",
+  "lastVerified": "2026-11-18T10:04:16.463Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/axeloz/filesharing"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.941Z",
-  "updatedAt": "2026-11-18T08:04:44.941Z"
+  "updatedAt": "2026-11-18T08:04:44.941Z",
+  "lastVerified": "2026-11-18T09:57:07.951Z",
+  "qualityScore": 55
 }

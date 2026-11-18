@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://adventurelog.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.943Z",
-  "updatedAt": "2026-11-18T08:04:44.943Z"
+  "updatedAt": "2026-11-18T08:04:44.943Z",
+  "lastVerified": "2026-11-18T09:51:19.796Z",
+  "qualityScore": 52
 }

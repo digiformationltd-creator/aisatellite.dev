@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://typo3.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.940Z",
-  "updatedAt": "2026-11-18T08:04:44.940Z"
+  "updatedAt": "2026-11-18T08:04:44.940Z",
+  "lastVerified": "2026-11-18T10:13:10.301Z",
+  "qualityScore": 52
 }

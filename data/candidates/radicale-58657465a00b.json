@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://radicale.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.939Z",
-  "updatedAt": "2026-11-18T08:04:44.939Z"
+  "updatedAt": "2026-11-18T08:04:44.939Z",
+  "lastVerified": "2026-11-18T10:07:31.113Z",
+  "qualityScore": 52
 }

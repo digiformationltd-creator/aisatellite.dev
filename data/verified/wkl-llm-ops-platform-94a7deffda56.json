@@ -1,0 +1,37 @@
+{
+  "id": "wkl-llm-ops-platform-94a7deffda56",
+  "canonicalUrl": "https://github.com/stevencui581/WKL-LLM-Ops-Platform",
+  "name": "WKL-LLM-Ops-Platform",
+  "description": "WKL-LLM运维平台 —— 面向本地大模型推理服务（llama.cpp / Ollama / vLLM / SGLang）的轻量级的运维监控平台，自动探测可以让你清晰了解硬件和大模型运行状态。WKL-LLM O&M Platform — A lightweight operation and maintenance monitoring platform for local LLM inference services (llama.cpp / Ollama / vLLM / SGLang). Automatic detection enables you to clearly view the hardware and LLM running status.",
+  "category": "local-llm",
+  "tags": [
+    "bilingual",
+    "fastapi",
+    "gpu-monitoring",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "monitoring",
+    "ollama",
+    "ops-console",
+    "sglang",
+    "systemd",
+    "vllm"
+  ],
+  "repositoryUrl": "https://github.com/stevencui581/WKL-LLM-Ops-Platform",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/stevencui581/WKL-LLM-Ops-Platform/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-18T07:16:00Z",
+  "evidenceUrls": [
+    "https://github.com/stevencui581/WKL-LLM-Ops-Platform"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-18T08:04:46.181Z",
+  "updatedAt": "2026-11-18T08:04:46.181Z",
+  "lastVerified": "2026-11-18T10:14:29.775Z",
+  "qualityScore": 78
+}

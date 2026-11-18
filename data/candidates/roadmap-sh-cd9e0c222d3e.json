@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://roadmap.sh"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.908Z",
-  "updatedAt": "2026-11-18T08:04:44.908Z"
+  "updatedAt": "2026-11-18T08:04:44.908Z",
+  "lastVerified": "2026-11-18T10:08:10.807Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://developer.here.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.914Z",
-  "updatedAt": "2026-11-18T08:04:44.914Z"
+  "updatedAt": "2026-11-18T08:04:44.914Z",
+  "lastVerified": "2026-11-18T09:59:24.140Z",
+  "qualityScore": 52
 }

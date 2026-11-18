@@ -1,0 +1,22 @@
+{
+  "id": "ravion-bd975e2bdd82",
+  "canonicalUrl": "https://www.ravion.com/",
+  "name": "Ravion",
+  "description": "Deploy web services, databases, and more on your own AWS account with a Git push style workflow. The Individuals plan is free for one user with up to 50 modules, 2,000 pipeline minutes and $20 of AI tokens per month. AWS costs are billed through AWS, but you can use credits and the AWS free tier.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.ravion.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.ravion.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-18T08:04:44.911Z",
+  "updatedAt": "2026-11-18T08:04:44.911Z",
+  "lastVerified": "2026-11-18T10:07:35.704Z",
+  "qualityScore": 52
+}

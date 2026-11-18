@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://codeberg.org/nanawel/geeftlist"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-18T08:04:44.943Z",
-  "updatedAt": "2026-11-18T08:04:44.943Z"
+  "updatedAt": "2026-11-18T08:04:44.943Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

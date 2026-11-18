@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://jetbrains.com/products.html"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.914Z",
-  "updatedAt": "2026-11-18T08:04:44.914Z"
+  "updatedAt": "2026-11-18T08:04:44.914Z",
+  "lastVerified": "2026-11-18T10:00:38.590Z",
+  "qualityScore": 52
 }

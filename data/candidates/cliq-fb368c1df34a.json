@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zoho.com/cliq"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.899Z",
-  "updatedAt": "2026-11-18T08:04:44.899Z"
+  "updatedAt": "2026-11-18T08:04:44.899Z",
+  "lastVerified": "2026-11-18T09:53:47.488Z",
+  "qualityScore": 52
 }

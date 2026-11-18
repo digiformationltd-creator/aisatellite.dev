@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://linkstack.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.944Z",
-  "updatedAt": "2026-11-18T08:04:44.944Z"
+  "updatedAt": "2026-11-18T08:04:44.944Z",
+  "lastVerified": "2026-11-18T10:01:55.934Z",
+  "qualityScore": 52
 }

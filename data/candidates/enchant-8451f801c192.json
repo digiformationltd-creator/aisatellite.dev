@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.enchant.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.902Z",
-  "updatedAt": "2026-11-18T08:04:44.902Z"
+  "updatedAt": "2026-11-18T08:04:44.902Z",
+  "lastVerified": "2026-11-18T09:56:26.857Z",
+  "qualityScore": 52
 }

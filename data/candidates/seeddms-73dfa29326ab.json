@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.seeddms.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.941Z",
-  "updatedAt": "2026-11-18T08:04:44.941Z"
+  "updatedAt": "2026-11-18T08:04:44.941Z",
+  "lastVerified": "2026-11-18T10:09:16.442Z",
+  "qualityScore": 52
 }

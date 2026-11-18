@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://savannah.nongnu.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.899Z",
-  "updatedAt": "2026-11-18T08:04:44.899Z"
+  "updatedAt": "2026-11-18T08:04:44.899Z",
+  "lastVerified": "2026-11-18T10:08:54.045Z",
+  "qualityScore": 52
 }

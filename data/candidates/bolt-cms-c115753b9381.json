@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://boltcms.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.940Z",
-  "updatedAt": "2026-11-18T08:04:44.940Z"
+  "updatedAt": "2026-11-18T08:04:44.940Z",
+  "lastVerified": "2026-11-18T09:52:55.365Z",
+  "qualityScore": 52
 }

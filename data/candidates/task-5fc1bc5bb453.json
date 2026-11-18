@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/ovh/utask"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.938Z",
-  "updatedAt": "2026-11-18T08:04:44.938Z"
+  "updatedAt": "2026-11-18T08:04:44.938Z",
+  "lastVerified": "2026-11-18T10:11:49.685Z",
+  "qualityScore": 55
 }

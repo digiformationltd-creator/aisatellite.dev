@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://superlog.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.908Z",
-  "updatedAt": "2026-11-18T08:04:44.908Z"
+  "updatedAt": "2026-11-18T08:04:44.908Z",
+  "lastVerified": "2026-11-18T10:11:19.079Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.karaoke-eternal.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.943Z",
-  "updatedAt": "2026-11-18T08:04:44.943Z"
+  "updatedAt": "2026-11-18T08:04:44.943Z",
+  "lastVerified": "2026-11-18T10:01:07.862Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wikiss.tuxfamily.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.945Z",
-  "updatedAt": "2026-11-18T08:04:44.945Z"
+  "updatedAt": "2026-11-18T08:04:44.945Z",
+  "lastVerified": "2026-11-18T10:14:25.493Z",
+  "qualityScore": 52
 }

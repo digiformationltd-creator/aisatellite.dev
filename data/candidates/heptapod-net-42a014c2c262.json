@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://foss.heptapod.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.899Z",
-  "updatedAt": "2026-11-18T08:04:44.899Z"
+  "updatedAt": "2026-11-18T08:04:44.899Z",
+  "lastVerified": "2026-11-18T09:59:23.823Z",
+  "qualityScore": 52
 }

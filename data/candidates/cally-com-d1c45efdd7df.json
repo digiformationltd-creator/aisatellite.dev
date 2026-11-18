@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cally.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.901Z",
-  "updatedAt": "2026-11-18T08:04:44.901Z"
+  "updatedAt": "2026-11-18T08:04:44.901Z",
+  "lastVerified": "2026-11-18T09:53:18.374Z",
+  "qualityScore": 52
 }

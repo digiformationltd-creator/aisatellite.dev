@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://openarchiver.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.938Z",
-  "updatedAt": "2026-11-18T08:04:44.938Z"
+  "updatedAt": "2026-11-18T08:04:44.938Z",
+  "lastVerified": "2026-11-18T10:04:47.745Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://taleshape.com/shaper/docs"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.938Z",
-  "updatedAt": "2026-11-18T08:04:44.938Z"
+  "updatedAt": "2026-11-18T08:04:44.938Z",
+  "lastVerified": "2026-11-18T10:09:31.242Z",
+  "qualityScore": 52
 }

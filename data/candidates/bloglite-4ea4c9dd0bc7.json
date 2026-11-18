@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/rikhuijzer/bloglite"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.938Z",
-  "updatedAt": "2026-11-18T08:04:44.938Z"
+  "updatedAt": "2026-11-18T08:04:44.938Z",
+  "lastVerified": "2026-11-18T09:52:53.482Z",
+  "qualityScore": 55
 }

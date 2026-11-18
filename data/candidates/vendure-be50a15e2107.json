@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.vendure.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.941Z",
-  "updatedAt": "2026-11-18T08:04:44.941Z"
+  "updatedAt": "2026-11-18T08:04:44.941Z",
+  "lastVerified": "2026-11-18T10:13:37.919Z",
+  "qualityScore": 52
 }

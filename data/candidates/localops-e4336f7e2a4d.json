@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://localops.co/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.903Z",
-  "updatedAt": "2026-11-18T08:04:44.903Z"
+  "updatedAt": "2026-11-18T08:04:44.903Z",
+  "lastVerified": "2026-11-18T10:02:22.338Z",
+  "qualityScore": 52
 }

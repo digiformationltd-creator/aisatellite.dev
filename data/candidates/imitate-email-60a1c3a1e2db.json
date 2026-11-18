@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://imitate.email"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.909Z",
-  "updatedAt": "2026-11-18T08:04:44.909Z"
+  "updatedAt": "2026-11-18T08:04:44.909Z",
+  "lastVerified": "2026-11-18T10:00:01.726Z",
+  "qualityScore": 52
 }

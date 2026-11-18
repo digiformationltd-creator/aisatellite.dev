@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.featbit.co/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.944Z",
-  "updatedAt": "2026-11-18T08:04:44.944Z"
+  "updatedAt": "2026-11-18T08:04:44.944Z",
+  "lastVerified": "2026-11-18T09:56:59.189Z",
+  "qualityScore": 52
 }

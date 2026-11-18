@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.discourse.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.939Z",
-  "updatedAt": "2026-11-18T08:04:44.939Z"
+  "updatedAt": "2026-11-18T08:04:44.939Z",
+  "lastVerified": "2026-11-18T09:55:34.092Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://integrately.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.911Z",
-  "updatedAt": "2026-11-18T08:04:44.911Z"
+  "updatedAt": "2026-11-18T08:04:44.911Z",
+  "lastVerified": "2026-11-18T10:00:10.850Z",
+  "qualityScore": 52
 }

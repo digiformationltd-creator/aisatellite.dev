@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.rukovoditel.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.945Z",
-  "updatedAt": "2026-11-18T08:04:44.945Z"
+  "updatedAt": "2026-11-18T08:04:44.945Z",
+  "lastVerified": "2026-11-18T10:08:23.400Z",
+  "qualityScore": 52
 }

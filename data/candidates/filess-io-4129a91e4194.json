@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://filess.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.912Z",
-  "updatedAt": "2026-11-18T08:04:44.912Z"
+  "updatedAt": "2026-11-18T08:04:44.912Z",
+  "lastVerified": "2026-11-18T09:57:08.519Z",
+  "qualityScore": 52
 }

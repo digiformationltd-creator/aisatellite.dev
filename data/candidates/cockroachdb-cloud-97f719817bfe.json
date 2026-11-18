@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.cockroachlabs.com/pricing/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.912Z",
-  "updatedAt": "2026-11-18T08:04:44.912Z"
+  "updatedAt": "2026-11-18T08:04:44.912Z",
+  "lastVerified": "2026-11-18T09:53:58.183Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://nic.ua/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.912Z",
-  "updatedAt": "2026-11-18T08:04:44.912Z"
+  "updatedAt": "2026-11-18T08:04:44.912Z",
+  "lastVerified": "2026-11-18T10:06:50.254Z",
+  "qualityScore": 47
 }

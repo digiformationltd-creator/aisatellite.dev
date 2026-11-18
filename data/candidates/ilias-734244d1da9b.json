@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.ilias.de"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.942Z",
-  "updatedAt": "2026-11-18T08:04:44.942Z"
+  "updatedAt": "2026-11-18T08:04:44.942Z",
+  "lastVerified": "2026-11-18T09:59:57.243Z",
+  "qualityScore": 52
 }

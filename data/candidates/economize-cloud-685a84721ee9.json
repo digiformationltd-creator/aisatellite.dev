@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://economize.cloud"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.907Z",
-  "updatedAt": "2026-11-18T08:04:44.907Z"
+  "updatedAt": "2026-11-18T08:04:44.907Z",
+  "lastVerified": "2026-11-18T09:56:13.055Z",
+  "qualityScore": 52
 }

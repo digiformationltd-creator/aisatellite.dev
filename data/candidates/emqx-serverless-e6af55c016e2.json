@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.emqx.com/en/cloud/serverless-mqtt"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.907Z",
-  "updatedAt": "2026-11-18T08:04:44.907Z"
+  "updatedAt": "2026-11-18T08:04:44.907Z",
+  "lastVerified": "2026-11-18T09:56:26.648Z",
+  "qualityScore": 52
 }

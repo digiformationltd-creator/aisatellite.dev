@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://repoforge.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.901Z",
-  "updatedAt": "2026-11-18T08:04:44.901Z"
+  "updatedAt": "2026-11-18T08:04:44.901Z",
+  "lastVerified": "2026-11-18T10:07:56.602Z",
+  "qualityScore": 52
 }

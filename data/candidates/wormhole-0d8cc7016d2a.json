@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wormhole.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.902Z",
-  "updatedAt": "2026-11-18T08:04:44.902Z"
+  "updatedAt": "2026-11-18T08:04:44.902Z",
+  "lastVerified": "2026-11-18T10:14:32.130Z",
+  "qualityScore": 52
 }

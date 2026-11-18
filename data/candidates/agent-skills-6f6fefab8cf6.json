@@ -32,7 +32,9 @@
   "evidenceUrls": [
     "https://github.com/lizliz404/agent-skills"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:46.601Z",
-  "updatedAt": "2026-11-18T08:04:46.601Z"
+  "updatedAt": "2026-11-18T08:04:46.601Z",
+  "lastVerified": "2026-11-18T09:51:20.473Z",
+  "qualityScore": 89
 }

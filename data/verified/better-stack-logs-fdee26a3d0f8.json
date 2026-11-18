@@ -1,0 +1,22 @@
+{
+  "id": "better-stack-logs-fdee26a3d0f8",
+  "canonicalUrl": "https://betterstack.com/log-management",
+  "name": "Better Stack Logs",
+  "description": "ClickHouse-based SQL-compatible log management. The free plan includes 3 GB of logs retained for three days.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://betterstack.com/log-management",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://betterstack.com/log-management"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-18T08:04:44.907Z",
+  "updatedAt": "2026-11-18T08:04:44.907Z",
+  "lastVerified": "2026-11-18T09:52:37.976Z",
+  "qualityScore": 52
+}

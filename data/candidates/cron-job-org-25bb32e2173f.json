@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cron-job.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.916Z",
-  "updatedAt": "2026-11-18T08:04:44.916Z"
+  "updatedAt": "2026-11-18T08:04:44.916Z",
+  "lastVerified": "2026-11-18T09:54:45.135Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,22 @@
+{
+  "id": "hister-c83df355747e",
+  "canonicalUrl": "https://nogon.eu/",
+  "name": "Hister",
+  "description": "Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ([Demo](https://demo.hister.org/), [Source Code](https://github.com/asciimoo/nogon)) `AGPL-3.0` `Go/Docker`",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "awesome-selfhosted"
+  ],
+  "officialUrl": "https://nogon.eu/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://nogon.eu/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-18T08:04:44.944Z",
+  "updatedAt": "2026-11-18T08:04:44.944Z",
+  "lastVerified": "2026-11-18T09:59:30.498Z",
+  "qualityScore": 52
+}

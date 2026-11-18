@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.prefect.io/cloud/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.901Z",
-  "updatedAt": "2026-11-18T08:04:44.901Z"
+  "updatedAt": "2026-11-18T08:04:44.901Z",
+  "lastVerified": "2026-11-18T10:06:50.774Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://uploadcare.com/hub/developers/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.913Z",
-  "updatedAt": "2026-11-18T08:04:44.913Z"
+  "updatedAt": "2026-11-18T08:04:44.913Z",
+  "lastVerified": "2026-11-18T10:13:16.272Z",
+  "qualityScore": 52
 }

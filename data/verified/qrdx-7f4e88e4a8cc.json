@@ -1,0 +1,22 @@
+{
+  "id": "qrdx-7f4e88e4a8cc",
+  "canonicalUrl": "https://qrdx.dev/",
+  "name": "QRdx",
+  "description": "Free Open-source QR code generator, plus an image API that needs no key (SVG, PNG, WebP or EPS). Free: unlimited static QR codes with no account, the image API up to 300 requests a minute, and 10 dynamic QR codes with scan analytics on a free account.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://qrdx.dev",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://qrdx.dev"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-18T08:04:44.913Z",
+  "updatedAt": "2026-11-18T08:04:44.913Z",
+  "lastVerified": "2026-11-18T10:07:24.453Z",
+  "qualityScore": 52
+}

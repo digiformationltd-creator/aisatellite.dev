@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.checkbot.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.903Z",
-  "updatedAt": "2026-11-18T08:04:44.903Z"
+  "updatedAt": "2026-11-18T08:04:44.903Z",
+  "lastVerified": "2026-11-18T09:53:33.333Z",
+  "qualityScore": 52
 }

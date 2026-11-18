@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sonarr.tv/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.943Z",
-  "updatedAt": "2026-11-18T08:04:44.943Z"
+  "updatedAt": "2026-11-18T08:04:44.943Z",
+  "lastVerified": "2026-11-18T10:10:32.141Z",
+  "qualityScore": 52
 }

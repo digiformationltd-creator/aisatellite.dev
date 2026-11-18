@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pofile.net/free-po-editor"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.907Z",
-  "updatedAt": "2026-11-18T08:04:44.907Z"
+  "updatedAt": "2026-11-18T08:04:44.907Z",
+  "lastVerified": "2026-11-18T09:57:50.561Z",
+  "qualityScore": 47
 }

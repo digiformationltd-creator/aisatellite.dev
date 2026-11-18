@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.cloud66.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.899Z",
-  "updatedAt": "2026-11-18T08:04:44.899Z"
+  "updatedAt": "2026-11-18T08:04:44.899Z",
+  "lastVerified": "2026-11-18T09:53:48.718Z",
+  "qualityScore": 52
 }

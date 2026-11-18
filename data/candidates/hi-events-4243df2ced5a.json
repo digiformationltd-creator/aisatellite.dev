@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://hi.events"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.938Z",
-  "updatedAt": "2026-11-18T08:04:44.938Z"
+  "updatedAt": "2026-11-18T08:04:44.938Z",
+  "lastVerified": "2026-11-18T09:59:28.560Z",
+  "qualityScore": 52
 }

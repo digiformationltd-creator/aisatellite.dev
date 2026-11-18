@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://duckly.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.901Z",
-  "updatedAt": "2026-11-18T08:04:44.901Z"
+  "updatedAt": "2026-11-18T08:04:44.901Z",
+  "lastVerified": "2026-11-18T09:56:02.903Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://datasette.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.940Z",
-  "updatedAt": "2026-11-18T08:04:44.940Z"
+  "updatedAt": "2026-11-18T08:04:44.940Z",
+  "lastVerified": "2026-11-18T09:55:01.998Z",
+  "qualityScore": 52
 }

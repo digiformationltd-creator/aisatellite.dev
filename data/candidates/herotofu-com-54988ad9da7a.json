@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://herotofu.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-18T08:04:44.910Z",
-  "updatedAt": "2026-11-18T08:04:44.910Z"
+  "updatedAt": "2026-11-18T08:04:44.910Z",
+  "lastVerified": "2026-11-18T09:59:24.490Z",
+  "qualityScore": 52
 }
