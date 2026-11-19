@@ -29,13 +29,11 @@
   "freeTierLimitations": [],
   "githubStars": 8,
   "githubForks": 1,
-  "lastRepositoryUpdate": "2026-11-18T05:48:33Z",
+  "lastRepositoryUpdate": "2026-11-19T08:10:57Z",
   "evidenceUrls": [
     "https://github.com/NodeSpaceAI/nodespace-core"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-18T08:04:46.601Z",
-  "updatedAt": "2026-11-18T08:04:46.601Z",
-  "lastVerified": "2026-11-18T10:04:13.268Z",
-  "qualityScore": 75
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:16.157Z",
+  "updatedAt": "2026-11-19T08:11:16.157Z"
 }

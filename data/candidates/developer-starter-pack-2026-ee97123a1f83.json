@@ -24,15 +24,13 @@
   "documentationUrl": "https://dms-menula.github.io/",
   "freeClassification": "unknown",
   "freeTierLimitations": [],
-  "githubStars": 50,
+  "githubStars": 49,
   "githubForks": 10,
   "lastRepositoryUpdate": "2026-11-17T05:13:20Z",
   "evidenceUrls": [
     "https://github.com/DMS-Menula/developer-starter-pack-2026"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-18T08:04:45.693Z",
-  "updatedAt": "2026-11-18T08:04:45.693Z",
-  "lastVerified": "2026-11-18T09:55:17.330Z",
-  "qualityScore": 77
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:15.041Z",
+  "updatedAt": "2026-11-19T08:11:15.041Z"
 }

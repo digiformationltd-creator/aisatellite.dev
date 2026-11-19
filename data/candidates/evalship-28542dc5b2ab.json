@@ -2,7 +2,7 @@
   "id": "evalship-28542dc5b2ab",
   "canonicalUrl": "https://evalship.com/",
   "name": "evalship",
-  "description": "find the flaws in your LLM evals. Reviews your evals suite for improvement opportunities, monitors your PRs for any eval regressions or unintended side effects and optimizes your prompts and models based on experiments in your product. Free for 1 private repo for 1 user, 100 PR analyses a month, 30 days of eval history. Free for public repos.",
+  "description": "Tests, monitors and optimizes every AI call your product makes, and notifies you when one fails. Free for 1 private repo for 2 users, 5,000 events a month, 30 days of history. Free for public repos.",
   "category": "free-tools",
   "tags": [
     "free-tools",
@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://evalship.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-18T08:04:44.910Z",
-  "updatedAt": "2026-11-18T08:04:44.910Z",
-  "lastVerified": "2026-11-18T09:56:46.049Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:13.790Z",
+  "updatedAt": "2026-11-19T08:11:13.790Z"
 }

@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://zoho.com/forms"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-18T08:04:44.899Z",
-  "updatedAt": "2026-11-18T08:04:44.899Z",
-  "lastVerified": "2026-11-18T09:57:42.443Z",
-  "qualityScore": 47
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:13.778Z",
+  "updatedAt": "2026-11-19T08:11:13.778Z"
 }

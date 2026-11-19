@@ -33,16 +33,13 @@
   "licenseEvidenceUrl": "https://github.com/raytone-lab/awesome-local-inference-recipes/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 3,
+  "githubStars": 4,
   "githubForks": 1,
-  "lastRepositoryUpdate": "2026-11-07T02:16:43Z",
+  "lastRepositoryUpdate": "2026-11-19T07:37:34Z",
   "evidenceUrls": [
     "https://github.com/raytone-lab/awesome-local-inference-recipes"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-07T06:43:51.434Z",
-  "updatedAt": "2026-11-07T06:43:51.434Z",
-  "lastVerified": "2026-11-18T09:52:24.284Z",
-  "qualityScore": 89,
-  "rejectionReason": "Canonical link unreachable"
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:15.540Z",
+  "updatedAt": "2026-11-19T08:11:15.540Z"
 }

@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://mdbgo.com/"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-18T08:04:44.911Z",
-  "updatedAt": "2026-11-18T08:04:44.911Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:13.791Z",
+  "updatedAt": "2026-11-19T08:11:13.791Z"
 }

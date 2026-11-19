@@ -1,0 +1,20 @@
+{
+  "id": "kardinal-ffcc72553d28",
+  "canonicalUrl": "https://kardinal.ai/",
+  "name": "Kardinal",
+  "description": "Route optimization API for delivery and field service fleets: multi-vehicle routing with time windows, vehicle capacities and other real-world constraints, also usable by AI agents. Free tier includes 1,000 stops that never expire, no credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://kardinal.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://kardinal.ai/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:13.780Z",
+  "updatedAt": "2026-11-19T08:11:13.780Z"
+}

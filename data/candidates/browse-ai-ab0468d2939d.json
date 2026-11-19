@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.browse.ai"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-18T08:04:44.900Z",
-  "updatedAt": "2026-11-18T08:04:44.900Z",
-  "lastVerified": "2026-11-18T09:53:01.783Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:13.778Z",
+  "updatedAt": "2026-11-19T08:11:13.778Z"
 }

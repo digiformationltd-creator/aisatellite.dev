@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/webtor-io/self-hosted"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-18T08:04:44.941Z",
-  "updatedAt": "2026-11-18T08:04:44.941Z",
-  "lastVerified": "2026-11-18T10:14:14.565Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:14.116Z",
+  "updatedAt": "2026-11-19T08:11:14.116Z"
 }

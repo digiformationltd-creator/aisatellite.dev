@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://futureagi.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-18T08:04:44.910Z",
-  "updatedAt": "2026-11-18T08:04:44.910Z",
-  "lastVerified": "2026-11-18T09:58:03.746Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-19T08:11:13.790Z",
+  "updatedAt": "2026-11-19T08:11:13.790Z"
 }
