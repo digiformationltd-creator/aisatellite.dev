@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-qrdx-7f4e88e4a8cc-guide",
+  "title": "How to Deploy QRdx in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-qrdx-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for QRdx.",
+  "targetKeywords": [
+    "QRdx",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://qrdx.dev"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting QRdx with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-19T12:34:53.511Z"
+}

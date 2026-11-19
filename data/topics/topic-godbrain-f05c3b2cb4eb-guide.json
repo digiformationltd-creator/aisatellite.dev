@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-godbrain-f05c3b2cb4eb-guide",
+  "title": "How to Deploy GodBrain in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-godbrain-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GodBrain.",
+  "targetKeywords": [
+    "GodBrain",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/usrname1git/GodBrain"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting GodBrain with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-19T12:34:53.509Z"
+}

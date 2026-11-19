@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tools-9650098d6b5e-guide",
+  "title": "How to Deploy tools in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tools-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for tools.",
+  "targetKeywords": [
+    "tools",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/cbandarac58-del/tools"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting tools with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-19T12:34:53.512Z"
+}
