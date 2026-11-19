@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://verimail.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.789Z",
-  "updatedAt": "2026-11-19T08:11:13.789Z"
+  "updatedAt": "2026-11-19T08:11:13.789Z",
+  "lastVerified": "2026-11-19T10:21:54.551Z",
+  "qualityScore": 52
 }

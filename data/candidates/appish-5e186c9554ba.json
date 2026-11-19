@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://appi.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T09:59:41.167Z",
+  "qualityScore": 52
 }

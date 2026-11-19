@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://localscreenshot.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T10:10:56.070Z",
+  "qualityScore": 52
 }

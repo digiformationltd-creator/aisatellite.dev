@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://fullstackopen.com/en/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.788Z",
-  "updatedAt": "2026-11-19T08:11:13.788Z"
+  "updatedAt": "2026-11-19T08:11:13.788Z",
+  "lastVerified": "2026-11-19T10:06:26.279Z",
+  "qualityScore": 52
 }

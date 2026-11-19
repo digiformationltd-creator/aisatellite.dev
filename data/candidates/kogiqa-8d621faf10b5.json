@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kogiqa.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.783Z",
-  "updatedAt": "2026-11-19T08:11:13.783Z"
+  "updatedAt": "2026-11-19T08:11:13.783Z",
+  "lastVerified": "2026-11-19T10:09:50.729Z",
+  "qualityScore": 52
 }

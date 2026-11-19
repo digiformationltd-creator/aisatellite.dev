@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.eclipse.org/che/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.119Z",
-  "updatedAt": "2026-11-19T08:11:14.119Z"
+  "updatedAt": "2026-11-19T08:11:14.119Z",
+  "lastVerified": "2026-11-19T10:04:28.209Z",
+  "qualityScore": 52
 }

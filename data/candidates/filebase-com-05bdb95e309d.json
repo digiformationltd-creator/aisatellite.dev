@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://filebase.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.791Z",
-  "updatedAt": "2026-11-19T08:11:13.791Z"
+  "updatedAt": "2026-11-19T08:11:13.791Z",
+  "lastVerified": "2026-11-19T10:05:25.498Z",
+  "qualityScore": 52
 }

@@ -24,7 +24,9 @@
   "evidenceUrls": [
     "https://github.com/821869798/aitoolplus"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:16.157Z",
-  "updatedAt": "2026-11-19T08:11:16.157Z"
+  "updatedAt": "2026-11-19T08:11:16.157Z",
+  "lastVerified": "2026-11-19T09:59:08.020Z",
+  "qualityScore": 64
 }

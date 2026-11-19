@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://plausible.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.113Z",
-  "updatedAt": "2026-11-19T08:11:14.113Z"
+  "updatedAt": "2026-11-19T08:11:14.113Z",
+  "lastVerified": "2026-11-19T10:15:00.516Z",
+  "qualityScore": 52
 }

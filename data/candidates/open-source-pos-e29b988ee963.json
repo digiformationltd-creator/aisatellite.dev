@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/opensourcepos/opensourcepos"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.116Z",
-  "updatedAt": "2026-11-19T08:11:14.116Z"
+  "updatedAt": "2026-11-19T08:11:14.116Z",
+  "lastVerified": "2026-11-19T10:13:35.353Z",
+  "qualityScore": 55
 }

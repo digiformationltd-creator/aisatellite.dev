@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://getmaxim.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.780Z",
-  "updatedAt": "2026-11-19T08:11:13.780Z"
+  "updatedAt": "2026-11-19T08:11:13.780Z",
+  "lastVerified": "2026-11-19T10:11:35.503Z",
+  "qualityScore": 52
 }

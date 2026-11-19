@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.admidio.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.117Z",
-  "updatedAt": "2026-11-19T08:11:14.117Z"
+  "updatedAt": "2026-11-19T08:11:14.117Z",
+  "lastVerified": "2026-11-19T09:58:58.021Z",
+  "qualityScore": 52
 }

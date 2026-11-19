@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://servervana.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.787Z",
-  "updatedAt": "2026-11-19T08:11:13.787Z"
+  "updatedAt": "2026-11-19T08:11:13.787Z",
+  "lastVerified": "2026-11-19T10:17:54.506Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://binshare.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T10:00:42.049Z",
+  "qualityScore": 52
 }

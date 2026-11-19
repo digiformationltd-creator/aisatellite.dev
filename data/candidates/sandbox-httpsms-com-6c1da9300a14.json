@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sandbox.httpsms.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T10:17:20.470Z",
+  "qualityScore": 52
 }

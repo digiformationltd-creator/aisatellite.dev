@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codidact.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.115Z",
-  "updatedAt": "2026-11-19T08:11:14.115Z"
+  "updatedAt": "2026-11-19T08:11:14.115Z",
+  "lastVerified": "2026-11-19T10:15:54.744Z",
+  "qualityScore": 52
 }

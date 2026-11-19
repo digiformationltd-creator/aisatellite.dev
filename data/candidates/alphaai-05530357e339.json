@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://alphai.io/developers"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.778Z",
-  "updatedAt": "2026-11-19T08:11:13.778Z"
+  "updatedAt": "2026-11-19T08:11:13.778Z",
+  "lastVerified": "2026-11-19T09:59:17.588Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gladysassistant.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.117Z",
-  "updatedAt": "2026-11-19T08:11:14.117Z"
+  "updatedAt": "2026-11-19T08:11:14.117Z",
+  "lastVerified": "2026-11-19T10:07:03.355Z",
+  "qualityScore": 52
 }

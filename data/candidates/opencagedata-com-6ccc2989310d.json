@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://opencagedata.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.793Z",
-  "updatedAt": "2026-11-19T08:11:13.793Z"
+  "updatedAt": "2026-11-19T08:11:13.793Z",
+  "lastVerified": "2026-11-19T10:13:37.212Z",
+  "qualityScore": 52
 }

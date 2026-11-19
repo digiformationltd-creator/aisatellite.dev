@@ -1,0 +1,36 @@
+{
+  "id": "voxa-583a4ffd6a44",
+  "canonicalUrl": "https://github.com/crhy/voxa",
+  "name": "voxa",
+  "description": "Voxa is a personal AI assistant built on LOCAL AI.  Not corporate spyware.",
+  "category": "ai-coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "ai-tools",
+    "assistant",
+    "vocabulary",
+    "voice",
+    "voice-agent",
+    "voice-ai",
+    "voice-assistant",
+    "voice-recognition"
+  ],
+  "repositoryUrl": "https://github.com/crhy/voxa",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/crhy/voxa/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-19T04:55:00Z",
+  "evidenceUrls": [
+    "https://github.com/crhy/voxa"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-19T08:11:16.157Z",
+  "updatedAt": "2026-11-19T08:11:16.157Z",
+  "lastVerified": "2026-11-19T10:22:03.929Z",
+  "qualityScore": 78
+}

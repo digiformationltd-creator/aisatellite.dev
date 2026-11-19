@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://screenshotlayer.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T10:17:34.847Z",
+  "qualityScore": 52
 }

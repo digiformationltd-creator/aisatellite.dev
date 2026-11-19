@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://globster.xyz/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T10:07:07.379Z",
+  "qualityScore": 52
 }

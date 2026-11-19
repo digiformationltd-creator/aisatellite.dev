@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://duo.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.784Z",
-  "updatedAt": "2026-11-19T08:11:13.784Z"
+  "updatedAt": "2026-11-19T08:11:13.784Z",
+  "lastVerified": "2026-11-19T10:04:19.639Z",
+  "qualityScore": 52
 }

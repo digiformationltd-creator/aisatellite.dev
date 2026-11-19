@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pixe.la/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.780Z",
-  "updatedAt": "2026-11-19T08:11:13.780Z"
+  "updatedAt": "2026-11-19T08:11:13.780Z",
+  "lastVerified": "2026-11-19T10:14:57.123Z",
+  "qualityScore": 52
 }

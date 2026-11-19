@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://temp-mail.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.789Z",
-  "updatedAt": "2026-11-19T08:11:13.789Z"
+  "updatedAt": "2026-11-19T08:11:13.789Z",
+  "lastVerified": "2026-11-19T10:20:22.991Z",
+  "qualityScore": 52
 }

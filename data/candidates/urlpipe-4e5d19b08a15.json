@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://urlpipe.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.780Z",
-  "updatedAt": "2026-11-19T08:11:13.780Z"
+  "updatedAt": "2026-11-19T08:11:13.780Z",
+  "lastVerified": "2026-11-19T10:21:40.908Z",
+  "qualityScore": 52
 }

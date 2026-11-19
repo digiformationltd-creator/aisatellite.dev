@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://androidfilehost.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.792Z",
-  "updatedAt": "2026-11-19T08:11:13.792Z"
+  "updatedAt": "2026-11-19T08:11:13.792Z",
+  "lastVerified": "2026-11-19T09:59:26.603Z",
+  "qualityScore": 52
 }

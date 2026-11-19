@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.appveyor.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.782Z",
-  "updatedAt": "2026-11-19T08:11:13.782Z"
+  "updatedAt": "2026-11-19T08:11:13.782Z",
+  "lastVerified": "2026-11-19T09:59:43.145Z",
+  "qualityScore": 52
 }

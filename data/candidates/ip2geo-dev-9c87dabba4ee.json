@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ip2geo.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.779Z",
-  "updatedAt": "2026-11-19T08:11:13.779Z"
+  "updatedAt": "2026-11-19T08:11:13.779Z",
+  "lastVerified": "2026-11-19T10:08:57.376Z",
+  "qualityScore": 52
 }

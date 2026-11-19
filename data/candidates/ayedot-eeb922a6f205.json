@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ayedot.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T10:00:14.820Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://hashnode.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T10:07:40.737Z",
+  "qualityScore": 52
 }

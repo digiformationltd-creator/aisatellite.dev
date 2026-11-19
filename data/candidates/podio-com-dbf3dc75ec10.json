@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://podio.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.793Z",
-  "updatedAt": "2026-11-19T08:11:13.793Z"
+  "updatedAt": "2026-11-19T08:11:13.793Z",
+  "lastVerified": "2026-11-19T10:15:09.663Z",
+  "qualityScore": 52
 }

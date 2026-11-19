@@ -16,8 +16,10 @@
     "https://www.goatcounter.com/",
     "https://www.goatcounter.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.113Z",
   "updatedAt": "2026-11-19T08:11:16.159Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-19T10:07:13.586Z",
+  "qualityScore": 57
 }

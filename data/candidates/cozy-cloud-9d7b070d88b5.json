@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cozy.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.117Z",
-  "updatedAt": "2026-11-19T08:11:14.117Z"
+  "updatedAt": "2026-11-19T08:11:14.117Z",
+  "lastVerified": "2026-11-19T10:02:47.678Z",
+  "qualityScore": 52
 }

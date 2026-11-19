@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cube.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.778Z",
-  "updatedAt": "2026-11-19T08:11:13.778Z"
+  "updatedAt": "2026-11-19T08:11:13.778Z",
+  "lastVerified": "2026-11-19T10:02:53.361Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://1time.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.119Z",
-  "updatedAt": "2026-11-19T08:11:14.119Z"
+  "updatedAt": "2026-11-19T08:11:14.119Z",
+  "lastVerified": "2026-11-19T09:58:41.352Z",
+  "qualityScore": 52
 }

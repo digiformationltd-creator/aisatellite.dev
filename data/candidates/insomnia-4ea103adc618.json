@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://insomnia.rest"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.779Z",
-  "updatedAt": "2026-11-19T08:11:13.779Z"
+  "updatedAt": "2026-11-19T08:11:13.779Z",
+  "lastVerified": "2026-11-19T10:08:41.101Z",
+  "qualityScore": 52
 }

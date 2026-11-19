@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aws.amazon.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.777Z",
-  "updatedAt": "2026-11-19T08:11:13.777Z"
+  "updatedAt": "2026-11-19T08:11:13.777Z",
+  "lastVerified": "2026-11-19T09:59:19.680Z",
+  "qualityScore": 52
 }

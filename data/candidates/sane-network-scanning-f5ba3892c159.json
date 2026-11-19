@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "http://sane-project.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.118Z",
-  "updatedAt": "2026-11-19T08:11:14.118Z"
+  "updatedAt": "2026-11-19T08:11:14.118Z",
+  "lastVerified": "2026-11-19T10:17:20.917Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://join.piefed.social"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.115Z",
-  "updatedAt": "2026-11-19T08:11:14.115Z"
+  "updatedAt": "2026-11-19T08:11:14.115Z",
+  "lastVerified": "2026-11-19T10:14:46.930Z",
+  "qualityScore": 52
 }

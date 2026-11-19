@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://grafana.com/products/cloud/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.785Z",
-  "updatedAt": "2026-11-19T08:11:13.785Z"
+  "updatedAt": "2026-11-19T08:11:13.785Z",
+  "lastVerified": "2026-11-19T10:07:26.862Z",
+  "qualityScore": 52
 }

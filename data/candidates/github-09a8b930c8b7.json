@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.778Z",
-  "updatedAt": "2026-11-19T08:11:13.778Z"
+  "updatedAt": "2026-11-19T08:11:13.778Z",
+  "lastVerified": "2026-11-19T10:06:58.627Z",
+  "qualityScore": 55
 }

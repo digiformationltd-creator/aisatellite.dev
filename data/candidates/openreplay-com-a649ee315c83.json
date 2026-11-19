@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.openreplay.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.794Z",
-  "updatedAt": "2026-11-19T08:11:13.794Z"
+  "updatedAt": "2026-11-19T08:11:13.794Z",
+  "lastVerified": "2026-11-19T10:13:48.569Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://vatlayer.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T10:21:50.082Z",
+  "qualityScore": 52
 }

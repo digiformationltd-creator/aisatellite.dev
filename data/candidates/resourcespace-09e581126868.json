@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.resourcespace.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.117Z",
-  "updatedAt": "2026-11-19T08:11:14.117Z"
+  "updatedAt": "2026-11-19T08:11:14.117Z",
+  "lastVerified": "2026-11-19T10:16:35.654Z",
+  "qualityScore": 52
 }

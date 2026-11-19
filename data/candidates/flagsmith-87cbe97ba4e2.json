@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://flagsmith.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.119Z",
   "updatedAt": "2026-11-19T08:11:16.160Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-19T10:05:32.990Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.dbdesigner.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.779Z",
-  "updatedAt": "2026-11-19T08:11:13.779Z"
+  "updatedAt": "2026-11-19T08:11:13.779Z",
+  "lastVerified": "2026-11-19T10:03:12.634Z",
+  "qualityScore": 52
 }

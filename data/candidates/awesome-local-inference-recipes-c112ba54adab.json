@@ -39,7 +39,9 @@
   "evidenceUrls": [
     "https://github.com/raytone-lab/awesome-local-inference-recipes"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:15.540Z",
-  "updatedAt": "2026-11-19T08:11:15.540Z"
+  "updatedAt": "2026-11-19T08:11:15.540Z",
+  "lastVerified": "2026-11-19T10:00:13.057Z",
+  "qualityScore": 89
 }

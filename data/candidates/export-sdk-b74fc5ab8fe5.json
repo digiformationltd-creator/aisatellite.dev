@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://exportsdk.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.779Z",
-  "updatedAt": "2026-11-19T08:11:13.779Z"
+  "updatedAt": "2026-11-19T08:11:13.779Z",
+  "lastVerified": "2026-11-19T10:05:12.740Z",
+  "qualityScore": 52
 }

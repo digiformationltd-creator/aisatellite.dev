@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://proofline.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.782Z",
-  "updatedAt": "2026-11-19T08:11:13.782Z"
+  "updatedAt": "2026-11-19T08:11:13.782Z",
+  "lastVerified": "2026-11-19T10:15:33.026Z",
+  "qualityScore": 52
 }

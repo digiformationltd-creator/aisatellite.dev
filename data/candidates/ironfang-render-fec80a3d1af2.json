@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ironfang.com/render"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.795Z",
-  "updatedAt": "2026-11-19T08:11:13.795Z"
+  "updatedAt": "2026-11-19T08:11:13.795Z",
+  "lastVerified": "2026-11-19T10:09:01.012Z",
+  "qualityScore": 52
 }

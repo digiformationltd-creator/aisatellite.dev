@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://waymorphic.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.793Z",
-  "updatedAt": "2026-11-19T08:11:13.793Z"
+  "updatedAt": "2026-11-19T08:11:13.793Z",
+  "lastVerified": "2026-11-19T10:22:18.686Z",
+  "qualityScore": 52
 }

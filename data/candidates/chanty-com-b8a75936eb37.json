@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://chanty.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.781Z",
-  "updatedAt": "2026-11-19T08:11:13.781Z"
+  "updatedAt": "2026-11-19T08:11:13.781Z",
+  "lastVerified": "2026-11-19T10:01:31.882Z",
+  "qualityScore": 52
 }

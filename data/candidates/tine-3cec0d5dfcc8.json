@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.tine-groupware.de/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.117Z",
-  "updatedAt": "2026-11-19T08:11:14.117Z"
+  "updatedAt": "2026-11-19T08:11:14.117Z",
+  "lastVerified": "2026-11-19T10:20:50.282Z",
+  "qualityScore": 52
 }

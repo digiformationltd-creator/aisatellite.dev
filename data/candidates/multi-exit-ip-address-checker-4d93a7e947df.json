@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ip.alstra.ca/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.780Z",
-  "updatedAt": "2026-11-19T08:11:13.780Z"
+  "updatedAt": "2026-11-19T08:11:13.780Z",
+  "lastVerified": "2026-11-19T10:12:26.733Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://prisma.io/postgres"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.791Z",
-  "updatedAt": "2026-11-19T08:11:13.791Z"
+  "updatedAt": "2026-11-19T08:11:13.791Z",
+  "lastVerified": "2026-11-19T10:15:24.982Z",
+  "qualityScore": 52
 }

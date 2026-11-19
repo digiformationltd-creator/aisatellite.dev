@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.offen.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.113Z",
-  "updatedAt": "2026-11-19T08:11:14.113Z"
+  "updatedAt": "2026-11-19T08:11:14.113Z",
+  "lastVerified": "2026-11-19T10:13:20.432Z",
+  "qualityScore": 52
 }

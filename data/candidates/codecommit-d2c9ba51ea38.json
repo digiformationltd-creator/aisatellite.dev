@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://aws.amazon.com/codecommit/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.777Z",
-  "updatedAt": "2026-11-19T08:11:13.777Z"
+  "updatedAt": "2026-11-19T08:11:13.777Z",
+  "lastVerified": "2026-11-19T10:02:04.301Z",
+  "qualityScore": 52
 }

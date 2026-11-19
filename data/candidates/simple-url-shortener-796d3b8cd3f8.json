@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/azlux/Simple-URL-Shortener"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.120Z",
-  "updatedAt": "2026-11-19T08:11:14.120Z"
+  "updatedAt": "2026-11-19T08:11:14.120Z",
+  "lastVerified": "2026-11-19T10:18:12.316Z",
+  "qualityScore": 55
 }

@@ -31,7 +31,9 @@
   "evidenceUrls": [
     "https://github.com/Siddhant-K-code/LLMTraceFX"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:15.540Z",
-  "updatedAt": "2026-11-19T08:11:15.540Z"
+  "updatedAt": "2026-11-19T08:11:15.540Z",
+  "lastVerified": "2026-11-19T10:10:28.928Z",
+  "qualityScore": 91
 }

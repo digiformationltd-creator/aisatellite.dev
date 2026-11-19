@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/sjdonado/bit"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.120Z",
-  "updatedAt": "2026-11-19T08:11:14.120Z"
+  "updatedAt": "2026-11-19T08:11:14.120Z",
+  "lastVerified": "2026-11-19T10:00:42.820Z",
+  "qualityScore": 55
 }

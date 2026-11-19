@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/services/active-directory/external-identities/b2c/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.777Z",
-  "updatedAt": "2026-11-19T08:11:13.777Z"
+  "updatedAt": "2026-11-19T08:11:13.777Z",
+  "lastVerified": "2026-11-19T09:58:54.741Z",
+  "qualityScore": 47
 }

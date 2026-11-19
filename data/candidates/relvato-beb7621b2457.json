@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.relvato.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:13.787Z",
-  "updatedAt": "2026-11-19T08:11:13.787Z"
+  "updatedAt": "2026-11-19T08:11:13.787Z",
+  "lastVerified": "2026-11-19T10:16:25.769Z",
+  "qualityScore": 52
 }

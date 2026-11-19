@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/brufdev/many-notes"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-19T08:11:14.119Z",
-  "updatedAt": "2026-11-19T08:11:14.119Z"
+  "updatedAt": "2026-11-19T08:11:14.119Z",
+  "lastVerified": "2026-11-19T10:11:24.735Z",
+  "qualityScore": 55
 }
