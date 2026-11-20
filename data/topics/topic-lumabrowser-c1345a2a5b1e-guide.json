@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lumabrowser-c1345a2a5b1e-guide",
+  "title": "How to Deploy LumaBrowser in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lumabrowser-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LumaBrowser.",
+  "targetKeywords": [
+    "LumaBrowser",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/amurgola/LumaBrowser"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting LumaBrowser with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-20T12:34:45.545Z"
+}

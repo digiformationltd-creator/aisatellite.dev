@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-proofline-sh-ba9f7d851609-guide",
+  "title": "How to Deploy proofline.sh in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-proofline-sh-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for proofline.sh.",
+  "targetKeywords": [
+    "proofline.sh",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://proofline.sh/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting proofline.sh with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-20T12:34:45.546Z"
+}

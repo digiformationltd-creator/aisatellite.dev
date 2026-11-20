@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-muse-cli-bridge-ec10f7731373-guide",
+  "title": "How to Deploy muse-cli-bridge in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-muse-cli-bridge-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for muse-cli-bridge.",
+  "targetKeywords": [
+    "muse-cli-bridge",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/RyanShook/muse-cli-bridge"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting muse-cli-bridge with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-20T12:34:45.546Z"
+}
