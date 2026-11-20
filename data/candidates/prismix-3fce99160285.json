@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://prismix.dev"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-19T08:11:13.787Z",
-  "updatedAt": "2026-11-19T08:11:13.787Z",
-  "lastVerified": "2026-11-19T10:15:27.817Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:04.610Z",
+  "updatedAt": "2026-11-20T07:54:04.610Z"
 }

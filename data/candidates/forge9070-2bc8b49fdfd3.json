@@ -1,0 +1,28 @@
+{
+  "id": "forge9070-2bc8b49fdfd3",
+  "canonicalUrl": "https://github.com/jamesoneill/forge9070",
+  "name": "forge9070",
+  "description": "Independent Rust inference for local Radeon hardware. Vulkan, bounded MoE caches, a configuration UI and a coding-client API. Experimental; target-hardware validation is ongoing.",
+  "category": "local-llm",
+  "tags": [
+    "amd-radeon",
+    "coding-assistant",
+    "llm-inference",
+    "local-ai",
+    "mixture-of-experts",
+    "rust",
+    "vulkan"
+  ],
+  "repositoryUrl": "https://github.com/jamesoneill/forge9070",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-20T07:25:38Z",
+  "evidenceUrls": [
+    "https://github.com/jamesoneill/forge9070"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:05.851Z",
+  "updatedAt": "2026-11-20T07:54:05.851Z"
+}

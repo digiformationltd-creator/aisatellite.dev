@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://db-ip.com/api/free"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-19T08:11:13.779Z",
-  "updatedAt": "2026-11-19T08:11:13.779Z",
-  "lastVerified": "2026-11-19T10:03:12.868Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:04.602Z",
+  "updatedAt": "2026-11-20T07:54:04.602Z"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "free-llm-e78516cb315e",
+  "canonicalUrl": "https://github.com/xinrui-z/free-llm",
+  "name": "free-llm",
+  "description": "🔥 Free LLM APIs & Resources List — collect free GPT / Claude / open-source LLM endpoints, tools and guides for developers.",
+  "category": "free-ai-tools",
+  "tags": [
+    "ai",
+    "ai-tools",
+    "dashboard",
+    "free-api",
+    "llm",
+    "openai-api"
+  ],
+  "repositoryUrl": "https://github.com/xinrui-z/free-llm",
+  "officialUrl": "https://free-llm-apis.pages.dev/",
+  "documentationUrl": "https://free-llm-apis.pages.dev/",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/xinrui-z/free-llm/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 26,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-20T06:56:58Z",
+  "evidenceUrls": [
+    "https://github.com/xinrui-z/free-llm"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:05.310Z",
+  "updatedAt": "2026-11-20T07:54:05.310Z"
+}

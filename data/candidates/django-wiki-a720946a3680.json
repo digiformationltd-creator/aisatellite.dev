@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/django-wiki/django-wiki"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-19T08:11:14.120Z",
-  "updatedAt": "2026-11-19T08:11:14.120Z",
-  "lastVerified": "2026-11-19T10:03:52.984Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:04.692Z",
+  "updatedAt": "2026-11-20T07:54:04.692Z"
 }

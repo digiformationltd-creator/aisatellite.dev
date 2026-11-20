@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/services/active-directory/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-19T08:11:13.777Z",
-  "updatedAt": "2026-11-19T08:11:13.777Z",
-  "lastVerified": "2026-11-19T09:58:54.252Z",
-  "qualityScore": 47
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:04.601Z",
+  "updatedAt": "2026-11-20T07:54:04.601Z"
 }

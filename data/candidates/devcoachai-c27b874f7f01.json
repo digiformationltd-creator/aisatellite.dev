@@ -1,0 +1,32 @@
+{
+  "id": "devcoachai-c27b874f7f01",
+  "canonicalUrl": "https://github.com/SUDARSHANCHAUDHARI/DevCoachAI",
+  "name": "DevCoachAI",
+  "description": "Local-first analyzer for developer AI coding-assistant usage",
+  "category": "ai-coding",
+  "tags": [
+    "ai-coding",
+    "analytics",
+    "archived",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "local-first",
+    "prompt-engineering",
+    "session-analysis"
+  ],
+  "repositoryUrl": "https://github.com/SUDARSHANCHAUDHARI/DevCoachAI",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/SUDARSHANCHAUDHARI/DevCoachAI/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-20T06:30:28Z",
+  "evidenceUrls": [
+    "https://github.com/SUDARSHANCHAUDHARI/DevCoachAI"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:06.364Z",
+  "updatedAt": "2026-11-20T07:54:06.364Z"
+}

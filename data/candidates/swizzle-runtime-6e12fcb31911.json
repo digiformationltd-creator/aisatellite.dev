@@ -23,15 +23,13 @@
   "licenseEvidenceUrl": "https://github.com/Swizzle-AI/swizzle-runtime/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 2,
+  "githubStars": 3,
   "githubForks": 1,
-  "lastRepositoryUpdate": "2026-11-15T05:32:06Z",
+  "lastRepositoryUpdate": "2026-11-20T06:46:19Z",
   "evidenceUrls": [
     "https://github.com/Swizzle-AI/swizzle-runtime"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:54.862Z",
-  "updatedAt": "2026-11-15T07:22:54.862Z",
-  "lastVerified": "2026-11-19T10:19:57.916Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:05.851Z",
+  "updatedAt": "2026-11-20T07:54:05.851Z"
 }

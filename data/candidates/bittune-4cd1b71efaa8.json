@@ -1,0 +1,30 @@
+{
+  "id": "bittune-4cd1b71efaa8",
+  "canonicalUrl": "https://github.com/bitcloud-ai/Bittune",
+  "name": "Bittune",
+  "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with auditable run evidence.",
+  "category": "local-llm",
+  "tags": [
+    "benchmarking",
+    "deployment",
+    "gpu",
+    "llm-agent",
+    "llm-inference",
+    "sglang",
+    "vllm"
+  ],
+  "repositoryUrl": "https://github.com/bitcloud-ai/Bittune",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/bitcloud-ai/Bittune/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 359,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-20T05:32:12Z",
+  "evidenceUrls": [
+    "https://github.com/bitcloud-ai/Bittune"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:05.851Z",
+  "updatedAt": "2026-11-20T07:54:05.851Z"
+}

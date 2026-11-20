@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://lyrion.org/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-19T08:11:14.118Z",
-  "updatedAt": "2026-11-19T08:11:14.118Z",
-  "lastVerified": "2026-11-19T10:11:07.409Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:04.688Z",
+  "updatedAt": "2026-11-20T07:54:04.688Z"
 }

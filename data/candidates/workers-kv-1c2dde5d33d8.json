@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://developers.cloudflare.com/kv"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-19T08:11:13.778Z",
-  "updatedAt": "2026-11-19T08:11:13.778Z",
-  "lastVerified": "2026-11-19T10:22:53.041Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-20T07:54:04.602Z",
+  "updatedAt": "2026-11-20T07:54:04.602Z"
 }
