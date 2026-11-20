@@ -29,7 +29,9 @@
   "evidenceUrls": [
     "https://github.com/cbandarac58-del/tools"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:05.310Z",
-  "updatedAt": "2026-11-20T07:54:05.310Z"
+  "updatedAt": "2026-11-20T07:54:05.310Z",
+  "lastVerified": "2026-11-20T10:07:31.066Z",
+  "qualityScore": 75
 }

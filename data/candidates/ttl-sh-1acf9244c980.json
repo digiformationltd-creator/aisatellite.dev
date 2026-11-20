@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ttl.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.620Z",
-  "updatedAt": "2026-11-20T07:54:04.620Z"
+  "updatedAt": "2026-11-20T07:54:04.620Z",
+  "lastVerified": "2026-11-20T10:07:47.771Z",
+  "qualityScore": 52
 }

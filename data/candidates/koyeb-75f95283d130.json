@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.koyeb.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.614Z",
-  "updatedAt": "2026-11-20T07:54:04.614Z"
+  "updatedAt": "2026-11-20T07:54:04.614Z",
+  "lastVerified": "2026-11-20T09:57:13.363Z",
+  "qualityScore": 52
 }

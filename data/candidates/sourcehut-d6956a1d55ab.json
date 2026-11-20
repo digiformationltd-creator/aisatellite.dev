@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sourcehut.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.692Z",
-  "updatedAt": "2026-11-20T07:54:04.692Z"
+  "updatedAt": "2026-11-20T07:54:04.692Z",
+  "lastVerified": "2026-11-20T10:05:43.324Z",
+  "qualityScore": 52
 }

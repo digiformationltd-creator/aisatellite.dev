@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/snapcast/snapcast"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.688Z",
-  "updatedAt": "2026-11-20T07:54:04.688Z"
+  "updatedAt": "2026-11-20T07:54:04.688Z",
+  "lastVerified": "2026-11-20T10:05:32.442Z",
+  "qualityScore": 55
 }

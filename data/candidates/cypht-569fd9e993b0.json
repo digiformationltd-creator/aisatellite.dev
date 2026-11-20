@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cypht.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.684Z",
-  "updatedAt": "2026-11-20T07:54:04.684Z"
+  "updatedAt": "2026-11-20T07:54:04.684Z",
+  "lastVerified": "2026-11-20T09:51:21.004Z",
+  "qualityScore": 52
 }

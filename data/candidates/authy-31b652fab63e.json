@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://authy.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.607Z",
-  "updatedAt": "2026-11-20T07:54:04.607Z"
+  "updatedAt": "2026-11-20T07:54:04.607Z",
+  "lastVerified": "2026-11-20T09:48:53.939Z",
+  "qualityScore": 52
 }

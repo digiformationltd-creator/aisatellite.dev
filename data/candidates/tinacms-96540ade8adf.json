@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tina.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.605Z",
-  "updatedAt": "2026-11-20T07:54:04.605Z"
+  "updatedAt": "2026-11-20T07:54:04.605Z",
+  "lastVerified": "2026-11-20T10:07:21.406Z",
+  "qualityScore": 52
 }

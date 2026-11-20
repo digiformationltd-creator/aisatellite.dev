@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://developers.cloudflare.com/queues/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.602Z",
-  "updatedAt": "2026-11-20T07:54:04.602Z"
+  "updatedAt": "2026-11-20T07:54:04.602Z",
+  "lastVerified": "2026-11-20T10:02:51.284Z",
+  "qualityScore": 47
 }

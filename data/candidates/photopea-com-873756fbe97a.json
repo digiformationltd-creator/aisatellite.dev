@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.photopea.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.617Z",
-  "updatedAt": "2026-11-20T07:54:04.617Z"
+  "updatedAt": "2026-11-20T07:54:04.617Z",
+  "lastVerified": "2026-11-20T10:01:29.520Z",
+  "qualityScore": 52
 }

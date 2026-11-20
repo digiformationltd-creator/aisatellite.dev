@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.tomorrow.io/weather-api/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.604Z",
-  "updatedAt": "2026-11-20T07:54:04.604Z"
+  "updatedAt": "2026-11-20T07:54:04.604Z",
+  "lastVerified": "2026-11-20T10:07:29.747Z",
+  "qualityScore": 52
 }

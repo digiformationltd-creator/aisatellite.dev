@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/KincaidYang/whois"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.689Z",
-  "updatedAt": "2026-11-20T07:54:04.689Z"
+  "updatedAt": "2026-11-20T07:54:04.689Z",
+  "lastVerified": "2026-11-20T10:08:59.732Z",
+  "qualityScore": 55
 }

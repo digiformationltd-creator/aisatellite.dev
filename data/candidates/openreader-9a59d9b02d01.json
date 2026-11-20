@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.openreader.richardr.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.688Z",
-  "updatedAt": "2026-11-20T07:54:04.688Z"
+  "updatedAt": "2026-11-20T07:54:04.688Z",
+  "lastVerified": "2026-11-20T10:00:39.192Z",
+  "qualityScore": 52
 }

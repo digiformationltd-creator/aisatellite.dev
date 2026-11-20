@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://claper.co/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.690Z",
-  "updatedAt": "2026-11-20T07:54:04.690Z"
+  "updatedAt": "2026-11-20T07:54:04.690Z",
+  "lastVerified": "2026-11-20T09:50:16.628Z",
+  "qualityScore": 52
 }

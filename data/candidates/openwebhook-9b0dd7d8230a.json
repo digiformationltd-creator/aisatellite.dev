@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://openwebhook.co"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.606Z",
-  "updatedAt": "2026-11-20T07:54:04.606Z"
+  "updatedAt": "2026-11-20T07:54:04.606Z",
+  "lastVerified": "2026-11-20T10:00:48.894Z",
+  "qualityScore": 52
 }

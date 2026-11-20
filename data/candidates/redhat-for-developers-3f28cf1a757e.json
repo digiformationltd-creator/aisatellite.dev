@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://developers.redhat.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.621Z",
-  "updatedAt": "2026-11-20T07:54:04.621Z"
+  "updatedAt": "2026-11-20T07:54:04.621Z",
+  "lastVerified": "2026-11-20T10:03:04.764Z",
+  "qualityScore": 52
 }

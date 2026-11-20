@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://relaticle.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.685Z",
-  "updatedAt": "2026-11-20T07:54:04.685Z"
+  "updatedAt": "2026-11-20T07:54:04.685Z",
+  "lastVerified": "2026-11-20T10:03:11.291Z",
+  "qualityScore": 52
 }

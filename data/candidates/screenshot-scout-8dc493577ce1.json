@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://screenshotscout.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.620Z",
-  "updatedAt": "2026-11-20T07:54:04.620Z"
+  "updatedAt": "2026-11-20T07:54:04.620Z",
+  "lastVerified": "2026-11-20T10:04:15.664Z",
+  "qualityScore": 52
 }

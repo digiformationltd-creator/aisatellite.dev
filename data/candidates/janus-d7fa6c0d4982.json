@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://janus.conf.meetecho.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.684Z",
-  "updatedAt": "2026-11-20T07:54:04.684Z"
+  "updatedAt": "2026-11-20T07:54:04.684Z",
+  "lastVerified": "2026-11-20T09:56:44.845Z",
+  "qualityScore": 52
 }

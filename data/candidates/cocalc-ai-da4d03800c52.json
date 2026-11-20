@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cocalc.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-20T07:54:04.618Z",
-  "updatedAt": "2026-11-20T07:54:04.618Z"
+  "updatedAt": "2026-11-20T07:54:04.618Z",
+  "lastVerified": "2026-11-20T09:50:32.334Z",
+  "qualityScore": 52
 }
