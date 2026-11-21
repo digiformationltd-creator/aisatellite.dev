@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.umso.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.728Z",
-  "updatedAt": "2026-11-21T07:52:25.728Z"
+  "updatedAt": "2026-11-21T07:52:25.728Z",
+  "lastVerified": "2026-11-21T09:40:34.147Z",
+  "qualityScore": 52
 }

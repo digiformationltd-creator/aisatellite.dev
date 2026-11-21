@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.tickgit.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.718Z",
-  "updatedAt": "2026-11-21T07:52:25.718Z"
+  "updatedAt": "2026-11-21T07:52:25.718Z",
+  "lastVerified": "2026-11-21T09:39:41.560Z",
+  "qualityScore": 52
 }

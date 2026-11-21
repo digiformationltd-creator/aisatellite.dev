@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://middlewarehq.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.753Z",
-  "updatedAt": "2026-11-21T07:52:25.753Z"
+  "updatedAt": "2026-11-21T07:52:25.753Z",
+  "lastVerified": "2026-11-21T09:31:42.063Z",
+  "qualityScore": 52
 }

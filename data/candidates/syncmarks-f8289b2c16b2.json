@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codeberg.org/Offerel/SyncMarks-Webapp"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.754Z",
-  "updatedAt": "2026-11-21T07:52:25.754Z"
+  "updatedAt": "2026-11-21T07:52:25.754Z",
+  "lastVerified": "2026-11-21T09:39:13.356Z",
+  "qualityScore": 52
 }

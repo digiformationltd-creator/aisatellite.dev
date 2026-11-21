@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.ip2location.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.715Z",
-  "updatedAt": "2026-11-21T07:52:25.715Z"
+  "updatedAt": "2026-11-21T07:52:25.715Z",
+  "lastVerified": "2026-11-21T09:29:00.726Z",
+  "qualityScore": 52
 }

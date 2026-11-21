@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://downtimemonkey.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.722Z",
-  "updatedAt": "2026-11-21T07:52:25.722Z"
+  "updatedAt": "2026-11-21T07:52:25.722Z",
+  "lastVerified": "2026-11-21T09:24:38.264Z",
+  "qualityScore": 52
 }

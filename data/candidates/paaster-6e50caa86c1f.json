@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://paaster.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.760Z",
-  "updatedAt": "2026-11-21T07:52:25.760Z"
+  "updatedAt": "2026-11-21T07:52:25.760Z",
+  "lastVerified": "2026-11-21T09:33:49.915Z",
+  "qualityScore": 52
 }

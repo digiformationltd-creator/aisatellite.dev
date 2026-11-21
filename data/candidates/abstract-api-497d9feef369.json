@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.abstractapi.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.714Z",
-  "updatedAt": "2026-11-21T07:52:25.714Z"
+  "updatedAt": "2026-11-21T07:52:25.714Z",
+  "lastVerified": "2026-11-21T09:20:01.087Z",
+  "qualityScore": 52
 }

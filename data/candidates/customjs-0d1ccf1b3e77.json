@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.customjs.space"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.715Z",
-  "updatedAt": "2026-11-21T07:52:25.715Z"
+  "updatedAt": "2026-11-21T07:52:25.715Z",
+  "lastVerified": "2026-11-21T09:23:27.536Z",
+  "qualityScore": 52
 }

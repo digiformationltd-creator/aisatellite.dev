@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://upstream.codes/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.714Z",
-  "updatedAt": "2026-11-21T07:52:25.714Z"
+  "updatedAt": "2026-11-21T07:52:25.714Z",
+  "lastVerified": "2026-11-21T09:40:39.382Z",
+  "qualityScore": 52
 }

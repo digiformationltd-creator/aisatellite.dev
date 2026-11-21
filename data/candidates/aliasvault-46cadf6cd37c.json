@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.aliasvault.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.760Z",
-  "updatedAt": "2026-11-21T07:52:25.760Z"
+  "updatedAt": "2026-11-21T07:52:25.760Z",
+  "lastVerified": "2026-11-21T09:20:23.745Z",
+  "qualityScore": 52
 }

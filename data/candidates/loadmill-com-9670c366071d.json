@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.loadmill.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.718Z",
-  "updatedAt": "2026-11-21T07:52:25.718Z"
+  "updatedAt": "2026-11-21T07:52:25.718Z",
+  "lastVerified": "2026-11-21T09:30:24.448Z",
+  "qualityScore": 52
 }

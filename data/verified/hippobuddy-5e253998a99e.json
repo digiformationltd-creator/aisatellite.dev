@@ -1,0 +1,37 @@
+{
+  "id": "hippobuddy-5e253998a99e",
+  "canonicalUrl": "https://github.com/Puteitous/HippoBuddy",
+  "name": "HippoBuddy",
+  "description": "HippoBuddy — AI-powered desktop assistant for chat, coding, and office workflows.",
+  "category": "ai-coding",
+  "tags": [
+    "agent",
+    "ai-assistants",
+    "ai-coding",
+    "chatbot",
+    "desktop-app",
+    "electron",
+    "java",
+    "ollama",
+    "openai",
+    "productivity"
+  ],
+  "repositoryUrl": "https://github.com/Puteitous/HippoBuddy",
+  "officialUrl": "https://www.hippobuddy.cn/",
+  "documentationUrl": "https://www.hippobuddy.cn/",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/Puteitous/HippoBuddy/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 57,
+  "githubForks": 11,
+  "lastRepositoryUpdate": "2026-11-21T07:36:17Z",
+  "evidenceUrls": [
+    "https://github.com/Puteitous/HippoBuddy"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-21T07:52:27.240Z",
+  "updatedAt": "2026-11-21T07:52:27.240Z",
+  "lastVerified": "2026-11-21T09:27:56.771Z",
+  "qualityScore": 91
+}

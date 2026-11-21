@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://draw.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.760Z",
-  "updatedAt": "2026-11-21T07:52:25.760Z"
+  "updatedAt": "2026-11-21T07:52:25.760Z",
+  "lastVerified": "2026-11-21T09:24:39.473Z",
+  "qualityScore": 52
 }

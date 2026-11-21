@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://etherpad.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.760Z",
-  "updatedAt": "2026-11-21T07:52:25.760Z"
+  "updatedAt": "2026-11-21T07:52:25.760Z",
+  "lastVerified": "2026-11-21T09:25:21.209Z",
+  "qualityScore": 52
 }

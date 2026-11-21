@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://DjangoCRM.github.io/info/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.755Z",
-  "updatedAt": "2026-11-21T07:52:25.755Z"
+  "updatedAt": "2026-11-21T07:52:25.755Z",
+  "lastVerified": "2026-11-21T09:24:17.775Z",
+  "qualityScore": 52
 }

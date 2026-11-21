@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://positionstack.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.728Z",
-  "updatedAt": "2026-11-21T07:52:25.728Z"
+  "updatedAt": "2026-11-21T07:52:25.728Z",
+  "lastVerified": "2026-11-21T09:34:42.899Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/MohamedElashri/snipo"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.760Z",
-  "updatedAt": "2026-11-21T07:52:25.760Z"
+  "updatedAt": "2026-11-21T07:52:25.760Z",
+  "lastVerified": "2026-11-21T09:38:01.233Z",
+  "qualityScore": 55
 }

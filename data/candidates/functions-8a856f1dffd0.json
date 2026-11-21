@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://azure.microsoft.com/services/functions/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.714Z",
-  "updatedAt": "2026-11-21T07:52:25.714Z"
+  "updatedAt": "2026-11-21T07:52:25.714Z",
+  "lastVerified": "2026-11-21T09:26:35.482Z",
+  "qualityScore": 47
 }

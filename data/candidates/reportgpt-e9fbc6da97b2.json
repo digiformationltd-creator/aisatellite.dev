@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ReportGPT.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.725Z",
-  "updatedAt": "2026-11-21T07:52:25.725Z"
+  "updatedAt": "2026-11-21T07:52:25.725Z",
+  "lastVerified": "2026-11-21T09:35:51.115Z",
+  "qualityScore": 52
 }

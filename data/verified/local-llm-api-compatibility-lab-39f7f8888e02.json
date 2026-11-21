@@ -1,0 +1,28 @@
+{
+  "id": "local-llm-api-compatibility-lab-39f7f8888e02",
+  "canonicalUrl": "https://github.com/Bunch24/local-llm-api-compatibility-lab",
+  "name": "local-llm-api-compatibility-lab",
+  "description": "A reproducible lab for checking local LLM OpenAI API compatibility across endpoints, streaming, tools, errors, and concurrency.",
+  "category": "local-llm",
+  "tags": [
+    "benchmark",
+    "compatibility",
+    "llm-inference",
+    "local-llm",
+    "openai-api"
+  ],
+  "repositoryUrl": "https://github.com/Bunch24/local-llm-api-compatibility-lab",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-21T05:39:41Z",
+  "evidenceUrls": [
+    "https://github.com/Bunch24/local-llm-api-compatibility-lab"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-21T07:52:26.742Z",
+  "updatedAt": "2026-11-21T07:52:26.742Z",
+  "lastVerified": "2026-11-21T09:30:27.933Z",
+  "qualityScore": 64
+}

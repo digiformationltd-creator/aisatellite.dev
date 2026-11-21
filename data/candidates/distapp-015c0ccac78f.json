@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://distapp.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.721Z",
-  "updatedAt": "2026-11-21T07:52:25.721Z"
+  "updatedAt": "2026-11-21T07:52:25.721Z",
+  "lastVerified": "2026-11-21T09:24:16.982Z",
+  "qualityScore": 52
 }

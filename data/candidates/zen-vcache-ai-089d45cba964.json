@@ -27,7 +27,9 @@
   "evidenceUrls": [
     "https://github.com/simonezpx3/zen-vcache-ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:26.741Z",
-  "updatedAt": "2026-11-21T07:52:26.741Z"
+  "updatedAt": "2026-11-21T07:52:26.741Z",
+  "lastVerified": "2026-11-21T09:42:08.985Z",
+  "qualityScore": 89
 }

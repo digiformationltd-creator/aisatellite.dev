@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.inventree.org/en/latest/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.757Z",
-  "updatedAt": "2026-11-21T07:52:25.757Z"
+  "updatedAt": "2026-11-21T07:52:25.757Z",
+  "lastVerified": "2026-11-21T09:28:54.702Z",
+  "qualityScore": 52
 }

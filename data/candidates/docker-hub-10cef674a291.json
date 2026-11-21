@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://hub.docker.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.731Z",
-  "updatedAt": "2026-11-21T07:52:25.731Z"
+  "updatedAt": "2026-11-21T07:52:25.731Z",
+  "lastVerified": "2026-11-21T09:24:25.858Z",
+  "qualityScore": 52
 }

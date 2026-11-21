@@ -1,0 +1,22 @@
+{
+  "id": "context-dev-3a7332999054",
+  "canonicalUrl": "https://www.context.dev/",
+  "name": "Context.dev",
+  "description": "Web scraping API with 1,000 API credits per month (1,000 standard scrapes) plus 10,000 one-time Logo Link requests, no credit card required.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.context.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.context.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-21T07:52:25.715Z",
+  "updatedAt": "2026-11-21T07:52:25.715Z",
+  "lastVerified": "2026-11-21T09:23:04.905Z",
+  "qualityScore": 52
+}

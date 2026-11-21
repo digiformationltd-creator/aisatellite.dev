@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cratedb.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.727Z",
-  "updatedAt": "2026-11-21T07:52:25.727Z"
+  "updatedAt": "2026-11-21T07:52:25.727Z",
+  "lastVerified": "2026-11-21T09:23:19.379Z",
+  "qualityScore": 52
 }

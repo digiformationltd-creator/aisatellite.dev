@@ -1,0 +1,22 @@
+{
+  "id": "kwes-io-1bcdeb390e85",
+  "canonicalUrl": "https://kwesforms.com/",
+  "name": "Kwes.io",
+  "description": "Feature rich form endpoint. Works great with static sites. The free plan includes up to 1 website with up to 50 monthly submissions.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://kwesforms.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://kwesforms.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-21T07:52:25.725Z",
+  "updatedAt": "2026-11-21T07:52:25.725Z",
+  "lastVerified": "2026-11-21T09:29:44.452Z",
+  "qualityScore": 52
+}

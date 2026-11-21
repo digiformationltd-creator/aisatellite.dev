@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://qrdx.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.728Z",
-  "updatedAt": "2026-11-21T07:52:25.728Z"
+  "updatedAt": "2026-11-21T07:52:25.728Z",
+  "lastVerified": "2026-11-21T09:35:20.169Z",
+  "qualityScore": 52
 }

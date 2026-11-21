@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://teamplify.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.717Z",
-  "updatedAt": "2026-11-21T07:52:25.717Z"
+  "updatedAt": "2026-11-21T07:52:25.717Z",
+  "lastVerified": "2026-11-21T09:39:24.714Z",
+  "qualityScore": 52
 }

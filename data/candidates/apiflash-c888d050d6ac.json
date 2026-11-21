@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://apiflash.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.731Z",
-  "updatedAt": "2026-11-21T07:52:25.731Z"
+  "updatedAt": "2026-11-21T07:52:25.731Z",
+  "lastVerified": "2026-11-21T09:20:45.843Z",
+  "qualityScore": 52
 }

@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://pastefy.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.760Z",
   "updatedAt": "2026-11-21T07:52:27.244Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-21T09:34:02.073Z",
+  "qualityScore": 52
 }

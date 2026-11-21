@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://estuary.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.715Z",
-  "updatedAt": "2026-11-21T07:52:25.715Z"
+  "updatedAt": "2026-11-21T07:52:25.715Z",
+  "lastVerified": "2026-11-21T09:25:20.413Z",
+  "qualityScore": 52
 }

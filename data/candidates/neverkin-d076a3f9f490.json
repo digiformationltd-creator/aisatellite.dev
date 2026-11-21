@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://neverkin.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.760Z",
-  "updatedAt": "2026-11-21T07:52:25.760Z"
+  "updatedAt": "2026-11-21T07:52:25.760Z",
+  "lastVerified": "2026-11-21T09:32:22.429Z",
+  "qualityScore": 52
 }

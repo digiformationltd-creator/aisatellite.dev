@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/pymedusa/Medusa"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.758Z",
-  "updatedAt": "2026-11-21T07:52:25.758Z"
+  "updatedAt": "2026-11-21T07:52:25.758Z",
+  "lastVerified": "2026-11-21T09:31:31.103Z",
+  "qualityScore": 55
 }

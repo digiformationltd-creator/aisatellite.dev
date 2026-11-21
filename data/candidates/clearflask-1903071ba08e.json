@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://clearflask.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.761Z",
-  "updatedAt": "2026-11-21T07:52:25.761Z"
+  "updatedAt": "2026-11-21T07:52:25.761Z",
+  "lastVerified": "2026-11-21T09:22:26.425Z",
+  "qualityScore": 52
 }

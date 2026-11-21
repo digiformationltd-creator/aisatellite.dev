@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://www.we.team/en"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-21T07:52:25.728Z",
-  "updatedAt": "2026-11-21T07:52:25.728Z"
+  "updatedAt": "2026-11-21T07:52:25.728Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

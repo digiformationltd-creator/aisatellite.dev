@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://accesserty.com/en/pulse"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.722Z",
-  "updatedAt": "2026-11-21T07:52:25.722Z"
+  "updatedAt": "2026-11-21T07:52:25.722Z",
+  "lastVerified": "2026-11-21T09:20:01.338Z",
+  "qualityScore": 52
 }

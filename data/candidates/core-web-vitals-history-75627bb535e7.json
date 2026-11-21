@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://punits.dev/core-web-vitals-historical/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.722Z",
-  "updatedAt": "2026-11-21T07:52:25.722Z"
+  "updatedAt": "2026-11-21T07:52:25.722Z",
+  "lastVerified": "2026-11-21T09:23:11.918Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://static-web-server.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.763Z",
-  "updatedAt": "2026-11-21T07:52:25.763Z"
+  "updatedAt": "2026-11-21T07:52:25.763Z",
+  "lastVerified": "2026-11-21T09:38:26.943Z",
+  "qualityScore": 52
 }

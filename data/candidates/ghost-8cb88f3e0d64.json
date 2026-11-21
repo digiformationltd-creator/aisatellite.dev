@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ghost.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.754Z",
-  "updatedAt": "2026-11-21T07:52:25.754Z"
+  "updatedAt": "2026-11-21T07:52:25.754Z",
+  "lastVerified": "2026-11-21T09:27:01.390Z",
+  "qualityScore": 52
 }

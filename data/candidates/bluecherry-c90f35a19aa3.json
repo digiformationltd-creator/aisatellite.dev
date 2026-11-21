@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/bluecherrydvr/bluecherry-apps"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.763Z",
-  "updatedAt": "2026-11-21T07:52:25.763Z"
+  "updatedAt": "2026-11-21T07:52:25.763Z",
+  "lastVerified": "2026-11-21T09:21:43.673Z",
+  "qualityScore": 55
 }

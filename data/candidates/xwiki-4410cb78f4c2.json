@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.xwiki.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.763Z",
-  "updatedAt": "2026-11-21T07:52:25.763Z"
+  "updatedAt": "2026-11-21T07:52:25.763Z",
+  "lastVerified": "2026-11-21T09:42:01.264Z",
+  "qualityScore": 52
 }

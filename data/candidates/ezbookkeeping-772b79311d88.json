@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ezbookkeeping.mayswind.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-21T07:52:25.760Z",
-  "updatedAt": "2026-11-21T07:52:25.760Z"
+  "updatedAt": "2026-11-21T07:52:25.760Z",
+  "lastVerified": "2026-11-21T09:25:31.636Z",
+  "qualityScore": 52
 }

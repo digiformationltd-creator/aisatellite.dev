@@ -1,0 +1,35 @@
+{
+  "id": "zen-vcache-ai-089d45cba964",
+  "canonicalUrl": "https://github.com/simonezpx3/zen-vcache-ai",
+  "name": "zen-vcache-ai",
+  "description": "Practical 3D V-Cache (Ryzen X3D) acceleration, benchmarks, AVX-512 kernels, and llama.cpp MoE tuning for local AI.",
+  "category": "local-llm",
+  "tags": [
+    "3d-vcache",
+    "avx512",
+    "llama-cpp",
+    "llm-inference",
+    "local-ai",
+    "moe",
+    "ryzen-x3d",
+    "vector-search"
+  ],
+  "repositoryUrl": "https://github.com/simonezpx3/zen-vcache-ai",
+  "officialUrl": "https://simonezpx3.github.io/zen-vcache-ai/",
+  "documentationUrl": "https://simonezpx3.github.io/zen-vcache-ai/",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/simonezpx3/zen-vcache-ai/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-21T06:01:58Z",
+  "evidenceUrls": [
+    "https://github.com/simonezpx3/zen-vcache-ai"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-21T07:52:26.741Z",
+  "updatedAt": "2026-11-21T07:52:26.741Z",
+  "lastVerified": "2026-11-21T09:42:08.985Z",
+  "qualityScore": 89
+}
