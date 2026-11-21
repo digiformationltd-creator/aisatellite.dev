@@ -1,0 +1,26 @@
+{
+  "id": "local-code-model-memory-planner-6c5a765bd04d",
+  "canonicalUrl": "https://github.com/Ricardgu/local-code-model-memory-planner",
+  "name": "local-code-model-memory-planner",
+  "description": "A calculation-first planner for estimating weights, KV cache, workspace, buffers, and headroom for local code models.",
+  "category": "local-llm",
+  "tags": [
+    "code-models",
+    "gpu-memory",
+    "llm-inference",
+    "local-llm",
+    "memory-planning"
+  ],
+  "repositoryUrl": "https://github.com/Ricardgu/local-code-model-memory-planner",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-21T05:44:06Z",
+  "evidenceUrls": [
+    "https://github.com/Ricardgu/local-code-model-memory-planner"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:26.742Z",
+  "updatedAt": "2026-11-21T07:52:26.742Z"
+}

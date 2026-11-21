@@ -2,7 +2,7 @@
   "id": "cockroachdb-cloud-97f719817bfe",
   "canonicalUrl": "https://www.cockroachlabs.com/pricing",
   "name": "CockroachDB Cloud",
-  "description": "Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://www.cockroachlabs.com/docs/cockroachcloud/metrics-request-units.html))",
+  "description": "Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://docs.cockroachlabs.com/docs/cockroachcloud/metrics-request-units))",
   "category": "free-tools",
   "tags": [
     "free-tools",
@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.cockroachlabs.com/pricing/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-20T07:54:04.615Z",
-  "updatedAt": "2026-11-20T07:54:04.615Z",
-  "lastVerified": "2026-11-20T09:50:33.619Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:25.727Z",
+  "updatedAt": "2026-11-21T07:52:25.727Z"
 }

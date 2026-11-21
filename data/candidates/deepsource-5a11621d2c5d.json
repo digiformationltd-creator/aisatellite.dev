@@ -1,0 +1,20 @@
+{
+  "id": "deepsource-5a11621d2c5d",
+  "canonicalUrl": "https://deepsource.com/",
+  "name": "DeepSource",
+  "description": "DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://deepsource.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://deepsource.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:25.717Z",
+  "updatedAt": "2026-11-21T07:52:25.717Z"
+}

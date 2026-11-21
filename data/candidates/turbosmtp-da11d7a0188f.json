@@ -1,0 +1,20 @@
+{
+  "id": "turbosmtp-da11d7a0188f",
+  "canonicalUrl": "https://serversmtp.com/",
+  "name": "turboSMTP",
+  "description": "SMTP relay service, free for 200 emails per day or 6000 emails per month, free forever, no time limit, no expiry. Web API, SPF/DKIM authentication, suppression management, 1 sending domain, 2 API keys, 2FA, ticket and chat support, GDPR compliant.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://serversmtp.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://serversmtp.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:25.725Z",
+  "updatedAt": "2026-11-21T07:52:25.725Z"
+}

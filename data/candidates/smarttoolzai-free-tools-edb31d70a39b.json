@@ -29,9 +29,7 @@
   "evidenceUrls": [
     "https://github.com/cbandarac58-del/smarttoolzai-free-tools"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-20T07:54:05.310Z",
-  "updatedAt": "2026-11-20T07:54:05.310Z",
-  "lastVerified": "2026-11-20T10:05:22.890Z",
-  "qualityScore": 75
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:26.260Z",
+  "updatedAt": "2026-11-21T07:52:26.260Z"
 }

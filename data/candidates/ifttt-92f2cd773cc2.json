@@ -1,0 +1,20 @@
+{
+  "id": "ifttt-92f2cd773cc2",
+  "canonicalUrl": "https://ifttt.ai/",
+  "name": "IFTTT",
+  "description": "Automate your favorite apps and devices. Free 2 Applets",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://ifttt.ai/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://ifttt.ai/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:25.726Z",
+  "updatedAt": "2026-11-21T07:52:25.726Z"
+}

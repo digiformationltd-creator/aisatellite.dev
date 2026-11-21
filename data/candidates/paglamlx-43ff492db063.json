@@ -1,0 +1,33 @@
+{
+  "id": "paglamlx-43ff492db063",
+  "canonicalUrl": "https://github.com/paglaai/PaglaMLX",
+  "name": "PaglaMLX",
+  "description": "Local LLM orchestration for Apple Silicon — native macOS menu-bar app serving MLX models through a smart reverse proxy with Auto-Router, BYOK, and 14+ integration targets.",
+  "category": "local-llm",
+  "tags": [
+    "apple-silicon",
+    "llm",
+    "llm-inference",
+    "local-ai",
+    "mlx",
+    "openai-proxy",
+    "swift",
+    "swiftui"
+  ],
+  "repositoryUrl": "https://github.com/paglaai/PaglaMLX",
+  "officialUrl": "https://www.paglaai.space/products/",
+  "documentationUrl": "https://www.paglaai.space/products/",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/paglaai/PaglaMLX/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 6,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-21T06:21:08Z",
+  "evidenceUrls": [
+    "https://github.com/paglaai/PaglaMLX"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:26.741Z",
+  "updatedAt": "2026-11-21T07:52:26.741Z"
+}

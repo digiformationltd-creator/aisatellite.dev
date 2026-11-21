@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/dani-garcia/vaultwarden"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-20T07:54:04.689Z",
-  "updatedAt": "2026-11-20T07:54:04.689Z",
-  "lastVerified": "2026-11-20T10:08:19.089Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:25.760Z",
+  "updatedAt": "2026-11-21T07:52:25.760Z"
 }

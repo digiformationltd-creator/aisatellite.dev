@@ -24,15 +24,13 @@
   "licenseEvidenceUrl": "https://github.com/jposluns/secureconfig/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 0,
+  "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-20T07:32:04Z",
+  "lastRepositoryUpdate": "2026-11-21T07:45:41Z",
   "evidenceUrls": [
     "https://github.com/jposluns/secureconfig"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-20T07:54:06.364Z",
-  "updatedAt": "2026-11-20T07:54:06.364Z",
-  "lastVerified": "2026-11-20T10:04:24.712Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:27.240Z",
+  "updatedAt": "2026-11-21T07:52:27.240Z"
 }

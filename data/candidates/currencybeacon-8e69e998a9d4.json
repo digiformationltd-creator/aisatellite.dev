@@ -1,0 +1,20 @@
+{
+  "id": "currencybeacon-8e69e998a9d4",
+  "canonicalUrl": "https://currencybeacon.com/",
+  "name": "CurrencyBeacon",
+  "description": "Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://currencybeacon.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://currencybeacon.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:25.715Z",
+  "updatedAt": "2026-11-21T07:52:25.715Z"
+}

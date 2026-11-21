@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://degoo.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-20T07:54:04.617Z",
-  "updatedAt": "2026-11-20T07:54:04.617Z",
-  "lastVerified": "2026-11-20T09:51:36.514Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-21T07:52:25.728Z",
+  "updatedAt": "2026-11-21T07:52:25.728Z"
 }
