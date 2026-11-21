@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-local-llm-e6d9cd5331d7-guide",
+  "title": "How to Deploy local-llm in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-local-llm-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for local-llm.",
+  "targetKeywords": [
+    "local-llm",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/evanwtf/local-llm"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting local-llm with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-21T12:13:05.972Z"
+}

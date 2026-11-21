@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-context-dev-3a7332999054-guide",
+  "title": "How to Deploy Context.dev in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-context-dev-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Context.dev.",
+  "targetKeywords": [
+    "Context.dev",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.context.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Context.dev with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-21T12:13:05.969Z"
+}

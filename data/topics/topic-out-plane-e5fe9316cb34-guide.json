@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-out-plane-e5fe9316cb34-guide",
+  "title": "How to Deploy Out Plane in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-out-plane-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Out Plane.",
+  "targetKeywords": [
+    "Out Plane",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://outplane.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Out Plane with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-21T12:13:05.973Z"
+}

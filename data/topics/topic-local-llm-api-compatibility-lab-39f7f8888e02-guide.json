@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-local-llm-api-compatibility-lab-39f7f8888e02-guide",
+  "title": "How to Deploy local-llm-api-compatibility-lab in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-local-llm-api-compatibility-lab-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for local-llm-api-compatibility-lab.",
+  "targetKeywords": [
+    "local-llm-api-compatibility-lab",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Bunch24/local-llm-api-compatibility-lab"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting local-llm-api-compatibility-lab with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-21T12:13:05.972Z"
+}
