@@ -37,7 +37,9 @@
   "evidenceUrls": [
     "https://github.com/kr4ckhe4d/local-llm-benchmarks"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:44.566Z",
-  "updatedAt": "2026-11-22T07:38:44.566Z"
+  "updatedAt": "2026-11-22T07:38:44.566Z",
+  "lastVerified": "2026-11-22T09:36:43.193Z",
+  "qualityScore": 80
 }

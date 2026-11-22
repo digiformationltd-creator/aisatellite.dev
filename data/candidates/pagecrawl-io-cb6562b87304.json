@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pagecrawl.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.492Z",
-  "updatedAt": "2026-11-22T07:38:43.492Z"
+  "updatedAt": "2026-11-22T07:38:43.492Z",
+  "lastVerified": "2026-11-22T09:39:14.788Z",
+  "qualityScore": 52
 }

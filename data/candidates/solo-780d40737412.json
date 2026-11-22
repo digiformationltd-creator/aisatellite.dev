@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://soloist.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.489Z",
-  "updatedAt": "2026-11-22T07:38:43.489Z"
+  "updatedAt": "2026-11-22T07:38:43.489Z",
+  "lastVerified": "2026-11-22T09:42:48.032Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tigase.net/xmpp-server"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.590Z",
-  "updatedAt": "2026-11-22T07:38:43.590Z"
+  "updatedAt": "2026-11-22T07:38:43.590Z",
+  "lastVerified": "2026-11-22T09:44:04.515Z",
+  "qualityScore": 52
 }

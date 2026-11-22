@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://openmeetings.apache.org/index.html"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.591Z",
-  "updatedAt": "2026-11-22T07:38:43.591Z"
+  "updatedAt": "2026-11-22T07:38:43.591Z",
+  "lastVerified": "2026-11-22T09:38:48.316Z",
+  "qualityScore": 52
 }

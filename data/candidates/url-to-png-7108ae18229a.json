@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/jasonraimondi/url-to-png"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.593Z",
-  "updatedAt": "2026-11-22T07:38:43.593Z"
+  "updatedAt": "2026-11-22T07:38:43.593Z",
+  "lastVerified": "2026-11-22T09:44:48.463Z",
+  "qualityScore": 55
 }

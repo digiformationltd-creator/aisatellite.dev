@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://parseur.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.488Z",
-  "updatedAt": "2026-11-22T07:38:43.488Z"
+  "updatedAt": "2026-11-22T07:38:43.488Z",
+  "lastVerified": "2026-11-22T09:39:20.180Z",
+  "qualityScore": 52
 }

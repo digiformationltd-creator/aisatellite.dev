@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tasmota.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.592Z",
-  "updatedAt": "2026-11-22T07:38:43.592Z"
+  "updatedAt": "2026-11-22T07:38:43.592Z",
+  "lastVerified": "2026-11-22T09:43:43.369Z",
+  "qualityScore": 52
 }

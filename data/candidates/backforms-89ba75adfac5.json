@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://backforms.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.494Z",
-  "updatedAt": "2026-11-22T07:38:43.494Z"
+  "updatedAt": "2026-11-22T07:38:43.494Z",
+  "lastVerified": "2026-11-22T09:29:29.891Z",
+  "qualityScore": 52
 }

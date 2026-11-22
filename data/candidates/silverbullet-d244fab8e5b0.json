@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://silverbullet.md/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.593Z",
-  "updatedAt": "2026-11-22T07:38:43.593Z"
+  "updatedAt": "2026-11-22T07:38:43.593Z",
+  "lastVerified": "2026-11-22T09:42:15.201Z",
+  "qualityScore": 52
 }

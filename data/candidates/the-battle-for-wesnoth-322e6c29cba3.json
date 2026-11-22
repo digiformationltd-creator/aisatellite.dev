@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/wesnoth/wesnoth"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.591Z",
-  "updatedAt": "2026-11-22T07:38:43.591Z"
+  "updatedAt": "2026-11-22T07:38:43.591Z",
+  "lastVerified": "2026-11-22T09:44:00.613Z",
+  "qualityScore": 55
 }

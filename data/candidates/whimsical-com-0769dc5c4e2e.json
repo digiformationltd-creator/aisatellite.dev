@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://whimsical.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.496Z",
-  "updatedAt": "2026-11-22T07:38:43.496Z"
+  "updatedAt": "2026-11-22T07:38:43.496Z",
+  "lastVerified": "2026-11-22T09:45:39.658Z",
+  "qualityScore": 52
 }

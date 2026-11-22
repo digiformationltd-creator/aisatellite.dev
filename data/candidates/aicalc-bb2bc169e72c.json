@@ -28,7 +28,9 @@
   "evidenceUrls": [
     "https://github.com/w932635477-bit/aicalc"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:44.178Z",
-  "updatedAt": "2026-11-22T07:38:44.178Z"
+  "updatedAt": "2026-11-22T07:38:44.178Z",
+  "lastVerified": "2026-11-22T09:28:36.986Z",
+  "qualityScore": 78
 }

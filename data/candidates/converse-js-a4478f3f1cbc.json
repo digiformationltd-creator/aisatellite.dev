@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://conversejs.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.590Z",
-  "updatedAt": "2026-11-22T07:38:43.590Z"
+  "updatedAt": "2026-11-22T07:38:43.590Z",
+  "lastVerified": "2026-11-22T09:30:55.924Z",
+  "qualityScore": 52
 }

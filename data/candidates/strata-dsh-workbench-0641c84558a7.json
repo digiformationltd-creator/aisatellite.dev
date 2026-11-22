@@ -27,7 +27,9 @@
   "evidenceUrls": [
     "https://github.com/regdiliKUN/strata-dsh-workbench"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:44.566Z",
-  "updatedAt": "2026-11-22T07:38:44.566Z"
+  "updatedAt": "2026-11-22T07:38:44.566Z",
+  "lastVerified": "2026-11-22T09:43:09.547Z",
+  "qualityScore": 78
 }

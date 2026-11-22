@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://joinpeertube.org/en/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.592Z",
-  "updatedAt": "2026-11-22T07:38:43.592Z"
+  "updatedAt": "2026-11-22T07:38:43.592Z",
+  "lastVerified": "2026-11-22T09:39:24.961Z",
+  "qualityScore": 52
 }

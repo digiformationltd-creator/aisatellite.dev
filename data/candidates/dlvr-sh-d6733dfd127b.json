@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dlvr.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.496Z",
-  "updatedAt": "2026-11-22T07:38:43.496Z"
+  "updatedAt": "2026-11-22T07:38:43.496Z",
+  "lastVerified": "2026-11-22T09:31:55.639Z",
+  "qualityScore": 52
 }

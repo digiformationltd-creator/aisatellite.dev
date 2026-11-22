@@ -15,8 +15,9 @@
     "https://localcert.net"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-15T07:22:53.764Z",
-  "updatedAt": "2026-11-15T07:22:53.764Z",
-  "lastVerified": "2026-11-15T09:05:08.845Z",
+  "discoveredAt": "2026-11-16T07:28:40.708Z",
+  "updatedAt": "2026-11-16T07:28:40.708Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown",
+  "lastVerified": "2026-11-22T09:36:44.817Z",
   "qualityScore": 52
 }

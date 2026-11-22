@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://livebook.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.593Z",
-  "updatedAt": "2026-11-22T07:38:43.593Z"
+  "updatedAt": "2026-11-22T07:38:43.593Z",
+  "lastVerified": "2026-11-22T09:36:34.404Z",
+  "qualityScore": 52
 }

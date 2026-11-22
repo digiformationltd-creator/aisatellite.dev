@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://texterify.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.492Z",
-  "updatedAt": "2026-11-22T07:38:43.492Z"
+  "updatedAt": "2026-11-22T07:38:43.492Z",
+  "lastVerified": "2026-11-22T09:44:00.179Z",
+  "qualityScore": 47
 }

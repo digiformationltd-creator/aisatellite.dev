@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/ItzCrazyKns/Vane"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.591Z",
-  "updatedAt": "2026-11-22T07:38:43.591Z"
+  "updatedAt": "2026-11-22T07:38:43.591Z",
+  "lastVerified": "2026-11-22T09:45:00.315Z",
+  "qualityScore": 55
 }

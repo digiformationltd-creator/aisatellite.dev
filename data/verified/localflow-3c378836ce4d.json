@@ -1,0 +1,38 @@
+{
+  "id": "localflow-3c378836ce4d",
+  "canonicalUrl": "https://github.com/AverWasTaken/localflow",
+  "name": "localflow",
+  "description": "Local push-to-talk dictation for Windows. Hold Ctrl+Alt, talk, and clean text lands in whatever app you're in. Whisper + a small local LLM on your own GPU, nothing leaves your machine. Custom fine-tuned cleanup model coming next release.",
+  "category": "local-llm",
+  "tags": [
+    "dictation",
+    "faster-whisper",
+    "fine-tuning",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "local-first",
+    "offline",
+    "push-to-talk",
+    "speech-to-text",
+    "voice-typing",
+    "whisper",
+    "windows"
+  ],
+  "repositoryUrl": "https://github.com/AverWasTaken/localflow",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/AverWasTaken/localflow/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-22T05:07:15Z",
+  "evidenceUrls": [
+    "https://github.com/AverWasTaken/localflow"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-22T07:38:44.566Z",
+  "updatedAt": "2026-11-22T07:38:44.566Z",
+  "lastVerified": "2026-11-22T09:36:46.030Z",
+  "qualityScore": 78
+}

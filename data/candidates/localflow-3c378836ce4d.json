@@ -30,7 +30,9 @@
   "evidenceUrls": [
     "https://github.com/AverWasTaken/localflow"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:44.566Z",
-  "updatedAt": "2026-11-22T07:38:44.566Z"
+  "updatedAt": "2026-11-22T07:38:44.566Z",
+  "lastVerified": "2026-11-22T09:36:46.030Z",
+  "qualityScore": 78
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://webhook.site"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.489Z",
-  "updatedAt": "2026-11-22T07:38:43.489Z"
+  "updatedAt": "2026-11-22T07:38:43.489Z",
+  "lastVerified": "2026-11-22T09:45:25.594Z",
+  "qualityScore": 52
 }

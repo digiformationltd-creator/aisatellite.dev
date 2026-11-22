@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://snill.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.495Z",
-  "updatedAt": "2026-11-22T07:38:43.495Z"
+  "updatedAt": "2026-11-22T07:38:43.495Z",
+  "lastVerified": "2026-11-22T09:42:44.122Z",
+  "qualityScore": 52
 }

@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://umami.is/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.589Z",
   "updatedAt": "2026-11-22T07:38:45.033Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-22T09:44:40.956Z",
+  "qualityScore": 52
 }

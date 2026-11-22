@@ -14,8 +14,10 @@
   "evidenceUrls": [
     "https://localcert.net"
   ],
-  "status": "rejected",
+  "status": "verified",
   "discoveredAt": "2026-11-16T07:28:40.708Z",
   "updatedAt": "2026-11-16T07:28:40.708Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown",
+  "lastVerified": "2026-11-22T09:36:44.817Z",
+  "qualityScore": 52
 }

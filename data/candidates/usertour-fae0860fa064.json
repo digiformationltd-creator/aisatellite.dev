@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.usertour.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.593Z",
-  "updatedAt": "2026-11-22T07:38:43.593Z"
+  "updatedAt": "2026-11-22T07:38:43.593Z",
+  "lastVerified": "2026-11-22T09:44:50.669Z",
+  "qualityScore": 52
 }

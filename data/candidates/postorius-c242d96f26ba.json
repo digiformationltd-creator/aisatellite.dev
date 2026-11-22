@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.mailman3.org/projects/postorius/en/latest/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.590Z",
-  "updatedAt": "2026-11-22T07:38:43.590Z"
+  "updatedAt": "2026-11-22T07:38:43.590Z",
+  "lastVerified": "2026-11-22T09:39:54.559Z",
+  "qualityScore": 52
 }

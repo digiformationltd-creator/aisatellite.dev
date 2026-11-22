@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://qrtracer.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.496Z",
-  "updatedAt": "2026-11-22T07:38:43.496Z"
+  "updatedAt": "2026-11-22T07:38:43.496Z",
+  "lastVerified": "2026-11-22T09:40:25.187Z",
+  "qualityScore": 52
 }

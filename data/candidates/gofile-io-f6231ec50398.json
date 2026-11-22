@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gofile.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.496Z",
-  "updatedAt": "2026-11-22T07:38:43.496Z"
+  "updatedAt": "2026-11-22T07:38:43.496Z",
+  "lastVerified": "2026-11-22T09:34:18.823Z",
+  "qualityScore": 52
 }

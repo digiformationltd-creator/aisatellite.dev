@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pdftemplateapi.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.488Z",
-  "updatedAt": "2026-11-22T07:38:43.488Z"
+  "updatedAt": "2026-11-22T07:38:43.488Z",
+  "lastVerified": "2026-11-22T09:43:49.903Z",
+  "qualityScore": 52
 }

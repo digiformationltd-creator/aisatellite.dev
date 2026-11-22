@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://anyhook.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.487Z",
-  "updatedAt": "2026-11-22T07:38:43.487Z"
+  "updatedAt": "2026-11-22T07:38:43.487Z",
+  "lastVerified": "2026-11-22T09:28:59.626Z",
+  "qualityScore": 52
 }

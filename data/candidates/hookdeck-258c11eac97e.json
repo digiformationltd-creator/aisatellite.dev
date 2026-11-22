@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://hookdeck.com/pricing"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.495Z",
-  "updatedAt": "2026-11-22T07:38:43.495Z"
+  "updatedAt": "2026-11-22T07:38:43.495Z",
+  "lastVerified": "2026-11-22T09:34:53.034Z",
+  "qualityScore": 52
 }

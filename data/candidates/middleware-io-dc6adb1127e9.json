@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://middleware.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.492Z",
-  "updatedAt": "2026-11-22T07:38:43.492Z"
+  "updatedAt": "2026-11-22T07:38:43.492Z",
+  "lastVerified": "2026-11-22T09:37:36.191Z",
+  "qualityScore": 52
 }

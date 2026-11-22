@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/nirui/sshwifty"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-22T07:38:43.594Z",
-  "updatedAt": "2026-11-22T07:38:43.594Z"
+  "updatedAt": "2026-11-22T07:38:43.594Z",
+  "lastVerified": "2026-11-22T09:42:57.074Z",
+  "qualityScore": 55
 }
