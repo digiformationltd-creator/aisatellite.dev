@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-backforms-89ba75adfac5-guide",
+  "title": "How to Deploy Backforms in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-backforms-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Backforms.",
+  "targetKeywords": [
+    "Backforms",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://backforms.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Backforms with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-22T12:20:01.222Z"
+}

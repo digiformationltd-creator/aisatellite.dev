@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ollama-local-ai-offline-504ef72b0432-guide",
+  "title": "How to Deploy ollama-local-ai-offline in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ollama-local-ai-offline-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ollama-local-ai-offline.",
+  "targetKeywords": [
+    "ollama-local-ai-offline",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/thejarasal780-ship-it/ollama-local-ai-offline"
+  ],
+  "priorityScore": 76,
+  "contentGapRationale": "High developer demand for self-hosting ollama-local-ai-offline with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-22T12:20:01.227Z"
+}

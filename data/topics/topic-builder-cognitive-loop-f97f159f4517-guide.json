@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-builder-cognitive-loop-f97f159f4517-guide",
+  "title": "How to Deploy builder-cognitive-loop in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-builder-cognitive-loop-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for builder-cognitive-loop.",
+  "targetKeywords": [
+    "builder-cognitive-loop",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Rbm3267/builder-cognitive-loop"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting builder-cognitive-loop with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-22T12:20:01.222Z"
+}

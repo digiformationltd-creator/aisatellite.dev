@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-free-llm-e78516cb315e-guide",
+  "title": "How to Deploy free-llm in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-free-llm-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for free-llm.",
+  "targetKeywords": [
+    "free-llm",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/xinrui-z/free-llm"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting free-llm with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-22T12:20:01.225Z"
+}
