@@ -31,15 +31,13 @@
   "documentationUrl": "https://loopforge.cn",
   "freeClassification": "unknown",
   "freeTierLimitations": [],
-  "githubStars": 5342,
-  "githubForks": 734,
-  "lastRepositoryUpdate": "2026-11-21T07:35:23Z",
+  "githubStars": 5559,
+  "githubForks": 774,
+  "lastRepositoryUpdate": "2026-11-22T05:32:45Z",
   "evidenceUrls": [
     "https://github.com/Tencent/LoopForge"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-21T07:52:27.240Z",
-  "updatedAt": "2026-11-21T07:52:27.240Z",
-  "lastVerified": "2026-11-21T09:30:50.563Z",
-  "qualityScore": 80
+  "status": "discovered",
+  "discoveredAt": "2026-11-22T07:38:45.031Z",
+  "updatedAt": "2026-11-22T07:38:45.031Z"
 }

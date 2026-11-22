@@ -16,10 +16,8 @@
     "https://plane.so/",
     "https://plane.so"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-21T07:52:25.762Z",
-  "updatedAt": "2026-11-21T07:52:27.244Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-21T09:34:28.025Z",
-  "qualityScore": 57
+  "status": "discovered",
+  "discoveredAt": "2026-11-22T07:38:43.595Z",
+  "updatedAt": "2026-11-22T07:38:45.034Z",
+  "githubStars": 0
 }
