@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.staticforms.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.126Z",
-  "updatedAt": "2026-11-23T08:26:58.126Z"
+  "updatedAt": "2026-11-23T08:26:58.126Z",
+  "lastVerified": "2026-11-23T10:45:43.380Z",
+  "qualityScore": 52
 }

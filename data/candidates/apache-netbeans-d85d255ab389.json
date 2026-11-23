@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://netbeans.apache.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.129Z",
-  "updatedAt": "2026-11-23T08:26:58.129Z"
+  "updatedAt": "2026-11-23T08:26:58.129Z",
+  "lastVerified": "2026-11-23T10:27:17.871Z",
+  "qualityScore": 52
 }

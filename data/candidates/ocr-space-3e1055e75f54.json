@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ocr.space/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.119Z",
-  "updatedAt": "2026-11-23T08:26:58.119Z"
+  "updatedAt": "2026-11-23T08:26:58.119Z",
+  "lastVerified": "2026-11-23T10:39:47.053Z",
+  "qualityScore": 52
 }

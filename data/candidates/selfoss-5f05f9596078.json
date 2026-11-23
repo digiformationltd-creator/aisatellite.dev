@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://selfoss.aditu.de/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.466Z",
-  "updatedAt": "2026-11-23T08:26:58.466Z"
+  "updatedAt": "2026-11-23T08:26:58.466Z",
+  "lastVerified": "2026-11-23T10:44:07.366Z",
+  "qualityScore": 52
 }

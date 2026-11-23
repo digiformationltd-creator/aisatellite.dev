@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://formspark.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.126Z",
-  "updatedAt": "2026-11-23T08:26:58.126Z"
+  "updatedAt": "2026-11-23T08:26:58.126Z",
+  "lastVerified": "2026-11-23T10:33:08.096Z",
+  "qualityScore": 52
 }

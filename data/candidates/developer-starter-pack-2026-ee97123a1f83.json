@@ -30,7 +30,9 @@
   "evidenceUrls": [
     "https://github.com/DMS-Menula/developer-starter-pack-2026"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:59.354Z",
-  "updatedAt": "2026-11-23T08:26:59.354Z"
+  "updatedAt": "2026-11-23T08:26:59.354Z",
+  "lastVerified": "2026-11-23T10:30:42.143Z",
+  "qualityScore": 77
 }

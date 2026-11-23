@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://iptrace.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.119Z",
-  "updatedAt": "2026-11-23T08:26:58.119Z"
+  "updatedAt": "2026-11-23T08:26:58.119Z",
+  "lastVerified": "2026-11-23T10:35:54.898Z",
+  "qualityScore": 52
 }

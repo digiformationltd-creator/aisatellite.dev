@@ -25,7 +25,9 @@
   "evidenceUrls": [
     "https://github.com/xinrui-z/free-llm"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:59.354Z",
-  "updatedAt": "2026-11-23T08:26:59.354Z"
+  "updatedAt": "2026-11-23T08:26:59.354Z",
+  "lastVerified": "2026-11-23T10:33:19.081Z",
+  "qualityScore": 91
 }

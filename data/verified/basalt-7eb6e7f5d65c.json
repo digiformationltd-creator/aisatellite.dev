@@ -28,15 +28,15 @@
   "licenseEvidenceUrl": "https://github.com/goodmai/basalt/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 3,
-  "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-19T07:49:56Z",
+  "githubStars": 6,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-23T08:18:34Z",
   "evidenceUrls": [
     "https://github.com/goodmai/basalt"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-19T08:11:15.540Z",
-  "updatedAt": "2026-11-19T08:11:15.540Z",
-  "lastVerified": "2026-11-22T09:29:31.740Z",
+  "discoveredAt": "2026-11-23T08:26:59.999Z",
+  "updatedAt": "2026-11-23T08:26:59.999Z",
+  "lastVerified": "2026-11-23T10:27:59.356Z",
   "qualityScore": 89
 }

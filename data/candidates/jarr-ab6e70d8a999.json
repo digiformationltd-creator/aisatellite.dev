@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://1pxsolidblack.pl/jarr-en.html"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.466Z",
-  "updatedAt": "2026-11-23T08:26:58.466Z"
+  "updatedAt": "2026-11-23T08:26:58.466Z",
+  "lastVerified": "2026-11-23T10:36:03.829Z",
+  "qualityScore": 52
 }

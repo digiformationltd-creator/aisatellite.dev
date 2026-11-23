@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://northflank.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.126Z",
-  "updatedAt": "2026-11-23T08:26:58.126Z"
+  "updatedAt": "2026-11-23T08:26:58.126Z",
+  "lastVerified": "2026-11-23T10:39:31.412Z",
+  "qualityScore": 52
 }

@@ -35,7 +35,9 @@
   "evidenceUrls": [
     "https://github.com/YuhuaBillChen/justfit-llm"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:59.999Z",
-  "updatedAt": "2026-11-23T08:26:59.999Z"
+  "updatedAt": "2026-11-23T08:26:59.999Z",
+  "lastVerified": "2026-11-23T10:36:16.542Z",
+  "qualityScore": 91
 }

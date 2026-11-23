@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://samacloud.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.465Z",
-  "updatedAt": "2026-11-23T08:26:58.465Z"
+  "updatedAt": "2026-11-23T08:26:58.465Z",
+  "lastVerified": "2026-11-23T10:43:44.192Z",
+  "qualityScore": 52
 }

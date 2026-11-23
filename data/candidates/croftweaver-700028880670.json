@@ -39,7 +39,9 @@
   "evidenceUrls": [
     "https://github.com/karero/croftweaver"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:27:00.880Z",
-  "updatedAt": "2026-11-23T08:27:00.880Z"
+  "updatedAt": "2026-11-23T08:27:00.880Z",
+  "lastVerified": "2026-11-23T10:30:07.566Z",
+  "qualityScore": 91
 }

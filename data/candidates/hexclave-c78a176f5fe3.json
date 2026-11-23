@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://stack-auth.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.122Z",
-  "updatedAt": "2026-11-23T08:26:58.122Z"
+  "updatedAt": "2026-11-23T08:26:58.122Z",
+  "lastVerified": "2026-11-23T10:34:45.184Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/nymanjens/facto"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.469Z",
-  "updatedAt": "2026-11-23T08:26:58.469Z"
+  "updatedAt": "2026-11-23T08:26:58.469Z",
+  "lastVerified": "2026-11-23T10:32:26.626Z",
+  "qualityScore": 55
 }

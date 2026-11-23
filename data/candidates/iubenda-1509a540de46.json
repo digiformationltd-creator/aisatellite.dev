@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.iubenda.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.130Z",
-  "updatedAt": "2026-11-23T08:26:58.130Z"
+  "updatedAt": "2026-11-23T08:26:58.130Z",
+  "lastVerified": "2026-11-23T10:36:01.721Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kasmweb.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.468Z",
-  "updatedAt": "2026-11-23T08:26:58.468Z"
+  "updatedAt": "2026-11-23T08:26:58.468Z",
+  "lastVerified": "2026-11-23T10:36:21.991Z",
+  "qualityScore": 52
 }

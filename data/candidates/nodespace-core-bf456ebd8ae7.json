@@ -33,7 +33,9 @@
   "evidenceUrls": [
     "https://github.com/NodeSpaceAI/nodespace-core"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:27:00.880Z",
-  "updatedAt": "2026-11-23T08:27:00.880Z"
+  "updatedAt": "2026-11-23T08:27:00.880Z",
+  "lastVerified": "2026-11-23T10:39:27.626Z",
+  "qualityScore": 75
 }

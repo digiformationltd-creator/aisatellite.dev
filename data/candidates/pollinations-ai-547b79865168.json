@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pollinations.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.126Z",
-  "updatedAt": "2026-11-23T08:26:58.126Z"
+  "updatedAt": "2026-11-23T08:26:58.126Z",
+  "lastVerified": "2026-11-23T10:41:43.839Z",
+  "qualityScore": 52
 }

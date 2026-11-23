@@ -1,0 +1,22 @@
+{
+  "id": "cloud-functions-a92420268fd9",
+  "canonicalUrl": "https://cloud.google.com/functions",
+  "name": "Cloud Functions",
+  "description": "2 million invocations per month (includes both background and HTTP invocations)",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloud.google.com/functions",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloud.google.com/functions"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-23T08:26:58.117Z",
+  "updatedAt": "2026-11-23T08:26:58.117Z",
+  "lastVerified": "2026-11-23T10:29:15.150Z",
+  "qualityScore": 52
+}

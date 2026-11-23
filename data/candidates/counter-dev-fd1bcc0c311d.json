@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://counter.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.129Z",
-  "updatedAt": "2026-11-23T08:26:58.129Z"
+  "updatedAt": "2026-11-23T08:26:58.129Z",
+  "lastVerified": "2026-11-23T10:30:04.251Z",
+  "qualityScore": 52
 }

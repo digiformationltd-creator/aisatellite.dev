@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ollama.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.467Z",
-  "updatedAt": "2026-11-23T08:26:58.467Z"
+  "updatedAt": "2026-11-23T08:26:58.467Z",
+  "lastVerified": "2026-11-23T10:39:51.207Z",
+  "qualityScore": 52
 }

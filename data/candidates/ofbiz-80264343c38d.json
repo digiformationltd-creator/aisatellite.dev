@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ofbiz.apache.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.470Z",
-  "updatedAt": "2026-11-23T08:26:58.470Z"
+  "updatedAt": "2026-11-23T08:26:58.470Z",
+  "lastVerified": "2026-11-23T10:39:50.113Z",
+  "qualityScore": 52
 }

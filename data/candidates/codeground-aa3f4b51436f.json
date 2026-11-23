@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://codeground.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.129Z",
-  "updatedAt": "2026-11-23T08:26:58.129Z"
+  "updatedAt": "2026-11-23T08:26:58.129Z",
+  "lastVerified": "2026-11-23T10:29:30.611Z",
+  "qualityScore": 52
 }

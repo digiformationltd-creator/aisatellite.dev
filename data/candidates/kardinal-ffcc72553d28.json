@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kardinal.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.119Z",
-  "updatedAt": "2026-11-23T08:26:58.119Z"
+  "updatedAt": "2026-11-23T08:26:58.119Z",
+  "lastVerified": "2026-11-23T10:36:21.755Z",
+  "qualityScore": 52
 }

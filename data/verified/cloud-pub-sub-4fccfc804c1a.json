@@ -1,0 +1,22 @@
+{
+  "id": "cloud-pub-sub-4fccfc804c1a",
+  "canonicalUrl": "https://cloud.google.com/pubsub",
+  "name": "Cloud Pub/Sub",
+  "description": "10GB of messages per month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloud.google.com/pubsub",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloud.google.com/pubsub"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-23T08:26:58.117Z",
+  "updatedAt": "2026-11-23T08:26:58.117Z",
+  "lastVerified": "2026-11-23T10:29:15.412Z",
+  "qualityScore": 47
+}

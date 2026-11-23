@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://viseron.netlify.app/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.471Z",
-  "updatedAt": "2026-11-23T08:26:58.471Z"
+  "updatedAt": "2026-11-23T08:26:58.471Z",
+  "lastVerified": "2026-11-23T10:48:15.111Z",
+  "qualityScore": 52
 }

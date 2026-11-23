@@ -1,0 +1,43 @@
+{
+  "id": "moyu-8fdee9e507f2",
+  "canonicalUrl": "https://github.com/uucz/moyu",
+  "name": "moyu",
+  "description": "🐟 狠狠 PUA 你的 AI，然后自己准时下班。Anti-over-engineering rules, Agent Hooks & PR Linter for AI coding assistants.",
+  "category": "ai-coding",
+  "tags": [
+    "agent-skills",
+    "agents-md",
+    "ai",
+    "ai-coding",
+    "anti-over-engineering",
+    "claude-code",
+    "claude-code-hooks",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "github-action",
+    "linter",
+    "lobehub",
+    "moyu",
+    "prompt-engineering",
+    "skillsmp"
+  ],
+  "repositoryUrl": "https://github.com/uucz/moyu",
+  "officialUrl": "https://uucz.github.io/moyu/",
+  "documentationUrl": "https://uucz.github.io/moyu/",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/uucz/moyu/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 310,
+  "githubForks": 13,
+  "lastRepositoryUpdate": "2026-11-23T04:39:40Z",
+  "evidenceUrls": [
+    "https://github.com/uucz/moyu"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-23T08:27:00.880Z",
+  "updatedAt": "2026-11-23T08:27:00.880Z",
+  "lastVerified": "2026-11-23T10:39:03.434Z",
+  "qualityScore": 92
+}

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://snapotter.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.466Z",
-  "updatedAt": "2026-11-23T08:26:58.466Z"
+  "updatedAt": "2026-11-23T08:26:58.466Z",
+  "lastVerified": "2026-11-23T10:45:05.263Z",
+  "qualityScore": 52
 }

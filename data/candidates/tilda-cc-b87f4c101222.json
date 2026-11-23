@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tilda.cc/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.127Z",
-  "updatedAt": "2026-11-23T08:26:58.127Z"
+  "updatedAt": "2026-11-23T08:26:58.127Z",
+  "lastVerified": "2026-11-23T10:47:01.890Z",
+  "qualityScore": 52
 }

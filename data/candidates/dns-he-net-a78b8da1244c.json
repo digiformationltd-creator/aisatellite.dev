@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dns.he.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.127Z",
-  "updatedAt": "2026-11-23T08:26:58.127Z"
+  "updatedAt": "2026-11-23T08:26:58.127Z",
+  "lastVerified": "2026-11-23T10:31:10.355Z",
+  "qualityScore": 52
 }

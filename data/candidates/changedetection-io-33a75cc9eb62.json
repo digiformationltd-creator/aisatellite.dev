@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://changedetection.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.464Z",
-  "updatedAt": "2026-11-23T08:26:58.464Z"
+  "updatedAt": "2026-11-23T08:26:58.464Z",
+  "lastVerified": "2026-11-23T10:28:56.897Z",
+  "qualityScore": 52
 }

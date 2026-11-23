@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/24eme/signaturepdf"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.466Z",
-  "updatedAt": "2026-11-23T08:26:58.466Z"
+  "updatedAt": "2026-11-23T08:26:58.466Z",
+  "lastVerified": "2026-11-23T10:44:29.575Z",
+  "qualityScore": 55
 }

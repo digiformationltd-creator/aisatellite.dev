@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://vidhook.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.126Z",
-  "updatedAt": "2026-11-23T08:26:58.126Z"
+  "updatedAt": "2026-11-23T08:26:58.126Z",
+  "lastVerified": "2026-11-23T10:48:11.974Z",
+  "qualityScore": 52
 }

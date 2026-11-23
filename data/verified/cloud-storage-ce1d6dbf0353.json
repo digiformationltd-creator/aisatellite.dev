@@ -1,0 +1,22 @@
+{
+  "id": "cloud-storage-ce1d6dbf0353",
+  "canonicalUrl": "https://cloud.google.com/storage",
+  "name": "Cloud Storage",
+  "description": "5GB, 1GB network egress",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloud.google.com/storage",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloud.google.com/storage"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-23T08:26:58.117Z",
+  "updatedAt": "2026-11-23T08:26:58.117Z",
+  "lastVerified": "2026-11-23T10:29:16.857Z",
+  "qualityScore": 47
+}

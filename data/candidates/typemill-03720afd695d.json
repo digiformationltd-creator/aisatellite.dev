@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://typemill.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.466Z",
-  "updatedAt": "2026-11-23T08:26:58.466Z"
+  "updatedAt": "2026-11-23T08:26:58.466Z",
+  "lastVerified": "2026-11-23T10:47:44.352Z",
+  "qualityScore": 52
 }

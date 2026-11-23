@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gomodel.enterpilot.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.467Z",
-  "updatedAt": "2026-11-23T08:26:58.467Z"
+  "updatedAt": "2026-11-23T08:26:58.467Z",
+  "lastVerified": "2026-11-23T10:34:14.888Z",
+  "qualityScore": 52
 }

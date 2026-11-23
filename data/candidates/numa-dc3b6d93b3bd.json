@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://numa.rs/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.466Z",
-  "updatedAt": "2026-11-23T08:26:58.466Z"
+  "updatedAt": "2026-11-23T08:26:58.466Z",
+  "lastVerified": "2026-11-23T10:39:45.546Z",
+  "qualityScore": 52
 }

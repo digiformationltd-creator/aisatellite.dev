@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://kwesforms.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.126Z",
-  "updatedAt": "2026-11-23T08:26:58.126Z"
+  "updatedAt": "2026-11-23T08:26:58.126Z",
+  "lastVerified": "2026-11-23T10:36:39.236Z",
+  "qualityScore": 52
 }

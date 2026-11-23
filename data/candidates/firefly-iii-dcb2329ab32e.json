@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://firefly-iii.org/"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-23T08:26:58.469Z",
-  "updatedAt": "2026-11-23T08:26:58.469Z"
+  "updatedAt": "2026-11-23T08:26:58.469Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

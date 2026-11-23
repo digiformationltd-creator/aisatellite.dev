@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://simplescraper.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.119Z",
-  "updatedAt": "2026-11-23T08:26:58.119Z"
+  "updatedAt": "2026-11-23T08:26:58.119Z",
+  "lastVerified": "2026-11-23T10:44:36.502Z",
+  "qualityScore": 52
 }

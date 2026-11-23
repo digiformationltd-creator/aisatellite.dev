@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.cosmicjs.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.120Z",
-  "updatedAt": "2026-11-23T08:26:58.120Z"
+  "updatedAt": "2026-11-23T08:26:58.120Z",
+  "lastVerified": "2026-11-23T10:30:02.727Z",
+  "qualityScore": 52
 }

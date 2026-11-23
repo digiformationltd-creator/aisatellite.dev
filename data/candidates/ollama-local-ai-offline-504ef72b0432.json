@@ -34,7 +34,9 @@
   "evidenceUrls": [
     "https://github.com/thejarasal780-ship-it/ollama-local-ai-offline"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:59.999Z",
-  "updatedAt": "2026-11-23T08:26:59.999Z"
+  "updatedAt": "2026-11-23T08:26:59.999Z",
+  "lastVerified": "2026-11-23T10:39:51.788Z",
+  "qualityScore": 67
 }

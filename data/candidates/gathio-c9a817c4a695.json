@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.gath.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.469Z",
-  "updatedAt": "2026-11-23T08:26:58.469Z"
+  "updatedAt": "2026-11-23T08:26:58.469Z",
+  "lastVerified": "2026-11-23T10:33:39.462Z",
+  "qualityScore": 52
 }

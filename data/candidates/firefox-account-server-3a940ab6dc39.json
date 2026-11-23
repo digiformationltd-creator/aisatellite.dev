@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.464Z",
-  "updatedAt": "2026-11-23T08:26:58.464Z"
+  "updatedAt": "2026-11-23T08:26:58.464Z",
+  "lastVerified": "2026-11-23T10:32:39.280Z",
+  "qualityScore": 52
 }

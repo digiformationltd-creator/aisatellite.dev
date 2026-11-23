@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.jitbit.com/imgen/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-23T08:26:58.128Z",
-  "updatedAt": "2026-11-23T08:26:58.128Z"
+  "updatedAt": "2026-11-23T08:26:58.128Z",
+  "lastVerified": "2026-11-23T10:35:23.621Z",
+  "qualityScore": 52
 }
