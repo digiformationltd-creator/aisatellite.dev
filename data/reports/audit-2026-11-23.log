@@ -1,0 +1,46 @@
+[2026-11-23T00:08:41.857Z] [INFO] [Script:MonitorFreshness] Starting Content Freshness & Link Health Audit...
+[2026-11-23T00:08:41.858Z] [INFO] [FreshnessMonitor] Starting freshness and link integrity audit
+[2026-11-23T00:32:00.056Z] [INFO] [FreshnessMonitor] Audit complete. Monitored: 2719, Broken: 36, Stale: 1
+[2026-11-23T00:32:00.056Z] [INFO] [Script:MonitorFreshness] Audit Summary:
+[2026-11-23T00:32:00.057Z] [INFO] [Script:MonitorFreshness] - Total Resources Monitored: 2719
+[2026-11-23T00:32:00.057Z] [INFO] [Script:MonitorFreshness] - Healthy Resources: 2682
+[2026-11-23T00:32:00.057Z] [INFO] [Script:MonitorFreshness] - Stale (>90 days): 1
+[2026-11-23T00:32:00.057Z] [INFO] [Script:MonitorFreshness] - Broken URLs: 36
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness] Flagged Items requiring attention:
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [1984-is-c7ef4c267ca6] https://www.1984.is/product/freedns - Broken or unreachable URL: Timeout
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [archivesspace-9b0c6d6344ef] https://archivesspace.org/ - Broken or unreachable URL: HTTP 403
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [awardspace-com-9ffc8c6cf340] https://www.awardspace.com/ - Broken or unreachable URL: Timeout
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [builder-cognitive-loop-f97f159f4517] https://github.com/Rbm3267/builder-cognitive-loop - Broken or unreachable URL: HTTP 404
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [cacoo-com-8849dfd1a7de] https://cacoo.com/ - Broken or unreachable URL: HTTP 503
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [compare-json-ec05d16935d1] https://comparejson.com/ - Broken or unreachable URL: Timeout
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [dspace-b4a51bafb936] http://www.dspace.org/ - Broken or unreachable URL: HTTP 403
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [financial-data-dfefd0ee5044] https://financialdata.net/ - Broken or unreachable URL: HTTP 403
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [focus-flow-57df9ae96cda] https://github.com/francesco-gaglione/focus_flow_cloud - Broken or unreachable URL: HTTP 404
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [freetools-site-2ca7ad704cf3] https://freetools.site/ - Broken or unreachable URL: HTTP 403
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [howuku-com-33555eb3c57e] https://howuku.com/ - Broken or unreachable URL: Timeout
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [hyperkitty-7fb3a8b1b14b] https://wiki.list.org/HyperKitty - Broken or unreachable URL: HTTP 503
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [installonair-ae65d6293536] https://www.installonair.com/ - Broken or unreachable URL: Timeout
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [invantive-cloud-e2aed19fcee0] https://cloud.invantive.com/ - Broken or unreachable URL: HTTP 451
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [isitdownstatus-com-9e6c3e06d70b] https://isitdownstatus.com/ - Broken or unreachable URL: HTTP 429
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [libraries-io-0e079a30121a] https://libraries.io/ - Broken or unreachable URL: HTTP 403
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [mantisbt-7c4a8c2f4195] https://www.mantisbt.org/ - Broken or unreachable URL: Timeout
+[2026-11-23T00:32:00.057Z] [WARN] [Script:MonitorFreshness]   * [memex-20e801eb3098] https://memex-app.shibao.dev/ - Broken or unreachable URL: HTTP 403
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [nip-io-0fde65da9c94] https://nip.io/ - Broken or unreachable URL: fetch failed
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [nirvati-0efbab6d6a0f] https://nirvati.org/ - Broken or unreachable URL: HTTP 502
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [npoint-io-453eed2f1120] https://www.npoint.io/ - Broken or unreachable URL: Timeout
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [quassel-irc-d47c76b95d4a] https://quassel-irc.org/ - Broken or unreachable URL: Timeout
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [quidlo-timesheets-f6346011eaa0] https://www.quidlo.com/timesheets - Broken or unreachable URL: HTTP 404
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [salut-toi-a07e469a5009] https://www.salut-a-toi.org/ - Broken or unreachable URL: Timeout
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [signupvet-99c8b3bf1fb0] https://www.signupvet.com/ - Broken or unreachable URL: fetch failed
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [sikkerkey-f19f383fed5d] https://sikkerkey.com/ - Broken or unreachable URL: HTTP 530
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [sslip-io-bc75d1d96196] https://sslip.io/ - Broken or unreachable URL: fetch failed
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [test-stale-tool] https://aisatellite.pages.dev - Verification is older than 90 days (Last verified: 2026-07-24). Enters re-verification queue.
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [test-stale-tool] https://aisatellite.pages.dev - Broken or unreachable URL: fetch failed
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [toggled-dev-05998fc940c2] https://www.toggled.dev/ - Broken or unreachable URL: fetch failed
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [tool-idempotency-test] https://github.com/org/test-tool - Broken or unreachable URL: HTTP 404
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [ubos-f836c4ad319d] https://ubos.net/ - Broken or unreachable URL: fetch failed
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [uuid-generator-3d65ff1f46de] https://newuuid.com/ - Broken or unreachable URL: HTTP 403
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [vaelmail-40ca7facf238] https://vaelmail.com/ - Broken or unreachable URL: HTTP 429
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [vibe-pilot-d222ab3f20ef] https://github.com/Gatsuke/vibe-pilot - Broken or unreachable URL: HTTP 404
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [wikifactory-90d16ab255b7] https://wikifactory.com/ - Broken or unreachable URL: HTTP 500
+[2026-11-23T00:32:00.058Z] [WARN] [Script:MonitorFreshness]   * [writefreely-8571af08cb3e] https://writefreely.org/ - Broken or unreachable URL: Timeout

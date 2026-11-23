@@ -1,0 +1,194 @@
+{
+  "checkedAt": "2026-11-23T00:32:00.055Z",
+  "totalMonitored": 2719,
+  "healthyCount": 2682,
+  "brokenLinkCount": 36,
+  "staleCount": 1,
+  "flaggedItems": [
+    {
+      "id": "1984-is-c7ef4c267ca6",
+      "url": "https://www.1984.is/product/freedns",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "archivesspace-9b0c6d6344ef",
+      "url": "https://archivesspace.org/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "awardspace-com-9ffc8c6cf340",
+      "url": "https://www.awardspace.com/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "builder-cognitive-loop-f97f159f4517",
+      "url": "https://github.com/Rbm3267/builder-cognitive-loop",
+      "issue": "Broken or unreachable URL: HTTP 404"
+    },
+    {
+      "id": "cacoo-com-8849dfd1a7de",
+      "url": "https://cacoo.com/",
+      "issue": "Broken or unreachable URL: HTTP 503"
+    },
+    {
+      "id": "compare-json-ec05d16935d1",
+      "url": "https://comparejson.com/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "dspace-b4a51bafb936",
+      "url": "http://www.dspace.org/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "financial-data-dfefd0ee5044",
+      "url": "https://financialdata.net/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "focus-flow-57df9ae96cda",
+      "url": "https://github.com/francesco-gaglione/focus_flow_cloud",
+      "issue": "Broken or unreachable URL: HTTP 404"
+    },
+    {
+      "id": "freetools-site-2ca7ad704cf3",
+      "url": "https://freetools.site/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "howuku-com-33555eb3c57e",
+      "url": "https://howuku.com/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "hyperkitty-7fb3a8b1b14b",
+      "url": "https://wiki.list.org/HyperKitty",
+      "issue": "Broken or unreachable URL: HTTP 503"
+    },
+    {
+      "id": "installonair-ae65d6293536",
+      "url": "https://www.installonair.com/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "invantive-cloud-e2aed19fcee0",
+      "url": "https://cloud.invantive.com/",
+      "issue": "Broken or unreachable URL: HTTP 451"
+    },
+    {
+      "id": "isitdownstatus-com-9e6c3e06d70b",
+      "url": "https://isitdownstatus.com/",
+      "issue": "Broken or unreachable URL: HTTP 429"
+    },
+    {
+      "id": "libraries-io-0e079a30121a",
+      "url": "https://libraries.io/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "mantisbt-7c4a8c2f4195",
+      "url": "https://www.mantisbt.org/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "memex-20e801eb3098",
+      "url": "https://memex-app.shibao.dev/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "nip-io-0fde65da9c94",
+      "url": "https://nip.io/",
+      "issue": "Broken or unreachable URL: fetch failed"
+    },
+    {
+      "id": "nirvati-0efbab6d6a0f",
+      "url": "https://nirvati.org/",
+      "issue": "Broken or unreachable URL: HTTP 502"
+    },
+    {
+      "id": "npoint-io-453eed2f1120",
+      "url": "https://www.npoint.io/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "quassel-irc-d47c76b95d4a",
+      "url": "https://quassel-irc.org/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "quidlo-timesheets-f6346011eaa0",
+      "url": "https://www.quidlo.com/timesheets",
+      "issue": "Broken or unreachable URL: HTTP 404"
+    },
+    {
+      "id": "salut-toi-a07e469a5009",
+      "url": "https://www.salut-a-toi.org/",
+      "issue": "Broken or unreachable URL: Timeout"
+    },
+    {
+      "id": "signupvet-99c8b3bf1fb0",
+      "url": "https://www.signupvet.com/",
+      "issue": "Broken or unreachable URL: fetch failed"
+    },
+    {
+      "id": "sikkerkey-f19f383fed5d",
+      "url": "https://sikkerkey.com/",
+      "issue": "Broken or unreachable URL: HTTP 530"
+    },
+    {
+      "id": "sslip-io-bc75d1d96196",
+      "url": "https://sslip.io/",
+      "issue": "Broken or unreachable URL: fetch failed"
+    },
+    {
+      "id": "test-stale-tool",
+      "url": "https://aisatellite.pages.dev",
+      "issue": "Verification is older than 90 days (Last verified: 2026-07-24). Enters re-verification queue."
+    },
+    {
+      "id": "test-stale-tool",
+      "url": "https://aisatellite.pages.dev",
+      "issue": "Broken or unreachable URL: fetch failed"
+    },
+    {
+      "id": "toggled-dev-05998fc940c2",
+      "url": "https://www.toggled.dev/",
+      "issue": "Broken or unreachable URL: fetch failed"
+    },
+    {
+      "id": "tool-idempotency-test",
+      "url": "https://github.com/org/test-tool",
+      "issue": "Broken or unreachable URL: HTTP 404"
+    },
+    {
+      "id": "ubos-f836c4ad319d",
+      "url": "https://ubos.net/",
+      "issue": "Broken or unreachable URL: fetch failed"
+    },
+    {
+      "id": "uuid-generator-3d65ff1f46de",
+      "url": "https://newuuid.com/",
+      "issue": "Broken or unreachable URL: HTTP 403"
+    },
+    {
+      "id": "vaelmail-40ca7facf238",
+      "url": "https://vaelmail.com/",
+      "issue": "Broken or unreachable URL: HTTP 429"
+    },
+    {
+      "id": "vibe-pilot-d222ab3f20ef",
+      "url": "https://github.com/Gatsuke/vibe-pilot",
+      "issue": "Broken or unreachable URL: HTTP 404"
+    },
+    {
+      "id": "wikifactory-90d16ab255b7",
+      "url": "https://wikifactory.com/",
+      "issue": "Broken or unreachable URL: HTTP 500"
+    },
+    {
+      "id": "writefreely-8571af08cb3e",
+      "url": "https://writefreely.org/",
+      "issue": "Broken or unreachable URL: Timeout"
+    }
+  ]
+}
