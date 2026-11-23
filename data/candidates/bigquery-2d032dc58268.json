@@ -1,0 +1,20 @@
+{
+  "id": "bigquery-2d032dc58268",
+  "canonicalUrl": "https://cloud.google.com/bigquery",
+  "name": "BigQuery",
+  "description": "1 TB of querying per month, 10 GB of storage each month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloud.google.com/bigquery",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloud.google.com/bigquery"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:58.117Z",
+  "updatedAt": "2026-11-23T08:26:58.117Z"
+}

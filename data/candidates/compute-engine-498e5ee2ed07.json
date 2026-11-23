@@ -1,0 +1,20 @@
+{
+  "id": "compute-engine-498e5ee2ed07",
+  "canonicalUrl": "https://cloud.google.com/compute",
+  "name": "Compute Engine",
+  "description": "1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloud.google.com/compute",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloud.google.com/compute"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:58.117Z",
+  "updatedAt": "2026-11-23T08:26:58.117Z"
+}

@@ -20,15 +20,13 @@
   "licenseEvidenceUrl": "https://github.com/strvmarv/total-recall/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 15,
+  "githubStars": 16,
   "githubForks": 5,
-  "lastRepositoryUpdate": "2026-11-19T06:31:21Z",
+  "lastRepositoryUpdate": "2026-11-23T07:17:39Z",
   "evidenceUrls": [
     "https://github.com/strvmarv/total-recall"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-19T08:11:16.157Z",
-  "updatedAt": "2026-11-19T08:11:16.157Z",
-  "lastVerified": "2026-11-22T09:44:17.389Z",
-  "qualityScore": 80
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:27:00.880Z",
+  "updatedAt": "2026-11-23T08:27:00.880Z"
 }

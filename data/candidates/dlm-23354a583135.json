@@ -1,0 +1,40 @@
+{
+  "id": "dlm-23354a583135",
+  "canonicalUrl": "https://github.com/vedantnimbarte/dlm",
+  "name": "dlm",
+  "description": "A high-performance local LLM inference engine written in Rust. Dynamically streams transformer layers to break VRAM limitations and run massive models on consumer hardware.",
+  "category": "local-llm",
+  "tags": [
+    "cli",
+    "deep-learning",
+    "gemma",
+    "gpt-2",
+    "gpu",
+    "huggingface",
+    "inference",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "machine-learning",
+    "rust",
+    "safetensors",
+    "transformers",
+    "vram"
+  ],
+  "repositoryUrl": "https://github.com/vedantnimbarte/dlm",
+  "officialUrl": "https://dlm-frontend.vercel.app",
+  "documentationUrl": "https://dlm-frontend.vercel.app",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/vedantnimbarte/dlm/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 3,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-23T08:16:10Z",
+  "evidenceUrls": [
+    "https://github.com/vedantnimbarte/dlm"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:59.999Z",
+  "updatedAt": "2026-11-23T08:26:59.999Z"
+}

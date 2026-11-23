@@ -25,15 +25,13 @@
   "licenseEvidenceUrl": "https://github.com/Siddhant-K-code/LLMTraceFX/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 14,
+  "githubStars": 16,
   "githubForks": 1,
-  "lastRepositoryUpdate": "2026-11-21T07:51:54Z",
+  "lastRepositoryUpdate": "2026-11-23T08:23:02Z",
   "evidenceUrls": [
     "https://github.com/Siddhant-K-code/LLMTraceFX"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-21T07:52:26.741Z",
-  "updatedAt": "2026-11-21T07:52:26.741Z",
-  "lastVerified": "2026-11-22T09:36:36.034Z",
-  "qualityScore": 91
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:59.999Z",
+  "updatedAt": "2026-11-23T08:26:59.999Z"
 }

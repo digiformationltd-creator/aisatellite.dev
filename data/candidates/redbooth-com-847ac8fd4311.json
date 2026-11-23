@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://redbooth.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-22T07:38:43.496Z",
-  "updatedAt": "2026-11-22T07:38:43.496Z",
-  "lastVerified": "2026-11-22T09:40:39.543Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:58.128Z",
+  "updatedAt": "2026-11-23T08:26:58.128Z"
 }

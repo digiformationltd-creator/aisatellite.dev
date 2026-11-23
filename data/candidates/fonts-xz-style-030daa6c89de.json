@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://fonts.xz.style/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-22T07:38:43.494Z",
-  "updatedAt": "2026-11-22T07:38:43.494Z",
-  "lastVerified": "2026-11-22T09:33:21.182Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:58.126Z",
+  "updatedAt": "2026-11-23T08:26:58.126Z"
 }

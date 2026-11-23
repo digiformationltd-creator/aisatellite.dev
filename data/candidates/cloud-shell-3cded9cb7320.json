@@ -1,0 +1,20 @@
+{
+  "id": "cloud-shell-3cded9cb7320",
+  "canonicalUrl": "https://cloud.google.com/shell",
+  "name": "Cloud Shell",
+  "description": "Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit per week",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloud.google.com/shell",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloud.google.com/shell"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:58.117Z",
+  "updatedAt": "2026-11-23T08:26:58.117Z"
+}

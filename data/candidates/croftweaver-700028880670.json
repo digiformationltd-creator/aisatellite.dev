@@ -34,14 +34,12 @@
   "freeClassification": "open_source",
   "freeTierLimitations": [],
   "githubStars": 11,
-  "githubForks": 3,
-  "lastRepositoryUpdate": "2026-11-20T07:50:49Z",
+  "githubForks": 4,
+  "lastRepositoryUpdate": "2026-11-23T07:33:24Z",
   "evidenceUrls": [
     "https://github.com/karero/croftweaver"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-20T07:54:06.364Z",
-  "updatedAt": "2026-11-20T07:54:06.364Z",
-  "lastVerified": "2026-11-22T09:31:06.614Z",
-  "qualityScore": 91
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:27:00.880Z",
+  "updatedAt": "2026-11-23T08:27:00.880Z"
 }

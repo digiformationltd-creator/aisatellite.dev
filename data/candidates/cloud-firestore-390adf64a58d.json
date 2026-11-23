@@ -1,0 +1,20 @@
+{
+  "id": "cloud-firestore-390adf64a58d",
+  "canonicalUrl": "https://cloud.google.com/firestore",
+  "name": "Cloud Firestore",
+  "description": "1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://cloud.google.com/firestore",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://cloud.google.com/firestore"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:58.117Z",
+  "updatedAt": "2026-11-23T08:26:58.117Z"
+}

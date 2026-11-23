@@ -14,10 +14,8 @@
   "evidenceUrls": [
     "https://checklyhq.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-22T07:38:43.492Z",
-  "updatedAt": "2026-11-22T07:38:45.032Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-22T09:30:15.373Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:58.124Z",
+  "updatedAt": "2026-11-23T08:27:00.882Z",
+  "githubStars": 0
 }

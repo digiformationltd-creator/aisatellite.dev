@@ -28,15 +28,13 @@
   "repositoryUrl": "https://github.com/thejarasal780-ship-it/ollama-local-ai-offline",
   "freeClassification": "unknown",
   "freeTierLimitations": [],
-  "githubStars": 94,
+  "githubStars": 147,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-20T06:51:30Z",
+  "lastRepositoryUpdate": "2026-11-23T07:07:40Z",
   "evidenceUrls": [
     "https://github.com/thejarasal780-ship-it/ollama-local-ai-offline"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-20T07:54:05.851Z",
-  "updatedAt": "2026-11-20T07:54:05.851Z",
-  "lastVerified": "2026-11-22T09:38:31.012Z",
-  "qualityScore": 66
+  "status": "discovered",
+  "discoveredAt": "2026-11-23T08:26:59.999Z",
+  "updatedAt": "2026-11-23T08:26:59.999Z"
 }
