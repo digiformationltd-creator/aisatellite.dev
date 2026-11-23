@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-local-code-model-memory-planner-6c5a765bd04d-guide",
+  "title": "How to Deploy local-code-model-memory-planner in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-local-code-model-memory-planner-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for local-code-model-memory-planner.",
+  "targetKeywords": [
+    "local-code-model-memory-planner",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Ricardgu/local-code-model-memory-planner"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting local-code-model-memory-planner with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-23T14:07:17.022Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-compute-engine-498e5ee2ed07-guide",
+  "title": "How to Deploy Compute Engine in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-compute-engine-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Compute Engine.",
+  "targetKeywords": [
+    "Compute Engine",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com/compute"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Compute Engine with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-23T14:07:17.019Z"
+}

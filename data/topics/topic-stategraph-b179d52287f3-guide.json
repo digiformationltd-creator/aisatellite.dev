@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-stategraph-b179d52287f3-guide",
+  "title": "How to Deploy Stategraph in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-stategraph-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Stategraph.",
+  "targetKeywords": [
+    "Stategraph",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stategraph.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Stategraph with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-23T14:07:17.025Z"
+}

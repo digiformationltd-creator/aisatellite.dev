@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-awesome-ai-coding-agents-13c561c1cb88-guide",
+  "title": "How to Deploy awesome-ai-coding-agents in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-awesome-ai-coding-agents-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for awesome-ai-coding-agents.",
+  "targetKeywords": [
+    "awesome-ai-coding-agents",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/BrethofAI/awesome-ai-coding-agents"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting awesome-ai-coding-agents with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-23T14:07:17.016Z"
+}

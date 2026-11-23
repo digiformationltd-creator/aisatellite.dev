@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-denvora-groundwork-mcp-2bd657b336d9-guide",
+  "title": "How to Deploy denvora-groundwork-mcp in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-denvora-groundwork-mcp-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for denvora-groundwork-mcp.",
+  "targetKeywords": [
+    "denvora-groundwork-mcp",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/ardenpratamamaskuri404/denvora-groundwork-mcp"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting denvora-groundwork-mcp with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-23T14:07:17.019Z"
+}

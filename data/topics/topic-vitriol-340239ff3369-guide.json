@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vitriol-340239ff3369-guide",
+  "title": "How to Deploy VITRIOL in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vitriol-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for VITRIOL.",
+  "targetKeywords": [
+    "VITRIOL",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Randozart/VITRIOL"
+  ],
+  "priorityScore": 90,
+  "contentGapRationale": "High developer demand for self-hosting VITRIOL with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-23T14:07:17.027Z"
+}

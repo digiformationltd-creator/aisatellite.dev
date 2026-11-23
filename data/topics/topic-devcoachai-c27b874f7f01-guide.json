@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-devcoachai-c27b874f7f01-guide",
+  "title": "How to Deploy DevCoachAI in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-devcoachai-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DevCoachAI.",
+  "targetKeywords": [
+    "DevCoachAI",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/SUDARSHANCHAUDHARI/DevCoachAI"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting DevCoachAI with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-23T14:07:17.019Z"
+}
