@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mtplx-4bbe550e236e-guide",
+  "title": "How to Deploy MTPLX in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mtplx-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for MTPLX.",
+  "targetKeywords": [
+    "MTPLX",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/youssofal/MTPLX"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting MTPLX with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-24T14:38:10.853Z"
+}

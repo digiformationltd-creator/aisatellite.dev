@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-customjs-0d1ccf1b3e77-guide",
+  "title": "How to Deploy CustomJS in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-customjs-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for CustomJS.",
+  "targetKeywords": [
+    "CustomJS",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.customjs.space"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting CustomJS with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-24T14:38:10.851Z"
+}

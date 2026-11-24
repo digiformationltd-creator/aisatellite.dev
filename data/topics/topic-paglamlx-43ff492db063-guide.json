@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-paglamlx-43ff492db063-guide",
+  "title": "How to Deploy PaglaMLX in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-paglamlx-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for PaglaMLX.",
+  "targetKeywords": [
+    "PaglaMLX",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/paglaai/PaglaMLX"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting PaglaMLX with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-24T14:38:10.853Z"
+}

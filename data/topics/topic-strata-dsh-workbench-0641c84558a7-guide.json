@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-strata-dsh-workbench-0641c84558a7-guide",
+  "title": "How to Deploy strata-dsh-workbench in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-strata-dsh-workbench-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for strata-dsh-workbench.",
+  "targetKeywords": [
+    "strata-dsh-workbench",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/regdiliKUN/strata-dsh-workbench"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting strata-dsh-workbench with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-24T14:38:10.854Z"
+}

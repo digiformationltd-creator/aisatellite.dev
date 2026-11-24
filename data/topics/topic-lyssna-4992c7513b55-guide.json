@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-lyssna-4992c7513b55-guide",
+  "title": "How to Deploy Lyssna in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-lyssna-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Lyssna.",
+  "targetKeywords": [
+    "Lyssna",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.lyssna.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Lyssna with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-24T14:38:10.853Z"
+}

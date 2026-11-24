@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-addy-io-1b4c42793b08-guide",
+  "title": "How to Deploy addy.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-addy-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for addy.io.",
+  "targetKeywords": [
+    "addy.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://addy.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting addy.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-24T14:38:10.848Z"
+}

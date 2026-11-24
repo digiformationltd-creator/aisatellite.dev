@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-v0-879a793bdc60-guide",
+  "title": "How to Deploy v0 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-v0-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for v0.",
+  "targetKeywords": [
+    "v0",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://v0.app/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting v0 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-24T14:38:10.855Z"
+}
