@@ -1,0 +1,20 @@
+{
+  "id": "buttondown-c6759019fe52",
+  "canonicalUrl": "https://buttondown.com/",
+  "name": "Buttondown",
+  "description": "Newsletter service. Up to 100 subscribers free",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://buttondown.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://buttondown.com/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:31.171Z",
+  "updatedAt": "2026-11-24T10:34:31.171Z"
+}

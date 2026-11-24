@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/jarynclouatre/bindery"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-23T08:26:58.466Z",
-  "updatedAt": "2026-11-23T08:26:58.466Z",
-  "lastVerified": "2026-11-23T10:28:17.594Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:31.249Z",
+  "updatedAt": "2026-11-24T10:34:31.249Z"
 }

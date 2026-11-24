@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://currencybeacon.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-23T08:26:58.118Z",
-  "updatedAt": "2026-11-23T08:26:58.118Z",
-  "lastVerified": "2026-11-23T10:30:14.245Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:31.163Z",
+  "updatedAt": "2026-11-24T10:34:31.163Z"
 }

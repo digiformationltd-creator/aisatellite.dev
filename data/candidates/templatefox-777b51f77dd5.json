@@ -1,0 +1,20 @@
+{
+  "id": "templatefox-777b51f77dd5",
+  "canonicalUrl": "https://templatefox.com/",
+  "name": "TemplateFox",
+  "description": "PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://templatefox.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://templatefox.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:31.164Z",
+  "updatedAt": "2026-11-24T10:34:31.164Z"
+}

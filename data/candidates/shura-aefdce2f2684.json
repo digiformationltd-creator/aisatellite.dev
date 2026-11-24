@@ -1,0 +1,33 @@
+{
+  "id": "shura-aefdce2f2684",
+  "canonicalUrl": "https://github.com/hikkian/shura",
+  "name": "shura",
+  "description": "Fully local AI coding agent for a regular consumer gaming PC: own inference engine with an MoE expert cache, a coding agent with undo for destructive actions, and a split that keeps your desktop smooth while the model works.",
+  "category": "local-llm",
+  "tags": [
+    "cuda",
+    "llama-cpp",
+    "llm-inference",
+    "local-llm",
+    "mcp",
+    "moe",
+    "opencode",
+    "qwen",
+    "self-hosted",
+    "turboquant"
+  ],
+  "repositoryUrl": "https://github.com/hikkian/shura",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/hikkian/shura/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 5,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-24T10:26:15Z",
+  "evidenceUrls": [
+    "https://github.com/hikkian/shura"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:32.512Z",
+  "updatedAt": "2026-11-24T10:34:32.512Z"
+}

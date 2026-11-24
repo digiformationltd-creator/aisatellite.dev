@@ -33,15 +33,13 @@
   "licenseEvidenceUrl": "https://github.com/tetherto/qvac/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 783,
-  "githubForks": 164,
-  "lastRepositoryUpdate": "2026-11-19T08:06:41Z",
+  "githubStars": 824,
+  "githubForks": 172,
+  "lastRepositoryUpdate": "2026-11-24T10:29:24Z",
   "evidenceUrls": [
     "https://github.com/tetherto/qvac"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-19T08:11:15.540Z",
-  "updatedAt": "2026-11-19T08:11:15.540Z",
-  "lastVerified": "2026-11-23T10:42:32.635Z",
-  "qualityScore": 92
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:32.512Z",
+  "updatedAt": "2026-11-24T10:34:32.512Z"
 }

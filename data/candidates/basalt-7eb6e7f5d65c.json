@@ -30,13 +30,11 @@
   "freeTierLimitations": [],
   "githubStars": 6,
   "githubForks": 1,
-  "lastRepositoryUpdate": "2026-11-23T08:18:34Z",
+  "lastRepositoryUpdate": "2026-11-24T10:22:05Z",
   "evidenceUrls": [
     "https://github.com/goodmai/basalt"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-23T08:26:59.999Z",
-  "updatedAt": "2026-11-23T08:26:59.999Z",
-  "lastVerified": "2026-11-23T10:27:59.356Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:32.512Z",
+  "updatedAt": "2026-11-24T10:34:32.512Z"
 }

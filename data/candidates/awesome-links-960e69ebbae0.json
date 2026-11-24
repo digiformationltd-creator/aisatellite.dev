@@ -37,9 +37,7 @@
   "evidenceUrls": [
     "https://github.com/nikomarinovic/awesome-links"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-23T08:26:59.354Z",
-  "updatedAt": "2026-11-23T08:26:59.354Z",
-  "lastVerified": "2026-11-23T10:27:44.314Z",
-  "qualityScore": 78
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:31.919Z",
+  "updatedAt": "2026-11-24T10:34:31.919Z"
 }

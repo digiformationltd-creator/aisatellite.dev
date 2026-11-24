@@ -1,0 +1,26 @@
+{
+  "id": "cline-bangla-dcdb095b8f5b",
+  "canonicalUrl": "https://github.com/tunnabri-ops/cline-bangla",
+  "name": "cline-bangla",
+  "description": "Bangla rules for your AI coding assistant in VS Code — talks Bangla, works in small steps.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-coding",
+    "bangla",
+    "cline",
+    "rules",
+    "vscode"
+  ],
+  "repositoryUrl": "https://github.com/tunnabri-ops/cline-bangla",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-24T10:31:25Z",
+  "evidenceUrls": [
+    "https://github.com/tunnabri-ops/cline-bangla"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:33.193Z",
+  "updatedAt": "2026-11-24T10:34:33.193Z"
+}

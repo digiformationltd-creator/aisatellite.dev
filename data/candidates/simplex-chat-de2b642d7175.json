@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/simplex-chat/simplex-chat"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-23T08:26:58.465Z",
-  "updatedAt": "2026-11-23T08:26:58.465Z",
-  "lastVerified": "2026-11-23T10:44:37.132Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:31.247Z",
+  "updatedAt": "2026-11-24T10:34:31.247Z"
 }

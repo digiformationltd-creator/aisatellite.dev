@@ -16,13 +16,11 @@
   "freeTierLimitations": [],
   "githubStars": 0,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-21T05:44:06Z",
+  "lastRepositoryUpdate": "2026-11-24T08:35:11Z",
   "evidenceUrls": [
     "https://github.com/Ricardgu/local-code-model-memory-planner"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-21T07:52:26.742Z",
-  "updatedAt": "2026-11-21T07:52:26.742Z",
-  "lastVerified": "2026-11-23T10:37:15.736Z",
-  "qualityScore": 64
+  "status": "discovered",
+  "discoveredAt": "2026-11-24T10:34:32.512Z",
+  "updatedAt": "2026-11-24T10:34:32.512Z"
 }
