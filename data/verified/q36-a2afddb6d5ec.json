@@ -1,0 +1,43 @@
+{
+  "id": "q36-a2afddb6d5ec",
+  "canonicalUrl": "https://github.com/Ninnix/q36",
+  "name": "q36",
+  "description": "Qwen3.8-27B and Qwen3.6-35B-A3B local inference engine for Vulkan and Metal",
+  "category": "local-llm",
+  "tags": [
+    "amd",
+    "apple-silicon",
+    "bc-250",
+    "c",
+    "coding-agent",
+    "distributed-inference",
+    "gguf",
+    "inference-engine",
+    "llm-inference",
+    "local-llm",
+    "metal",
+    "moe",
+    "openai-compatible",
+    "ps5",
+    "quantization",
+    "qwen",
+    "ssd-streaming",
+    "vulkan"
+  ],
+  "repositoryUrl": "https://github.com/Ninnix/q36",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/Ninnix/q36/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 87,
+  "githubForks": 10,
+  "lastRepositoryUpdate": "2026-11-25T09:08:34Z",
+  "evidenceUrls": [
+    "https://github.com/Ninnix/q36"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-25T09:24:32.521Z",
+  "updatedAt": "2026-11-25T09:24:32.521Z",
+  "lastVerified": "2026-11-25T11:15:18.510Z",
+  "qualityScore": 80
+}

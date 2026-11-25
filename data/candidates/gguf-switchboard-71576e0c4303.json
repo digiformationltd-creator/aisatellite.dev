@@ -37,7 +37,9 @@
   "evidenceUrls": [
     "https://github.com/pradeepgudipati/gguf-switchboard"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:32.521Z",
-  "updatedAt": "2026-11-25T09:24:32.521Z"
+  "updatedAt": "2026-11-25T09:24:32.521Z",
+  "lastVerified": "2026-11-25T11:05:51.719Z",
+  "qualityScore": 78
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://backupdrill.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.274Z",
-  "updatedAt": "2026-11-25T09:24:31.274Z"
+  "updatedAt": "2026-11-25T09:24:31.274Z",
+  "lastVerified": "2026-11-25T10:59:07.518Z",
+  "qualityScore": 52
 }

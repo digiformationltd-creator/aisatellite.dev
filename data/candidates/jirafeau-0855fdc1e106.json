@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gitlab.com/jirafeau/Jirafeau"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.303Z",
-  "updatedAt": "2026-11-25T09:24:31.303Z"
+  "updatedAt": "2026-11-25T09:24:31.303Z",
+  "lastVerified": "2026-11-25T11:08:24.271Z",
+  "qualityScore": 52
 }

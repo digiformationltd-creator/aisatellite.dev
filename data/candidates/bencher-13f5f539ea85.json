@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://bencher.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.310Z",
   "updatedAt": "2026-11-25T09:24:33.037Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-25T10:59:15.057Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://contact.do/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.271Z",
-  "updatedAt": "2026-11-25T09:24:31.271Z"
+  "updatedAt": "2026-11-25T09:24:31.271Z",
+  "lastVerified": "2026-11-25T11:01:11.320Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://easyappointments.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.301Z",
-  "updatedAt": "2026-11-25T09:24:31.301Z"
+  "updatedAt": "2026-11-25T09:24:31.301Z",
+  "lastVerified": "2026-11-25T11:03:23.389Z",
+  "qualityScore": 52
 }

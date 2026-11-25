@@ -2,7 +2,7 @@
   "id": "freedesign-4a807826bcbc",
   "canonicalUrl": "https://github.com/AIPMAndy/FreeDesign",
   "name": "FreeDesign",
-  "description": "开发者设计资源大全：120+ 精选 UI 组件库、设计系统、3D 与 AI 设计工具（2026）｜Awesome design resources for developers",
+  "description": "开发者设计资源大全：120+ 精选 UI 组件库、设计系统、3D 与 AI 设计工具（2026）｜Awesome design resources for developers ｜ 微信 AIPMAndy · 官网 https://metaver.vip/",
   "category": "free-ai-tools",
   "tags": [
     "3d-graphics",
@@ -23,15 +23,15 @@
   "licenseEvidenceUrl": "https://github.com/AIPMAndy/FreeDesign/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 71,
+  "githubStars": 74,
   "githubForks": 5,
   "lastRepositoryUpdate": "2026-11-22T05:16:24Z",
   "evidenceUrls": [
     "https://github.com/AIPMAndy/FreeDesign"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-23T08:26:59.354Z",
-  "updatedAt": "2026-11-23T08:26:59.354Z",
-  "lastVerified": "2026-11-23T10:33:20.548Z",
+  "discoveredAt": "2026-11-25T09:24:31.959Z",
+  "updatedAt": "2026-11-25T09:24:31.959Z",
+  "lastVerified": "2026-11-25T11:05:13.454Z",
   "qualityScore": 91
 }

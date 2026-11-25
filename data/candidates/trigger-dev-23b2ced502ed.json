@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://trigger.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.264Z",
-  "updatedAt": "2026-11-25T09:24:31.264Z"
+  "updatedAt": "2026-11-25T09:24:31.264Z",
+  "lastVerified": "2026-11-25T11:21:21.257Z",
+  "qualityScore": 52
 }

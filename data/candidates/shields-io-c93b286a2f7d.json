@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://shields.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.264Z",
-  "updatedAt": "2026-11-25T09:24:31.264Z"
+  "updatedAt": "2026-11-25T09:24:31.264Z",
+  "lastVerified": "2026-11-25T11:17:34.636Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.hetzner.com/dns-console"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.274Z",
-  "updatedAt": "2026-11-25T09:24:31.274Z"
+  "updatedAt": "2026-11-25T09:24:31.274Z",
+  "lastVerified": "2026-11-25T11:06:56.397Z",
+  "qualityScore": 52
 }

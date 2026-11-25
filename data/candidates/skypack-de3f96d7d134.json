@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.skypack.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.273Z",
-  "updatedAt": "2026-11-25T09:24:31.273Z"
+  "updatedAt": "2026-11-25T09:24:31.273Z",
+  "lastVerified": "2026-11-25T11:18:06.228Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://homarr.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.308Z",
-  "updatedAt": "2026-11-25T09:24:31.308Z"
+  "updatedAt": "2026-11-25T09:24:31.308Z",
+  "lastVerified": "2026-11-25T11:07:06.961Z",
+  "qualityScore": 52
 }

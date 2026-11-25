@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://rero21.ch/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.303Z",
-  "updatedAt": "2026-11-25T09:24:31.303Z"
+  "updatedAt": "2026-11-25T09:24:31.303Z",
+  "lastVerified": "2026-11-25T11:16:02.367Z",
+  "qualityScore": 52
 }

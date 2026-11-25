@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dacid99.gitlab.io/eonvelope"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.300Z",
-  "updatedAt": "2026-11-25T09:24:31.300Z"
+  "updatedAt": "2026-11-25T09:24:31.300Z",
+  "lastVerified": "2026-11-25T11:03:52.245Z",
+  "qualityScore": 52
 }

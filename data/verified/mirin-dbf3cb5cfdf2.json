@@ -2,7 +2,7 @@
   "id": "mirin-dbf3cb5cfdf2",
   "canonicalUrl": "https://mirin.com/",
   "name": "Mirin",
-  "description": "Website platform for developer-built React, Vue, or Svelte component sites with visual editing, forms, analytics, and global CDN hosting. Free tier includes 1 site with unlimited pages and submissions.",
+  "description": "Website platform and hosting for small businesses with an AI website builder and visual editor. Starts with a free homepage redesign; the free plan includes 1 hosted site on a mymirin.com address, up to 3 pages, visual editing, and 10 AI credits every 30 days with a Made with Mirin credit (no card required).",
   "category": "free-tools",
   "tags": [
     "free-tools",
@@ -15,8 +15,8 @@
     "https://mirin.com"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-23T08:26:58.127Z",
-  "updatedAt": "2026-11-23T08:26:58.127Z",
-  "lastVerified": "2026-11-23T10:38:38.829Z",
+  "discoveredAt": "2026-11-25T09:24:31.273Z",
+  "updatedAt": "2026-11-25T09:24:31.273Z",
+  "lastVerified": "2026-11-25T11:11:22.407Z",
   "qualityScore": 52
 }

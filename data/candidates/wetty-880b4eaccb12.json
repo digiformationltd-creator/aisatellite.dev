@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://butlerx.github.io/wetty/#/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.307Z",
-  "updatedAt": "2026-11-25T09:24:31.307Z"
+  "updatedAt": "2026-11-25T09:24:31.307Z",
+  "lastVerified": "2026-11-25T11:22:42.177Z",
+  "qualityScore": 52
 }

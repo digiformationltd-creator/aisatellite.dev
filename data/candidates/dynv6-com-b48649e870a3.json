@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dynv6.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.274Z",
-  "updatedAt": "2026-11-25T09:24:31.274Z"
+  "updatedAt": "2026-11-25T09:24:31.274Z",
+  "lastVerified": "2026-11-25T11:03:22.420Z",
+  "qualityScore": 52
 }

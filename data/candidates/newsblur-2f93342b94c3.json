@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.newsblur.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.303Z",
-  "updatedAt": "2026-11-25T09:24:31.303Z"
+  "updatedAt": "2026-11-25T09:24:31.303Z",
+  "lastVerified": "2026-11-25T11:12:05.368Z",
+  "qualityScore": 52
 }

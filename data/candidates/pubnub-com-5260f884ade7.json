@@ -14,8 +14,10 @@
   "evidenceUrls": [
     "https://www.pubnub.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.273Z",
   "updatedAt": "2026-11-25T09:24:33.035Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-25T11:15:10.741Z",
+  "qualityScore": 52
 }

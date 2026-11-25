@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://rei3.de/home_en/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.307Z",
-  "updatedAt": "2026-11-25T09:24:31.307Z"
+  "updatedAt": "2026-11-25T09:24:31.307Z",
+  "lastVerified": "2026-11-25T11:15:49.626Z",
+  "qualityScore": 52
 }

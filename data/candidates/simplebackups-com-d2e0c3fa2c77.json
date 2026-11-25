@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://simplebackups.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.279Z",
-  "updatedAt": "2026-11-25T09:24:31.279Z"
+  "updatedAt": "2026-11-25T09:24:31.279Z",
+  "lastVerified": "2026-11-25T11:17:49.624Z",
+  "qualityScore": 52
 }

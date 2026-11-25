@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://code.sololearn.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.276Z",
-  "updatedAt": "2026-11-25T09:24:31.276Z"
+  "updatedAt": "2026-11-25T09:24:31.276Z",
+  "lastVerified": "2026-11-25T11:18:36.530Z",
+  "qualityScore": 52
 }

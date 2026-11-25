@@ -30,15 +30,15 @@
   "licenseEvidenceUrl": "https://github.com/townsendmerino/goinfer/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 26,
+  "githubStars": 27,
   "githubForks": 7,
-  "lastRepositoryUpdate": "2026-11-21T06:39:41Z",
+  "lastRepositoryUpdate": "2026-11-24T09:34:04Z",
   "evidenceUrls": [
     "https://github.com/townsendmerino/goinfer"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-21T07:52:26.741Z",
-  "updatedAt": "2026-11-21T07:52:26.741Z",
-  "lastVerified": "2026-11-23T10:34:13.242Z",
+  "discoveredAt": "2026-11-24T10:34:32.512Z",
+  "updatedAt": "2026-11-24T10:34:32.512Z",
+  "lastVerified": "2026-11-25T11:06:21.549Z",
   "qualityScore": 80
 }

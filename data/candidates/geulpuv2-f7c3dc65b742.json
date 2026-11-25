@@ -31,7 +31,9 @@
   "evidenceUrls": [
     "https://github.com/wwoosshh/GeulPUv2"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-24T10:34:32.512Z",
-  "updatedAt": "2026-11-24T10:34:32.512Z"
+  "updatedAt": "2026-11-24T10:34:32.512Z",
+  "lastVerified": "2026-11-25T11:05:50.688Z",
+  "qualityScore": 78
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.getlago.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.307Z",
-  "updatedAt": "2026-11-25T09:24:31.307Z"
+  "updatedAt": "2026-11-25T09:24:31.307Z",
+  "lastVerified": "2026-11-25T11:09:06.545Z",
+  "qualityScore": 52
 }

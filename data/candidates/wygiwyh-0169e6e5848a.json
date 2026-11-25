@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/eitchtee/WYGIWYH"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.307Z",
-  "updatedAt": "2026-11-25T09:24:31.307Z"
+  "updatedAt": "2026-11-25T09:24:31.307Z",
+  "lastVerified": "2026-11-25T11:23:16.586Z",
+  "qualityScore": 55
 }

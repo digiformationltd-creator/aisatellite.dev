@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://flock.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.263Z",
-  "updatedAt": "2026-11-25T09:24:31.263Z"
+  "updatedAt": "2026-11-25T09:24:31.263Z",
+  "lastVerified": "2026-11-25T11:04:43.158Z",
+  "qualityScore": 52
 }

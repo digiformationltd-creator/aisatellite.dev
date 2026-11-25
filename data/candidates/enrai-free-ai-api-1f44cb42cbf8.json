@@ -39,7 +39,9 @@
   "evidenceUrls": [
     "https://github.com/enraidev/enrai-free-ai-api"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.959Z",
-  "updatedAt": "2026-11-25T09:24:31.959Z"
+  "updatedAt": "2026-11-25T09:24:31.959Z",
+  "lastVerified": "2026-11-25T11:03:51.210Z",
+  "qualityScore": 89
 }

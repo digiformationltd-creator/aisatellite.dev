@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.bugsnag.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.270Z",
-  "updatedAt": "2026-11-25T09:24:31.270Z"
+  "updatedAt": "2026-11-25T09:24:31.270Z",
+  "lastVerified": "2026-11-25T10:59:44.817Z",
+  "qualityScore": 52
 }

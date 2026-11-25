@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://reloop.sh"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.272Z",
-  "updatedAt": "2026-11-25T09:24:31.272Z"
+  "updatedAt": "2026-11-25T09:24:31.272Z",
+  "lastVerified": "2026-11-25T11:15:54.057Z",
+  "qualityScore": 52
 }

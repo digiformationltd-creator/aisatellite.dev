@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.ably.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.268Z",
-  "updatedAt": "2026-11-25T09:24:31.268Z"
+  "updatedAt": "2026-11-25T09:24:31.268Z",
+  "lastVerified": "2026-11-25T10:57:35.849Z",
+  "qualityScore": 52
 }

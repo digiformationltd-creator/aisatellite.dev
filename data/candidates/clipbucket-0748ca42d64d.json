@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://clipbucket.fr/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.306Z",
-  "updatedAt": "2026-11-25T09:24:31.306Z"
+  "updatedAt": "2026-11-25T09:24:31.306Z",
+  "lastVerified": "2026-11-25T11:00:32.613Z",
+  "qualityScore": 52
 }

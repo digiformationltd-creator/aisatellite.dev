@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ddnet.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.304Z",
-  "updatedAt": "2026-11-25T09:24:31.304Z"
+  "updatedAt": "2026-11-25T09:24:31.304Z",
+  "lastVerified": "2026-11-25T11:02:02.393Z",
+  "qualityScore": 52
 }

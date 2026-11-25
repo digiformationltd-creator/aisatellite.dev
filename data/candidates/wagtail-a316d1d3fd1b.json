@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://wagtail.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.302Z",
-  "updatedAt": "2026-11-25T09:24:31.302Z"
+  "updatedAt": "2026-11-25T09:24:31.302Z",
+  "lastVerified": "2026-11-25T11:22:17.452Z",
+  "qualityScore": 52
 }

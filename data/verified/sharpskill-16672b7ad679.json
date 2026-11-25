@@ -1,0 +1,22 @@
+{
+  "id": "sharpskill-16672b7ad679",
+  "canonicalUrl": "https://sharpskill.dev/",
+  "name": "SharpSkill",
+  "description": "Free tier of a technical interview preparation platform including cheatsheets, flashcards, tests and code review exercises in 20 technologies, plus public job market data by technology and country.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://sharpskill.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://sharpskill.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-25T09:24:31.270Z",
+  "updatedAt": "2026-11-25T09:24:31.270Z",
+  "lastVerified": "2026-11-25T11:17:30.470Z",
+  "qualityScore": 52
+}

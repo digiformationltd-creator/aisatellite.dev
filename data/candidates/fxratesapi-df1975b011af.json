@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://fxratesapi.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.278Z",
-  "updatedAt": "2026-11-25T09:24:31.278Z"
+  "updatedAt": "2026-11-25T09:24:31.278Z",
+  "lastVerified": "2026-11-25T11:05:26.175Z",
+  "qualityScore": 52
 }

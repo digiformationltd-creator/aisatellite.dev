@@ -30,15 +30,15 @@
   "licenseEvidenceUrl": "https://github.com/editor-code-assistant/eca/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 1060,
+  "githubStars": 1062,
   "githubForks": 93,
-  "lastRepositoryUpdate": "2026-11-17T07:31:33Z",
+  "lastRepositoryUpdate": "2026-11-25T03:09:50Z",
   "evidenceUrls": [
     "https://github.com/editor-code-assistant/eca"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:09.428Z",
-  "updatedAt": "2026-11-17T08:42:09.428Z",
-  "lastVerified": "2026-11-23T10:31:42.333Z",
+  "discoveredAt": "2026-11-25T09:24:33.033Z",
+  "updatedAt": "2026-11-25T09:24:33.033Z",
+  "lastVerified": "2026-11-25T11:03:25.876Z",
   "qualityScore": 94
 }

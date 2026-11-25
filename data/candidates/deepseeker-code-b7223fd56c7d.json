@@ -28,7 +28,9 @@
   "evidenceUrls": [
     "https://github.com/xknk/deepseeker-code"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:33.033Z",
-  "updatedAt": "2026-11-25T09:24:33.033Z"
+  "updatedAt": "2026-11-25T09:24:33.033Z",
+  "lastVerified": "2026-11-25T11:02:11.354Z",
+  "qualityScore": 78
 }

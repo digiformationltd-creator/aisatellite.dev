@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://xcloud.host"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.267Z",
-  "updatedAt": "2026-11-25T09:24:31.267Z"
+  "updatedAt": "2026-11-25T09:24:31.267Z",
+  "lastVerified": "2026-11-25T11:23:17.943Z",
+  "qualityScore": 52
 }

@@ -27,7 +27,9 @@
   "evidenceUrls": [
     "https://github.com/hikkian/shura"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-24T10:34:32.512Z",
-  "updatedAt": "2026-11-24T10:34:32.512Z"
+  "updatedAt": "2026-11-24T10:34:32.512Z",
+  "lastVerified": "2026-11-25T11:17:42.854Z",
+  "qualityScore": 78
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://foxxmd.github.io/multi-scrobbler"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.306Z",
-  "updatedAt": "2026-11-25T09:24:31.306Z"
+  "updatedAt": "2026-11-25T09:24:31.306Z",
+  "lastVerified": "2026-11-25T11:11:49.151Z",
+  "qualityScore": 52
 }

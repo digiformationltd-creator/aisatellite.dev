@@ -1,0 +1,22 @@
+{
+  "id": "pingaroo-83d7790aa388",
+  "canonicalUrl": "https://pingaroo.dev/",
+  "name": "Pingaroo",
+  "description": "1 website, 2 URLs, uptime check with 15 minutes interval, SSL/DNS/domain checks, email alerts, no credit card needed.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://pingaroo.dev/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://pingaroo.dev/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-25T09:24:31.270Z",
+  "updatedAt": "2026-11-25T09:24:31.270Z",
+  "lastVerified": "2026-11-25T11:14:16.358Z",
+  "qualityScore": 52
+}

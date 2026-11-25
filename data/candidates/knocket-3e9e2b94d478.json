@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://trtc.io/solutions/knocket"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.263Z",
-  "updatedAt": "2026-11-25T09:24:31.263Z"
+  "updatedAt": "2026-11-25T09:24:31.263Z",
+  "lastVerified": "2026-11-25T11:08:58.445Z",
+  "qualityScore": 52
 }

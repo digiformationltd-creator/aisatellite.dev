@@ -28,7 +28,9 @@
   "evidenceUrls": [
     "https://github.com/zzhhub6/awesome-verified-free-ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.959Z",
-  "updatedAt": "2026-11-25T09:24:31.959Z"
+  "updatedAt": "2026-11-25T09:24:31.959Z",
+  "lastVerified": "2026-11-25T10:58:55.488Z",
+  "qualityScore": 89
 }

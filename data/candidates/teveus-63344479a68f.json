@@ -36,7 +36,9 @@
   "evidenceUrls": [
     "https://github.com/stawan15/teveus"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:33.033Z",
-  "updatedAt": "2026-11-25T09:24:33.033Z"
+  "updatedAt": "2026-11-25T09:24:33.033Z",
+  "lastVerified": "2026-11-25T11:20:31.305Z",
+  "qualityScore": 89
 }

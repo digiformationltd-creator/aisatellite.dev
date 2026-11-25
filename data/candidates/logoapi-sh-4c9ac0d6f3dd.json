@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://logoapi.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.275Z",
-  "updatedAt": "2026-11-25T09:24:31.275Z"
+  "updatedAt": "2026-11-25T09:24:31.275Z",
+  "lastVerified": "2026-11-25T11:10:06.807Z",
+  "qualityScore": 52
 }

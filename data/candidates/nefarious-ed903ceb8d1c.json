@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://lardbit.github.io/nefarious/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.306Z",
-  "updatedAt": "2026-11-25T09:24:31.306Z"
+  "updatedAt": "2026-11-25T09:24:31.306Z",
+  "lastVerified": "2026-11-25T11:11:58.593Z",
+  "qualityScore": 52
 }

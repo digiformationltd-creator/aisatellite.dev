@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://brandicons.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.275Z",
-  "updatedAt": "2026-11-25T09:24:31.275Z"
+  "updatedAt": "2026-11-25T09:24:31.275Z",
+  "lastVerified": "2026-11-25T10:59:40.273Z",
+  "qualityScore": 52
 }

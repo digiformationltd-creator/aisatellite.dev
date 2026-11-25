@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://socialhome.network"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.302Z",
-  "updatedAt": "2026-11-25T09:24:31.302Z"
+  "updatedAt": "2026-11-25T09:24:31.302Z",
+  "lastVerified": "2026-11-25T11:18:32.828Z",
+  "qualityScore": 52
 }

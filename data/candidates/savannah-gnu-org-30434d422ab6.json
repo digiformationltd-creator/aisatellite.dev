@@ -14,7 +14,8 @@
   "evidenceUrls": [
     "https://savannah.gnu.org/"
   ],
-  "status": "discovered",
+  "status": "rejected",
   "discoveredAt": "2026-11-25T09:24:31.261Z",
-  "updatedAt": "2026-11-25T09:24:31.261Z"
+  "updatedAt": "2026-11-25T09:24:31.261Z",
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

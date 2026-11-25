@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sherlo.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.265Z",
-  "updatedAt": "2026-11-25T09:24:31.265Z"
+  "updatedAt": "2026-11-25T09:24:31.265Z",
+  "lastVerified": "2026-11-25T11:17:33.880Z",
+  "qualityScore": 52
 }

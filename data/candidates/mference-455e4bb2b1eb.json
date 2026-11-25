@@ -25,7 +25,9 @@
   "evidenceUrls": [
     "https://github.com/NeelM0906/Mference"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:32.521Z",
-  "updatedAt": "2026-11-25T09:24:32.521Z"
+  "updatedAt": "2026-11-25T09:24:32.521Z",
+  "lastVerified": "2026-11-25T11:11:11.120Z",
+  "qualityScore": 67
 }

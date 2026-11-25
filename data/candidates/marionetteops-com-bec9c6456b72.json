@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.marionetteops.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-25T09:24:31.269Z",
-  "updatedAt": "2026-11-25T09:24:31.269Z"
+  "updatedAt": "2026-11-25T09:24:31.269Z",
+  "lastVerified": "2026-11-25T11:10:47.462Z",
+  "qualityScore": 52
 }
