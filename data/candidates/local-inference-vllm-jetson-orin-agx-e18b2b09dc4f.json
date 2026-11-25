@@ -1,0 +1,31 @@
+{
+  "id": "local-inference-vllm-jetson-orin-agx-e18b2b09dc4f",
+  "canonicalUrl": "https://github.com/BarryTheShen/local-inference-vllm-jetson-orin-agx",
+  "name": "local-inference-vllm-jetson-orin-agx",
+  "description": "Deployment and benchmarks for Qwen3.6-35B-A3B (INT8) served with vLLM 0.19.0 on a Jetson AGX Orin.",
+  "category": "local-llm",
+  "tags": [
+    "benchmark",
+    "docker-compose",
+    "int8",
+    "jetson-orin",
+    "llm-inference",
+    "quantization",
+    "qwen3",
+    "vllm"
+  ],
+  "repositoryUrl": "https://github.com/BarryTheShen/local-inference-vllm-jetson-orin-agx",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/BarryTheShen/local-inference-vllm-jetson-orin-agx/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-25T09:10:21Z",
+  "evidenceUrls": [
+    "https://github.com/BarryTheShen/local-inference-vllm-jetson-orin-agx"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-25T09:24:32.521Z",
+  "updatedAt": "2026-11-25T09:24:32.521Z"
+}

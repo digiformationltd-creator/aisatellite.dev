@@ -2,7 +2,7 @@
   "id": "palimpsests-c25dcd3648b5",
   "canonicalUrl": "https://github.com/Assault-Consulting/Palimpsests",
   "name": "Palimpsests",
-  "description": "Local-first LLM runtime with a tamper-evident, independently verifiable audit trail (PALA-1, frozen at v1.0). Ollama and llama.cpp behind one abstraction, context-memory, a native L3 serving loop, and an OpenAI-compatible endpoint.",
+  "description": "Tamper-evident audit log for AI agents and local LLMs (PALA-1, frozen at v1.0), verifiable without the decryption key. Local-first runtime: Ollama and llama.cpp behind one abstraction, with an OpenAI-compatible endpoint.",
   "category": "local-llm",
   "tags": [
     "llama-cpp",
@@ -11,21 +11,19 @@
     "local-llm"
   ],
   "repositoryUrl": "https://github.com/Assault-Consulting/Palimpsests",
-  "officialUrl": "https://pypi.org/project/palimpsests/",
-  "documentationUrl": "https://pypi.org/project/palimpsests/",
+  "officialUrl": "https://palimpsests.dev/",
+  "documentationUrl": "https://palimpsests.dev/",
   "licenseSpdx": "Apache-2.0",
   "licenseEvidenceUrl": "https://github.com/Assault-Consulting/Palimpsests/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
   "githubStars": 0,
   "githubForks": 3,
-  "lastRepositoryUpdate": "2026-11-20T06:21:31Z",
+  "lastRepositoryUpdate": "2026-11-25T09:16:01Z",
   "evidenceUrls": [
     "https://github.com/Assault-Consulting/Palimpsests"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-20T07:54:05.851Z",
-  "updatedAt": "2026-11-20T07:54:05.851Z",
-  "lastVerified": "2026-11-23T10:40:57.195Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-25T09:24:32.521Z",
+  "updatedAt": "2026-11-25T09:24:32.521Z"
 }

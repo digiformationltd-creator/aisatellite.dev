@@ -1,0 +1,40 @@
+{
+  "id": "llm-local-servers-1e0133446560",
+  "canonicalUrl": "https://github.com/tuminoid/llm-local-servers",
+  "name": "llm-local-servers",
+  "description": "Makefile-driven local LLM serving (vLLM, Ollama, vLLM-Metal, Splash, LM Studio, ds4, Kapitsa, Strata), tuned and measured for deep-context agentic audit and coding sessions.",
+  "category": "local-llm",
+  "tags": [
+    "apple-silicon",
+    "benchmark",
+    "cuda",
+    "ds4",
+    "kapitsa",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "mlx",
+    "ollama",
+    "opencode",
+    "rtx",
+    "security-audit",
+    "splash",
+    "strata",
+    "vllm",
+    "vllm-metal"
+  ],
+  "repositoryUrl": "https://github.com/tuminoid/llm-local-servers",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/tuminoid/llm-local-servers/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 2,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-25T07:49:42Z",
+  "evidenceUrls": [
+    "https://github.com/tuminoid/llm-local-servers"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-25T09:24:32.521Z",
+  "updatedAt": "2026-11-25T09:24:32.521Z"
+}
