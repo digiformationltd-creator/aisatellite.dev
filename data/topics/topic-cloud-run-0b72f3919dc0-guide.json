@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloud-run-0b72f3919dc0-guide",
+  "title": "How to Deploy Cloud Run in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloud-run-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloud Run.",
+  "targetKeywords": [
+    "Cloud Run",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com/run"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cloud Run with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.080Z"
+}

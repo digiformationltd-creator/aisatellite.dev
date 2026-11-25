@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloud-storage-ce1d6dbf0353-guide",
+  "title": "How to Deploy Cloud Storage in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloud-storage-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloud Storage.",
+  "targetKeywords": [
+    "Cloud Storage",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com/storage"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Cloud Storage with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.080Z"
+}

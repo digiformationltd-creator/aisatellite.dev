@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hexclave-c78a176f5fe3-guide",
+  "title": "How to Deploy Hexclave in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hexclave-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Hexclave.",
+  "targetKeywords": [
+    "Hexclave",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://stack-auth.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Hexclave with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.081Z"
+}

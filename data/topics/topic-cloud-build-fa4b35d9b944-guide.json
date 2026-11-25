@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloud-build-fa4b35d9b944-guide",
+  "title": "How to Deploy Cloud Build in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloud-build-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloud Build.",
+  "targetKeywords": [
+    "Cloud Build",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com/build"
+  ],
+  "priorityScore": 57,
+  "contentGapRationale": "High developer demand for self-hosting Cloud Build with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.079Z"
+}

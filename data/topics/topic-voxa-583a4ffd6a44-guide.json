@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-voxa-583a4ffd6a44-guide",
+  "title": "How to Deploy voxa in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-voxa-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for voxa.",
+  "targetKeywords": [
+    "voxa",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/crhy/voxa"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting voxa with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.083Z"
+}

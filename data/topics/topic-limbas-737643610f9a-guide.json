@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-limbas-737643610f9a-guide",
+  "title": "How to Deploy Limbas in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-limbas-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Limbas.",
+  "targetKeywords": [
+    "Limbas",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.limbas.com/en/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Limbas with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.081Z"
+}

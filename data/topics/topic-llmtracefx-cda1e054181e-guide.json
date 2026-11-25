@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-llmtracefx-cda1e054181e-guide",
+  "title": "How to Deploy LLMTraceFX in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-llmtracefx-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LLMTraceFX.",
+  "targetKeywords": [
+    "LLMTraceFX",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Siddhant-K-code/LLMTraceFX"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting LLMTraceFX with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.081Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-localflow-3c378836ce4d-guide",
+  "title": "How to Deploy localflow in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-localflow-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for localflow.",
+  "targetKeywords": [
+    "localflow",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/AverWasTaken/localflow"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting localflow with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.081Z"
+}

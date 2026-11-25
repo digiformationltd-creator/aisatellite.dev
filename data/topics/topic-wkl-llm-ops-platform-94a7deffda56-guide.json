@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-wkl-llm-ops-platform-94a7deffda56-guide",
+  "title": "How to Deploy WKL-LLM-Ops-Platform in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-wkl-llm-ops-platform-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for WKL-LLM-Ops-Platform.",
+  "targetKeywords": [
+    "WKL-LLM-Ops-Platform",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/stevencui581/WKL-LLM-Ops-Platform"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting WKL-LLM-Ops-Platform with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.083Z"
+}

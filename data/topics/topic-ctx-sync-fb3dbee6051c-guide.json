@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ctx-sync-fb3dbee6051c-guide",
+  "title": "How to Deploy ctx-sync in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ctx-sync-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ctx-sync.",
+  "targetKeywords": [
+    "ctx-sync",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/coding-clyde/ctx-sync"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting ctx-sync with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.080Z"
+}

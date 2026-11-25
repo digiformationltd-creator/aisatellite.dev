@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ollama-yield-dc705c93a069-guide",
+  "title": "How to Deploy ollama-yield in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ollama-yield-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ollama-yield.",
+  "targetKeywords": [
+    "ollama-yield",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/preston-bernstein/ollama-yield"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting ollama-yield with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.082Z"
+}

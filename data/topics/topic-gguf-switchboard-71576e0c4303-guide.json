@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gguf-switchboard-71576e0c4303-guide",
+  "title": "How to Deploy gguf-switchboard in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gguf-switchboard-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for gguf-switchboard.",
+  "targetKeywords": [
+    "gguf-switchboard",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/pradeepgudipati/gguf-switchboard"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting gguf-switchboard with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.081Z"
+}

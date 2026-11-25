@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-forge9070-2bc8b49fdfd3-guide",
+  "title": "How to Deploy forge9070 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-forge9070-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for forge9070.",
+  "targetKeywords": [
+    "forge9070",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/jamesoneill/forge9070"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting forge9070 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.081Z"
+}

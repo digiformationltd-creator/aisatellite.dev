@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-seatable-0e4689f94193-guide",
+  "title": "How to Deploy SeaTable in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-seatable-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SeaTable.",
+  "targetKeywords": [
+    "SeaTable",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://seatable.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting SeaTable with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.082Z"
+}

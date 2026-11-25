@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-hippobuddy-5e253998a99e-guide",
+  "title": "How to Deploy HippoBuddy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-hippobuddy-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for HippoBuddy.",
+  "targetKeywords": [
+    "HippoBuddy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Puteitous/HippoBuddy"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting HippoBuddy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.081Z"
+}

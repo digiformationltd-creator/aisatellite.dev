@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-homer-497e75db635c-guide",
+  "title": "How to Deploy Homer in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-homer-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Homer.",
+  "targetKeywords": [
+    "Homer",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/homer-dashboard/homer"
+  ],
+  "priorityScore": 65,
+  "contentGapRationale": "High developer demand for self-hosting Homer with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-25T13:58:05.081Z"
+}
