@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gemfury.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.127Z",
-  "updatedAt": "2026-11-26T09:02:13.127Z"
+  "updatedAt": "2026-11-26T09:02:13.127Z",
+  "lastVerified": "2026-11-26T10:41:37.844Z",
+  "qualityScore": 52
 }

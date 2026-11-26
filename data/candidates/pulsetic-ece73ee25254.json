@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pulsetic.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.134Z",
-  "updatedAt": "2026-11-26T09:02:13.134Z"
+  "updatedAt": "2026-11-26T09:02:13.134Z",
+  "lastVerified": "2026-11-26T10:50:58.770Z",
+  "qualityScore": 52
 }

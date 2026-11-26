@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://inveniordm.docs.cern.ch/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.167Z",
-  "updatedAt": "2026-11-26T09:02:13.167Z"
+  "updatedAt": "2026-11-26T09:02:13.167Z",
+  "lastVerified": "2026-11-26T10:43:53.412Z",
+  "qualityScore": 52
 }

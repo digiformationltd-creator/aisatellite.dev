@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/jhaals/yopass"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.171Z",
-  "updatedAt": "2026-11-26T09:02:13.171Z"
+  "updatedAt": "2026-11-26T09:02:13.171Z",
+  "lastVerified": "2026-11-26T10:58:36.600Z",
+  "qualityScore": 55
 }

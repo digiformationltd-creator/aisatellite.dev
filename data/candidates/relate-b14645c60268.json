@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://documen.tician.de/relate/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.170Z",
-  "updatedAt": "2026-11-26T09:02:13.170Z"
+  "updatedAt": "2026-11-26T09:02:13.170Z",
+  "lastVerified": "2026-11-26T10:51:36.412Z",
+  "qualityScore": 52
 }

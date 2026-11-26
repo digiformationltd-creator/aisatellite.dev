@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://freedombox.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.172Z",
-  "updatedAt": "2026-11-26T09:02:13.172Z"
+  "updatedAt": "2026-11-26T09:02:13.172Z",
+  "lastVerified": "2026-11-26T10:41:13.989Z",
+  "qualityScore": 52
 }

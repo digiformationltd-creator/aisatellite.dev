@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://rocketgit.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.125Z",
-  "updatedAt": "2026-11-26T09:02:13.125Z"
+  "updatedAt": "2026-11-26T09:02:13.125Z",
+  "lastVerified": "2026-11-26T10:51:59.603Z",
+  "qualityScore": 52
 }

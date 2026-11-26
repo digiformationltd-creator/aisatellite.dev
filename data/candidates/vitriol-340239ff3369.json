@@ -27,7 +27,9 @@
   "evidenceUrls": [
     "https://github.com/Randozart/VITRIOL"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:14.339Z",
-  "updatedAt": "2026-11-26T09:02:14.339Z"
+  "updatedAt": "2026-11-26T09:02:14.339Z",
+  "lastVerified": "2026-11-26T10:57:30.761Z",
+  "qualityScore": 80
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://neo4j.com/cloud/aura/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.139Z",
-  "updatedAt": "2026-11-26T09:02:13.139Z"
+  "updatedAt": "2026-11-26T09:02:13.139Z",
+  "lastVerified": "2026-11-26T10:47:39.614Z",
+  "qualityScore": 52
 }

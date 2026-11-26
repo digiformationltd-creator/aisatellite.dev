@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://openuptime.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.134Z",
-  "updatedAt": "2026-11-26T09:02:13.134Z"
+  "updatedAt": "2026-11-26T09:02:13.134Z",
+  "lastVerified": "2026-11-26T10:49:08.426Z",
+  "qualityScore": 52
 }

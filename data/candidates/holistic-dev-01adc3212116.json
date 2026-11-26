@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://holistic.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.128Z",
-  "updatedAt": "2026-11-26T09:02:13.128Z"
+  "updatedAt": "2026-11-26T09:02:13.128Z",
+  "lastVerified": "2026-11-26T10:42:59.645Z",
+  "qualityScore": 52
 }

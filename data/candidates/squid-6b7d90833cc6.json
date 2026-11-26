@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "http://www.squid-cache.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.172Z",
-  "updatedAt": "2026-11-26T09:02:13.172Z"
+  "updatedAt": "2026-11-26T09:02:13.172Z",
+  "lastVerified": "2026-11-26T10:54:31.381Z",
+  "qualityScore": 52
 }

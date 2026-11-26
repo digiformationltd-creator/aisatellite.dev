@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.termix.site/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.172Z",
-  "updatedAt": "2026-11-26T09:02:13.172Z"
+  "updatedAt": "2026-11-26T09:02:13.172Z",
+  "lastVerified": "2026-11-26T10:55:47.733Z",
+  "qualityScore": 52
 }

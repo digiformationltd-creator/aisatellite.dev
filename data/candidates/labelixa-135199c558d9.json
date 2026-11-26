@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://labelixa.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.126Z",
-  "updatedAt": "2026-11-26T09:02:13.126Z"
+  "updatedAt": "2026-11-26T09:02:13.126Z",
+  "lastVerified": "2026-11-26T10:44:51.062Z",
+  "qualityScore": 52
 }

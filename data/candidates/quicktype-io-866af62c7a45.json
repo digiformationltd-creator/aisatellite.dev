@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://quicktype.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.143Z",
-  "updatedAt": "2026-11-26T09:02:13.143Z"
+  "updatedAt": "2026-11-26T09:02:13.143Z",
+  "lastVerified": "2026-11-26T10:51:14.554Z",
+  "qualityScore": 52
 }

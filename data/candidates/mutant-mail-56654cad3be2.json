@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.mutantmail.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.136Z",
-  "updatedAt": "2026-11-26T09:02:13.136Z"
+  "updatedAt": "2026-11-26T09:02:13.136Z",
+  "lastVerified": "2026-11-26T10:47:33.327Z",
+  "qualityScore": 52
 }

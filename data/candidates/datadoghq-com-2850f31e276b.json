@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.datadoghq.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.134Z",
-  "updatedAt": "2026-11-26T09:02:13.134Z"
+  "updatedAt": "2026-11-26T09:02:13.134Z",
+  "lastVerified": "2026-11-26T10:37:53.484Z",
+  "qualityScore": 47
 }

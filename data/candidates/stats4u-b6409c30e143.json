@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.stats4u.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.142Z",
-  "updatedAt": "2026-11-26T09:02:13.142Z"
+  "updatedAt": "2026-11-26T09:02:13.142Z",
+  "lastVerified": "2026-11-26T10:54:43.990Z",
+  "qualityScore": 52
 }

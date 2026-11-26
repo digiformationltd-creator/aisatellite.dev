@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tempmaildetector.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.137Z",
-  "updatedAt": "2026-11-26T09:02:13.137Z"
+  "updatedAt": "2026-11-26T09:02:13.137Z",
+  "lastVerified": "2026-11-26T10:55:45.715Z",
+  "qualityScore": 52
 }

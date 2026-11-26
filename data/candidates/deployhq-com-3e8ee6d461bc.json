@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.deployhq.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.128Z",
-  "updatedAt": "2026-11-26T09:02:13.128Z"
+  "updatedAt": "2026-11-26T09:02:13.128Z",
+  "lastVerified": "2026-11-26T10:38:11.350Z",
+  "qualityScore": 52
 }

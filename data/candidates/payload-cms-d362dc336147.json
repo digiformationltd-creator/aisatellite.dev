@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://payloadcms.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.166Z",
-  "updatedAt": "2026-11-26T09:02:13.166Z"
+  "updatedAt": "2026-11-26T09:02:13.166Z",
+  "lastVerified": "2026-11-26T10:49:47.222Z",
+  "qualityScore": 52
 }

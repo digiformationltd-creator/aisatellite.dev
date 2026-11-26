@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.cheezypizza.in"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.168Z",
-  "updatedAt": "2026-11-26T09:02:13.168Z"
+  "updatedAt": "2026-11-26T09:02:13.168Z",
+  "lastVerified": "2026-11-26T10:36:24.010Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,36 @@
+{
+  "id": "claude-plugins-8dfad59dcc45",
+  "canonicalUrl": "https://github.com/aiocean/claude-plugins",
+  "name": "claude-plugins",
+  "description": "🚀 Claude Code plugins for parallel development, mental models, session learning, image processing, ebook generation, and more. Make your AI coding assistant smarter.",
+  "category": "ai-coding",
+  "tags": [
+    "ai-assistant",
+    "ai-coding",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cli-tools",
+    "developer-tools",
+    "plugins",
+    "productivity",
+    "skills",
+    "skills-sh"
+  ],
+  "repositoryUrl": "https://github.com/aiocean/claude-plugins",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/aiocean/claude-plugins/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 4,
+  "githubForks": 1,
+  "lastRepositoryUpdate": "2026-11-26T06:34:40Z",
+  "evidenceUrls": [
+    "https://github.com/aiocean/claude-plugins"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-26T09:02:14.941Z",
+  "updatedAt": "2026-11-26T09:02:14.941Z",
+  "lastVerified": "2026-11-26T10:36:32.377Z",
+  "qualityScore": 78
+}

@@ -1,0 +1,22 @@
+{
+  "id": "12happy-8167e6b96c9c",
+  "canonicalUrl": "https://www.12hpy.com/",
+  "name": "12happy",
+  "description": "Free uptime service monitoring with status page for your product. Apps for both iOS and Android, notifications via Slack, Telegram and E-mail. Various locations. Free plan includes 50 monitors checked every 5 minutes.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.12hpy.com/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.12hpy.com/"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-26T09:02:13.134Z",
+  "updatedAt": "2026-11-26T09:02:13.134Z",
+  "lastVerified": "2026-11-26T10:33:37.710Z",
+  "qualityScore": 52
+}

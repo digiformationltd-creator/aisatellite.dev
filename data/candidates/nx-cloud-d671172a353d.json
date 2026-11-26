@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://nx.dev/ci"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.129Z",
-  "updatedAt": "2026-11-26T09:02:13.129Z"
+  "updatedAt": "2026-11-26T09:02:13.129Z",
+  "lastVerified": "2026-11-26T10:48:25.808Z",
+  "qualityScore": 52
 }

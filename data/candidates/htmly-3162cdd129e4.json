@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.htmly.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.164Z",
-  "updatedAt": "2026-11-26T09:02:13.164Z"
+  "updatedAt": "2026-11-26T09:02:13.164Z",
+  "lastVerified": "2026-11-26T10:43:17.103Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://betterstack.com/better-uptime"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.134Z",
-  "updatedAt": "2026-11-26T09:02:13.134Z"
+  "updatedAt": "2026-11-26T09:02:13.134Z",
+  "lastVerified": "2026-11-26T10:35:26.663Z",
+  "qualityScore": 52
 }

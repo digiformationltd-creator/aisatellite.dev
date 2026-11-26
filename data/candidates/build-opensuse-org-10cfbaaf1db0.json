@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://build.opensuse.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.141Z",
-  "updatedAt": "2026-11-26T09:02:13.141Z"
+  "updatedAt": "2026-11-26T09:02:13.141Z",
+  "lastVerified": "2026-11-26T10:35:55.016Z",
+  "qualityScore": 52
 }

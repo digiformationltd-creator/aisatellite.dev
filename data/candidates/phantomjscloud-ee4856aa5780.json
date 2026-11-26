@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://PhantomJsCloud.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.143Z",
-  "updatedAt": "2026-11-26T09:02:13.143Z"
+  "updatedAt": "2026-11-26T09:02:13.143Z",
+  "lastVerified": "2026-11-26T10:49:54.653Z",
+  "qualityScore": 52
 }

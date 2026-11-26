@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://monitormonk.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.134Z",
-  "updatedAt": "2026-11-26T09:02:13.134Z"
+  "updatedAt": "2026-11-26T09:02:13.134Z",
+  "lastVerified": "2026-11-26T10:47:20.418Z",
+  "qualityScore": 52
 }

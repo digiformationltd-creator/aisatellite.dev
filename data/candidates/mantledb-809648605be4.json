@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mantledb.sh"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.140Z",
-  "updatedAt": "2026-11-26T09:02:13.140Z"
+  "updatedAt": "2026-11-26T09:02:13.140Z",
+  "lastVerified": "2026-11-26T10:46:27.016Z",
+  "qualityScore": 52
 }

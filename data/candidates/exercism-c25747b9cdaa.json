@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://exercism.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.135Z",
-  "updatedAt": "2026-11-26T09:02:13.135Z"
+  "updatedAt": "2026-11-26T09:02:13.135Z",
+  "lastVerified": "2026-11-26T10:39:57.026Z",
+  "qualityScore": 52
 }

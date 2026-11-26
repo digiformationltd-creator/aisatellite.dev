@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mediaworkbench.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.137Z",
-  "updatedAt": "2026-11-26T09:02:13.137Z"
+  "updatedAt": "2026-11-26T09:02:13.137Z",
+  "lastVerified": "2026-11-26T10:46:42.745Z",
+  "qualityScore": 52
 }

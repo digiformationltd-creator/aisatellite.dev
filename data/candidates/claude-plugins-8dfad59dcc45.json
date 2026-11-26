@@ -28,7 +28,9 @@
   "evidenceUrls": [
     "https://github.com/aiocean/claude-plugins"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:14.941Z",
-  "updatedAt": "2026-11-26T09:02:14.941Z"
+  "updatedAt": "2026-11-26T09:02:14.941Z",
+  "lastVerified": "2026-11-26T10:36:32.377Z",
+  "qualityScore": 78
 }

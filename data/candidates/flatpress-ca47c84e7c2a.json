@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://flatpress.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.164Z",
-  "updatedAt": "2026-11-26T09:02:13.164Z"
+  "updatedAt": "2026-11-26T09:02:13.164Z",
+  "lastVerified": "2026-11-26T10:40:22.930Z",
+  "qualityScore": 52
 }

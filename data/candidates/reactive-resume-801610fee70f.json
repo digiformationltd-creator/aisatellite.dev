@@ -16,8 +16,10 @@
     "https://rxresu.me",
     "https://rxresu.me/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.171Z",
   "updatedAt": "2026-11-26T09:02:14.944Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-26T10:51:22.682Z",
+  "qualityScore": 57
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/jonschoning/espial"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.164Z",
-  "updatedAt": "2026-11-26T09:02:13.164Z"
+  "updatedAt": "2026-11-26T09:02:13.164Z",
+  "lastVerified": "2026-11-26T10:39:45.212Z",
+  "qualityScore": 55
 }

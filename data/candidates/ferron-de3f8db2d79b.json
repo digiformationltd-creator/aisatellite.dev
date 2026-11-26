@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ferron.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.173Z",
-  "updatedAt": "2026-11-26T09:02:13.173Z"
+  "updatedAt": "2026-11-26T09:02:13.173Z",
+  "lastVerified": "2026-11-26T10:40:06.969Z",
+  "qualityScore": 52
 }

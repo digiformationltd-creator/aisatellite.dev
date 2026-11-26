@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.redirs.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.143Z",
-  "updatedAt": "2026-11-26T09:02:13.143Z"
+  "updatedAt": "2026-11-26T09:02:13.143Z",
+  "lastVerified": "2026-11-26T10:51:32.437Z",
+  "qualityScore": 52
 }

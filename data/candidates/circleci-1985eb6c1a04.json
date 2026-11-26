@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://circleci.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.128Z",
-  "updatedAt": "2026-11-26T09:02:13.128Z"
+  "updatedAt": "2026-11-26T09:02:13.128Z",
+  "lastVerified": "2026-11-26T10:36:28.919Z",
+  "qualityScore": 52
 }

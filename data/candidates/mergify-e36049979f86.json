@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mergify.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.129Z",
-  "updatedAt": "2026-11-26T09:02:13.129Z"
+  "updatedAt": "2026-11-26T09:02:13.129Z",
+  "lastVerified": "2026-11-26T10:46:49.914Z",
+  "qualityScore": 52
 }

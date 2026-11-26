@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://weechat.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.165Z",
-  "updatedAt": "2026-11-26T09:02:13.165Z"
+  "updatedAt": "2026-11-26T09:02:13.165Z",
+  "lastVerified": "2026-11-26T10:57:59.699Z",
+  "qualityScore": 52
 }

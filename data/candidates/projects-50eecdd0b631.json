@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zoho.com/projects"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.125Z",
-  "updatedAt": "2026-11-26T09:02:13.125Z"
+  "updatedAt": "2026-11-26T09:02:13.125Z",
+  "lastVerified": "2026-11-26T10:50:45.812Z",
+  "qualityScore": 52
 }

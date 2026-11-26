@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cloud.google.com/appengine"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.123Z",
-  "updatedAt": "2026-11-26T09:02:13.123Z"
+  "updatedAt": "2026-11-26T09:02:13.123Z",
+  "lastVerified": "2026-11-26T10:34:39.715Z",
+  "qualityScore": 52
 }

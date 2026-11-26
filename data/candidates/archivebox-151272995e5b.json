@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://archivebox.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.164Z",
-  "updatedAt": "2026-11-26T09:02:13.164Z"
+  "updatedAt": "2026-11-26T09:02:13.164Z",
+  "lastVerified": "2026-11-26T10:34:47.839Z",
+  "qualityScore": 52
 }

@@ -1,0 +1,43 @@
+{
+  "id": "omp-governance-scaffold-2994e8c00c68",
+  "canonicalUrl": "https://github.com/spoon-t8i/omp-governance-scaffold",
+  "name": "omp-governance-scaffold",
+  "description": "Governance scaffold, compaction sieve armor, and receipt-verified local AI benchmarks.",
+  "category": "local-llm",
+  "tags": [
+    "agentic-ai",
+    "agentic-workflow",
+    "blackwell",
+    "cachy-os",
+    "code-generation",
+    "coding-agent",
+    "context-compression",
+    "context-management",
+    "cuda",
+    "deterministic",
+    "llm-agents",
+    "llm-inference",
+    "llm-tools",
+    "llms-txt",
+    "multi-gpu",
+    "nvfp4",
+    "oh-my-pi",
+    "speculative-decoding"
+  ],
+  "repositoryUrl": "https://github.com/spoon-t8i/omp-governance-scaffold",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/spoon-t8i/omp-governance-scaffold/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-26T06:05:56Z",
+  "evidenceUrls": [
+    "https://github.com/spoon-t8i/omp-governance-scaffold"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-26T09:02:14.339Z",
+  "updatedAt": "2026-11-26T09:02:14.339Z",
+  "lastVerified": "2026-11-26T10:48:35.243Z",
+  "qualityScore": 78
+}

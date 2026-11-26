@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://gchq.github.io/CyberChef/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.130Z",
-  "updatedAt": "2026-11-26T09:02:13.130Z"
+  "updatedAt": "2026-11-26T09:02:13.130Z",
+  "lastVerified": "2026-11-26T10:37:45.120Z",
+  "qualityScore": 52
 }

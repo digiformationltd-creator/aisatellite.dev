@@ -1,0 +1,39 @@
+{
+  "id": "skillshelf-labs-429afacdb526",
+  "canonicalUrl": "https://github.com/nafiz530/SkillShelf-Labs",
+  "name": "SkillShelf-Labs",
+  "description": "SkillShelf Labs: free, open-source library of reusable AI skills and prompt templates for Claude, ChatGPT and Gemini. Ready-to-use SKILL.md instructions for coding, writing, learning, productivity, video and business, built for developers, creators, students and teams.",
+  "category": "free-ai-tools",
+  "tags": [
+    "ai",
+    "ai-prompts",
+    "ai-tools",
+    "ai-workflows",
+    "awesome-list",
+    "chatgpt",
+    "claude-code-skill",
+    "claude-skills",
+    "free",
+    "gemini",
+    "llms",
+    "opensource-projects",
+    "prompt-engineering",
+    "prompt-library"
+  ],
+  "repositoryUrl": "https://github.com/nafiz530/SkillShelf-Labs",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/nafiz530/SkillShelf-Labs/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-26T07:42:08Z",
+  "evidenceUrls": [
+    "https://github.com/nafiz530/SkillShelf-Labs"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-26T09:02:13.746Z",
+  "updatedAt": "2026-11-26T09:02:13.746Z",
+  "lastVerified": "2026-11-26T10:53:45.230Z",
+  "qualityScore": 78
+}

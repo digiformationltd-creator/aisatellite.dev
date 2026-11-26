@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.redaxo.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.166Z",
-  "updatedAt": "2026-11-26T09:02:13.166Z"
+  "updatedAt": "2026-11-26T09:02:13.166Z",
+  "lastVerified": "2026-11-26T10:51:29.443Z",
+  "qualityScore": 52
 }

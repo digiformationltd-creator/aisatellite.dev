@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/doublespeakgames/adarkroom"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.169Z",
-  "updatedAt": "2026-11-26T09:02:13.169Z"
+  "updatedAt": "2026-11-26T09:02:13.169Z",
+  "lastVerified": "2026-11-26T10:33:47.911Z",
+  "qualityScore": 55
 }

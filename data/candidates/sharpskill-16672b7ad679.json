@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://sharpskill.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.135Z",
-  "updatedAt": "2026-11-26T09:02:13.135Z"
+  "updatedAt": "2026-11-26T09:02:13.135Z",
+  "lastVerified": "2026-11-26T10:53:10.736Z",
+  "qualityScore": 52
 }

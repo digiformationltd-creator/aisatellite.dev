@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://trtc.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.128Z",
-  "updatedAt": "2026-11-26T09:02:13.128Z"
+  "updatedAt": "2026-11-26T09:02:13.128Z",
+  "lastVerified": "2026-11-26T10:55:46.383Z",
+  "qualityScore": 52
 }

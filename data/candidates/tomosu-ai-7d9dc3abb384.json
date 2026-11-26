@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://tomosu.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.128Z",
-  "updatedAt": "2026-11-26T09:02:13.128Z"
+  "updatedAt": "2026-11-26T09:02:13.128Z",
+  "lastVerified": "2026-11-26T10:56:19.723Z",
+  "qualityScore": 52
 }

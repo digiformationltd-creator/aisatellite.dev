@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://appho.st"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.131Z",
-  "updatedAt": "2026-11-26T09:02:13.131Z"
+  "updatedAt": "2026-11-26T09:02:13.131Z",
+  "lastVerified": "2026-11-26T10:34:42.218Z",
+  "qualityScore": 52
 }

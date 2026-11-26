@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bubble.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-26T09:02:13.138Z",
-  "updatedAt": "2026-11-26T09:02:13.138Z"
+  "updatedAt": "2026-11-26T09:02:13.138Z",
+  "lastVerified": "2026-11-26T10:35:51.336Z",
+  "qualityScore": 52
 }
