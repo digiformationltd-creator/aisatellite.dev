@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://robustirc.net/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.302Z",
-  "updatedAt": "2026-11-25T09:24:31.302Z",
-  "lastVerified": "2026-11-25T11:16:12.628Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.165Z",
+  "updatedAt": "2026-11-26T09:02:13.165Z"
 }

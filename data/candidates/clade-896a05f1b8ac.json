@@ -26,13 +26,11 @@
   "freeTierLimitations": [],
   "githubStars": 11,
   "githubForks": 6,
-  "lastRepositoryUpdate": "2026-11-23T05:12:51Z",
+  "lastRepositoryUpdate": "2026-11-26T07:27:41Z",
   "evidenceUrls": [
     "https://github.com/shenxingy/Clade"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-23T08:27:00.880Z",
-  "updatedAt": "2026-11-23T08:27:00.880Z",
-  "lastVerified": "2026-11-25T11:00:21.284Z",
-  "qualityScore": 91
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:14.941Z",
+  "updatedAt": "2026-11-26T09:02:14.941Z"
 }

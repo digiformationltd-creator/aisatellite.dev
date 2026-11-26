@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://requestly.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.265Z",
-  "updatedAt": "2026-11-25T09:24:31.265Z",
-  "lastVerified": "2026-11-25T11:16:02.044Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.129Z",
+  "updatedAt": "2026-11-26T09:02:13.129Z"
 }

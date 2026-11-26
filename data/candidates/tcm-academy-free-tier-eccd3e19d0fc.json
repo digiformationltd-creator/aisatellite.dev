@@ -1,0 +1,20 @@
+{
+  "id": "tcm-academy-free-tier-eccd3e19d0fc",
+  "canonicalUrl": "https://tcm-sec.com/academy/tcm-academy-free-tier",
+  "name": "TCM Academy Free Tier",
+  "description": "Free, full six course tier with over 40 hours of training for IT beginners.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://tcm-sec.com/academy/tcm-academy-free-tier/",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://tcm-sec.com/academy/tcm-academy-free-tier/"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.135Z",
+  "updatedAt": "2026-11-26T09:02:13.135Z"
+}

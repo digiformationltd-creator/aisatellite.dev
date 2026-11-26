@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.transifex.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.269Z",
-  "updatedAt": "2026-11-25T09:24:31.269Z",
-  "lastVerified": "2026-11-25T11:21:16.463Z",
-  "qualityScore": 47
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.134Z",
+  "updatedAt": "2026-11-26T09:02:13.134Z"
 }

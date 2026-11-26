@@ -23,13 +23,11 @@
   "freeTierLimitations": [],
   "githubStars": 39,
   "githubForks": 3,
-  "lastRepositoryUpdate": "2026-11-17T08:01:44Z",
+  "lastRepositoryUpdate": "2026-11-26T07:53:50Z",
   "evidenceUrls": [
     "https://github.com/Randozart/VITRIOL"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-17T08:42:08.899Z",
-  "updatedAt": "2026-11-17T08:42:08.899Z",
-  "lastVerified": "2026-11-25T11:22:11.296Z",
-  "qualityScore": 80
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:14.339Z",
+  "updatedAt": "2026-11-26T09:02:14.339Z"
 }

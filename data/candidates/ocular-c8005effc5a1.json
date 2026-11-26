@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://simonwep.github.io/ocular/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.307Z",
-  "updatedAt": "2026-11-25T09:24:31.307Z",
-  "lastVerified": "2026-11-25T11:12:36.901Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.171Z",
+  "updatedAt": "2026-11-26T09:02:13.171Z"
 }

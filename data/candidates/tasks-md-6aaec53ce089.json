@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/BaldissaraMatheus/Tasks.md"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.310Z",
-  "updatedAt": "2026-11-25T09:24:31.310Z",
-  "lastVerified": "2026-11-25T11:20:08.605Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.172Z",
+  "updatedAt": "2026-11-26T09:02:13.172Z"
 }

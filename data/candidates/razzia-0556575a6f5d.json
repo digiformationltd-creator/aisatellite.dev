@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/Ralex91/Razzia"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.304Z",
-  "updatedAt": "2026-11-25T09:24:31.304Z",
-  "lastVerified": "2026-11-25T11:15:35.561Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.169Z",
+  "updatedAt": "2026-11-26T09:02:13.169Z"
 }

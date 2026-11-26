@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/rustmailer/bichon"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.300Z",
-  "updatedAt": "2026-11-25T09:24:31.300Z",
-  "lastVerified": "2026-11-25T10:59:19.661Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.164Z",
+  "updatedAt": "2026-11-26T09:02:13.164Z"
 }

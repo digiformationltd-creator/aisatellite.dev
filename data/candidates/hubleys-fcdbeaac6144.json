@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/knrdl/hubleys-dashboard"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.308Z",
-  "updatedAt": "2026-11-25T09:24:31.308Z",
-  "lastVerified": "2026-11-25T11:07:24.111Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.171Z",
+  "updatedAt": "2026-11-26T09:02:13.171Z"
 }

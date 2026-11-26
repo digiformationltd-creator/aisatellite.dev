@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.alertkick.com"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.269Z",
-  "updatedAt": "2026-11-25T09:24:31.269Z",
-  "lastVerified": "2026-11-25T10:57:54.927Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.134Z",
+  "updatedAt": "2026-11-26T09:02:13.134Z"
 }

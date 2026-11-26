@@ -1,0 +1,43 @@
+{
+  "id": "openset-llm-ee4fc3e57561",
+  "canonicalUrl": "https://github.com/opensetlabs/openset-llm",
+  "name": "openset-llm",
+  "description": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+  "category": "local-llm",
+  "tags": [
+    "ai",
+    "avx512",
+    "cpu-inference",
+    "edge-ai",
+    "gguf",
+    "inference-engine",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "local-ai",
+    "local-llm",
+    "no-gpu",
+    "on-device-ai",
+    "openai-api",
+    "openai-compatible",
+    "quantization",
+    "qwen",
+    "self-hosted",
+    "speculative-decoding",
+    "ternary"
+  ],
+  "repositoryUrl": "https://github.com/opensetlabs/openset-llm",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/opensetlabs/openset-llm/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1225,
+  "githubForks": 116,
+  "lastRepositoryUpdate": "2026-11-26T04:56:33Z",
+  "evidenceUrls": [
+    "https://github.com/opensetlabs/openset-llm"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:14.339Z",
+  "updatedAt": "2026-11-26T09:02:14.339Z"
+}

@@ -2,7 +2,7 @@
   "id": "xolotl-523266b38aeb",
   "canonicalUrl": "https://github.com/Indras-Mirror/Xolotl",
   "name": "Xolotl",
-  "description": "Xolotl: run DeepSeek-V4.1-Flash, all 552B, as a local coding agent on one gaming PC (RTX 4090 + 110 GB RAM): ~33 tok/s agent, ~41 fast, 512K context. Plus Inkling-2-Mini (Thinking Machines, own engine + MTP drafter), GLM-5.3-Flash, Qwen3.8, LFM3-Omni. MoE experts tiered across VRAM, RAM and NVMe (Xolotl Direct). OpenAI + Anthropic API.",
+  "description": "Xolotl: run DeepSeek-V4.1-Flash, all 552B, as a local coding agent on one gaming PC (RTX 4090 + 110 GB RAM): ~33 tok/s agent, ~41 fast, 512K context. Plus Inkling-2-Mini (own engine: 512K on 24 GB, vision, MTP drafter), GLM-5.3-Flash, Qwen3.8, LFM3-Omni. MoE experts tiered across VRAM, RAM and NVMe (Xolotl Direct). OpenAI + Anthropic API.",
   "category": "local-llm",
   "tags": [
     "abliteration",
@@ -33,15 +33,13 @@
   "licenseEvidenceUrl": "https://github.com/Indras-Mirror/Xolotl/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 558,
-  "githubForks": 71,
-  "lastRepositoryUpdate": "2026-11-22T07:13:40Z",
+  "githubStars": 572,
+  "githubForks": 74,
+  "lastRepositoryUpdate": "2026-11-26T04:49:06Z",
   "evidenceUrls": [
     "https://github.com/Indras-Mirror/Xolotl"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-22T07:38:44.566Z",
-  "updatedAt": "2026-11-22T07:38:44.566Z",
-  "lastVerified": "2026-11-25T11:23:18.937Z",
-  "qualityScore": 92
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:14.339Z",
+  "updatedAt": "2026-11-26T09:02:14.339Z"
 }

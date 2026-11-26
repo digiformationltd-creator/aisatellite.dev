@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.mindmup.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:31.275Z",
-  "updatedAt": "2026-11-25T09:24:31.275Z",
-  "lastVerified": "2026-11-25T11:11:15.182Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-26T09:02:13.140Z",
+  "updatedAt": "2026-11-26T09:02:13.140Z"
 }
