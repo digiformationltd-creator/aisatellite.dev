@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tcm-academy-free-tier-eccd3e19d0fc-guide",
+  "title": "How to Deploy TCM Academy Free Tier in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tcm-academy-free-tier-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for TCM Academy Free Tier.",
+  "targetKeywords": [
+    "TCM Academy Free Tier",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tcm-sec.com/academy/tcm-academy-free-tier/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting TCM Academy Free Tier with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.115Z"
+}

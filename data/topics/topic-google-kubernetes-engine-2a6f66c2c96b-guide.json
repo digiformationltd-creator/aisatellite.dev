@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-google-kubernetes-engine-2a6f66c2c96b-guide",
+  "title": "How to Deploy Google Kubernetes Engine in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-google-kubernetes-engine-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Google Kubernetes Engine.",
+  "targetKeywords": [
+    "Google Kubernetes Engine",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com/kubernetes-engine"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Google Kubernetes Engine with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.112Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-omp-governance-scaffold-2994e8c00c68-guide",
+  "title": "How to Deploy omp-governance-scaffold in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-omp-governance-scaffold-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for omp-governance-scaffold.",
+  "targetKeywords": [
+    "omp-governance-scaffold",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/spoon-t8i/omp-governance-scaffold"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting omp-governance-scaffold with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.114Z"
+}

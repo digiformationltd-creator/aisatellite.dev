@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-enrai-free-ai-api-1f44cb42cbf8-guide",
+  "title": "How to Deploy enrai-free-ai-api in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-enrai-free-ai-api-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for enrai-free-ai-api.",
+  "targetKeywords": [
+    "enrai-free-ai-api",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/enraidev/enrai-free-ai-api"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting enrai-free-ai-api with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.112Z"
+}

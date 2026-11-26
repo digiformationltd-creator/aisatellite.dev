@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-onlinecompiler-io-be0bdc86421b-guide",
+  "title": "How to Deploy OnlineCompiler.io in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-onlinecompiler-io-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for OnlineCompiler.io.",
+  "targetKeywords": [
+    "OnlineCompiler.io",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://onlinecompiler.io/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting OnlineCompiler.io with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.114Z"
+}

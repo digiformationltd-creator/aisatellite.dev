@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-autumn-fdd97265ad9d-guide",
+  "title": "How to Deploy Autumn in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-autumn-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Autumn.",
+  "targetKeywords": [
+    "Autumn",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://useautumn.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Autumn with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.109Z"
+}

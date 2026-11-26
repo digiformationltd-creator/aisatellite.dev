@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-nogon-c83df355747e-guide",
+  "title": "How to Deploy Nogon in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-nogon-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Nogon.",
+  "targetKeywords": [
+    "Nogon",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://nogon.eu/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Nogon with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.113Z"
+}

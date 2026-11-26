@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ironmule-a9b079edf385-guide",
+  "title": "How to Deploy IronMule in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ironmule-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IronMule.",
+  "targetKeywords": [
+    "IronMule",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Tobayko/IronMule"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting IronMule with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.113Z"
+}

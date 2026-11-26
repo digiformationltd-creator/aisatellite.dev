@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-vpndetection-0c3519ea768a-guide",
+  "title": "How to Deploy VPNDetection in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-vpndetection-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for VPNDetection.",
+  "targetKeywords": [
+    "VPNDetection",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://vpndetection.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting VPNDetection with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.115Z"
+}

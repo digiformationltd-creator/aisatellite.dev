@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-skillshelf-labs-429afacdb526-guide",
+  "title": "How to Deploy SkillShelf-Labs in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-skillshelf-labs-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for SkillShelf-Labs.",
+  "targetKeywords": [
+    "SkillShelf-Labs",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/nafiz530/SkillShelf-Labs"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting SkillShelf-Labs with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.115Z"
+}

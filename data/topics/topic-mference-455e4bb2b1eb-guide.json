@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-mference-455e4bb2b1eb-guide",
+  "title": "How to Deploy Mference in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-mference-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Mference.",
+  "targetKeywords": [
+    "Mference",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/NeelM0906/Mference"
+  ],
+  "priorityScore": 77,
+  "contentGapRationale": "High developer demand for self-hosting Mference with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.113Z"
+}

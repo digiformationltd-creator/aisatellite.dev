@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ox-llm-d5b59e9cefb3-guide",
+  "title": "How to Deploy ox-llm in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ox-llm-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for ox-llm.",
+  "targetKeywords": [
+    "ox-llm",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/oxstack/ox-llm"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting ox-llm with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.114Z"
+}

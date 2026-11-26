@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloud-functions-a92420268fd9-guide",
+  "title": "How to Deploy Cloud Functions in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloud-functions-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloud Functions.",
+  "targetKeywords": [
+    "Cloud Functions",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com/functions"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cloud Functions with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.111Z"
+}

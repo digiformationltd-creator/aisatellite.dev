@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-local-inference-vllm-jetson-orin-agx-e18b2b09dc4f-guide",
+  "title": "How to Deploy local-inference-vllm-jetson-orin-agx in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-local-inference-vllm-jetson-orin-agx-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for local-inference-vllm-jetson-orin-agx.",
+  "targetKeywords": [
+    "local-inference-vllm-jetson-orin-agx",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/BarryTheShen/local-inference-vllm-jetson-orin-agx"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting local-inference-vllm-jetson-orin-agx with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.113Z"
+}

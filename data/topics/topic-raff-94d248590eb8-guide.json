@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-raff-94d248590eb8-guide",
+  "title": "How to Deploy Raff in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-raff-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Raff.",
+  "targetKeywords": [
+    "Raff",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://rafftechnologies.com/products/managed-databases"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Raff with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.114Z"
+}

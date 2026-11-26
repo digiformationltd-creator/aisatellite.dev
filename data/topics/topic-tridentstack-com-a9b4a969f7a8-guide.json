@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tridentstack-com-a9b4a969f7a8-guide",
+  "title": "How to Deploy tridentstack.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tridentstack-com-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for tridentstack.com.",
+  "targetKeywords": [
+    "tridentstack.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://tridentstack.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting tridentstack.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.115Z"
+}

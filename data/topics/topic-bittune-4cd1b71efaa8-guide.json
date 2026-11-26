@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bittune-4cd1b71efaa8-guide",
+  "title": "How to Deploy Bittune in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bittune-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Bittune.",
+  "targetKeywords": [
+    "Bittune",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/bitcloud-ai/Bittune"
+  ],
+  "priorityScore": 91,
+  "contentGapRationale": "High developer demand for self-hosting Bittune with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.109Z"
+}

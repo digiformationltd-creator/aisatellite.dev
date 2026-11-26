@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-moyu-8fdee9e507f2-guide",
+  "title": "How to Deploy moyu in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-moyu-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for moyu.",
+  "targetKeywords": [
+    "moyu",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/uucz/moyu"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting moyu with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-26T13:37:02.113Z"
+}
