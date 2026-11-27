@@ -1,0 +1,20 @@
+{
+  "id": "ipdatum-586565e62ff7",
+  "canonicalUrl": "https://www.ipdatum.com/",
+  "name": "IPDatum",
+  "description": "IPv4/IPv6 geolocation, ASN, and 12-signal VPN/proxy/Tor/cloud/anycast classification API with confidence radius. Free tier includes 1,000 requests/day without signup or 50,000 requests/day with a free API key (batch up to 100 IPs).",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://www.ipdatum.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://www.ipdatum.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:00.157Z",
+  "updatedAt": "2026-11-27T09:18:00.157Z"
+}

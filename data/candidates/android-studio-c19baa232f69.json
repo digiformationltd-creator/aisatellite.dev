@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://developer.android.com/studio"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-26T09:02:13.141Z",
-  "updatedAt": "2026-11-26T09:02:13.141Z",
-  "lastVerified": "2026-11-26T10:34:28.458Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:00.165Z",
+  "updatedAt": "2026-11-27T09:18:00.165Z"
 }

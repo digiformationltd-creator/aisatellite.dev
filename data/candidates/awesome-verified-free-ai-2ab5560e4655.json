@@ -22,15 +22,13 @@
   "licenseEvidenceUrl": "https://github.com/zzhhub6/awesome-verified-free-ai/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 0,
+  "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-26T00:43:17Z",
+  "lastRepositoryUpdate": "2026-11-27T01:00:52Z",
   "evidenceUrls": [
     "https://github.com/zzhhub6/awesome-verified-free-ai"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-26T09:02:13.746Z",
-  "updatedAt": "2026-11-26T09:02:13.746Z",
-  "lastVerified": "2026-11-26T10:35:07.564Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:00.913Z",
+  "updatedAt": "2026-11-27T09:18:00.913Z"
 }

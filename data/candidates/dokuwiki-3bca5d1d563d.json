@@ -14,8 +14,7 @@
   "evidenceUrls": [
     "https://www.dokuwiki.org/DokuWiki"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-26T09:02:13.173Z",
-  "updatedAt": "2026-11-26T09:02:13.173Z",
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:00.311Z",
+  "updatedAt": "2026-11-27T09:18:00.311Z"
 }

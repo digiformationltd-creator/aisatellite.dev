@@ -1,0 +1,31 @@
+{
+  "id": "bytebuddydev-com-c001c7cb4ec8",
+  "canonicalUrl": "https://github.com/bytebuddy-dev/bytebuddydev.com",
+  "name": "bytebuddydev.com",
+  "description": "Free tools and guides for developers who code with AI agents: SKILL.md, AGENTS.md and MCP config generators.",
+  "category": "free-ai-tools",
+  "tags": [
+    "agent-skills",
+    "agents-md-template",
+    "ai-tools",
+    "claude-code",
+    "cursor",
+    "developer-tools",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "repositoryUrl": "https://github.com/bytebuddy-dev/bytebuddydev.com",
+  "officialUrl": "https://bytebuddydev.com",
+  "documentationUrl": "https://bytebuddydev.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-26T20:45:15Z",
+  "evidenceUrls": [
+    "https://github.com/bytebuddy-dev/bytebuddydev.com"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:00.913Z",
+  "updatedAt": "2026-11-27T09:18:00.913Z"
+}

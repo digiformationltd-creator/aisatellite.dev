@@ -7,6 +7,8 @@
   "tags": [
     "ai",
     "ai-prompts",
+    "ai-skills",
+    "ai-skillshelf",
     "ai-tools",
     "ai-workflows",
     "awesome-list",
@@ -18,22 +20,24 @@
     "llms",
     "opensource-projects",
     "prompt-engineering",
-    "prompt-library"
+    "prompt-library",
+    "skills",
+    "skills-library",
+    "skillshelf",
+    "skillshelf-labs"
   ],
   "repositoryUrl": "https://github.com/nafiz530/SkillShelf-Labs",
   "licenseSpdx": "MIT",
   "licenseEvidenceUrl": "https://github.com/nafiz530/SkillShelf-Labs/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 0,
+  "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-26T07:42:08Z",
+  "lastRepositoryUpdate": "2026-11-27T06:35:15Z",
   "evidenceUrls": [
     "https://github.com/nafiz530/SkillShelf-Labs"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-26T09:02:13.746Z",
-  "updatedAt": "2026-11-26T09:02:13.746Z",
-  "lastVerified": "2026-11-26T10:53:45.230Z",
-  "qualityScore": 78
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:00.913Z",
+  "updatedAt": "2026-11-27T09:18:00.913Z"
 }

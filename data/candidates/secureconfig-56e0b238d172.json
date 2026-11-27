@@ -26,13 +26,11 @@
   "freeTierLimitations": [],
   "githubStars": 1,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-26T08:50:20Z",
+  "lastRepositoryUpdate": "2026-11-27T09:07:03Z",
   "evidenceUrls": [
     "https://github.com/jposluns/secureconfig"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-26T09:02:14.941Z",
-  "updatedAt": "2026-11-26T09:02:14.941Z",
-  "lastVerified": "2026-11-26T10:52:54.045Z",
-  "qualityScore": 89
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:01.902Z",
+  "updatedAt": "2026-11-27T09:18:01.902Z"
 }

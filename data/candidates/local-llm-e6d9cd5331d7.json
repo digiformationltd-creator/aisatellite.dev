@@ -28,13 +28,11 @@
   "freeTierLimitations": [],
   "githubStars": 6,
   "githubForks": 1,
-  "lastRepositoryUpdate": "2026-11-26T05:02:28Z",
+  "lastRepositoryUpdate": "2026-11-27T08:36:52Z",
   "evidenceUrls": [
     "https://github.com/evanwtf/local-llm"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-26T09:02:14.339Z",
-  "updatedAt": "2026-11-26T09:02:14.339Z",
-  "lastVerified": "2026-11-26T10:45:44.107Z",
-  "qualityScore": 78
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:01.394Z",
+  "updatedAt": "2026-11-27T09:18:01.394Z"
 }

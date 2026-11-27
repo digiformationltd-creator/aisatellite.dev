@@ -16,10 +16,8 @@
     "https://healthchecks.io",
     "https://healthchecks.io/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-26T09:02:13.164Z",
-  "updatedAt": "2026-11-26T09:02:14.943Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-26T10:42:41.257Z",
-  "qualityScore": 57
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:00.305Z",
+  "updatedAt": "2026-11-27T09:18:01.903Z",
+  "githubStars": 0
 }

@@ -22,15 +22,13 @@
   "licenseEvidenceUrl": "https://github.com/xknk/deepseeker-code/blob/main/LICENSE",
   "freeClassification": "open_source",
   "freeTierLimitations": [],
-  "githubStars": 1,
+  "githubStars": 4,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-25T08:33:23Z",
+  "lastRepositoryUpdate": "2026-11-27T07:19:12Z",
   "evidenceUrls": [
     "https://github.com/xknk/deepseeker-code"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-25T09:24:33.033Z",
-  "updatedAt": "2026-11-25T09:24:33.033Z",
-  "lastVerified": "2026-11-26T10:38:05.420Z",
-  "qualityScore": 78
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:01.902Z",
+  "updatedAt": "2026-11-27T09:18:01.902Z"
 }

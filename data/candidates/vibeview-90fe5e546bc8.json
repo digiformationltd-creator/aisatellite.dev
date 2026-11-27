@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://vibeview.io"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-26T09:02:13.129Z",
-  "updatedAt": "2026-11-26T09:02:13.129Z",
-  "lastVerified": "2026-11-26T10:57:24.886Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:00.158Z",
+  "updatedAt": "2026-11-27T09:18:00.158Z"
 }

@@ -21,13 +21,11 @@
   "freeTierLimitations": [],
   "githubStars": 27,
   "githubForks": 1,
-  "lastRepositoryUpdate": "2026-11-25T06:40:12Z",
+  "lastRepositoryUpdate": "2026-11-27T02:46:45Z",
   "evidenceUrls": [
     "https://github.com/xinrui-z/free-llm"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-26T09:02:13.746Z",
-  "updatedAt": "2026-11-26T09:02:13.746Z",
-  "lastVerified": "2026-11-26T10:41:11.934Z",
-  "qualityScore": 91
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:00.913Z",
+  "updatedAt": "2026-11-27T09:18:00.913Z"
 }

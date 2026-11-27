@@ -33,13 +33,11 @@
   "freeTierLimitations": [],
   "githubStars": 18,
   "githubForks": 2,
-  "lastRepositoryUpdate": "2026-11-22T06:13:57Z",
+  "lastRepositoryUpdate": "2026-11-27T08:47:43Z",
   "evidenceUrls": [
     "https://github.com/kr4ckhe4d/local-llm-benchmarks"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-22T07:38:44.566Z",
-  "updatedAt": "2026-11-22T07:38:44.566Z",
-  "lastVerified": "2026-11-26T10:45:43.438Z",
-  "qualityScore": 80
+  "status": "discovered",
+  "discoveredAt": "2026-11-27T09:18:01.394Z",
+  "updatedAt": "2026-11-27T09:18:01.394Z"
 }
