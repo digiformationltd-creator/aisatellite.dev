@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.stardesk.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.166Z",
-  "updatedAt": "2026-11-27T09:18:00.166Z"
+  "updatedAt": "2026-11-27T09:18:00.166Z",
+  "lastVerified": "2026-11-27T10:57:08.061Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.igniterealtime.org/projects/openfire/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.306Z",
-  "updatedAt": "2026-11-27T09:18:00.306Z"
+  "updatedAt": "2026-11-27T09:18:00.306Z",
+  "lastVerified": "2026-11-27T10:51:47.005Z",
+  "qualityScore": 52
 }

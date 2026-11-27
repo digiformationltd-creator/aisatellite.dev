@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://stategraph.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.158Z",
-  "updatedAt": "2026-11-27T09:18:00.158Z"
+  "updatedAt": "2026-11-27T09:18:00.158Z",
+  "lastVerified": "2026-11-27T10:57:09.206Z",
+  "qualityScore": 52
 }

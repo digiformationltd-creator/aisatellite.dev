@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://portal.cachefly.com/signup/free2023"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.163Z",
-  "updatedAt": "2026-11-27T09:18:00.163Z"
+  "updatedAt": "2026-11-27T09:18:00.163Z",
+  "lastVerified": "2026-11-27T10:40:22.086Z",
+  "qualityScore": 52
 }

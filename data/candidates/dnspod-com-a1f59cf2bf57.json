@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.dnspod.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.163Z",
-  "updatedAt": "2026-11-27T09:18:00.163Z"
+  "updatedAt": "2026-11-27T09:18:00.163Z",
+  "lastVerified": "2026-11-27T10:42:57.225Z",
+  "qualityScore": 47
 }

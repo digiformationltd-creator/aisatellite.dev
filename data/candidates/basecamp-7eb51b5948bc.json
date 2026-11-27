@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://basecamp.com/personal"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.164Z",
-  "updatedAt": "2026-11-27T09:18:00.164Z"
+  "updatedAt": "2026-11-27T09:18:00.164Z",
+  "lastVerified": "2026-11-27T10:39:43.309Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://shkeeper.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.309Z",
-  "updatedAt": "2026-11-27T09:18:00.309Z"
+  "updatedAt": "2026-11-27T09:18:00.309Z",
+  "lastVerified": "2026-11-27T10:55:53.087Z",
+  "qualityScore": 52
 }

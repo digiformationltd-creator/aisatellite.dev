@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://corgea.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.158Z",
-  "updatedAt": "2026-11-27T09:18:00.158Z"
+  "updatedAt": "2026-11-27T09:18:00.158Z",
+  "lastVerified": "2026-11-27T10:41:45.781Z",
+  "qualityScore": 52
 }

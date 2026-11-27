@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://whatthediff.ai"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.157Z",
-  "updatedAt": "2026-11-27T09:18:00.157Z"
+  "updatedAt": "2026-11-27T09:18:00.157Z",
+  "lastVerified": "2026-11-27T11:00:08.962Z",
+  "qualityScore": 52
 }

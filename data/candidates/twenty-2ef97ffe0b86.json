@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://twenty.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.306Z",
-  "updatedAt": "2026-11-27T09:18:00.306Z"
+  "updatedAt": "2026-11-27T09:18:00.306Z",
+  "lastVerified": "2026-11-27T10:59:04.974Z",
+  "qualityScore": 52
 }

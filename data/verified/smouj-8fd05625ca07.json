@@ -1,0 +1,37 @@
+{
+  "id": "smouj-8fd05625ca07",
+  "canonicalUrl": "https://github.com/smouj/smouj",
+  "name": "smouj",
+  "description": "Independent software: local AI, Windows tools, developer utilities and games.",
+  "category": "local-llm",
+  "tags": [
+    "cuda",
+    "developer-tools",
+    "game-development",
+    "godot",
+    "llm-inference",
+    "local-first",
+    "python",
+    "rust",
+    "typescript",
+    "windows"
+  ],
+  "repositoryUrl": "https://github.com/smouj/smouj",
+  "officialUrl": "https://bsky.app/profile/smouj013.bsky.social",
+  "documentationUrl": "https://bsky.app/profile/smouj013.bsky.social",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/smouj/smouj/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 1,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-27T09:14:45Z",
+  "evidenceUrls": [
+    "https://github.com/smouj/smouj"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-27T09:18:01.394Z",
+  "updatedAt": "2026-11-27T09:18:01.394Z",
+  "lastVerified": "2026-11-27T10:56:25.424Z",
+  "qualityScore": 89
+}

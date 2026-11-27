@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://lastest.cloud"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.158Z",
-  "updatedAt": "2026-11-27T09:18:00.158Z"
+  "updatedAt": "2026-11-27T09:18:00.158Z",
+  "lastVerified": "2026-11-27T10:48:27.262Z",
+  "qualityScore": 52
 }

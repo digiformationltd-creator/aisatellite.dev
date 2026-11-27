@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://emailguard.lazrek.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.162Z",
-  "updatedAt": "2026-11-27T09:18:00.162Z"
+  "updatedAt": "2026-11-27T09:18:00.162Z",
+  "lastVerified": "2026-11-27T10:43:30.462Z",
+  "qualityScore": 52
 }

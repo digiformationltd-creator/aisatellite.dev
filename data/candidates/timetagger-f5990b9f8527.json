@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://timetagger.app"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.310Z",
-  "updatedAt": "2026-11-27T09:18:00.310Z"
+  "updatedAt": "2026-11-27T09:18:00.310Z",
+  "lastVerified": "2026-11-27T10:58:31.939Z",
+  "qualityScore": 52
 }

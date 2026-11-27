@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.4everland.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.163Z",
-  "updatedAt": "2026-11-27T09:18:00.163Z"
+  "updatedAt": "2026-11-27T09:18:00.163Z",
+  "lastVerified": "2026-11-27T10:38:03.179Z",
+  "qualityScore": 52
 }

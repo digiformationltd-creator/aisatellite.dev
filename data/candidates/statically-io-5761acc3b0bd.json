@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://statically.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.163Z",
-  "updatedAt": "2026-11-27T09:18:00.163Z"
+  "updatedAt": "2026-11-27T09:18:00.163Z",
+  "lastVerified": "2026-11-27T10:57:10.496Z",
+  "qualityScore": 52
 }

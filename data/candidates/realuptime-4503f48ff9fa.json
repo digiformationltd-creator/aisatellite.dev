@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://realuptime.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.161Z",
-  "updatedAt": "2026-11-27T09:18:00.161Z"
+  "updatedAt": "2026-11-27T09:18:00.161Z",
+  "lastVerified": "2026-11-27T10:54:05.742Z",
+  "qualityScore": 52
 }

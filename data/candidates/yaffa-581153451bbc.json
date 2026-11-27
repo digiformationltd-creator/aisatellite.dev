@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.yaffa.cc"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.309Z",
-  "updatedAt": "2026-11-27T09:18:00.309Z"
+  "updatedAt": "2026-11-27T09:18:00.309Z",
+  "lastVerified": "2026-11-27T11:00:42.394Z",
+  "qualityScore": 52
 }

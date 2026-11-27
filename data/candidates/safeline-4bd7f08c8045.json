@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://waf.chaitin.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.310Z",
-  "updatedAt": "2026-11-27T09:18:00.310Z"
+  "updatedAt": "2026-11-27T09:18:00.310Z",
+  "lastVerified": "2026-11-27T10:54:54.997Z",
+  "qualityScore": 52
 }

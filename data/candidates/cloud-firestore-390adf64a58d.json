@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cloud.google.com/firestore"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.156Z",
-  "updatedAt": "2026-11-27T09:18:00.156Z"
+  "updatedAt": "2026-11-27T09:18:00.156Z",
+  "lastVerified": "2026-11-27T10:40:59.884Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://ahasend.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.162Z",
-  "updatedAt": "2026-11-27T09:18:00.162Z"
+  "updatedAt": "2026-11-27T09:18:00.162Z",
+  "lastVerified": "2026-11-27T10:38:22.906Z",
+  "qualityScore": 52
 }

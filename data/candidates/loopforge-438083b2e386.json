@@ -37,7 +37,9 @@
   "evidenceUrls": [
     "https://github.com/Tencent/LoopForge"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:01.902Z",
-  "updatedAt": "2026-11-27T09:18:01.902Z"
+  "updatedAt": "2026-11-27T09:18:01.902Z",
+  "lastVerified": "2026-11-27T10:49:17.432Z",
+  "qualityScore": 80
 }

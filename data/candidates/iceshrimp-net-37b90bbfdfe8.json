@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://iceshrimp.net"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.306Z",
-  "updatedAt": "2026-11-27T09:18:00.306Z"
+  "updatedAt": "2026-11-27T09:18:00.306Z",
+  "lastVerified": "2026-11-27T10:47:08.415Z",
+  "qualityScore": 52
 }

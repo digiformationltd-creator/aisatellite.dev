@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.jetbrains.com/youtrack/buy/#edition=incloud"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.164Z",
-  "updatedAt": "2026-11-27T09:18:00.164Z"
+  "updatedAt": "2026-11-27T09:18:00.164Z",
+  "lastVerified": "2026-11-27T11:00:46.446Z",
+  "qualityScore": 52
 }

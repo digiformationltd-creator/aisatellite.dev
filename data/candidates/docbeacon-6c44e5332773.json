@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docbeacon.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.165Z",
-  "updatedAt": "2026-11-27T09:18:00.165Z"
+  "updatedAt": "2026-11-27T09:18:00.165Z",
+  "lastVerified": "2026-11-27T10:42:58.757Z",
+  "qualityScore": 52
 }

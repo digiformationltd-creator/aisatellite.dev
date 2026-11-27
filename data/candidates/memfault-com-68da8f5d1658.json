@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://memfault.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.161Z",
-  "updatedAt": "2026-11-27T09:18:00.161Z"
+  "updatedAt": "2026-11-27T09:18:00.161Z",
+  "lastVerified": "2026-11-27T10:50:04.344Z",
+  "qualityScore": 52
 }

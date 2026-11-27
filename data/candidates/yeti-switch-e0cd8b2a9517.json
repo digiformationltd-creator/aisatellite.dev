@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://yeti-switch.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.306Z",
-  "updatedAt": "2026-11-27T09:18:00.306Z"
+  "updatedAt": "2026-11-27T09:18:00.306Z",
+  "lastVerified": "2026-11-27T11:00:45.100Z",
+  "qualityScore": 52
 }

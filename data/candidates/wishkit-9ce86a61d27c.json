@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.wishkit.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.159Z",
-  "updatedAt": "2026-11-27T09:18:00.159Z"
+  "updatedAt": "2026-11-27T09:18:00.159Z",
+  "lastVerified": "2026-11-27T11:00:23.489Z",
+  "qualityScore": 52
 }

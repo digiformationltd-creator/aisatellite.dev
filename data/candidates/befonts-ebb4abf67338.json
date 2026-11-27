@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://befonts.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.162Z",
-  "updatedAt": "2026-11-27T09:18:00.162Z"
+  "updatedAt": "2026-11-27T09:18:00.162Z",
+  "lastVerified": "2026-11-27T10:39:45.959Z",
+  "qualityScore": 52
 }

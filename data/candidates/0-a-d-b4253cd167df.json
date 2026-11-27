@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://play0ad.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.307Z",
-  "updatedAt": "2026-11-27T09:18:00.307Z"
+  "updatedAt": "2026-11-27T09:18:00.307Z",
+  "lastVerified": "2026-11-27T10:37:49.493Z",
+  "qualityScore": 52
 }

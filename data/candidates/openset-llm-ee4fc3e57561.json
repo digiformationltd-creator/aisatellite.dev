@@ -37,7 +37,9 @@
   "evidenceUrls": [
     "https://github.com/opensetlabs/openset-llm"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:01.394Z",
-  "updatedAt": "2026-11-27T09:18:01.394Z"
+  "updatedAt": "2026-11-27T09:18:01.394Z",
+  "lastVerified": "2026-11-27T10:51:57.232Z",
+  "qualityScore": 83
 }

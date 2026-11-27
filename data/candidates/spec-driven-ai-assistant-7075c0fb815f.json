@@ -34,7 +34,9 @@
   "evidenceUrls": [
     "https://github.com/vishnu1432/spec-driven-ai-assistant"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:01.902Z",
-  "updatedAt": "2026-11-27T09:18:01.902Z"
+  "updatedAt": "2026-11-27T09:18:01.902Z",
+  "lastVerified": "2026-11-27T10:56:46.879Z",
+  "qualityScore": 64
 }

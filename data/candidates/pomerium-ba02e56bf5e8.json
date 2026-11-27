@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.pomerium.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.310Z",
-  "updatedAt": "2026-11-27T09:18:00.310Z"
+  "updatedAt": "2026-11-27T09:18:00.310Z",
+  "lastVerified": "2026-11-27T10:53:16.840Z",
+  "qualityScore": 52
 }

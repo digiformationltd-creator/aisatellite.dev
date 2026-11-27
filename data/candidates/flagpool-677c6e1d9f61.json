@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.flagpool.io/en/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-27T09:18:00.162Z",
-  "updatedAt": "2026-11-27T09:18:00.162Z"
+  "updatedAt": "2026-11-27T09:18:00.162Z",
+  "lastVerified": "2026-11-27T10:44:23.903Z",
+  "qualityScore": 52
 }
