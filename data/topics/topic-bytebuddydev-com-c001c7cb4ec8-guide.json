@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-bytebuddydev-com-c001c7cb4ec8-guide",
+  "title": "How to Deploy bytebuddydev.com in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-bytebuddydev-com-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for bytebuddydev.com.",
+  "targetKeywords": [
+    "bytebuddydev.com",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/bytebuddy-dev/bytebuddydev.com"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting bytebuddydev.com with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.986Z"
+}

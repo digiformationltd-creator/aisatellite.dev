@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smouj-8fd05625ca07-guide",
+  "title": "How to Deploy smouj in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smouj-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for smouj.",
+  "targetKeywords": [
+    "smouj",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/smouj/smouj"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting smouj with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.991Z"
+}

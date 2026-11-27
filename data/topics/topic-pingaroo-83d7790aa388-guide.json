@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-pingaroo-83d7790aa388-guide",
+  "title": "How to Deploy Pingaroo in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-pingaroo-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Pingaroo.",
+  "targetKeywords": [
+    "Pingaroo",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://pingaroo.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Pingaroo with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.991Z"
+}

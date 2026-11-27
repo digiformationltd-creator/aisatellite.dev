@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cline-bangla-dcdb095b8f5b-guide",
+  "title": "How to Deploy cline-bangla in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cline-bangla-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for cline-bangla.",
+  "targetKeywords": [
+    "cline-bangla",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/tunnabri-ops/cline-bangla"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting cline-bangla with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.986Z"
+}

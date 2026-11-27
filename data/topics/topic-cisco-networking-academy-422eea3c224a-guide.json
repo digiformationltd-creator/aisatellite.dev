@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cisco-networking-academy-422eea3c224a-guide",
+  "title": "How to Deploy Cisco Networking Academy in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cisco-networking-academy-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cisco Networking Academy.",
+  "targetKeywords": [
+    "Cisco Networking Academy",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://netacad.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cisco Networking Academy with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.986Z"
+}

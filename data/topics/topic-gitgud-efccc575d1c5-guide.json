@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-gitgud-efccc575d1c5-guide",
+  "title": "How to Deploy GitGud in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-gitgud-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for GitGud.",
+  "targetKeywords": [
+    "GitGud",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://gitgud.io"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting GitGud with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.989Z"
+}

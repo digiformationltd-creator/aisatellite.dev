@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-autodspark-03342aa710f9-guide",
+  "title": "How to Deploy AutoDSpark in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-autodspark-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for AutoDSpark.",
+  "targetKeywords": [
+    "AutoDSpark",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Zihao-Wu06/AutoDSpark"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting AutoDSpark with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.986Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-uptimeify-1b33f9f306fd-guide",
+  "title": "How to Deploy Uptimeify in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-uptimeify-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Uptimeify.",
+  "targetKeywords": [
+    "Uptimeify",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://uptimeify.io/status-pages"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Uptimeify with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.992Z"
+}

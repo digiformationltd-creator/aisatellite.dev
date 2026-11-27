@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-app-engine-cbb89cb1ba44-guide",
+  "title": "How to Deploy App Engine in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-app-engine-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for App Engine.",
+  "targetKeywords": [
+    "App Engine",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com/appengine"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting App Engine with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.986Z"
+}

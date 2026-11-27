@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-shura-aefdce2f2684-guide",
+  "title": "How to Deploy shura in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-shura-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for shura.",
+  "targetKeywords": [
+    "shura",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/hikkian/shura"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting shura with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.991Z"
+}

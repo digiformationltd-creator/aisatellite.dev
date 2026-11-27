@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-chainguard-643911ee6951-guide",
+  "title": "How to Deploy Chainguard in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-chainguard-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Chainguard.",
+  "targetKeywords": [
+    "Chainguard",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.chainguard.dev/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Chainguard with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.986Z"
+}

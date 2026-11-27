@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-betalobby-10f07b3bb870-guide",
+  "title": "How to Deploy BetaLobby in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-betalobby-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for BetaLobby.",
+  "targetKeywords": [
+    "BetaLobby",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://betalobby.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting BetaLobby with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-27T13:32:28.986Z"
+}
