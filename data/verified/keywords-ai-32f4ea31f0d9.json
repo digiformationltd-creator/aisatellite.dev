@@ -17,6 +17,7 @@
   "status": "verified",
   "discoveredAt": "2026-11-17T08:42:07.669Z",
   "updatedAt": "2026-11-17T08:42:07.669Z",
-  "lastVerified": "2026-11-26T10:44:36.505Z",
-  "qualityScore": 52
+  "lastVerified": "2026-11-28T10:03:55.431Z",
+  "qualityScore": 52,
+  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
 }

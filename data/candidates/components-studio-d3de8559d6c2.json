@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://webcomponents.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.250Z",
-  "updatedAt": "2026-11-28T08:35:21.250Z"
+  "updatedAt": "2026-11-28T08:35:21.250Z",
+  "lastVerified": "2026-11-28T09:57:54.788Z",
+  "qualityScore": 52
 }

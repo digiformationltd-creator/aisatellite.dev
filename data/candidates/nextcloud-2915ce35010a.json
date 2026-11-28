@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://nextcloud.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.378Z",
-  "updatedAt": "2026-11-28T08:35:21.378Z"
+  "updatedAt": "2026-11-28T08:35:21.378Z",
+  "lastVerified": "2026-11-28T10:06:30.226Z",
+  "qualityScore": 52
 }

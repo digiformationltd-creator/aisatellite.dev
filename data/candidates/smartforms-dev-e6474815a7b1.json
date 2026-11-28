@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://smartforms.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.246Z",
-  "updatedAt": "2026-11-28T08:35:21.246Z"
+  "updatedAt": "2026-11-28T08:35:21.246Z",
+  "lastVerified": "2026-11-28T10:11:06.898Z",
+  "qualityScore": 52
 }

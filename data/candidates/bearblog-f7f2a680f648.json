@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://bearblog.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.251Z",
-  "updatedAt": "2026-11-28T08:35:21.251Z"
+  "updatedAt": "2026-11-28T08:35:21.251Z",
+  "lastVerified": "2026-11-28T09:56:21.000Z",
+  "qualityScore": 52
 }

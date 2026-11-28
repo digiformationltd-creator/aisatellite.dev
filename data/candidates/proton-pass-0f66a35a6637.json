@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://proton.me/pass"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.238Z",
-  "updatedAt": "2026-11-28T08:35:21.238Z"
+  "updatedAt": "2026-11-28T08:35:21.238Z",
+  "lastVerified": "2026-11-28T10:08:44.347Z",
+  "qualityScore": 52
 }

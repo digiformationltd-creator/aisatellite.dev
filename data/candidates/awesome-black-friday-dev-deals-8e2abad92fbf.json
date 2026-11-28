@@ -30,7 +30,9 @@
   "evidenceUrls": [
     "https://github.com/meSingh/awesome-black-friday-dev-deals"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.889Z",
-  "updatedAt": "2026-11-28T08:35:21.889Z"
+  "updatedAt": "2026-11-28T08:35:21.889Z",
+  "lastVerified": "2026-11-28T09:56:04.044Z",
+  "qualityScore": 75
 }

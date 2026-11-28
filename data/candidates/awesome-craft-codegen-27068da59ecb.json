@@ -32,7 +32,9 @@
   "evidenceUrls": [
     "https://github.com/EdisonTKPcom/Awesome-Craft-CodeGen"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:22.759Z",
-  "updatedAt": "2026-11-28T08:35:22.759Z"
+  "updatedAt": "2026-11-28T08:35:22.759Z",
+  "lastVerified": "2026-11-28T09:56:04.581Z",
+  "qualityScore": 78
 }

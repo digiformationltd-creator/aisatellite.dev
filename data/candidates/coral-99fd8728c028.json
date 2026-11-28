@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://coralproject.net/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.377Z",
-  "updatedAt": "2026-11-28T08:35:21.377Z"
+  "updatedAt": "2026-11-28T08:35:21.377Z",
+  "lastVerified": "2026-11-28T09:58:04.216Z",
+  "qualityScore": 52
 }

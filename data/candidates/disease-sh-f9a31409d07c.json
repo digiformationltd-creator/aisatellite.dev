@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://disease.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.236Z",
-  "updatedAt": "2026-11-28T08:35:21.236Z"
+  "updatedAt": "2026-11-28T08:35:21.236Z",
+  "lastVerified": "2026-11-28T09:58:58.136Z",
+  "qualityScore": 52
 }

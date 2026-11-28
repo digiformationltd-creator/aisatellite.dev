@@ -1,0 +1,22 @@
+{
+  "id": "the-network-tools-11c1ac0cfa4a",
+  "canonicalUrl": "https://thenetworktools.com/",
+  "name": "The Network Tools",
+  "description": "Automated domain and network infrastructure monitoring: scheduled DNS health, SSL certificate expiry, and email security (SPF/DKIM/DMARC) checks with public API and MCP server. Free tier includes 3 monitored domains, webhooks, and 100 req/min API.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://thenetworktools.com",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://thenetworktools.com"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-28T08:35:21.244Z",
+  "updatedAt": "2026-11-28T08:35:21.244Z",
+  "lastVerified": "2026-11-28T10:12:52.033Z",
+  "qualityScore": 52
+}

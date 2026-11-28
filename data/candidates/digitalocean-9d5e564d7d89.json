@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.digitalocean.com/pricing"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.248Z",
-  "updatedAt": "2026-11-28T08:35:21.248Z"
+  "updatedAt": "2026-11-28T08:35:21.248Z",
+  "lastVerified": "2026-11-28T09:58:55.780Z",
+  "qualityScore": 52
 }

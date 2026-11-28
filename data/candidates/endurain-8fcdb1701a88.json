@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://docs.endurain.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.379Z",
-  "updatedAt": "2026-11-28T08:35:21.380Z"
+  "updatedAt": "2026-11-28T08:35:21.380Z",
+  "lastVerified": "2026-11-28T09:59:44.619Z",
+  "qualityScore": 52
 }

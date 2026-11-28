@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://forgecode.dev/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.251Z",
-  "updatedAt": "2026-11-28T08:35:21.251Z"
+  "updatedAt": "2026-11-28T08:35:21.251Z",
+  "lastVerified": "2026-11-28T10:00:47.612Z",
+  "qualityScore": 52
 }

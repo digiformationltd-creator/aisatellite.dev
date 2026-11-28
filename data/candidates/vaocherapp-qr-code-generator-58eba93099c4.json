@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.vaocherapp.com/qr-code-generator"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.250Z",
-  "updatedAt": "2026-11-28T08:35:21.250Z"
+  "updatedAt": "2026-11-28T08:35:21.250Z",
+  "lastVerified": "2026-11-28T10:13:47.599Z",
+  "qualityScore": 52
 }

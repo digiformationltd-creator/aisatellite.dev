@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://fileshot.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.249Z",
-  "updatedAt": "2026-11-28T08:35:21.249Z"
+  "updatedAt": "2026-11-28T08:35:21.249Z",
+  "lastVerified": "2026-11-28T10:00:28.814Z",
+  "qualityScore": 52
 }

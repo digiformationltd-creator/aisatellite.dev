@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://simplepdf.eu/embed"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.246Z",
-  "updatedAt": "2026-11-28T08:35:21.246Z"
+  "updatedAt": "2026-11-28T08:35:21.246Z",
+  "lastVerified": "2026-11-28T10:10:48.448Z",
+  "qualityScore": 52
 }

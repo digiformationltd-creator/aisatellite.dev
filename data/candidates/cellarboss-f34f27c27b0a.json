@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://cellarboss.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.380Z",
-  "updatedAt": "2026-11-28T08:35:21.380Z"
+  "updatedAt": "2026-11-28T08:35:21.380Z",
+  "lastVerified": "2026-11-28T09:57:02.993Z",
+  "qualityScore": 52
 }

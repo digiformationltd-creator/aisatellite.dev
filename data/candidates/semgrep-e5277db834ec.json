@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://semgrep.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.241Z",
-  "updatedAt": "2026-11-28T08:35:21.241Z"
+  "updatedAt": "2026-11-28T08:35:21.241Z",
+  "lastVerified": "2026-11-28T10:10:21.145Z",
+  "qualityScore": 52
 }

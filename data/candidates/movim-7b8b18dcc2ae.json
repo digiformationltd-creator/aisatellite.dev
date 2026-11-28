@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://movim.eu/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.377Z",
-  "updatedAt": "2026-11-28T08:35:21.377Z"
+  "updatedAt": "2026-11-28T08:35:21.377Z",
+  "lastVerified": "2026-11-28T10:06:13.777Z",
+  "qualityScore": 52
 }

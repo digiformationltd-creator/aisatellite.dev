@@ -1,0 +1,22 @@
+{
+  "id": "deviceview-81d5a57b4e85",
+  "canonicalUrl": "https://deviceview.ai/",
+  "name": "DeviceView",
+  "description": "Unattended remote view and control for Android, iOS, Windows, macOS and Linux (including Wayland) devices over peer-to-peer WebRTC, right from the browser, plus automations for self-healing fleets. Free for up to 5 devices.",
+  "category": "free-tools",
+  "tags": [
+    "free-tools",
+    "free-for-dev"
+  ],
+  "officialUrl": "https://deviceview.ai",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "evidenceUrls": [
+    "https://deviceview.ai"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-28T08:35:21.252Z",
+  "updatedAt": "2026-11-28T08:35:21.252Z",
+  "lastVerified": "2026-11-28T09:58:44.114Z",
+  "qualityScore": 52
+}

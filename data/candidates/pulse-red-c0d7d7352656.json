@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pulse.red"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.249Z",
-  "updatedAt": "2026-11-28T08:35:21.249Z"
+  "updatedAt": "2026-11-28T08:35:21.249Z",
+  "lastVerified": "2026-11-28T10:08:48.861Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://livecodes.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.251Z",
-  "updatedAt": "2026-11-28T08:35:21.251Z"
+  "updatedAt": "2026-11-28T08:35:21.251Z",
+  "lastVerified": "2026-11-28T10:04:37.366Z",
+  "qualityScore": 52
 }

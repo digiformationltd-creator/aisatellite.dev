@@ -1,0 +1,35 @@
+{
+  "id": "app-quality-2aacc5afac52",
+  "canonicalUrl": "https://github.com/hudagraph/app-quality",
+  "name": "app-quality",
+  "description": "Kumpulan aturan & SOP pengembangan aplikasi berkualitas (UI/UX, Arsitektur, Performa, Keamanan & QA) dalam format Agent Skill (SKILL.md) untuk AI coding assistant.",
+  "category": "ai-coding",
+  "tags": [
+    "agent-skills",
+    "ai-coding",
+    "clean-code",
+    "cursorrules",
+    "production-readiness",
+    "skill-md",
+    "software-quality",
+    "vibe-coding",
+    "web-development",
+    "windsurfrules"
+  ],
+  "repositoryUrl": "https://github.com/hudagraph/app-quality",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/hudagraph/app-quality/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-28T08:26:08Z",
+  "evidenceUrls": [
+    "https://github.com/hudagraph/app-quality"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-28T08:35:22.759Z",
+  "updatedAt": "2026-11-28T08:35:22.759Z",
+  "lastVerified": "2026-11-28T09:55:42.748Z",
+  "qualityScore": 78
+}

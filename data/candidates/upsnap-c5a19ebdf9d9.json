@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/seriousm4x/UpSnap"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.381Z",
-  "updatedAt": "2026-11-28T08:35:21.381Z"
+  "updatedAt": "2026-11-28T08:35:21.381Z",
+  "lastVerified": "2026-11-28T10:13:37.297Z",
+  "qualityScore": 55
 }

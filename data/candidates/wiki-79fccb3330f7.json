@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://zoho.com/wiki"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.235Z",
-  "updatedAt": "2026-11-28T08:35:21.235Z"
+  "updatedAt": "2026-11-28T08:35:21.235Z",
+  "lastVerified": "2026-11-28T10:14:24.048Z",
+  "qualityScore": 52
 }

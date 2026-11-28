@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://leomoon.com/downloads/web-apps/wiki-go/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.383Z",
-  "updatedAt": "2026-11-28T08:35:21.383Z"
+  "updatedAt": "2026-11-28T08:35:21.383Z",
+  "lastVerified": "2026-11-28T10:14:24.535Z",
+  "qualityScore": 52
 }

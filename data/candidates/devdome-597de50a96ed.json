@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://devdome.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.251Z",
-  "updatedAt": "2026-11-28T08:35:21.251Z"
+  "updatedAt": "2026-11-28T08:35:21.251Z",
+  "lastVerified": "2026-11-28T09:58:42.015Z",
+  "qualityScore": 52
 }

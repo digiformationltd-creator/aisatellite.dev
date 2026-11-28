@@ -1,0 +1,38 @@
+{
+  "id": "liminika-b7edd4e0c187",
+  "canonicalUrl": "https://github.com/flat-sauce-works/LiminiKa",
+  "name": "LiminiKa",
+  "description": "A lightweight local LLM core engine and DSL for long-term dialogue",
+  "category": "local-llm",
+  "tags": [
+    "character-ai",
+    "cpp",
+    "ddlc",
+    "dsl",
+    "edge-llm",
+    "kv-cache",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "long-term-memory",
+    "low-vram",
+    "monika",
+    "persona",
+    "rope",
+    "rust"
+  ],
+  "repositoryUrl": "https://github.com/flat-sauce-works/LiminiKa",
+  "freeClassification": "unknown",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-28T08:05:37Z",
+  "evidenceUrls": [
+    "https://github.com/flat-sauce-works/LiminiKa"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-28T08:35:22.334Z",
+  "updatedAt": "2026-11-28T08:35:22.334Z",
+  "lastVerified": "2026-11-28T10:04:30.731Z",
+  "qualityScore": 64
+}

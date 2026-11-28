@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://timelogicapi.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.237Z",
-  "updatedAt": "2026-11-28T08:35:21.237Z"
+  "updatedAt": "2026-11-28T08:35:21.237Z",
+  "lastVerified": "2026-11-28T10:12:59.331Z",
+  "qualityScore": 52
 }

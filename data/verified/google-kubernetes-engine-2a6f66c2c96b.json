@@ -15,8 +15,8 @@
     "https://cloud.google.com/kubernetes-engine"
   ],
   "status": "verified",
-  "discoveredAt": "2026-11-27T09:18:00.156Z",
-  "updatedAt": "2026-11-27T09:18:00.156Z",
-  "lastVerified": "2026-11-27T10:46:06.427Z",
+  "discoveredAt": "2026-11-28T08:35:21.234Z",
+  "updatedAt": "2026-11-28T08:35:21.234Z",
+  "lastVerified": "2026-11-28T10:02:05.196Z",
   "qualityScore": 52
 }

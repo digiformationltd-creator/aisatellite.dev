@@ -27,7 +27,9 @@
   "evidenceUrls": [
     "https://github.com/DA3M0/Cheetah"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:22.334Z",
-  "updatedAt": "2026-11-28T08:35:22.334Z"
+  "updatedAt": "2026-11-28T08:35:22.334Z",
+  "lastVerified": "2026-11-28T09:57:16.464Z",
+  "qualityScore": 80
 }

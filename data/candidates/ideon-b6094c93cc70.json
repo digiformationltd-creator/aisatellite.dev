@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.theideon.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.382Z",
-  "updatedAt": "2026-11-28T08:35:21.382Z"
+  "updatedAt": "2026-11-28T08:35:21.382Z",
+  "lastVerified": "2026-11-28T10:03:00.020Z",
+  "qualityScore": 52
 }

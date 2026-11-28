@@ -1,0 +1,32 @@
+{
+  "id": "awesome-local-llm-serving-apple-silicon-inference-4e895699cae0",
+  "canonicalUrl": "https://github.com/ishandutta2007/Awesome-Local-LLM-Serving-Apple-Silicon-Inference",
+  "name": "Awesome-Local-LLM-Serving-Apple-Silicon-Inference",
+  "description": "Top Local LLM Serving Apple Silicon Inference (Opensource)  Star if you like it!",
+  "category": "local-llm",
+  "tags": [
+    "apple-silicon",
+    "awesome-list",
+    "curated-list",
+    "llm-inference",
+    "local-llm",
+    "mlx",
+    "model-serving"
+  ],
+  "repositoryUrl": "https://github.com/ishandutta2007/Awesome-Local-LLM-Serving-Apple-Silicon-Inference",
+  "licenseSpdx": "MIT",
+  "licenseEvidenceUrl": "https://github.com/ishandutta2007/Awesome-Local-LLM-Serving-Apple-Silicon-Inference/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-28T07:41:28Z",
+  "evidenceUrls": [
+    "https://github.com/ishandutta2007/Awesome-Local-LLM-Serving-Apple-Silicon-Inference"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-28T08:35:22.334Z",
+  "updatedAt": "2026-11-28T08:35:22.334Z",
+  "lastVerified": "2026-11-28T09:56:06.775Z",
+  "qualityScore": 78
+}

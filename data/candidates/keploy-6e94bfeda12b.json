@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://keploy.io/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.239Z",
-  "updatedAt": "2026-11-28T08:35:21.239Z"
+  "updatedAt": "2026-11-28T08:35:21.239Z",
+  "lastVerified": "2026-11-28T10:03:54.166Z",
+  "qualityScore": 52
 }

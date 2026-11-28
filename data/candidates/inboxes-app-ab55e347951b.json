@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://inboxesapp.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.245Z",
-  "updatedAt": "2026-11-28T08:35:21.245Z"
+  "updatedAt": "2026-11-28T08:35:21.245Z",
+  "lastVerified": "2026-11-28T10:03:06.656Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://webvizio.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.238Z",
-  "updatedAt": "2026-11-28T08:35:21.238Z"
+  "updatedAt": "2026-11-28T08:35:21.238Z",
+  "lastVerified": "2026-11-28T10:14:18.677Z",
+  "qualityScore": 52
 }

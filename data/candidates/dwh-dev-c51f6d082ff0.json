@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://dwh.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.251Z",
-  "updatedAt": "2026-11-28T08:35:21.251Z"
+  "updatedAt": "2026-11-28T08:35:21.251Z",
+  "lastVerified": "2026-11-28T09:59:27.511Z",
+  "qualityScore": 52
 }

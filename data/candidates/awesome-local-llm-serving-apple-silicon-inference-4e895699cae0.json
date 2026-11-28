@@ -24,7 +24,9 @@
   "evidenceUrls": [
     "https://github.com/ishandutta2007/Awesome-Local-LLM-Serving-Apple-Silicon-Inference"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:22.334Z",
-  "updatedAt": "2026-11-28T08:35:22.334Z"
+  "updatedAt": "2026-11-28T08:35:22.334Z",
+  "lastVerified": "2026-11-28T09:56:06.775Z",
+  "qualityScore": 78
 }

@@ -15,8 +15,10 @@
   "evidenceUrls": [
     "https://stoat.chat/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.376Z",
   "updatedAt": "2026-11-28T08:35:22.761Z",
-  "githubStars": 0
+  "githubStars": 0,
+  "lastVerified": "2026-11-28T10:11:52.812Z",
+  "qualityScore": 52
 }

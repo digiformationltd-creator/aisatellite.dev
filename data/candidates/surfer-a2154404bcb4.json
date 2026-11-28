@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://git.cloudron.io/cloudron/surfer"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.379Z",
-  "updatedAt": "2026-11-28T08:35:21.379Z"
+  "updatedAt": "2026-11-28T08:35:21.379Z",
+  "lastVerified": "2026-11-28T10:12:11.319Z",
+  "qualityScore": 52
 }

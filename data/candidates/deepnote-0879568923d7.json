@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://deepnote.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.236Z",
-  "updatedAt": "2026-11-28T08:35:21.236Z"
+  "updatedAt": "2026-11-28T08:35:21.236Z",
+  "lastVerified": "2026-11-28T09:58:34.345Z",
+  "qualityScore": 52
 }

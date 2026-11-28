@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://agenta.ai/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.379Z",
-  "updatedAt": "2026-11-28T08:35:21.379Z"
+  "updatedAt": "2026-11-28T08:35:21.379Z",
+  "lastVerified": "2026-11-28T09:55:14.576Z",
+  "qualityScore": 52
 }

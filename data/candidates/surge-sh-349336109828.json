@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://surge.sh/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.248Z",
-  "updatedAt": "2026-11-28T08:35:21.248Z"
+  "updatedAt": "2026-11-28T08:35:21.248Z",
+  "lastVerified": "2026-11-28T10:12:11.580Z",
+  "qualityScore": 52
 }

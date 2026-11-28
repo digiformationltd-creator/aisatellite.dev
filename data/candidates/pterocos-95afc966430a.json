@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pterocos.eu.org"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.251Z",
-  "updatedAt": "2026-11-28T08:35:21.251Z"
+  "updatedAt": "2026-11-28T08:35:21.251Z",
+  "lastVerified": "2026-11-28T10:08:46.531Z",
+  "qualityScore": 52
 }

@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://github.com/b310-digital/teammapper"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.380Z",
-  "updatedAt": "2026-11-28T08:35:21.380Z"
+  "updatedAt": "2026-11-28T08:35:21.380Z",
+  "lastVerified": "2026-11-28T10:12:34.082Z",
+  "qualityScore": 55
 }

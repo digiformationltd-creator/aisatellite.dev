@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://workos.com/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.241Z",
-  "updatedAt": "2026-11-28T08:35:21.241Z"
+  "updatedAt": "2026-11-28T08:35:21.241Z",
+  "lastVerified": "2026-11-28T10:14:34.903Z",
+  "qualityScore": 52
 }

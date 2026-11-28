@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://pingzen.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.242Z",
-  "updatedAt": "2026-11-28T08:35:21.242Z"
+  "updatedAt": "2026-11-28T08:35:21.242Z",
+  "lastVerified": "2026-11-28T10:08:12.135Z",
+  "qualityScore": 52
 }

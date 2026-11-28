@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://mybinder.org/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.250Z",
-  "updatedAt": "2026-11-28T08:35:21.250Z"
+  "updatedAt": "2026-11-28T08:35:21.250Z",
+  "lastVerified": "2026-11-28T09:56:27.974Z",
+  "qualityScore": 52
 }

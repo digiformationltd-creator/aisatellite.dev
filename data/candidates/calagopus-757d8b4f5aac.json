@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://calagopus.com"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.379Z",
-  "updatedAt": "2026-11-28T08:35:21.379Z"
+  "updatedAt": "2026-11-28T08:35:21.379Z",
+  "lastVerified": "2026-11-28T09:56:54.460Z",
+  "qualityScore": 52
 }

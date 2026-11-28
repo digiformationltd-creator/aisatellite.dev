@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://www.zoho.com/apptics/"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.235Z",
-  "updatedAt": "2026-11-28T08:35:21.235Z"
+  "updatedAt": "2026-11-28T08:35:21.235Z",
+  "lastVerified": "2026-11-28T10:14:59.326Z",
+  "qualityScore": 52
 }

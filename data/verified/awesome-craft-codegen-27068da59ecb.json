@@ -1,0 +1,40 @@
+{
+  "id": "awesome-craft-codegen-27068da59ecb",
+  "canonicalUrl": "https://github.com/EdisonTKPcom/Awesome-Craft-CodeGen",
+  "name": "Awesome-Craft-CodeGen",
+  "description": "A curated list of open-source code-generation tools, including open code models, DeepSeek models and tooling, coding harnesses, app and UI generators, IDE assistants, review and test generators, local serving, benchmarks and prompt collections.",
+  "category": "ai-coding",
+  "tags": [
+    "ai",
+    "ai-coding",
+    "awesome",
+    "awesome-list",
+    "benchmarks",
+    "code-generation",
+    "code-models",
+    "code-review",
+    "coding-agents",
+    "deepseek",
+    "ide",
+    "llm",
+    "open-source",
+    "prompts",
+    "test-generation"
+  ],
+  "repositoryUrl": "https://github.com/EdisonTKPcom/Awesome-Craft-CodeGen",
+  "licenseSpdx": "CC0-1.0",
+  "licenseEvidenceUrl": "https://github.com/EdisonTKPcom/Awesome-Craft-CodeGen/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-28T05:07:02Z",
+  "evidenceUrls": [
+    "https://github.com/EdisonTKPcom/Awesome-Craft-CodeGen"
+  ],
+  "status": "verified",
+  "discoveredAt": "2026-11-28T08:35:22.759Z",
+  "updatedAt": "2026-11-28T08:35:22.759Z",
+  "lastVerified": "2026-11-28T09:56:04.581Z",
+  "qualityScore": 78
+}

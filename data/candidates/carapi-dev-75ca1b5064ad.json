@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "https://carapi.dev"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.236Z",
-  "updatedAt": "2026-11-28T08:35:21.236Z"
+  "updatedAt": "2026-11-28T08:35:21.236Z",
+  "lastVerified": "2026-11-28T09:56:58.671Z",
+  "qualityScore": 52
 }

@@ -29,9 +29,10 @@
   "evidenceUrls": [
     "https://github.com/oxstack/ox-llm"
   ],
-  "status": "verified",
+  "status": "rejected",
   "discoveredAt": "2026-11-22T07:38:44.566Z",
   "updatedAt": "2026-11-22T07:38:44.566Z",
   "lastVerified": "2026-11-27T10:52:20.625Z",
-  "qualityScore": 78
+  "qualityScore": 78,
+  "rejectionReason": "Canonical link unreachable"
 }

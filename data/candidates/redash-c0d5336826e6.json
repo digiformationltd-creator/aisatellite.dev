@@ -14,7 +14,9 @@
   "evidenceUrls": [
     "http://redash.io"
   ],
-  "status": "discovered",
+  "status": "verified",
   "discoveredAt": "2026-11-28T08:35:21.376Z",
-  "updatedAt": "2026-11-28T08:35:21.376Z"
+  "updatedAt": "2026-11-28T08:35:21.376Z",
+  "lastVerified": "2026-11-28T10:09:09.632Z",
+  "qualityScore": 52
 }
