@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-the-network-tools-11c1ac0cfa4a-guide",
+  "title": "How to Deploy The Network Tools in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-the-network-tools-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for The Network Tools.",
+  "targetKeywords": [
+    "The Network Tools",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://thenetworktools.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting The Network Tools with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.652Z"
+}

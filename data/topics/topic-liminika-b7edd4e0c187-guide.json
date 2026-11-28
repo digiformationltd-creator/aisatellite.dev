@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-liminika-b7edd4e0c187-guide",
+  "title": "How to Deploy LiminiKa in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-liminika-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for LiminiKa.",
+  "targetKeywords": [
+    "LiminiKa",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/flat-sauce-works/LiminiKa"
+  ],
+  "priorityScore": 74,
+  "contentGapRationale": "High developer demand for self-hosting LiminiKa with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.650Z"
+}

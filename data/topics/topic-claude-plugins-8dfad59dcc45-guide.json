@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-claude-plugins-8dfad59dcc45-guide",
+  "title": "How to Deploy claude-plugins in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-claude-plugins-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for claude-plugins.",
+  "targetKeywords": [
+    "claude-plugins",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/aiocean/claude-plugins"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting claude-plugins with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.649Z"
+}

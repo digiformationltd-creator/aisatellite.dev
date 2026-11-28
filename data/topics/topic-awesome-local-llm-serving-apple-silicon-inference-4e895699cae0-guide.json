@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-awesome-local-llm-serving-apple-silicon-inference-4e895699cae0-guide",
+  "title": "How to Deploy Awesome-Local-LLM-Serving-Apple-Silicon-Inference in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-awesome-local-llm-serving-apple-silicon-inference-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Awesome-Local-LLM-Serving-Apple-Silicon-Inference.",
+  "targetKeywords": [
+    "Awesome-Local-LLM-Serving-Apple-Silicon-Inference",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/ishandutta2007/Awesome-Local-LLM-Serving-Apple-Silicon-Inference"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting Awesome-Local-LLM-Serving-Apple-Silicon-Inference with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.647Z"
+}

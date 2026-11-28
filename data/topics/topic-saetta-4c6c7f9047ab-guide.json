@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-saetta-4c6c7f9047ab-guide",
+  "title": "How to Deploy saetta in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-saetta-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for saetta.",
+  "targetKeywords": [
+    "saetta",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/antonellof/saetta"
+  ],
+  "priorityScore": 87,
+  "contentGapRationale": "High developer demand for self-hosting saetta with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.651Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-smarttoolzai-free-tools-edb31d70a39b-guide",
+  "title": "How to Deploy smarttoolzai-free-tools in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-smarttoolzai-free-tools-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for smarttoolzai-free-tools.",
+  "targetKeywords": [
+    "smarttoolzai-free-tools",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/cbandarac58-del/smarttoolzai-free-tools"
+  ],
+  "priorityScore": 85,
+  "contentGapRationale": "High developer demand for self-hosting smarttoolzai-free-tools with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.652Z"
+}

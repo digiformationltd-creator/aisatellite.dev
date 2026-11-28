@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-deviceview-81d5a57b4e85-guide",
+  "title": "How to Deploy DeviceView in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-deviceview-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for DeviceView.",
+  "targetKeywords": [
+    "DeviceView",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://deviceview.ai"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting DeviceView with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.649Z"
+}

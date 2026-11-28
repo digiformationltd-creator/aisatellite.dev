@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cheetah-c330db49d307-guide",
+  "title": "How to Deploy Cheetah in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cheetah-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cheetah.",
+  "targetKeywords": [
+    "Cheetah",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/DA3M0/Cheetah"
+  ],
+  "priorityScore": 90,
+  "contentGapRationale": "High developer demand for self-hosting Cheetah with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.649Z"
+}

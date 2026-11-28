@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloud-firestore-390adf64a58d-guide",
+  "title": "How to Deploy Cloud Firestore in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloud-firestore-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloud Firestore.",
+  "targetKeywords": [
+    "Cloud Firestore",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com/firestore"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cloud Firestore with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.649Z"
+}

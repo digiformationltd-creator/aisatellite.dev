@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-rudy-lang-a8c6cbd597b9-guide",
+  "title": "How to Deploy rudy-lang in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-rudy-lang-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for rudy-lang.",
+  "targetKeywords": [
+    "rudy-lang",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/RudyCity/rudy-lang"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting rudy-lang with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.651Z"
+}

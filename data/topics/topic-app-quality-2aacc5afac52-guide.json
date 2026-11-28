@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-app-quality-2aacc5afac52-guide",
+  "title": "How to Deploy app-quality in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-app-quality-production",
+  "category": "ai-coding",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for app-quality.",
+  "targetKeywords": [
+    "app-quality",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/hudagraph/app-quality"
+  ],
+  "priorityScore": 88,
+  "contentGapRationale": "High developer demand for self-hosting app-quality with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.647Z"
+}

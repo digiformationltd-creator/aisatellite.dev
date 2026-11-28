@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-relaytv-83ece684f907-guide",
+  "title": "How to Deploy RelayTV in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-relaytv-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for RelayTV.",
+  "targetKeywords": [
+    "RelayTV",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://relaytv.app"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting RelayTV with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.651Z"
+}

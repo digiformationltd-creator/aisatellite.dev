@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-q36-a2afddb6d5ec-guide",
+  "title": "How to Deploy q36 in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-q36-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for q36.",
+  "targetKeywords": [
+    "q36",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/Ninnix/q36"
+  ],
+  "priorityScore": 90,
+  "contentGapRationale": "High developer demand for self-hosting q36 with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.651Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-openset-llm-ee4fc3e57561-guide",
+  "title": "How to Deploy openset-llm in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-openset-llm-production",
+  "category": "local-llm",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for openset-llm.",
+  "targetKeywords": [
+    "openset-llm",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/opensetlabs/openset-llm"
+  ],
+  "priorityScore": 93,
+  "contentGapRationale": "High developer demand for self-hosting openset-llm with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.651Z"
+}

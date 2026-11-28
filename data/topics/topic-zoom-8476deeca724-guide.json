@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-zoom-8476deeca724-guide",
+  "title": "How to Deploy zoom in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-zoom-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for zoom.",
+  "targetKeywords": [
+    "zoom",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://zoom.com/"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting zoom with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.652Z"
+}

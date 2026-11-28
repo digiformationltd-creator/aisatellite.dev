@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-cloud-shell-3cded9cb7320-guide",
+  "title": "How to Deploy Cloud Shell in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-cloud-shell-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for Cloud Shell.",
+  "targetKeywords": [
+    "Cloud Shell",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://cloud.google.com/shell"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting Cloud Shell with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.649Z"
+}

@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-ipdatum-586565e62ff7-guide",
+  "title": "How to Deploy IPDatum in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-ipdatum-production",
+  "category": "free-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for IPDatum.",
+  "targetKeywords": [
+    "IPDatum",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://www.ipdatum.com"
+  ],
+  "priorityScore": 62,
+  "contentGapRationale": "High developer demand for self-hosting IPDatum with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.650Z"
+}

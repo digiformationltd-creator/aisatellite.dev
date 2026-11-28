@@ -1,0 +1,21 @@
+{
+  "topicId": "topic-tidydisk-54c83fb2d708-guide",
+  "title": "How to Deploy tidydisk in Production: Self-Hosting & Configuration Playbook",
+  "slug": "how-to-deploy-tidydisk-production",
+  "category": "free-ai-tools",
+  "searchIntent": "Comprehensive production self-hosting and architecture guide for tidydisk.",
+  "targetKeywords": [
+    "tidydisk",
+    "self-hosted",
+    "production architecture",
+    "open-source"
+  ],
+  "evidenceReferences": [
+    "https://github.com/prateekcode/tidydisk"
+  ],
+  "priorityScore": 95,
+  "contentGapRationale": "High developer demand for self-hosting tidydisk with verified license details.",
+  "recommendedPartner": "none",
+  "approvedForDrafting": false,
+  "proposedAt": "2026-11-28T12:45:39.652Z"
+}
