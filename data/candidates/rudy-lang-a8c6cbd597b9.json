@@ -1,0 +1,37 @@
+{
+  "id": "rudy-lang-a8c6cbd597b9",
+  "canonicalUrl": "https://github.com/RudyCity/rudy-lang",
+  "name": "rudy-lang",
+  "description": "RudyLang: an independent, single-binary C11 programming language and AI runtime - bytecode VM, trace JIT, native tensors/autograd, and local GGUF inference with OpenAI-compatible serving.",
+  "category": "local-llm",
+  "tags": [
+    "ai-runtime",
+    "bytecode",
+    "c11",
+    "compiler",
+    "cuda",
+    "gguf",
+    "interpreter",
+    "jit",
+    "llm",
+    "llm-inference",
+    "openai-compatible",
+    "programming-language",
+    "security",
+    "virtual-machine"
+  ],
+  "repositoryUrl": "https://github.com/RudyCity/rudy-lang",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/RudyCity/rudy-lang/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 0,
+  "githubForks": 0,
+  "lastRepositoryUpdate": "2026-11-28T08:15:31Z",
+  "evidenceUrls": [
+    "https://github.com/RudyCity/rudy-lang"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-28T08:35:22.334Z",
+  "updatedAt": "2026-11-28T08:35:22.334Z"
+}

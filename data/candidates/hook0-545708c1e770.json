@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.hook0.com/"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-27T09:18:00.157Z",
-  "updatedAt": "2026-11-27T09:18:00.157Z",
-  "lastVerified": "2026-11-27T10:46:46.918Z",
-  "qualityScore": 52
+  "status": "discovered",
+  "discoveredAt": "2026-11-28T08:35:21.236Z",
+  "updatedAt": "2026-11-28T08:35:21.236Z"
 }

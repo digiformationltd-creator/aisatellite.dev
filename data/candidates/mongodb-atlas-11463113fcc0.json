@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://www.mongodb.com/cloud/atlas"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-27T09:18:00.164Z",
-  "updatedAt": "2026-11-27T09:18:00.164Z",
-  "lastVerified": "2026-11-27T10:50:34.663Z",
-  "qualityScore": 47
+  "status": "discovered",
+  "discoveredAt": "2026-11-28T08:35:21.248Z",
+  "updatedAt": "2026-11-28T08:35:21.248Z"
 }

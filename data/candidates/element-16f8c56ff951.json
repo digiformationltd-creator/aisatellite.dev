@@ -16,10 +16,8 @@
     "https://element.io/",
     "https://element.io"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-27T09:18:00.305Z",
-  "updatedAt": "2026-11-27T09:18:01.904Z",
-  "githubStars": 0,
-  "lastVerified": "2026-11-27T10:43:27.841Z",
-  "qualityScore": 57
+  "status": "discovered",
+  "discoveredAt": "2026-11-28T08:35:21.376Z",
+  "updatedAt": "2026-11-28T08:35:22.761Z",
+  "githubStars": 0
 }

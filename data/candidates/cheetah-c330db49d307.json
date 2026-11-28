@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-c330db49d307",
+  "canonicalUrl": "https://github.com/DA3M0/Cheetah",
+  "name": "Cheetah",
+  "description": "An ultra-lean local LLM inference engine. Native Safetensors support, dual CPU/Vulkan backends, and a modular operator ecosystem with custom Shader extensions. Built for Agents and edge computing.",
+  "category": "local-llm",
+  "tags": [
+    "agent-backend",
+    "agentic-ai",
+    "api-gateway",
+    "llm",
+    "llm-inference",
+    "local-ai",
+    "local-llm",
+    "rust",
+    "rust-cli",
+    "safetensors"
+  ],
+  "repositoryUrl": "https://github.com/DA3M0/Cheetah",
+  "licenseSpdx": "Apache-2.0",
+  "licenseEvidenceUrl": "https://github.com/DA3M0/Cheetah/blob/main/LICENSE",
+  "freeClassification": "open_source",
+  "freeTierLimitations": [],
+  "githubStars": 60,
+  "githubForks": 5,
+  "lastRepositoryUpdate": "2026-11-28T08:08:26Z",
+  "evidenceUrls": [
+    "https://github.com/DA3M0/Cheetah"
+  ],
+  "status": "discovered",
+  "discoveredAt": "2026-11-28T08:35:22.334Z",
+  "updatedAt": "2026-11-28T08:35:22.334Z"
+}

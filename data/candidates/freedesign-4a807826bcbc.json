@@ -25,13 +25,11 @@
   "freeTierLimitations": [],
   "githubStars": 75,
   "githubForks": 5,
-  "lastRepositoryUpdate": "2026-11-22T05:16:24Z",
+  "lastRepositoryUpdate": "2026-11-27T17:56:33Z",
   "evidenceUrls": [
     "https://github.com/AIPMAndy/FreeDesign"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-26T09:02:13.746Z",
-  "updatedAt": "2026-11-26T09:02:13.746Z",
-  "lastVerified": "2026-11-27T10:45:02.285Z",
-  "qualityScore": 91
+  "status": "discovered",
+  "discoveredAt": "2026-11-28T08:35:21.889Z",
+  "updatedAt": "2026-11-28T08:35:21.889Z"
 }

@@ -20,13 +20,11 @@
   "freeTierLimitations": [],
   "githubStars": 5,
   "githubForks": 0,
-  "lastRepositoryUpdate": "2026-11-20T06:18:38Z",
+  "lastRepositoryUpdate": "2026-11-28T03:15:12Z",
   "evidenceUrls": [
     "https://github.com/821869798/aitoolplus"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-20T07:54:06.364Z",
-  "updatedAt": "2026-11-20T07:54:06.364Z",
-  "lastVerified": "2026-11-27T10:38:28.529Z",
-  "qualityScore": 64
+  "status": "discovered",
+  "discoveredAt": "2026-11-28T08:35:22.759Z",
+  "updatedAt": "2026-11-28T08:35:22.759Z"
 }

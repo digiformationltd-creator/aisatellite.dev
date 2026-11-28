@@ -14,9 +14,7 @@
   "evidenceUrls": [
     "https://github.com/a1ex4/ownfoil"
   ],
-  "status": "verified",
-  "discoveredAt": "2026-11-27T09:18:00.307Z",
-  "updatedAt": "2026-11-27T09:18:00.307Z",
-  "lastVerified": "2026-11-27T10:52:19.962Z",
-  "qualityScore": 55
+  "status": "discovered",
+  "discoveredAt": "2026-11-28T08:35:21.379Z",
+  "updatedAt": "2026-11-28T08:35:21.379Z"
 }

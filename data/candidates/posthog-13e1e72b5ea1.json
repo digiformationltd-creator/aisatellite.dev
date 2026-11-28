@@ -15,9 +15,8 @@
   "evidenceUrls": [
     "https://posthog.com"
   ],
-  "status": "rejected",
-  "discoveredAt": "2026-11-27T09:18:00.305Z",
-  "updatedAt": "2026-11-27T09:18:01.903Z",
-  "githubStars": 0,
-  "rejectionReason": "Canonical link unreachable; No license information provided. Public availability does not imply open source.; Ineligible classification: unknown"
+  "status": "discovered",
+  "discoveredAt": "2026-11-28T08:35:21.376Z",
+  "updatedAt": "2026-11-28T08:35:22.761Z",
+  "githubStars": 0
 }
